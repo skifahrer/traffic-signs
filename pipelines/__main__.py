@@ -3,12 +3,14 @@
     python -m pipelines                  # every country
     python -m pipelines sk cz            # only these countries
     python -m pipelines --list           # show the available countries
+    python -m pipelines all --matrix     # the selected countries as JSON, for a CI job matrix
     python -m pipelines sk --check -v    # report what would change, log every sign
 """
 
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 
 from .core import layout, log, report
@@ -26,6 +28,9 @@ def main(argv: list[str] | None = None) -> int:
         "countries", nargs="*", metavar="country", help=f"country codes or `all` (default); available: {', '.join(sources)}"
     )
     parser.add_argument("--list", action="store_true", help="list the available countries and exit")
+    parser.add_argument(
+        "--matrix", action="store_true", help='print the selected countries as a JSON list (["sk", ...]) and exit'
+    )
     parser.add_argument("--check", action="store_true", help="report changes without writing anything")
     parser.add_argument("--no-images", action="store_true", help="skip Commons metadata and image downloads")
     parser.add_argument("--prune", action="store_true", help="delete signs that left the page instead of archiving them")
@@ -47,6 +52,9 @@ def main(argv: list[str] | None = None) -> int:
         parser.error(f"unknown country {', '.join(unknown)}; available: {', '.join(sources)}")
     if args.wikitext and len(requested) != 1:
         parser.error("--wikitext needs exactly one country")
+    if args.matrix:
+        print(json.dumps(requested))
+        return 0
 
     log.verbose = args.verbose
     log.info(f"Syncing {', '.join(requested)}")

@@ -93,7 +93,10 @@ It needs Python 3.9+ and nothing else.
 
 ### Images and the archive
 
-Each run compares the image on disk with Commons by SHA-1:
+Each run compares the image on disk with Commons by SHA-1. The SHA-1 comes
+from the Commons API together with the licence and author (50 files per
+request), so images are never downloaded just to compare them; only the local
+copy is hashed:
 
 | Situation | What the sync does |
 | --- | --- |
@@ -193,13 +196,21 @@ The command line and the sync workflow find the new country automatically.
 
 ### Automatic updates
 
-[`.github/workflows/sync.yml`](.github/workflows/sync.yml) syncs every country
-each Monday. From the Actions tab, *Sync signs from Wikipedia → Run workflow*
-takes `all` or a list of country codes, plus the prune and verbose switches. It
-opens (or updates) a pull request on `sync/<countries>` with the changes and a
-report listing new, changed, removed and untranslated signs. For it to open
-pull requests, enable *Settings → Actions → General → Allow GitHub Actions to
-create and approve pull requests*.
+[`.github/workflows/sync.yml`](.github/workflows/sync.yml) runs every Monday
+for all countries, or from the Actions tab: *Sync signs from Wikipedia → Run
+workflow*, where the **Country** dropdown offers `all` or a single country,
+plus the prune and verbose switches.
+
+The run starts with a **Start** job that runs the tests and picks the
+countries. Each country is then its own **Sync <country>** job. They run one
+after another, a failing country does not stop the next, and each opens (or
+updates) its own pull request on `sync/<country>` with a report listing new,
+changed, archived and untranslated signs.
+
+When you add a country, add it to the dropdown's `options` in `sync.yml` too;
+`tests/test_workflow.py` fails until the list matches `pipelines/countries`.
+For the jobs to open pull requests, enable *Settings → Actions → General →
+Allow GitHub Actions to create and approve pull requests*.
 
 ## Licence
 
