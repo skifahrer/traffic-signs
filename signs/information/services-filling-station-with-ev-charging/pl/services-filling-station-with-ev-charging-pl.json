@@ -1,0 +1,11 @@
+{
+  "sign": "services-filling-station-with-ev-charging",
+  "category": "information",
+  "country": "pl",
+  "code": "D-23b",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "PL road sign D-23b.svg"
+  }
+}

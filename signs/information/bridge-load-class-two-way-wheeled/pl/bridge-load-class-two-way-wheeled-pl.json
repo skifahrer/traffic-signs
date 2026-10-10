@@ -1,0 +1,11 @@
+{
+  "sign": "bridge-load-class-two-way-wheeled",
+  "category": "information",
+  "country": "pl",
+  "code": "W-4",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "PL road sign W-4.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "directional-signal-head-straight-with-cyclists",
+  "category": "traffic-signal",
+  "country": "pl",
+  "code": "S-3a (na wprost)",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "S-3a „sygnalizator kierunkowy na wprost z sygnałami dla kierujących rowerem”.png"
+  }
+}

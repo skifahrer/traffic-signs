@@ -1,0 +1,11 @@
+{
+  "sign": "directional-signal-head-straight-and-left",
+  "category": "traffic-signal",
+  "country": "pl",
+  "code": "S-3 (na wprost i w lewo)",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "S-3 „sygnalizator kierunkowy na wprost i w lewo”.png"
+  }
+}

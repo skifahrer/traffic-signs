@@ -16,6 +16,7 @@ on:
         options:
           - all
           - cz
+          - pl
           - sk
         default: all
       prune:

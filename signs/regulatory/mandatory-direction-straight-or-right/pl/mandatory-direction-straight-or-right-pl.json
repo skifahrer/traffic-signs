@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight-or-right",
+  "category": "regulatory",
+  "country": "pl",
+  "code": "C-6",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "PL road sign C-6.svg"
+  }
+}

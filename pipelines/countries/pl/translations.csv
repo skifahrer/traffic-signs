@@ -1,0 +1,404 @@
+code,category,slug,name_en,name_pl
+A-1,warning,bend-right,Bend (right),niebezpieczny zakręt w prawo
+A-2,warning,bend-left,Bend (left),niebezpieczny zakręt w lewo
+A-3,warning,double-bend-right,Double bend (first to the right),niebezpieczne zakręty — pierwszy w prawo
+A-4,warning,double-bend-left,Double bend (first to the left),niebezpieczne zakręty — pierwszy w lewo
+A-5,warning,intersection,Intersection,skrzyżowanie dróg — skrzyżowanie równorzędne
+A-6a,information,priority-intersection,Intersection with priority,skrzyżowanie z drogą podporządkowaną występującą po obu stronach
+A-6b,information,priority-intersection-side-road-right,Intersection with priority (side road from the right),skrzyżowanie z drogą podporządkowaną występującą po prawej stronie
+A-6c,information,priority-intersection-side-road-left,Intersection with priority (side road from the left),skrzyżowanie z drogą podporządkowaną występującą po lewej stronie
+A-6d,warning,one-way-road-joins-from-right,One-way road joining from the right,wlot drogi jednokierunkowej z prawej strony
+A-6e,warning,one-way-road-joins-from-left,One-way road joining from the left,wlot drogi jednokierunkowej z lewej strony
+A-7,regulatory,give-way,Give way,ustąp pierwszeństwa
+A-8,warning,roundabout-ahead,Roundabout ahead,skrzyżowanie o ruchu okrężnym
+A-9,warning,level-crossing-with-barriers,Level crossing with barriers,przejazd kolejowy z zaporami
+A-10,warning,level-crossing-without-barriers,Level crossing without barriers,przejazd kolejowy bez zapór
+A-11,warning,uneven-road,Uneven road,nierówna droga
+A-11a,warning,speed-bump,Speed bump,próg zwalniający
+A-12a,warning,road-narrows-both-sides,Road narrows (from both sides),zwężenie jezdni — dwustronne
+A-12b,warning,road-narrows-right,Road narrows (from the right),zwężenie jezdni — prawostronne
+A-12c,warning,road-narrows-left,Road narrows (from the left),zwężenie jezdni — lewostronne
+A-13,warning,movable-bridge,Movable bridge,ruchomy most
+A-14,warning,roadworks,Roadworks,roboty na drodze
+A-15,warning,slippery-road,Slippery road,śliska jezdnia
+A-16,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,przejście dla pieszych
+A-17,warning,children,Children,dzieci
+A-18a,warning,farm-animals,Farm animals,zwierzęta gospodarskie
+A-18b,warning,wild-animals,Wild animals,zwierzęta dzikie
+A-19,warning,crosswind,Crosswind,boczny wiatr
+A-20,warning,two-way-traffic,Two-way traffic,odcinek jezdni o ruchu dwukierunkowym
+A-21,warning,trams,Trams,tramwaj
+A-22,warning,steep-descent,Steep descent,niebezpieczny zjazd
+A-23,warning,steep-ascent,Steep ascent,stromy podjazd
+A-24,warning,cyclists,Cyclists,rowerzyści
+A-25,warning,fallen-rocks,Fallen rocks,spadające odłamki skalne
+A-26,warning,low-flying-aircraft,Low-flying aircraft,lotnisko
+A-27,warning,quayside,Quayside or river bank,nabrzeże lub brzeg rzeki
+A-28,warning,loose-gravel,Loose gravel,sypki żwir
+A-29,warning,traffic-signals,Traffic signals,sygnały świetlne
+A-30,warning,danger,Other danger,inne niebezpieczeństwo
+A-31,warning,dangerous-verge,Dangerous verge,niebezpieczne pobocze
+A-31 (lewa),warning,dangerous-verge-left,Dangerous verge (on the left),niebezpieczne pobocze (wariant)
+A-32,warning,ice,Ice,oszronienie jezdni
+A-33,warning,queues,Queues likely,zator drogowy
+A-34,warning,accident,Accident,wypadek drogowy
+B-1,regulatory,no-vehicles,No vehicles,zakaz ruchu w obu kierunkach
+B-2,regulatory,no-entry,No entry,zakaz wjazdu
+B-3,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych
+B-3a,regulatory,no-buses,No entry for buses and trolleybuses,zakaz wjazdu autobusów
+B-4,regulatory,no-motorcycles,No entry for motorcycles,zakaz wjazdu motocykli
+B-5,regulatory,no-goods-vehicles,No entry for goods vehicles,zakaz wjazdu samochodów ciężarowych
+B-5 (odmiana),regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,zakaz wjazdu samochodów ciężarowych (odmiana)
+B-6,regulatory,no-tractors,No entry for tractors,zakaz wjazdu ciągników rolniczych i pojazdów wolnobieżnych
+B-7,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,zakaz wjazdu pojazdów silnikowych z przyczepą
+B-7 (odmiana),regulatory,no-motor-vehicles-with-trailers-over-weight,No motor vehicles with trailers over the weight shown,zakaz wjazdu pojazdów silnikowych z przyczepą (odmiana)
+B-8,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,zakaz wjazdu pojazdów zaprzęgowych
+B-9,regulatory,no-bicycles,No entry for bicycles,zakaz wjazdu rowerów
+B-10,regulatory,no-mopeds,No entry for mopeds,zakaz wjazdu motorowerów
+B-11,regulatory,no-cycle-carts,No entry for cycle carts,zakaz wjazdu wózków rowerowych
+B-12,regulatory,no-handcarts,No entry for handcarts,zakaz wjazdu wózków ręcznych
+B-13,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi
+B-13a,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,zakaz wjazdu pojazdów z towarami niebezpiecznymi
+B-14,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,"zakaz wjazdu pojazdów z towarami, które mogą skazić wodę"
+B-15,regulatory,maximum-width-2m,Maximum width (2 m),zakaz wjazdu pojazdów o szerokości ponad …m
+B-16,regulatory,maximum-height-3-5m,Maximum height (3.5 m),zakaz wjazdu pojazdów o wysokości ponad …m
+B-17,regulatory,maximum-length-6m,Maximum length (6 m),zakaz wjazdu pojazdów o długości ponad …m
+B-18,regulatory,maximum-weight-7t,Maximum weight (7 t),zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad …t
+B-19,regulatory,maximum-axle-weight-10t,Maximum axle weight (10 t),zakaz wjazdu pojazdów o nacisku pojedynczej osi napędowej powyżej …t
+B-20,regulatory,stop,"Stop, give way",stop
+B-21,regulatory,no-left-turn,No left turn,zakaz skręcania w lewo
+B-22,regulatory,no-right-turn,No right turn,zakaz skręcania w prawo
+B-23,regulatory,no-u-turn,No U-turn,zakaz zawracania
+B-24,regulatory,end-of-no-u-turn,End of no U-turn,koniec zakazu zawracania
+B-25,regulatory,no-overtaking,No overtaking,zakaz wyprzedzania
+B-26,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,zakaz wyprzedzania przez samochody ciężarowe
+B-27,regulatory,end-of-no-overtaking,End of no overtaking,koniec zakazu wyprzedzania
+B-28,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,koniec zakazu wyprzedzania przez samochody ciężarowe
+B-29,regulatory,no-horns,Use of horns prohibited,zakaz używania sygnałów dźwiękowych
+B-30,regulatory,end-of-no-horns,End of horns prohibited,koniec zakazu używania sygnałów dźwiękowych
+B-31,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,pierwszeństwo dla nadjeżdżających z przeciwka
+B-32,regulatory,customs-stop,Customs stop,stój — kontrola celna
+B-32a,regulatory,border-control-stop,Border control stop,kontrola graniczna
+B-32b,regulatory,stop-barrier-out-of-order,Stop (barrier out of order),rogatka uszkodzona
+B-32c,regulatory,stop-signals-out-of-order,Stop (traffic signals out of order),sygnalizacja uszkodzona
+B-32d,regulatory,stop-ferry-boarding,Stop (ferry boarding),wjazd na prom
+B-32e,regulatory,police-check-stop,Police check stop,kontrola drogowa
+B-32f,regulatory,stop-toll-collection,Stop (toll collection),pobór opłat
+B-33,regulatory,speed-limit-50,Speed limit (50 km/h),ograniczenie prędkości
+B-34,regulatory,end-of-speed-limit-50,End of speed limit (50 km/h),koniec ograniczenia prędkości
+B-35,regulatory,no-parking,No parking,zakaz postoju
+B-36,regulatory,no-stopping,No stopping,zakaz zatrzymywania się
+B-37,regulatory,no-parking-odd-days,No parking on odd days,zakaz postoju w dni nieparzyste
+B-38,regulatory,no-parking-even-days,No parking on even days,zakaz postoju w dni parzyste
+B-39,regulatory,no-parking-zone,No parking zone,strefa ograniczonego postoju
+B-40,regulatory,end-of-no-parking-zone,End of no parking zone,koniec strefy ograniczonego postoju
+B-41,regulatory,no-pedestrians,No entry for pedestrians,zakaz ruchu pieszych
+B-42,regulatory,end-of-all-restrictions,End of all restrictions,koniec zakazów
+B-43,regulatory,speed-limit-zone-30,Speed limit zone (30 km/h),strefa ograniczonej prędkości
+B-44,regulatory,end-of-speed-limit-zone-30,End of speed limit zone (30 km/h),koniec strefy ograniczonej prędkości
+B-3/4,regulatory,no-motor-vehicles,No motor vehicles,zakaz wjazdu pojazdów silnikowych
+B-6/8,regulatory,no-tractors-or-animal-drawn-vehicles,No entry for tractors or animal-drawn vehicles,zakaz wjazdu ciągników rolniczych i pojazdów zaprzęgowych
+B-9/12,regulatory,no-bicycles-or-handcarts,No entry for bicycles or handcarts,zakaz wjazdu rowerów i wózków ręcznych
+B-13/14,regulatory,no-vehicles-carrying-explosives-or-water-pollutants,"No vehicles carrying explosive, flammable or water-polluting goods",zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi oraz towarami mogącymi skazić wodę
+B-3/4/10,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,zakaz wjazdu pojazdów silnikowych i motorowerów
+B-6/8/9,regulatory,no-vehicles-other-than-cars,No entry for vehicles other than motor cars,zakaz wjazdu pojazdów innych niż samochodowe
+C-1,regulatory,turn-right,Turn right,nakaz jazdy w prawo przed znakiem
+C-2,regulatory,mandatory-direction-right,Mandatory direction (right),nakaz jazdy w prawo za znakiem
+C-3,regulatory,turn-left,Turn left,nakaz jazdy w lewo przed znakiem
+C-4,regulatory,mandatory-direction-left,Mandatory direction (left),nakaz jazdy w lewo za znakiem
+C-5,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),nakaz jazdy prosto
+C-6,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),nakaz jazdy prosto lub w prawo
+C-7,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),nakaz jazdy prosto lub w lewo
+C-8,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),nakaz jazdy w prawo lub w lewo
+C-9,regulatory,pass-on-right,Pass on the right,nakaz jazdy z prawej strony znaku
+C-10,regulatory,pass-on-left,Pass on the left,nakaz jazdy z lewej strony znaku
+C-11,regulatory,pass-on-either-side,Pass on either side,nakaz jazdy z prawej lub lewej strony znaku
+C-12,regulatory,roundabout,Roundabout,"ruch okrężny ,,rondo’’"
+C-13,regulatory,cycle-path,Cycle path,droga dla rowerów
+C-13a,regulatory,end-of-cycle-path,End of cycle path,koniec drogi dla rowerów
+C-14,regulatory,minimum-speed-30,Minimum speed (30 km/h),prędkość minimalna
+C-15,regulatory,end-of-minimum-speed-30,End of minimum speed (30 km/h),koniec minimalnej prędkości
+C-16,regulatory,footpath,Footpath,droga dla pieszych
+C-16a,regulatory,end-of-footpath,End of footpath,koniec drogi dla pieszych
+C-17,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi
+C-18,regulatory,snow-chains-required,Snow chains required,nakaz używania łańcuchów przeciwpoślizgowych
+C-19,regulatory,end-of-snow-chains-required,End of snow chains required,koniec nakazu używania łańcuchów przeciwpoślizgowych
+C-13/16,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,droga dla pieszych i rowerów (ruch pieszych i rowerów na tej samej drodze)
+C-13/16 (piesi z prawej),regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),"droga dla pieszych i rowerów (ruch pieszych prawą stroną drogi, ruch rowerów lewą stroną drogi)"
+C-13/16 (rowery z prawej),regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),"droga dla pieszych i rowerów (ruch rowerów prawą stroną drogi, ruch pieszych lewą stroną drogi)"
+C-13a/16a,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,koniec drogi dla pieszych i rowerów (ruch pieszych i rowerów na tej samej drodze)
+C-13a/16a (piesi z prawej),regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),"koniec drogi dla pieszych i rowerów (ruch pieszych prawą stroną drogi, ruch rowerów lewą stroną drogi)"
+C-13a/16a (piesi z lewej),regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),"koniec drogi dla pieszych i rowerów (ruch pieszych lewą stroną drogi, ruch rowerów prawą stroną drogi)"
+D-1,information,priority-road,Priority road,droga z pierwszeństwem
+D-2,information,end-of-priority-road,End of priority road,koniec drogi z pierwszeństwem
+D-3,information,one-way-traffic,One-way traffic,droga jednokierunkowa
+D-4a,information,dead-end,Dead end,droga bez przejazdu
+D-4b,information,dead-end-side-road-right,Dead-end side road (to the right),wjazd na drogę bez przejazdu
+D-4c,information,dead-end-side-road-left,Dead-end side road (to the left),wjazd na drogę bez przejazdu
+D-5,information,priority-over-oncoming-traffic,Priority over oncoming traffic,pierwszeństwo na zwężonym odcinku drogi
+D-6,information,pedestrian-crossing,Pedestrian crossing,przejście dla pieszych
+D-6a,information,cycle-crossing,Cycle crossing,przejazd dla rowerzystów
+D-6b,information,pedestrian-and-cycle-crossing,Pedestrian and cycle crossing,przejście dla pieszych i przejazd dla rowerzystów
+D-7,information,motor-road,Road for motor vehicles,droga ekspresowa
+D-8,information,end-of-motor-road,End of road for motor vehicles,koniec drogi ekspresowej
+D-9,information,motorway,Motorway,autostrada
+D-10,information,end-of-motorway,End of motorway,koniec autostrady
+D-11,information,bus-lane-start,Start of bus lane,początek pasa ruchu dla autobusów
+D-12,regulatory,public-transport-lane,Public transport lane,pas ruchu dla autobusów
+D-13,information,slow-vehicle-lane,Lane for slow vehicles,początek pasa ruchu powolnego
+D-13a,information,lane-gain,Lane gain,początek pasa ruchu
+D-14,information,lane-reduction,Lane reduction,koniec pasa ruchu
+D-15,information,bus-stop,"Bus, trolleybus or electric bus stop",przystanek autobusowy
+D-16,information,trolleybus-stop,Trolleybus stop,przystanek trolejbusowy
+D-17,information,tram-stop,Tram stop,przystanek tramwajowy
+D-18,regulatory,parking,Parking,parking
+D-18a,regulatory,reserved-parking,Reserved parking,parking – miejsce zastrzeżone
+D-18b,regulatory,parking-garage,Parking (car park building),parking zadaszony
+D-19,information,taxi-rank,Taxi rank,postój taksówek
+D-20,information,end-of-taxi-rank,End of taxi rank,koniec postoju taksówek
+D-21,information,services-hospital,Services (hospital),szpital
+D-21a,information,police,Police,policja
+D-22,information,services-first-aid,Services (first aid),punkt opatrunkowy
+D-23,information,services-filling-station,Services (filling station),stacja paliwowa
+D-23a,information,services-gas-station,Services (gas filling station),stacja paliwowa tylko z gazem do napędu pojazdów
+D-23b,information,services-filling-station-with-ev-charging,Services (filling station with EV charging),stacja paliwowa z punktem ładowania pojazdów elektrycznych
+D-23c,information,services-ev-charging-station,Services (EV charging station),punkt ładowania pojazdów elektrycznych
+D-24,information,services-telephone,Services (telephone),telefon
+D-25,information,services-post-office,Services (post office),poczta
+D-26,information,services-vehicle-repair,Services (vehicle repair),stacja obsługi technicznej
+D-26a,information,services-tyre-repair,Services (tyre repair),wulkanizacja
+D-26b,information,services-car-wash,Services (car wash),myjnia
+D-26c,information,services-toilets,Services (toilets),toaleta publiczna
+D-26d,information,services-showers,Services (showers),natrysk
+D-27,information,services-refreshments,Services (refreshments),bufet lub kawiarnia
+D-28,information,services-restaurant,Services (roadside restaurant),restauracja
+D-29,information,services-hotel-or-motel,Services (hotel or motel),hotel (motel)
+D-30,information,services-campsite,Services (campsite),obozowisko (kemping)
+D-31,information,services-campsite-with-electric-hookups,Services (campsite with electric hook-ups),obozowisko (kemping) wyposażone w podłączenia elektryczne do przyczep
+D-32,information,services-tent-camp,Services (tent camp),pole biwakowe
+D-33,information,services-youth-hostel,Services (youth hostel),schronisko młodzieżowe
+D-34,information,services-information-centre,Services (information centre),punkt informacji turystycznej
+D-34a,information,traffic-radio,Traffic information radio,informacja radiowa o ruchu drogowym
+D-34b,information,services-information-board,Services (combined information board),zbiorcza tablica informacyjna
+D-35,information,pedestrian-subway,Pedestrian subway,przejście podziemne dla pieszych
+D-35a,information,escalator-down,Escalator down,schody ruchome w dół
+D-36,information,pedestrian-footbridge,Pedestrian footbridge,przejście nadziemne dla pieszych
+D-36a,information,escalator-up,Escalator up,schody ruchome w górę
+D-37,information,tunnel,Tunnel,tunel
+D-38,information,end-of-tunnel,End of tunnel,koniec tunelu
+D-39,information,general-rules-information,Information on general rules,dopuszczalne prędkości
+D-39a,information,road-charges,Road charges,opłaty drogowe
+D-40,information,residential-zone,Residential zone,strefa zamieszkania
+D-41,information,end-of-residential-zone,End of residential zone,koniec strefy zamieszkania
+D-42,information,built-up-area,Built-up area,obszar zabudowany
+D-43,information,end-of-built-up-area,End of built-up area,koniec obszaru zabudowanego
+D-44,regulatory,paid-parking-zone,Paid parking zone,strefa płatnego parkowania lub śródmiejska strefa płatnego parkowania
+D-45,regulatory,end-of-paid-parking-zone,End of paid parking zone,koniec strefy płatnego parkowania lub śródmiejskiej strefy płatnego parkowania
+D-46,information,private-road,Internal (private) road,droga wewnętrzna
+D-47,information,end-of-private-road,End of internal (private) road,koniec drogi wewnętrznej
+D-48,information,priority-change-equal-intersection,Change of priority (intersection without priority),zmiana pierwszeństwa (wariant ze znakiem A5)
+D-48 (A-7),information,priority-change-give-way,Change of priority (give way),zmiana pierwszeństwa (wariant ze znakiem A7)
+D-49,information,toll,Toll,pobór opłat
+D-50,information,emergency-lay-by,Emergency lay-by,zatoka
+D-51,information,speed-check,Speed check,automatyczna kontrola prędkości
+D-51a,information,average-speed-check,Average speed check,automatyczna kontrola średniej prędkości
+D-51b,information,end-of-average-speed-check,End of average speed check,koniec automatycznej kontroli średniej prędkości
+D-52,information,traffic-zone,Traffic zone,strefa ruchu
+D-53,information,end-of-traffic-zone,End of traffic zone,koniec strefy ruchu
+D-54,regulatory,low-emission-zone,Low emission zone,strefa czystego transportu
+D-55,regulatory,end-of-low-emission-zone,End of low emission zone,koniec strefy czystego transportu
+E-1,information,advance-direction-sign,Advance direction sign,tablica przeddrogowskazowa
+E-1a,information,advance-direction-sign-motorway,Advance direction sign on the motorway,tablica przeddrogowskazowa na autostradzie
+E-1b,information,advance-direction-sign-to-motorway,Advance direction sign before the motorway entrance,tablica przeddrogowskazowa przed wjazdem na autostradę
+E-2a,information,direction-board-roadside,Direction board beside the road,drogowskaz tablicowy umieszczany obok jezdni
+E-2b,information,direction-board-overhead,Direction board above the road,drogowskaz tablicowy umieszczany nad jezdnią
+E-2d,information,direction-board-overhead-motorway,Direction board above the road (motorway),drogowskaz tablicowy umieszczany nad jezdnią na autostradzie i drodze ekspresowej
+E-2d (droga ekspresowa),information,direction-board-overhead-expressway,Direction board above the road (expressway),drogowskaz tablicowy umieszczany nad jezdnią na drodze ekspresowej
+E-2e,information,direction-board-roadside-to-motorway,Direction board beside the road before the motorway entrance,drogowskaz tablicowy umieszczany obok jezdni przed wjazdem na autostradę
+E-2f,information,direction-board-overhead-to-motorway,Direction board above the road before the motorway entrance,drogowskaz tablicowy umieszczany nad jezdnią przed wjazdem na autostradę
+E-3,information,arrow-sign-with-road-number,Arrow direction sign with road number,drogowskaz w kształcie strzały do miejscowości wskazujący numer drogi
+E-4,information,arrow-sign-with-distance,Arrow direction sign with distance,drogowskaz w kształcie strzały do miejscowości podający do niej odległość
+E-5,information,arrow-sign-to-district,Arrow direction sign to a city district,drogowskaz do dzielnicy miasta
+E-6,information,direction-to-airport,Direction to the airport,drogowskaz do lotniska
+E-6a,information,direction-to-railway-station,Direction to the railway station,drogowskaz do dworca lub stacji kolejowej
+E-6b,information,direction-to-bus-station,Direction to the bus station,drogowskaz do dworca autobusowego
+E-6c,information,direction-to-ferry,Direction to the ferry,drogowskaz do przystani promowej
+E-7,information,direction-to-harbour,Direction to the harbour,drogowskaz do przystani wodnej lub żeglugi
+E-8,information,direction-to-beach,Direction to the beach,drogowskaz do plaży lub miejsca kąpielowego
+E-9,information,direction-to-museum,Direction to the museum,drogowskaz do muzeum
+E-10,information,direction-to-monument,Direction to a monument,drogowskaz do zabytku jako dobra kultury
+E-11,information,direction-to-natural-monument,Direction to a natural monument,drogowskaz do zabytku przyrody
+E-12,information,direction-to-viewpoint,Direction to a viewpoint,drogowskaz do punktu widokowego
+E-12a,information,direction-to-cycle-route,Direction to a cycle route,drogowskaz do szlaku rowerowego
+E-13,information,destination-board,Destination board,tablica kierunkowa
+E-14,information,route-board,Route board,tablica szlaku drogowego
+E-15a,information,road-number-national,National road number,numer drogi krajowej
+E-15b,information,road-number-regional,Regional road number,numer drogi wojewódzkiej
+E-15c,information,motorway-number,Motorway number,numer autostrady
+E-15d,information,expressway-number,Expressway number,numer drogi ekspresowej
+E-16,information,european-road-number-class-a-2-digit,"European road number (class A, 2-digit number)",numer szlaku międzynarodowego
+E-17a,information,place-name-sign,Place name,miejscowość
+E-18a,information,end-of-place-name-sign,End of place name,koniec miejscowości
+E-19a,information,bypass,Bypass,obwodnica
+E-20,information,junction-board,Junction board,tablica węzła drogowego
+E-20a,information,junction-number,Junction number,numer węzła drogowego na autostradzie lub drodze ekspresowej
+E-21,information,district-name,District name,dzielnica (osiedle)
+E-22a,information,tourist-route,Tourist route,samochodowy szlak turystyczny
+E-22b,information,tourist-route-attraction,Attraction on a tourist route,obiekt na samochodowym szlaku turystycznym
+E-22c,information,tourist-information-board,Tourist information board,informacja o obiektach turystycznych
+F-1,information,border-crossing,Border crossing,przejście graniczne
+F-2,information,border-crossing-prohibited,Crossing the border prohibited,przekraczanie granicy zabronione
+F-2a,information,state-border,State border,granica państwa
+F-3,information,administrative-border,Border of an administrative area,granica obszaru administracyjnego
+F-4,information,other-name,"Name of a river, mountains or other place",nazwa rzeki
+F-5,information,advance-prohibition-notice,Advance notice of a prohibition,uprzedzenie o zakazie
+F-6,information,advance-sign-junction,Advance sign before a junction,znak uprzedzający umieszczany przed skrzyżowaniem
+F-6a,information,advance-sign-junction-variant,Advance sign before a junction (variant),wariant znaku uprzedzającego
+F-7,information,route-for-prohibited-left-turn,Route for a prohibited left turn,sposób jazdy w związku z zakazem skręcania w lewo
+F-8,information,detour-announcement,Detour announcement,objazd w związku z zamknięciem drogi
+F-9,information,detour-route-sign,Detour route sign,znak prowadzący na drodze objazdowej
+F-10,information,lane-directions,Directions of the lanes,kierunki na pasach ruchu
+F-11,information,lane-direction,Direction of the lane,kierunki na pasie ruchu
+F-12,information,transit-route-advance,Transit route ahead,znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem
+F-13,information,transit-route,Transit route,przejazd tranzytowy
+F-14a,information,exit-countdown-motorway-300m,Exit countdown on the motorway (300 m),tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania
+F-14b,information,exit-countdown-motorway-200m,Exit countdown on the motorway (200 m),tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania
+F-14c,information,exit-countdown-motorway-100m,Exit countdown on the motorway (100 m),tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania
+F-14d,information,exit-countdown-expressway-300m,Exit countdown on the expressway (300 m),tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 300 m przed pasem wyłączania
+F-14e,information,exit-countdown-expressway-200m,Exit countdown on the expressway (200 m),tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 200 m przed pasem wyłączania
+F-14f,information,exit-countdown-expressway-100m,Exit countdown on the expressway (100 m),tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 100 m przed pasem wyłączania
+F-15,information,asymmetric-carriageway-division,Asymmetric division of the carriageway,niesymetryczny podział jezdni dla przeciwnych kierunków ruchu
+F-16,information,lane-ends-two-way-road,Lane ends (two-way road),koniec pasa ruchu na jezdni dwukierunkowej
+F-17,information,lane-ends-one-way-road,Lane ends (one-way road),koniec pasa ruchu na jezdni jednokierunkowej
+F-18,information,contraflow-for-vehicles-shown,Opposite direction for the vehicles shown,przeciwny kierunek dla określonych pojazdów
+F-19,information,lane-for-vehicles-shown,Lane for the vehicles shown,pas ruchu dla określonych pojazdów
+F-20,information,road-part-for-vehicles-shown,Part of the road for the vehicles shown,część drogi (pas ruchu) dla określonych pojazdów
+F-21,information,traffic-diverted-to-other-carriageway,Traffic diverted to the other carriageway,ruch skierowany na sąsiednią jezdnię
+F-22,information,lane-restriction,Restriction in the lane,ograniczenia na pasie ruchu
+F-23,information,multi-purpose-centre-lane,Multi-purpose centre lane,środkowy pas wielofunkcyjny
+F-24,information,wrong-way,Wrong way,zły kierunek
+T-1,additional-panel,distance,Distance,tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego
+T-1a,additional-panel,distance-to-start-or-end,Distance to the start or end,tabliczka wskazująca odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu
+T-1b,additional-panel,tunnel-length,Tunnel length,tabliczka wskazująca długość tunelu lub odcinek drogi do końca tunelu
+T-2,additional-panel,section-length,Length of section,"tabliczka wskazująca długość odcinka drogi, na którym powtarza się lub występuje niebezpieczeństwo"
+T-3,additional-panel,danger-section-end,End of the dangerous section,"tabliczka wskazująca koniec odcinka, na którym powtarza się lub występuje niebezpieczeństwo"
+T-3a,additional-panel,end-of-parking-place,End of the parking place,tabliczka wskazująca koniec miejsca przeznaczonego na postój
+T-4,additional-panel,count,Number (e.g. of bends),tabliczka wskazująca liczbę zakrętów
+T-5,additional-panel,winding-road-start,Start of winding road,tabliczka wskazująca początek drogi krętej
+T-6a,additional-panel,priority-road-course,Course of the priority road,tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze z pierwszeństwem)
+T-6b,additional-panel,side-roads-layout,Layout of the side roads,tabliczka wskazująca układ dróg podporządkowanych (umieszczana na drodze z pierwszeństwem)
+T-6c,additional-panel,priority-road-course-from-minor-road,Course of the priority road (seen from the minor road),tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze podporządkowanej)
+T-6d,additional-panel,priority-road-and-side-roads-layout,Course of the priority road and layout of the side roads,tabliczka wskazująca prostopadły przebieg drogi z pierwszeństwem przez skrzyżowanie oraz układ dróg podporządkowanych (umieszczana na drodze podporządkowanej)
+T-7,additional-panel,railway-crossing-layout,Layout of the railway crossing,tabliczka wskazująca układ torów i drogi na przejeździe
+T-8,additional-panel,traffic-on-tram-tracks,Traffic directed onto the tram tracks,"tabliczka wskazująca miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe"
+T-9,additional-panel,gradient,Gradient,tabliczka wskazująca rzeczywistą wielkość spadku lub wzniesienia drogi
+T-10,additional-panel,railway-siding,Railway siding,tabliczka wskazująca bocznicę kolejową lub tor o podobnym charakterze
+T-11,additional-panel,ferry-crossing,Ferry crossing,tabliczka wskazująca przeprawę promową
+T-12,additional-panel,road-edge-drop,Longitudinal drop in the road surface,tabliczka wskazująca podłużny uskok nawierzchni
+T-13,additional-panel,ruts,Ruts,"tabliczka wskazująca odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein"
+T-14,additional-panel,accident-black-spot,Accident black spot,tabliczka wskazująca miejsce częstych wypadków o charakterze wskazanym na tabliczce
+T-15,additional-panel,slippery-when-raining,Slippery when raining,tabliczka wskazująca miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu
+T-16,additional-panel,emergency-vehicle-exit,Emergency vehicle exit,tabliczka wskazująca miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce
+T-17,additional-panel,state-border-panel,State border,tabliczka wskazująca granicę państwa
+T-18,additional-panel,unexpected-direction-change,Unexpected change of direction,tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce
+T-18a,additional-panel,unexpected-direction-change-right-then-left,"Unexpected change of direction (right, then left)","tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu najpierw w prawo, a potem w lewo"
+T-18b,additional-panel,unexpected-direction-change-left,Unexpected change of direction (left),tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu w lewo
+T-18c,additional-panel,unexpected-direction-change-right,Unexpected change of direction (right),tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu w prawo
+T-19,additional-panel,road-marking-works,Road marking works,tabliczka wskazująca na malowanie znaków poziomych
+T-20,additional-panel,prohibition-length,Length of the prohibition,"tabliczka wskazująca długość odcinka jezdni, na którym zakaz obowiązuje"
+T-21,additional-panel,prohibition-distance,Distance to the prohibition,"tabliczka wskazująca odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje"
+T-23a,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),tabliczka wskazująca motocykle
+T-23b,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),"tabliczka wskazująca samochody ciężarowe, pojazdy specjalne, pojazdy używane do celów specjalnych, o dopuszczalnej masie całkowitej przekraczającej 3,5 t, oraz ciągniki samochodowe"
+T-23c,additional-panel,vehicle-type-tractors,Type of vehicle (tractors),tabliczka wskazująca ciągniki rolnicze i pojazdy wolnobieżne
+T-23d,additional-panel,vehicle-type-with-trailers,Type of vehicle (with trailers),"tabliczka wskazująca pojazdy silnikowe z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą"
+T-23e,additional-panel,vehicle-type-caravans,Type of vehicle (with caravans),tabliczka wskazująca pojazdy z przyczepą kempingową
+T-23f,additional-panel,vehicle-type-buses,Type of vehicle (buses),tabliczka wskazująca autobusy
+T-23g,additional-panel,vehicle-type-trolleybuses,Type of vehicle (trolleybuses),tabliczka wskazująca trolejbusy
+T-23h,additional-panel,vehicle-type-dangerous-goods,Type of vehicle (carrying dangerous goods),tabliczka wskazująca pojazdy z towarami niebezpiecznymi
+T-23i,additional-panel,vehicle-type-explosives,Type of vehicle (carrying explosive or flammable goods),tabliczka wskazująca pojazdy z towarami wybuchowymi lub łatwo zapalnymi
+T-23j,additional-panel,vehicle-type-water-pollutants,Type of vehicle (carrying water-polluting goods),"tabliczka wskazująca pojazdy z towarami, które mogą skazić wodę"
+T-24,additional-panel,vehicles-will-be-towed,Vehicles will be towed away,"tabliczka wskazująca, że pozostawiony pojazd zostanie usunięty na koszt właściciela"
+T-25a,additional-panel,section-start,Start of section,tabliczka wskazująca początek zakazu postoju lub zatrzymywania
+T-25b,additional-panel,section-continues,Section continues,tabliczka wskazująca kontynuację zakazu postoju lub zatrzymywania
+T-25c,additional-panel,section-end,End of section,tabliczka wskazująca odwołanie zakazu postoju lub zatrzymywania
+T-26,additional-panel,prohibition-applies-to-square-side,Prohibition applies to this side of the square,"tabliczka wskazująca, że zakaz postoju lub zatrzymywania dotyczy strony placu"
+T-27,additional-panel,children-crossing,Crossing used by children,"tabliczka wskazująca, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci"
+T-28,additional-panel,with-toll,With toll,"tabliczka wskazująca, że za przejazd drogą pobierana jest opłata"
+T-28a,additional-panel,end-of-toll-section,End of toll section,"tabliczka wskazująca koniec odcinka drogi, za przejazd którym pobierana jest opłata"
+T-29,additional-panel,disabled-parking,Parking for disabled persons,"tabliczka informująca o miejscu przeznaczonym dla pojazdu samochodowego osób, o których mowa w art. 8 ust. 1 i 2 ustawy"
+T-30a,additional-panel,parking-position,Parking position,tabliczka wskazująca sposób ustawienia pojazdu względem krawędzi jezdni
+T-30b,additional-panel,parking-panel-pavement-perpendicular,Parking on the pavement (perpendicular),tabliczka wskazująca postój całego pojazdu na chodniku prostopadle do krawężnika
+T-30c,additional-panel,parking-panel-pavement-angled,Parking on the pavement (angled),tabliczka wskazująca postój całego pojazdu na chodniku skośnie do krawężnika
+T-30d,additional-panel,parking-panel-partial-pavement-perpendicular,Parking partly on the pavement (perpendicular),tabliczka wskazująca postój na chodniku kołami przedniej osi pojazdu prostopadle do krawężnika
+T-30e,additional-panel,parking-panel-partial-pavement-angled,Parking partly on the pavement (angled),tabliczka wskazująca postój na chodniku kołami przedniej osi pojazdu skośnie do krawężnika
+T-30f,additional-panel,parking-panel-carriageway-perpendicular,Parking on the carriageway (perpendicular),tabliczka wskazująca postój całego pojazdu na jezdni prostopadle do krawężnika
+T-30g,additional-panel,parking-panel-carriageway-angled,Parking on the carriageway (angled),tabliczka wskazująca postój całego pojazdu na jezdni skośnie do krawężnika
+T-30h,additional-panel,parking-panel-partial-pavement-parallel,Parking partly on the pavement (parallel),tabliczka wskazująca postój na chodniku kołami jednego boku pojazdu równolegle do krawężnika
+T-30i,additional-panel,parking-panel-carriageway-parallel,Parking on the carriageway (parallel),tabliczka wskazująca postój całego pojazdu na jezdni równolegle do krawężnika
+T-31,additional-panel,tunnel-category,Tunnel category,tabliczka wskazująca kategorię tunelu
+T-32,additional-panel,minimum-distance-panel,Minimum distance,tabliczka wskazująca minimalny odstęp od poprzedzającego pojazdu
+T-33,additional-panel,emergency-phone-and-extinguisher,Emergency phone and fire extinguisher,tabliczka wskazująca umieszczenie w zatoce telefonu alarmowego i gaśnicy
+T-34,additional-panel,electronic-toll,Electronic toll,tabliczka wskazująca pobór opłaty elektronicznej za przejazd drogą publiczną
+G-1a,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni
+G-1b,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni
+G-1c,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni
+G-1d,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni
+G-1e,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni
+G-1f,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni
+G-2,warning,overhead-power-lines,Overhead power lines,sieć pod napięciem
+G-3,warning,level-crossing-cross-single-track,Level crossing cross (single track),krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym
+G-4,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym
+AT-1,warning,tram-traffic-signals,Traffic signals (for trams),sygnalizacja świetlna
+AT-2,warning,tram-traffic-signals-on-demand,Traffic signals on demand (for trams),sygnalizacja świetlna wzbudzana
+AT-3,warning,tram-steep-descent,Steep descent (for trams),niebezpieczny zjazd
+AT-4,warning,tram-steep-ascent,Steep ascent (for trams),stromy podjazd
+AT-5,warning,tram-conflicting-traffic,Conflicting traffic (for trams),ruch kolizyjny
+BT-1,regulatory,tram-speed-limit,Speed limit (for trams),ograniczenie prędkości
+BT-2,regulatory,end-of-tram-speed-limit,End of speed limit (for trams),koniec ograniczenia prędkości
+BT-3,regulatory,tram-switch-lock,Switch lock (for trams),blokada zwrotnicy
+BT-4,regulatory,tram-stop-one-way-switch,"Stop, switch used in one direction (for trams)",stop — zwrotnica eksploatowana jednostronnie
+R-1,information,local-cycle-route,Local cycle route,szlak rowerowy lokalny
+R-1a,information,local-cycle-route-start-or-end,Start or end of a local cycle route,początek (koniec) szlaku rowerowego lokalnego
+R-1b,information,local-cycle-route-direction-change,Change of direction of a local cycle route,zmiana kierunku szlaku rowerowego lokalnego
+R-3,information,local-cycle-route-board,Local cycle route board,tablica szlaku rowerowego lokalnego
+R-4,information,cycle-route-information,Cycle route information,informacja o szlaku rowerowym
+R-4a,information,cycle-route-course,Course of the cycle route,informacja o rzeczywistym przebiegu szlaku rowerowego
+R-4b,information,cycle-route-direction-change,Change of direction of the cycle route,zmiana kierunku szlaku rowerowego
+R-4c,information,cycle-route-direction-board,Cycle route direction board,drogowskaz tablicowy szlaku rowerowego
+R-4d,information,cycle-route-arrow-sign,Cycle route arrow sign with distance,drogowskaz szlaku rowerowego w kształcie strzały podający odległość
+R-4e,information,cycle-route-advance-sign,Cycle route advance sign,tablica przeddrogowskazowa szlaku rowerowego
+W-1,information,bridge-load-class-one-way,Bridge load class (one-way traffic),klasa obciążenia mostu o ruchu jednokierunkowym
+W-2,information,bridge-load-class-two-way,Bridge load class (two-way traffic),klasa obciążenia mostu o ruchu dwukierunkowym
+W-3,information,bridge-load-class-one-way-wheeled-and-tracked,"Bridge load class (one-way, wheeled and tracked vehicles)",klasa obciążenia mostu o ruchu jednokierunkowym dla pojazdów kołowych i gąsienicowych
+W-4,information,bridge-load-class-two-way-wheeled,"Bridge load class (two-way, wheeled vehicles)",klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów kołowych
+W-5,information,bridge-load-class-two-way-tracked,"Bridge load class (two-way, tracked vehicles)",klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów gąsienicowych
+W-6,information,bridge-width,Width of the bridge or crossing,szerokość mostu lub środka przeprawowego
+W-7,information,clearance-height,Clearance height on the bridge or in the tunnel,wysokość skrajni pionowej na moście lub w tunelu
+S-1,traffic-signal,signal-head,Signal head for vehicles,sygnalizator ogólny z sygnałami do kierowania ruchem
+S-1a,traffic-signal,signal-head-with-cyclists,Signal head for vehicles and cyclists,sygnalizator z sygnałami dla kierujących rowerem
+S-2,traffic-signal,signal-head-with-green-arrow,Signal head with green arrow,sygnalizator z sygnałem dopuszczającym skręcanie w kierunku wskazanym strzałką
+S-3 (na wprost),traffic-signal,directional-signal-head-straight,Directional signal head (straight ahead),sygnalizator kierunkowy na wprost
+S-3 (w lewo),traffic-signal,directional-signal-head-left,Directional signal head (left),sygnalizator kierunkowy w lewo
+S-3 (w prawo),traffic-signal,directional-signal-head-right,Directional signal head (right),sygnalizator kierunkowy w prawo
+S-3 (na wprost i w lewo),traffic-signal,directional-signal-head-straight-and-left,Directional signal head (straight ahead and left),sygnalizator kierunkowy na wprost i w lewo
+S-3 (w lewo i do zawracania),traffic-signal,directional-signal-head-left-and-u-turn,Directional signal head (left and U-turn),sygnalizator kierunkowy w lewo i do zawracania
+S-3 (na wprost i w prawo),traffic-signal,directional-signal-head-straight-and-right,Directional signal head (straight ahead and right),sygnalizator kierunkowy na wprost i w prawo
+S-3 (w lewo i w prawo),traffic-signal,directional-signal-head-left-and-right,Directional signal head (left and right),sygnalizator kierunkowy w lewo i w prawo
+S-3 (do zawracania),traffic-signal,directional-signal-head-u-turn,Directional signal head (U-turn),sygnalizator kierunkowy do zawracania
+S-3a (na wprost),traffic-signal,directional-signal-head-straight-with-cyclists,Directional signal head with cyclists (straight ahead),sygnalizator kierunkowy na wprost z sygnałami dla kierujących rowerem
+S-3a (w lewo),traffic-signal,directional-signal-head-left-with-cyclists,Directional signal head with cyclists (left),sygnalizator kierunkowy w lewo z sygnałami dla kierujących rowerem
+S-3a (w prawo),traffic-signal,directional-signal-head-right-with-cyclists,Directional signal head with cyclists (right),sygnalizator kierunkowy w prawo z sygnałami dla kierujących rowerem
+S-3a (na wprost i w lewo),traffic-signal,directional-signal-head-straight-and-left-with-cyclists,Directional signal head with cyclists (straight ahead and left),sygnalizator kierunkowy na wprost i w lewo z sygnałami dla kierujących rowerem
+S-3a (w lewo i do zawracania),traffic-signal,directional-signal-head-left-and-u-turn-with-cyclists,Directional signal head with cyclists (left and U-turn),sygnalizator kierunkowy w lewo i do zawracania z sygnałami dla kierujących rowerem
+S-3a (na wprost i w prawo),traffic-signal,directional-signal-head-straight-and-right-with-cyclists,Directional signal head with cyclists (straight ahead and right),sygnalizator kierunkowy na wprost i w prawo z sygnałami dla kierujących rowerem
+S-3a (w lewo i w prawo),traffic-signal,directional-signal-head-left-and-right-with-cyclists,Directional signal head with cyclists (left and right),sygnalizator kierunkowy w lewo i w prawo z sygnałami dla kierujących rowerem
+S-3a (do zawracania),traffic-signal,directional-signal-head-u-turn-with-cyclists,Directional signal head with cyclists (U-turn),sygnalizator kierunkowy do zawracania z sygnałami dla kierujących rowerem
+S-4,traffic-signal,lane-signal-head,Lane signal head,sygnalizator z sygnałami dla pasów ruchu
+S-5,traffic-signal,pedestrian-signal-head,Pedestrian signal head,sygnalizator z sygnałami dla pieszych
+S-6,traffic-signal,cyclist-signal-head,Cyclist signal head,sygnalizator z sygnałami dla rowerzystów
+S-7,traffic-signal,leave-lane-signal-head,Signal head ordering to leave the lane,sygnalizator z sygnałem nakazującym opuszczenie pasa ruchu
+SB,traffic-signal,bus-signal-head,Signal head for buses,sygnalizator z sygnałami dla kierujących autobusami
+ST,traffic-signal,tram-signal-head,Signal head for trams,sygnalizator z sygnałami dla tramwajów
+STK,traffic-signal,tram-directional-signal-head,Directional signal head for trams,sygnalizator kierunkowy dla tramwajów
+STT-1,traffic-signal,tram-stop-signal,Tram signal: do not pass the signal,sygnał oznaczający zakaz wjazdu tramwaju za sygnalizator
+STT-2,traffic-signal,tram-proceed-signal,Tram signal: proceed in the direction shown,sygnał oznaczający zezwolenie na jazdę tramwaju we wskazanym kierunku

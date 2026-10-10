@@ -1,0 +1,11 @@
+{
+  "sign": "built-up-area",
+  "category": "information",
+  "country": "pl",
+  "code": "D-42",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "PL road sign D-42.svg"
+  }
+}
