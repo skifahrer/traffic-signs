@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "260-100",
+  "image": {
+    "file": "end-of-minimum-speed-100-sk.svg",
+    "sha1": "1fe846eb9e3c280899a5694b86f21285d50d7760",
+    "source": "https://commons.wikimedia.org/wiki/File:260-100_Koniec_najni%C5%BE%C5%A1ej_dovolenej_r%C3%BDchlosti_(100_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

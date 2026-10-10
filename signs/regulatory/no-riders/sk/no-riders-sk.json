@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-64",
+  "image": {
+    "file": "no-riders-sk.svg",
+    "sha1": "5253e39106ca123f4c02f6472171967cd7b213b5",
+    "source": "https://commons.wikimedia.org/wiki/File:233-64_Z%C3%A1kaz_vjazdu_pre_(jazdcov_na_zvierati).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

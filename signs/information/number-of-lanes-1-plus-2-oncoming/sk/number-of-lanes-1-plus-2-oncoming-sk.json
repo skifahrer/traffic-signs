@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "403-32",
+  "image": {
+    "file": "number-of-lanes-1-plus-2-oncoming-sk.svg",
+    "sha1": "9f66fbafff7e6498b63ebd1ba7f116510705c7fd",
+    "source": "https://commons.wikimedia.org/wiki/File:403-32_Po%C4%8Det_jazdn%C3%BDch_pruhov_(1_pruh_%2B_2_v_protismere).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

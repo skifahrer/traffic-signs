@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "211-10",
+  "image": {
+    "file": "turn-left-sk.svg",
+    "sha1": "b8fc756483a6957a3e68d0d2667c5ebdda1dd5e0",
+    "source": "https://commons.wikimedia.org/wiki/File:211-10_Prik%C3%A1zan%C3%BD_smer_odbo%C4%8Denia_(tu_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

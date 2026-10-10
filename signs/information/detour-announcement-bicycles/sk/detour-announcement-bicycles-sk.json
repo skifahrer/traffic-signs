@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "393-32-58",
+  "image": {
+    "file": "detour-announcement-bicycles-sk.svg",
+    "sha1": "4b0520d2ae122704f0ea9b63cc5f37231c77ef12",
+    "source": "https://commons.wikimedia.org/wiki/File:393-32-58_Ohlasovacia_tabu%C4%BEa_obch%C3%A1dzky_(pre_bicykle).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

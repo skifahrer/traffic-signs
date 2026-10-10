@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "806-20",
+  "image": {
+    "file": "vehicle-signal-go-right-sk.svg",
+    "sha1": "5712ca1b7f1ed1f26fb2274d7a3e11eb03fd24e8",
+    "source": "https://commons.wikimedia.org/wiki/File:806-20_Sign%C3%A1l_Vo%C4%BEno_pre_vozidl%C3%A1,_smerov%C3%BD_(vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-56",
+  "image": {
+    "file": "no-motorcycles-sk.svg",
+    "sha1": "f0fc7b7db659dd87cab6ca8cdd985c41f305c497",
+    "source": "https://commons.wikimedia.org/wiki/File:233-56_Z%C3%A1kaz_vjazdu_pre_(motocykle).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

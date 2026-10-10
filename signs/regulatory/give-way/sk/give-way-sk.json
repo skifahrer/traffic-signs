@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "201",
+  "image": {
+    "file": "give-way-sk.svg",
+    "sha1": "755bc9e36e3f70cd85b94a5ce963f58d6df3d239",
+    "source": "https://commons.wikimedia.org/wiki/File:201_Daj_prednos%C5%A5_v_jazde!.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

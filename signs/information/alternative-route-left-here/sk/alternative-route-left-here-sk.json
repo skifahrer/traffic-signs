@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "390-11",
+  "image": {
+    "file": "alternative-route-left-here-sk.svg",
+    "sha1": "c8728d25e7eff8b6b2a22b7000effd406f8855f2",
+    "source": "https://commons.wikimedia.org/wiki/File:390-11_N%C3%A1hradn%C3%A1_trasa_(do%C4%BEava,_tu).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

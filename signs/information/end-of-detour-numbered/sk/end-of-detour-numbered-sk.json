@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "396-31-50",
+  "image": {
+    "file": "end-of-detour-numbered-sk.svg",
+    "sha1": "e3ae7355f4ac2d7e1c83561cad47ff8e4128c585",
+    "source": "https://commons.wikimedia.org/wiki/File:396-31-50_Koniec_obch%C3%A1dzky_(%C4%8D%C3%ADslovan%C3%A1_obch%C3%A1dzka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

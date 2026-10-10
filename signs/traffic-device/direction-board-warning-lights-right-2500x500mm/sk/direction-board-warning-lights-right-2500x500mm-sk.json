@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "702-23",
+  "image": {
+    "file": "direction-board-warning-lights-right-2500x500mm-sk.svg",
+    "sha1": "88127ba19f3b8993cf7a67979bd48814d00213d7",
+    "source": "https://commons.wikimedia.org/wiki/File:702-23_Smerovacia_doska_(varovn%C3%A1_so_%C5%BElt%C3%BDmi_svetlami,_prav%C3%A1_orient%C3%A1cia,_2500_x_500_mm).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

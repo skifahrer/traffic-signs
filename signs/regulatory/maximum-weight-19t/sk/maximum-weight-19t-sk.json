@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-19",
+  "image": {
+    "file": "maximum-weight-19t-sk.svg",
+    "sha1": "81d381b913771ff37f2703a063bf8b01306c9706",
+    "source": "https://commons.wikimedia.org/wiki/File:240-19_Maxim%C3%A1lna_hmotnos%C5%A5_(19_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

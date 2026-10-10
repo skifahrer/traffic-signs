@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-75",
+  "image": {
+    "file": "services-indoor-pool-sk.svg",
+    "sha1": "e1aea126ea54ae18d07c88c25e5a90dd3c0bfb0d",
+    "source": "https://commons.wikimedia.org/wiki/File:330-75_Slu%C5%BEby_(kryt%C3%A9_k%C3%BApalisko,_plav%C3%A1re%C5%88).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "245-51",
+  "image": {
+    "file": "police-check-stop-sk.svg",
+    "sha1": "8d25a0559f4cb56fc07d57a4692f85de8ec78234",
+    "source": "https://commons.wikimedia.org/wiki/File:245-51_Povinn%C3%A9_zastavenie_vozidla_(Pol%C3%ADcia_-_kontrola).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

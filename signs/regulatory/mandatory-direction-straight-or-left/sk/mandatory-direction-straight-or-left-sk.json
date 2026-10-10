@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "210-31",
+  "image": {
+    "file": "mandatory-direction-straight-or-left-sk.svg",
+    "sha1": "f8c609834f57494114de8c5035194695e4a4a823",
+    "source": "https://commons.wikimedia.org/wiki/File:210-31_Prik%C3%A1zan%C3%BD_smer_jazdy_(priamo_alebo_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

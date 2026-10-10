@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "340-52",
+  "image": {
+    "file": "place-name-district-border-1-line-sk.svg",
+    "sha1": "9bb7eb16599a888290a56e069fa5fd45f8f095af",
+    "source": "https://commons.wikimedia.org/wiki/File:340-52_Miestna_n%C3%A1ves%C5%A5_(hranica_okresu,_1-riadkov%C3%BD_n%C3%A1zov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

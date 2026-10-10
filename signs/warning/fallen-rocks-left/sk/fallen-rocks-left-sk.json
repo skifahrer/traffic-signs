@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "125-20",
+  "image": {
+    "file": "fallen-rocks-left-sk.svg",
+    "sha1": "5f9f4acad14890bf6cd3966c0a3802e7dfb7fc90",
+    "source": "https://commons.wikimedia.org/wiki/File:125-20_Padnut%C3%A9_kamene_(z_%C4%BEavej_strany).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-85",
+  "image": {
+    "file": "no-skates-skateboards-scooters-sk.svg",
+    "sha1": "57ae22b163cace23b70ec3ab880a4dcff2cca75b",
+    "source": "https://commons.wikimedia.org/wiki/File:233-85_Z%C3%A1kaz_vstupu_pre_(osoby_pohybuj%C3%BAce_sa_na_kor%C4%8Duliach,_skejtborde,_kolobe%C5%BEke_alebo_obdobnom_%C5%A1portovom_vybaven%C3%AD).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

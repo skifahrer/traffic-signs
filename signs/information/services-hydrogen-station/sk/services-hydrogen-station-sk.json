@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-56",
+  "image": {
+    "file": "services-hydrogen-station-sk.svg",
+    "sha1": "a2c626f10f54f5dab028b7f95ebbe85fe1aa9304",
+    "source": "https://commons.wikimedia.org/wiki/File:330-56_Slu%C5%BEby_(%C4%8Derpacia_stanica_kvapaln%C3%A9ho_vod%C3%ADka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

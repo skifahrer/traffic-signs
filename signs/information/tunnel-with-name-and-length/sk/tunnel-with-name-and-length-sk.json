@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "322-51",
+  "image": {
+    "file": "tunnel-with-name-and-length-sk.svg",
+    "sha1": "e4751386225d9562d160195876755a08903b5e96",
+    "source": "https://commons.wikimedia.org/wiki/File:322-51_Tunel_(dlh%C3%BD,_s_n%C3%A1zvom_a_d%C4%BA%C5%BEkou).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

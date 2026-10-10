@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "256-100",
+  "image": {
+    "file": "minimum-distance-100m-sk.svg",
+    "sha1": "bd0776829ec30a6a7589abfd8cfe513ab212f3d4",
+    "source": "https://commons.wikimedia.org/wiki/File:256-100_Minim%C3%A1lna_vzdialenos%C5%A5_medzi_vozidlami_(100_m).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

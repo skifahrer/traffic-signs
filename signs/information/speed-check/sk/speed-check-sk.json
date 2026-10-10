@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "334",
+  "image": {
+    "file": "speed-check-sk.svg",
+    "sha1": "0bd94a102f003bbac24211cb17fe84ea70aa1946",
+    "source": "https://commons.wikimedia.org/wiki/File:334_Kontrola_r%C3%BDchlosti.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

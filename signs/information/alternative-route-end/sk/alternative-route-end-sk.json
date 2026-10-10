@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "390-55",
+  "image": {
+    "file": "alternative-route-end-sk.svg",
+    "sha1": "ead1e35e2ef48747bbdecab0b245d400626ad348",
+    "source": "https://commons.wikimedia.org/wiki/File:390-55_N%C3%A1hradn%C3%A1_trasa_(koniec).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

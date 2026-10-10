@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "243-2",
+  "image": {
+    "file": "maximum-height-2m-sk.svg",
+    "sha1": "da306269b603f2f5da15ec9710de7284b0fd3994",
+    "source": "https://commons.wikimedia.org/wiki/File:243-2_Maxim%C3%A1lna_v%C3%BD%C5%A1ka_(2_m).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

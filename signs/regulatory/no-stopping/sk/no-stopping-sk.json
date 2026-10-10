@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "270",
+  "image": {
+    "file": "no-stopping-sk.svg",
+    "sha1": "5fa7a4d93ffcc8ac4da0b79080460af98f1aa74d",
+    "source": "https://commons.wikimedia.org/wiki/File:270_Z%C3%A1kaz_zastavenia.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

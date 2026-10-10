@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "701-50",
+  "image": {
+    "file": "closure-barrier-100x1200mm-sk.svg",
+    "sha1": "ff7b15e0448026d3f219d24cc187d265c8387b2a",
+    "source": "https://commons.wikimedia.org/wiki/File:701-50_Z%C3%A1brana_na_ozna%C4%8Denie_uz%C3%A1vierky_(100_x_1200_mm).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

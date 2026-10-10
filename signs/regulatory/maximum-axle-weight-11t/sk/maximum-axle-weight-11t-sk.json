@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "241-11",
+  "image": {
+    "file": "maximum-axle-weight-11t-sk.svg",
+    "sha1": "b72d504cc43a41af3f73f851738b1c5f7356065b",
+    "source": "https://commons.wikimedia.org/wiki/File:241-11_Maxim%C3%A1lna_hmotnos%C5%A5_na_n%C3%A1pravu_(11_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "313",
+  "image": {
+    "file": "motorway-vignette-required-sk.svg",
+    "sha1": "69e14dcbd590657c5630e5478c084b03475838f9",
+    "source": "https://commons.wikimedia.org/wiki/File:313_%C3%9Asek_dia%C4%BEnice_spoplatnen%C3%BD_dia%C4%BEni%C4%8Dnou_zn%C3%A1mkou.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

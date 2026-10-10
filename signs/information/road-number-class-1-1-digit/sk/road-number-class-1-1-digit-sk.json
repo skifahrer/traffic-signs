@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "350-50",
+  "image": {
+    "file": "road-number-class-1-1-digit-sk.svg",
+    "sha1": "60e5ec3a51563726afb63c7c69a043503f2d9a91",
+    "source": "https://commons.wikimedia.org/wiki/File:350-50_%C4%8C%C3%ADslo_cesty_I._alebo_II._triedy_(cesta_I._triedy,_1-cifern%C3%A9_%C4%8D%C3%ADslo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

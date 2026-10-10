@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "821",
+  "image": {
+    "file": "pedestrian-signal-go-sk.svg",
+    "sha1": "b22400ab5686196e9dcc99812ab20090d1ae3838",
+    "source": "https://commons.wikimedia.org/wiki/File:821_Sign%C3%A1l_Vo%C4%BEno_pre_chodcov.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

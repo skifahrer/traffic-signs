@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "250-30",
+  "image": {
+    "file": "minimum-speed-30-sk.svg",
+    "sha1": "b445217aba994aee3dbfa15c9e8f3bc5e45f6097",
+    "source": "https://commons.wikimedia.org/wiki/File:250-30_Najni%C5%BE%C5%A1ia_dovolen%C3%A1_r%C3%BDchlos%C5%A5_(30_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

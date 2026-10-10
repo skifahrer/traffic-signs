@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "325-20",
+  "image": {
+    "file": "pedestrian-crossing-left-side-sk.svg",
+    "sha1": "9f8ce0079140c821eadd98230b1dc87745a479dd",
+    "source": "https://commons.wikimedia.org/wiki/File:325-20_Priechod_pre_chodcov_(informa%C4%8Dn%C3%A1_zna%C4%8Dka;_umiestnenie_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

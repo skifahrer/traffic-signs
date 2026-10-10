@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "253-60",
+  "image": {
+    "file": "speed-limit-60-sk.svg",
+    "sha1": "a1cca63f9f6c89e1fb623f88ecb962799962c71f",
+    "source": "https://commons.wikimedia.org/wiki/File:253-60_Najvy%C5%A1%C5%A1ia_dovolen%C3%A1_r%C3%BDchlos%C5%A5_(60_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "392-50",
+  "image": {
+    "file": "closure-advance-notice-all-traffic-via-intermediate-destinations-sk.svg",
+    "sha1": "ff295793401b4583ed79714fe9436541ea525824",
+    "source": "https://commons.wikimedia.org/wiki/File:392-50_Uz%C3%A1vierkov%C3%A1_predzves%C5%A5_(uz%C3%A1vierka_pre_v%C5%A1etku_dopravu,_navig%C3%A1cia_prostredn%C3%ADctvom_medzicie%C4%BEov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

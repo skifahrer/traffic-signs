@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "401-31",
+  "image": {
+    "file": "number-of-lanes-3-sk.svg",
+    "sha1": "82d700c17e765606961c347ab6a3c15028f416ad",
+    "source": "https://commons.wikimedia.org/wiki/File:401-31_Po%C4%8Det_jazdn%C3%BDch_pruhov_(3_pruhy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

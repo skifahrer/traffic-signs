@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-50",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-sk.svg",
+    "sha1": "30e4b7d405681e0beac69790d5ec1fd16f05dda3",
+    "source": "https://commons.wikimedia.org/wiki/File:233-50_Z%C3%A1kaz_vjazdu_pre_(motorov%C3%A9_vozidl%C3%A1_okrem_motocyklov_bez_postrann%C3%A9ho_voz%C3%ADka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

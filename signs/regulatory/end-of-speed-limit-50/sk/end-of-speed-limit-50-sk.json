@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "263-50",
+  "image": {
+    "file": "end-of-speed-limit-50-sk.svg",
+    "sha1": "0e098e54dd8a967fe81dc726e5a081262f1a306a",
+    "source": "https://commons.wikimedia.org/wiki/File:263-50_Koniec_najvy%C5%A1%C5%A1ej_dovolenej_r%C3%BDchlosti_(50_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "835-30",
+  "image": {
+    "file": "speed-signal-30-sk.svg",
+    "sha1": "f1f7acff6ac32c842ed2c8e12e7472b764b8b732",
+    "source": "https://commons.wikimedia.org/wiki/File:835-30_R%C3%BDchlostn%C3%BD_sign%C3%A1l_(30_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

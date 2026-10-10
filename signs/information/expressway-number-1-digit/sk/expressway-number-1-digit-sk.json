@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "352-60",
+  "image": {
+    "file": "expressway-number-1-digit-sk.svg",
+    "sha1": "e92830f118331ed48f4ee3c3b6f2fda786eb6efc",
+    "source": "https://commons.wikimedia.org/wiki/File:352-60_%C4%8C%C3%ADslo_dia%C4%BEnice_alebo_r%C3%BDchlostnej_cesty_(r%C3%BDchlostn%C3%A1_cesta,_1-cifern%C3%A9_%C4%8D%C3%ADslo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

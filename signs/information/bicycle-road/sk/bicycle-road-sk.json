@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "323",
+  "image": {
+    "file": "bicycle-road-sk.svg",
+    "sha1": "084faf65ceded8ce822e7b43619043bf8284eb74",
+    "source": "https://commons.wikimedia.org/wiki/File:323_Bicyklov%C3%A1_cesta.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "502-50",
+  "image": {
+    "file": "section-length-metres-sk.svg",
+    "sha1": "91918a018699cf8fdf2eedd7aab6a7c92d057f4e",
+    "source": "https://commons.wikimedia.org/wiki/File:502-50_D%C4%BA%C5%BEka_%C3%BAseku_(v_metroch,_vzor_800_m).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

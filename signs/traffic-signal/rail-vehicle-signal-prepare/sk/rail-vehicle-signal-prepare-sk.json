@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "855",
+  "image": {
+    "file": "rail-vehicle-signal-prepare-sk.svg",
+    "sha1": "ff09f6f83de059baceaa2f551692257f48f4597f",
+    "source": "https://commons.wikimedia.org/wiki/File:855_Sign%C3%A1l_V%C3%BDzva_pre_dr%C3%A1hov%C3%A9_vozidl%C3%A1.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

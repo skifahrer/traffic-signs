@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "340-72",
+  "image": {
+    "file": "place-name-tourist-minority-language-sk.svg",
+    "sha1": "1f46b8861af8af68ab20f0472354e7751bddc24b",
+    "source": "https://commons.wikimedia.org/wiki/File:340-72_Miestna_n%C3%A1ves%C5%A5_(turistick%C3%BD_cie%C4%BE_alebo_trasa_%2B_n%C3%A1zov_v_jazyku_n%C3%A1rodnostnej_men%C5%A1iny).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

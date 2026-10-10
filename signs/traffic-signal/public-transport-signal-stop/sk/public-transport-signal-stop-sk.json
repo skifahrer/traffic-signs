@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "870",
+  "image": {
+    "file": "public-transport-signal-stop-sk.svg",
+    "sha1": "a4bbf99d8dc25302f59707ef5690a0717863206b",
+    "source": "https://commons.wikimedia.org/wiki/File:870_Sign%C3%A1l_Stoj_pre_vozidl%C3%A1_verejnej_hromadnej_dopravy.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

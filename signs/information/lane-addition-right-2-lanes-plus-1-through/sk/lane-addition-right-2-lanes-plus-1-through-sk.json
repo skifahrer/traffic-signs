@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "432-22",
+  "image": {
+    "file": "lane-addition-right-2-lanes-plus-1-through-sk.svg",
+    "sha1": "1f16e60b8c7bc9cb36c3a1f859935be4f0992dae",
+    "source": "https://commons.wikimedia.org/wiki/File:432-22_Bezkol%C3%ADzne_pripojenie_(sprava,_2_pruhy_%2B_1_priebe%C5%BEn%C3%BD).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

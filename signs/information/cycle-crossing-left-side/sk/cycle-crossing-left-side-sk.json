@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "326-20",
+  "image": {
+    "file": "cycle-crossing-left-side-sk.svg",
+    "sha1": "844c814bd8c1e97097e3406846fbc784ba398d11",
+    "source": "https://commons.wikimedia.org/wiki/File:326-20_Priechod_pre_cyklistov_(umiestnenie_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

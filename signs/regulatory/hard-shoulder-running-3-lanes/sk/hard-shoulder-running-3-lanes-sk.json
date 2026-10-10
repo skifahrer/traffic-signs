@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "280-51",
+  "image": {
+    "file": "hard-shoulder-running-3-lanes-sk.svg",
+    "sha1": "b9f7531500ac0e1428200b424adfdfb883a5b7f1",
+    "source": "https://commons.wikimedia.org/wiki/File:280-51_Jazda_po_krajnici_(3_pruhy_%2B_krajnica).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "263-60",
+  "image": {
+    "file": "end-of-speed-limit-60-sk.svg",
+    "sha1": "c0c2ccad9cc98b4635f59b32ff0b649c0e4fc36d",
+    "source": "https://commons.wikimedia.org/wiki/File:263-60_Koniec_najvy%C5%A1%C5%A1ej_dovolenej_r%C3%BDchlosti_(60_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

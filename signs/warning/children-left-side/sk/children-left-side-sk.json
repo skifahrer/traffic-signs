@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "141-20",
+  "image": {
+    "file": "children-left-side-sk.svg",
+    "sha1": "9845e12a7255ea592f6ff7a100653aa2fc0f8ba4",
+    "source": "https://commons.wikimedia.org/wiki/File:141-20_Deti_(umiestnenie_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

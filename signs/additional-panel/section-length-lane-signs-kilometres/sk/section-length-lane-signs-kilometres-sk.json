@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "502-71",
+  "image": {
+    "file": "section-length-lane-signs-kilometres-sk.svg",
+    "sha1": "ebe9be49d3ce0c9b43c3c91ded20d93c091c10a6",
+    "source": "https://commons.wikimedia.org/wiki/File:502-71_D%C4%BA%C5%BEka_%C3%BAseku_(pre_pruhov%C3%A9_zna%C4%8Dky,_v_kilometroch,_vzor_24_km).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "327-60",
+  "image": {
+    "file": "pedestrian-footbridge-sk.svg",
+    "sha1": "51d15166289d344d601be4cca7b90c49e330beb1",
+    "source": "https://commons.wikimedia.org/wiki/File:327-60_Podchod_alebo_nadchod_(nadchod).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

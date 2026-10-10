@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "276",
+  "image": {
+    "file": "end-of-no-parking-zone-sk.svg",
+    "sha1": "78d8a3a0284c3d00d599c09dca0b387685731cef",
+    "source": "https://commons.wikimedia.org/wiki/File:276_Koniec_z%C3%B3ny_z%C3%A1kazu_st%C3%A1tia.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

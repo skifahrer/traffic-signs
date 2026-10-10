@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "808-20",
+  "image": {
+    "file": "vehicle-signal-wait-straight-and-right-sk.svg",
+    "sha1": "f5da1e0b8212745d5308d68d5b9bae17464c3c50",
+    "source": "https://commons.wikimedia.org/wiki/File:808-20_Sign%C3%A1l_%C4%8Cakaj_pre_vozidl%C3%A1,_2-smerov%C3%BD_(priamo_a_vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

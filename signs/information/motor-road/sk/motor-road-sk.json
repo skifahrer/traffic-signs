@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "311",
+  "image": {
+    "file": "motor-road-sk.svg",
+    "sha1": "c5fccd8c0862ed6b77eb2a24a361e89001319427",
+    "source": "https://commons.wikimedia.org/wiki/File:311_Cesta_pre_motorov%C3%A9_vozidl%C3%A1.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

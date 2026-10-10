@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "390-50",
+  "image": {
+    "file": "alternative-route-start-sk.svg",
+    "sha1": "a51328551c29f8731ed02e0434222e34e2be5406",
+    "source": "https://commons.wikimedia.org/wiki/File:390-50_N%C3%A1hradn%C3%A1_trasa_(za%C4%8Diatok).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "390-30",
+  "image": {
+    "file": "alternative-route-straight-sk.svg",
+    "sha1": "60e1c189f7a4b0608479a7f484c2918d959211d4",
+    "source": "https://commons.wikimedia.org/wiki/File:390-30_N%C3%A1hradn%C3%A1_trasa_(priamo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

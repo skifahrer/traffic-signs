@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "122",
+  "image": {
+    "file": "loose-gravel-sk.svg",
+    "sha1": "1682730119c9b4b9fda83d579675f209ef61e328",
+    "source": "https://commons.wikimedia.org/wiki/File:122_%C5%A0trk_na_vozovke.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

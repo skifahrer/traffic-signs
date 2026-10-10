@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "730",
+  "image": {
+    "file": "green-arrow-sk.svg",
+    "sha1": "c05c42f8ddeb035d6a538dcc326a588a1a859070",
+    "source": "https://commons.wikimedia.org/wiki/File:730_Zelen%C3%A1_%C5%A1%C3%ADpka_(doplnkov%C3%A9_zariadenie_k_sveteln%C3%BDm_sign%C3%A1lom).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

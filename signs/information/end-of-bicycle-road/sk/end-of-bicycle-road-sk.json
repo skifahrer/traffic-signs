@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "324",
+  "image": {
+    "file": "end-of-bicycle-road-sk.svg",
+    "sha1": "d4db20fd59fb188a045d6637af4a2b9cb1e31c3c",
+    "source": "https://commons.wikimedia.org/wiki/File:324_Koniec_bicyklovej_cesty.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

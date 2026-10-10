@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-82",
+  "image": {
+    "file": "services-park-and-ride-sk.svg",
+    "sha1": "91735200f362efba9f513bd291bb78dcbd09da16",
+    "source": "https://commons.wikimedia.org/wiki/File:330-82_Slu%C5%BEby_(parkovisko_P%2BR).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

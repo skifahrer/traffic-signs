@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "277",
+  "image": {
+    "file": "parking-zone-sk.svg",
+    "sha1": "f9cc2222dae10a050b920e6c8520b1f8586bc98e",
+    "source": "https://commons.wikimedia.org/wiki/File:277_Parkovacia_z%C3%B3na.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

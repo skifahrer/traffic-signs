@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "112-15",
+  "image": {
+    "file": "steep-descent-15-percent-sk.svg",
+    "sha1": "9cef724840eaec5910e2a459d2b5e7f887ea508e",
+    "source": "https://commons.wikimedia.org/wiki/File:112-15_Klesanie_(15%25).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

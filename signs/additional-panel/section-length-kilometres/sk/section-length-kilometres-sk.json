@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "502-51",
+  "image": {
+    "file": "section-length-kilometres-sk.svg",
+    "sha1": "37edf86bae82e6ff9577cec4645058df7ece425f",
+    "source": "https://commons.wikimedia.org/wiki/File:502-51_D%C4%BA%C5%BEka_%C3%BAseku_(v_kilometroch,_vzor_6_km).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

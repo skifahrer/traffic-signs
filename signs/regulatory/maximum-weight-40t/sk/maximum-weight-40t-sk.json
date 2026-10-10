@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-40",
+  "image": {
+    "file": "maximum-weight-40t-sk.svg",
+    "sha1": "64c77119fc0d11738c5112aef3b72af55f0f1ffb",
+    "source": "https://commons.wikimedia.org/wiki/File:240-40_Maxim%C3%A1lna_hmotnos%C5%A5_(40_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

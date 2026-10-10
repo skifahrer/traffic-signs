@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-72",
+  "image": {
+    "file": "no-trailers-sk.svg",
+    "sha1": "3070e1009c9ebdcc87f1d2f92a5c082adf1bd8a1",
+    "source": "https://commons.wikimedia.org/wiki/File:233-72_Z%C3%A1kaz_vjazdu_pre_(pr%C3%ADpojn%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

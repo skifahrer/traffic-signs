@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-61-52",
+  "image": {
+    "file": "detour-sign-top-panel-road-number-sk.svg",
+    "sha1": "b6af2db6d836cc1a345a1814de76c7b5cbaeee9e",
+    "source": "https://commons.wikimedia.org/wiki/File:394-61-52_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(pr%C3%ADdavn%C3%A1_tabu%C4%BEka_nad_zna%C4%8Dkou,_%C4%8D%C3%ADslo_cesty_I._triedy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

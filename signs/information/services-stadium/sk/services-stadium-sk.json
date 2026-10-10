@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-76",
+  "image": {
+    "file": "services-stadium-sk.svg",
+    "sha1": "b381f39d867037cb4d6b78166440756577bde4d1",
+    "source": "https://commons.wikimedia.org/wiki/File:330-76_Slu%C5%BEby_(%C5%A1tadi%C3%B3n,_ar%C3%A9na).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

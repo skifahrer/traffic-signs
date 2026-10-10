@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "872-11",
+  "image": {
+    "file": "public-transport-signal-go-straight-and-left-sk.svg",
+    "sha1": "c94ad0be4a348403132fb35dabf68923d35db193",
+    "source": "https://commons.wikimedia.org/wiki/File:872-11_Sign%C3%A1l_Vo%C4%BEno_pre_vozidl%C3%A1_verejnej_hromadnej_dopravy_(priamo_a_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "355-50",
+  "image": {
+    "file": "kilometre-marker-sk.svg",
+    "sha1": "fcf66b6cc5add29617d8f52192979b3abab568c5",
+    "source": "https://commons.wikimedia.org/wiki/File:355-50_Kilometrovn%C3%ADk_(z%C3%A1kladn%C3%BD).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

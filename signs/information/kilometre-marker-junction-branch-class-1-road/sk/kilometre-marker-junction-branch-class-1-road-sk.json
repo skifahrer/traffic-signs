@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "355-72",
+  "image": {
+    "file": "kilometre-marker-junction-branch-class-1-road-sk.svg",
+    "sha1": "4173d5662fc62cb2170141fd66b1708dac9461ea",
+    "source": "https://commons.wikimedia.org/wiki/File:355-72_Kilometrovn%C3%ADk_(stani%C4%8Denie_vetvy_dia%C4%BEni%C4%8Dn%C3%A9ho_uzla_alebo_pr%C3%ADpojky_%E2%80%93_cesta_I._triedy_ozna%C4%8Den%C3%A1_Z_309).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

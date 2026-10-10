@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "802",
+  "image": {
+    "file": "vehicle-signal-wait-sk.svg",
+    "sha1": "f34e3f78c6f08346e5c32acc5d9e61eaa1b09991",
+    "source": "https://commons.wikimedia.org/wiki/File:802_Sign%C3%A1l_%C4%8Cakaj_pre_vozidl%C3%A1.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

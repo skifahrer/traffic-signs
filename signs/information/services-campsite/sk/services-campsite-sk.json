@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-70",
+  "image": {
+    "file": "services-campsite-sk.svg",
+    "sha1": "072fe97ceb4ae99a113e3acce30fd9f482ba6e3f",
+    "source": "https://commons.wikimedia.org/wiki/File:330-70_Slu%C5%BEby_(autokemping).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "835-50",
+  "image": {
+    "file": "speed-signal-50-sk.svg",
+    "sha1": "2ef6b9f16311a76c1166b60b180c20a454fc49e6",
+    "source": "https://commons.wikimedia.org/wiki/File:835-50_R%C3%BDchlostn%C3%BD_sign%C3%A1l_(50_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-11-50",
+  "image": {
+    "file": "detour-sign-left-here-numbered-sk.svg",
+    "sha1": "c7622162dbbded82657443b16b37d58256a09c4d",
+    "source": "https://commons.wikimedia.org/wiki/File:394-11-50_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(tu_do%C4%BEava,_%C4%8D%C3%ADslovan%C3%A1_obch%C3%A1dzka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

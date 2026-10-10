@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "501-50",
+  "image": {
+    "file": "distance-metres-sk.svg",
+    "sha1": "582497d9d17a2430be838b9255e1492aec1b76e3",
+    "source": "https://commons.wikimedia.org/wiki/File:501-50_Vzdialenos%C5%A5_(v_metroch,_vzor_100_m).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

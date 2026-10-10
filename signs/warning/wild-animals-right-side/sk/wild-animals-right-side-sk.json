@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "145-10",
+  "image": {
+    "file": "wild-animals-right-side-sk.svg",
+    "sha1": "b43398ddf6c9890a3f5329752a56f0f44e7580b5",
+    "source": "https://commons.wikimedia.org/wiki/File:145-10_Zver_(umiestnenie_vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

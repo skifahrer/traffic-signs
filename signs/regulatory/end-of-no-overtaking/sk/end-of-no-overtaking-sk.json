@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "264",
+  "image": {
+    "file": "end-of-no-overtaking-sk.svg",
+    "sha1": "471760a43db5b8f853a1392ce0de08116d84ab43",
+    "source": "https://commons.wikimedia.org/wiki/File:264_Koniec_z%C3%A1kazu_predch%C3%A1dzania.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

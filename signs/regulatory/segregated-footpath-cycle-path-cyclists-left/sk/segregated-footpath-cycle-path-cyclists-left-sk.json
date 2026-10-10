@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "223-50",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-sk.svg",
+    "sha1": "02cc4c62118f7a23c1ae2346f8c8688a1e036d48",
+    "source": "https://commons.wikimedia.org/wiki/File:223-50_Oddelen%C3%A1_cesti%C4%8Dka_pre_chodcov_a_cyklistov_(cyklisti_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

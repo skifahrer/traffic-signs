@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "131",
+  "image": {
+    "file": "roadworks-sk.svg",
+    "sha1": "d27d9076caca307d7cb7d3d364501fe573a0b38d",
+    "source": "https://commons.wikimedia.org/wiki/File:131_Pr%C3%A1ca.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

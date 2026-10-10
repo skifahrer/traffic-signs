@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "341",
+  "image": {
+    "file": "state-border-sk.svg",
+    "sha1": "ef09b823265794114eec851d99ff4110b455d0a5",
+    "source": "https://commons.wikimedia.org/wiki/File:341_%C5%A0t%C3%A1tna_hranica.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

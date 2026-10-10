@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "351",
+  "image": {
+    "file": "road-number-class-3-sk.svg",
+    "sha1": "bedd38f599769790de3d247b6efb9b78d032cf4c",
+    "source": "https://commons.wikimedia.org/wiki/File:351_%C4%8C%C3%ADslo_cesty_III._triedy_(nevyr%C3%A1ba_sa_ako_samostatn%C3%A1_zna%C4%8Dka,_len_sa_vklad%C3%A1_do_smerov%C3%BDch_zna%C4%8Diek).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

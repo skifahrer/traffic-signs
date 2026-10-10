@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "340-71",
+  "image": {
+    "file": "place-name-tourist-2-line-sk.svg",
+    "sha1": "6d07dca0f792ae6feddb906e2d3664f08c6cf7f5",
+    "source": "https://commons.wikimedia.org/wiki/File:340-71_Miestna_n%C3%A1ves%C5%A5_(turistick%C3%BD_cie%C4%BE_alebo_trasa,_2-riadkov%C3%BD_n%C3%A1zov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

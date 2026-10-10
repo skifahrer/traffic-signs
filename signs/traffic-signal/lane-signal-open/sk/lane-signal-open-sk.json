@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "862",
+  "image": {
+    "file": "lane-signal-open-sk.svg",
+    "sha1": "3ddd6e67f4150d31ede445d3b9013afd3e14f586",
+    "source": "https://commons.wikimedia.org/wiki/File:862_Sign%C3%A1l_Tento_jazdn%C3%BD_pruh_sa_m%C3%B4%C5%BEe_pou%C5%BE%C3%ADva%C5%A5.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

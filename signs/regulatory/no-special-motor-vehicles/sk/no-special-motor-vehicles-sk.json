@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-55",
+  "image": {
+    "file": "no-special-motor-vehicles-sk.svg",
+    "sha1": "565b90547b2c762164e94a45e8ad1b91876fe944",
+    "source": "https://commons.wikimedia.org/wiki/File:233-55_Z%C3%A1kaz_vjazdu_pre_(zvl%C3%A1%C5%A1tne_motorov%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

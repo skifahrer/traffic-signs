@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "336-31",
+  "image": {
+    "file": "emergency-escape-lane-sk.svg",
+    "sha1": "a1f908af358794dc1f9a68004fb44caf93243b48",
+    "source": "https://commons.wikimedia.org/wiki/File:336-31_Miesto_na_n%C3%BAdzov%C3%A9_brzdenie_(priamo,_cesta_ide_do%C4%BEava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

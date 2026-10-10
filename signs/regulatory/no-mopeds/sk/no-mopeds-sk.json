@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-57",
+  "image": {
+    "file": "no-mopeds-sk.svg",
+    "sha1": "3293c035f5f2bc4ed43d39811c6f523ab3b6dde4",
+    "source": "https://commons.wikimedia.org/wiki/File:233-57_Z%C3%A1kaz_vjazdu_pre_(mopedy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

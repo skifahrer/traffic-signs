@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "253-20",
+  "image": {
+    "file": "speed-limit-20-sk.svg",
+    "sha1": "52ebdb4a85c00d77ef13660ec18caf576fbbf8cb",
+    "source": "https://commons.wikimedia.org/wiki/File:253-20_Najvy%C5%A1%C5%A1ia_dovolen%C3%A1_r%C3%BDchlos%C5%A5_(20_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

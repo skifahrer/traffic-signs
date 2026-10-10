@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "146-10",
+  "image": {
+    "file": "farm-animals-right-side-sk.svg",
+    "sha1": "bb70b1f6bcea6cb077f81bf32b8381b327715398",
+    "source": "https://commons.wikimedia.org/wiki/File:146-10_Hospod%C3%A1rske_zvierat%C3%A1_(umiestnenie_vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "152-26",
+  "image": {
+    "file": "level-crossing-countdown-marker-2-bars-with-distance-left-side-sk.svg",
+    "sha1": "c4ada0d45a19fc20085e12290486d9b2fd564801",
+    "source": "https://commons.wikimedia.org/wiki/File:152-26_N%C3%A1ves%C5%A5_pred_priecest%C3%ADm_(2-pruhov%C3%A1_so_vzdialenos%C5%A5ou,_umiestnenie_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

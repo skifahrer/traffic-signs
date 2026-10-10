@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "860",
+  "image": {
+    "file": "lane-signal-closed-sk.svg",
+    "sha1": "b294979323a6d5bc6112f98c3e3eeca910b1117e",
+    "source": "https://commons.wikimedia.org/wiki/File:860_Sign%C3%A1l_Tento_jazdn%C3%BD_pruh_sa_nesmie_pou%C5%BE%C3%ADva%C5%A5.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

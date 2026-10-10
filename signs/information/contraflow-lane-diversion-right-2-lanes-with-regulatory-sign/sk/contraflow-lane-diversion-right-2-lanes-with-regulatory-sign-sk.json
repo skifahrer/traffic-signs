@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "444-21",
+  "image": {
+    "file": "contraflow-lane-diversion-right-2-lanes-with-regulatory-sign-sk.svg",
+    "sha1": "4ef77e1b74e51593e72334be04a1ca43adf3c514",
+    "source": "https://commons.wikimedia.org/wiki/File:444-21_Presmerovanie_jazdn%C3%BDch_pruhov_do_protismeru_(doprava,_2_pruhy,_s_vlo%C5%BEenou_regula%C4%8Dnou_zna%C4%8Dkou).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

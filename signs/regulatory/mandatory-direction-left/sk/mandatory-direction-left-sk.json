@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "210-10",
+  "image": {
+    "file": "mandatory-direction-left-sk.svg",
+    "sha1": "e1d4e5f4511429fc10bdeaae037e90696867536f",
+    "source": "https://commons.wikimedia.org/wiki/File:210-10_Prik%C3%A1zan%C3%BD_smer_jazdy_(v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

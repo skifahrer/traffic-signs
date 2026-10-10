@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "230",
+  "image": {
+    "file": "no-entry-sk.svg",
+    "sha1": "c327eb04e3d117a7a36e726122efd61827f2c7fa",
+    "source": "https://commons.wikimedia.org/wiki/File:230_Z%C3%A1kaz_vjazdu.svg",
+    "author": "Government of the Slovak Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

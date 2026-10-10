@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "275",
+  "image": {
+    "file": "no-parking-zone-sk.svg",
+    "sha1": "9e1e4649fdf2527feab2e9deae1075e7320343c0",
+    "source": "https://commons.wikimedia.org/wiki/File:275_Z%C3%B3na_z%C3%A1kazu_st%C3%A1tia.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

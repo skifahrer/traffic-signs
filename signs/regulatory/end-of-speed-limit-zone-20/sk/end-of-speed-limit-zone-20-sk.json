@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "269-20",
+  "image": {
+    "file": "end-of-speed-limit-zone-20-sk.svg",
+    "sha1": "bebf01627a98ba992f2fc16a0522f1cd020c8e94",
+    "source": "https://commons.wikimedia.org/wiki/File:269-20_Koniec_z%C3%B3ny_najvy%C5%A1%C5%A1ej_dovolenej_r%C3%BDchlosti_(20_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

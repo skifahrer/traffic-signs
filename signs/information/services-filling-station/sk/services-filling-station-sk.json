@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-52",
+  "image": {
+    "file": "services-filling-station-sk.svg",
+    "sha1": "c42e26fdb7c44c18bf1548e6ac4b3d9636adb4c9",
+    "source": "https://commons.wikimedia.org/wiki/File:330-52_Slu%C5%BEby_(%C4%8Derpacia_stanica).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

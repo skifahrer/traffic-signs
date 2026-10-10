@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "340-82",
+  "image": {
+    "file": "place-name-water-minority-language-sk.svg",
+    "sha1": "ededcdfcd943b18af2492e5b5f228579dd86051f",
+    "source": "https://commons.wikimedia.org/wiki/File:340-82_Miestna_n%C3%A1ves%C5%A5_(v%C3%BDznamn%C3%BD_vodn%C3%BD_tok_alebo_plocha_%2B_n%C3%A1zov_v_jazyku_n%C3%A1rodnostnej_men%C5%A1iny).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "841-53",
+  "image": {
+    "file": "flashing-amber-signal-tram-sk.svg",
+    "sha1": "d21cdf566b654378cbdf076fb9acf75bd56ce938",
+    "source": "https://commons.wikimedia.org/wiki/File:841-53_Preru%C5%A1ovan%C3%BD_%C5%BElt%C3%BD_sign%C3%A1l_so_symbolom_%C3%BA%C4%8Dastn%C3%ADka_(elektri%C4%8Dka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

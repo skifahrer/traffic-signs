@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "136",
+  "image": {
+    "file": "intersection-sk.svg",
+    "sha1": "994c5c822dd963132100108b034fc2ba555b980f",
+    "source": "https://commons.wikimedia.org/wiki/File:136_Kri%C5%BEovatka.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

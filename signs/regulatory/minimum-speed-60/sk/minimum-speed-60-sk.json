@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "250-60",
+  "image": {
+    "file": "minimum-speed-60-sk.svg",
+    "sha1": "08b3b7c9b3d4c377f44c130abf1f5df37bd272fe",
+    "source": "https://commons.wikimedia.org/wiki/File:250-60_Najni%C5%BE%C5%A1ia_dovolen%C3%A1_r%C3%BDchlos%C5%A5_(60_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

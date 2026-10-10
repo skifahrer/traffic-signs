@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-89",
+  "image": {
+    "file": "services-port-sk.svg",
+    "sha1": "b51f7469e268a8aa93889212e1ded40c54db4809",
+    "source": "https://commons.wikimedia.org/wiki/File:330-89_Slu%C5%BEby_(pr%C3%ADstav).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "301-20",
+  "image": {
+    "file": "priority-intersection-side-road-right-sk.svg",
+    "sha1": "9f2408ccfec7e6d6359fa5ddee3145377d902076",
+    "source": "https://commons.wikimedia.org/wiki/File:301-20_Kri%C5%BEovatka_s_prednos%C5%A5ou_v_jazde_(ved%C4%BEaj%C5%A1ia_cesta_sprava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

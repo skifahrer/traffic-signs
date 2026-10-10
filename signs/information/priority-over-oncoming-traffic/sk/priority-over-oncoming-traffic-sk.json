@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "304",
+  "image": {
+    "file": "priority-over-oncoming-traffic-sk.svg",
+    "sha1": "fd81cc87090b2d5acda3af5c4cdaca3edcec4d56",
+    "source": "https://commons.wikimedia.org/wiki/File:304_Prednos%C5%A5_pred_protiid%C3%BAcimi_vozidlami.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "396-32-52",
+  "image": {
+    "file": "end-of-detour-goods-vehicles-sk.svg",
+    "sha1": "4b87ab7d6cc2a7504e2da2387ca3b4ac0a39b7f0",
+    "source": "https://commons.wikimedia.org/wiki/File:396-32-52_Koniec_obch%C3%A1dzky_(pre_n%C3%A1kladn%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

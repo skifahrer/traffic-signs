@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-62-58",
+  "image": {
+    "file": "detour-sign-top-panel-bicycles-sk.svg",
+    "sha1": "2aa0a88646f2ff6161e29d4927efdc4b18f64e65",
+    "source": "https://commons.wikimedia.org/wiki/File:394-62-58_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(pr%C3%ADdavn%C3%A1_tabu%C4%BEka_nad_zna%C4%8Dkou,_pre_bicykle).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

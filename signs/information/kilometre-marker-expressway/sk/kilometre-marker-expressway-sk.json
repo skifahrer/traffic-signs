@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "355-61",
+  "image": {
+    "file": "kilometre-marker-expressway-sk.svg",
+    "sha1": "4a87a7931a44fb66e0e69ee619d40597b6d41834",
+    "source": "https://commons.wikimedia.org/wiki/File:355-61_Kilometrovn%C3%ADk_(s_%C4%8D%C3%ADslom_r%C3%BDchlostnej_cesty).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

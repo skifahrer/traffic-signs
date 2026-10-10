@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-59",
+  "image": {
+    "file": "services-ev-charging-at-facility-sk.svg",
+    "sha1": "7fbce95679a1cd36dbe0d3b320b3a07665fc58f1",
+    "source": "https://commons.wikimedia.org/wiki/File:330-59_Slu%C5%BEby_(dob%C3%ADjacia_stanica_pre_elektromobily,_slu%C5%BEba_poskytovan%C3%A1_v_r%C3%A1mci_in%C3%A9ho_objektu).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "422-12",
+  "image": {
+    "file": "lane-gain-left-to-4-lanes-with-regulatory-sign-sk.svg",
+    "sha1": "7dd761dba40a240f9f8b3d1fa36a4d6c219caa3b",
+    "source": "https://commons.wikimedia.org/wiki/File:422-12_Zv%C3%BD%C5%A1enie_po%C4%8Dtu_jazdn%C3%BDch_pruhov_(v%C4%BEavo,_pokra%C4%8Duj%C3%BA_4_pruhy_%2B_regula%C4%8Dn%C3%A1_zna%C4%8Dka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

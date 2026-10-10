@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "705-10",
+  "image": {
+    "file": "chevron-board-1-arrow-left-500x500mm-sk.svg",
+    "sha1": "9443ca1d82042458e0ada9790f61b4d658e4e813",
+    "source": "https://commons.wikimedia.org/wiki/File:705-10_Smerovacia_tabu%C4%BEa_(1-%C5%A1%C3%ADpov%C3%A1,_%C4%BEav%C3%A1_orient%C3%A1cia,_500_x_500_mm).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

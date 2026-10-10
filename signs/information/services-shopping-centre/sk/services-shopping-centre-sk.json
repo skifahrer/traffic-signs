@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-97",
+  "image": {
+    "file": "services-shopping-centre-sk.svg",
+    "sha1": "c448944a63d2de34847f9a22f1d8a31d1475810c",
+    "source": "https://commons.wikimedia.org/wiki/File:330-97_Slu%C5%BEby_(n%C3%A1kupn%C3%A9_stredisko).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

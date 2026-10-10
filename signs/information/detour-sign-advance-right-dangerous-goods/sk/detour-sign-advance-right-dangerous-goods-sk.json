@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-28-75",
+  "image": {
+    "file": "detour-sign-advance-right-dangerous-goods-sk.svg",
+    "sha1": "1e05eaf722b4abb88f7e09f5d2e442532ce7e684",
+    "source": "https://commons.wikimedia.org/wiki/File:394-28-75_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(predbe%C5%BEn%C3%BD_doprava,_pre_vozidl%C3%A1_prepravuj%C3%BAce_nebezpe%C4%8Dn%C3%A9_veci).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-88-10",
+  "image": {
+    "file": "services-airport-left-sk.svg",
+    "sha1": "aa9941529d0b437220e1a522a12cc98c8151275b",
+    "source": "https://commons.wikimedia.org/wiki/File:330-88-10_Slu%C5%BEby_(letisko,_smer_jazdy_do%C4%BEava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

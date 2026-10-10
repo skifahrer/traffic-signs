@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "355-62",
+  "image": {
+    "file": "kilometre-marker-major-class-1-road-sk.svg",
+    "sha1": "b5695e1a981128ced82136dd832a718853e7d011",
+    "source": "https://commons.wikimedia.org/wiki/File:355-62_Kilometrovn%C3%ADk_(s_%C4%8D%C3%ADslom_zvl%C3%A1%C5%A1%C5%A5_v%C3%BDznamnej_cesty_I._triedy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

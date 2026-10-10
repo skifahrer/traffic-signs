@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "327-51",
+  "image": {
+    "file": "step-free-pedestrian-subway-sk.svg",
+    "sha1": "f7bc2afbebcc29c1fd8c1a0ba6671954f264d62b",
+    "source": "https://commons.wikimedia.org/wiki/File:327-51_Podchod_alebo_nadchod_(bezbari%C3%A9rov%C3%BD_podchod).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

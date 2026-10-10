@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "331-50",
+  "image": {
+    "file": "bus-stop-sk.svg",
+    "sha1": "b9db590dc4a91e8b06dfb84b965df02525695449",
+    "source": "https://commons.wikimedia.org/wiki/File:331-50_Zast%C3%A1vka_(autobus,_trolejbus,_elektrobus).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

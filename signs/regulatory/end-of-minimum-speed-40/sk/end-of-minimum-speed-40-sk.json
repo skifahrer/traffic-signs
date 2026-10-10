@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "260-40",
+  "image": {
+    "file": "end-of-minimum-speed-40-sk.svg",
+    "sha1": "14c7cd4c31428b838d4545570ed281efed13a40f",
+    "source": "https://commons.wikimedia.org/wiki/File:260-40_Koniec_najni%C5%BE%C5%A1ej_dovolenej_r%C3%BDchlosti_(40_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

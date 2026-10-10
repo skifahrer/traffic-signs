@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "392-53",
+  "image": {
+    "file": "closure-advance-notice-weight-restriction-sk.svg",
+    "sha1": "5dfbb4c467304c98916c0374a8a527d6bbaf4400",
+    "source": "https://commons.wikimedia.org/wiki/File:392-53_Uz%C3%A1vierkov%C3%A1_predzves%C5%A5_(v%C4%8Dasn%C3%A1_inform%C3%A1cia_o_trvalom_hmotnostnom_obmedzen%C3%AD_-_napr._na_moste).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

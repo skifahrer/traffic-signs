@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "318",
+  "image": {
+    "file": "end-of-pedestrian-zone-sk.svg",
+    "sha1": "d511e8bee0334fc2b09e44fb2deb03c6dd4a26dd",
+    "source": "https://commons.wikimedia.org/wiki/File:318_Koniec_pe%C5%A1ej_z%C3%B3ny.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "272-50",
+  "image": {
+    "file": "parking-garage-sk.svg",
+    "sha1": "f9edb43f97612c8f3accbac5a36dba50088944b6",
+    "source": "https://commons.wikimedia.org/wiki/File:272-50_Parkovanie_(parkovacia_gar%C3%A1%C5%BE_alebo_parkovac%C3%AD_dom).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

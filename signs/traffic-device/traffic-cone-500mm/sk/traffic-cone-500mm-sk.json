@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "703-31",
+  "image": {
+    "file": "traffic-cone-500mm-sk.svg",
+    "sha1": "db8607959086a667fcca1d36a56c59fda72ff9ea",
+    "source": "https://commons.wikimedia.org/wiki/File:703-31_Dopravn%C3%BD_ku%C5%BEe%C4%BE_(retroreflexn%C3%BD_obraz_425_mm,_celkov%C3%A1_v%C3%BD%C5%A1ka_ku%C5%BEe%C4%BEa_500_mm).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

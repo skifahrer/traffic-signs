@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "140-20",
+  "image": {
+    "file": "pedestrians-left-side-sk.svg",
+    "sha1": "eee85ae5d8cbeec12e3122a5baf416dd4562e3bf",
+    "source": "https://commons.wikimedia.org/wiki/File:140-20_Chodci_(umiestnenie_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
