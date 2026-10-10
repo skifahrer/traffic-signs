@@ -1,0 +1,15 @@
+{
+  "sign": "pavement-parking-full-right-continued",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "273-68",
+  "name": {
+    "en": "Parking on the pavement (fully, placed at an angle or parallel, right, continuation)",
+    "sk": "Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vpravo: priebeh platnosti)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "273-68 Parkovanie na chodníku (úplne, umiestnenie šikmo-pozdĺžne vpravo, priebeh platnosti).svg"
+  }
+}

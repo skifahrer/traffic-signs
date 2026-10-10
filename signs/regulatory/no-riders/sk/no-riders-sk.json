@@ -1,0 +1,15 @@
+{
+  "sign": "no-riders",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "233-64",
+  "name": {
+    "en": "No entry for riders on animals",
+    "sk": "Zákaz vjazdu pre (jazdcov na zvierati)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "233-64 Zákaz vjazdu pre (jazdcov na zvierati).svg"
+  }
+}

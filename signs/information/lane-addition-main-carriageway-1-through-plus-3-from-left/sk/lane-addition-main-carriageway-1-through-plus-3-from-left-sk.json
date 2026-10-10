@@ -1,0 +1,15 @@
+{
+  "sign": "lane-addition-main-carriageway-1-through-plus-3-from-left",
+  "category": "information",
+  "country": "sk",
+  "code": "431-15",
+  "name": {
+    "en": "Lane addition at junction (on the main carriageway, 1 through + 3 from the left)",
+    "sk": "Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 3 zľava)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "431-15 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 3 zľava).svg"
+  }
+}

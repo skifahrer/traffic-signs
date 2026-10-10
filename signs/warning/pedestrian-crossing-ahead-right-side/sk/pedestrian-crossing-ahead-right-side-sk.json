@@ -1,0 +1,15 @@
+{
+  "sign": "pedestrian-crossing-ahead-right-side",
+  "category": "warning",
+  "country": "sk",
+  "code": "142-10",
+  "name": {
+    "en": "Pedestrian crossing ahead (placed on the right)",
+    "sk": "Priechod pre chodcov (výstražná značka; umiestnenie vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "142-10 Priechod pre chodcov (výstražná značka; umiestnenie vpravo).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "no-trailers",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "233-72",
+  "name": {
+    "en": "No entry for trailers",
+    "sk": "Zákaz vjazdu pre (prípojné vozidlá)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "233-72 Zákaz vjazdu pre (prípojné vozidlá).svg"
+  }
+}

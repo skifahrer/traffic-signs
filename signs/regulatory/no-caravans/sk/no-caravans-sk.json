@@ -1,0 +1,15 @@
+{
+  "sign": "no-caravans",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "233-78",
+  "name": {
+    "en": "No entry for caravans",
+    "sk": "Zákaz vjazdu pre (obytné prívesy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "233-78 Zákaz vjazdu pre (obytné prívesy).svg"
+  }
+}

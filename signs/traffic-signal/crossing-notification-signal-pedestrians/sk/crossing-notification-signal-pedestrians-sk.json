@@ -1,0 +1,15 @@
+{
+  "sign": "crossing-notification-signal-pedestrians",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "832-50",
+  "name": {
+    "en": "Crossing traffic notification signal (pedestrians)",
+    "sk": "Notifikačný signál o križovaní smeru (chodcov)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "832-50 Notifikačný signál o križovaní smeru (chodcov).svg"
+  }
+}

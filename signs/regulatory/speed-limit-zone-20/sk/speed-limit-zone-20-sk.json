@@ -1,0 +1,15 @@
+{
+  "sign": "speed-limit-zone-20",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "268-20",
+  "name": {
+    "en": "Speed limit zone (20 km/h)",
+    "sk": "Zóna najvyššej dovolenej rýchlosti (20 km/h)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "268-20 Zóna najvyššej dovolenej rýchlosti (20 kmh).svg"
+  }
+}

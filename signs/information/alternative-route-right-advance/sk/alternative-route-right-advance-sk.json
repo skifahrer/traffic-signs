@@ -1,0 +1,15 @@
+{
+  "sign": "alternative-route-right-advance",
+  "category": "information",
+  "country": "sk",
+  "code": "390-20",
+  "name": {
+    "en": "Alternative route (to the right, advance)",
+    "sk": "Náhradná trasa (doprava, predbežná)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "390-20 Náhradná trasa (doprava, predbežná).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "dead-end-except-cyclists",
+  "category": "information",
+  "country": "sk",
+  "code": "328-50",
+  "name": {
+    "en": "Dead end (passable for cyclists)",
+    "sk": "Slepá cesta (prejazdná pre cyklistov)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "328-50 Slepá cesta (prejazdná pre cyklistov).svg"
+  }
+}

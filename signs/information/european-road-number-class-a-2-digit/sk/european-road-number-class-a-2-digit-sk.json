@@ -1,0 +1,15 @@
+{
+  "sign": "european-road-number-class-a-2-digit",
+  "category": "information",
+  "country": "sk",
+  "code": "353-50",
+  "name": {
+    "en": "European road number (class A, 2-digit number)",
+    "sk": "Číslo E-cesty (trieda A, 2-ciferné číslo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "353-50 Číslo E-cesty (trieda A, 2-ciferné číslo).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-axle-weight-8t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "241-8",
+  "name": {
+    "en": "Maximum axle weight (8 t)",
+    "sk": "Maximálna hmotnosť na nápravu (8 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "241-8 Maximálna hmotnosť na nápravu (8 t).svg"
+  }
+}

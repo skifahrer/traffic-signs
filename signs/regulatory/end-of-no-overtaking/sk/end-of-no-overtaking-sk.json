@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-no-overtaking",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "264",
+  "name": {
+    "en": "End of no overtaking",
+    "sk": "Koniec zákazu predchádzania"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "264 Koniec zákazu predchádzania.svg"
+  }
+}

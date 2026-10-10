@@ -1,0 +1,15 @@
+{
+  "sign": "hard-shoulder-running-2-lanes",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "280-50",
+  "name": {
+    "en": "Hard shoulder running (2 lanes and hard shoulder)",
+    "sk": "Jazda po krajnici (2 pruhy + krajnica)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "280-50 Jazda po krajnici (2 pruhy + krajnica).svg"
+  }
+}

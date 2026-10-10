@@ -1,0 +1,15 @@
+{
+  "sign": "closure-barrier-250x2400mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "701-56",
+  "name": {
+    "en": "Closure barrier (250 × 2400 mm)",
+    "sk": "Zábrana na označenie uzávierky (250 x 2400 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "701-56 Zábrana na označenie uzávierky (250 x 2400 mm).svg"
+  }
+}

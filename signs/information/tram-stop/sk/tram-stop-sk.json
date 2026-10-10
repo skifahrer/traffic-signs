@@ -1,0 +1,15 @@
+{
+  "sign": "tram-stop",
+  "category": "information",
+  "country": "sk",
+  "code": "331-60",
+  "name": {
+    "en": "Tram stop",
+    "sk": "Zastávka (električka)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "331-60 Zastávka (električka).svg"
+  }
+}

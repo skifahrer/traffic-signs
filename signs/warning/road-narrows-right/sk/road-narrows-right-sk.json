@@ -1,0 +1,15 @@
+{
+  "sign": "road-narrows-right",
+  "category": "warning",
+  "country": "sk",
+  "code": "114-10",
+  "name": {
+    "en": "Road narrows (from the right)",
+    "sk": "Zúžená vozovka (sprava)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "114-10 Zúžená vozovka (sprava).svg"
+  }
+}

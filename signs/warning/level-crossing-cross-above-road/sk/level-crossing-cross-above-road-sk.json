@@ -1,0 +1,15 @@
+{
+  "sign": "level-crossing-cross-above-road",
+  "category": "warning",
+  "country": "sk",
+  "code": "153-52",
+  "name": {
+    "en": "Level crossing cross (above the road)",
+    "sk": "Výstražný kríž (nad vozovkou)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "153-52 Výstražný kríž (nad vozovkou).svg"
+  }
+}

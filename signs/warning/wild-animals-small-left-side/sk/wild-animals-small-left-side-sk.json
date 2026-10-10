@@ -1,0 +1,15 @@
+{
+  "sign": "wild-animals-small-left-side",
+  "category": "warning",
+  "country": "sk",
+  "code": "145-21",
+  "name": {
+    "en": "Wild animals (small animals, placed on the left)",
+    "sk": "Zver (drobné živočíchy, umiestnenie vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "145-21 Zver (drobné živočíchy, umiestnenie vľavo).svg"
+  }
+}

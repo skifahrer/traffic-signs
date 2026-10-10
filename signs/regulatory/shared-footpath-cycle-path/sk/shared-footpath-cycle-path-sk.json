@@ -1,0 +1,15 @@
+{
+  "sign": "shared-footpath-cycle-path",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "222",
+  "name": {
+    "en": "Shared footpath and cycle path",
+    "sk": "Spoločná cestička pre chodcov a cyklistov"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "222 Spoločná cestička pre chodcov a cyklistov.svg"
+  }
+}

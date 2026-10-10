@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-8t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-8",
+  "name": {
+    "en": "Maximum weight (8 t)",
+    "sk": "Maximálna hmotnosť (8 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-8 Maximálna hmotnosť (8 t).svg"
+  }
+}

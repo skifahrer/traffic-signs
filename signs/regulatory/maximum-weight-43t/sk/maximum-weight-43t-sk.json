@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-43t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-43",
+  "name": {
+    "en": "Maximum weight (43 t)",
+    "sk": "Maximálna hmotnosť (43 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-43 Maximálna hmotnosť (43 t).svg"
+  }
+}

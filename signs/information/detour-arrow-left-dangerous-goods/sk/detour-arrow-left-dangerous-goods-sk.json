@@ -1,0 +1,15 @@
+{
+  "sign": "detour-arrow-left-dangerous-goods",
+  "category": "information",
+  "country": "sk",
+  "code": "395-12-75",
+  "name": {
+    "en": "Detour arrow (to the left, for vehicles carrying dangerous goods)",
+    "sk": "Šípový smerník na vyznačenie obchádzky (doľava, pre vozidlá prepravujúce nebezpečné veci)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "395-12-75 Šípový smerník na vyznačenie obchádzky (doľava, pre vozidlá prepravujúce nebezpečné veci).svg"
+  }
+}

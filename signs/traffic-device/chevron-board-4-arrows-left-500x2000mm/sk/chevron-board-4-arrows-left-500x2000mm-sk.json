@@ -1,0 +1,15 @@
+{
+  "sign": "chevron-board-4-arrows-left-500x2000mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "705-14",
+  "name": {
+    "en": "Chevron board (4 arrows, left-pointing, 500 × 2000 mm)",
+    "sk": "Smerovacia tabuľa (4-šípová, ľavá orientácia, 500 x 2000 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "705-14 Smerovacia tabuľa (4-šípová, ľavá orientácia, 500 x 2000 mm).svg"
+  }
+}

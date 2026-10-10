@@ -1,0 +1,15 @@
+{
+  "sign": "public-transport-signal-go-straight-and-left",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "872-11",
+  "name": {
+    "en": "Public transport signal: go (straight ahead and left)",
+    "sk": "Signál Voľno pre vozidlá verejnej hromadnej dopravy (priamo a vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "872-11 Signál Voľno pre vozidlá verejnej hromadnej dopravy (priamo a vľavo).svg"
+  }
+}

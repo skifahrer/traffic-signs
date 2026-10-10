@@ -1,0 +1,15 @@
+{
+  "sign": "no-mopeds",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "233-57",
+  "name": {
+    "en": "No entry for mopeds",
+    "sk": "Zákaz vjazdu pre (mopedy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "233-57 Zákaz vjazdu pre (mopedy).svg"
+  }
+}

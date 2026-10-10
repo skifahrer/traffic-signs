@@ -1,0 +1,15 @@
+{
+  "sign": "detour-arrow-left-numbered",
+  "category": "information",
+  "country": "sk",
+  "code": "395-11-50",
+  "name": {
+    "en": "Detour arrow (to the left, numbered detour)",
+    "sk": "Šípový smerník na vyznačenie obchádzky (doľava, číslovaná obchádzka)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "395-11-50 Šípový smerník na vyznačenie obchádzky (doľava, číslovaná obchádzka).svg"
+  }
+}

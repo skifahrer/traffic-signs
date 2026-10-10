@@ -1,0 +1,15 @@
+{
+  "sign": "pass-on-left",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "212-10",
+  "name": {
+    "en": "Pass on the left",
+    "sk": "Prikázaný smer obchádzania (vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "212-10 Prikázaný smer obchádzania (vľavo).svg"
+  }
+}

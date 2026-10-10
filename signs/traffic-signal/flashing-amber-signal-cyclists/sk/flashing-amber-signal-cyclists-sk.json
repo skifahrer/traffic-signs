@@ -1,0 +1,15 @@
+{
+  "sign": "flashing-amber-signal-cyclists",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "841-51",
+  "name": {
+    "en": "Flashing amber signal with road user symbol (cyclists)",
+    "sk": "Prerušovaný žltý signál so symbolom účastníka (cyklisti)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "841-51 Prerušovaný žltý signál so symbolom účastníka (cyklisti).svg"
+  }
+}

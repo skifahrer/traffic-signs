@@ -1,0 +1,15 @@
+{
+  "sign": "cyclist-crossing-signal-stop",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "822",
+  "name": {
+    "en": "Cyclist crossing signal: stop",
+    "sk": "Signál Stoj pre cyklistov (pri prechádzaní cez vozovku)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "822 Signál Stoj pre cyklistov (pri prechádzaní cez vozovku).svg"
+  }
+}

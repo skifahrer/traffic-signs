@@ -1,0 +1,15 @@
+{
+  "sign": "leave-hard-shoulder-3-lanes",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "281-51",
+  "name": {
+    "en": "Leave the hard shoulder (3 lanes and hard shoulder)",
+    "sk": "Opustite krajnicu (3 pruhy + krajnica)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "281-51 Opustite krajnicu (3 pruhy + krajnica).svg"
+  }
+}

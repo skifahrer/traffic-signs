@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-13t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-13",
+  "name": {
+    "en": "Maximum weight (13 t)",
+    "sk": "Maximálna hmotnosť (13 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-13 Maximálna hmotnosť (13 t).svg"
+  }
+}

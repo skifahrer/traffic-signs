@@ -1,0 +1,15 @@
+{
+  "sign": "speed-check",
+  "category": "information",
+  "country": "sk",
+  "code": "334",
+  "name": {
+    "en": "Speed check",
+    "sk": "Kontrola rýchlosti"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "334 Kontrola rýchlosti.svg"
+  }
+}

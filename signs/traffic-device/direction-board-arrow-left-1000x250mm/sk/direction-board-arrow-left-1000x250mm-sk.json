@@ -1,0 +1,15 @@
+{
+  "sign": "direction-board-arrow-left-1000x250mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "702-10",
+  "name": {
+    "en": "Direction board (arrow, left-pointing, 1000 × 250 mm)",
+    "sk": "Smerovacia doska (šípová, ľavá orientácia, 1000 x 250 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "702-10 Smerovacia doska (šípová, ľavá orientácia, 1000 x 250 mm).svg"
+  }
+}

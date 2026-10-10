@@ -1,0 +1,15 @@
+{
+  "sign": "number-of-lanes-2-with-regulatory-sign",
+  "category": "information",
+  "country": "sk",
+  "code": "402-30",
+  "name": {
+    "en": "Number of lanes (2 lanes + regulatory sign)",
+    "sk": "Počet jazdných pruhov (2 pruhy + regulačná značka)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "402-30 Počet jazdných pruhov (2 pruhy + regulačná značka).svg"
+  }
+}

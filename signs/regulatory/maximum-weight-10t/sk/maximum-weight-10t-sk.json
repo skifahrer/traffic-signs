@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-10t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-10",
+  "name": {
+    "en": "Maximum weight (10 t)",
+    "sk": "Maximálna hmotnosť (10 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-10 Maximálna hmotnosť (10 t).svg"
+  }
+}

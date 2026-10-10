@@ -1,0 +1,15 @@
+{
+  "sign": "number-of-lanes-1-plus-2-oncoming",
+  "category": "information",
+  "country": "sk",
+  "code": "403-32",
+  "name": {
+    "en": "Number of lanes (1 lane + 2 oncoming)",
+    "sk": "Počet jazdných pruhov (1 pruh + 2 v protismere)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "403-32 Počet jazdných pruhov (1 pruh + 2 v protismere).svg"
+  }
+}

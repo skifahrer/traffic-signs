@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-footpath",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "225-50",
+  "name": {
+    "en": "End of footpath",
+    "sk": "Koniec špeciálnej cestičky alebo pruhu (cestička pre chodcov)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "225-50 Koniec špeciálnej cestičky alebo pruhu (cestička pre chodcov).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "mandatory-direction-left",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "210-10",
+  "name": {
+    "en": "Mandatory direction (left)",
+    "sk": "Prikázaný smer jazdy (vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "210-10 Prikázaný smer jazdy (vľavo).svg"
+  }
+}

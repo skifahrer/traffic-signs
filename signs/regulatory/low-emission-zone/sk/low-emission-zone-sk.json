@@ -1,0 +1,15 @@
+{
+  "sign": "low-emission-zone",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "248",
+  "name": {
+    "en": "Low emission zone",
+    "sk": "Nízkoemisná zóna"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "248 Nízkoemisná zóna.svg"
+  }
+}

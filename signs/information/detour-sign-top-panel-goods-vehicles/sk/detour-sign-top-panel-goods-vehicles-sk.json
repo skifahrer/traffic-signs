@@ -1,0 +1,15 @@
+{
+  "sign": "detour-sign-top-panel-goods-vehicles",
+  "category": "information",
+  "country": "sk",
+  "code": "394-62-52",
+  "name": {
+    "en": "Detour sign (supplementary panel above the sign, for goods vehicles)",
+    "sk": "Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, pre nákladné vozidlá)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "394-62-52 Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, pre nákladné vozidlá).svg"
+  }
+}

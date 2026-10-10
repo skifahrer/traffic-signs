@@ -1,0 +1,15 @@
+{
+  "sign": "detour-sign-lane-change-right-road-number",
+  "category": "information",
+  "country": "sk",
+  "code": "394-24-52",
+  "name": {
+    "en": "Detour sign (lane change, right, with class I or II road number)",
+    "sk": "Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, s číslom cesty I. alebo II. triedy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "394-24-52 Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, s číslom cesty I. alebo II. triedy).svg"
+  }
+}

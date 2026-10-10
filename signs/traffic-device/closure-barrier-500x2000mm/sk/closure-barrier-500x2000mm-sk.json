@@ -1,0 +1,15 @@
+{
+  "sign": "closure-barrier-500x2000mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "701-58",
+  "name": {
+    "en": "Closure barrier (500 × 2000 mm)",
+    "sk": "Zábrana na označenie uzávierky (500 x 2000 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "701-58 Zábrana na označenie uzávierky (500 x 2000 mm).svg"
+  }
+}

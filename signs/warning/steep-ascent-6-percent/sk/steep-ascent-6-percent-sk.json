@@ -1,0 +1,15 @@
+{
+  "sign": "steep-ascent-6-percent",
+  "category": "warning",
+  "country": "sk",
+  "code": "113-6",
+  "name": {
+    "en": "Steep ascent (6%)",
+    "sk": "Stúpanie (6%)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "113-6 Stúpanie (6%).svg"
+  }
+}

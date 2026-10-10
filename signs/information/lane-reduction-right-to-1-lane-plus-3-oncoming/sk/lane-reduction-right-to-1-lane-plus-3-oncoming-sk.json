@@ -1,0 +1,15 @@
+{
+  "sign": "lane-reduction-right-to-1-lane-plus-3-oncoming",
+  "category": "information",
+  "country": "sk",
+  "code": "413-25",
+  "name": {
+    "en": "Lane reduction (right, 1 lane continuing + 3 oncoming)",
+    "sk": "Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruhy + 3 v protismere)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "413-25 Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruhy + 3 v protismere).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "mandatory-direction-straight-or-right",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "210-32",
+  "name": {
+    "en": "Mandatory direction (straight ahead or right)",
+    "sk": "Prikázaný smer jazdy (priamo alebo vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "210-23 Prikázaný smer jazdy (priamo a vpravo).svg"
+  }
+}

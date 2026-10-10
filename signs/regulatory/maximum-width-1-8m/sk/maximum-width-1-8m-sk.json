@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-width-1-8m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "242-1,8",
+  "name": {
+    "en": "Maximum width (1.8 m)",
+    "sk": "Maximálna šírka (1,8 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "242-1,8 Maximálna šírka (1,8 m).svg"
+  }
+}

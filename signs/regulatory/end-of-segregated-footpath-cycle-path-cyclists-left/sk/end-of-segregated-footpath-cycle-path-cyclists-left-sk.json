@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "225-80",
+  "name": {
+    "en": "End of segregated footpath and cycle path (cyclists on the left)",
+    "sk": "Koniec špeciálnej cestičky alebo pruhu (oddelená cestička pre chodcov a cyklistov, cyklisti vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "225-80 Koniec špeciálnej cestičky alebo pruhu (oddelená cestička pre chodcov a cyklistov, cyklisti vľavo).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "no-parking-left-end",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "271-11",
+  "name": {
+    "en": "No parking (placed at an angle or parallel, left, end)",
+    "sk": "Zákaz státia (umiestnenie šikmo/pozdĺžne vľavo: koniec platnosti)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "271-11 Zákaz státia (umiestnenie šikmo-pozdĺžne vľavo, koniec platnosti).svg"
+  }
+}

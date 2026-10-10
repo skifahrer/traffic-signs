@@ -1,0 +1,15 @@
+{
+  "sign": "supplementary-green-arrow-straight",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "831-30",
+  "name": {
+    "en": "Supplementary green arrow before the intersection (straight ahead)",
+    "sk": "Signál Doplnková zelená šípka pred križovatkou (priamo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "831-30 Signál Doplnková zelená šípka pred križovatkou (priamo).svg"
+  }
+}

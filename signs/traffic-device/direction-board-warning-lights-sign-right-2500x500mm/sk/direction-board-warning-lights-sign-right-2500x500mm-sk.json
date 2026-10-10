@@ -1,0 +1,15 @@
+{
+  "sign": "direction-board-warning-lights-sign-right-2500x500mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "702-24",
+  "name": {
+    "en": "Direction board (warning, with amber lights and sign, right-pointing, 2500 × 500 mm)",
+    "sk": "Smerovacia doska (varovná so žltými svetlami a značkou, pravá orientácia, 2500 x 500 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "702-24 Smerovacia doska (varovná so žltými svetlami a značkou, pravá orientácia, 2500 x 500 mm).svg"
+  }
+}

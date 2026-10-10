@@ -1,0 +1,15 @@
+{
+  "sign": "distance-kilometres",
+  "category": "additional-panel",
+  "country": "sk",
+  "code": "501-51",
+  "name": {
+    "en": "Distance (in kilometres, e.g. 3 km)",
+    "sk": "Vzdialenosť (v kilometroch, vzor 3 km)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "501-51 Vzdialenosť (v kilometroch, vzor 3 km).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "state-border",
+  "category": "information",
+  "country": "sk",
+  "code": "341",
+  "name": {
+    "en": "State border",
+    "sk": "Štátna hranica"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "341 Štátna hranica.svg"
+  }
+}

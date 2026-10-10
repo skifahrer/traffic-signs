@@ -1,0 +1,15 @@
+{
+  "sign": "detour-sign-advance-left",
+  "category": "information",
+  "country": "sk",
+  "code": "394-16",
+  "name": {
+    "en": "Detour sign (advance, left)",
+    "sk": "Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, bez bližšieho označenia)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "394-16 Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, bez bližšieho označenia).svg"
+  }
+}

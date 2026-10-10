@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-width-2-5m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "242-2,5",
+  "name": {
+    "en": "Maximum width (2.5 m)",
+    "sk": "Maximálna šírka (2,5 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "242-2,5 Maximálna šírka (2,5 m).svg"
+  }
+}

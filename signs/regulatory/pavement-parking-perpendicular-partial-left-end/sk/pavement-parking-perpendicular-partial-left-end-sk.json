@@ -1,0 +1,15 @@
+{
+  "sign": "pavement-parking-perpendicular-partial-left-end",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "273-72",
+  "name": {
+    "en": "Parking on the pavement (perpendicular, partially, placed at an angle or parallel, left, end)",
+    "sk": "Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vľavo, koniec platnosti)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "273-72 Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vľavo, koniec platnosti).svg"
+  }
+}

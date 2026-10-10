@@ -1,0 +1,15 @@
+{
+  "sign": "pavement-parking-partial-right",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "273-55",
+  "name": {
+    "en": "Parking on the pavement (partially, placed at an angle or parallel, right)",
+    "sk": "Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "273-55 Parkovanie na chodníku (čiastočne, umiestnenie šikmo-pozdĺžne vpravo).svg"
+  }
+}

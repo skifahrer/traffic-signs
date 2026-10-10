@@ -1,0 +1,15 @@
+{
+  "sign": "detour-arrow-left-water-pollutants",
+  "category": "information",
+  "country": "sk",
+  "code": "395-13-76",
+  "name": {
+    "en": "Detour arrow (to the left, for vehicles carrying goods that may pollute water)",
+    "sk": "Šípový smerník na vyznačenie obchádzky (doľava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "395-13-76 Šípový smerník na vyznačenie obchádzky (doľava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody).svg"
+  }
+}

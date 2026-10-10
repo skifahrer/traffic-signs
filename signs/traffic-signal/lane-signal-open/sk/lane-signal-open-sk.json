@@ -1,0 +1,15 @@
+{
+  "sign": "lane-signal-open",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "862",
+  "name": {
+    "en": "Lane signal: lane open",
+    "sk": "Signál Tento jazdný pruh sa môže používať"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "862 Signál Tento jazdný pruh sa môže používať.svg"
+  }
+}

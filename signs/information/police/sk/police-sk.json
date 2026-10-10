@@ -1,0 +1,15 @@
+{
+  "sign": "police",
+  "category": "information",
+  "country": "sk",
+  "code": "333",
+  "name": {
+    "en": "Police",
+    "sk": "Polícia"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "333 Polícia.svg"
+  }
+}

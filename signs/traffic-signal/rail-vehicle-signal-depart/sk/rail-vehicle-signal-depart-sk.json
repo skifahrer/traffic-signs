@@ -1,0 +1,15 @@
+{
+  "sign": "rail-vehicle-signal-depart",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "856",
+  "name": {
+    "en": "Rail vehicle signal: depart",
+    "sk": "Signál Odjazd pre dráhové vozidlá"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "856 Signál Odjazd pre dráhové vozidlá.svg"
+  }
+}

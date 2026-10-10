@@ -1,0 +1,15 @@
+{
+  "sign": "step-free-pedestrian-subway",
+  "category": "information",
+  "country": "sk",
+  "code": "327-51",
+  "name": {
+    "en": "Step-free pedestrian subway",
+    "sk": "Podchod alebo nadchod (bezbariérový podchod)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "327-51 Podchod alebo nadchod (bezbariérový podchod).svg"
+  }
+}

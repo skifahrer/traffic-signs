@@ -1,0 +1,15 @@
+{
+  "sign": "speed-limit-zone-30",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "268-30",
+  "name": {
+    "en": "Speed limit zone (30 km/h)",
+    "sk": "Zóna najvyššej dovolenej rýchlosti (30 km/h)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "268-30 Zóna najvyššej dovolenej rýchlosti (30 kmh).svg"
+  }
+}

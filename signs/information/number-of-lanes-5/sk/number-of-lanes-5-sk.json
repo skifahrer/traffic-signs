@@ -1,0 +1,15 @@
+{
+  "sign": "number-of-lanes-5",
+  "category": "information",
+  "country": "sk",
+  "code": "401-33",
+  "name": {
+    "en": "Number of lanes (5 lanes)",
+    "sk": "Počet jazdných pruhov (5 pruhov)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "401-33 Počet jazdných pruhov (5 pruhov).svg"
+  }
+}

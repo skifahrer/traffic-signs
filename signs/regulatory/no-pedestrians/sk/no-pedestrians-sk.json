@@ -1,0 +1,15 @@
+{
+  "sign": "no-pedestrians",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "233-60",
+  "name": {
+    "en": "No entry for pedestrians",
+    "sk": "Zákaz vstupu pre (chodcov)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "233-60 Zákaz vstupu pre (chodcov).svg"
+  }
+}

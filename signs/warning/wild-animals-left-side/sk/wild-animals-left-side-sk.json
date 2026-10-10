@@ -1,0 +1,15 @@
+{
+  "sign": "wild-animals-left-side",
+  "category": "warning",
+  "country": "sk",
+  "code": "145-20",
+  "name": {
+    "en": "Wild animals (placed on the left)",
+    "sk": "Zver (umiestnenie vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "145-20 Zver (umiestnenie vľavo).svg"
+  }
+}

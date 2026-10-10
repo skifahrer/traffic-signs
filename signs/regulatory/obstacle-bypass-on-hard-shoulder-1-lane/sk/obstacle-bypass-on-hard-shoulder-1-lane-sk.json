@@ -1,0 +1,15 @@
+{
+  "sign": "obstacle-bypass-on-hard-shoulder-1-lane",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "283-50",
+  "name": {
+    "en": "Pass the obstacle on the hard shoulder (1 lane)",
+    "sk": "Obchádzanie prekážky po krajnici (1 pruhy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "283-50 Obchádzanie prekážky po krajnici (1 pruhy).svg"
+  }
+}

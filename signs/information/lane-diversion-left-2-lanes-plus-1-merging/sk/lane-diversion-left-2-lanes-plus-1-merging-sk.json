@@ -1,0 +1,15 @@
+{
+  "sign": "lane-diversion-left-2-lanes-plus-1-merging",
+  "category": "information",
+  "country": "sk",
+  "code": "441-18",
+  "name": {
+    "en": "Lane diversion (to the left, 2 lanes + 1 merging)",
+    "sk": "Presmerovanie jazdných pruhov (doľava, 2 pruhy + 1 pripájajúci sa)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "441-18 Presmerovanie jazdných pruhov (doľava, 2 pruhy + 1 pripájajúci sa).svg"
+  }
+}

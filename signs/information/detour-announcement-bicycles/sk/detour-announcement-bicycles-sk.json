@@ -1,0 +1,15 @@
+{
+  "sign": "detour-announcement-bicycles",
+  "category": "information",
+  "country": "sk",
+  "code": "393-32-58",
+  "name": {
+    "en": "Detour announcement (for bicycles)",
+    "sk": "Ohlasovacia tabuľa obchádzky (pre bicykle)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "393-32-58 Ohlasovacia tabuľa obchádzky (pre bicykle).svg"
+  }
+}

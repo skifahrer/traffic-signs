@@ -1,0 +1,15 @@
+{
+  "sign": "services-secure-truck-parking-right",
+  "category": "information",
+  "country": "sk",
+  "code": "330-83-20",
+  "name": {
+    "en": "Services (secure truck parking, right)",
+    "sk": "Služby (bezpečné parkovisko pre nákladné vozidlá, smer jazdy doprava)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "330-83-20 Služby (bezpečné parkovisko pre nákladné vozidlá, smer jazdy doprava).svg"
+  }
+}

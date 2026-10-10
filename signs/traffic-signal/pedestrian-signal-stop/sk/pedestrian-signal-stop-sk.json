@@ -1,0 +1,15 @@
+{
+  "sign": "pedestrian-signal-stop",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "820",
+  "name": {
+    "en": "Pedestrian signal: stop",
+    "sk": "Signál Stoj pre chodcov"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "820 Signál Stoj pre chodcov.svg"
+  }
+}

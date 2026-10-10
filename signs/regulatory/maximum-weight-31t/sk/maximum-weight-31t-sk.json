@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-31t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-31",
+  "name": {
+    "en": "Maximum weight (31 t)",
+    "sk": "Maximálna hmotnosť (31 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-31 Maximálna hmotnosť (31 t).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "cyclists-left-side",
+  "category": "warning",
+  "country": "sk",
+  "code": "143-20",
+  "name": {
+    "en": "Cyclists (placed on the left)",
+    "sk": "Cyklisti (umiestnenie vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "143-20 Cyklisti (umiestnenie vľavo).svg"
+  }
+}

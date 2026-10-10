@@ -1,0 +1,15 @@
+{
+  "sign": "place-name-general-2-line",
+  "category": "information",
+  "country": "sk",
+  "code": "340-61",
+  "name": {
+    "en": "Place name sign (general, two-line name)",
+    "sk": "Miestna návesť (všeobecný 2-riadkový názov)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "340-61 Miestna návesť (všeobecný 2-riadkový názov).svg"
+  }
+}

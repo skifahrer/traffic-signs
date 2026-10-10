@@ -1,0 +1,15 @@
+{
+  "sign": "give-way-to-oncoming-traffic",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "203",
+  "name": {
+    "en": "Give way to oncoming traffic",
+    "sk": "Prednosť protiidúcich vozidiel"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "203 Prednosť protiidúcich vozidiel.svg"
+  }
+}

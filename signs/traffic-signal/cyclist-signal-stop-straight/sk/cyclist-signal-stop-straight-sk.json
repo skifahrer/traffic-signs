@@ -1,0 +1,15 @@
+{
+  "sign": "cyclist-signal-stop-straight",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "813-30",
+  "name": {
+    "en": "Cyclist signal: stop, directional (straight ahead)",
+    "sk": "Signál Stoj pre cyklistov, smerový (priamo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "813-30 Signál Stoj pre cyklistov, smerový (priamo).svg"
+  }
+}

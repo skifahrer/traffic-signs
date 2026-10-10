@@ -1,0 +1,15 @@
+{
+  "sign": "minimum-speed-80",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "250-80",
+  "name": {
+    "en": "Minimum speed (80 km/h)",
+    "sk": "Najnižšia dovolená rýchlosť (80 km/h)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "250-80 Najnižšia dovolená rýchlosť (80 kmh).svg"
+  }
+}

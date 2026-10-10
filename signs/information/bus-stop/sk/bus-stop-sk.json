@@ -1,0 +1,15 @@
+{
+  "sign": "bus-stop",
+  "category": "information",
+  "country": "sk",
+  "code": "331-50",
+  "name": {
+    "en": "Bus, trolleybus or electric bus stop",
+    "sk": "Zastávka (autobus, trolejbus, elektrobus)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "331-50 Zastávka (autobus, trolejbus, elektrobus).svg"
+  }
+}

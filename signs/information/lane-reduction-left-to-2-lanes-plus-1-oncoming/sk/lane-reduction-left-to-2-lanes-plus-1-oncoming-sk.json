@@ -1,0 +1,15 @@
+{
+  "sign": "lane-reduction-left-to-2-lanes-plus-1-oncoming",
+  "category": "information",
+  "country": "sk",
+  "code": "413-11",
+  "name": {
+    "en": "Lane reduction (left, 2 lanes continuing + 1 oncoming)",
+    "sk": "Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "413-11 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere).svg"
+  }
+}

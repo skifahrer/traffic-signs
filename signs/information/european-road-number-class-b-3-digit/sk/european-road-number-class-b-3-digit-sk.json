@@ -1,0 +1,15 @@
+{
+  "sign": "european-road-number-class-b-3-digit",
+  "category": "information",
+  "country": "sk",
+  "code": "353-51",
+  "name": {
+    "en": "European road number (class B, 3-digit number)",
+    "sk": "Číslo E-cesty (trieda B, 3-ciferné číslo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "353-51 Číslo E-cesty (trieda B, 3-ciferné číslo).svg"
+  }
+}

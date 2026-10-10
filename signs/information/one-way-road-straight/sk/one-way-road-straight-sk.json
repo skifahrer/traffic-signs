@@ -1,0 +1,15 @@
+{
+  "sign": "one-way-road-straight",
+  "category": "information",
+  "country": "sk",
+  "code": "321-30",
+  "name": {
+    "en": "One-way road (straight ahead)",
+    "sk": "Jednosmerná cesta (priamo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "321-30 Jednosmerná cesta (priamo).svg"
+  }
+}

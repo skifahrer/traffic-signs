@@ -1,0 +1,15 @@
+{
+  "sign": "priority-over-oncoming-traffic",
+  "category": "information",
+  "country": "sk",
+  "code": "304",
+  "name": {
+    "en": "Priority over oncoming traffic",
+    "sk": "Prednosť pred protiidúcimi vozidlami"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "304 Prednosť pred protiidúcimi vozidlami.svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "public-transport-signal-go-left",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "872-10",
+  "name": {
+    "en": "Public transport signal: go (left)",
+    "sk": "Signál Voľno pre vozidlá verejnej hromadnej dopravy (vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "872-10 Signál Voľno pre vozidlá verejnej hromadnej dopravy (vľavo).svg"
+  }
+}

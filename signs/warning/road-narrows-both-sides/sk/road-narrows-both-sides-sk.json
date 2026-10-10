@@ -1,0 +1,15 @@
+{
+  "sign": "road-narrows-both-sides",
+  "category": "warning",
+  "country": "sk",
+  "code": "114-30",
+  "name": {
+    "en": "Road narrows (from both sides)",
+    "sk": "Zúžená vozovka (z oboch strán)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "114-30 Zúžená vozovka (z oboch strán).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "crosswind",
+  "category": "warning",
+  "country": "sk",
+  "code": "126",
+  "name": {
+    "en": "Crosswind",
+    "sk": "Bočný vietor"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "126 Bočný vietor.svg"
+  }
+}

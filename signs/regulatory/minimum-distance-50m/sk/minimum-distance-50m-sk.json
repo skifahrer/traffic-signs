@@ -1,0 +1,15 @@
+{
+  "sign": "minimum-distance-50m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "256-50",
+  "name": {
+    "en": "Minimum distance between vehicles (50 m)",
+    "sk": "Minimálna vzdialenosť medzi vozidlami (50 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "256-50 Minimálna vzdialenosť medzi vozidlami (50 m).svg"
+  }
+}

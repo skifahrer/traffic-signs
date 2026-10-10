@@ -1,0 +1,15 @@
+{
+  "sign": "place-name-water-minority-language",
+  "category": "information",
+  "country": "sk",
+  "code": "340-82",
+  "name": {
+    "en": "Place name sign (major river or lake with minority language name)",
+    "sk": "Miestna návesť (významný vodný tok alebo plocha + názov v jazyku národnostnej menšiny)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "340-82 Miestna návesť (významný vodný tok alebo plocha + názov v jazyku národnostnej menšiny).svg"
+  }
+}

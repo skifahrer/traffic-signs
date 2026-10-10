@@ -1,0 +1,15 @@
+{
+  "sign": "cycle-path",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "221",
+  "name": {
+    "en": "Cycle path",
+    "sk": "Cyklistická komunikácia"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "221 Cyklistická komunikácia.svg"
+  }
+}

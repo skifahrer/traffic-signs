@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-length-9m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "244-9",
+  "name": {
+    "en": "Maximum length (9 m)",
+    "sk": "Maximálna dĺžka (9 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "244-9 Maximálna dĺžka (9 m).svg"
+  }
+}

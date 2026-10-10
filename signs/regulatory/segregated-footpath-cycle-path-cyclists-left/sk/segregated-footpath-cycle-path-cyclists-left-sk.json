@@ -1,0 +1,15 @@
+{
+  "sign": "segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "223-50",
+  "name": {
+    "en": "Segregated footpath and cycle path (cyclists on the left)",
+    "sk": "Oddelená cestička pre chodcov a cyklistov (cyklisti vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "223-30 Oddelená cestička pre chodcov a cyklistov (cyklisti vľavo).svg"
+  }
+}

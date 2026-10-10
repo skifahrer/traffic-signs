@@ -1,0 +1,15 @@
+{
+  "sign": "no-motor-vehicles",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "232",
+  "name": {
+    "en": "No motor vehicles",
+    "sk": "Zákaz vjazdu pre všetky motorové vozidlá"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "232 Zákaz vjazdu pre všetky motorové vozidlá.svg"
+  }
+}
