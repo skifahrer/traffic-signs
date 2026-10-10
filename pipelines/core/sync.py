@@ -1,7 +1,7 @@
 """The sync engine shared by every country.
 
-    read page → parse → apply corrections → match translations
-      → fetch image metadata → write signs/ (names, metadata, images)
+    read page(s) → parse → apply corrections → match translations
+      → fetch image metadata (preferring SVG) → write signs/ (names, metadata, images)
       → archive signs that left the page
 
 A country only supplies a `Source` (see model.py); nothing in here is
@@ -17,7 +17,7 @@ import shutil
 from dataclasses import dataclass, field
 
 from . import images, layout, log
-from .model import Entry, Source, Translation
+from .model import Entry, Page, Source, Translation
 from .wikimedia import COMMONS_API, Client
 
 
@@ -72,6 +72,8 @@ def sync(source: Source, client: Client, options: Options) -> Result:
     if not options.no_images:
         with log.phase(f"{source.country}: fetch image metadata for {len(signs)} files"):
             info = _fetch_image_info(source, client, [entry.file for entry, _ in signs])
+            if source.prefer_svg:
+                _prefer_svg(client, signs, info)
 
     previous = layout.existing_signs(source.country, source.pipeline)
     title = f"{source.country}: write {len(signs)} signs" + (" (check only, nothing is written)" if options.check else "")
@@ -96,17 +98,22 @@ def sync(source: Source, client: Client, options: Options) -> Result:
 
 
 def _read_signs(source: Source, client: Client, options: Options, result: Result) -> list[tuple[Entry, Translation]]:
-    """Parse the page and pair every entry with its translation."""
-    if options.wikitext:
-        log.info(f"Reading {options.wikitext}")
-        with open(options.wikitext, encoding="utf-8") as handle:
-            wikitext = handle.read()
-    else:
-        log.info(f"Downloading {source.page_url}")
-        wikitext = client.page_wikitext(source.wiki, source.page)
-    log.info(f"{len(wikitext):,} characters of wikitext")
+    """Parse the page(s) and pair every entry with its translation."""
+    entries: list[Entry] = []
+    problems = []
+    seen: set[tuple[str, str]] = set()
+    for page, wikitext in _read_pages(source, client, options):
+        found, found_problems = source.parse(wikitext)
+        if len(source.pages) > 1:
+            log.info(f"{page.title}: {len(found)} entries, {len(found_problems)} problems")
+        for entry in found:
+            entry.page = page.url
+            # A sign listed on two pages (an overview and its own page) counts once.
+            if (entry.file, entry.code) not in seen:
+                seen.add((entry.file, entry.code))
+                entries.append(entry)
+        problems += found_problems
 
-    entries, problems = source.parse(wikitext)
     changes, problems = source.apply_corrections(entries, problems)
     for change in changes:
         log.info(f"Correction applied: {change}")
@@ -130,6 +137,9 @@ def _read_signs(source: Source, client: Client, options: Options, result: Result
         by_code[entry.code] = entry
 
     signs = [(entry, translations[code]) for code, entry in by_code.items() if code in translations]
+    if source.local_names == "translations":
+        for entry, t in signs:
+            entry.name = t.name_local
     result.entries, result.synced = len(by_code), len(signs)
     result.untranslated = [entry for code, entry in by_code.items() if code not in translations]
     result.unused = sorted(set(translations) - set(by_code))
@@ -149,17 +159,54 @@ def _read_signs(source: Source, client: Client, options: Options, result: Result
     return signs
 
 
+def _read_pages(source: Source, client: Client, options: Options) -> list[tuple[Page, str]]:
+    """The wikitext of every page; --wikitext stands in for all of them."""
+    if options.wikitext:
+        log.info(f"Reading {options.wikitext}")
+        with open(options.wikitext, encoding="utf-8") as handle:
+            wikitext = handle.read()
+        log.info(f"{len(wikitext):,} characters of wikitext")
+        return [(source.pages[0], wikitext)]
+    pages = []
+    for page in source.pages:
+        log.info(f"Downloading {page.url}")
+        wikitext = client.page_wikitext(page.wiki, page.title)
+        log.info(f"{len(wikitext):,} characters of wikitext")
+        pages.append((page, wikitext))
+    return pages
+
+
 def _fetch_image_info(source: Source, client: Client, files: list[str]) -> dict[str, dict]:
-    """imageinfo per file name, looking on Commons first, then on the local wiki."""
+    """imageinfo per file name, looking on Commons first, then on the pages' wikis."""
     titles = [f"File:{f}" for f in files]
     info = client.image_info(COMMONS_API, titles)
     log.info(f"Found {len(info)}/{len(titles)} files on Commons")
-    missing = [t for t in titles if t not in info]
-    if missing:
-        local = client.image_info(source.api, missing)
-        log.info(f"Found {len(local)}/{len(missing)} of the rest on {source.wiki}")
+    for page in {p.wiki: p for p in source.pages}.values():
+        missing = [t for t in titles if t not in info]
+        if not missing:
+            break
+        local = client.image_info(page.api, missing)
+        log.info(f"Found {len(local)}/{len(missing)} of the rest on {page.wiki}")
         info.update(local)
     return {title[len("File:"):]: value for title, value in info.items()}
+
+
+def _prefer_svg(client: Client, signs: list[tuple[Entry, Translation]], info: dict[str, dict]) -> None:
+    """Swap a .png/.jpg/.tif image for "<same name>.svg" when Commons has it."""
+    raster = [entry for entry, _ in signs if not entry.file.lower().endswith(".svg")]
+    if not raster:
+        return
+    svg_name = {entry.file: entry.file.rsplit(".", 1)[0] + ".svg" for entry in raster}
+    found = client.image_info(COMMONS_API, [f"File:{name}" for name in sorted(set(svg_name.values()))])
+    swapped = 0
+    for entry in raster:
+        svg = found.get(f"File:{svg_name[entry.file]}")
+        if svg:
+            log.detail(f"{entry.code}: using `{svg_name[entry.file]}` instead of `{entry.file}`")
+            entry.file = svg_name[entry.file]
+            info[entry.file] = svg
+            swapped += 1
+    log.info(f"{swapped}/{len(raster)} non-SVG images have an SVG version on Commons; using it")
 
 
 def _write_sign(
@@ -198,7 +245,7 @@ def _write_sign(
         elif archived:  # archived by an earlier run; nothing new to do
             log.detail(f"{entry.code} {key}: `{entry.file}` is still missing on Commons (archived)")
         else:
-            result.error(f"{entry.code}: `{entry.file}` was not found on Commons or {source.wiki}")
+            result.error(f"{entry.code}: `{entry.file}` was not found on Commons or {', '.join(sorted({p.wiki for p in source.pages}))}")
 
     meta = {
         "sign": t.slug,
@@ -207,7 +254,7 @@ def _write_sign(
         "code": entry.code,
         **({"image": image_meta} if image_meta else {}),
         **({"archived": archived} if archived else {}),
-        "source": {"pipeline": source.pipeline, "page": source.page_url, "file": entry.file},
+        "source": {"pipeline": source.pipeline, "page": entry.page or source.page_url, "file": entry.file},
     }
     names = {"en": t.name_en, source.language: entry.name}
     old_names = layout.read_translations(t.category, t.slug)
