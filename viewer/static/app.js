@@ -1,8 +1,12 @@
 // Traffic signs viewer: one row per sign, one column per country.
 // Data comes from data.json (built by `python3 -m viewer`).
 
+const PAGE_SIZE = 100; // signs added to the page at a time, as the reader scrolls
+
 const state = { query: "", category: "", countries: new Set(), shared: false, withdrawn: true };
 let data;
+// What render() matched, in display order, and how much of it is on the page.
+const view = { signs: [], columns: [], shown: 0, groups: new Map() };
 
 const $ = (id) => document.getElementById(id);
 
@@ -69,46 +73,79 @@ function cell(sign, country) {
   );
 }
 
+const formatNumber = (n) => n.toLocaleString("en");
+
+// Start over for new filters: the first PAGE_SIZE matching signs.
 function render() {
-  const columns = Object.keys(data.countries).filter((c) => state.countries.has(c));
-  const shown = data.signs.filter(matches);
-  const results = $("results");
-  results.replaceChildren();
-  $("summary").textContent =
-    `${shown.length} of ${data.signs.length} signs · ${Object.keys(data.countries).length} ` +
-    `${Object.keys(data.countries).length === 1 ? "country" : "countries"}`;
-
-  if (!shown.length) {
-    results.append(el("p", { class: "empty muted" }, "No signs match these filters."));
-    return;
+  view.columns = Object.keys(data.countries).filter((c) => state.countries.has(c));
+  const matching = data.signs.filter(matches);
+  // Display order: category by category, as listed in data.categories.
+  view.signs = Object.keys(data.categories).flatMap((category) => matching.filter((s) => s.category === category));
+  view.shown = 0;
+  view.groups.clear();
+  $("results").replaceChildren();
+  if (!view.signs.length) {
+    $("results").append(el("p", { class: "empty muted" }, "No signs match these filters."));
   }
+  showMore();
+}
 
-  for (const [category, label] of Object.entries(data.categories)) {
-    const signs = shown.filter((s) => s.category === category);
-    if (!signs.length) continue;
+// Append the next PAGE_SIZE signs to their category tables.
+function showMore() {
+  const next = view.signs.slice(view.shown, view.shown + PAGE_SIZE);
+  for (const sign of next) {
+    groupFor(sign.category).append(row(sign));
+  }
+  view.shown += next.length;
+  updateStatus();
+  watchFooter();
+}
+
+// The table of one category, created when its first sign is shown.
+function groupFor(category) {
+  if (!view.groups.has(category)) {
+    const total = view.signs.filter((s) => s.category === category).length;
     const head = el(
       "div",
       { class: "row head", role: "row" },
       el("span", { role: "columnheader" }, "Sign"),
-      columns.map((c) => el("span", { role: "columnheader", class: "cell" }, countryName(c))),
+      view.columns.map((c) => el("span", { role: "columnheader", class: "cell" }, countryName(c))),
     );
-    const rows = signs.map((sign) =>
-      el(
-        "a",
-        { class: "row", href: `#${sign.category}/${sign.sign}`, role: "row" },
-        el("div", { class: "name" }, el("strong", {}, englishName(sign)), el("code", {}, sign.sign)),
-        columns.map((c) => cell(sign, c)),
-      ),
-    );
-    results.append(
+    const table = el("div", { class: "table", role: "table", style: `--columns: ${view.columns.length}` }, head);
+    $("results").append(
       el(
         "section",
         { class: "group" },
-        el("h2", {}, label, " ", el("small", {}, `(${signs.length})`)),
-        el("div", { class: "table", role: "table", style: `--columns: ${columns.length}` }, head, rows),
+        el("h2", {}, data.categories[category] || category, " ", el("small", {}, `(${formatNumber(total)})`)),
+        table,
       ),
     );
+    view.groups.set(category, table);
   }
+  return view.groups.get(category);
+}
+
+function row(sign) {
+  return el(
+    "a",
+    { class: "row", href: `#${sign.category}/${sign.sign}`, role: "row" },
+    el("div", { class: "name" }, el("strong", {}, englishName(sign)), el("code", {}, sign.sign)),
+    view.columns.map((c) => cell(sign, c)),
+  );
+}
+
+function updateStatus() {
+  const total = data.signs.length;
+  const countries = Object.keys(data.countries).length;
+  const matching = view.signs.length;
+  const scope = matching === total ? `${formatNumber(total)} signs` : `${formatNumber(matching)} matching (${formatNumber(total)} in all)`;
+  $("summary").textContent =
+    `${formatNumber(view.shown)} of ${scope} · ${countries} ${countries === 1 ? "country" : "countries"}`;
+  const remaining = matching - view.shown;
+  const more = $("more");
+  more.hidden = remaining <= 0;
+  $("more-button").textContent = `Show ${formatNumber(Math.min(PAGE_SIZE, remaining))} more`;
+  $("more-status").textContent = `Showing ${formatNumber(view.shown)} of ${formatNumber(matching)} signs`;
 }
 
 function detail(sign) {
@@ -211,16 +248,83 @@ function setupControls() {
   window.addEventListener("hashchange", route);
 }
 
+// Load more signs before the reader reaches the end of the list.
+let observer;
+
+function setupInfiniteScroll() {
+  $("more-button").addEventListener("click", showMore);
+  if (!("IntersectionObserver" in window)) return; // the button still works
+  observer = new IntersectionObserver(
+    (seen) => {
+      if (seen.some((entry) => entry.isIntersecting) && view.shown < view.signs.length) showMore();
+    },
+    { rootMargin: "0px 0px 800px 0px" },
+  );
+  observer.observe($("more"));
+}
+
+// Observing again reports the footer's current visibility, so a screen that
+// still has room after a batch (or after new filters) gets the next one.
+function watchFooter() {
+  if (!observer) return;
+  observer.unobserve($("more"));
+  observer.observe($("more"));
+}
+
+// Download data.json and report progress as it arrives.
+async function load() {
+  const response = await fetch("data.json");
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  // Content-Length is the compressed size when the server gzips, so a
+  // percentage is only shown for an uncompressed response.
+  const length = response.headers.get("Content-Encoding") ? 0 : Number(response.headers.get("Content-Length")) || 0;
+  if (!response.body || !response.body.getReader) return response.json();
+  const reader = response.body.getReader();
+  const chunks = [];
+  let received = 0;
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    chunks.push(value);
+    received += value.length;
+    loading(received, length);
+  }
+  const bytes = new Uint8Array(received);
+  let offset = 0;
+  for (const chunk of chunks) {
+    bytes.set(chunk, offset);
+    offset += chunk.length;
+  }
+  $("loading-text").textContent = "Preparing the signs…";
+  return JSON.parse(new TextDecoder().decode(bytes));
+}
+
+function loading(received, length) {
+  const kb = (n) => `${formatNumber(Math.round(n / 1024))} KB`;
+  const bar = $("loading-bar");
+  if (length) {
+    bar.max = length;
+    bar.value = Math.min(received, length);
+    $("loading-text").textContent = `Loading signs… ${kb(received)} of ${kb(length)}`;
+  } else {
+    bar.removeAttribute("value"); // indeterminate
+    $("loading-text").textContent = `Loading signs… ${kb(received)}`;
+  }
+  $("summary").textContent = `Loading… ${kb(received)}`;
+}
+
 async function start() {
   try {
-    const response = await fetch("data.json");
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    data = await response.json();
+    data = await load();
   } catch (error) {
-    $("summary").textContent = `Could not load data.json (${error.message}).`;
+    $("loading-text").textContent = `Could not load data.json (${error.message}).`;
+    $("loading-bar").hidden = true;
+    $("summary").textContent = "Could not load the signs.";
     return;
   }
+  $("loading").hidden = true;
   setupControls();
+  setupInfiniteScroll();
   render();
   route();
 }

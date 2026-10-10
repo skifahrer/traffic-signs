@@ -37,7 +37,18 @@
       </details>
     </header>
 
-    <main id="results" aria-live="polite"></main>
+    <main>
+      <div id="loading" class="loading" role="status">
+        <progress id="loading-bar"></progress>
+        <p id="loading-text" class="muted">Loading signs…</p>
+      </div>
+      <div id="results"></div>
+      <!-- Signs are added PAGE_SIZE at a time; scrolling near this loads the next batch. -->
+      <div id="more" class="more" hidden>
+        <p id="more-status" class="muted" aria-live="polite"></p>
+        <button id="more-button" type="button">Show more</button>
+      </div>
+    </main>
 
     <dialog id="detail" aria-labelledby="detail-title">
       <form method="dialog" class="close"><button aria-label="Close">×</button></form>
