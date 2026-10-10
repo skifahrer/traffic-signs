@@ -10,7 +10,7 @@ on:
         type: string
         default: all
       prune:
-        description: Delete signs that are no longer on the Wikipedia page
+        description: Delete signs that left the Wikipedia page instead of archiving them
         type: boolean
         default: false
       verbose:
@@ -74,7 +74,7 @@ jobs:
           cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Open or update the pull request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: sync/${{ steps.countries.outputs.slug }}
           delete-branch: true

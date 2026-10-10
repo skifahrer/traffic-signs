@@ -1,3 +1,4 @@
+import datetime
 import hashlib
 import json
 import os
@@ -64,7 +65,23 @@ class PruneTest(SandboxTestCase):
 
 
 class ImageTest(SandboxTestCase):
-    SVG = b"<svg xmlns='http://www.w3.org/2000/svg'/>"
+    """Images follow Commons: downloaded when missing or changed, archived when gone."""
+
+    YEAR = datetime.date.today().year
+    OLD = b"<svg xmlns='http://www.w3.org/2000/svg'><!-- old --></svg>"
+    NEW = b"<svg xmlns='http://www.w3.org/2000/svg'><!-- new --></svg>"
+
+    def setUp(self):
+        super().setUp()
+        files = ("101 Nebezpečenstvo.svg", "110-10 Zákruta (vľavo).svg", "240-8,5 Maximálna hmotnosť (8,5 t).svg")
+        self.commons = {f"File:{name}": self.OLD for name in files}  # what Commons has right now
+        self.downloads = []
+        for patch in (
+            mock.patch.object(Client, "image_info", side_effect=self.image_info),
+            mock.patch.object(Client, "get", side_effect=self.get),
+        ):
+            patch.start()
+            self.addCleanup(patch.stop)
 
     def image_info(self, api, titles):
         if "commons" not in api:
@@ -72,33 +89,97 @@ class ImageTest(SandboxTestCase):
         return {
             t: {
                 "title": t,
-                "url": "https://upload.wikimedia.org/x.svg",
+                "url": "https://upload.wikimedia.org/" + t,
                 "description_url": "https://commons.wikimedia.org/wiki/" + t,
-                "sha1": hashlib.sha1(self.SVG).hexdigest(),
+                "sha1": hashlib.sha1(self.commons[t]).hexdigest(),
                 "mime": "image/svg+xml",
                 "license": "Public domain",
                 "license_url": None,
                 "author": "Ministerstvo dopravy a výstavby SR",
             }
             for t in titles
+            if t in self.commons
         }
 
-    def test_downloads_images_only_when_sha1_changes(self):
-        with mock.patch.object(Client, "image_info", side_effect=self.image_info), mock.patch.object(
-            Client, "get", return_value=self.SVG
-        ) as get:
-            self.assertEqual(self.run_pipeline(), 0)
-            self.assertEqual(get.call_count, 3)
-            with open(self.path("warning", "danger", "sk", "danger-sk.svg"), "rb") as handle:
-                self.assertEqual(handle.read(), self.SVG)
-            with open(self.path("warning", "danger", "sk", "danger-sk.json"), encoding="utf-8") as handle:
-                image = json.load(handle)["image"]
-            self.assertEqual((image["file"], image["license"]), ("danger-sk.svg", "Public domain"))
+    def get(self, url):
+        title = url.split("upload.wikimedia.org/", 1)[1]
+        self.downloads.append(title)
+        return self.commons[title]
 
-            get.reset_mock()
-            self.assertEqual(self.run_pipeline(), 0)
-            get.assert_not_called()
+    def danger(self, name="danger-sk.json"):
+        path = self.path("warning", "danger", "sk", name)
+        if name.endswith(".json"):
+            with open(path, encoding="utf-8") as handle:
+                return json.load(handle)
+        with open(path, "rb") as handle:
+            return handle.read()
 
-    def test_missing_image_is_an_error(self):
-        with mock.patch.object(Client, "image_info", return_value={}):
-            self.assertEqual(self.run_pipeline(), 1)
+    def test_downloads_missing_images_once(self):
+        self.assertEqual(self.run_pipeline(), 0)
+        self.assertEqual(len(self.downloads), 3)
+        self.assertEqual(self.danger("danger-sk.svg"), self.OLD)
+        image = self.danger()["image"]
+        self.assertEqual((image["file"], image["license"]), ("danger-sk.svg", "Public domain"))
+
+        self.downloads.clear()
+        self.assertEqual(self.run_pipeline(), 0)
+        self.assertEqual(self.downloads, [])
+
+    def test_downloads_a_new_version_over_the_old_one(self):
+        self.run_pipeline()
+        self.commons["File:101 Nebezpečenstvo.svg"] = self.NEW
+        self.downloads.clear()
+        self.assertEqual(self.run_pipeline(), 0)
+        self.assertEqual(self.downloads, ["File:101 Nebezpečenstvo.svg"])
+        self.assertEqual(self.danger("danger-sk.svg"), self.NEW)
+        self.assertEqual(self.danger()["image"]["sha1"], hashlib.sha1(self.NEW).hexdigest())
+        self.assertNotIn("archived", self.danger())
+
+    def test_archives_an_image_removed_from_commons(self):
+        self.run_pipeline()
+        del self.commons["File:101 Nebezpečenstvo.svg"]
+        self.assertEqual(self.run_pipeline("--check"), 0)
+        self.assertEqual(self.danger("danger-sk.svg"), self.OLD)  # --check renames nothing
+
+        self.assertEqual(self.run_pipeline(), 0)
+        archived_name = f"danger-sk-archived-{self.YEAR}.svg"
+        self.assertEqual(set(os.listdir(self.path("warning", "danger", "sk"))), {"danger-sk.json", archived_name})
+        self.assertEqual(self.danger(archived_name), self.OLD)
+        meta = self.danger()
+        self.assertNotIn("image", meta)
+        self.assertNotIn("valid_until", meta)  # the sign itself is still on the page
+        self.assertEqual(meta["archived"][0]["file"], archived_name)
+        self.assertEqual(meta["archived"][0]["valid_until"], self.YEAR)
+        self.assertEqual(meta["archived"][0]["sha1"], hashlib.sha1(self.OLD).hexdigest())
+
+        before = self.snapshot()
+        self.assertEqual(self.run_pipeline(), 0)  # still missing: no error, nothing archived twice
+        self.assertEqual(self.snapshot(), before)
+
+    def test_archives_a_sign_that_left_the_page_and_restores_it_when_it_returns(self):
+        self.run_pipeline()
+        self.write_page(SK_WIKITEXT.replace("Súbor:101 Nebezpečenstvo.svg|101 Nebezpečenstvo\n", ""))
+        self.assertEqual(self.run_pipeline(), 0)
+        archived_name = f"danger-sk-archived-{self.YEAR}.svg"
+        meta = self.danger()
+        self.assertEqual(meta["valid_until"], self.YEAR)
+        self.assertNotIn("image", meta)
+        self.assertEqual([a["file"] for a in meta["archived"]], [archived_name])
+        self.assertEqual(layout.read_translations("warning", "danger")["sk"], "Nebezpečenstvo")  # names stay
+
+        before = self.snapshot()
+        self.assertEqual(self.run_pipeline(), 0)  # already archived: left alone
+        self.assertEqual(self.snapshot(), before)
+
+        self.write_page(SK_WIKITEXT)
+        self.commons["File:101 Nebezpečenstvo.svg"] = self.NEW
+        self.assertEqual(self.run_pipeline(), 0)
+        meta = self.danger()
+        self.assertNotIn("valid_until", meta)
+        self.assertEqual(meta["image"]["file"], "danger-sk.svg")
+        self.assertEqual(self.danger("danger-sk.svg"), self.NEW)
+        self.assertEqual([a["file"] for a in meta["archived"]], [archived_name])
+
+    def test_unknown_image_is_an_error(self):
+        self.commons.clear()
+        self.assertEqual(self.run_pipeline(), 1)

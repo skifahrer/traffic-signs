@@ -1,7 +1,8 @@
 """The sync engine shared by every country.
 
     read page → parse → apply corrections → match translations
-      → fetch image metadata → write signs/ (names, metadata, images) → handle removed signs
+      → fetch image metadata → write signs/ (names, metadata, images)
+      → archive signs that left the page
 
 A country only supplies a `Source` (see model.py); nothing in here is
 country-specific.
@@ -9,25 +10,25 @@ country-specific.
 
 from __future__ import annotations
 
+import datetime
 import json
 import os
 import shutil
 from dataclasses import dataclass, field
 
-from . import layout, log
+from . import images, layout, log
 from .model import Entry, Source, Translation
-from .wikimedia import COMMONS_API, Client, sha1_of
-
-IMAGE_EXTS = {"svg", "png", "jpg", "jpeg", "gif", "webp"}
+from .wikimedia import COMMONS_API, Client
 
 
 @dataclass
 class Options:
     check: bool = False  # report only, write nothing
     no_images: bool = False  # skip Commons metadata and image downloads
-    prune: bool = False  # delete signs that are no longer on the page
+    prune: bool = False  # delete signs that left the page instead of archiving them
     strict: bool = False  # fail when a sign has no translation
     wikitext: str | None = None  # read the page from this file instead of downloading it
+    year: int = field(default_factory=lambda: datetime.date.today().year)  # "valid_until" of what gets archived
 
 
 @dataclass
@@ -42,6 +43,7 @@ class Result:
     changed: list[str] = field(default_factory=list)
     images: list[str] = field(default_factory=list)
     removed: list[str] = field(default_factory=list)
+    archived: list[str] = field(default_factory=list)
     untranslated: list[Entry] = field(default_factory=list)
     renamed: list[str] = field(default_factory=list)
     unused: list[str] = field(default_factory=list)
@@ -83,10 +85,13 @@ def sync(source: Source, client: Client, options: Options) -> Result:
             f" {len(result.images)} images downloaded ({result.downloaded_bytes / 1024 / 1024:.1f} MB)"
         )
 
-    result.removed = sorted(set(previous) - {f"{t.category}/{t.slug}" for _, t in signs})
+    gone = sorted(set(previous) - {f"{t.category}/{t.slug}" for _, t in signs})
+    # Signs archived by an earlier run stay as they are, unless --prune deletes them.
+    result.removed = gone if options.prune else [key for key in gone if "valid_until" not in _read_json(previous[key])]
     if result.removed:
         with log.phase(f"{source.country}: {len(result.removed)} signs no longer on the page"):
-            _handle_removed(source, options, result.removed)
+            for key in result.removed:
+                (_delete_sign if options.prune else _archive_sign)(source, options, result, key)
     return result
 
 
@@ -165,29 +170,34 @@ def _write_sign(
     progress: log.Progress,
     entry: Entry,
     t: Translation,
-    image: dict | None,
+    info: dict | None,
 ) -> None:
     country = source.country
     key = f"{t.category}/{t.slug}"
     label = f"{progress.step()} {entry.code} → {key}"
     meta_path = layout.sign_path(t.category, t.slug, country, "json")
-    old_meta = _read_json(meta_path)
-
+    old_meta = _read_json(meta_path) or {}
     ext = entry.file.rsplit(".", 1)[-1].lower()
     image_path = layout.sign_path(t.category, t.slug, country, ext)
-    if image is None:
-        if not options.no_images:
+
+    notes = []
+    image_meta = old_meta.get("image")
+    archived = list(old_meta.get("archived", []))
+    download = None
+    if info is not None:
+        image_meta = images.image_meta(image_path, info)
+        download = images.status(image_path, info)
+    elif not options.no_images:
+        if image_meta:  # the file is gone from Commons and the wiki: keep the old drawing
+            archived.append(images.archive(t.category, t.slug, country, image_meta, options.year, options.check))
+            image_meta = None
+            notes.append(f"image removed from Commons, archived as valid until {options.year}")
+            result.archived.append(f"`{key}`: image `{entry.file}` removed from Commons (valid until {options.year})")
+            log.warning(f"{entry.code} {key}: `{entry.file}` is no longer on Commons; archived")
+        elif archived:  # archived by an earlier run; nothing new to do
+            log.detail(f"{entry.code} {key}: `{entry.file}` is still missing on Commons (archived)")
+        else:
             result.error(f"{entry.code}: `{entry.file}` was not found on Commons or {source.wiki}")
-        image_meta = (old_meta or {}).get("image")
-    else:
-        image_meta = {
-            "file": os.path.basename(image_path),
-            "sha1": image["sha1"],
-            "source": image["description_url"],
-            "author": image["author"],
-            "license": image["license"],
-            "license_url": image["license_url"],
-        }
 
     meta = {
         "sign": t.slug,
@@ -195,21 +205,20 @@ def _write_sign(
         "country": country,
         "code": entry.code,
         **({"image": image_meta} if image_meta else {}),
+        **({"archived": archived} if archived else {}),
         "source": {"pipeline": source.pipeline, "page": source.page_url, "file": entry.file},
     }
     names = {"en": t.name_en, source.language: entry.name}
     old_names = layout.read_translations(t.category, t.slug)
 
-    notes = []
     if key not in previous:
         result.added.append(f"`{key}` ← {entry.code} {entry.name}")
-        notes.append("new")
+        notes.insert(0, "new")
     elif old_meta != meta or any(old_names.get(lang) != name for lang, name in names.items()):
         result.changed.append(f"`{key}` ({entry.code})")
-        notes.append("metadata changed")
-    needs_image = image is not None and sha1_of(image_path) != image["sha1"]
-    if needs_image:
-        notes.append("image " + ("outdated" if os.path.exists(image_path) else "missing"))
+        notes.insert(0, "back on the page" if "valid_until" in old_meta else "metadata changed")
+    if download:
+        notes.append(f"image {download}")
 
     if options.check:
         _log_sign(result, label, notes)
@@ -217,22 +226,18 @@ def _write_sign(
     layout.update_translations(t.category, t.slug, names)
     layout.write_json(meta_path, meta)
 
-    if needs_image:
+    if download:
         try:
-            data = client.get(image["url"])
+            data = client.get(info["url"])
         except Exception as err:  # keep going; the report lists the failure
             result.error(f"{entry.code}: download of `{entry.file}` failed: {err}")
             return
         with open(image_path, "wb") as handle:
             handle.write(data)
-        result.images.append(f"`{key}`")
+        result.images.append(f"`{key}` ({download})")
         result.downloaded_bytes += len(data)
-        notes[-1] = f"image downloaded ({len(data) / 1024:.1f} KB, ETA {progress.eta()})"
-    for other in IMAGE_EXTS - {ext}:  # an image left over from an earlier file format
-        stale = layout.sign_path(t.category, t.slug, country, other)
-        if os.path.exists(stale):
-            os.remove(stale)
-            notes.append(f"removed old .{other} image")
+        notes[-1] = f"image downloaded, {download} ({len(data) / 1024:.1f} KB, ETA {progress.eta()})"
+    notes += [f"removed old .{other} image" for other in images.remove_other_formats(t.category, t.slug, country, ext)]
     _log_sign(result, label, notes)
 
 
@@ -244,20 +249,39 @@ def _log_sign(result: Result, label: str, notes: list[str]) -> None:
         log.detail(f"{label}: up to date")
 
 
-def _handle_removed(source: Source, options: Options, removed: list[str]) -> None:
-    for key in removed:
-        if not options.prune or options.check:
-            log.warning(f"{key} is no longer on the page (run with --prune to delete it)")
-            continue
-        category, slug = key.split("/")
-        _remove_dir(layout.sign_dir(category, slug, source.country))
-        sign_folder = os.path.dirname(layout.translations_path(category, slug))
-        if layout.country_dirs(category, slug):
-            layout.remove_translation(category, slug, source.language)
-            log.info(f"Deleted {key}/{source.country}; other countries keep the sign")
-        elif os.path.isdir(sign_folder):
-            _remove_dir(sign_folder)  # no other country has this sign: drop it with its names file
-            log.info(f"Deleted {key}")
+def _archive_sign(source: Source, options: Options, result: Result, key: str) -> None:
+    """A sign that left the page: keep it, marked as valid until this year."""
+    category, slug = key.split("/")
+    meta_path = layout.sign_path(category, slug, source.country, "json")
+    meta = _read_json(meta_path)
+    archived = list(meta.get("archived", []))
+    if meta.get("image"):
+        archived.append(images.archive(category, slug, source.country, meta["image"], options.year, options.check))
+    updated = {k: v for k, v in meta.items() if k not in ("image", "archived", "source")}
+    updated["valid_until"] = options.year
+    if archived:
+        updated["archived"] = archived
+    updated["source"] = meta["source"]
+    if not options.check:
+        layout.write_json(meta_path, updated)
+    result.archived.append(f"`{key}` ({meta.get('code')}): no longer on the page (valid until {options.year})")
+    log.info(f"Archived {key} ({meta.get('code')}) as valid until {options.year}")
+
+
+def _delete_sign(source: Source, options: Options, result: Result, key: str) -> None:
+    """--prune: delete the country's folder, and the sign when no other country has it."""
+    if options.check:
+        log.info(f"Would delete {key}/{source.country}")
+        return
+    category, slug = key.split("/")
+    _remove_dir(layout.sign_dir(category, slug, source.country))
+    sign_folder = os.path.dirname(layout.translations_path(category, slug))
+    if layout.country_dirs(category, slug):
+        layout.remove_translation(category, slug, source.language)
+        log.info(f"Deleted {key}/{source.country}; other countries keep the sign")
+    elif os.path.isdir(sign_folder):
+        _remove_dir(sign_folder)  # no other country has this sign: drop it with its names file
+        log.info(f"Deleted {key}")
 
 
 def _remove_dir(path: str) -> None:
