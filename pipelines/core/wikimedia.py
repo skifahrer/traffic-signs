@@ -142,7 +142,8 @@ def strip_markup(text: str) -> str:
     text = re.sub(r"\[https?://\S+\s+([^\]]*)\]", r"\1", text)
     text = re.sub(r"'{2,}", "", text)
     text = re.sub(r"<[^>]+>", "", text)
-    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+    text = html.unescape(text).replace("\u00ad", "")  # soft hyphens (&shy;)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def _meta(meta: dict, key: str) -> str | None:

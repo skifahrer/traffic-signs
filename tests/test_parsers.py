@@ -141,6 +141,64 @@ class CaptionCleanupTest(unittest.TestCase):
         self.assertEqual([p.file for p in problems], ["e.svg"])
 
 
+UK_PAGE = """
+== History ==
+[[File:Pre-Worboys sign.jpg|thumb|An old sign]]
+==Warning signs==
+<gallery>
+File:UK traffic sign 501.svg|[[Stop sign|STOP]] or GIVE WAY ahead
+File:UK_traffic_sign_512_(right).svg|Bend to right{{efn|name=left}}
+</gallery>
+{| class="wikitable"
+| [[File:UK traffic sign 601.1.svg|60px]] || Stop
+|}
+{{Multiple image | image1 = UK traffic sign 616.svg | image2 = UK traffic sign 501.svg}}
+"""
+
+DE_GALLERY = """<gallery>
+Sinnbild Kfz.svg|Kraftwagen
+Zeichen 101 - Gefahrstelle, StVO 1970.svg|'''Zeichen 101'''<br />[[Gefahr]]stelle
+Zusatzzeichen 1000-10 - links, StVO 1992.svg|'''Zusatzzeichen 1000-10'''<br />Richtungs&shy;angabe links
+RAL-Gütesiegel, 2014.svg|2014 wurde der Block überarbeitet
+</gallery>
+"""
+
+
+class FilesTest(unittest.TestCase):
+    def test_takes_the_code_from_matching_file_names_anywhere_on_the_page(self):
+        entries, problems = parsers.files(r"UK traffic sign (?P<code>.+)\.svg")(UK_PAGE)
+        self.assertEqual(problems, [])
+        self.assertEqual(
+            [(e.file, e.code, e.name) for e in entries],
+            [
+                ("UK traffic sign 501.svg", "501", ""),
+                ("UK traffic sign 512 (right).svg", "512 (right)", ""),
+                ("UK traffic sign 601.1.svg", "601.1", ""),
+                ("UK traffic sign 616.svg", "616", ""),
+            ],
+        )
+
+    def test_ignore_and_a_missing_code_group(self):
+        parse = parsers.files(r"UK traffic sign (?P<code>.+)\.svg", ignore=r" 6\d\d")
+        self.assertEqual([e.code for e in parse(UK_PAGE)[0]], ["501", "512 (right)"])
+        with self.assertRaises(ValueError):
+            parsers.files(r"UK traffic sign (.+)\.svg")
+
+
+class CodePrefixTest(unittest.TestCase):
+    def test_prefix_is_required_and_left_out_of_the_code(self):
+        parse = parsers.gallery(r"\d{3,4}(?:-\d+)*", code_prefix=r"(?:Zusatzzeichen|Zeichen) ", ignore=r"^Kraftwagen$")
+        entries, problems = parse(DE_GALLERY)
+        self.assertEqual(
+            [(e.file, e.code, e.name) for e in entries],
+            [
+                ("Zeichen 101 - Gefahrstelle, StVO 1970.svg", "101", "Gefahrstelle"),
+                ("Zusatzzeichen 1000-10 - links, StVO 1992.svg", "1000-10", "Richtungsangabe links"),
+            ],
+        )
+        self.assertEqual([p.file for p in problems], ["RAL-Gütesiegel, 2014.svg"])  # no "Zeichen": not a code
+
+
 class CorrectionsTest(unittest.TestCase):
     def test_a_correction_can_add_a_row_the_parser_could_not_read(self):
         with tempfile.TemporaryDirectory() as folder:

@@ -130,6 +130,7 @@ copy is hashed:
 | --- | --- |
 | Image not on disk yet | downloads it |
 | Commons has a new version (SHA-1 differs) | downloads it over the old one |
+| Page shows a `.png`/`.jpg`/`.tif`, Commons has an `.svg` of the same name | downloads the SVG and removes the old file |
 | Image deleted from Commons, sign still on the page | renames it to `<sign>-<country>-archived-<year>.<ext>` and moves its metadata to `archived` with `valid_until` |
 | Sign removed from the page | archives its image the same way and marks the sign `"valid_until": <year>`; its folder and names stay |
 | Sign comes back to the page | downloads the current image and drops the sign's `valid_until`; the archive is kept |
@@ -214,6 +215,21 @@ pipelines/
    `(entries, problems)`. Write one in the country's own package when only
    that page is laid out that way, or add a factory to `core/parsers.py` when
    other countries can reuse it.
+
+   Other options, for pages that are harder to read:
+
+   | Page | Use |
+   | --- | --- |
+   | Signs spread over several pages | `page=["Panneau … de danger en France", "Panneau … de prescription en France"]`; every parser reads every page, and a sign listed twice counts once |
+   | Signs missing from the local page | `"en:Road signs in France"` reads a page from the English (or any other) Wikipedia |
+   | Every caption starts with a word that is not part of the code | `code_prefix=r"(?:Zusatzzeichen\|Zeichen) "` on `gallery()`/`wikitable()` stores `Zeichen 101` as `101` |
+   | Captions without codes, but files named after the sign | `parsers.files(r"UK traffic sign (?P<code>.+)\.svg")` takes the code from every matching image on the page |
+   | Captions without (usable) local names | `local_names="translations"`: names come from the `name_<language>` column of `translations.csv` |
+   | An English-speaking country | `language="en"`: `translations.csv` has only `name_en`, which is both the English and the local name |
+
+   Images: when the page uses a `.png`, `.jpg` or `.tif` and Commons has an
+   `.svg` of the same name, the SVG is downloaded instead (`prefer_svg=True`,
+   the default).
 2. Add `translations.csv` with the columns `code,category,slug,name_en,name_<language>`.
    Reuse an existing sign folder (`slug`) when the sign means the same, so the
    countries line up. Run `python3 -m pipelines <code> --check` to see which
