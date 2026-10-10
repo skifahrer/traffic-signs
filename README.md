@@ -11,24 +11,27 @@ Czechia's or Germany's.
 signs/
   <category>/                 warning, regulatory, information, ...
     <sign>/                   English name of the concrete sign, e.g. bend-left
+      <sign>.json             the sign's names, one entry per language
       <country>/              ISO 3166-1 alpha-2 code, lowercase: sk, cz, us, ...
         <sign>-<country>.svg  the image (svg, png, ...)
-        <sign>-<country>.sk   the local name, one file per language (ISO 639-1 code)
-        <sign>-<country>.json metadata: national code, names, image source and licence
+        <sign>-<country>.json metadata: national code, image source and licence
 ```
 
 For example:
 
 ```
-signs/warning/danger/sk/
-  danger-sk.svg    the sign
-  danger-sk.sk     "Nebezpečenstvo"
-  danger-sk.json   {"code": "101", "name": {"en": "Other danger", "sk": "Nebezpečenstvo"}, "image": {...}}
+signs/warning/danger/
+  danger.json        {"en": "Other danger", "sk": "Nebezpečenstvo"}
+  sk/
+    danger-sk.svg    the sign
+    danger-sk.json   {"code": "101", "image": {...}, "source": {...}}
 ```
 
-The language file holds the sign's official name in that language, nothing
-else (UTF-8, one line). Countries with several official languages get one file
-per language, e.g. `give-way-ch.de`, `give-way-ch.fr`, `give-way-ch.it`.
+The names file is shared by every country that has the sign. Keys are
+ISO 639-1 language codes, `en` first; when a country is added, its language is
+added to the same file, e.g. `"cs": "Jiné nebezpečí"` for Czechia. If two
+countries name a sign differently in the same language, add a region to the
+key for the second one, e.g. `de` for Germany and `de-AT` for Austria.
 
 ### Categories
 
@@ -61,15 +64,23 @@ meaning, so the countries line up.
 ## Slovak pipeline
 
 `pipelines/sk_wikipedia` reads every gallery entry on the Slovak Wikipedia list
-(`Súbor:<file>|<code> <Slovak name>`), and for each one writes the Slovak name,
-the metadata and the SVG from Wikimedia Commons into `signs/`.
+(`Súbor:<file>|<code> <Slovak name>`). For each one it merges the English and
+Slovak names into the sign's names file (other languages are kept), and writes
+the Slovak metadata and the SVG from Wikimedia Commons.
 
 ```sh
 python3 -m pipelines.sk_wikipedia               # full sync: names, metadata, images
 python3 -m pipelines.sk_wikipedia --no-images   # names and metadata only
 python3 -m pipelines.sk_wikipedia --check       # report what would change, write nothing
 python3 -m pipelines.sk_wikipedia --prune       # also delete signs removed from the page
+python3 -m pipelines.sk_wikipedia -v            # also log signs that are already up to date
 ```
+
+Progress goes to stderr with timestamps: each phase, every sign it creates,
+changes or downloads an image for (`[123/837] 253-50 → regulatory/speed-limit-50`),
+retries with their HTTP status, an ETA while downloading, and a summary at the
+end. The Markdown report goes to stdout. On GitHub Actions the phases are
+collapsible groups and errors are shown as annotations.
 
 It needs Python 3.9+ and nothing else. Images are only downloaded when their
 SHA-1 on Commons differs from the file on disk, so a re-run is cheap.

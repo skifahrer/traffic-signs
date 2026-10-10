@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "424-10",
-  "name": {
-    "en": "Lane gain (left, 2 lanes continuing + 1 oncoming + regulatory sign)",
-    "sk": "Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

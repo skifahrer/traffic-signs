@@ -3,10 +3,6 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-5,5",
-  "name": {
-    "en": "Maximum weight (5.5 t)",
-    "sk": "Maximálna hmotnosť (5,5 t)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

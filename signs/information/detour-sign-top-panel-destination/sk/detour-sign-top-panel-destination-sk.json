@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "394-61-51",
-  "name": {
-    "en": "Detour sign (supplementary panel above the sign, long-distance destination name)",
-    "sk": "Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, názov diaľkového cieľa)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -15,11 +15,12 @@ import html
 import json
 import os
 import re
-import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
+
+from . import log
 
 DEFAULT_USER_AGENT = (
     "traffic-signs-sync/1.0 (https://github.com/skifahrer/traffic-signs) python-urllib"
@@ -52,11 +53,15 @@ class Client:
                 if err.code not in (429, 500, 502, 503, 504) or attempt == self.retries:
                     raise
                 backoff = _retry_after(err) or min(2 ** (attempt + 2), 120)
-            except (urllib.error.URLError, TimeoutError):
+                reason = f"HTTP {err.code}"
+            except (urllib.error.URLError, TimeoutError) as err:
                 if attempt == self.retries:
                     raise
                 backoff = min(2 ** (attempt + 2), 120)
-            print(f"  retrying in {backoff:.0f}s: {url}", file=sys.stderr)
+                reason = str(getattr(err, "reason", err))
+            log.info(
+                f"    {reason}, retry {attempt + 1}/{self.retries} in {backoff:.0f}s: {url.split('?')[0]}"
+            )
             time.sleep(backoff)
         raise AssertionError("unreachable")
 
@@ -74,8 +79,10 @@ class Client:
         Titles that do not exist on that wiki are left out of the result.
         """
         result: dict[str, dict] = {}
-        for start in range(0, len(titles), 50):
+        batches = (len(titles) + 49) // 50
+        for number, start in enumerate(range(0, len(titles), 50), 1):
             batch = titles[start : start + 50]
+            log.info(f"  {urllib.parse.urlparse(api).netloc}: batch {number}/{batches} ({len(batch)} files)")
             data = self.get_json(
                 api,
                 {

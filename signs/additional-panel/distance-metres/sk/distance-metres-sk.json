@@ -3,10 +3,6 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "501-50",
-  "name": {
-    "en": "Distance (in metres, e.g. 100 m)",
-    "sk": "Vzdialenosť (v metroch, vzor 100 m)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

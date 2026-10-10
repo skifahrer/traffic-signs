@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "351",
-  "name": {
-    "en": "Class III road number (only used inside direction signs)",
-    "sk": "Číslo cesty III. triedy (nevyrába sa ako samostatná značka, len sa vkladá do smerových značiek)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

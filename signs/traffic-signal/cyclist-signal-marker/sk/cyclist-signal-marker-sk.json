@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "739",
-  "name": {
-    "en": "Cyclist signal marker (supplementary device to traffic signals)",
-    "sk": "Označenie návestidla pre cyklistov (doplnkové zariadenie k svetelným signálom podľa (Z7) § 15 ods. 8)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

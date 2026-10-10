@@ -24,7 +24,7 @@ import sys
 import urllib.parse
 from dataclasses import dataclass
 
-from .. import layout
+from .. import layout, log
 from ..wikimedia import COMMONS_API, Client, sha1_of, strip_markup
 
 COUNTRY = "sk"
@@ -89,13 +89,19 @@ def read_csv(path: str) -> list[dict]:
         return [row for row in csv.DictReader(handle) if not row[next(iter(row))].startswith("#")]
 
 
-def apply_corrections(entries: list[Entry]) -> None:
+def apply_corrections(entries: list[Entry]) -> list[str]:
+    """Apply corrections.csv; returns a description of each change made."""
     fixes = {row["file"]: row for row in read_csv(CORRECTIONS)}
+    applied = []
     for entry in entries:
         fix = fixes.get(entry.file)
-        if fix:
-            entry.code = fix["code"] or entry.code
-            entry.name = fix["name_sk"] or entry.name
+        if not fix:
+            continue
+        code, name = fix["code"] or entry.code, fix["name_sk"] or entry.name
+        if (code, name) != (entry.code, entry.name):
+            applied.append(f"{entry.code} {entry.name} → {code} {name}")
+        entry.code, entry.name = code, name
+    return applied
 
 
 def load_translations() -> tuple[dict[str, Translation], list[str]]:
@@ -121,9 +127,12 @@ def fetch_image_info(client: Client, files: list[str]) -> dict[str, dict]:
     """imageinfo per file name, looking on Commons first, then on sk.wikipedia."""
     titles = [f"File:{f}" for f in files]
     info = client.image_info(COMMONS_API, titles)
+    log.info(f"Found {len(info)}/{len(titles)} files on Commons")
     missing = [t for t in titles if t not in info]
     if missing:
-        info.update(client.image_info(LOCAL_API, missing))
+        local = client.image_info(LOCAL_API, missing)
+        log.info(f"Found {len(local)}/{len(missing)} of the rest on {WIKI}")
+        info.update(local)
     return {title[len("File:"):]: value for title, value in info.items()}
 
 
@@ -144,118 +153,185 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--strict", action="store_true", help="fail when a sign has no translation")
     parser.add_argument("--report", help="also write the Markdown report to this file")
     parser.add_argument("--delay", type=float, default=1.0, help="seconds between Wikimedia requests")
+    parser.add_argument("-v", "--verbose", action="store_true", help="also log signs that are already up to date")
     args = parser.parse_args(argv)
+    log.verbose = args.verbose
+    mode = ", ".join(
+        flag for flag, on in (("check only", args.check), ("no images", args.no_images), ("prune", args.prune)) if on
+    )
+    log.info(f"Slovak traffic signs sync{f' ({mode})' if mode else ''}")
 
     client = Client(delay=args.delay)
-    if args.wikitext:
-        with open(args.wikitext, encoding="utf-8") as handle:
-            wikitext = handle.read()
-    else:
-        print(f"Downloading {PAGE_URL}", file=sys.stderr)
-        wikitext = client.page_wikitext(WIKI, PAGE)
+    with log.phase("Read the Wikipedia page"):
+        if args.wikitext:
+            log.info(f"Reading {args.wikitext}")
+            with open(args.wikitext, encoding="utf-8") as handle:
+                wikitext = handle.read()
+        else:
+            log.info(f"Downloading {PAGE_URL}")
+            wikitext = client.page_wikitext(WIKI, PAGE)
+        log.info(f"{len(wikitext):,} characters of wikitext")
 
-    entries, errors = parse(wikitext)
-    apply_corrections(entries)
-    translations, translation_errors = load_translations()
-    errors += translation_errors
+        entries, errors = parse(wikitext)
+        log.info(f"{len(entries)} gallery entries with a sign code")
+        for problem in errors:
+            log.error(problem)
+        for change in apply_corrections(entries):
+            log.info(f"Correction applied: {change}")
 
-    by_code: dict[str, Entry] = {}
-    for entry in entries:
-        if entry.code in by_code:
-            errors.append(
-                f"code {entry.code} appears twice: `{by_code[entry.code].file}` and `{entry.file}`"
-                " (add a line to corrections.csv)"
-            )
-            continue
-        by_code[entry.code] = entry
+        translations, translation_errors = load_translations()
+        log.info(f"{len(translations)} translations in translations.csv")
+        for problem in translation_errors:
+            log.error(problem)
+        errors += translation_errors
 
-    untranslated = [e for code, e in by_code.items() if code not in translations]
-    signs = [(by_code[code], translations[code]) for code in by_code if code in translations]
-    unused = sorted(set(translations) - set(by_code))
-    renamed = [
-        f"`{e.code}`: translated from “{t.name_sk}”, the page now says “{e.name}” (English: “{t.name_en}”)"
-        for e, t in signs
-        if e.name != t.name_sk
-    ]
+        by_code: dict[str, Entry] = {}
+        for entry in entries:
+            if entry.code in by_code:
+                problem = (
+                    f"code {entry.code} appears twice: `{by_code[entry.code].file}` and `{entry.file}`"
+                    " (add a line to corrections.csv)"
+                )
+                log.error(problem)
+                errors.append(problem)
+                continue
+            by_code[entry.code] = entry
+
+        untranslated = [e for code, e in by_code.items() if code not in translations]
+        signs = [(by_code[code], translations[code]) for code in by_code if code in translations]
+        unused = sorted(set(translations) - set(by_code))
+        renamed = [
+            f"`{e.code}`: translated from “{t.name_sk}”, the page now says “{e.name}” (English: “{t.name_en}”)"
+            for e, t in signs
+            if e.name != t.name_sk
+        ]
+        for e in untranslated:
+            log.warning(f"No translation for {e.code} {e.name}; skipped (add it to translations.csv)")
+        for line in renamed:
+            log.warning(f"Renamed on the page, check the English name: {line.replace('`', '')}")
+        log.info(
+            f"{len(signs)} signs to sync, {len(untranslated)} without translation,"
+            f" {len(unused)} translations no longer on the page"
+        )
 
     info: dict[str, dict] = {}
     if not args.no_images:
-        print(f"Fetching image metadata for {len(signs)} files", file=sys.stderr)
-        info = fetch_image_info(client, [entry.file for entry, _ in signs])
+        with log.phase(f"Fetch image metadata for {len(signs)} files"):
+            info = fetch_image_info(client, [entry.file for entry, _ in signs])
 
     previous = layout.existing_signs(COUNTRY, PIPELINE)
     current = {f"{t.category}/{t.slug}" for _, t in signs}
-    added, changed, images = [], [], []
-    for entry, t in signs:
-        key = f"{t.category}/{t.slug}"
-        meta_path = layout.sign_path(t.category, t.slug, COUNTRY, "json")
-        old_meta = None
-        if os.path.exists(meta_path):
-            with open(meta_path, encoding="utf-8") as handle:
-                old_meta = json.load(handle)
+    added, changed, images, unchanged = [], [], [], 0
+    downloaded_bytes = 0
+    with log.phase(f"Write {len(signs)} signs" + (" (check only, nothing is written)" if args.check else "")):
+        log.info(f"{len(previous)} Slovak signs already in signs/")
+        progress = log.Progress(len(signs))
+        for entry, t in signs:
+            step = progress.step()
+            key = f"{t.category}/{t.slug}"
+            meta_path = layout.sign_path(t.category, t.slug, COUNTRY, "json")
+            old_meta = None
+            if os.path.exists(meta_path):
+                with open(meta_path, encoding="utf-8") as handle:
+                    old_meta = json.load(handle)
 
-        image = info.get(entry.file)
-        ext = entry.file.rsplit(".", 1)[-1].lower()
-        image_name = f"{t.slug}-{COUNTRY}.{ext}"
-        image_path = layout.sign_path(t.category, t.slug, COUNTRY, ext)
-        if args.no_images or image is None:
-            if not args.no_images:
-                errors.append(f"{entry.code}: `{entry.file}` was not found on Commons or {WIKI}")
-            image_meta = (old_meta or {}).get("image")
-        else:
-            image_meta = {
-                "file": image_name,
-                "sha1": image["sha1"],
-                "source": image["description_url"],
-                "author": image["author"],
-                "license": image["license"],
-                "license_url": image["license_url"],
+            image = info.get(entry.file)
+            ext = entry.file.rsplit(".", 1)[-1].lower()
+            image_name = f"{t.slug}-{COUNTRY}.{ext}"
+            image_path = layout.sign_path(t.category, t.slug, COUNTRY, ext)
+            if args.no_images or image is None:
+                if not args.no_images:
+                    problem = f"{entry.code}: `{entry.file}` was not found on Commons or {WIKI}"
+                    log.error(problem)
+                    errors.append(problem)
+                image_meta = (old_meta or {}).get("image")
+            else:
+                image_meta = {
+                    "file": image_name,
+                    "sha1": image["sha1"],
+                    "source": image["description_url"],
+                    "author": image["author"],
+                    "license": image["license"],
+                    "license_url": image["license_url"],
+                }
+
+            meta = {
+                "sign": t.slug,
+                "category": t.category,
+                "country": COUNTRY,
+                "code": entry.code,
+                "image": image_meta,
+                "source": {"pipeline": PIPELINE, "page": PAGE_URL, "file": entry.file},
             }
+            if image_meta is None:
+                del meta["image"]
 
-        meta = {
-            "sign": t.slug,
-            "category": t.category,
-            "country": COUNTRY,
-            "code": entry.code,
-            "name": {"en": t.name_en, LANG: entry.name},
-            "image": image_meta,
-            "source": {"pipeline": PIPELINE, "page": PAGE_URL, "file": entry.file},
-        }
-        if image_meta is None:
-            del meta["image"]
+            names = {"en": t.name_en, LANG: entry.name}
+            old_names = layout.read_translations(t.category, t.slug)
+            notes = []
+            if key not in previous:
+                added.append(f"`{key}` ← {entry.code} {entry.name}")
+                notes.append("new")
+            elif old_meta != meta or any(old_names.get(lang) != name for lang, name in names.items()):
+                changed.append(f"`{key}` ({entry.code})")
+                notes.append("metadata changed")
 
-        name_path = layout.sign_path(t.category, t.slug, COUNTRY, LANG)
-        if key not in previous:
-            added.append(f"`{key}` ← {entry.code} {entry.name}")
-        elif old_meta != meta:
-            changed.append(f"`{key}` ({entry.code})")
+            needs_image = image is not None and sha1_of(image_path) != image["sha1"]
+            if needs_image:
+                notes.append("image " + ("outdated" if os.path.exists(image_path) else "missing"))
+            label = f"{step} {entry.code} → {key}"
 
-        if args.check:
-            continue
-        layout.write_text(name_path, entry.name + "\n")
-        layout.write_json(meta_path, meta)
-
-        if image is not None and sha1_of(image_path) != image["sha1"]:
-            print(f"  {entry.code}: downloading {entry.file}", file=sys.stderr)
-            try:
-                data = client.get(image["url"])
-            except Exception as err:  # keep going; the report lists the failure
-                errors.append(f"{entry.code}: download of `{entry.file}` failed: {err}")
+            if args.check:
+                (log.info if notes else log.detail)(f"{label}: {', '.join(notes) or 'up to date'}")
                 continue
-            with open(image_path, "wb") as handle:
-                handle.write(data)
-            images.append(f"`{key}`")
-        # Drop an image left over from an earlier file format.
-        for other in IMAGE_EXTS - {ext}:
-            stale = layout.sign_path(t.category, t.slug, COUNTRY, other)
-            if os.path.exists(stale):
-                os.remove(stale)
+            layout.update_translations(t.category, t.slug, names)
+            layout.write_json(meta_path, meta)
+
+            if needs_image:
+                try:
+                    data = client.get(image["url"])
+                except Exception as err:  # keep going; the report lists the failure
+                    problem = f"{entry.code}: download of `{entry.file}` failed: {err}"
+                    log.error(problem)
+                    errors.append(problem)
+                    continue
+                with open(image_path, "wb") as handle:
+                    handle.write(data)
+                images.append(f"`{key}`")
+                downloaded_bytes += len(data)
+                notes[-1] = f"image downloaded ({len(data) / 1024:.1f} KB, ETA {progress.eta()})"
+            # Drop an image left over from an earlier file format.
+            for other in IMAGE_EXTS - {ext}:
+                stale = layout.sign_path(t.category, t.slug, COUNTRY, other)
+                if os.path.exists(stale):
+                    os.remove(stale)
+                    notes.append(f"removed old .{other} image")
+
+            if notes:
+                log.info(f"{label}: {', '.join(notes)}")
+            else:
+                unchanged += 1
+                log.detail(f"{label}: up to date")
+        log.info(
+            f"{len(added)} new, {len(changed)} changed, {unchanged} up to date,"
+            f" {len(images)} images downloaded ({downloaded_bytes / 1024 / 1024:.1f} MB)"
+        )
 
     removed = sorted(set(previous) - current)
-    if args.prune and not args.check:
-        for key in removed:
-            category, slug = key.split("/")
-            remove_dir(layout.sign_dir(category, slug, COUNTRY))
+    if removed:
+        with log.phase(f"{len(removed)} signs no longer on the page"):
+            for key in removed:
+                if not args.prune or args.check:
+                    log.warning(f"{key} is no longer on the page (run with --prune to delete it)")
+                    continue
+                category, slug = key.split("/")
+                remove_dir(layout.sign_dir(category, slug, COUNTRY))
+                if layout.country_dirs(category, slug):
+                    layout.remove_translation(category, slug, LANG)
+                    log.info(f"Deleted {key}/{COUNTRY}; other countries keep the sign")
+                elif os.path.isdir(sign_folder := os.path.dirname(layout.translations_path(category, slug))):
+                    remove_dir(sign_folder)  # no other country has this sign: drop it with its names file
+                    log.info(f"Deleted {key}")
 
     report = render_report(
         entries=len(by_code),
@@ -273,9 +349,13 @@ def main(argv: list[str] | None = None) -> int:
     print(report)
     if args.report:
         layout.write_text(args.report, report)
-    if errors or (args.strict and untranslated):
-        return 1
-    return 0
+        log.info(f"Report written to {args.report}")
+    failed = bool(errors or (args.strict and untranslated))
+    log.info(
+        f"{'Failed' if failed else 'Finished'} in {log.duration(log.elapsed())}:"
+        f" {len(signs)} signs, {len(images)} images downloaded, {len(errors)} errors"
+    )
+    return 1 if failed else 0
 
 
 def render_report(*, entries, synced, added, changed, images, removed, pruned, untranslated, renamed, unused, errors) -> str:

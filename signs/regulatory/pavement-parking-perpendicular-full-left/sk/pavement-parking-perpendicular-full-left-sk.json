@@ -3,10 +3,6 @@
   "category": "regulatory",
   "country": "sk",
   "code": "273-80",
-  "name": {
-    "en": "Parking on the pavement (perpendicular, fully, placed at an angle or parallel, left)",
-    "sk": "Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vľavo)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

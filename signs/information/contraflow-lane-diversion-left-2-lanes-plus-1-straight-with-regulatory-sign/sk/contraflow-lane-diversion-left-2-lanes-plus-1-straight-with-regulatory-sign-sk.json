@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "444-18",
-  "name": {
-    "en": "Contraflow lane diversion (to the left, 2 lanes + 1 straight, with inset regulatory sign)",
-    "sk": "Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy + 1 priamo, s vloženou regulačnou značkou)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

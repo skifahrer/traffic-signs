@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "825",
-  "name": {
-    "en": "Pedestrian and cyclist crossing signal: go",
-    "sk": "Signál Voľno pre chodcov a cyklistov (pri prechádzaní cez vozovku)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "394-31-52",
-  "name": {
-    "en": "Detour sign (straight ahead, with class I or II road number)",
-    "sk": "Tabuľový smerník na vyznačenie obchádzky (priamo, s číslom cesty I. alebo II. triedy)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

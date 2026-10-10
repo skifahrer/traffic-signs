@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "836-40",
-  "name": {
-    "en": "Rail vehicle speed signal (40 km/h)",
-    "sk": "Rýchlostný signál pre dráhové vozidlá (40 kmh)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

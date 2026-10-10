@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "423-15",
-  "name": {
-    "en": "Lane gain (left, 2 lanes continuing + 3 oncoming)",
-    "sk": "Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 3 v protismere)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

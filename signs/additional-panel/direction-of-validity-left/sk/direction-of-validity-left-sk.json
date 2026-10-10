@@ -3,10 +3,6 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "504-10",
-  "name": {
-    "en": "Direction of validity (to the left)",
-    "sk": "Smer platnosti (doľava)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

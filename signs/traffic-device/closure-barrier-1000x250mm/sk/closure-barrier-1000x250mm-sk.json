@@ -3,10 +3,6 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "701-60",
-  "name": {
-    "en": "Closure barrier (1000 × 250 mm)",
-    "sk": "Zábrana na označenie uzávierky (1000 x 250 mm)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

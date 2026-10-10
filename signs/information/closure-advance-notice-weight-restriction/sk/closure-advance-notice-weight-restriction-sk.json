@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "392-53",
-  "name": {
-    "en": "Advance closure notice (early notice of a permanent weight restriction, e.g. on a bridge)",
-    "sk": "Uzávierková predzvesť (včasná informácia o trvalom hmotnostnom obmedzení - napr. na moste)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

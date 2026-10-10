@@ -3,10 +3,6 @@
   "category": "regulatory",
   "country": "sk",
   "code": "225-81",
-  "name": {
-    "en": "End of segregated footpath and cycle path (cyclists on the right)",
-    "sk": "Koniec špeciálnej cestičky alebo pruhu (oddelená cestička pre chodcov a cyklistov, cyklisti vpravo)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

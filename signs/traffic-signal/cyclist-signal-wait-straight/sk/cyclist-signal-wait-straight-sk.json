@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "814-30",
-  "name": {
-    "en": "Cyclist signal: wait, directional (straight ahead)",
-    "sk": "Signál Čakaj pre cyklistov, smerový (priamo)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

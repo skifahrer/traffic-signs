@@ -3,10 +3,6 @@
   "category": "regulatory",
   "country": "sk",
   "code": "243-2,1",
-  "name": {
-    "en": "Maximum height (2.1 m)",
-    "sk": "Maximálna výška (2,1 m)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

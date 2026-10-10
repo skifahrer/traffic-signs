@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "395-11-51",
-  "name": {
-    "en": "Detour arrow (to the left, with long-distance destination)",
-    "sk": "Šípový smerník na vyznačenie obchádzky (doľava, s vyznačeným diaľkovým cieľom)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

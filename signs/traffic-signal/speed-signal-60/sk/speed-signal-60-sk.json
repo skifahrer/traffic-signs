@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "835-60",
-  "name": {
-    "en": "Speed signal (60 km/h)",
-    "sk": "Rýchlostný signál (60 kmh)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
