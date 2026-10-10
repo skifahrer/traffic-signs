@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-39",
+  "image": {
+    "file": "general-rules-information-pl.svg",
+    "sha1": "ae6ff2707ea0451a2ce45d492b08d324952f1d24",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_D-39_(wersja_2021).svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

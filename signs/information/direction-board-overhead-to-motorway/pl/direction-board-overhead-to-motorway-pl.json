@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-2f",
+  "image": {
+    "file": "direction-board-overhead-to-motorway-pl.svg",
+    "sha1": "2abdb6f94fbac57d1525bbbbfdeeec8ba1827071",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-2f.svg",
+    "author": "Szczepan dyskusja Mail 11:37, 5 March 2007 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

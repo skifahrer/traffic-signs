@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-25b",
+  "image": {
+    "file": "section-continues-pl.svg",
+    "sha1": "33d721a0121eea7f8ef0a97a6a90ad9283731d2f",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-25b.svg",
+    "author": "Masur",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

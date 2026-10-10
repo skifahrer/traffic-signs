@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "pl",
   "code": "S-3a (w prawo)",
+  "image": {
+    "file": "directional-signal-head-right-with-cyclists-pl.png",
+    "sha1": "a55da01aba3f1e2a62a0afe08fcd809c264bebe4",
+    "source": "https://commons.wikimedia.org/wiki/File:S-3a_%E2%80%9Esygnalizator_kierunkowy_do_skr%C4%99tu_w_prawo_z_sygna%C5%82ami_dla_kieruj%C4%85cych_rowerem%E2%80%9D.png",
+    "author": "NKacz",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

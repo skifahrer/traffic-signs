@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-23f",
+  "image": {
+    "file": "vehicle-type-buses-pl.svg",
+    "sha1": "a363f28e15ddcd498cd0aa7fee5fd60762572d7b",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-23f.svg",
+    "author": "Masur",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-4a",
+  "image": {
+    "file": "dead-end-pl.svg",
+    "sha1": "f49490a887428c2a7ecbc565c84b6147c108eb81",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-4a.svg",
+    "author": "Szczepan dyskusja Mail 18:29, 31 December 2006 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

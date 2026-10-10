@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-2e",
+  "image": {
+    "file": "direction-board-roadside-to-motorway-pl.svg",
+    "sha1": "6dee00968c2ff5d4e6aa60d7ee32c6a7c15d612b",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-2e.svg",
+    "author": "Szczepan dyskusja Mail 02:39, 5 March 2007 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "D-18a",
+  "image": {
+    "file": "reserved-parking-pl.svg",
+    "sha1": "417ba37eb214631d9f4d485f89a9a26e876da97b",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-18a.svg",
+    "author": "Szczepan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

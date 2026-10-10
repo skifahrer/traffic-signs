@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "AT-5",
+  "image": {
+    "file": "tram-conflicting-traffic-pl.svg",
+    "sha1": "3b9bef7e9cbfbd06e2a7f8385c780cc7d5f0da28",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_AT-5.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-37",
+  "image": {
+    "file": "tunnel-pl.svg",
+    "sha1": "c5be73417846167a29463fe3a8bd4410c20d59cd",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-37.svg",
+    "author": "No machine-readable author provided. MStankie assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

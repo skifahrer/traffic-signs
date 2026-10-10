@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "C-13a/16a (piesi z prawej)",
+  "image": {
+    "file": "end-of-segregated-footpath-cycle-path-cyclists-left-pl.svg",
+    "sha1": "d8bdb7ccb474d9a001b450a213e0e30836033e0a",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_C-13a-16aa.svg",
+    "author": "SirPL",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

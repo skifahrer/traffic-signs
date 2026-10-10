@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-25a",
+  "image": {
+    "file": "section-start-pl.svg",
+    "sha1": "ddcb56be681e6c277bb0adfa511d146a65728970",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_T-25a.svg",
+    "author": "Masur",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

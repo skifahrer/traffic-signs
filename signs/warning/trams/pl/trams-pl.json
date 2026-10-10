@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-21",
+  "image": {
+    "file": "trams-pl.svg",
+    "sha1": "bb0d7d52a04c369b91c317c95d19d96f3dfe661d",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-21.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

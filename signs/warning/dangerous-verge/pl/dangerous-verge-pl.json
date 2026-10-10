@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-31",
+  "image": {
+    "file": "dangerous-verge-pl.svg",
+    "sha1": "394378942422b97e16d3e9fc0e3c3a399f6e17c8",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-31.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "B-32d",
+  "image": {
+    "file": "stop-ferry-boarding-pl.svg",
+    "sha1": "4ba98489a0700991abbf99d76787f58cdb847123",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_B-32d.svg",
+    "author": "Pz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

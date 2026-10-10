@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-18a",
+  "image": {
+    "file": "unexpected-direction-change-right-then-left-pl.svg",
+    "sha1": "056a8ff1360d80a1aeb816121bb1c482b2b149db",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-18a.svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

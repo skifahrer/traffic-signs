@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "B-44",
+  "image": {
+    "file": "end-of-speed-limit-zone-30-pl.svg",
+    "sha1": "72fb34f04f094d05f2edf3003a6fd6c454a40cde",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_B-44-30.svg",
+    "author": "Szczepan dyskusja Mail 18:29, 31 December 2006 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

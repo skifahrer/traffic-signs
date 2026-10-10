@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-2b",
+  "image": {
+    "file": "direction-board-overhead-pl.svg",
+    "sha1": "ccf0c9b040ba07ebdc67b2cf2ccb1e7d6aaab486",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-2b.svg",
+    "author": "Szczepan dyskusja Mail 22:20, 2 March 2007 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

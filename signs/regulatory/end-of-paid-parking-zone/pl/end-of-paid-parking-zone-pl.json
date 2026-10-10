@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "D-45",
+  "image": {
+    "file": "end-of-paid-parking-zone-pl.svg",
+    "sha1": "3fc47632a1290be20910c1da9323a0a58ab5311e",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-45.svg",
+    "author": "Szczepan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

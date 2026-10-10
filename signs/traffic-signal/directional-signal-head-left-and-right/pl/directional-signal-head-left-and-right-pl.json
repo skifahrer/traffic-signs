@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "pl",
   "code": "S-3 (w lewo i w prawo)",
+  "image": {
+    "file": "directional-signal-head-left-and-right-pl.png",
+    "sha1": "628481dd89eb231a6cad93e9156a2f8c21c3ad82",
+    "source": "https://commons.wikimedia.org/wiki/File:S-3_%E2%80%9Esygnalizator_kierunkowy_w_lewo_i_w_prawo%E2%80%9D.png",
+    "author": "NKacz",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

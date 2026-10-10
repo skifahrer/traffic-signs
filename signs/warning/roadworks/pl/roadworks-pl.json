@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-14",
+  "image": {
+    "file": "roadworks-pl.svg",
+    "sha1": "1ee4ed2f4409df153ad279d177960d4853331743",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-14.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

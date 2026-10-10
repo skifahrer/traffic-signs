@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-28",
+  "image": {
+    "file": "with-toll-pl.svg",
+    "sha1": "879ee9d9f6ff5137c548fb853608fe61e45e94a7",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-28.svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

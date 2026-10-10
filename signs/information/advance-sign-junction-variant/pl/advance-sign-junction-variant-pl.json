@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "F-6a",
+  "image": {
+    "file": "advance-sign-junction-variant-pl.svg",
+    "sha1": "f7329659f5a87140057409acdb96b40b9c390e77",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_F-6a.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

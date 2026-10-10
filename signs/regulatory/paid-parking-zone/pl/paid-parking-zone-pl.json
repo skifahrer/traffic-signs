@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "D-44",
+  "image": {
+    "file": "paid-parking-zone-pl.svg",
+    "sha1": "1ea4c86821268c89260c7d20abdca68dc05cbb8b",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-44.svg",
+    "author": "Szczepan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "pl",
   "code": "S-6",
+  "image": {
+    "file": "cyclist-signal-head-pl.svg",
+    "sha1": "a345fbb3dd322da48f4330dafe3b087aae9ce387",
+    "source": "https://commons.wikimedia.org/wiki/File:Sygnalizator_S-6.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
