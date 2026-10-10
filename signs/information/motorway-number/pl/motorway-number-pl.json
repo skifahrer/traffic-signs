@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-15c",
+  "image": {
+    "file": "motorway-number-pl.svg",
+    "sha1": "dc4f90420049794397876dbff93b6ef46f32d311",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-15c.svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

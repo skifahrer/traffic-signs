@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-30e",
+  "image": {
+    "file": "parking-panel-partial-pavement-angled-pl.svg",
+    "sha1": "71e282c361b8f40ce5db05fe696d5321cb521e69",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-30e.svg",
+    "author": "Pz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

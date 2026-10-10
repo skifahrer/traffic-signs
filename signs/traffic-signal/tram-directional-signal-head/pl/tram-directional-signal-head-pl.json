@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "pl",
   "code": "STK",
+  "image": {
+    "file": "tram-directional-signal-head-pl.svg",
+    "sha1": "e90831d79ba8cce6b6a4e00550dc3cb78751a372",
+    "source": "https://commons.wikimedia.org/wiki/File:Sygnalizator_STK.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

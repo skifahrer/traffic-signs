@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-17",
+  "image": {
+    "file": "state-border-panel-pl.svg",
+    "sha1": "e9ab1e917dadab23e122b712496e941ccea2ea5b",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-17.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

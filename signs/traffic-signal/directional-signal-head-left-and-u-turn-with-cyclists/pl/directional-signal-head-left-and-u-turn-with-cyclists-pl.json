@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "pl",
   "code": "S-3a (w lewo i do zawracania)",
+  "image": {
+    "file": "directional-signal-head-left-and-u-turn-with-cyclists-pl.png",
+    "sha1": "c27891d055befae68fc29d3ae5e03cd3d26a8d98",
+    "source": "https://commons.wikimedia.org/wiki/File:S-3a_%E2%80%9Esygnalizator_kierunkowy_w_lewo_i_do_zawracania_z_sygna%C5%82ami_dla_kieruj%C4%85cych_rowerem%E2%80%9D.png",
+    "author": "NKacz",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

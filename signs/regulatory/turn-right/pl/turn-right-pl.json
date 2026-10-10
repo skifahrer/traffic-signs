@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "C-1",
+  "image": {
+    "file": "turn-right-pl.svg",
+    "sha1": "ef5ccff2ea921a298511126259d3908fa27f4e0c",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_C-1.svg",
+    "author": "odder",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

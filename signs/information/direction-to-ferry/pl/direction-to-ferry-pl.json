@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-6c",
+  "image": {
+    "file": "direction-to-ferry-pl.svg",
+    "sha1": "1fcc980eac4fdd303a4cef91bc94a2fccaf1ac08",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-6c.svg",
+    "author": "Szczepan1990",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

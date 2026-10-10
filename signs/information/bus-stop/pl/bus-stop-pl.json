@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-15",
+  "image": {
+    "file": "bus-stop-pl.svg",
+    "sha1": "feb9f76fb790aed41f06020a4ea5bc8e666555e5",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-15.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "B-28",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-pl.svg",
+    "sha1": "1ac09c49a34da074cdb7d2c42f2b2115f5f8f84b",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_B-28.svg",
+    "author": "Szczepan dyskusja Mail 18:29, 31 December 2006 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

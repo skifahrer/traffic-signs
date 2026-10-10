@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "F-14c",
+  "image": {
+    "file": "exit-countdown-motorway-100m-pl.svg",
+    "sha1": "4d62563085c16a6257ad5246312a8448ff9b15e7",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_F-14c.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

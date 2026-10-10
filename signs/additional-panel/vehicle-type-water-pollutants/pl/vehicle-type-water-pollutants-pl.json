@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-23j",
+  "image": {
+    "file": "vehicle-type-water-pollutants-pl.svg",
+    "sha1": "880ba62d7794aeff8b2ca3fe5f73ee00a42a32c6",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-23j.svg",
+    "author": "Masur",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-5",
+  "image": {
+    "file": "intersection-pl.svg",
+    "sha1": "25c49047e9c603ee04487eb1deba2f4fcc2d9588",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-5.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-16",
+  "image": {
+    "file": "pedestrian-crossing-ahead-pl.svg",
+    "sha1": "2d8fea1d6c003553398d37686e8487dcaa4ea6fe",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-16.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "B-39",
+  "image": {
+    "file": "no-parking-zone-pl.svg",
+    "sha1": "e0995924c408a019012d668442de08b28977910f",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_B-39.svg",
+    "author": "Szczepan dyskusja Mail 18:29, 31 December 2006 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

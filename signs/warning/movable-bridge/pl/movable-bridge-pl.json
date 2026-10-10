@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-13",
+  "image": {
+    "file": "movable-bridge-pl.svg",
+    "sha1": "63974ca015007ce907865140a4c8e703a013e3fc",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-13.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

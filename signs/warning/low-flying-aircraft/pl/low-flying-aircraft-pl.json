@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-26",
+  "image": {
+    "file": "low-flying-aircraft-pl.svg",
+    "sha1": "b9d016ebd4c7450d48c86638f1524114268ffbd8",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-26.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

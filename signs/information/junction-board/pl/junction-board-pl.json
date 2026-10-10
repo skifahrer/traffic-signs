@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-20",
+  "image": {
+    "file": "junction-board-pl.svg",
+    "sha1": "392fd32407f140a6eeafc21ad15d94d15589bfc0",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-20_(na_autostradzie,_2026).svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

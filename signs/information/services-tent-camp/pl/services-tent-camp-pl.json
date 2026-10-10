@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-32",
+  "image": {
+    "file": "services-tent-camp-pl.svg",
+    "sha1": "771773b812305c4fb1cd9dc0f73c68ca54fa7e82",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-32.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

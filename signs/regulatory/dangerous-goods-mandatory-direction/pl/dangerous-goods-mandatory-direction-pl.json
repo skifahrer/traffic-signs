@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "C-17",
+  "image": {
+    "file": "dangerous-goods-mandatory-direction-pl.svg",
+    "sha1": "d70d3b3c551ed4da248fe2e0c06e5a53299b6cf3",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_C-17-2.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-39a",
+  "image": {
+    "file": "road-charges-pl.svg",
+    "sha1": "f23f3049c0e5154b0d7b6b1e189fb9b8e467eb4d",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-39a.svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

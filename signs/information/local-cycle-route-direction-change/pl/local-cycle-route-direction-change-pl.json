@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "R-1b",
+  "image": {
+    "file": "local-cycle-route-direction-change-pl.svg",
+    "sha1": "8298a001d81f56fbbb5d0da6fab9dadd7e040832",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_R-1b.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

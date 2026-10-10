@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "B-37",
+  "image": {
+    "file": "no-parking-odd-days-pl.svg",
+    "sha1": "f22720505bc2286b8694d48f59b2363921526151",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_B-37.svg",
+    "author": "Szczepan dyskusja Mail 18:29, 31 December 2006 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-5",
+  "image": {
+    "file": "arrow-sign-to-district-pl.svg",
+    "sha1": "1cac94c8641cd4fad7dafacbecec40a53b40660e",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-5.svg",
+    "author": "Szczepan dyskusja Mail 12:14, 5 March 2007 (UTC)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

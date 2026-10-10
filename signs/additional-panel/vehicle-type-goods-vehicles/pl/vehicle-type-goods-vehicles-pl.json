@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-23b",
+  "image": {
+    "file": "vehicle-type-goods-vehicles-pl.svg",
+    "sha1": "35ad2ba9b936e59195d22be124d5b8c0200322ce",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-23b.svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

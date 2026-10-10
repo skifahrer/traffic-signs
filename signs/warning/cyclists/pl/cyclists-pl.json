@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pl",
   "code": "A-24",
+  "image": {
+    "file": "cyclists-pl.svg",
+    "sha1": "ce6c098e0f66fdba60ad6559d080df810c47265d",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_A-24.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

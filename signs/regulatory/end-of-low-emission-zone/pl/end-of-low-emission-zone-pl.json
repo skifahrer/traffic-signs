@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "D-55",
+  "image": {
+    "file": "end-of-low-emission-zone-pl.svg",
+    "sha1": "eb479fe77a1f73bec5d16f0d1d8e64a33ed63c74",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-55.svg",
+    "author": "Kacper 10 000",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

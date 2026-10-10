@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "F-14e",
+  "image": {
+    "file": "exit-countdown-expressway-200m-pl.svg",
+    "sha1": "a78170cf4d7fb90ee08e815f5cb9906577fa4152",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_F-14e.svg",
+    "author": "Miko101",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

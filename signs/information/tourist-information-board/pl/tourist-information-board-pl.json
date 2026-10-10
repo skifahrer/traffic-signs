@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-22c",
+  "image": {
+    "file": "tourist-information-board-pl.svg",
+    "sha1": "57daf7399b7ebc87e84e4326df1ac4c96c5e8e57",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-22c.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

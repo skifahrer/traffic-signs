@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-34",
+  "image": {
+    "file": "electronic-toll-pl.svg",
+    "sha1": "4c6ca779f048752e7f183502f392c4e75852f169",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-34.svg",
+    "author": "Bartek444",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

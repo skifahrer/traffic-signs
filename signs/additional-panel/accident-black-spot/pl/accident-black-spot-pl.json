@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pl",
   "code": "T-14",
+  "image": {
+    "file": "accident-black-spot-pl.svg",
+    "sha1": "67e9e7fa17fa6c79be28b22ab3288a3466878e9f",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_T-14.svg",
+    "author": "--Szczepan talk ",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "C-19",
+  "image": {
+    "file": "end-of-snow-chains-required-pl.svg",
+    "sha1": "2fb89c748ecd49ec3e5b81eb2eab3c36352ed8bf",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_C-19.svg",
+    "author": "Harry-C",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

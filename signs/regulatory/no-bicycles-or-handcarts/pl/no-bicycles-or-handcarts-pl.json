@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pl",
   "code": "B-9/12",
+  "image": {
+    "file": "no-bicycles-or-handcarts-pl.svg",
+    "sha1": "391a33474fc101bf0d25849f4d3091ee4a91fa76",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_B-9-12.svg",
+    "author": "Pz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",

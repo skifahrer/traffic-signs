@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-21",
+  "image": {
+    "file": "services-hospital-pl.svg",
+    "sha1": "38842a96a5aa66ffd22ffc3255e5ba6ddf61e9ab",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-21.svg",
+    "author": "Paweł Grzywocz",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
