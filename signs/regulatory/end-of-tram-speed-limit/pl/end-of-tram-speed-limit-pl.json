@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-tram-speed-limit",
+  "category": "regulatory",
+  "country": "pl",
+  "code": "BT-2",
+  "source": {
+    "pipeline": "pl-wikipedia",
+    "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
+    "file": "Znak BT-2.svg"
+  }
+}
