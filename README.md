@@ -73,7 +73,14 @@ python3 -m pipelines.sk_wikipedia               # full sync: names, metadata, im
 python3 -m pipelines.sk_wikipedia --no-images   # names and metadata only
 python3 -m pipelines.sk_wikipedia --check       # report what would change, write nothing
 python3 -m pipelines.sk_wikipedia --prune       # also delete signs removed from the page
+python3 -m pipelines.sk_wikipedia -v            # also log signs that are already up to date
 ```
+
+Progress goes to stderr with timestamps: each phase, every sign it creates,
+changes or downloads an image for (`[123/837] 253-50 → regulatory/speed-limit-50`),
+retries with their HTTP status, an ETA while downloading, and a summary at the
+end. The Markdown report goes to stdout. On GitHub Actions the phases are
+collapsible groups and errors are shown as annotations.
 
 It needs Python 3.9+ and nothing else. Images are only downloaded when their
 SHA-1 on Commons differs from the file on disk, so a re-run is cheap.
