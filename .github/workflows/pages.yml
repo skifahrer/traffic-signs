@@ -28,6 +28,25 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
+      # configure-pages only says "Not Found" when Pages is off, and the
+      # workflow token cannot switch it on, so explain what to do instead.
+      - name: Check that GitHub Pages is enabled
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          if ! build_type=$(gh api "repos/$REPO/pages" --jq .build_type 2>/dev/null); then
+            message="GitHub Pages is not enabled. Enable it once in Settings → Pages → Build and deployment → Source: GitHub Actions, then re-run this workflow."
+          elif [ "$build_type" != "workflow" ]; then
+            message="GitHub Pages builds from a branch. Set Settings → Pages → Build and deployment → Source to GitHub Actions, then re-run this workflow."
+          else
+            echo "GitHub Pages is enabled and deploys from GitHub Actions."
+            exit 0
+          fi
+          echo "::error title=GitHub Pages setup::$message"
+          echo "### $message" >> "$GITHUB_STEP_SUMMARY"
+          exit 1
+
       - uses: actions/checkout@v5
 
       - uses: actions/setup-python@v6
