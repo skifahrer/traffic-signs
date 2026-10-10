@@ -56,30 +56,56 @@ a {
   white-space: nowrap;
 }
 
-/* Header and filters */
+/* Header: title and search stay pinned; filters fold away on phones */
 
 .top {
   position: sticky;
   top: 0;
   z-index: 2;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem 1.5rem;
-  align-items: center;
-  padding: 0.9rem 1rem;
-  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  padding: 0.75rem 1rem 0.5rem;
+  background: color-mix(in srgb, var(--bg) 94%, transparent);
   backdrop-filter: blur(6px);
   border-bottom: 1px solid var(--line);
 }
 
-.title h1 {
-  margin: 0;
-  font-size: 1.25rem;
+.bar {
+  display: flex;
+  gap: 0.75rem 1.25rem;
+  align-items: center;
 }
 
-.title p {
+.bar h1 {
   margin: 0;
+  font-size: 1.25rem;
+  white-space: nowrap;
+}
+
+.filters summary {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+  padding: 0.5rem 0 0.25rem;
   font-size: 0.85rem;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.filters summary::-webkit-details-marker {
+  display: none;
+}
+
+.filters-label {
+  font-weight: 600;
+}
+
+.filters-label::after {
+  content: " ▾";
+  color: var(--muted);
+}
+
+.filters[open] .filters-label::after {
+  content: " ▴";
 }
 
 .controls {
@@ -87,7 +113,7 @@ a {
   flex-wrap: wrap;
   gap: 0.5rem 0.75rem;
   align-items: center;
-  flex: 1;
+  padding-bottom: 0.25rem;
 }
 
 input[type="search"],
@@ -101,8 +127,9 @@ select {
 }
 
 .search {
-  flex: 1 1 14rem;
+  flex: 1;
   display: flex;
+  max-width: 36rem;
 }
 
 .search input {
@@ -246,6 +273,24 @@ main {
   border: 1px dashed var(--line);
   border-radius: 8px;
   color: var(--muted);
+  font-size: 0.7rem;
+  line-height: 1.2;
+  text-align: center;
+}
+
+/* The country does not have this sign. */
+.cell.absent {
+  color: var(--line);
+  font-size: 1.5rem;
+}
+
+/* Country code inside each cell; only shown on phones, where there is no header row. */
+.cell .country {
+  display: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.04em;
 }
 
 .cell .local {
@@ -339,6 +384,15 @@ dialog h2 {
   object-fit: contain;
 }
 
+.panel .missing {
+  display: grid;
+  place-items: center;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
 .panel dl {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -381,12 +435,125 @@ footer {
   font-size: 0.85rem;
 }
 
+/* Phones: each sign is a card, name on top and the countries side by side. */
 @media (max-width: 640px) {
-  :root {
-    --cell: 6rem;
+  .top {
+    padding: 0.5rem 0.75rem 0.25rem;
+  }
+
+  .bar h1 {
+    font-size: 1.05rem;
+  }
+
+  .controls {
+    gap: 0.5rem;
+  }
+
+  .controls select {
+    width: 100%;
+  }
+
+  main {
+    padding: 0.75rem;
+  }
+
+  .group h2 {
+    font-size: 0.95rem;
+  }
+
+  .row.head {
+    display: none;
   }
 
   .row {
-    grid-template-columns: minmax(9rem, 14rem) repeat(var(--columns), var(--cell));
+    grid-template-columns: repeat(var(--columns), minmax(4.5rem, 1fr));
+    align-items: start;
+    gap: 0.4rem 0.5rem;
+    padding: 0.65rem 0.75rem;
+    min-width: 0;
+  }
+
+  .row .name {
+    grid-column: 1 / -1;
+  }
+
+  .name strong {
+    font-size: 0.95rem;
+  }
+
+  .cell {
+    font-size: 0.72rem;
+  }
+
+  .cell img,
+  .cell .missing {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+
+  .cell .country {
+    display: block;
+  }
+
+  .cell.absent {
+    font-size: 1.1rem;
+  }
+
+  /* Detail: full screen, close button always in reach, two countries per row. */
+  dialog {
+    width: 100vw;
+    max-width: 100vw;
+    height: 100dvh;
+    max-height: 100dvh;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    padding: 0 1rem 1.5rem;
+  }
+
+  dialog .close {
+    position: sticky;
+    top: 0;
+    right: auto;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 -1rem;
+    padding: 0.25rem 0.5rem;
+    background: var(--surface);
+    z-index: 1;
+  }
+
+  dialog .close button {
+    font-size: 1.9rem;
+    padding: 0.25rem 0.6rem;
+  }
+
+  dialog h2 {
+    margin: 0 0 0.25rem;
+    font-size: 1.2rem;
+  }
+
+  .compare {
+    grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+    gap: 0.6rem;
+  }
+
+  .panel {
+    padding: 0.65rem;
+  }
+
+  .panel .big {
+    height: 6.5rem;
+  }
+
+  .panel dl {
+    grid-template-columns: 1fr;
+    gap: 0;
+    font-size: 0.8rem;
+  }
+
+  .panel dt {
+    margin-top: 0.35rem;
+    font-size: 0.72rem;
   }
 }

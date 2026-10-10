@@ -1,7 +1,8 @@
 name: Publish viewer
 
-# Builds the sign viewer (python -m viewer) and publishes it on GitHub Pages
-# whenever signs or the viewer change on master.
+# Builds the sign viewer (python -m viewer) from master and publishes it on
+# GitHub Pages: when signs or the viewer change on master (including merged
+# sync pull requests), after every run of the sync workflow, and on demand.
 # One-time setup: Settings → Pages → Build and deployment → Source: GitHub Actions.
 
 on:
@@ -12,6 +13,10 @@ on:
       - "viewer/**"
       - "pipelines/**"
       - ".github/workflows/pages.yml"
+  workflow_run:
+    # Must match `name:` in sync.yml (tests/test_workflow.py checks this).
+    workflows: ["Sync signs from Wikipedia"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
