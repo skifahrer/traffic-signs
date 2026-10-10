@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-to-motorway-left",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 1b",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS01b Směrová tabule pro příjezd k dálnici (vlevo) (2016 - verze 2015-07-31).jpg"
+  }
+}

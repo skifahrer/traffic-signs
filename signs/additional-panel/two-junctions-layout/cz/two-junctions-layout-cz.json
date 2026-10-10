@@ -1,0 +1,11 @@
+{
+  "sign": "two-junctions-layout",
+  "category": "additional-panel",
+  "country": "cz",
+  "code": "E 2d",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "Czech Republic road sign E 2d.svg"
+  }
+}

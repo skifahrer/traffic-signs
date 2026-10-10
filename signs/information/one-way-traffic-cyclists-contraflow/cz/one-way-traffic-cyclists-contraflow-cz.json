@@ -1,0 +1,11 @@
+{
+  "sign": "one-way-traffic-cyclists-contraflow",
+  "category": "information",
+  "country": "cz",
+  "code": "IP 4c",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "IP 04c Jednosměrný provoz s povoleným provozem cyklistů v protisměru (2025).tif"
+  }
+}

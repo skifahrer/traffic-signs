@@ -1,0 +1,11 @@
+{
+  "sign": "public-transport-leaving-tram-track",
+  "category": "information",
+  "country": "cz",
+  "code": "IP 23c",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IP23c Sjíždění vozidel veřejné hromadné dopravy osob z tramvajového pásu (2016 - 2015-07-31).jpg"
+  }
+}

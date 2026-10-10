@@ -30,7 +30,7 @@ class ImageInfoTest(unittest.TestCase):
             }
         }
         client = Client()
-        with mock.patch.object(client, "get_json", return_value=response):
+        with mock.patch.object(client, "get_json", return_value=response), mock.patch("builtins.print"):
             info = client.image_info("https://example.org/api.php", ["File:110-10_Zákruta.svg", "File:Missing.svg"])
         self.assertEqual(list(info), ["File:110-10_Zákruta.svg"])
         self.assertEqual(info["File:110-10_Zákruta.svg"]["sha1"], "abc")

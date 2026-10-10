@@ -1,9 +1,11 @@
 import dataclasses
+import os
+import tempfile
 import unittest
 from unittest import mock
 
 from pipelines.core import parsers
-from pipelines.core.model import Entry
+from pipelines.core.model import Entry, Problem
 from pipelines.countries import all_sources
 from tests.support import SK_WIKITEXT
 
@@ -38,7 +40,7 @@ class GalleryTest(unittest.TestCase):
             ],
         )
         self.assertEqual(len(problems), 1)
-        self.assertIn("Bez kódu.svg", problems[0])
+        self.assertIn("Bez kódu.svg", str(problems[0]))
 
 
 class WikitableTest(unittest.TestCase):
@@ -52,7 +54,7 @@ class WikitableTest(unittest.TestCase):
             ],
         )
         self.assertEqual(len(problems), 1)
-        self.assertIn("Bez čísla.svg", problems[0])
+        self.assertIn("Bez čísla.svg", str(problems[0]))
 
 
 class SeveralParsersTest(unittest.TestCase):
@@ -85,6 +87,72 @@ class SeveralParsersTest(unittest.TestCase):
     def test_a_single_parser_needs_no_list(self):
         source = dataclasses.replace(all_sources()["sk"], parser=SK_GALLERY)
         self.assertEqual(source.parsers, (SK_GALLERY,))
+
+
+PL_GALLERY = """<gallery>
+Plik:PL road sign A-1.svg|'''A-1'''<br>„niebezpieczny zakręt w prawo”
+Plik:PL road sign A-31.svg|'''A-31'''<br />„niebezpieczne pobocze” (wariant){{refn|grupa=uwaga|x}}
+Plik:PL road sign F-6a.svg|'''F-6a:''' wariant znaku uprzedzającego
+Plik:Sygnalizator SB.svg|'''SB''' „sygnalizator dla autobusów”<ref>Dz.U.</ref>
+</gallery>
+"""
+
+CZ_TABLE_WITH_NOISE = """{|
+|-
+| [[Soubor:a.svg]] || IS 3a Směrová tabule s cílem (přímo) 294/2015 Sb.
+|-
+| [[Soubor:b.svg]] || IS 3a Směrová tabule (s jedním cílem) 30/2001 Sb.
+|-
+| [[Soubor:c.svg]] || 101 Zámek
+|-
+| [[Soubor:d.svg]] || V 1a Podélná čára souvislá
+|-
+| [[Soubor:e.svg]] || odrazky
+|}
+"""
+
+
+class CaptionCleanupTest(unittest.TestCase):
+    """Markup, quotes, numbering notes and non-sign rows, as on the Polish and Czech pages."""
+
+    def test_br_templates_quotes_and_colon(self):
+        parse = parsers.gallery(r"[A-Z]{1,3}(?:-\d+[a-z]?)?", namespaces=("Plik",), strip=r"[„”]")
+        entries, problems = parse(PL_GALLERY)
+        self.assertEqual(problems, [])
+        self.assertEqual(
+            [(e.code, e.name) for e in entries],
+            [
+                ("A-1", "niebezpieczny zakręt w prawo"),
+                ("A-31", "niebezpieczne pobocze (wariant)"),
+                ("F-6a", "wariant znaku uprzedzającego"),
+                ("SB", "sygnalizator dla autobusów"),
+            ],
+        )
+
+    def test_ignore_patterns_and_strip(self):
+        parse = parsers.wikitable(
+            r"[A-Z]{1,3} \d+[a-z]?",
+            namespaces=("Soubor",),
+            ignore=[r"^\d{3} ", r"^V \d", r"30/2001 Sb\.$"],
+            strip=r"\s*\d+/\d{4} Sb\.$",
+        )
+        entries, problems = parse(CZ_TABLE_WITH_NOISE)
+        self.assertEqual([(e.code, e.name) for e in entries], [("IS 3a", "Směrová tabule s cílem (přímo)")])
+        self.assertEqual([p.file for p in problems], ["e.svg"])
+
+
+class CorrectionsTest(unittest.TestCase):
+    def test_a_correction_can_add_a_row_the_parser_could_not_read(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with open(os.path.join(folder, "corrections.csv"), "w", encoding="utf-8") as handle:
+                handle.write("file,code,name_sk,note\nC.svg,C-13/16,Droga dla pieszych i rowerów,caption has no code\n")
+            source = dataclasses.replace(all_sources()["sk"], data_dir=folder)
+            entries = [Entry("A.svg", "A-1", "Zakręt")]
+            problems = [Problem("C.svg", "no code"), Problem("X.svg", "no code")]
+            changes, left = source.apply_corrections(entries, problems)
+        self.assertEqual([(e.file, e.code) for e in entries], [("A.svg", "A-1"), ("C.svg", "C-13/16")])
+        self.assertEqual([p.file for p in left], ["X.svg"])
+        self.assertEqual(len(changes), 1)
 
 
 if __name__ == "__main__":

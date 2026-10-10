@@ -1,0 +1,369 @@
+code,category,slug,name_en,name_cs
+A 1a,warning,bend-right,Bend (right),Zatáčka vpravo
+A 1b,warning,bend-left,Bend (left),Zatáčka vlevo
+A 2a,warning,double-bend-right,Double bend (first to the right),"Dvojitá zatáčka, první vpravo"
+A 2b,warning,double-bend-left,Double bend (first to the left),"Dvojitá zatáčka, první vlevo"
+A 3,warning,intersection,Intersection,Křižovatka
+A 4,warning,roundabout-ahead,Roundabout ahead,Křižovatka s kruhovým objezdem
+A 5a,warning,steep-descent,Steep descent,Nebezpečné klesání
+A 5b,warning,steep-ascent,Steep ascent,Nebezpečné stoupání
+A 6a,warning,road-narrows-both-sides,Road narrows (from both sides),Zúžená vozovka (z obou stran)
+A 6b,warning,road-narrows-one-side,Road narrows (on one side),Zúžená vozovka (z jedné strany)
+A 7a,warning,uneven-road,Uneven road,Nerovnost vozovky
+A 7b,warning,speed-bump,Speed bump,Zpomalovací práh
+A 8,warning,slippery-road,Slippery road,Nebezpečí smyku
+A 9,warning,two-way-traffic,Two-way traffic,Provoz v obou směrech
+A 10,warning,traffic-signals,Traffic signals,Světelné signály
+A 11,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Přechod pro chodce
+A 12a,warning,pedestrians,Pedestrians,Chodci
+A 12b,warning,children,Children,Děti
+A 12c,warning,personal-transporters,Persons on personal transporters,Osoby na osobních přepravnících
+A 13,warning,farm-animals,Farm animals,Zvířata
+A 14,warning,wild-animals,Wild animals,Zvěř
+A 15,warning,roadworks,Roadworks,Práce na silnici
+A 16,warning,crosswind,Crosswind,Boční vítr
+A 17,warning,loose-gravel,Loose gravel,Odlétávající štěrk
+A 18,warning,fallen-rocks,Fallen rocks,Kamení na vozovce
+A 19,warning,cyclists,Cyclists,Cyklisté
+A 20,warning,low-flying-aircraft,Low-flying aircraft,Letadla
+A 21,warning,tunnel-ahead,Tunnel ahead,Tunel
+A 22,warning,danger,Other danger,Jiné nebezpečí
+A 23,warning,queues,Queues likely,Kolona
+A 24,warning,ice,Ice,Náledí
+A 25,warning,trams,Trams,Tramvaj
+A 26,warning,fog,Fog,Mlha
+A 27,warning,accident,Accident,Nehoda
+A 28,warning,dangerous-verge,Dangerous verge,Nebezpečná krajnice
+A 29,warning,level-crossing-with-barriers,Level crossing with barriers,Železniční přejezd se závorami
+A 30,warning,level-crossing-without-barriers,Level crossing without barriers,Železniční přejezd bez závor
+A 31a,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Návěstní deska (240 m)
+A 31b,warning,level-crossing-countdown-marker-2-bars,Level crossing countdown marker (2 bars),Návěstní deska (160 m)
+A 31c,warning,level-crossing-countdown-marker-1-bar,Level crossing countdown marker (1 bar),Návěstní deska (80 m)
+A 32a,warning,level-crossing-cross-single-track,Level crossing cross (single track),Výstražný kříž pro železniční přejezd jednokolejný
+A 32b,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Výstražný kříž pro železniční přejezd vícekolejný
+A 33,warning,movable-bridge,Movable bridge,Pohyblivý most
+A 34,warning,quayside,Quayside or river bank,Nábřeží
+P 1,information,priority-intersection,Intersection with priority,Křižovatka s vedlejší pozemní komunikací
+P 2,information,priority-road,Priority road,Hlavní pozemní komunikace
+P 3,information,end-of-priority-road,End of priority road,Konec hlavní pozemní komunikace
+P 4,regulatory,give-way,Give way,Dej přednost v jízdě!
+P 5,regulatory,give-way-to-trams,Give way to trams,Dej přednost v jízdě tramvaji!
+P 6,regulatory,stop,"Stop, give way","Stůj, dej přednost v jízdě!"
+P 7,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Přednost protijedoucích vozidel
+P 8,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Přednost před protijedoucími vozidly
+B 1,regulatory,no-vehicles,No vehicles,Zákaz vjezdu všech vozidel (v obou směrech)
+B 2,regulatory,no-entry,No entry,Zákaz vjezdu všech vozidel
+B 3,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Zákaz vjezdu všech motorových vozidel s výjimkou motocyklů bez postranního vozíku
+B 4,regulatory,no-goods-vehicles,No entry for goods vehicles,Zákaz vjezdu nákladních automobilů
+B 5,regulatory,no-buses,No entry for buses and trolleybuses,Zákaz vjezdu autobusů
+B 6,regulatory,no-tractors,No entry for tractors,Zákaz vjezdu traktorů
+B 7,regulatory,no-motorcycles,No entry for motorcycles,Zákaz vjezdu motocyklů
+B 8,regulatory,no-bicycles,No entry for bicycles,Zákaz vjezdu jízdních kol
+B 9,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Zákaz vjezdu potahových vozidel
+B 10,regulatory,no-handcarts,No entry for handcarts,Zákaz vjezdu ručních vozíků
+B 11,regulatory,no-motor-vehicles,No motor vehicles,Zákaz vjezdu všech motorových vozidel
+B 12,regulatory,no-vehicles-shown,No entry for the vehicles shown,Zákaz vjezdu vyznačených vozidel
+B 13,regulatory,maximum-weight,Maximum weight,"Zákaz vjezdu vozidel, jejichž okamžitá hmotnost přesahuje vyznačenou mez"
+B 14,regulatory,maximum-axle-weight,Maximum axle weight,"Zákaz vjezdu vozidel, jejichž okamžitá hmotnost připadající na nápravu přesahuje vyznačenou mez"
+B 15,regulatory,maximum-width,Maximum width,"Zákaz vjezdu vozidel, jejichž šířka přesahuje vyznačenou mez"
+B 16,regulatory,maximum-height,Maximum height,"Zákaz vjezdu vozidel, jejichž výška přesahuje vyznačenou mez"
+B 17,regulatory,maximum-length,Maximum length,"Zákaz vjezdu vozidel nebo souprav vozidel, jejichž délka přesahuje vyznačenou mez"
+B 18,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Zákaz vjezdu vozidel přepravujících nebezpečný náklad
+B 19,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,"Zákaz vjezdu vozidel přepravujících náklad, který může způsobit ohrožení životního prostředí"
+B 20a,regulatory,speed-limit,Speed limit,Nejvyšší dovolená rychlost
+B 20b,regulatory,end-of-speed-limit,End of speed limit,Konec nejvyšší dovolené rychlosti
+B 21a,regulatory,no-overtaking,No overtaking,Zákaz předjíždění
+B 21b,regulatory,end-of-no-overtaking,End of no overtaking,Konec zákazu předjíždění
+B 22a,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Zákaz předjíždění pro nákladní automobily
+B 22b,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Konec zákazu předjíždění pro nákladní automobily
+B 23a,regulatory,no-horns,Use of horns prohibited,Zákaz zvukových výstražných znamení
+B 23b,regulatory,end-of-no-horns,End of horns prohibited,Konec zákazu zvukových výstražných znamení
+B 24a,regulatory,no-right-turn,No right turn,Zákaz odbočování vpravo
+B 24b,regulatory,no-left-turn,No left turn,Zákaz odbočování vlevo
+B 25,regulatory,no-u-turn,No U-turn,Zákaz otáčení
+B 26,regulatory,end-of-all-restrictions,End of all restrictions,Konec všech zákazů
+B 27,regulatory,mandatory-stop,Mandatory stop,Povinnost zastavit vozidlo
+B 28,regulatory,no-stopping,No stopping,Zákaz zastavení
+B 29,regulatory,no-parking,No parking,Zákaz stání
+B 30,regulatory,no-pedestrians,No entry for pedestrians,Zákaz vstupu chodců
+B 30a,regulatory,no-personal-transporters,No entry for personal transporters,Zákaz vjezdu osobních přepravníků
+B 31,regulatory,no-riders,No entry for riders on animals,Zákaz vjezdu pro jezdce na zvířeti
+B 32,regulatory,other-prohibition,Other prohibition,Jiný zákaz
+B 33,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Zákaz vjezdu motorových vozidel s přípojným vozidlem
+B 34,regulatory,minimum-distance-50m,Minimum distance between vehicles (50 m),Nejmenší vzdálenost mezi vozidly
+C 1,regulatory,roundabout,Roundabout,Kruhový objezd
+C 2a,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Přikázaný směr jízdy přímo
+C 2b,regulatory,mandatory-direction-right,Mandatory direction (right),Přikázaný směr jízdy vpravo
+C 2c,regulatory,mandatory-direction-left,Mandatory direction (left),Přikázaný směr jízdy vlevo
+C 2d,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Přikázaný směr jízdy přímo a vpravo
+C 2e,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Přikázaný směr jízdy přímo a vlevo
+C 2f,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Přikázaný směr jízdy vpravo a vlevo
+C 3a,regulatory,turn-right,Turn right,Přikázaný směr jízdy zde vpravo
+C 3b,regulatory,turn-left,Turn left,Přikázaný směr jízdy zde vlevo
+C 4a,regulatory,pass-on-right,Pass on the right,Přikázaný směr objíždění vpravo
+C 4b,regulatory,pass-on-left,Pass on the left,Přikázaný směr objíždění vlevo
+C 4c,regulatory,pass-on-either-side,Pass on either side,Přikázaný směr objíždění vpravo a vlevo
+C 5a,regulatory,snow-chains-required,Snow chains required,Sněhové řetězy
+C 5b,regulatory,end-of-snow-chains-required,End of snow chains required,Sněhové řetězy – konec
+C 6a,regulatory,minimum-speed-30,Minimum speed (30 km/h),Nejnižší dovolená rychlost
+C 6b,regulatory,end-of-minimum-speed-30,End of minimum speed (30 km/h),Konec nejnižší dovolené rychlosti
+C 7a,regulatory,footpath,Footpath,Stezka pro chodce
+C 7b,regulatory,end-of-footpath,End of footpath,Konec stezky pro chodce
+C 8a,regulatory,cycle-path,Cycle path,Stezka pro cyklisty
+C 8b,regulatory,end-of-cycle-path,End of cycle path,Konec stezky pro cyklisty
+C 9a,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Stezka pro chodce a cyklisty společná
+C 9b,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Konec stezky pro chodce a cyklisty společné
+C 10a,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,Stezka pro chodce a cyklisty dělená
+C 10b,regulatory,end-of-segregated-footpath-cycle-path,End of segregated footpath and cycle path,Konec stezky pro chodce a cyklisty dělené
+C 11a,regulatory,bridleway,Bridleway,Stezka pro jezdce na zvířeti
+C 11b,regulatory,end-of-bridleway,End of bridleway,Konec stezky pro jezdce na zvířeti
+C 12a,regulatory,mandatory-lane,Mandatory lane,Přikázaný jízdní pruh
+C 12b,regulatory,end-of-mandatory-lane,End of mandatory lane,Konec přikázaného jízdního pruhu
+C 13a,regulatory,headlights-on,Switch on headlights,Rozsviť světla
+C 13b,regulatory,end-of-headlights-on,End of switch on headlights,Rozsviť světla – konec
+C 14a,regulatory,other-mandatory-instruction,Other mandatory instruction,Jiný příkaz
+C 14b,regulatory,end-of-other-mandatory-instruction,End of other mandatory instruction,Konec jiného příkazu
+C 15a,regulatory,winter-equipment-required,Winter equipment required,Zimní výbava
+C 15b,regulatory,end-of-winter-equipment-required,End of winter equipment required,Zimní výbava – konec
+IZ 1a,information,motorway,Motorway,Dálnice
+IZ 1b,information,end-of-motorway,End of motorway,Konec dálnice
+IZ 2a,information,motor-road,Road for motor vehicles,Silnice pro motorová vozidla
+IZ 2b,information,end-of-motor-road,End of road for motor vehicles,Konec silnice pro motorová vozidla
+IZ 3a,information,tunnel,Tunnel,Tunel
+IZ 3b,information,end-of-tunnel,End of tunnel,Konec tunelu
+IZ 4a,information,built-up-area,Built-up area,Obec
+IZ 4b,information,end-of-built-up-area,End of built-up area,Konec obce
+IZ 4c,information,built-up-area-minority-language,Built-up area (name in a minority language),Obec v jazyce národnostní menšiny
+IZ 4d,information,end-of-built-up-area-minority-language,End of built-up area (name in a minority language),Konec obce v jazyce národnostní menšiny
+IZ 5a,information,residential-zone,Residential zone,Obytná zóna
+IZ 5b,information,end-of-residential-zone,End of residential zone,Konec obytné zóny
+IZ 6a,information,pedestrian-zone,Pedestrian zone,Pěší zóna
+IZ 6b,information,end-of-pedestrian-zone,End of pedestrian zone,Konec pěší zóny
+IZ 7a,regulatory,low-emission-zone,Low emission zone,Nízkoemisní zóna
+IZ 7b,regulatory,end-of-low-emission-zone,End of low emission zone,Konec nízkoemisní zóny
+IZ 8a,information,restricted-zone,Zone with traffic restrictions,Zóna s dopravním omezením
+IZ 8b,information,end-of-restricted-zone,End of zone with traffic restrictions,Konec zóny s dopravním omezením
+IZ 9a,information,cycle-zone,Cycle zone,Zóna pro cyklisty
+IZ 9b,information,end-of-cycle-zone,End of cycle zone,Konec zóny pro cyklisty
+IZ 10a,information,shared-zone,Shared zone,Sdílená zóna
+IZ 10b,information,end-of-shared-zone,End of shared zone,Konec sdílené zóny
+IP 1,information,ring-road,Ring road,Okruh
+IP 2,information,speed-bump-location,Speed bump (location),Zpomalovací práh
+IP 3,information,pedestrian-subway-or-footbridge,Pedestrian subway or footbridge,Podchod nebo nadchod
+IP 4a,information,one-way-traffic,One-way traffic,Jednosměrný provoz
+IP 4b,information,one-way-traffic-horizontal,One-way traffic (horizontal arrow),Jednosměrný provoz
+IP 4c,information,one-way-traffic-cyclists-contraflow,"One-way traffic, cyclists allowed in both directions",Jednosměrný provoz s povoleným provozem cyklistů v protisměru
+IP 5,information,recommended-speed,Recommended speed,Doporučená rychlost
+IP 6,information,pedestrian-crossing,Pedestrian crossing,Přechod pro chodce
+IP 7,information,cycle-crossing,Cycle crossing,Přejezd pro cyklisty
+IP 9,information,emergency-lay-by,Emergency lay-by,Nouzové stání
+IP 10a,information,dead-end,Dead end,Slepá pozemní komunikace
+IP 10b-c,information,dead-end-ahead,Dead end ahead,Návěst před slepou pozemní komunikací
+IP 11a,regulatory,parking,Parking,Parkoviště
+IP 11b,regulatory,parking-perpendicular-or-angled,Parking (perpendicular or angled),Parkoviště (kolmé nebo šikmé stání)
+IP 11c,regulatory,parking-parallel,Parking (parallel),Parkoviště (podélné stání)
+IP 11d,regulatory,pavement-parking-perpendicular-or-angled,Parking on the pavement (perpendicular or angled),Parkoviště (stání na chodníku kolmé nebo šikmé)
+IP 11e,regulatory,pavement-parking-parallel,Parking on the pavement (parallel),Parkoviště (stání na chodníku podélné)
+IP 11f,regulatory,pavement-parking-partial-perpendicular-or-angled,Parking partly on the pavement (perpendicular or angled),Parkoviště (částečné stání na chodníku kolmé nebo šikmé)
+IP 11g,regulatory,pavement-parking-partial-parallel,Parking partly on the pavement (parallel),Parkoviště (částečné stání na chodníku podélné)
+IP 12,regulatory,reserved-parking,Reserved parking,Vyhrazené parkoviště
+IP 13a,regulatory,parking-garage,Parking (car park building),Kryté parkoviště
+IP 13b,regulatory,parking-with-disc,Parking with parking disc,Parkoviště s parkovacím kotoučem
+IP 13c,regulatory,parking-with-ticket-machine,Parking with ticket machine,Parkoviště s parkovacím automatem
+IP 13d,regulatory,park-and-ride,Park and ride,Parkoviště P + R
+IP 13e,regulatory,kiss-and-ride,Kiss and ride,Parkoviště K + R
+IP 13f,regulatory,park-and-drive,Park and drive,Parkoviště P + D
+IP 15c,information,toll,Toll,Mýtné
+IP 15d,information,end-of-toll,End of toll,Konec mýtného
+IP 16,information,lane-arrangement-with-oncoming,Lane arrangement (including oncoming lanes),Uspořádání jízdních pruhů
+IP 17,information,lane-arrangement-through-lane,Lane arrangement (showing the through lane),Uspořádání jízdních pruhů
+IP 18a,information,lane-gain,Lane gain,Zvýšení počtu jízdních pruhů
+IP 18b,information,lane-reduction,Lane reduction,Snížení počtu jízdních pruhů
+IP 18c,information,slow-vehicle-lane,Lane for slow vehicles,Jízdní pruh pro pomalá vozidla
+IP 19,information,lane-selection,Lane selection,Řadicí pruhy
+IP 20a,regulatory,public-transport-lane,Public transport lane,Vyhrazený jízdní pruh
+IP 20b,regulatory,end-of-public-transport-lane,End of public transport lane,Konec vyhrazeného jízdního pruhu
+IP 21,information,lane-restriction,Restriction in the lane,Omezení v jízdním pruhu
+IP 22,information,traffic-layout-change,Change in traffic layout,Změna organizace dopravy
+IP 23a,information,passing-trams,Passing trams,Objíždění tramvaje
+IP 23b,information,passing-trams-on-the-left,Passing trams (driving alongside on the left),Objíždění tramvaje (jízda podél tramvaje vlevo)
+IP 23c,information,public-transport-leaving-tram-track,Public transport vehicles leaving the tram track,Sjíždění vozidel veřejné hromadné dopravy osob z tramvajového pásu
+IP 24,information,emergency-escape-lane,"Emergency escape lane (straight ahead, road turns left)",Únikový pruh
+IP 28a,information,road-charges,Road charges,Zpoplatnění provozu
+IP 28b,information,general-rules-information,Information on general rules,Nejvyšší dovolené rychlosti
+IP 29,information,zip-merge,Zip merge,Střídavé řazení
+IP 30,information,state-border,State border,Státní hranice
+IP 31a,information,speed-check,Speed check,Měření rychlosti
+IP 31b,information,end-of-speed-check,End of speed check,Konec měření rychlosti
+IP 32,information,safe-distance-reminder,Safe distance reminder,Bezpečný odstup
+IS 1a,information,direction-sign-to-motorway-straight,Direction sign to the motorway (straight ahead),Směrová tabule pro příjezd k dálnici (přímo)
+IS 1b,information,direction-sign-to-motorway-left,Direction sign to the motorway (left),Směrová tabule pro příjezd k dálnici (vlevo)
+IS 1c,information,direction-sign-to-motorway-right,Direction sign to the motorway (right),Směrová tabule pro příjezd k dálnici (vpravo)
+IS 1d,information,direction-sign-motorway-entrance-straight,Direction sign at the motorway entrance (straight ahead),Směrová tabule před nájezdem na dálnici (přímo)
+IS 1e,information,direction-sign-motorway-entrance-left,Direction sign at the motorway entrance (left),Směrová tabule před nájezdem na dálnici (vlevo)
+IS 1f,information,direction-sign-motorway-entrance-right,Direction sign at the motorway entrance (right),Směrová tabule před nájezdem na dálnici (vpravo)
+IS 2a,information,direction-sign-to-motor-road-straight,Direction sign to the road for motor vehicles (straight ahead),Směrová tabule pro příjezd k silnici pro motorová vozidla (přímo)
+IS 2b,information,direction-sign-to-motor-road-left,Direction sign to the road for motor vehicles (left),Směrová tabule pro příjezd k silnici pro motorová vozidla (vlevo)
+IS 2c,information,direction-sign-to-motor-road-right,Direction sign to the road for motor vehicles (right),Směrová tabule pro příjezd k silnici pro motorová vozidla (vpravo)
+IS 2d,information,direction-sign-motor-road-entrance-straight,Direction sign at the entrance to the road for motor vehicles (straight ahead),Směrová tabule před nájezdem na silnici pro motorová vozidla (přímo)
+IS 2e,information,direction-sign-motor-road-entrance-left,Direction sign at the entrance to the road for motor vehicles (left),Směrová tabule před nájezdem na silnici pro motorová vozidla (vlevo)
+IS 2f,information,direction-sign-motor-road-entrance-right,Direction sign at the entrance to the road for motor vehicles (right),Směrová tabule před nájezdem na silnici pro motorová vozidla (vpravo)
+IS 3a,information,direction-sign-straight,Direction sign (straight ahead),Směrová tabule s cílem (přímo)
+IS 3b,information,direction-sign-left,Direction sign (left),Směrová tabule s cílem (vlevo)
+IS 3c,information,direction-sign-right,Direction sign (right),Směrová tabule s cílem (vpravo)
+IS 4a,information,local-direction-sign-straight,Local direction sign (straight ahead),Směrová tabule s místním cílem (přímo)
+IS 4b,information,local-direction-sign-left,Local direction sign (left),Směrová tabule s místním cílem (vlevo)
+IS 4c,information,local-direction-sign-right,Local direction sign (right),Směrová tabule s místním cílem (vpravo)
+IS 5,information,direction-sign-other-destination,Direction sign to another destination,Směrová tabule k jinému cíli
+IS 6a,information,junction-name,Junction name,Označení křižovatky
+IS 6b,information,advance-direction-sign,Advance direction sign,Návěst před křižovatkou
+IS 6c,information,advance-direction-sign-lanes,Advance direction sign with lanes,Návěst před křižovatkou
+IS 6d,information,advance-direction-sign-lanes-overhead,Advance direction sign with lanes (overhead),Návěst před křižovatkou
+IS 6e,information,lane-direction-sign-straight,Lane direction sign (straight ahead),Směrová návěst pro směr přímo
+IS 6f,information,lane-direction-sign-before-turn,Lane direction sign before a turn,Směrová návěst před odbočením
+IS 6g,information,lane-direction-sign-before-turn-overhead,Lane direction sign before a turn (overhead),Směrová návěst před odbočením
+IS 7a,information,turn-direction-sign,Direction sign for the turn,Směrová návěst pro odbočení
+IS 7b,information,exit-sign,Exit sign,Směrová tabule pro výjezd
+IS 8a,information,long-distance-sign-arrow,Long-distance sign with arrow,Dálková návěst s šipkou
+IS 8b,information,distance-sign,Distance sign,Dálková návěst se vzdálenostmi
+IS 9a,information,advance-sign-junction,Advance sign before a junction,Návěst před úrovňovou křižovatkou
+IS 9b,information,advance-sign-roundabout,Advance sign before a roundabout,Návěst před okružní křižovatkou
+IS 9c,information,advance-sign-junction-restriction-c,Advance sign before a junction with a restriction (variant c),Návěst před křižovatkou s omezením
+IS 9d,information,advance-sign-junction-restriction-d,Advance sign before a junction with a restriction (variant d),Návěst před křižovatkou s omezením
+IS 9e,information,advance-sign-junction-restriction-e,Advance sign before a junction with a restriction (variant e),Návěst před křižovatkou s omezením
+IS 10a,information,route-change-sign-a,Change of direction sign (variant a),Návěst změny směru jízdy
+IS 10b,information,route-change-sign-b,Change of direction sign (variant b),Návěst změny směru jízdy
+IS 10c,information,route-change-sign-obstacle,Change of direction sign before an obstacle,Návěst změny směru jízdy před překážkou
+IS 10d,information,route-change-sign-restriction,Change of direction sign with a restriction,Návěst změny směru jízdy s omezením
+IS 10e,information,cyclists-left-turn,Recommended left turn for cyclists,Návěst doporučeného způsobu odbočení cyklistů vlevo
+IS 11a,information,detour-announcement,Detour announcement,Návěst před objížďkou
+IS 11b,information,detour-direction-sign-b,Detour direction sign (variant b),Směrová tabule pro vyznačení objížďky
+IS 11c,information,detour-direction-sign-c,Detour direction sign (variant c),Směrová tabule pro vyznačení objížďky
+IS 11d,information,detour-direction-sign-road-number,Detour direction sign with road number,Směrová tabule pro vyznačení objížďky
+IS 12a,information,alternative-route-straight,Alternative route (straight ahead),Směrová tabule pro náhradní trasu dálnice (přímo)
+IS 12b,information,alternative-route-left-here,"Alternative route (to the left, here)",Směrová tabule pro náhradní trasu dálnice (vlevo)
+IS 12c,information,alternative-route-right-here,"Alternative route (to the right, here)",Směrová tabule pro náhradní trasu dálnice (vpravo)
+IS 12d,information,alternative-route-marker,Alternative route marker,Náhradní trasa
+IS 13,information,close-advance-sign,Close advance sign,Blízká návěst
+IS 14,information,administrative-border,Border of an administrative area,Hranice územního celku
+IS 15a,information,other-name,"Name of a river, mountains or other place",Jiný název
+IS 15b,information,structure-name-and-length,Name and length of a tunnel or bridge,Jiný název
+IS 16a,information,motorway-number,Motorway number,Číslo dálnice
+IS 16b,information,road-number-class-1-1-digit,"Road number (class I road, 1-digit number)",Číslo silnice (Silnice I. třídy)
+IS 16c,information,road-number-class-1-2-digit,"Road number (class I road, 2-digit number)",Číslo silnice (Silnice I. třídy)
+IS 16d,information,road-number-class-2-3-digit,"Road number (class II road, 3-digit number)",Číslo silnice (Silnice II. třídy)
+IS 17,information,european-road-number-class-a-2-digit,"European road number (class A, 2-digit number)",Číslo silnice pro mezinárodní provoz
+IS 18a,information,kilometre-marker,Kilometre marker,Kilometrovník
+IS 18b,information,kilometre-marker-emergency-phone,Kilometre marker with direction to the emergency phone,Kilometrovník
+IS 19a,information,cycle-direction-sign-straight,Cycle direction sign (straight ahead),Směrová tabule pro cyklisty (přímo)
+IS 19b,information,cycle-direction-sign-left,Cycle direction sign (left),Směrová tabule pro cyklisty (vlevo)
+IS 19c,information,cycle-direction-sign-right,Cycle direction sign (right),Směrová tabule pro cyklisty (vpravo)
+IS 21a,information,cycle-route-sign-straight,Cycle route sign (straight ahead),Směrová tabulka pro cyklisty
+IS 21b,information,cycle-route-sign-left,Cycle route sign (left),Směrová tabulka pro cyklisty
+IS 21c,information,cycle-route-sign-right,Cycle route sign (right),Směrová tabulka pro cyklisty
+IS 21d,information,end-of-cycle-route,End of cycle route,Konec cyklistické trasy
+IS 22a,information,street-name-a,Street name sign (variant a),Označení názvu ulice
+IS 22b,information,street-name-b,Street name sign (variant b),Označení názvu ulice
+IS 22c,information,street-name-c,Street name sign (variant c),Označení názvu ulice
+IS 22d,information,street-name-d,Street name sign (variant d),Označení názvu ulice
+IS 22e,information,street-name-e,Street name sign (variant e),Označení názvu ulice
+IS 22f,information,street-name-f,Street name sign (variant f),Označení názvu ulice
+IS 23,information,tourist-destination-advance-sign,Tourist destination advance sign,Kulturní nebo turistický cíl – návěst
+IS 24a,information,tourist-destination-sign,Tourist destination sign,Kulturní nebo turistický cíl
+IS 24b,information,tourist-destination-direction-sign,Tourist destination direction sign,Směrová tabule pro kulturní nebo turistický cíl
+IS 24c,information,local-amenity-direction-sign,Local amenity direction sign,Komunální cíl
+IJ 1,information,police,Police,Policie
+IJ 2,information,services-hospital,Services (hospital),Nemocnice
+IJ 3,information,services-first-aid,Services (first aid),První pomoc
+IJ 4a,information,stop-marker-a,Public transport stop marker (variant a),Označník zastávky
+IJ 4b,information,stop-marker-b,Public transport stop marker (variant b),Označník zastávky
+IJ 4c,information,bus-stop,"Bus, trolleybus or electric bus stop",Zastávka autobusu
+IJ 4d,information,tram-stop,Tram stop,Zastávka tramvaje
+IJ 4e,information,trolleybus-stop,Trolleybus stop,Zastávka trolejbusu
+IJ 5,information,services-information-centre,Services (information centre),Informace
+IJ 6,information,services-telephone,Services (telephone),Telefon
+IJ 7,information,services-filling-station,Services (filling station),Čerpací stanice
+IJ 8,information,services-vehicle-repair,Services (vehicle repair),Opravna
+IJ 9,information,services-vehicle-inspection,Services (vehicle inspection station),Stanice technické kontroly
+IJ 10,information,services-hotel-or-motel,Services (hotel or motel),Hotel nebo motel
+IJ 11a,information,services-restaurant,Services (roadside restaurant),Restaurace
+IJ 11b,information,services-refreshments,Services (refreshments),Občerstvení
+IJ 12,information,services-toilets,Services (toilets),WC
+IJ 13,information,rest-area,Rest area,Místo pro odpočinek
+IJ 14a,information,services-tent-camp,Services (tent camp),Tábořiště pro stany
+IJ 14b,information,services-caravan-site,Services (caravan site),Tábořiště pro obytné přívěsy
+IJ 14c,information,services-tent-and-caravan-site,Services (tent and caravan site),Tábořiště pro stany a pro obytné přívěsy
+IJ 15,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),Servisní místo pro sanitaci hygienických zařízení obytných vozidel
+IJ 16,information,services-church,"Services (church, chapel)",Silniční kaple
+IJ 17a,information,services-truck-park,Services (truck park),Truckpark
+IJ 17b,information,services-truck-park-advance,Services (truck park ahead),Návěst před truckparkem
+IJ 18a,information,rest-area-advance,Rest area ahead,Návěst před odpočívkou
+IJ 18b,information,rest-area-advance-turn,Rest area ahead (before the turn),Návěst před odbočením na odpočívku
+IJ 18c,information,rest-area-turn,Turn for the rest area,Návěst pro odbočení na odpočívku
+E 1,additional-panel,count,Number (e.g. of bends),Počet
+E 2a,additional-panel,junction-layout-a,Junction layout (variant a),Tvar křižovatky
+E 2b,additional-panel,junction-layout-b,Junction layout (variant b),Tvar křižovatky
+E 2c,additional-panel,junction-layout-c,Junction layout (variant c),Tvar křižovatky
+E 2d,additional-panel,two-junctions-layout,Layout of two junctions,Tvar dvou křižovatek
+E 3a,additional-panel,distance,Distance,Vzdálenost
+E 3b,additional-panel,distance-overhead,Distance (variant b),Vzdálenost
+E 4,additional-panel,section-length,Length of section,Délka úseku
+E 5,additional-panel,maximum-permitted-weight,Maximum permitted weight,Největší povolená hmotnost
+E 6,additional-panel,when-wet,When wet,Za mokra (za deště)
+E 7a,additional-panel,direction-arrow-straight,Direction arrow (straight ahead),Směrová šipka pro směr přímo
+E 7b,additional-panel,direction-arrow-turn,Direction arrow (turn),Směrová šipka pro odbočení
+E 8a,additional-panel,section-start,Start of section,Začátek úseku
+E 8b,additional-panel,section-continues,Section continues,Průběh úseku
+E 8c,additional-panel,section-end,End of section,Konec úseku
+E 8d,additional-panel,section-of-validity-d,Section of validity (variant d),Úsek platnosti
+E 8e,additional-panel,section-of-validity-e,Section of validity (variant e),Úsek platnosti
+E 9,additional-panel,vehicle-type,Type of vehicle,Druh vozidla
+E 10,additional-panel,railway-crossing-layout,Layout of the railway crossing,Tvar křížení pozemní komunikace s dráhou
+E 11a,additional-panel,without-time-charge,Without time-based charge,Bez časového poplatku
+E 11b,additional-panel,with-time-charge,With time-based charge,S časovým poplatkem
+E 11c,additional-panel,without-toll,Without toll,Bez mýtného
+E 11d,additional-panel,with-toll,With toll,S mýtným
+E 11e,additional-panel,without-time-charge-or-toll,Without time-based charge or toll,Bez časového poplatku a mýtného
+E 11f,additional-panel,with-time-charge-and-toll,With time-based charge and toll,S časovým poplatkem a mýtným
+E 12a,additional-panel,cyclists-contraflow,Cyclists riding against the traffic,Jízda cyklistů v protisměru
+E 12b,additional-panel,cyclists-contraflow-entry,Cyclists allowed to enter against the traffic,Vjezd cyklistů v protisměru povolen
+E 12c,additional-panel,cyclists-permitted-direction,Permitted direction for cyclists,Povolený směr jízdy cyklistů
+E 13,additional-panel,text-or-symbol,Text or symbol,Text nebo symbol
+E 14,additional-panel,transit,Transit,Tranzit
+E 15,additional-panel,tunnel-category,Tunnel category,Kategorie tunelu
+E 16,additional-panel,distance-to-next-filling-station,Distance to the next filling station,Vzdálenost k příští čerpací stanici
+E 17,additional-panel,insufficient-clearance,Insufficient clearance,Nedostatečný průjezdní profil vozovky
+Z 1,traffic-device,traffic-cone,Traffic cone,Dopravní kužel
+Z 2,traffic-device,closure-barrier,Closure barrier,Zábrana pro označení uzavírky
+Z 3,traffic-device,guide-board,Guide board,Vodicí tabule
+Z 4a,traffic-device,direction-board-hatched-left,"Direction board (hatched, sloping left)",Směrovací deska se šikmými pruhy se sklonem vlevo
+Z 4b,traffic-device,direction-board-hatched-right,"Direction board (hatched, sloping right)",Směrovací deska se šikmými pruhy se sklonem vpravo
+Z 4c,traffic-device,direction-board-hatched-centre,"Direction board (hatched, central)",Směrovací deska středová
+Z 4d,traffic-device,direction-board-arrow-left,Direction board (arrow to the left),Směrovací deska se šipkou doleva
+Z 4e,traffic-device,direction-board-arrow-right,Direction board (arrow to the right),Směrovací deska se šipkou doprava
+Z 5a,traffic-device,guide-plate-hatched-left,"Guide plate (hatched, sloping left)",Vodicí deska se šikmými pruhy se sklonem vlevo
+Z 5b,traffic-device,guide-plate-hatched-right,"Guide plate (hatched, sloping right)",Vodicí deska se šikmými pruhy se sklonem vpravo
+Z 5c,traffic-device,guide-plate-hatched-centre,"Guide plate (hatched, central)",Vodicí deska středová se šikmými pruhy
+Z 5d,traffic-device,guide-plate-horizontal-stripes-centre,"Guide plate (horizontal stripes, central)",Vodicí deska středová s vodorovnými pruhy
+Z 6a,traffic-device,highlight-board-large,Highlighting board (large),Velká zvýrazňující deska
+Z 6b,traffic-device,highlight-board-small,Highlighting board (small),Malá zvýrazňující deska
+Z 7,traffic-device,mobile-closure-board,Mobile closure board,Pojízdná uzavírková tabule
+Z 8a,traffic-device,stop-paddle-police,Stop paddle (for police),Zastavovací terč (pro policisty)
+Z 8b,traffic-device,stop-paddle,Stop paddle (for other persons),Zastavovací terč (pro jiné osoby)
+Z 8c,traffic-device,direction-paddle,Direction paddle,Směrovka
+Z 8d,traffic-device,stop-go-paddle,Stop paddle for alternating traffic,Zastavovací terč pro střídavý provoz
+Z 9,traffic-device,yellow-black-stripes,Yellow and black stripes,Žluté a černé pruhy
+Z 10,traffic-device,road-studs,Road studs,Dopravní knoflíky
+Z 11a,traffic-device,delineator-white-left,"Delineator post (white, left)",Směrový sloupek bílý levý
+Z 11b,traffic-device,delineator-white-right,"Delineator post (white, right)",Směrový sloupek bílý pravý
+Z 11c,traffic-device,delineator-red-left,"Delineator post (red, left)",Směrový sloupek červený levý
+Z 11d,traffic-device,delineator-red-right,"Delineator post (red, right)",Směrový sloupek červený pravý
+Z 11e,traffic-device,delineator-blue-left,"Delineator post (blue, left)",Směrový sloupek modrý levý
+Z 11f,traffic-device,delineator-blue-right,"Delineator post (blue, right)",Směrový sloupek modrý pravý
+Z 11g,traffic-device,delineator-red-round,"Delineator post (red, round)",Směrový sloupek červený kulatý
+Z 11h,traffic-device,delineator-green-round,"Delineator post (green, round)",Směrový sloupek zelený kulatý – baliseta
+Z 12,traffic-device,short-transverse-bump,Short transverse bump,Krátký příčný práh
+Z 13,traffic-device,warning-threshold,Warning threshold,Výstražný práh
+ZPI 1,traffic-device,variable-message-sign,Variable message sign,Nápisy
+ZPI 2,traffic-device,parking-occupancy-display,Parking occupancy display,Obsaditelnost parkoviště
+ZPI 3,traffic-device,thermometer-display,Thermometer display,Teploměr

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "country": "cz",
+  "code": "B 22b",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "B22bcr.jpg"
+  }
+}

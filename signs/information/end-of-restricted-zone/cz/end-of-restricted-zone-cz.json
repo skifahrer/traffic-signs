@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-restricted-zone",
+  "category": "information",
+  "country": "cz",
+  "code": "IZ 8b",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "IP25b.svg"
+  }
+}

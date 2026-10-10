@@ -1,0 +1,11 @@
+{
+  "sign": "road-number-class-1-1-digit",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 16b",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "SilniceI4.svg"
+  }
+}

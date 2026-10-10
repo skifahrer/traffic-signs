@@ -1,0 +1,11 @@
+{
+  "sign": "delineator-green-round",
+  "category": "traffic-device",
+  "country": "cz",
+  "code": "Z 11h",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-Z11h Směrový sloupek (zelený kulatý) - baliseta (2016).jpg"
+  }
+}

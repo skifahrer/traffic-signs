@@ -1,0 +1,11 @@
+{
+  "sign": "services-first-aid",
+  "category": "information",
+  "country": "cz",
+  "code": "IJ 3",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ road sign IJ-3.svg"
+  }
+}

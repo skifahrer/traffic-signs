@@ -1,0 +1,11 @@
+{
+  "sign": "stop-paddle-police",
+  "category": "traffic-device",
+  "country": "cz",
+  "code": "Z 8a",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-Z08a Zastavovací terč (pro policisty).svg"
+  }
+}

@@ -107,11 +107,12 @@ def _read_signs(source: Source, client: Client, options: Options, result: Result
     log.info(f"{len(wikitext):,} characters of wikitext")
 
     entries, problems = source.parse(wikitext)
+    changes, problems = source.apply_corrections(entries, problems)
+    for change in changes:
+        log.info(f"Correction applied: {change}")
     log.info(f"{len(entries)} entries with a sign code")
     for problem in problems:
-        result.error(problem)
-    for change in source.apply_corrections(entries):
-        log.info(f"Correction applied: {change}")
+        result.error(str(problem))
 
     translations, problems = source.load_translations()
     log.info(f"{len(translations)} translations in {os.path.relpath(source.translations_file, layout.REPO_ROOT)}")

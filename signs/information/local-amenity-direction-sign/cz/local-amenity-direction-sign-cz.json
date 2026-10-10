@@ -1,0 +1,11 @@
+{
+  "sign": "local-amenity-direction-sign",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 24c",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS24c Komunální cíl.svg"
+  }
+}

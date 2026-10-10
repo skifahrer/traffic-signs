@@ -1,0 +1,11 @@
+{
+  "sign": "delineator-red-right",
+  "category": "traffic-device",
+  "country": "cz",
+  "code": "Z 11d",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-Z11d Směrový sloupek.jpg"
+  }
+}
