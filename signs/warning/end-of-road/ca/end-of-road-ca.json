@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-road",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-8",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC WA-008.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "alternative-route-roundabout-right",
+  "category": "information",
+  "country": "de",
+  "code": "460-23",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 460-23 - Bedarfsumleitung - im Kreisverkehr rechts, StVO 2021.svg"
+  }
+}

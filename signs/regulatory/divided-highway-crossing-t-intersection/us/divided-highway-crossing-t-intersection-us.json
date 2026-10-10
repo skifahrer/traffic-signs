@@ -1,0 +1,11 @@
+{
+  "sign": "divided-highway-crossing-t-intersection",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R6-3a",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R6-3a.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "detour-sign-left-here",
+  "category": "information",
+  "country": "de",
+  "code": "455.1-11",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 455.1-11 - Ankündigung oder Fortsetzung der Umleitung, hier links, StVO 2013.svg"
+  }
+}

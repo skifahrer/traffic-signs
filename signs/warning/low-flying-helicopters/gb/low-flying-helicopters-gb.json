@@ -1,0 +1,11 @@
+{
+  "sign": "low-flying-helicopters",
+  "category": "warning",
+  "country": "gb",
+  "code": "558.1",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 558.1.svg"
+  }
+}

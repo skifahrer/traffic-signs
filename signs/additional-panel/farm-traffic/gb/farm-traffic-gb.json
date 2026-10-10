@@ -1,0 +1,11 @@
+{
+  "sign": "farm-traffic",
+  "category": "additional-panel",
+  "country": "gb",
+  "code": "553.2",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 553.2.svg"
+  }
+}

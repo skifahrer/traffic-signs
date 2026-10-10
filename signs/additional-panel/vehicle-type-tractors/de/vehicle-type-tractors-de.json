@@ -1,0 +1,11 @@
+{
+  "sign": "vehicle-type-tractors",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1010-61",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1010-61 - Kraftfahrzeuge und Züge, die nicht schneller als 25 km-h fahren können oder dürfen (600x330), StVO 2017.svg"
+  }
+}

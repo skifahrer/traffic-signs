@@ -1,0 +1,11 @@
+{
+  "sign": "shared-space-zone",
+  "category": "information",
+  "country": "fr",
+  "code": "B52",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",
+    "file": "France road sign B52.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "alternative-route-advance-right",
+  "category": "information",
+  "country": "de",
+  "code": "460-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 460-20 - Bedarfsumleitung, rechtsweisend (900x600), StVO 1992.svg"
+  }
+}

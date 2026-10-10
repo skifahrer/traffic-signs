@@ -1,0 +1,11 @@
+{
+  "sign": "skewed-crossing-ahead-right-this-supplements-the-w10-1-sign",
+  "category": "warning",
+  "country": "us",
+  "code": "W10-12L",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W10-12L.svg"
+  }
+}

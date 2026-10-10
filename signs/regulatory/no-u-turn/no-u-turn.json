@@ -1,6 +1,10 @@
 {
   "en": "No U-turn",
   "cs": "Zákaz otáčení",
+  "de": "Verbot des Wendens",
+  "en-GB": "No U-turn",
+  "en-US": "No U-turn",
+  "fr": "Interdiction de faire demi-tour",
   "pl": "zakaz zawracania",
   "sk": "Zákaz otáčania"
 }

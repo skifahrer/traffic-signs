@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-2-with-axle-weight-limit",
+  "category": "information",
+  "country": "de",
+  "code": "528-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 528-30 Fahrstreifentafel - ohne Gegenverkehr mit integriertem Zeichen 263.svg"
+  }
+}

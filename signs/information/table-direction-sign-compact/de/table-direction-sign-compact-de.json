@@ -1,0 +1,11 @@
+{
+  "sign": "table-direction-sign-compact",
+  "category": "information",
+  "country": "de",
+  "code": "434-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 434-50 - Tabellenwegweiser, kompakte Form (nach RWB), StVO 2017.svg"
+  }
+}

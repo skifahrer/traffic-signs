@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-4-arrows-right-500x2000mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "625-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 625-12 - Richtungstafel in Kurven (Aufstellung rechts), 500x2000; StVO 1992.svg"
+  }
+}

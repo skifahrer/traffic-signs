@@ -1,0 +1,11 @@
+{
+  "sign": "segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "de",
+  "code": "241-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 241-30 - getrennter Rad- und Fußweg, StVO 1992.svg"
+  }
+}

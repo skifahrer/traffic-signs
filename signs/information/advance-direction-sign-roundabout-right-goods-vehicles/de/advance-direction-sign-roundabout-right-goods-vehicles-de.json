@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-roundabout-right-goods-vehicles",
+  "category": "information",
+  "country": "de",
+  "code": "442-24",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 442-24 Vorwegweiser für bestimmte Verkehrsarten im Kreisverkehr.svg"
+  }
+}

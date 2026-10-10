@@ -1,0 +1,11 @@
+{
+  "sign": "except-electric-vehicles",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1024-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1024-20 - elektrisch betriebene Fahrzeuge frei, StVO 2015.svg"
+  }
+}

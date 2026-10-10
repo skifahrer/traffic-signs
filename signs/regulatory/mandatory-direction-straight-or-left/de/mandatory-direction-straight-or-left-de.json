@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight-or-left",
+  "category": "regulatory",
+  "country": "de",
+  "code": "214-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 214-10 - Vorgeschriebene Fahrtrichtung, Geradeaus oder links, StVO 2017.svg"
+  }
+}

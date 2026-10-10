@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-diverging-5-through-2-right",
+  "category": "information",
+  "country": "de",
+  "code": "533-28",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 533-28 Trennungstafel - ohne Gegenverkehr.svg"
+  }
+}

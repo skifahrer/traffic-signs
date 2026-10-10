@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight",
+  "category": "regulatory",
+  "country": "de",
+  "code": "209-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 209-30 - Vorgeschriebene Fahrtrichtung, Geradeaus, StVO 2017.svg"
+  }
+}

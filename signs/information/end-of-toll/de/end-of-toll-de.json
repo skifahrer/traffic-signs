@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-toll",
+  "category": "information",
+  "country": "de",
+  "code": "390.2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 390.2 - Ende der Mautpflicht nach dem Bundesfernstraßenmautgesetz, StVO 2015.svg"
+  }
+}

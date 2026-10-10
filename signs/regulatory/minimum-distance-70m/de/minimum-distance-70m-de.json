@@ -1,0 +1,11 @@
+{
+  "sign": "minimum-distance-70m",
+  "category": "regulatory",
+  "country": "de",
+  "code": "273-70",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 273-70 - Verbot des Unterschreitens des angegebenen Mindestabstandes, StVO 2017.svg"
+  }
+}

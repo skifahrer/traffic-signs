@@ -1,0 +1,11 @@
+{
+  "sign": "closure-barrier-100x1200mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "600-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 600-31 - Absperrschranke (100x1200), StVO 1992.svg"
+  }
+}

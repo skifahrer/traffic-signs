@@ -1,0 +1,11 @@
+{
+  "sign": "no-buses",
+  "category": "regulatory",
+  "country": "de",
+  "code": "257-54",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 257-54 - Verbot für Kraftomnibusse, StVO 2017.svg"
+  }
+}

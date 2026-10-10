@@ -1,0 +1,11 @@
+{
+  "sign": "lane-gain-right-to-2-lanes",
+  "category": "information",
+  "country": "de",
+  "code": "541-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 541-20 - Aufweitungstafel; Darstellung ohne Gegenverkehr- ein vorhandener und ein zusätzlicher Fahrstreifen rechts in Fahrtrichtung, StVO 1992.svg"
+  }
+}

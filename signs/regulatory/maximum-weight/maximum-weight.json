@@ -1,4 +1,6 @@
 {
   "en": "Maximum weight",
-  "cs": "Zákaz vjezdu vozidel, jejichž okamžitá hmotnost přesahuje vyznačenou mez"
+  "cs": "Zákaz vjezdu vozidel, jejichž okamžitá hmotnost přesahuje vyznačenou mez",
+  "en-US": "Weight limit",
+  "fr": "Accès interdit aux véhicules dont le poids excède le nombre indiqué"
 }

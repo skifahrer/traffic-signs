@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-pavement-parking-full",
+  "category": "regulatory",
+  "country": "gb",
+  "code": "668.2",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 668.2.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "hov-restriction-ends-distance-post-mounted",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R3-12d",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R3-12d.svg"
+  }
+}

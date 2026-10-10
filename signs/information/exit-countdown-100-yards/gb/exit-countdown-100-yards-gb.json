@@ -1,0 +1,11 @@
+{
+  "sign": "exit-countdown-100-yards",
+  "category": "information",
+  "country": "gb",
+  "code": "825-G-L",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 825-G-L.svg"
+  }
+}

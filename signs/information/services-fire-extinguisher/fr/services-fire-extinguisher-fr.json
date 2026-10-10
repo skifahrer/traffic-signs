@@ -1,0 +1,11 @@
+{
+  "sign": "services-fire-extinguisher",
+  "category": "information",
+  "country": "fr",
+  "code": "CE29",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",
+    "file": "France road sign CE29.svg"
+  }
+}

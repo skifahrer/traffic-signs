@@ -1,0 +1,11 @@
+{
+  "sign": "contraflow-short-lane-diversion-left-3-plus-3-oncoming",
+  "category": "information",
+  "country": "de",
+  "code": "514-18",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 514-18 Verschwenkungstafel, kurze Verschwenkung - mit Gegenverkehr.svg"
+  }
+}

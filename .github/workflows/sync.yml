@@ -16,9 +16,14 @@ on:
         # `all` plus one entry per folder in pipelines/countries; tests/test_workflow.py checks this.
         options:
           - all
+          - ca
           - cz
+          - de
+          - fr
+          - gb
           - pl
           - sk
+          - us
         default: all
       prune:
         description: Delete signs that left the Wikipedia page instead of archiving them

@@ -1,0 +1,11 @@
+{
+  "sign": "parking-continued",
+  "category": "regulatory",
+  "country": "de",
+  "code": "314-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 314-30 - Parken Mitte (Aufstellung rechts), StVO 2017.svg"
+  }
+}

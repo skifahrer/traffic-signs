@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-parking-zone",
+  "category": "regulatory",
+  "country": "de",
+  "code": "290.2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 290.2 - Ende eines eingeschränkten Haltverbotes für eine Zone, StVO 2009.svg"
+  }
+}

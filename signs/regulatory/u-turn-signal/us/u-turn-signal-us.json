@@ -1,0 +1,11 @@
+{
+  "sign": "u-turn-signal",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R10-10a",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R10-10a.svg"
+  }
+}

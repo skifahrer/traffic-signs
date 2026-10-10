@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking-r8-3",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R8-3",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R8-3.svg"
+  }
+}

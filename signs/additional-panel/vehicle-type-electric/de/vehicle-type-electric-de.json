@@ -1,0 +1,11 @@
+{
+  "sign": "vehicle-type-electric",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1010-66",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1010-66 - elektrisch betriebene Fahrzeuge, StVO 2015.svg"
+  }
+}

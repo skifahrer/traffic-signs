@@ -1,0 +1,11 @@
+{
+  "sign": "services-breakdown-service",
+  "category": "information",
+  "country": "de",
+  "code": "365-62",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 365-62 - Pannenhilfe (600x600), StVO 2013.svg"
+  }
+}

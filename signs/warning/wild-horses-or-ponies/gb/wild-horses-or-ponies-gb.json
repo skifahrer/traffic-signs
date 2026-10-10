@@ -1,0 +1,11 @@
+{
+  "sign": "wild-horses-or-ponies",
+  "category": "warning",
+  "country": "gb",
+  "code": "550",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 550.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "except-personal-transporters",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1022-16",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1022-16 - Elektrokleinstfahrzeuge frei (600x600), StVO 2019.svg"
+  }
+}

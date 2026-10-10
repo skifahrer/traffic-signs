@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-countdown-marker-1-bar-right-side",
+  "category": "warning",
+  "country": "de",
+  "code": "162-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 162-10 - einstreifige Bake (Aufstellung rechts), StVO 1992.svg"
+  }
+}

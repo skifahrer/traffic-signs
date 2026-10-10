@@ -1,0 +1,11 @@
+{
+  "sign": "mobile-closure-board-flashing-arrow-large",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "616-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 616-30 - fahrbare Absperrtafel mit Blinkpfeil - große Ausführung, StVO 1997.svg"
+  }
+}

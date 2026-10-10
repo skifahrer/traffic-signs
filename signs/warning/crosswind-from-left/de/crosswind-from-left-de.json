@@ -1,0 +1,11 @@
+{
+  "sign": "crosswind-from-left",
+  "category": "warning",
+  "country": "de",
+  "code": "117-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 117-20 - Seitenwind von links, StVO 1992.svg"
+  }
+}

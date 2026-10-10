@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping-right-start",
+  "category": "regulatory",
+  "country": "de",
+  "code": "283-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 283-10 - Absolutes Haltverbot (Anfang), Aufstellung rechts, StVO 2013.svg"
+  }
+}

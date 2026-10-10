@@ -1,0 +1,11 @@
+{
+  "sign": "parking-ticket-in-marked-spaces",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1053-53",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1053-53 - Parken mit Parkschein in gekennzeichneten Flächen (600 x 600), StVO 2017.svg"
+  }
+}

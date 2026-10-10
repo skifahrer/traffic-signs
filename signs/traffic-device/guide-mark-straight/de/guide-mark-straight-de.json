@@ -1,0 +1,11 @@
+{
+  "sign": "guide-mark-straight",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "627-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 627-30 - Leitmal waagerecht, StVO 2013.svg"
+  }
+}

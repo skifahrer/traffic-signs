@@ -97,6 +97,12 @@ class Source:
     # Use "<name>.svg" from Commons instead of a .png/.jpg/.tif file of the
     # same name when it exists.
     prefer_svg: bool = True
+    # Key of the local names in each sign's names file and in translations.csv
+    # (name_<key>): the language, or the language with a region when another
+    # country names signs in the same language ("de-AT"). English-speaking
+    # countries use one ("en-GB", "en-US") to keep their own wording next to
+    # the shared English name, which every country with the sign must agree on.
+    names_key: str | None = None
 
     def __post_init__(self):
         if self.local_names not in ("page", "translations"):
@@ -160,8 +166,12 @@ class Source:
         return os.path.join(self.data_dir, "corrections.csv")
 
     @property
+    def name_key(self) -> str:
+        return self.names_key or self.language
+
+    @property
     def local_name_column(self) -> str:
-        return f"name_{self.language}"
+        return f"name_{self.name_key}"
 
     def load_translations(self) -> tuple[dict[str, Translation], list[str]]:
         """Translations keyed by sign code, and any problems found in the file."""

@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-2",
+  "category": "information",
+  "country": "de",
+  "code": "521-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 521-30 - Fahrstreifentafel; Darstellung ohne Gegenverkehr - zwei Fahrstreifen in Fahrtrichtung, StVO 1992.svg"
+  }
+}

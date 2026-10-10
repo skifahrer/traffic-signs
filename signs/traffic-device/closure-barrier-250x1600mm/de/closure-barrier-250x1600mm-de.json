@@ -1,0 +1,11 @@
+{
+  "sign": "closure-barrier-250x1600mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "600-34",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 600-34 - Absperrschranke (250x1600), StVO 1992.svg"
+  }
+}

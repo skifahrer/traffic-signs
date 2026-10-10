@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-3",
+  "category": "information",
+  "country": "de",
+  "code": "521-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 521-31 - Fahrstreifentafel − Darstellung ohne Gegenverkehr - drei Fahrstreifen in Fahrtrichtung; StVO 1992.svg"
+  }
+}

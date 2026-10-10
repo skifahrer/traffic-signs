@@ -1,0 +1,11 @@
+{
+  "sign": "wrong-way",
+  "category": "information",
+  "country": "ca",
+  "code": "RB-22",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC RB-022-EN.svg"
+  }
+}

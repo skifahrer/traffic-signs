@@ -1,0 +1,11 @@
+{
+  "sign": "lane-gain-left-to-4-lanes",
+  "category": "information",
+  "country": "de",
+  "code": "541-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 541-12 Aufleitungstafel - ohne Gegenverkehr.svg"
+  }
+}

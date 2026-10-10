@@ -1,0 +1,11 @@
+{
+  "sign": "left-turn-yield-on-flashing-red-arrow-after-stop",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R10-27",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R10-27.svg"
+  }
+}

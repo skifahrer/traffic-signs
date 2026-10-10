@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-both-sides",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-23",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "Ontario Wa-28.svg"
+  }
+}

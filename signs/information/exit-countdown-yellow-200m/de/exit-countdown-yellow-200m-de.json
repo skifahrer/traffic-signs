@@ -1,0 +1,11 @@
+{
+  "sign": "exit-countdown-yellow-200m",
+  "category": "information",
+  "country": "de",
+  "code": "450-54",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 450-54 - Ankündigungsbake zweistreifig (200 m, gelb), StVO 2013.svg"
+  }
+}

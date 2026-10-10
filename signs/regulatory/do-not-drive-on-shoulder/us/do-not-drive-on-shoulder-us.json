@@ -1,0 +1,11 @@
+{
+  "sign": "do-not-drive-on-shoulder",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R4-17",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R4-17.svg"
+  }
+}

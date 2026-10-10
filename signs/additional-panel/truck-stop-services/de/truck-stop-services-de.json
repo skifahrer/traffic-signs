@@ -1,0 +1,11 @@
+{
+  "sign": "truck-stop-services",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1010-15",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1010-15 - Information Leistungsumfang (zu Zeichen 448.1), StVO 2017.svg"
+  }
+}

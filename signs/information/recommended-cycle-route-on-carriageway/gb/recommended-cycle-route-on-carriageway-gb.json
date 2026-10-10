@@ -1,0 +1,11 @@
+{
+  "sign": "recommended-cycle-route-on-carriageway",
+  "category": "information",
+  "country": "gb",
+  "code": "967",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 967.svg"
+  }
+}

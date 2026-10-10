@@ -221,6 +221,7 @@ E-4,information,arrow-sign-with-distance,Arrow direction sign with distance,drog
 E-5,information,arrow-sign-to-district,Arrow direction sign to a city district,drogowskaz do dzielnicy miasta
 E-6,information,direction-to-airport,Direction to the airport,drogowskaz do lotniska
 E-6a,information,direction-to-railway-station,Direction to the railway station,drogowskaz do dworca lub stacji kolejowej
+E-6a (wariant),information,direction-to-railway-station-pkp,Direction to the railway station (variant with the PKP logo),drogowskaz do dworca lub stacji kolejowej (wariant)
 E-6b,information,direction-to-bus-station,Direction to the bus station,drogowskaz do dworca autobusowego
 E-6c,information,direction-to-ferry,Direction to the ferry,drogowskaz do przystani promowej
 E-7,information,direction-to-harbour,Direction to the harbour,drogowskaz do przystani wodnej lub żeglugi

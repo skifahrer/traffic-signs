@@ -1,0 +1,11 @@
+{
+  "sign": "cross-only-on-pedestrian-signal",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R10-2",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R10-2.svg"
+  }
+}

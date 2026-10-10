@@ -1,0 +1,11 @@
+{
+  "sign": "bicycle-signal-optional-movement-thru-and-turn",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R10-41",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R10-41.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "this-side-of-sign",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "R7-202P",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R7-202P.svg"
+  }
+}

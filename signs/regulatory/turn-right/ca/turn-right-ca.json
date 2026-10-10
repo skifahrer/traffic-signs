@@ -1,0 +1,11 @@
+{
+  "sign": "turn-right",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RB-14R",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC RB-014-R.svg"
+  }
+}

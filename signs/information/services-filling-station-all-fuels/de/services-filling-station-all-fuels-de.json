@@ -1,0 +1,11 @@
+{
+  "sign": "services-filling-station-all-fuels",
+  "category": "information",
+  "country": "de",
+  "code": "365-71",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 365-71 Tankstelle mit Tankmöglichkeit aller Kraftstoffarten.svg"
+  }
+}

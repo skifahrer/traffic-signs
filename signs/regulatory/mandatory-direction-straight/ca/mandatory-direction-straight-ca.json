@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RB-15",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC RB-015.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-hard-shoulder-running-2-lanes",
+  "category": "regulatory",
+  "country": "de",
+  "code": "223.2-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 223.2-50 - Seitenstreifen nicht mehr befahren, 2 Fahrstreifen u. Seitenstreifen, StVO 2017.svg"
+  }
+}

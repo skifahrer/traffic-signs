@@ -1,0 +1,11 @@
+{
+  "sign": "children",
+  "category": "warning",
+  "country": "ca",
+  "code": "WC-1",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC WC-001.svg"
+  }
+}

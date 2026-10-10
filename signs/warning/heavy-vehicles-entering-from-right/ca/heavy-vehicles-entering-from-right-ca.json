@@ -1,0 +1,11 @@
+{
+  "sign": "heavy-vehicles-entering-from-right",
+  "category": "warning",
+  "country": "ca",
+  "code": "WC-8R",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC WC-008-R.svg"
+  }
+}

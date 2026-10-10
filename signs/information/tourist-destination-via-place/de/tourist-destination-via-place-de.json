@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-destination-via-place",
+  "category": "information",
+  "country": "de",
+  "code": "386.1-51",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 386.1-51 - Touristischer Hinweis mit Bezugsziel - Variante „via“, StVO 2017.svg"
+  }
+}

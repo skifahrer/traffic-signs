@@ -1,0 +1,253 @@
+code,category,slug,name_en,name_fr
+A1a,warning,bend-right,Bend (right),Virage à droite
+A1b,warning,bend-left,Bend (left),Virage à gauche
+A1c,warning,double-bend-right,Double bend (first to the right),"Succession de virages, le premier à droite"
+A1d,warning,double-bend-left,Double bend (first to the left),"Succession de virages, le premier à gauche"
+A2a,warning,uneven-road,Uneven road,Cassis ou dos-d’âne
+A2b,warning,speed-bump,Speed bump,Ralentisseur de type dos-d’âne
+A3,warning,road-narrows-both-sides,Road narrows (from both sides),Chaussée rétrécie
+A3a,warning,road-narrows-right,Road narrows (from the right),Chaussée rétrécie par la droite
+A3b,warning,road-narrows-left,Road narrows (from the left),Chaussée rétrécie par la gauche
+A4,warning,slippery-road,Slippery road,Chaussée glissante
+A7,warning,level-crossing-with-barriers,Level crossing with barriers,Passage à niveau muni de barrières
+A8,warning,level-crossing-without-barriers,Level crossing without barriers,Passage à niveau sans barrière
+A9a,warning,bus-crossing,Crossing of a public transport road,Traversée de voie de véhicules des services réguliers de transport en commun
+A9b,warning,trams,Trams,Traversée de voies de tramways
+A13a,warning,children,Children,Endroit fréquenté par les enfants
+A13b,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Passage pour piétons
+A14,warning,danger,Other danger,Autres dangers
+A15a1,warning,farm-animals,Farm animals,Passage d’animaux domestiques
+A15a2,warning,farm-animals-b,Farm animals (variant b),Passage d’animaux domestiques
+A15b,warning,wild-animals,Wild animals,Passage d’animaux sauvages
+A15c,warning,horse-riders,Horse riders,Passage de cavaliers
+A16,warning,steep-descent,Steep descent,Descente dangereuse
+A17,warning,traffic-signals,Traffic signals,Feux tricolores
+A18,warning,two-way-traffic,Two-way traffic,Circulation dans les deux sens
+A19,warning,fallen-rocks,Fallen rocks,Risque de chutes de pierres
+A20,warning,quayside,Quayside or river bank,Débouché sur un quai ou une berge
+A21,warning,cyclists,Cyclists,Débouché de cyclistes
+A23,warning,low-flying-aircraft,Low-flying aircraft,Traversée d’une aire de danger aérien
+A24,warning,crosswind,Crosswind,Vent latéral
+AB1,warning,intersection,Intersection,Intersection où le conducteur est tenu de céder le passage aux véhicules débouchant de droite
+AB2,information,priority-intersection,Intersection with priority,Intersection avec une route dont les usagers doivent céder le passage
+AB3a,regulatory,give-way,Give way,Cédez le passage
+AB3b,warning,give-way-ahead,Give way ahead,Signal avancé cédez-le-passage
+AB4,regulatory,stop,"Stop, give way",Stop
+AB5,warning,stop-ahead,Stop ahead,Signal avancé stop
+AB6,information,priority-road,Priority road,Route à caractère prioritaire
+AB7,information,end-of-priority-road,End of priority road,Fin du caractère prioritaire d’une route
+AB25,warning,roundabout-ahead,Roundabout ahead,Carrefour à sens giratoire
+B0,regulatory,no-vehicles,No vehicles,Circulation interdite à tout véhicule dans les deux sens
+B1,regulatory,no-entry,No entry,Sens interdit à tout véhicule
+B1j,regulatory,no-entry-dual-carriageway,No entry (repeated on a dual carriageway slip road),Sens interdit à tout véhicule (répétition sur bretelle de route à chaussées séparées)
+B2a,regulatory,no-left-turn,No left turn,Interdiction de tourner à gauche à la prochaine intersection
+B2b,regulatory,no-right-turn,No right turn,Interdiction de tourner à droite à la prochaine intersection
+B2c,regulatory,no-u-turn,No U-turn,Interdiction de faire demi-tour
+B3,regulatory,no-overtaking,No overtaking,Interdiction de dépasser
+B3a,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Interdiction de dépasser pour les véhicules de transport de marchandises
+B4,regulatory,customs-stop,Customs stop,Arrêt au poste de douane
+B5a,regulatory,police-check-stop,Police check stop,Arrêt au poste de gendarmerie
+B5b,regulatory,police-check-stop-police,Stop (police),Arrêt au poste de police
+B5c,regulatory,stop-toll-collection,Stop (toll collection),Arrêt au poste de péage
+B6a1,regulatory,no-parking,No parking,Stationnement interdit
+B6a2,regulatory,no-parking-first-half-of-month,No parking (1st to 15th of the month),Stationnement interdit du 1er au 15 du mois
+B6a3,regulatory,no-parking-second-half-of-month,No parking (16th to the end of the month),Stationnement interdit du 16 à la fin du mois
+B6d,regulatory,no-stopping,No stopping,Arrêt et stationnement interdits
+B7a,regulatory,no-motor-vehicles,No motor vehicles,Accès interdit aux véhicules à moteur à l’exception des cyclomoteurs
+B7b,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,Accès interdit à tous les véhicules à moteur
+B8,regulatory,no-goods-vehicles,No entry for goods vehicles,Accès interdit aux véhicules de transport de marchandises
+B9a,regulatory,no-pedestrians,No entry for pedestrians,Accès interdit aux piétons
+B9b,regulatory,no-bicycles,No entry for bicycles,Accès interdit aux cycles
+B9c,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Accès interdit aux véhicules à traction animale
+B9d,regulatory,no-tractors,No entry for tractors,Accès interdit aux véhicules agricoles à moteur
+B9e,regulatory,no-handcarts,No entry for handcarts,Accès interdit aux voitures à bras
+B9f,regulatory,no-buses,No entry for buses and trolleybuses,Accès interdit aux véhicules de transport en commun de personnes
+B9g,regulatory,no-mopeds,No entry for mopeds,Accès interdit aux cyclomoteurs
+B9h,regulatory,no-motorcycles,No entry for motorcycles,Accès interdit aux motocyclettes et motocyclettes légères
+B9i,regulatory,no-caravans,No entry for caravans,Accès interdit aux véhicules tractant une caravane ou une remorque de plus de 250 kg
+B10a,regulatory,maximum-length,Maximum length,Accès interdit aux véhicules dont la longueur est supérieure au nombre indiqué
+B11,regulatory,maximum-width,Maximum width,Accès interdit aux véhicules dont la largeur est supérieure au nombre indiqué
+B12,regulatory,maximum-height,Maximum height,Accès interdit aux véhicules dont la hauteur est supérieure au nombre indiqué
+B13,regulatory,maximum-weight,Maximum weight,Accès interdit aux véhicules dont le poids excède le nombre indiqué
+B13a,regulatory,maximum-axle-weight,Maximum axle weight,Accès interdit aux véhicules pesant sur un essieu plus que le nombre indiqué
+B14,regulatory,speed-limit,Speed limit,Limitation de vitesse
+B15,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Cédez le passage à la circulation venant en sens inverse
+B16,regulatory,no-horns,Use of horns prohibited,Signaux sonores interdits
+B17,regulatory,minimum-distance,Minimum distance between vehicles,Interdiction de circuler sans maintenir l’intervalle indiqué
+B18a,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Accès interdit aux véhicules transportant des marchandises explosives ou facilement inflammables
+B18b,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux
+B18c,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Accès interdit aux véhicules transportant des marchandises dangereuses
+B19,regulatory,other-prohibition,Other prohibition,Autres interdictions
+B21-1,regulatory,turn-right,Turn right,Obligation de tourner à droite avant le panneau
+B21-2,regulatory,turn-left,Turn left,Obligation de tourner à gauche avant le panneau
+B21a1,regulatory,pass-on-right,Pass on the right,Contournement obligatoire par la droite
+B21a2,regulatory,pass-on-left,Pass on the left,Contournement obligatoire par la gauche
+B21b,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Direction obligatoire à la prochaine intersection : tout droit
+B21c1,regulatory,mandatory-direction-right,Mandatory direction (right),Direction obligatoire à la prochaine intersection : à droite
+B21c2,regulatory,mandatory-direction-left,Mandatory direction (left),Direction obligatoire à la prochaine intersection : à gauche
+B21d1,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Directions obligatoires à la prochaine intersection : tout droit ou à droite
+B21d2,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Directions obligatoires à la prochaine intersection : tout droit ou à gauche
+B21e,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Directions obligatoires à la prochaine intersection : à droite ou à gauche
+B22a,regulatory,cycle-path,Cycle path,Piste ou bande obligatoire pour les cycles
+B22b,regulatory,footpath,Footpath,Chemin obligatoire pour piétons
+B22c,regulatory,bridleway,Bridleway,Chemin obligatoire pour cavaliers
+B26,regulatory,snow-chains-required,Snow chains required,Chaînes à neige obligatoires
+B27a,regulatory,public-transport-lane,Public transport lane,Voie réservée aux véhicules des services réguliers de transport en commun
+B27b,regulatory,tram-lane,Tram lane,Voie réservée aux tramways
+B29,regulatory,other-mandatory-instruction,Other mandatory instruction,Autres obligations
+B31,regulatory,end-of-all-restrictions,End of all restrictions,Fin de toutes les interdictions précédemment signalées
+B34,regulatory,end-of-no-overtaking,End of no overtaking,Fin d’interdiction de dépasser
+B35,regulatory,end-of-no-horns,End of horns prohibited,Fin d’interdiction de l’usage de l’avertisseur sonore
+B39,regulatory,end-of-other-prohibition,End of other prohibition,Fin d’interdiction dont la nature est indiquée sur le panneau
+B40,regulatory,end-of-cycle-path,End of cycle path,Fin de piste ou bande obligatoire pour cycles
+B41,regulatory,end-of-footpath,End of footpath,Fin de chemin obligatoire pour piétons
+B42,regulatory,end-of-bridleway,End of bridleway,Fin de chemin obligatoire pour cavaliers
+B43,regulatory,end-of-minimum-speed-30,End of minimum speed (30 km/h),Fin de vitesse minimale obligatoire
+B44,regulatory,end-of-snow-chains-required,End of snow chains required,Fin d’obligation de l’usage des chaînes à neige
+B45a,regulatory,end-of-public-transport-lane,End of public transport lane,Fin de voie réservée aux véhicules de transport en commun
+B49,regulatory,end-of-other-mandatory-instruction,End of other mandatory instruction,Fin d’obligation dont la nature est mentionnée sur le panneau
+B6b1,regulatory,no-parking-zone,No parking zone,Entrée d’une zone à stationnement interdit
+B50a,regulatory,end-of-no-parking-zone,End of no parking zone,Sortie d’une zone à stationnement interdit
+B6b2,regulatory,alternate-side-parking-zone,Alternate-side parking zone (twice a month),Entrée d’une zone à stationnement unilatéral à alternance semi-mensuelle
+B50b,regulatory,end-of-alternate-side-parking-zone,End of alternate-side parking zone,Sortie de zone à stationnement unilatéral à alternance semi-mensuelle
+B6b3,regulatory,parking-zone,Parking zone,Entrée d’une zone à stationnement de durée limitée
+B50c,regulatory,end-of-parking-zone,End of parking zone,Sortie de zone à stationnement de durée limitée avec contrôle par disque
+B6b4,regulatory,paid-parking-zone,Paid parking zone,Entrée d’une zone à stationnement payant
+B50d,regulatory,end-of-paid-parking-zone,End of paid parking zone,Sortie de zone à stationnement payant
+B6b5,regulatory,alternate-side-time-limited-parking-zone,"Alternate-side, time-limited parking zone",Entrée d’une zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée
+B50e,regulatory,end-of-alternate-side-time-limited-parking-zone,"End of alternate-side, time-limited parking zone",Sortie de zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée
+B30,regulatory,speed-limit-zone-30,Speed limit zone (30 km/h),Entrée d’une zone à vitesse limitée à 30 km/h
+B51,regulatory,end-of-speed-limit-zone-30,End of speed limit zone (30 km/h),Sortie d’une zone à vitesse limitée à 30 km/h
+B52,information,shared-space-zone,Shared space (encounter zone),Entrée d’une zone de rencontre
+B53,information,end-of-shared-space-zone,End of shared space (encounter zone),Sortie d’une zone de rencontre
+B54,information,pedestrian-zone,Pedestrian zone,Entrée d’aire piétonne
+B55,information,end-of-pedestrian-zone,End of pedestrian zone,Sortie d’aire piétonne
+B56,regulatory,low-emission-zone,Low emission zone,Entrée d’une zone de circulation restreinte
+B57,regulatory,end-of-low-emission-zone,End of low emission zone,Sortie d’une zone de circulation restreinte
+B58,regulatory,winter-equipment-required,Winter equipment required,Entrée d’une zone d’obligation d’équipements en période hivernale
+B59,regulatory,end-of-winter-equipment-required,End of winter equipment required,Sortie d’une zone d’obligation d’équipements en période hivernale
+C1a,regulatory,parking,Parking,Lieu aménagé pour le stationnement
+C1b,regulatory,parking-with-disc,Parking with parking disc,Stationnement gratuit à durée limitée avec contrôle par disque
+C1c,regulatory,paid-parking,Paid parking,Lieu aménagé pour le stationnement payant
+C3,information,fire-risk,Fire risk,Risque d’incendie
+C4a,information,recommended-speed,Recommended speed,Vitesse conseillée
+C4b,information,end-of-recommended-speed,End of recommended speed,Fin de vitesse conseillée
+C5,information,taxi-rank,Taxi rank,Station de taxis
+C6,information,bus-stop,"Bus, trolleybus or electric bus stop",Arrêt d’autobus
+C8,information,emergency-lay-by,Emergency lay-by,Emplacement d’arrêt d’urgence
+C9,information,car-sharing-station,Car sharing station,Station d’autopartage
+C12,information,one-way-road,One-way road,Circulation à sens unique
+C13a,information,dead-end,Dead end,Impasse
+C13b,information,dead-end-ahead,Dead end ahead,Présignalisation d’une impasse
+C13c,information,dead-end-except-pedestrians,Dead end (passable for pedestrians),Impasse comportant une issue pour les piétons
+C13d,information,dead-end-except-pedestrians-and-cyclists,Dead end (passable for pedestrians and cyclists),Impasse comportant une issue pour les piétons et les cyclistes
+C14,information,road-section-passability,Passability of a road section (pass or tunnel),Présignalisation de la praticabilité d’une section de route
+C14-2,information,road-section-passability-b,Passability of a road section (variant b),Présignalisation de la praticabilité d’une section de route
+C20a,information,pedestrian-crossing,Pedestrian crossing,Passage pour piétons
+C20b,information,public-transport-crossing,Crossing of a public transport road,Traversée de voie de véhicules des services réguliers de transport en commun
+C20c,information,tram-crossing,Tram crossing,Traversée de tramways
+C23,information,caravan-parking,Parking for caravans and motorhomes,Stationnement réglementé pour les caravanes et les autocaravanes
+C24a-1,information,lane-conditions,Lane conditions on the road ahead,Conditions particulières de circulation par voie sur la route suivie
+C24a-2,information,lane-conditions-b,Lane conditions on the road ahead (variant b),Conditions particulières de circulation par voie sur la route suivie
+C24a-3,information,lane-conditions-c,Lane conditions on the road ahead (variant c),Conditions particulières de circulation par voie sur la route suivie
+C24a-4,information,lane-conditions-d,Lane conditions on the road ahead (variant d),Conditions particulières de circulation par voie sur la route suivie
+C24b,information,lane-directions,Directions of the lanes,Voies affectées à l’approche d’une intersection
+C24b-2,information,lane-directions-b,Lanes at the approach to a junction (variant b),Voies affectées à l’approche d’une intersection
+C24c,information,lane-conditions-branch-road,Lane conditions on the road or the branch road,Conditions particulières de circulation sur la route ou la voie embranchée
+C24c-2,information,lane-conditions-branch-road-b,Lane conditions on the road or the branch road (variant b),Conditions particulières de circulation sur la route ou la voie embranchée
+C25a,information,national-speed-limits,National speed limits (at the border),Indication aux frontières des limites de vitesse
+C25b,information,motorway-speed-limits,Motorway speed limits reminder,Rappel des limites de vitesse sur autoroute
+C26a,information,emergency-escape-lane-right,Emergency escape lane (to the right),Voie de détresse à droite
+C26b,information,emergency-escape-lane-left,Emergency escape lane (to the left),Voie de détresse à gauche
+C27,information,raised-carriageway,Raised carriageway,Surélévation de chaussée
+C28,information,lane-reduction,Lane reduction,Réduction du nombre de voies
+C28-2,information,lane-reduction-b,Lane reduction (variant b),Réduction du nombre de voies
+C28-3,information,lane-reduction-c,Lane reduction (variant c),Réduction du nombre de voies
+C29c,information,three-lane-road,"Three-lane road (one lane one way, two the other)",Section de route à trois voies
+C50,information,other-information,Other information,Indications diverses
+C51a,information,average-speed-check,Average speed check,Présignalisation du début d’une section à vitesse régulée
+C51b,information,end-of-average-speed-check,End of average speed check,Fin de section à vitesse régulée
+C62,information,toll-ticket-machine-ahead,Toll ticket machine ahead,Présignalisation d’une borne de retrait de ticket de péage
+C64a,information,toll-payment-attendant,Toll payment (attendant),Paiement auprès d’un péagiste
+C64c1,information,toll-payment-coins,Toll payment (coins),Paiement automatique par pièces de monnaie
+C64c2,information,toll-payment-coins-and-notes,Toll payment (coins and notes),Paiement automatique par pièces et billets
+C64d2,information,toll-payment-subscription,Toll payment (subscription),Paiement par abonnement
+C65a,information,free-flow-toll,Free-flow toll zone,Zone à péage en flux libre
+C65b,information,free-flow-toll-b,Free-flow toll zone (variant b),Zone à péage en flux libre
+C65c,information,free-flow-toll-c,Free-flow toll zone (variant c),Zone à péage en flux libre
+C107,information,expressway,Expressway,Route à accès réglementé
+C108,information,end-of-expressway,End of expressway,Fin de route à accès réglementé
+C111,information,tunnel,Tunnel,Entrée d’un tunnel
+C112,information,end-of-tunnel,End of tunnel,Sortie de tunnel
+C113,information,cycle-path-recommended,Recommended cycle path,Piste ou bande cyclable conseillée
+C114,information,end-of-cycle-path-recommended,End of recommended cycle path,Fin de piste ou bande cyclable conseillée
+C115,information,greenway,Greenway (pedestrians and non-motorised vehicles),Voie verte
+C116,information,end-of-greenway,End of greenway,Fin de voie verte
+C117-B21b,information,dangerous-goods-tunnel-diversion-straight,Tunnel closed to dangerous goods: recommended direction (straight ahead),Tunnel interdit aux marchandises dangereuses : direction conseillée tout droit
+C117-b21c1,information,dangerous-goods-tunnel-diversion-right,Tunnel closed to dangerous goods: recommended direction (right),Tunnel interdit aux marchandises dangereuses : direction conseillée à droite
+C117-b21c2,information,dangerous-goods-tunnel-diversion-left,Tunnel closed to dangerous goods: recommended direction (left),Tunnel interdit aux marchandises dangereuses : direction conseillée à gauche
+C117-b21d1,information,dangerous-goods-tunnel-diversion-straight-or-right,Tunnel closed to dangerous goods: recommended direction (straight ahead or right),Tunnel interdit aux marchandises dangereuses : tout droit ou à droite
+C117-b21d2,information,dangerous-goods-tunnel-diversion-straight-or-left,Tunnel closed to dangerous goods: recommended direction (straight ahead or left),Tunnel interdit aux marchandises dangereuses : tout droit ou à gauche
+C117-b21e,information,dangerous-goods-tunnel-diversion-left-or-right,Tunnel closed to dangerous goods: recommended direction (left or right),Tunnel interdit aux marchandises dangereuses : à droite ou à gauche
+C207,information,motorway,Motorway,Début d’une section d’autoroute
+C208,information,end-of-motorway,End of motorway,Fin d’une section d’autoroute
+CE1,information,services-first-aid,Services (first aid),Poste de secours
+CE2a,information,services-emergency-telephone,Services (emergency telephone),Poste d’appel d’urgence
+CE2b,information,services-telephone,Services (telephone),Cabine téléphonique publique
+CE3a,information,services-information-point,Services (information point),Informations relatives aux services ou activités touristiques
+CE3b,information,services-information-relay,Services (information relay),Relais d’information service
+CE4a,information,services-tent-camp,Services (tent camp),Terrain de camping pour tentes
+CE4b,information,services-caravan-site,Services (caravan site),Terrain de camping pour caravanes et autocaravanes
+CE4c,information,services-campsite,Services (campsite),"Terrain de camping pour tentes, caravanes et autocaravanes"
+CE5a,information,services-youth-hostel,Services (youth hostel),Auberge de jeunesse
+CE5b,information,services-guest-house,Services (guest house),Chambre d’hôtes ou gîte
+CE6a,information,services-hiking-trail,Services (hiking trail),Accès à un itinéraire pédestre
+CE6b,information,services-cross-country-skiing,Services (cross-country skiing),Accès à un circuit de ski de fond
+CE7,information,services-picnic-site,Services (picnic site),Pique-nique
+CE8,information,services-car-train,Services (car train),Gare auto/train
+CE9,information,services-cctv-parking,Services (car park with CCTV),Parking vidéosurveillé
+CE10,information,services-ferry-landing,Services (landing stage),Embarcadère
+CE12,information,services-toilets,Services (toilets),Toilettes
+CE14,information,services-accessible-facilities,Services (accessible facilities),Installations accessibles aux personnes handicapées à mobilité réduite
+CE15a,information,services-filling-station,Services (filling station),Poste de distribution de carburant
+CE15c,information,services-lpg-station,Services (LPG station),Carburant et GPL
+CE15e,information,services-filling-station-brand,"Services (filling station, with brand)",Marque du poste de distribution de carburant
+CE15f,information,services-lpg-station-brand,"Services (filling station with LPG, with brand)",Marque du poste de distribution de carburant et GPL
+CE15g,information,services-filling-station-with-ev-charging,Services (filling station with EV charging),Carburant et recharge des véhicules électriques
+CE15h,information,services-lpg-station-with-ev-charging,Services (filling station with LPG and EV charging),"Carburant, GPL et recharge des véhicules électriques"
+CE15i,information,services-ev-charging-station,Services (EV charging station),Recharge des véhicules électriques
+CE15j,information,services-ev-charging-and-lpg,Services (EV charging and LPG),Recharge des véhicules électriques et GPL
+CE16,information,services-restaurant,Services (roadside restaurant),Restaurant ouvert 7 jours sur 7
+CE17,information,services-hotel-or-motel,Services (hotel or motel),Hôtel ou motel ouvert 7 jours sur 7
+CE18,information,services-cafe,Services (café or snack bar open every day),Débit de boissons ou collations ouvert 7 jours sur 7
+CE19,information,services-boat-launch,Services (boat launch),Mise à l’eau d’embarcations légères
+CE20a,information,services-cable-car,Services (cable car),Gare de téléphérique
+CE20b,information,services-chairlift,Services (chairlift or gondola),Départ d’un télésiège ou d’une télécabine
+CE21,information,services-viewpoint,Services (viewpoint),Point de vue
+CE22,information,services-traffic-radio,Services (traffic information radio),Informations routières
+CE23,information,services-playground,Services (playground),Jeux d’enfants
+CE24,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),Station de vidange
+CE25,information,services-cash-machine,Services (cash machine),Banque
+CE26,information,services-tyre-inflation,Services (tyre inflation),Station de gonflage
+CE27,information,services-fitness-trail,Services (fitness trail and rest area),Point de détente
+CE28,information,services-breakdown-service,Services (breakdown service),Poste de dépannage
+CE29,information,services-fire-extinguisher,Services (firefighting equipment),Lutte contre l’incendie
+CE30a,information,emergency-exit-right,Emergency exit (to the right),Issue de secours vers la droite
+CE30b,information,emergency-exit-left,Emergency exit (to the left),Issue de secours vers la gauche
+CE50,information,services-other,Services (other facilities),Installations ou services divers
+CE51,information,services-eco-tax,Services (eco-tax distribution point),Écotaxe
+CE52,information,services-car-pooling,Services (car pooling),Covoiturage
+CE100,information,services-filling-station-brands,Services (filling station brands),Enseigne des sociétés de distribution de carburant
+AK2,warning,uneven-road-temporary,Uneven road (temporary),Cassis ou dos-d’âne (temporaire)
+AK3,warning,road-narrows-temporary,Road narrows (temporary),Chaussée rétrécie (temporaire)
+AK4,warning,slippery-road-temporary,Slippery road (temporary),Chaussée glissante (temporaire)
+AK5,warning,roadworks,Roadworks,Travaux
+AK14,warning,danger-temporary,Other danger (temporary),Autres dangers (temporaire)
+AK17,warning,traffic-signals-temporary,Traffic signals (temporary),Annonce de signaux lumineux (temporaire)
+AK22,warning,loose-gravel,Loose gravel,Projection de gravillons
+AK30,warning,queues,Queues likely,Bouchon
+AK31,warning,accident,Accident,Accident
+AK32,warning,fog,Fog,Nappes de brouillard ou de fumées épaisses
+A6,warning,movable-bridge,Movable bridge,Pont mobile
+C29a,information,overtaking-section-ahead,Overtaking section or dual carriageway ahead,Présignalisation d’un créneau de dépassement ou d’une section à chaussées séparées
+B34a,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Fin d’interdiction de dépasser pour les véhicules de transport de marchandises

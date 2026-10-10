@@ -1,0 +1,11 @@
+{
+  "sign": "left-lane-must-exit-r3-33al",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R3-33aL",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R3-33aL.svg"
+  }
+}

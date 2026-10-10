@@ -1,0 +1,11 @@
+{
+  "sign": "side-road-right",
+  "category": "warning",
+  "country": "gb",
+  "code": "506.1 (variant 1, right)",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 506.1 (variant 1, right).svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "low-emission-zone",
+  "category": "regulatory",
+  "country": "de",
+  "code": "270.1",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 270.1 - Beginn eines Verkehrsverbots zur Verminderung schädlicher Luftverunreinigungen in einer Zone. I, StVO 2007.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-crossing",
+  "category": "information",
+  "country": "ca",
+  "code": "RA-4",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC RA-004-R.svg"
+  }
+}

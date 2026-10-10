@@ -1,0 +1,11 @@
+{
+  "sign": "alternative-route-lane-change-right",
+  "category": "information",
+  "country": "de",
+  "code": "460-22",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 460-22 - Bedarfsumleitung, hier rechts (900x600), StVO 1992.svg"
+  }
+}

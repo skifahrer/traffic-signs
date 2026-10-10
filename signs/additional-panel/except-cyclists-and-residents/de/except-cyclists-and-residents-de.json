@@ -1,0 +1,11 @@
+{
+  "sign": "except-cyclists-and-residents",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1020-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1020-12 - Radfahrer und Anlieger frei (450x600), StVO 1992.svg"
+  }
+}

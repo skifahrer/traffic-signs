@@ -1,0 +1,11 @@
+{
+  "sign": "arrow-direction-sign-minor-road-right",
+  "category": "information",
+  "country": "de",
+  "code": "419-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 419-20 – Pfeilwegweiser auf sonstigen Straßen mit geringerer Verkehrsbedeutung, StVO 2013.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "stop",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RA-1",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "Canada Stop sign.svg"
+  }
+}

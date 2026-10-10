@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-3-with-end-of-speed-limit",
+  "category": "information",
+  "country": "de",
+  "code": "537-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 537-31 - Fahrstreifentafel – ohne Gegenverkehr mit integriertem Zeichen 278 – dreistreifig in Fahrtrichtung (1600x1250), StVO 2017.svg"
+  }
+}

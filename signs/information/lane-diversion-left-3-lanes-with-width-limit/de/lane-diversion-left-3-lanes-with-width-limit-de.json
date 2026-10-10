@@ -1,0 +1,11 @@
+{
+  "sign": "lane-diversion-left-3-lanes-with-width-limit",
+  "category": "information",
+  "country": "de",
+  "code": "515-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 515-12 - Verschwenkungstafel - ohne Gegenverkehr mit integriertem Zeichen 264 StVO - dreistreifig nach links (1600x1250); StVO 2017.svg"
+  }
+}

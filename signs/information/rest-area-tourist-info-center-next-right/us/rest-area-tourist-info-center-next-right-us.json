@@ -1,0 +1,11 @@
+{
+  "sign": "rest-area-tourist-info-center-next-right",
+  "category": "information",
+  "country": "us",
+  "code": "D5-7a",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD D5-7a.svg"
+  }
+}

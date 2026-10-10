@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-motorway",
+  "category": "information",
+  "country": "de",
+  "code": "330.2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 330.2 - Ende der Autobahn, StVO 2013.svg"
+  }
+}

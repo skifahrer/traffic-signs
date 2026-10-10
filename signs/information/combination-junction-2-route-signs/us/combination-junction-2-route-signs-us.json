@@ -1,0 +1,11 @@
+{
+  "sign": "combination-junction-2-route-signs",
+  "category": "information",
+  "country": "us",
+  "code": "M2-2",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD M2-2.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-2-plus-1-oncoming-with-minimum-speed",
+  "category": "information",
+  "country": "de",
+  "code": "526-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 526-31 - Fahrstreifentafel - mit Gegenverkehr und mit integriertem Zeichen 275 - zweistreifig in Fahrtrichtung und einstreifig in Gegenrichtung, StVO 2017.svg"
+  }
+}

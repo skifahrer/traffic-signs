@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles",
+  "category": "regulatory",
+  "country": "de",
+  "code": "253",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 253 - Verbot für Kraftfahrzeuge mit einem zulässigen Gesamtgewicht, StVO 1992.svg"
+  }
+}

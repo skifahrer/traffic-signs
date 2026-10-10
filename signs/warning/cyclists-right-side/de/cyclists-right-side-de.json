@@ -1,0 +1,11 @@
+{
+  "sign": "cyclists-right-side",
+  "category": "warning",
+  "country": "de",
+  "code": "138-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 138-10 - Radverkehr, StVO 2013.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "dead-end-except-pedestrians-and-cyclists",
+  "category": "information",
+  "country": "de",
+  "code": "357-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 357-50 - Durchlässige Sackgasse für Fußgänger und Radverkehr, StVO 2009.svg"
+  }
+}

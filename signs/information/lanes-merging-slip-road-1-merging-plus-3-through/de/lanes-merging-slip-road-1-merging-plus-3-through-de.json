@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-merging-slip-road-1-merging-plus-3-through",
+  "category": "information",
+  "country": "de",
+  "code": "551-24",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 551-24 - Zusammenführungstafel – an einmündender Strecke – einstreifig einmündend plus dreistreifig durchgehend (1600x1250), StVO 2017.svg"
+  }
+}

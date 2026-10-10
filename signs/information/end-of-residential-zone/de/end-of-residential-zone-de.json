@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-residential-zone",
+  "category": "information",
+  "country": "de",
+  "code": "325.2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 325.2 - Ende eines verkehrsberuhigten Bereichs, StVO 2009.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-cars-with-trailers",
+  "category": "regulatory",
+  "country": "de",
+  "code": "257-56",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 257-56 - Verbot für Personenkraftwagen mit Anhänger, StVO 2017.svg"
+  }
+}

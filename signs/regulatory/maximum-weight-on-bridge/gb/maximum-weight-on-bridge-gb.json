@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-weight-on-bridge",
+  "category": "regulatory",
+  "country": "gb",
+  "code": "626.2A (variant 1b, 33t)",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 626.2A (variant 1b, 33t).svg"
+  }
+}

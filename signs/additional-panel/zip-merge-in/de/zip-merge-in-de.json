@@ -1,0 +1,11 @@
+{
+  "sign": "zip-merge-in",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1005-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1005-30 - Reißverschluss erst in ... m, StVO 2001.svg"
+  }
+}

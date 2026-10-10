@@ -1,0 +1,11 @@
+{
+  "sign": "low-flying-aircraft-right-side",
+  "category": "warning",
+  "country": "de",
+  "code": "101-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 101-10 - Flugbetrieb, Aufstellung rechts, StVO 2017.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "exit-motorway",
+  "category": "information",
+  "country": "de",
+  "code": "333",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 333 - Pfeilschild - Ausfahrt von der Autobahn, StVO 1980.svg"
+  }
+}

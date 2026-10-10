@@ -1,0 +1,11 @@
+{
+  "sign": "sundays-and-holidays-time",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1042-35",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1042-35 - 6 - 22 h an Sonn-und Feiertagen (450x600), StVO 1992.svg"
+  }
+}

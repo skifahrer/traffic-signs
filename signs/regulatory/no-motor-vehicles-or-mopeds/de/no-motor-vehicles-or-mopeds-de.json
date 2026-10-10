@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-or-mopeds",
+  "category": "regulatory",
+  "country": "de",
+  "code": "260",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 260 - Verbot für Krafträder und Mofas und sonstige mehrspurige Kraftfahrzeuge, StVO 1992.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "country": "de",
+  "code": "277",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 277 - Überholverbot für Kraftfahrzeuge mit einem zulässigen Gesamtgewicht über 2,8 t, einschließlich ihrer Anhänger, StVO 1992.svg"
+  }
+}

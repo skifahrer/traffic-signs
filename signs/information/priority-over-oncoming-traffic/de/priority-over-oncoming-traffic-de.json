@@ -1,0 +1,11 @@
+{
+  "sign": "priority-over-oncoming-traffic",
+  "category": "information",
+  "country": "de",
+  "code": "308",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 308 - Vorrang vor dem Gegenverkehr, StVO 1992.svg"
+  }
+}

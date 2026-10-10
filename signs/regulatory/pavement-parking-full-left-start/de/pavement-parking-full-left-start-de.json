@@ -1,0 +1,11 @@
+{
+  "sign": "pavement-parking-full-left-start",
+  "category": "regulatory",
+  "country": "de",
+  "code": "315-61",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 315-61 - Parken auf Gehwegen ganz in Fahrtrichtung links, Anfang, StVO 2013.svg"
+  }
+}

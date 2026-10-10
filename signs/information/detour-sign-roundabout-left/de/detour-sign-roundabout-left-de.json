@@ -1,0 +1,11 @@
+{
+  "sign": "detour-sign-roundabout-left",
+  "category": "information",
+  "country": "de",
+  "code": "455.1-13",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 455.1-13 - Ankündigung oder Fortsetzung der Umleitung, im Kreisverkehr links, StVO 2021.svg"
+  }
+}

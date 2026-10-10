@@ -1,0 +1,11 @@
+{
+  "sign": "no-riders",
+  "category": "regulatory",
+  "country": "de",
+  "code": "257-51",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 257-51 - Verbot für Reiter, StVO 2017.svg"
+  }
+}

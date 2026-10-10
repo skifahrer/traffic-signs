@@ -1,0 +1,11 @@
+{
+  "sign": "ends-in-metres",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1013-52",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1013-52 - Ende in ... m, StVO 2017.svg"
+  }
+}

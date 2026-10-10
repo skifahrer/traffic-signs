@@ -1,0 +1,11 @@
+{
+  "sign": "no-u-turn",
+  "category": "regulatory",
+  "country": "de",
+  "code": "272",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 272, Verbot des Wendens, StVO 1992.svg"
+  }
+}

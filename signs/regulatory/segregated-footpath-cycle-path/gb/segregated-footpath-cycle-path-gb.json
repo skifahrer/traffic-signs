@@ -1,0 +1,11 @@
+{
+  "sign": "segregated-footpath-cycle-path",
+  "category": "regulatory",
+  "country": "gb",
+  "code": "957",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 957.svg"
+  }
+}

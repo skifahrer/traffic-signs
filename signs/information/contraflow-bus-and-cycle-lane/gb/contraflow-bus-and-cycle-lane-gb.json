@@ -1,0 +1,11 @@
+{
+  "sign": "contraflow-bus-and-cycle-lane",
+  "category": "information",
+  "country": "gb",
+  "code": "963.2",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 963.2.svg"
+  }
+}

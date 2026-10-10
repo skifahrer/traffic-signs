@@ -1,0 +1,11 @@
+{
+  "sign": "photo-enforced-plaque",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "W16-10aP",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W16-10aP.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "table-direction-sign-partly-split",
+  "category": "information",
+  "country": "de",
+  "code": "434-51",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 434-51 - Tabellenwegweiser teilaufgelöste Form (nach RWBA), StVO 2017.svg"
+  }
+}

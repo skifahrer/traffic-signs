@@ -1,0 +1,11 @@
+{
+  "sign": "loose-gravel",
+  "category": "warning",
+  "country": "de",
+  "code": "101-52",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 101-52 - Splitt, Schotter, StVO 2017.svg"
+  }
+}

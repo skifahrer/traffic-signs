@@ -1,0 +1,11 @@
+{
+  "sign": "pavement-parking-perpendicular-partial-right-start",
+  "category": "regulatory",
+  "country": "de",
+  "code": "315-76",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 315-76 - Parken halb auf Gehwegen quer zur Fahrtrichtung rechts (Anfang), StVO 1992.svg"
+  }
+}

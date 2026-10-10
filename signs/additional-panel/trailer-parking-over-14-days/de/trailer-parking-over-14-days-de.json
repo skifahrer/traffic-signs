@@ -1,0 +1,11 @@
+{
+  "sign": "trailer-parking-over-14-days",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1010-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1010-12 - Kennzeichnung von Parkflächen, auf denen Anhänger auch länger als 14 Tage parken dürfen, StVO 1992.svg"
+  }
+}

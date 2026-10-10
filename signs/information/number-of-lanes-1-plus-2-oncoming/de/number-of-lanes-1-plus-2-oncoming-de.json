@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-1-plus-2-oncoming",
+  "category": "information",
+  "country": "de",
+  "code": "522-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 522-32 - Fahrstreifentafel; Darstellung mit Gegenverkehr- ein Fahrstreifen in Fahrtrichtung, zwei Fahrstreifen in Gegenrichtung (1600x1250), StVO 1992.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "country": "de",
+  "code": "281",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 281 - Ende des Überholverbots für Kraftfahrzeuge mit einem zulässigen Gesamtgewicht über 3,5 t, StVO 1992.svg"
+  }
+}

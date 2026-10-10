@@ -1,0 +1,11 @@
+{
+  "sign": "low-clearance-overhead-w12-2b",
+  "category": "warning",
+  "country": "us",
+  "code": "W12-2b",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W12-2b.svg"
+  }
+}

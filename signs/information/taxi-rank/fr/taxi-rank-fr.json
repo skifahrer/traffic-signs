@@ -1,0 +1,11 @@
+{
+  "sign": "taxi-rank",
+  "category": "information",
+  "country": "fr",
+  "code": "C5",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",
+    "file": "France road sign C5.svg"
+  }
+}

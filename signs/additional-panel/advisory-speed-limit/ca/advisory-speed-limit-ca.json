@@ -1,0 +1,11 @@
+{
+  "sign": "advisory-speed-limit",
+  "category": "additional-panel",
+  "country": "ca",
+  "code": "WA-10",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC WA-010-50.svg"
+  }
+}

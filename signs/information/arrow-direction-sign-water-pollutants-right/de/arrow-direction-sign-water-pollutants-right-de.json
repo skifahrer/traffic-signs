@@ -1,0 +1,11 @@
+{
+  "sign": "arrow-direction-sign-water-pollutants-right",
+  "category": "information",
+  "country": "de",
+  "code": "421-22",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 421-22 - Wegweiser für Fahrzeuge mit wassergefährdender Ladung (rechtsweisend), StVO 1992.svg"
+  }
+}

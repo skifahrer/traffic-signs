@@ -1,0 +1,11 @@
+{
+  "sign": "barrier-post",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "600-60",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 600-60 - Sperrpfosten (Schraffur waagerecht), StVO 2017.svg"
+  }
+}

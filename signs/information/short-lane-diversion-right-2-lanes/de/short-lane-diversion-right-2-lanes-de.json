@@ -1,0 +1,11 @@
+{
+  "sign": "short-lane-diversion-right-2-lanes",
+  "category": "information",
+  "country": "de",
+  "code": "513-21",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 513-21.svg"
+  }
+}

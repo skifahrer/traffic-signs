@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-right",
+  "category": "regulatory",
+  "country": "fr",
+  "code": "B21c1",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",
+    "file": "France road sign B21c1.svg"
+  }
+}

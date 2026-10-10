@@ -1,0 +1,11 @@
+{
+  "sign": "military-tracked-vehicles-only",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1049-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1049-12 - nur militärische Kettenfahrzeuge, StVO 1992.svg"
+  }
+}

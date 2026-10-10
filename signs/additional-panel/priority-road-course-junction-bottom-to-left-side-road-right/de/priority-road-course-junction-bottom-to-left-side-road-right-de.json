@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course-junction-bottom-to-left-side-road-right",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1002-13",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1002-13 - Verlauf der Vorfahrtsstraße an Einmündungen (von unten nach links, Fall 2), StVO 1992.svg"
+  }
+}

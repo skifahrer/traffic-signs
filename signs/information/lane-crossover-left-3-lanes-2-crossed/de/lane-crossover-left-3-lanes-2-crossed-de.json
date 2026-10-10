@@ -1,0 +1,11 @@
+{
+  "sign": "lane-crossover-left-3-lanes-2-crossed",
+  "category": "information",
+  "country": "de",
+  "code": "501-15",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 501-15 - Überleitungstafel - ohne Gegenverkehr - dreistreifig nach links, davon zwei Fahrstreifen übergeleitet (1600x1250); StVO 2017.svg"
+  }
+}

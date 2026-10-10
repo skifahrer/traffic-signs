@@ -1,0 +1,11 @@
+{
+  "sign": "two-way-traffic",
+  "category": "warning",
+  "country": "ca",
+  "code": "WB-3",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-QC road sign D-080-1.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-1-arrow-right-500x500mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "625-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 625-10 - Richtungstafel in Kurven (Aufstellung rechts), 500x500; StVO 1992.svg"
+  }
+}

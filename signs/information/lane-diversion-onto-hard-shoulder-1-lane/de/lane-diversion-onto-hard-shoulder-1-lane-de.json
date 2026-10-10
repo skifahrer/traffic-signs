@@ -1,0 +1,11 @@
+{
+  "sign": "lane-diversion-onto-hard-shoulder-1-lane",
+  "category": "information",
+  "country": "de",
+  "code": "511-25",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 511-25 - Verschwenkungstafel − ohne Gegenverkehr − einstreifige Verschwenkung auf den Seitenstreifen (1600x1250); StVO 2017.svg"
+  }
+}

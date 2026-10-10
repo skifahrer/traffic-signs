@@ -1,0 +1,11 @@
+{
+  "sign": "lane-crossover-right-2-plus-1-straight",
+  "category": "information",
+  "country": "de",
+  "code": "501-28",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 501-28 - Überleitungstafel - ohne Gegenverkehr - zweistreifig nach rechts und einstreifig geradeaus (1600x1250); StVO 2017.svg"
+  }
+}

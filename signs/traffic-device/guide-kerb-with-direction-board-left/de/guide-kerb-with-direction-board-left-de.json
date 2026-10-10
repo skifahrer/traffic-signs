@@ -1,0 +1,11 @@
+{
+  "sign": "guide-kerb-with-direction-board-left",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "628-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 628-20 - Leitschwelle mit Leitbake (Aufstellung links), StVO 2009.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping-on-hard-shoulder-left",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1060-34",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1060-34 - Haltverbot auch auf dem Seitenstreifen links (600x330), StVO BAnz AT 09.04.2025 B2.svg"
+  }
+}

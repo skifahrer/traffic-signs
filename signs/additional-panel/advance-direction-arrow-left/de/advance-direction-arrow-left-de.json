@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-arrow-left",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1000-11",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1000-11 - Richtung der Gefahrstelle, linksweisend, StVO 1992.svg"
+  }
+}

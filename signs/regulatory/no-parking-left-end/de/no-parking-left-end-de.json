@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking-left-end",
+  "category": "regulatory",
+  "country": "de",
+  "code": "286-11",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 286-11 - Eingeschränktes Halteverbot (Ende), Aufstellung links StVO 2017.svg"
+  }
+}

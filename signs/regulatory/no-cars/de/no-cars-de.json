@@ -1,0 +1,11 @@
+{
+  "sign": "no-cars",
+  "category": "regulatory",
+  "country": "de",
+  "code": "257-55",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 257-55 - Verbot für Personenkraftwagen, StVO 2017.svg"
+  }
+}

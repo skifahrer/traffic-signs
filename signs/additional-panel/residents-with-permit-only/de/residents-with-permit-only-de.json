@@ -1,0 +1,11 @@
+{
+  "sign": "residents-with-permit-only",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1044-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1044-30 - Bewohner mit Parkausweis Nr. .... (600x330), StVO 2002.svg"
+  }
+}

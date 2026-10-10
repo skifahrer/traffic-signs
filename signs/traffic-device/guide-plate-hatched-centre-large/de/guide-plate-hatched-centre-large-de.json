@@ -1,0 +1,11 @@
+{
+  "sign": "guide-plate-hatched-centre-large",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "626-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 626-31 - Leitplatte (1200x600); StVO 2013.svg"
+  }
+}

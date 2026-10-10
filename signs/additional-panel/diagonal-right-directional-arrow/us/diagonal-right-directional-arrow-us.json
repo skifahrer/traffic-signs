@@ -1,0 +1,11 @@
+{
+  "sign": "diagonal-right-directional-arrow",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "M6-2PR",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD M6-2PR.svg"
+  }
+}

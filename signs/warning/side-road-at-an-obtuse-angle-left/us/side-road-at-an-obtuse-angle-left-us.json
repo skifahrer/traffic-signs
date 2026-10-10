@@ -1,0 +1,11 @@
+{
+  "sign": "side-road-at-an-obtuse-angle-left",
+  "category": "warning",
+  "country": "us",
+  "code": "W2-3aL",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W2-3aL.svg"
+  }
+}

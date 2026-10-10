@@ -1,0 +1,11 @@
+{
+  "sign": "with-flow-cycle-lane-ahead",
+  "category": "information",
+  "country": "gb",
+  "code": "958.1",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 958.1.svg"
+  }
+}

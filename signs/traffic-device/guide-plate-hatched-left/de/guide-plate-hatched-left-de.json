@@ -1,0 +1,11 @@
+{
+  "sign": "guide-plate-hatched-left",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "626-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 626-20 - Leitplatte, Aufstellung links (750x500), StVO 2013.svg"
+  }
+}

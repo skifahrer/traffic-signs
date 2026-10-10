@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-width-2m",
+  "category": "regulatory",
+  "country": "de",
+  "code": "264-2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 264-2 - Verbot für Fahrzeuge über angegebene tatsächliche Breite, StVO 2017.svg"
+  }
+}

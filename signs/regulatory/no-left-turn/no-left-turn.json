@@ -1,6 +1,10 @@
 {
   "en": "No left turn",
   "cs": "Zákaz odbočování vlevo",
+  "en-CA": "No left turn",
+  "en-GB": "No left turn",
+  "en-US": "No left turn",
+  "fr": "Interdiction de tourner à gauche à la prochaine intersection",
   "pl": "zakaz skręcania w lewo",
   "sk": "Zákaz odbočenia (vľavo)"
 }

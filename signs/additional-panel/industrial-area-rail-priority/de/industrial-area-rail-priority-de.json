@@ -1,0 +1,11 @@
+{
+  "sign": "industrial-area-rail-priority",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1008-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1008-32 - Industriegebiet - Vorrang für Schienenfahrzeuge, StVO 1992.svg"
+  }
+}

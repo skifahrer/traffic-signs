@@ -1,0 +1,11 @@
+{
+  "sign": "lane-crossover-left-2-lanes-1-crossed",
+  "category": "information",
+  "country": "de",
+  "code": "501-13",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 501-13 - Überleitungstafel - ohne Gegenverkehr - zweistreifig nach links, ein Fahrstreifen übergeleitet (1600x1250); StVO 2013.svg"
+  }
+}

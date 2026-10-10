@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-to-motorway-diagrammatic",
+  "category": "information",
+  "country": "de",
+  "code": "441",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 441 - Gegliederter Vorwegweiser zur Autobahn (3000x2750) - nach RWB; StVO 2009.svg"
+  }
+}

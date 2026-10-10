@@ -1,0 +1,11 @@
+{
+  "sign": "exit-countdown-yellow-300m",
+  "category": "information",
+  "country": "de",
+  "code": "450-55",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 450-55 - Ankündigungsbake dreistreifig (300 m, gelb) StVO 2013.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "children-left-side",
+  "category": "warning",
+  "country": "de",
+  "code": "136-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 136-20 - Kinder, Aufstellung links, StVO 1992.svg"
+  }
+}

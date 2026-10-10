@@ -1,0 +1,11 @@
+{
+  "sign": "parking-panel-carriageway-angled",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1053-39",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1053-39 - Schrägparken als Sinnbild, StVO 2017.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "taxi-rank",
+  "category": "information",
+  "country": "de",
+  "code": "229",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 229 - Taxenstand, StVO 1994.svg"
+  }
+}

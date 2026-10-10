@@ -1,0 +1,11 @@
+{
+  "sign": "border-information-motorway",
+  "category": "information",
+  "country": "de",
+  "code": "393",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 393 a - Informationstafel an Grenzübergangsstellen (an Autobahnen und Straßen mit hoher Verkehrsbedeutung), StVO 1981.svg"
+  }
+}

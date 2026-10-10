@@ -1,0 +1,11 @@
+{
+  "sign": "dead-end-except-cyclists",
+  "category": "information",
+  "country": "de",
+  "code": "357-52",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 357-52 - Sackgasse; für Radverkehr durchlässige Sackgasse, StVO 2009.svg"
+  }
+}

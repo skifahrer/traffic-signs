@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-axle-weight-8t",
+  "category": "regulatory",
+  "country": "de",
+  "code": "263-8",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 263-8 - Verbot für Fahrzeuge über angegebene tatsächliche Achslast, StVO 2017.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-attraction-ahead",
+  "category": "information",
+  "country": "gb",
+  "code": "2201",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 2201.svg"
+  }
+}

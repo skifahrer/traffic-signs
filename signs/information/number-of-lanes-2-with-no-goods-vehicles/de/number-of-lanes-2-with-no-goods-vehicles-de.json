@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-2-with-no-goods-vehicles",
+  "category": "information",
+  "country": "de",
+  "code": "524-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 524-30 - Fahrstreifentafel - ohne Gegenverkehr mit integriertem Zeichen 253 - zweistreifig in Fahrtrichtung (1600x1250); StVO 2017.svg"
+  }
+}

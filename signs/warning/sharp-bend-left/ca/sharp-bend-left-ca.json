@@ -1,0 +1,11 @@
+{
+  "sign": "sharp-bend-left",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-1L",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "Ontario Wa-1L.svg"
+  }
+}

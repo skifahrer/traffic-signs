@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-merging-slip-road-2-merging-plus-2-through",
+  "category": "information",
+  "country": "de",
+  "code": "551-22",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 551-22 - Zusammenführungstafel; Darstellung ohne Gegenverkehr - zwei plus zwei Fahrstreifen, StVO 1992.svg"
+  }
+}

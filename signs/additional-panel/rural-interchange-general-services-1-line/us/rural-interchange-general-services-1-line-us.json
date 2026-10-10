@@ -1,0 +1,11 @@
+{
+  "sign": "rural-interchange-general-services-1-line",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "D9-18eP",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD D9-18eP.svg"
+  }
+}

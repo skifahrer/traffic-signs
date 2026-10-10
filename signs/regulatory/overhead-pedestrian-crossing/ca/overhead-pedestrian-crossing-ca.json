@@ -1,0 +1,11 @@
+{
+  "sign": "overhead-pedestrian-crossing",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RA-5",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC RA-005-R.svg"
+  }
+}

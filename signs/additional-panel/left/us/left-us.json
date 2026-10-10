@@ -1,0 +1,11 @@
+{
+  "sign": "left",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "E1-5mP",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD E1-5mP.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RB-62",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-ON road sign Rb-062.svg"
+  }
+}

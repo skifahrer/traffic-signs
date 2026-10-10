@@ -1,0 +1,11 @@
+{
+  "sign": "tunnel-with-length-metres",
+  "category": "information",
+  "country": "de",
+  "code": "327-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 327-50 - Tunnel, mit Längenangabe in m, StVO 2006.svg"
+  }
+}
