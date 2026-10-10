@@ -3,10 +3,6 @@
   "category": "regulatory",
   "country": "sk",
   "code": "270-21",
-  "name": {
-    "en": "No stopping (placed at an angle or parallel, left, start)",
-    "sk": "Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vľavo: začiatok platnosti)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

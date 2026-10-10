@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "330-74",
-  "name": {
-    "en": "Services (outdoor swimming pool)",
-    "sk": "Služby (kúpalisko)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

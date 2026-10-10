@@ -3,10 +3,6 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "705-10",
-  "name": {
-    "en": "Chevron board (1 arrow, left-pointing, 500 × 500 mm)",
-    "sk": "Smerovacia tabuľa (1-šípová, ľavá orientácia, 500 x 500 mm)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

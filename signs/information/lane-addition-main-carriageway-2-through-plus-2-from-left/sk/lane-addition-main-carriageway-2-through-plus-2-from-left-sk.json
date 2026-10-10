@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "431-14",
-  "name": {
-    "en": "Lane addition at junction (on the main carriageway, 2 through + 2 from the left)",
-    "sk": "Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 2 zľava)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

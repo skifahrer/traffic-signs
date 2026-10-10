@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "413-10",
-  "name": {
-    "en": "Lane reduction (left, 1 lane continuing + 1 oncoming)",
-    "sk": "Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 1 v protismere)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

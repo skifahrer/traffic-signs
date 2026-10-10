@@ -63,9 +63,9 @@ class SyncTest(unittest.TestCase):
             ):
                 self.assertEqual(sk.main(["--wikitext", wikitext, "--no-images"]), 0)
                 folder = os.path.join(root, "signs", "warning", "bend-left", "sk")
-                self.assertEqual(sorted(os.listdir(folder)), ["bend-left-sk.json", "bend-left-sk.sk"])
-                with open(os.path.join(folder, "bend-left-sk.sk"), encoding="utf-8") as handle:
-                    self.assertEqual(handle.read(), "Zákruta (vľavo)\n")
+                self.assertEqual(sorted(os.listdir(folder)), ["bend-left-sk.json"])
+                with open(os.path.join(root, "signs", "warning", "bend-left", "bend-left.json"), encoding="utf-8") as handle:
+                    self.assertEqual(json.load(handle), {"en": "Bend (left)", "sk": "Zákruta (vľavo)"})
                 self.assertTrue(os.path.isdir(os.path.join(root, "signs", "regulatory", "maximum-weight-8-5t")))
                 self.assertEqual(
                     set(layout.existing_signs("sk", sk.PIPELINE)),
@@ -137,6 +137,44 @@ class SyncTest(unittest.TestCase):
                 get.reset_mock()
                 self.assertEqual(sk.main(["--wikitext", wikitext]), 0)
                 get.assert_not_called()
+
+    def test_keeps_other_languages_in_the_names_file(self):
+        with tempfile.TemporaryDirectory() as root:
+            wikitext = os.path.join(root, "page.txt")
+            with open(wikitext, "w", encoding="utf-8") as handle:
+                handle.write(CLEAN_WIKITEXT)
+            names = os.path.join(root, "signs", "warning", "bend-left", "bend-left.json")
+            os.makedirs(os.path.dirname(names))
+            with open(names, "w", encoding="utf-8") as handle:
+                json.dump({"cs": "Zatáčka vlevo", "en": "Old English name"}, handle)
+            with mock.patch.object(layout, "SIGNS_DIR", os.path.join(root, "signs")), mock.patch(
+                "builtins.print"
+            ):
+                self.assertEqual(sk.main(["--wikitext", wikitext, "--no-images"]), 0)
+            with open(names, encoding="utf-8") as handle:
+                self.assertEqual(
+                    list(json.load(handle).items()),
+                    [("en", "Bend (left)"), ("cs", "Zatáčka vlevo"), ("sk", "Zákruta (vľavo)")],
+                )
+
+    def test_prune_keeps_a_sign_other_countries_still_have(self):
+        with tempfile.TemporaryDirectory() as root:
+            wikitext = os.path.join(root, "page.txt")
+            with open(wikitext, "w", encoding="utf-8") as handle:
+                handle.write(CLEAN_WIKITEXT)
+            with mock.patch.object(layout, "SIGNS_DIR", os.path.join(root, "signs")), mock.patch(
+                "builtins.print"
+            ):
+                sk.main(["--wikitext", wikitext, "--no-images"])
+                os.makedirs(os.path.join(root, "signs", "warning", "danger", "cz"))
+                layout.update_translations("warning", "danger", {"cs": "Jiné nebezpečí"})
+                with open(wikitext, "w", encoding="utf-8") as handle:
+                    handle.write(CLEAN_WIKITEXT.replace("Súbor:101 Nebezpečenstvo.svg|101 Nebezpečenstvo\n", ""))
+                self.assertEqual(sk.main(["--wikitext", wikitext, "--no-images", "--prune"]), 0)
+                self.assertEqual(layout.country_dirs("warning", "danger"), ["cz"])
+                self.assertEqual(
+                    layout.read_translations("warning", "danger"), {"en": "Other danger", "cs": "Jiné nebezpečí"}
+                )
 
 
 if __name__ == "__main__":

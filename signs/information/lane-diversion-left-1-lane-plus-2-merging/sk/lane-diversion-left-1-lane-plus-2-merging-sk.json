@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "441-17",
-  "name": {
-    "en": "Lane diversion (to the left, 1 lane + 2 merging)",
-    "sk": "Presmerovanie jazdných pruhov (doľava, 1 pruh + 2 v pripájajúce sa)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

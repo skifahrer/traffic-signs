@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "861-10",
-  "name": {
-    "en": "Lane signal: leave this lane (left)",
-    "sk": "Signál Opustite tento jazdný pruh v smere šípky (vľavo)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,10 +3,6 @@
   "category": "warning",
   "country": "sk",
   "code": "152-11",
-  "name": {
-    "en": "Level crossing countdown marker (2 bars, placed on the right)",
-    "sk": "Návesť pred priecestím (2-pruhová, umiestnenie vpravo)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

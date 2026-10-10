@@ -217,22 +217,22 @@ def main(argv: list[str] | None = None) -> int:
             "category": t.category,
             "country": COUNTRY,
             "code": entry.code,
-            "name": {"en": t.name_en, LANG: entry.name},
             "image": image_meta,
             "source": {"pipeline": PIPELINE, "page": PAGE_URL, "file": entry.file},
         }
         if image_meta is None:
             del meta["image"]
 
-        name_path = layout.sign_path(t.category, t.slug, COUNTRY, LANG)
+        names = {"en": t.name_en, LANG: entry.name}
+        old_names = layout.read_translations(t.category, t.slug)
         if key not in previous:
             added.append(f"`{key}` ← {entry.code} {entry.name}")
-        elif old_meta != meta:
+        elif old_meta != meta or any(old_names.get(lang) != name for lang, name in names.items()):
             changed.append(f"`{key}` ({entry.code})")
 
         if args.check:
             continue
-        layout.write_text(name_path, entry.name + "\n")
+        layout.update_translations(t.category, t.slug, names)
         layout.write_json(meta_path, meta)
 
         if image is not None and sha1_of(image_path) != image["sha1"]:
@@ -256,6 +256,10 @@ def main(argv: list[str] | None = None) -> int:
         for key in removed:
             category, slug = key.split("/")
             remove_dir(layout.sign_dir(category, slug, COUNTRY))
+            if layout.country_dirs(category, slug):
+                layout.remove_translation(category, slug, LANG)
+            elif os.path.isdir(sign_folder := os.path.dirname(layout.translations_path(category, slug))):
+                remove_dir(sign_folder)  # no other country has this sign: drop it with its names file
 
     report = render_report(
         entries=len(by_code),

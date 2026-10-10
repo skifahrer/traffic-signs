@@ -3,10 +3,6 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "702-11",
-  "name": {
-    "en": "Direction board (hatched, left-pointing, 1000 × 250 mm)",
-    "sk": "Smerovacia doska (šrafovaná, ľavá orientácia, 1000 x 250 mm)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

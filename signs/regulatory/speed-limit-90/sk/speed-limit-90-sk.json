@@ -3,10 +3,6 @@
   "category": "regulatory",
   "country": "sk",
   "code": "253-90",
-  "name": {
-    "en": "Speed limit (90 km/h)",
-    "sk": "Najvyššia dovolená rýchlosť (90 km/h)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

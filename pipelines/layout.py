@@ -1,8 +1,11 @@
 """Repository layout shared by all pipelines.
 
+    signs/<category>/<sign>/<sign>.json                         names of the sign, keyed by language
     signs/<category>/<sign>/<country>/<sign>-<country>.<ext>    image (svg, png, ...)
-    signs/<category>/<sign>/<country>/<sign>-<country>.<lang>   local name, one file per language
     signs/<category>/<sign>/<country>/<sign>-<country>.json     metadata and image provenance
+
+The names file is shared by every country that has the sign, so pipelines
+merge their languages into it instead of overwriting it.
 """
 
 from __future__ import annotations
@@ -35,6 +38,42 @@ def sign_dir(category: str, slug: str, country: str) -> str:
 
 def sign_path(category: str, slug: str, country: str, ext: str) -> str:
     return os.path.join(sign_dir(category, slug, country), f"{slug}-{country}.{ext}")
+
+
+def translations_path(category: str, slug: str) -> str:
+    return os.path.join(SIGNS_DIR, category, slug, f"{slug}.json")
+
+
+def read_translations(category: str, slug: str) -> dict[str, str]:
+    path = translations_path(category, slug)
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as handle:
+        return json.load(handle)
+
+
+def _ordered(names: dict[str, str]) -> dict[str, str]:
+    """English first, then the other languages alphabetically."""
+    return {lang: names[lang] for lang in sorted(names, key=lambda lang: (lang != "en", lang))}
+
+
+def update_translations(category: str, slug: str, names: dict[str, str]) -> bool:
+    """Merge `names` into the sign's names file, keeping other languages. True on change."""
+    merged = _ordered({**read_translations(category, slug), **names})
+    return write_json(translations_path(category, slug), merged)
+
+
+def remove_translation(category: str, slug: str, lang: str) -> None:
+    names = read_translations(category, slug)
+    if names.pop(lang, None) is not None:
+        write_json(translations_path(category, slug), _ordered(names))
+
+
+def country_dirs(category: str, slug: str) -> list[str]:
+    folder = os.path.join(SIGNS_DIR, category, slug)
+    if not os.path.isdir(folder):
+        return []
+    return sorted(d for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d)))
 
 
 def validate(category: str, slug: str, country: str) -> None:

@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "404-34",
-  "name": {
-    "en": "Number of lanes (2 lanes + 2 oncoming + regulatory sign)",
-    "sk": "Počet jazdných pruhov (2 pruhy + 2 v protismere + regulačná značka)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

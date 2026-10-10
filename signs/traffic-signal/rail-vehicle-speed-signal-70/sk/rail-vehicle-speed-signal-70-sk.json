@@ -3,10 +3,6 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "836-70",
-  "name": {
-    "en": "Rail vehicle speed signal (70 km/h)",
-    "sk": "Rýchlostný signál pre dráhové vozidlá (70 kmh)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

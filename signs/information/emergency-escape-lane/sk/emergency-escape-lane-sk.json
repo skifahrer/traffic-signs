@@ -3,10 +3,6 @@
   "category": "information",
   "country": "sk",
   "code": "336-31",
-  "name": {
-    "en": "Emergency escape lane (straight ahead, road turns left)",
-    "sk": "Miesto na núdzové brzdenie (priamo, cesta ide doľava)"
-  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
