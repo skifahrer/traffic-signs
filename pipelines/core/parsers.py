@@ -1,11 +1,16 @@
 """Readers for the ways Wikipedia lists traffic signs.
 
 Each factory returns a parser: a function from page wikitext to
-`(entries, problems)`. A country picks one in its `Source`, passing the regular
-expression its sign codes follow and the local name of the File: namespace.
+`(entries, problems)`. A country picks one or more in its `Source`, passing the
+regular expression its sign codes follow and the local name of the File:
+namespace.
 
     gallery(...)    <gallery> lines:  File:<image>|<code> <name>
     wikitable(...)  table rows:       | [[File:<image>|120px]] || <code> <name> || ...
+
+A page laid out some other way needs a new parser: add a factory here when
+other countries could use it, or write the function in the country's own
+package (countries/<code>/parser.py) when it is specific to that page.
 """
 
 from __future__ import annotations
@@ -35,6 +40,7 @@ def gallery(code_pattern: str, namespaces: tuple[str, ...] = ()) -> Parser:
                 _add(entries, problems, match.group(1), match.group(2), caption_re)
         return entries, problems
 
+    parse.label = f"gallery({code_pattern})"
     return parse
 
 
@@ -54,6 +60,7 @@ def wikitable(code_pattern: str, namespaces: tuple[str, ...] = ()) -> Parser:
                     break
         return entries, problems
 
+    parse.label = f"wikitable({code_pattern})"
     return parse
 
 

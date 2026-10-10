@@ -1,8 +1,8 @@
 """What a country pipeline is made of.
 
 A country is described by one `Source`: where its list of signs lives on
-Wikipedia, how to read that page (a parser from `parsers.py`), and a folder
-with two CSV files:
+Wikipedia, how to read that page (one or more parsers: from `parsers.py`, or
+any function of its own), and a folder with two CSV files:
 
     translations.csv   code,category,slug,name_en,name_<lang>
     corrections.csv    file,code,name_<lang>,note
@@ -17,9 +17,9 @@ import csv
 import os
 import urllib.parse
 from dataclasses import dataclass
-from typing import Callable
+from typing import Callable, Sequence, Union
 
-from . import layout
+from . import layout, log
 
 
 @dataclass
@@ -42,6 +42,7 @@ class Translation:
     name_local: str  # the local name the English one was translated from
 
 
+# wikitext -> (entries found, problems such as rows without a sign code)
 Parser = Callable[[str], "tuple[list[Entry], list[str]]"]
 
 
@@ -53,8 +54,33 @@ class Source:
     language_name: str  # "Slovak"
     wiki: str  # "sk.wikipedia.org"
     page: str  # title of the list of signs on that wiki
-    parser: Parser
+    # One parser, or several when the page mixes layouts (e.g. galleries and
+    # tables); their entries are combined.
+    parser: Union[Parser, Sequence[Parser]]
     data_dir: str  # folder with translations.csv and corrections.csv
+
+    @property
+    def parsers(self) -> tuple[Parser, ...]:
+        return tuple(self.parser) if isinstance(self.parser, (list, tuple)) else (self.parser,)
+
+    def parse(self, wikitext: str) -> tuple[list[Entry], list[str]]:
+        """Run every parser and combine what they find.
+
+        A row that two parsers both read (same file and code) counts once.
+        """
+        entries: list[Entry] = []
+        problems: list[str] = []
+        seen: set[tuple[str, str]] = set()
+        for parser in self.parsers:
+            found, found_problems = parser(wikitext)
+            if len(self.parsers) > 1:
+                log.info(f"{_parser_name(parser)}: {len(found)} entries, {len(found_problems)} problems")
+            for entry in found:
+                if (entry.file, entry.code) not in seen:
+                    seen.add((entry.file, entry.code))
+                    entries.append(entry)
+            problems += found_problems
+        return entries, problems
 
     @property
     def pipeline(self) -> str:
@@ -117,6 +143,10 @@ class Source:
                 applied.append(f"{entry.code} {entry.name} → {code} {name}")
             entry.code, entry.name = code, name
         return applied
+
+
+def _parser_name(parser: Parser) -> str:
+    return getattr(parser, "label", None) or getattr(parser, "__name__", None) or repr(parser)
 
 
 def _read_csv(path: str) -> list[dict]:

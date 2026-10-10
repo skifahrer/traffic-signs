@@ -97,7 +97,7 @@ pipelines/
   __main__.py          command line: picks the countries, runs them, writes the report
   core/                shared by every country
     model.py           Source (a country's settings), Entry, Translation
-    parsers.py         readers for Wikipedia lists: gallery(), wikitable()
+    parsers.py         reusable page readers: gallery(), wikitable()
     sync.py            the sync engine: page → translations → images → signs/
     report.py          Markdown report for the job summary and the pull request
     layout.py          the signs/ folder structure
@@ -132,8 +132,24 @@ pipelines/
 
    The code pattern decides which rows count as signs; every row it does not
    match is reported as an error, so tune it (or add corrections) until
-   `--check` is clean. A page laid out differently gets a new parser in
-   `core/parsers.py`; nothing else changes.
+   `--check` is clean.
+
+   `parser` also takes a list, for a page that mixes layouts. The entries
+   found by all of them are combined, and a row two parsers both read counts
+   once:
+
+   ```python
+   parser=[
+       parsers.gallery(r"\d{3}", namespaces=("Plik",)),
+       parsers.wikitable(r"[A-Z]-\d+[a-z]?", namespaces=("Plik",)),
+       parse_bullet_list,  # countries/pl/parser.py: a function of its own
+   ],
+   ```
+
+   A parser is any function that takes the page's wikitext and returns
+   `(entries, problems)`. Write one in the country's own package when only
+   that page is laid out that way, or add a factory to `core/parsers.py` when
+   other countries can reuse it.
 2. Add `translations.csv` with the columns `code,category,slug,name_en,name_<language>`.
    Reuse an existing sign folder (`slug`) when the sign means the same, so the
    countries line up. Run `python3 -m pipelines <code> --check` to see which

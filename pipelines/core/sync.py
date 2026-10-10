@@ -101,7 +101,7 @@ def _read_signs(source: Source, client: Client, options: Options, result: Result
         wikitext = client.page_wikitext(source.wiki, source.page)
     log.info(f"{len(wikitext):,} characters of wikitext")
 
-    entries, problems = source.parser(wikitext)
+    entries, problems = source.parse(wikitext)
     log.info(f"{len(entries)} entries with a sign code")
     for problem in problems:
         result.error(problem)
