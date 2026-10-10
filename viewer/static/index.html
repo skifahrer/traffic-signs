@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Traffic signs</title>
+    <meta name="description" content="Road traffic signs from around the world, compared side by side across countries." />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 3 30 28H2Z' fill='%23fff' stroke='%23c4161c' stroke-width='4' stroke-linejoin='round'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="title">
+        <h1>Traffic signs</h1>
+        <p id="summary" class="muted">Loading…</p>
+      </div>
+      <form class="controls" id="controls" role="search" onsubmit="return false">
+        <label class="search">
+          <span class="visually-hidden">Search</span>
+          <input id="search" type="search" placeholder="Search name, code or folder…" autocomplete="off" />
+        </label>
+        <label>
+          <span class="visually-hidden">Type</span>
+          <select id="category"></select>
+        </label>
+        <fieldset id="countries" class="chips">
+          <legend class="visually-hidden">Countries to compare</legend>
+        </fieldset>
+        <label class="check"><input id="shared" type="checkbox" /> In 2+ countries</label>
+        <label class="check"><input id="withdrawn" type="checkbox" checked /> Withdrawn signs</label>
+      </form>
+    </header>
+
+    <main id="results" aria-live="polite"></main>
+
+    <dialog id="detail" aria-labelledby="detail-title">
+      <form method="dialog" class="close"><button aria-label="Close">×</button></form>
+      <div id="detail-body"></div>
+    </dialog>
+
+    <footer class="muted">
+      Data and code: <a href="https://github.com/skifahrer/traffic-signs">github.com/skifahrer/traffic-signs</a>.
+      Images come from Wikimedia Commons; each sign lists its author and licence.
+    </footer>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

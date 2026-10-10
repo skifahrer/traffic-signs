@@ -56,6 +56,28 @@ value, placement) is its own sign: `steep-descent-10-percent`,
 When you add a country, reuse an existing folder if the sign has the same
 meaning, so the countries line up.
 
+## Viewer
+
+**<https://skifahrer.github.io/traffic-signs/>** shows every sign with one
+column per country, so the same sign can be compared across countries. Filter
+by type, by country, by text (English or local name, national code, folder
+name), or show only signs that 2+ countries have. Click a sign to see each
+country's image large, with all its names, the national code, author, licence
+and earlier (archived) images. Every sign has its own link, e.g.
+`#warning/bend-left`.
+
+The site is built from `signs/` by `python3 -m viewer` (static page in
+[`viewer/static`](viewer/static), data in `data.json`) and published by
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml) on every change to
+`signs/` or the viewer on master. One-time setup: *Settings → Pages → Build and
+deployment → Source: GitHub Actions*.
+
+To preview it locally:
+
+```sh
+python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
+```
+
 ## Countries
 
 | Country | Signs | Source | Pipeline |
