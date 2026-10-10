@@ -1,0 +1,15 @@
+{
+  "sign": "detour-sign-lane-change-right-dangerous-goods",
+  "category": "information",
+  "country": "sk",
+  "code": "394-25-75",
+  "name": {
+    "en": "Detour sign (lane change, right, for vehicles carrying dangerous goods)",
+    "sk": "Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, pre vozidlá prepravujúce nebezpečné veci)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "394-25-75 Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, pre vozidlá prepravujúce nebezpečné veci).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "one-way-road-right",
+  "category": "information",
+  "country": "sk",
+  "code": "321-20",
+  "name": {
+    "en": "One-way road (right here)",
+    "sk": "Jednosmerná cesta (tu vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "321-20 Jednosmerná cesta (tu vpravo).svg"
+  }
+}

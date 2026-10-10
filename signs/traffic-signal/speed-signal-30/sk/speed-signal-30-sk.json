@@ -1,0 +1,15 @@
+{
+  "sign": "speed-signal-30",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "835-30",
+  "name": {
+    "en": "Speed signal (30 km/h)",
+    "sk": "Rýchlostný signál (30 kmh)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "835-30 Rýchlostný signál (30 kmh).svg"
+  }
+}

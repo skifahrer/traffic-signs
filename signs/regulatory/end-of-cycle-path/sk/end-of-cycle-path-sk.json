@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-cycle-path",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "225-60",
+  "name": {
+    "en": "End of cycle path",
+    "sk": "Koniec špeciálnej cestičky alebo pruhu (cyklistická komunikácia)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "225-60 Koniec špeciálnej cestičky alebo pruhu (cyklistická komunikácia).svg"
+  }
+}

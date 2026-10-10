@@ -1,0 +1,15 @@
+{
+  "sign": "green-arrow",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "730",
+  "name": {
+    "en": "Green arrow (supplementary device to traffic signals)",
+    "sk": "Zelená šípka (doplnkové zariadenie k svetelným signálom)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "730 Zelená šípka (doplnkové zariadenie k svetelným signálom).svg"
+  }
+}

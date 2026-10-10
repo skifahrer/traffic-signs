@@ -1,0 +1,15 @@
+{
+  "sign": "traffic-cone-300mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "703-30",
+  "name": {
+    "en": "Traffic cone (275 mm reflective area, 300 mm high)",
+    "sk": "Dopravný kužeľ (retroreflexný obraz 275 mm, celková výška kužeľa 300 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "703-30 Dopravný kužeľ (retroreflexný obraz 275 mm, celková výška kužeľa 300 mm).svg"
+  }
+}

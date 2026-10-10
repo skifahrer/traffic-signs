@@ -1,0 +1,15 @@
+{
+  "sign": "double-bend-left",
+  "category": "warning",
+  "country": "sk",
+  "code": "111-10",
+  "name": {
+    "en": "Double bend (first to the left)",
+    "sk": "Dvojitá zákruta (prvá vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "111-10 Dvojitá zákruta (prvá vľavo).svg"
+  }
+}

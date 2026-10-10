@@ -1,0 +1,15 @@
+{
+  "sign": "traffic-signals",
+  "category": "warning",
+  "country": "sk",
+  "code": "135",
+  "name": {
+    "en": "Traffic signals",
+    "sk": "Svetelné signály"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "135 Svetelné signály.svg"
+  }
+}

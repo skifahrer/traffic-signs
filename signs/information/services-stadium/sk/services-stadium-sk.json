@@ -1,0 +1,15 @@
+{
+  "sign": "services-stadium",
+  "category": "information",
+  "country": "sk",
+  "code": "330-76",
+  "name": {
+    "en": "Services (stadium, arena)",
+    "sk": "Služby (štadión, aréna)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "330-76 Služby (štadión, aréna).svg"
+  }
+}

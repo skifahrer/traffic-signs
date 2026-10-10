@@ -1,0 +1,15 @@
+{
+  "sign": "number-of-lanes-2",
+  "category": "information",
+  "country": "sk",
+  "code": "401-30",
+  "name": {
+    "en": "Number of lanes (2 lanes)",
+    "sk": "Počet jazdných pruhov (2 pruhy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "401-30 Počet jazdných pruhov (2 pruhy).svg"
+  }
+}

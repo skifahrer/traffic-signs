@@ -1,0 +1,15 @@
+{
+  "sign": "emergency-lay-by",
+  "category": "information",
+  "country": "sk",
+  "code": "335",
+  "name": {
+    "en": "Emergency lay-by",
+    "sk": "Núdzová odstavná plocha"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "335 Núdzová odstavná plocha.svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-length-12m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "244-12",
+  "name": {
+    "en": "Maximum length (12 m)",
+    "sk": "Maximálna dĺžka (12 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "244-12 Maximálna dĺžka (12 m).svg"
+  }
+}

@@ -1,0 +1,838 @@
+code,category,slug,name_en,name_sk
+101,warning,danger,Other danger,Nebezpečenstvo
+110-10,warning,bend-left,Bend (left),Zákruta (vľavo)
+110-20,warning,bend-right,Bend (right),Zákruta (vpravo)
+111-10,warning,double-bend-left,Double bend (first to the left),Dvojitá zákruta (prvá vľavo)
+111-20,warning,double-bend-right,Double bend (first to the right),Dvojitá zákruta (prvá vpravo)
+112-4,warning,steep-descent-4-percent,Steep descent (4%),Klesanie (4%)
+112-5,warning,steep-descent-5-percent,Steep descent (5%),Klesanie (5%)
+112-6,warning,steep-descent-6-percent,Steep descent (6%),Klesanie (6%)
+112-7,warning,steep-descent-7-percent,Steep descent (7%),Klesanie (7%)
+112-8,warning,steep-descent-8-percent,Steep descent (8%),Klesanie (8%)
+112-9,warning,steep-descent-9-percent,Steep descent (9%),Klesanie (9%)
+112-10,warning,steep-descent-10-percent,Steep descent (10%),Klesanie (10%)
+112-11,warning,steep-descent-11-percent,Steep descent (11%),Klesanie (11%)
+112-12,warning,steep-descent-12-percent,Steep descent (12%),Klesanie (12%)
+112-13,warning,steep-descent-13-percent,Steep descent (13%),Klesanie (13%)
+112-14,warning,steep-descent-14-percent,Steep descent (14%),Klesanie (14%)
+112-15,warning,steep-descent-15-percent,Steep descent (15%),Klesanie (15%)
+112-16,warning,steep-descent-16-percent,Steep descent (16%),Klesanie (16%)
+112-17,warning,steep-descent-17-percent,Steep descent (17%),Klesanie (17%)
+112-18,warning,steep-descent-18-percent,Steep descent (18%),Klesanie (18%)
+112-19,warning,steep-descent-19-percent,Steep descent (19%),Klesanie (19%)
+112-20,warning,steep-descent-20-percent,Steep descent (20%),Klesanie (20%)
+113-4,warning,steep-ascent-4-percent,Steep ascent (4%),Stúpanie (4%)
+113-5,warning,steep-ascent-5-percent,Steep ascent (5%),Stúpanie (5%)
+113-6,warning,steep-ascent-6-percent,Steep ascent (6%),Stúpanie (6%)
+113-7,warning,steep-ascent-7-percent,Steep ascent (7%),Stúpanie (7%)
+113-8,warning,steep-ascent-8-percent,Steep ascent (8%),Stúpanie (8%)
+113-9,warning,steep-ascent-9-percent,Steep ascent (9%),Stúpanie (9%)
+113-10,warning,steep-ascent-10-percent,Steep ascent (10%),Stúpanie (10%)
+113-11,warning,steep-ascent-11-percent,Steep ascent (11%),Stúpanie (11%)
+113-12,warning,steep-ascent-12-percent,Steep ascent (12%),Stúpanie (12%)
+113-13,warning,steep-ascent-13-percent,Steep ascent (13%),Stúpanie (13%)
+113-14,warning,steep-ascent-14-percent,Steep ascent (14%),Stúpanie (14%)
+113-15,warning,steep-ascent-15-percent,Steep ascent (15%),Stúpanie (15%)
+113-16,warning,steep-ascent-16-percent,Steep ascent (16%),Stúpanie (16%)
+113-17,warning,steep-ascent-17-percent,Steep ascent (17%),Stúpanie (17%)
+113-18,warning,steep-ascent-18-percent,Steep ascent (18%),Stúpanie (18%)
+113-19,warning,steep-ascent-19-percent,Steep ascent (19%),Stúpanie (19%)
+113-20,warning,steep-ascent-20-percent,Steep ascent (20%),Stúpanie (20%)
+114-20,warning,road-narrows-left,Road narrows (from the left),Zúžená vozovka (zľava)
+114-30,warning,road-narrows-both-sides,Road narrows (from both sides),Zúžená vozovka (z oboch strán)
+114-10,warning,road-narrows-right,Road narrows (from the right),Zúžená vozovka (sprava)
+115,warning,uneven-road,Uneven road,Nerovnosť vozovky
+116,warning,dangerous-verge,Dangerous verge,Nebezpečná krajnica
+120,warning,slippery-road,Slippery road,Nebezpečenstvo šmyku
+121,warning,snow-or-ice,Snow or ice,Sneh alebo poľadovica
+122,warning,loose-gravel,Loose gravel,Štrk na vozovke
+125-20,warning,fallen-rocks-left,Fallen rocks (from the left),Padnuté kamene (z ľavej strany)
+125-10,warning,fallen-rocks-right,Fallen rocks (from the right),Padnuté kamene (z pravej strany)
+126,warning,crosswind,Crosswind,Bočný vietor
+130,warning,queues,Queues likely,Kolóny
+131,warning,roadworks,Roadworks,Práca
+132,warning,two-way-traffic,Two-way traffic,Obojsmerná premávka
+135,warning,traffic-signals,Traffic signals,Svetelné signály
+136,warning,intersection,Intersection,Križovatka
+140-20,warning,pedestrians-left-side,Pedestrians (placed on the left),Chodci (umiestnenie vľavo)
+140-10,warning,pedestrians-right-side,Pedestrians (placed on the right),Chodci (umiestnenie vpravo)
+141-20,warning,children-left-side,Children (placed on the left),Deti (umiestnenie vľavo)
+141-10,warning,children-right-side,Children (placed on the right),Deti (umiestnenie vpravo)
+142-20,warning,pedestrian-crossing-ahead-left-side,Pedestrian crossing ahead (placed on the left),Priechod pre chodcov (výstražná značka; umiestnenie vľavo)
+142-10,warning,pedestrian-crossing-ahead-right-side,Pedestrian crossing ahead (placed on the right),Priechod pre chodcov (výstražná značka; umiestnenie vpravo)
+143-20,warning,cyclists-left-side,Cyclists (placed on the left),Cyklisti (umiestnenie vľavo)
+143-10,warning,cyclists-right-side,Cyclists (placed on the right),Cyklisti (umiestnenie vpravo)
+145-20,warning,wild-animals-left-side,Wild animals (placed on the left),Zver (umiestnenie vľavo)
+145-10,warning,wild-animals-right-side,Wild animals (placed on the right),Zver (umiestnenie vpravo)
+145-21,warning,wild-animals-small-left-side,"Wild animals (small animals, placed on the left)","Zver (drobné živočíchy, umiestnenie vľavo)"
+145-11,warning,wild-animals-small-right-side,"Wild animals (small animals, placed on the right)","Zver (drobné živočíchy, umiestnenie vpravo)"
+146-20,warning,farm-animals-left-side,Farm animals (placed on the left),Hospodárske zvieratá (umiestnenie vľavo)
+146-10,warning,farm-animals-right-side,Farm animals (placed on the right),Hospodárske zvieratá (umiestnenie vpravo)
+151,warning,level-crossing,Level crossing,Priecestie
+152-20,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)","Návesť pred priecestím (3-pruhová, umiestnenie vľavo)"
+152-10,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)","Návesť pred priecestím (3-pruhová, umiestnenie vpravo)"
+152-21,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)","Návesť pred priecestím (2-pruhová, umiestnenie vľavo)"
+152-11,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)","Návesť pred priecestím (2-pruhová, umiestnenie vpravo)"
+152-22,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)","Návesť pred priecestím (1-pruhová, umiestnenie vľavo)"
+152-12,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)","Návesť pred priecestím (1-pruhová, umiestnenie vpravo)"
+152-25,warning,level-crossing-countdown-marker-3-bars-with-distance-left-side,"Level crossing countdown marker (3 bars, with distance, placed on the left)","Návesť pred priecestím (3-pruhová so vzdialenosťou, umiestnenie vľavo)"
+152-15,warning,level-crossing-countdown-marker-3-bars-with-distance-right-side,"Level crossing countdown marker (3 bars, with distance, placed on the right)","Návesť pred priecestím (3-pruhová so vzdialenosťou, umiestnenie vpravo)"
+152-26,warning,level-crossing-countdown-marker-2-bars-with-distance-left-side,"Level crossing countdown marker (2 bars, with distance, placed on the left)","Návesť pred priecestím (2-pruhová so vzdialenosťou, umiestnenie vľavo)"
+152-16,warning,level-crossing-countdown-marker-2-bars-with-distance-right-side,"Level crossing countdown marker (2 bars, with distance, placed on the right)","Návesť pred priecestím (2-pruhová so vzdialenosťou, umiestnenie vpravo)"
+152-27,warning,level-crossing-countdown-marker-1-bar-with-distance-left-side,"Level crossing countdown marker (1 bar, with distance, placed on the left)","Návesť pred priecestím (1-pruhová so vzdialenosťou, umiestnenie vľavo)"
+152-17,warning,level-crossing-countdown-marker-1-bar-with-distance-right-side,"Level crossing countdown marker (1 bar, with distance, placed on the right)","Návesť pred priecestím (1-pruhová so vzdialenosťou, umiestnenie vpravo)"
+153-50,warning,level-crossing-cross-beside-road,Level crossing cross (beside the road),Výstražný kríž (vedľa vozovky)
+153-51,warning,level-crossing-cross-beside-road-electrified,"Level crossing cross (beside the road, electrified line)","Výstražný kríž (vedľa vozovky, elektrifikovaná trať)"
+153-52,warning,level-crossing-cross-above-road,Level crossing cross (above the road),Výstražný kríž (nad vozovkou)
+153-53,warning,level-crossing-cross-above-road-electrified,"Level crossing cross (above the road, electrified line)","Výstražný kríž (nad vozovkou, elektrifikovaná trať)"
+201,regulatory,give-way,Give way,Daj prednosť v jazde!
+202,regulatory,stop,"Stop, give way","Stoj, daj prednosť v jazde!"
+203,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Prednosť protiidúcich vozidiel
+210-10,regulatory,mandatory-direction-left,Mandatory direction (left),Prikázaný smer jazdy (vľavo)
+210-30,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Prikázaný smer jazdy (priamo)
+210-20,regulatory,mandatory-direction-right,Mandatory direction (right),Prikázaný smer jazdy (vpravo)
+210-31,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Prikázaný smer jazdy (priamo alebo vľavo)
+210-33,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Prikázaný smer jazdy (vľavo alebo vpravo)
+210-32,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Prikázaný smer jazdy (priamo alebo vpravo)
+211-10,regulatory,turn-left,Turn left,Prikázaný smer odbočenia (tu vľavo)
+211-20,regulatory,turn-right,Turn right,Prikázaný smer odbočenia (tu vpravo)
+212-10,regulatory,pass-on-left,Pass on the left,Prikázaný smer obchádzania (vľavo)
+212-20,regulatory,pass-on-right,Pass on the right,Prikázaný smer obchádzania (vpravo)
+213,regulatory,roundabout,Roundabout,Kruhový objazd
+215-10,regulatory,no-left-turn,No left turn,Zákaz odbočenia (vľavo)
+215-20,regulatory,no-right-turn,No right turn,Zákaz odbočenia (vpravo)
+216,regulatory,no-u-turn,No U-turn,Zákaz otáčania
+220,regulatory,footpath,Footpath,Cestička pre chodcov
+221,regulatory,cycle-path,Cycle path,Cyklistická komunikácia
+222,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Spoločná cestička pre chodcov a cyklistov
+223-50,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Oddelená cestička pre chodcov a cyklistov (cyklisti vľavo)
+223-51,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Oddelená cestička pre chodcov a cyklistov (cyklisti vpravo)
+224,regulatory,public-transport-lane,Public transport lane,Vyhradený pruh pre verejnú dopravu
+225-50,regulatory,end-of-footpath,End of footpath,Koniec špeciálnej cestičky alebo pruhu (cestička pre chodcov)
+225-60,regulatory,end-of-cycle-path,End of cycle path,Koniec špeciálnej cestičky alebo pruhu (cyklistická komunikácia)
+225-70,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Koniec špeciálnej cestičky alebo pruhu (spoločná cestička pre chodcov a cyklistov)
+225-80,regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),"Koniec špeciálnej cestičky alebo pruhu (oddelená cestička pre chodcov a cyklistov, cyklisti vľavo)"
+225-81,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),"Koniec špeciálnej cestičky alebo pruhu (oddelená cestička pre chodcov a cyklistov, cyklisti vpravo)"
+225-90,regulatory,end-of-public-transport-lane,End of public transport lane,Koniec špeciálnej cestičky alebo pruhu (vyhradený pruh pre verejnú dopravu)
+230,regulatory,no-entry,No entry,Zákaz vjazdu
+231,regulatory,no-vehicles,No vehicles,Zákaz vjazdu pre všetky vozidlá
+232,regulatory,no-motor-vehicles,No motor vehicles,Zákaz vjazdu pre všetky motorové vozidlá
+233-50,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Zákaz vjazdu pre (motorové vozidlá okrem motocyklov bez postranného vozíka)
+233-52,regulatory,no-goods-vehicles,No entry for goods vehicles,Zákaz vjazdu pre (nákladné vozidlá)
+233-53,regulatory,no-buses,No entry for buses and trolleybuses,Zákaz vjazdu pre (autobusy a trolejbusy)
+233-55,regulatory,no-special-motor-vehicles,No entry for special motor vehicles,Zákaz vjazdu pre (zvláštne motorové vozidlá)
+233-56,regulatory,no-motorcycles,No entry for motorcycles,Zákaz vjazdu pre (motocykle)
+233-57,regulatory,no-mopeds,No entry for mopeds,Zákaz vjazdu pre (mopedy)
+233-58,regulatory,no-bicycles,No entry for bicycles,Zákaz vjazdu pre (bicykle)
+233-60,regulatory,no-pedestrians,No entry for pedestrians,Zákaz vstupu pre (chodcov)
+233-63,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Zákaz vjazdu pre (záprahové vozidlá)
+233-64,regulatory,no-riders,No entry for riders on animals,Zákaz vjazdu pre (jazdcov na zvierati)
+233-72,regulatory,no-trailers,No entry for trailers,Zákaz vjazdu pre (prípojné vozidlá)
+233-77,regulatory,no-motorhomes,No entry for motorhomes,Zákaz vjazdu pre (obytné automobily)
+233-78,regulatory,no-caravans,No entry for caravans,Zákaz vjazdu pre (obytné prívesy)
+233-85,regulatory,no-skates-skateboards-scooters,"No entry for skates, skateboards, scooters or similar sports equipment","Zákaz vstupu pre (osoby pohybujúce sa na korčuliach, skejtborde, kolobežke alebo obdobnom športovom vybavení)"
+234,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Zákaz vjazdu pre vozidlá prepravujúce (nebezpečné veci)
+235,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,"Zákaz vjazdu pre vozidlá prepravujúce (náklad, ktorý môže spôsobiť znečistenie vody)"
+"240-2,8",regulatory,maximum-weight-2-8t,Maximum weight (2.8 t),"Maximálna hmotnosť (2,8 t)"
+"240-3,5",regulatory,maximum-weight-3-5t,Maximum weight (3.5 t),"Maximálna hmotnosť (3,5 t)"
+240-4,regulatory,maximum-weight-4t,Maximum weight (4 t),Maximálna hmotnosť (4 t)
+"240-4,5",regulatory,maximum-weight-4-5t,Maximum weight (4.5 t),"Maximálna hmotnosť (4,5 t)"
+240-5,regulatory,maximum-weight-5t,Maximum weight (5 t),Maximálna hmotnosť (5 t)
+"240-5,5",regulatory,maximum-weight-5-5t,Maximum weight (5.5 t),"Maximálna hmotnosť (5,5 t)"
+240-6,regulatory,maximum-weight-6t,Maximum weight (6 t),Maximálna hmotnosť (6 t)
+"240-6,5",regulatory,maximum-weight-6-5t,Maximum weight (6.5 t),"Maximálna hmotnosť (6,5 t)"
+240-7,regulatory,maximum-weight-7t,Maximum weight (7 t),Maximálna hmotnosť (7 t)
+"240-7,5",regulatory,maximum-weight-7-5t,Maximum weight (7.5 t),"Maximálna hmotnosť (7,5 t)"
+240-8,regulatory,maximum-weight-8t,Maximum weight (8 t),Maximálna hmotnosť (8 t)
+"240-8,5",regulatory,maximum-weight-8-5t,Maximum weight (8.5 t),"Maximálna hmotnosť (8,5 t)"
+240-9,regulatory,maximum-weight-9t,Maximum weight (9 t),Maximálna hmotnosť (9 t)
+"240-9,5",regulatory,maximum-weight-9-5t,Maximum weight (9.5 t),"Maximálna hmotnosť (9,5 t)"
+240-10,regulatory,maximum-weight-10t,Maximum weight (10 t),Maximálna hmotnosť (10 t)
+240-11,regulatory,maximum-weight-11t,Maximum weight (11 t),Maximálna hmotnosť (11 t)
+240-12,regulatory,maximum-weight-12t,Maximum weight (12 t),Maximálna hmotnosť (12 t)
+240-13,regulatory,maximum-weight-13t,Maximum weight (13 t),Maximálna hmotnosť (13 t)
+240-14,regulatory,maximum-weight-14t,Maximum weight (14 t),Maximálna hmotnosť (14 t)
+240-15,regulatory,maximum-weight-15t,Maximum weight (15 t),Maximálna hmotnosť (15 t)
+240-16,regulatory,maximum-weight-16t,Maximum weight (16 t),Maximálna hmotnosť (16 t)
+240-17,regulatory,maximum-weight-17t,Maximum weight (17 t),Maximálna hmotnosť (17 t)
+240-18,regulatory,maximum-weight-18t,Maximum weight (18 t),Maximálna hmotnosť (18 t)
+240-19,regulatory,maximum-weight-19t,Maximum weight (19 t),Maximálna hmotnosť (19 t)
+240-20,regulatory,maximum-weight-20t,Maximum weight (20 t),Maximálna hmotnosť (20 t)
+240-21,regulatory,maximum-weight-21t,Maximum weight (21 t),Maximálna hmotnosť (21 t)
+240-22,regulatory,maximum-weight-22t,Maximum weight (22 t),Maximálna hmotnosť (22 t)
+240-23,regulatory,maximum-weight-23t,Maximum weight (23 t),Maximálna hmotnosť (23 t)
+240-24,regulatory,maximum-weight-24t,Maximum weight (24 t),Maximálna hmotnosť (24 t)
+240-25,regulatory,maximum-weight-25t,Maximum weight (25 t),Maximálna hmotnosť (25 t)
+240-26,regulatory,maximum-weight-26t,Maximum weight (26 t),Maximálna hmotnosť (26 t)
+240-27,regulatory,maximum-weight-27t,Maximum weight (27 t),Maximálna hmotnosť (27 t)
+240-28,regulatory,maximum-weight-28t,Maximum weight (28 t),Maximálna hmotnosť (28 t)
+240-29,regulatory,maximum-weight-29t,Maximum weight (29 t),Maximálna hmotnosť (29 t)
+240-30,regulatory,maximum-weight-30t,Maximum weight (30 t),Maximálna hmotnosť (30 t)
+240-31,regulatory,maximum-weight-31t,Maximum weight (31 t),Maximálna hmotnosť (31 t)
+240-32,regulatory,maximum-weight-32t,Maximum weight (32 t),Maximálna hmotnosť (32 t)
+240-33,regulatory,maximum-weight-33t,Maximum weight (33 t),Maximálna hmotnosť (33 t)
+240-34,regulatory,maximum-weight-34t,Maximum weight (34 t),Maximálna hmotnosť (34 t)
+240-35,regulatory,maximum-weight-35t,Maximum weight (35 t),Maximálna hmotnosť (35 t)
+240-36,regulatory,maximum-weight-36t,Maximum weight (36 t),Maximálna hmotnosť (36 t)
+240-37,regulatory,maximum-weight-37t,Maximum weight (37 t),Maximálna hmotnosť (37 t)
+240-38,regulatory,maximum-weight-38t,Maximum weight (38 t),Maximálna hmotnosť (38 t)
+240-39,regulatory,maximum-weight-39t,Maximum weight (39 t),Maximálna hmotnosť (39 t)
+240-40,regulatory,maximum-weight-40t,Maximum weight (40 t),Maximálna hmotnosť (40 t)
+240-41,regulatory,maximum-weight-41t,Maximum weight (41 t),Maximálna hmotnosť (41 t)
+240-42,regulatory,maximum-weight-42t,Maximum weight (42 t),Maximálna hmotnosť (42 t)
+240-43,regulatory,maximum-weight-43t,Maximum weight (43 t),Maximálna hmotnosť (43 t)
+241-7,regulatory,maximum-axle-weight-7t,Maximum axle weight (7 t),Maximálna hmotnosť na nápravu (7 t)
+241-8,regulatory,maximum-axle-weight-8t,Maximum axle weight (8 t),Maximálna hmotnosť na nápravu (8 t)
+241-9,regulatory,maximum-axle-weight-9t,Maximum axle weight (9 t),Maximálna hmotnosť na nápravu (9 t)
+241-10,regulatory,maximum-axle-weight-10t,Maximum axle weight (10 t),Maximálna hmotnosť na nápravu (10 t)
+241-11,regulatory,maximum-axle-weight-11t,Maximum axle weight (11 t),Maximálna hmotnosť na nápravu (11 t)
+"242-1,8",regulatory,maximum-width-1-8m,Maximum width (1.8 m),"Maximálna šírka (1,8 m)"
+"242-1,9",regulatory,maximum-width-1-9m,Maximum width (1.9 m),"Maximálna šírka (1,9 m)"
+242-2,regulatory,maximum-width-2m,Maximum width (2 m),Maximálna šírka (2 m)
+"242-2,1",regulatory,maximum-width-2-1m,Maximum width (2.1 m),"Maximálna šírka (2,1 m)"
+"242-2,2",regulatory,maximum-width-2-2m,Maximum width (2.2 m),"Maximálna šírka (2,2 m)"
+"242-2,3",regulatory,maximum-width-2-3m,Maximum width (2.3 m),"Maximálna šírka (2,3 m)"
+"242-2,4",regulatory,maximum-width-2-4m,Maximum width (2.4 m),"Maximálna šírka (2,4 m)"
+"242-2,5",regulatory,maximum-width-2-5m,Maximum width (2.5 m),"Maximálna šírka (2,5 m)"
+"243-1,8",regulatory,maximum-height-1-8m,Maximum height (1.8 m),"Maximálna výška (1,8 m)"
+"243-1,9",regulatory,maximum-height-1-9m,Maximum height (1.9 m),"Maximálna výška (1,9 m)"
+243-2,regulatory,maximum-height-2m,Maximum height (2 m),Maximálna výška (2 m)
+"243-2,1",regulatory,maximum-height-2-1m,Maximum height (2.1 m),"Maximálna výška (2,1 m)"
+"243-2,2",regulatory,maximum-height-2-2m,Maximum height (2.2 m),"Maximálna výška (2,2 m)"
+"243-2,3",regulatory,maximum-height-2-3m,Maximum height (2.3 m),"Maximálna výška (2,3 m)"
+"243-2,4",regulatory,maximum-height-2-4m,Maximum height (2.4 m),"Maximálna výška (2,4 m)"
+"243-2,5",regulatory,maximum-height-2-5m,Maximum height (2.5 m),"Maximálna výška (2,5 m)"
+"243-2,6",regulatory,maximum-height-2-6m,Maximum height (2.6 m),"Maximálna výška (2,6 m)"
+"243-2,7",regulatory,maximum-height-2-7m,Maximum height (2.7 m),"Maximálna výška (2,7 m)"
+"243-2,8",regulatory,maximum-height-2-8m,Maximum height (2.8 m),"Maximálna výška (2,8 m)"
+"243-2,9",regulatory,maximum-height-2-9m,Maximum height (2.9 m),"Maximálna výška (2,9 m)"
+243-3,regulatory,maximum-height-3m,Maximum height (3 m),Maximálna výška (3 m)
+"243-3,1",regulatory,maximum-height-3-1m,Maximum height (3.1 m),"Maximálna výška (3,1 m)"
+"243-3,2",regulatory,maximum-height-3-2m,Maximum height (3.2 m),"Maximálna výška (3,2 m)"
+"243-3,3",regulatory,maximum-height-3-3m,Maximum height (3.3 m),"Maximálna výška (3,3 m)"
+"243-3,4",regulatory,maximum-height-3-4m,Maximum height (3.4 m),"Maximálna výška (3,4 m)"
+"243-3,5",regulatory,maximum-height-3-5m,Maximum height (3.5 m),"Maximálna výška (3,5 m)"
+"243-3,6",regulatory,maximum-height-3-6m,Maximum height (3.6 m),"Maximálna výška (3,6 m)"
+"243-3,7",regulatory,maximum-height-3-7m,Maximum height (3.7 m),"Maximálna výška (3,7 m)"
+"243-3,8",regulatory,maximum-height-3-8m,Maximum height (3.8 m),"Maximálna výška (3,8 m)"
+"243-3,9",regulatory,maximum-height-3-9m,Maximum height (3.9 m),"Maximálna výška (3,9 m)"
+243-4,regulatory,maximum-height-4m,Maximum height (4 m),Maximálna výška (4 m)
+"243-4,1",regulatory,maximum-height-4-1m,Maximum height (4.1 m),"Maximálna výška (4,1 m)"
+244-7,regulatory,maximum-length-7m,Maximum length (7 m),Maximálna dĺžka (7 m)
+244-8,regulatory,maximum-length-8m,Maximum length (8 m),Maximálna dĺžka (8 m)
+244-9,regulatory,maximum-length-9m,Maximum length (9 m),Maximálna dĺžka (9 m)
+244-10,regulatory,maximum-length-10m,Maximum length (10 m),Maximálna dĺžka (10 m)
+244-11,regulatory,maximum-length-11m,Maximum length (11 m),Maximálna dĺžka (11 m)
+244-12,regulatory,maximum-length-12m,Maximum length (12 m),Maximálna dĺžka (12 m)
+244-13,regulatory,maximum-length-13m,Maximum length (13 m),Maximálna dĺžka (13 m)
+244-14,regulatory,maximum-length-14m,Maximum length (14 m),Maximálna dĺžka (14 m)
+244-15,regulatory,maximum-length-15m,Maximum length (15 m),Maximálna dĺžka (15 m)
+244-16,regulatory,maximum-length-16m,Maximum length (16 m),Maximálna dĺžka (16 m)
+244-17,regulatory,maximum-length-17m,Maximum length (17 m),Maximálna dĺžka (17 m)
+244-18,regulatory,maximum-length-18m,Maximum length (18 m),Maximálna dĺžka (18 m)
+244-19,regulatory,maximum-length-19m,Maximum length (19 m),Maximálna dĺžka (19 m)
+244-20,regulatory,maximum-length-20m,Maximum length (20 m),Maximálna dĺžka (20 m)
+244-21,regulatory,maximum-length-21m,Maximum length (21 m),Maximálna dĺžka (21 m)
+245-50,regulatory,customs-stop,Customs stop,Povinné zastavenie vozidla (CLO - ZOLL)
+245-51,regulatory,police-check-stop,Police check stop,Povinné zastavenie vozidla (Polícia - kontrola)
+248,regulatory,low-emission-zone,Low emission zone,Nízkoemisná zóna
+249,regulatory,end-of-low-emission-zone,End of low emission zone,Koniec nízkoemisnej zóny
+250-30,regulatory,minimum-speed-30,Minimum speed (30 km/h),Najnižšia dovolená rýchlosť (30 km/h)
+250-40,regulatory,minimum-speed-40,Minimum speed (40 km/h),Najnižšia dovolená rýchlosť (40 km/h)
+250-50,regulatory,minimum-speed-50,Minimum speed (50 km/h),Najnižšia dovolená rýchlosť (50 km/h)
+250-60,regulatory,minimum-speed-60,Minimum speed (60 km/h),Najnižšia dovolená rýchlosť (60 km/h)
+250-70,regulatory,minimum-speed-70,Minimum speed (70 km/h),Najnižšia dovolená rýchlosť (70 km/h)
+250-80,regulatory,minimum-speed-80,Minimum speed (80 km/h),Najnižšia dovolená rýchlosť (80 km/h)
+250-90,regulatory,minimum-speed-90,Minimum speed (90 km/h),Najnižšia dovolená rýchlosť (90 km/h)
+250-100,regulatory,minimum-speed-100,Minimum speed (100 km/h),Najnižšia dovolená rýchlosť (100 km/h)
+260-30,regulatory,end-of-minimum-speed-30,End of minimum speed (30 km/h),Koniec najnižšej dovolenej rýchlosti (30 km/h)
+260-40,regulatory,end-of-minimum-speed-40,End of minimum speed (40 km/h),Koniec najnižšej dovolenej rýchlosti (40 km/h)
+260-50,regulatory,end-of-minimum-speed-50,End of minimum speed (50 km/h),Koniec najnižšej dovolenej rýchlosti (50 km/h)
+260-60,regulatory,end-of-minimum-speed-60,End of minimum speed (60 km/h),Koniec najnižšej dovolenej rýchlosti (60 km/h)
+260-70,regulatory,end-of-minimum-speed-70,End of minimum speed (70 km/h),Koniec najnižšej dovolenej rýchlosti (70 km/h)
+260-80,regulatory,end-of-minimum-speed-80,End of minimum speed (80 km/h),Koniec najnižšej dovolenej rýchlosti (80 km/h)
+260-90,regulatory,end-of-minimum-speed-90,End of minimum speed (90 km/h),Koniec najnižšej dovolenej rýchlosti (90 km/h)
+260-100,regulatory,end-of-minimum-speed-100,End of minimum speed (100 km/h),Koniec najnižšej dovolenej rýchlosti (100 km/h)
+251,regulatory,snow-chains-required,Snow chains required,Snehové reťaze
+261,regulatory,end-of-snow-chains-required,End of snow chains required,Koniec snehových reťazí
+253-10,regulatory,speed-limit-10,Speed limit (10 km/h),Najvyššia dovolená rýchlosť (10 km/h)
+253-20,regulatory,speed-limit-20,Speed limit (20 km/h),Najvyššia dovolená rýchlosť (20 km/h)
+253-30,regulatory,speed-limit-30,Speed limit (30 km/h),Najvyššia dovolená rýchlosť (30 km/h)
+253-40,regulatory,speed-limit-40,Speed limit (40 km/h),Najvyššia dovolená rýchlosť (40 km/h)
+253-50,regulatory,speed-limit-50,Speed limit (50 km/h),Najvyššia dovolená rýchlosť (50 km/h)
+253-60,regulatory,speed-limit-60,Speed limit (60 km/h),Najvyššia dovolená rýchlosť (60 km/h)
+253-70,regulatory,speed-limit-70,Speed limit (70 km/h),Najvyššia dovolená rýchlosť (70 km/h)
+253-80,regulatory,speed-limit-80,Speed limit (80 km/h),Najvyššia dovolená rýchlosť (80 km/h)
+253-90,regulatory,speed-limit-90,Speed limit (90 km/h),Najvyššia dovolená rýchlosť (90 km/h)
+253-100,regulatory,speed-limit-100,Speed limit (100 km/h),Najvyššia dovolená rýchlosť (100 km/h)
+253-110,regulatory,speed-limit-110,Speed limit (110 km/h),Najvyššia dovolená rýchlosť (110 km/h)
+253-120,regulatory,speed-limit-120,Speed limit (120 km/h),Najvyššia dovolená rýchlosť (120 km/h)
+253-130,regulatory,speed-limit-130,Speed limit (130 km/h),Najvyššia dovolená rýchlosť (130 km/h)
+253-140,regulatory,speed-limit-140,Speed limit (140 km/h),Najvyššia dovolená rýchlosť (140 km/h)
+263-10,regulatory,end-of-speed-limit-10,End of speed limit (10 km/h),Koniec najvyššej dovolenej rýchlosti (10 km/h)
+263-20,regulatory,end-of-speed-limit-20,End of speed limit (20 km/h),Koniec najvyššej dovolenej rýchlosti (20 km/h)
+263-30,regulatory,end-of-speed-limit-30,End of speed limit (30 km/h),Koniec najvyššej dovolenej rýchlosti (30 km/h)
+263-40,regulatory,end-of-speed-limit-40,End of speed limit (40 km/h),Koniec najvyššej dovolenej rýchlosti (40 km/h)
+263-50,regulatory,end-of-speed-limit-50,End of speed limit (50 km/h),Koniec najvyššej dovolenej rýchlosti (50 km/h)
+263-60,regulatory,end-of-speed-limit-60,End of speed limit (60 km/h),Koniec najvyššej dovolenej rýchlosti (60 km/h)
+263-70,regulatory,end-of-speed-limit-70,End of speed limit (70 km/h),Koniec najvyššej dovolenej rýchlosti (70 km/h)
+263-80,regulatory,end-of-speed-limit-80,End of speed limit (80 km/h),Koniec najvyššej dovolenej rýchlosti (80 km/h)
+263-90,regulatory,end-of-speed-limit-90,End of speed limit (90 km/h),Koniec najvyššej dovolenej rýchlosti (90 km/h)
+263-100,regulatory,end-of-speed-limit-100,End of speed limit (100 km/h),Koniec najvyššej dovolenej rýchlosti (100 km/h)
+263-110,regulatory,end-of-speed-limit-110,End of speed limit (110 km/h),Koniec najvyššej dovolenej rýchlosti (110 km/h)
+263-120,regulatory,end-of-speed-limit-120,End of speed limit (120 km/h),Koniec najvyššej dovolenej rýchlosti (120 km/h)
+263-130,regulatory,end-of-speed-limit-130,End of speed limit (130 km/h),Koniec najvyššej dovolenej rýchlosti (130 km/h)
+263-140,regulatory,end-of-speed-limit-140,End of speed limit (140 km/h),Koniec najvyššej dovolenej rýchlosti (140 km/h)
+254,regulatory,no-overtaking,No overtaking,Zákaz predchádzania
+255,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Zákaz predchádzania pre nákladné vozidlá
+264,regulatory,end-of-no-overtaking,End of no overtaking,Koniec zákazu predchádzania
+265,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Koniec zákazu predchádzania pre nákladné vozidlá
+256-25,regulatory,minimum-distance-25m,Minimum distance between vehicles (25 m),Minimálna vzdialenosť medzi vozidlami (25 m)
+256-30,regulatory,minimum-distance-30m,Minimum distance between vehicles (30 m),Minimálna vzdialenosť medzi vozidlami (30 m)
+256-40,regulatory,minimum-distance-40m,Minimum distance between vehicles (40 m),Minimálna vzdialenosť medzi vozidlami (40 m)
+256-50,regulatory,minimum-distance-50m,Minimum distance between vehicles (50 m),Minimálna vzdialenosť medzi vozidlami (50 m)
+256-75,regulatory,minimum-distance-75m,Minimum distance between vehicles (75 m),Minimálna vzdialenosť medzi vozidlami (75 m)
+256-100,regulatory,minimum-distance-100m,Minimum distance between vehicles (100 m),Minimálna vzdialenosť medzi vozidlami (100 m)
+256-125,regulatory,minimum-distance-125m,Minimum distance between vehicles (125 m),Minimálna vzdialenosť medzi vozidlami (125 m)
+256-150,regulatory,minimum-distance-150m,Minimum distance between vehicles (150 m),Minimálna vzdialenosť medzi vozidlami (150 m)
+267,regulatory,end-of-all-restrictions,End of all restrictions,Koniec viacerých zákazov
+268-20,regulatory,speed-limit-zone-20,Speed limit zone (20 km/h),Zóna najvyššej dovolenej rýchlosti (20 km/h)
+268-30,regulatory,speed-limit-zone-30,Speed limit zone (30 km/h),Zóna najvyššej dovolenej rýchlosti (30 km/h)
+269-20,regulatory,end-of-speed-limit-zone-20,End of speed limit zone (20 km/h),Koniec zóny najvyššej dovolenej rýchlosti (20 km/h)
+269-30,regulatory,end-of-speed-limit-zone-30,End of speed limit zone (30 km/h),Koniec zóny najvyššej dovolenej rýchlosti (30 km/h)
+270,regulatory,no-stopping,No stopping,Zákaz zastavenia
+270-20,regulatory,no-stopping-right-end,"No stopping (placed at an angle or parallel, right, end)",Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vpravo: koniec platnosti)
+270-30,regulatory,no-stopping-right-continued,"No stopping (placed at an angle or parallel, right, continuation)",Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vpravo: priebeh platnosti)
+270-10,regulatory,no-stopping-right-start,"No stopping (placed at an angle or parallel, right, start)",Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vpravo: začiatok platnosti)
+270-21,regulatory,no-stopping-left-start,"No stopping (placed at an angle or parallel, left, start)",Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vľavo: začiatok platnosti)
+270-31,regulatory,no-stopping-left-continued,"No stopping (placed at an angle or parallel, left, continuation)",Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vľavo: priebeh platnosti)
+270-11,regulatory,no-stopping-left-end,"No stopping (placed at an angle or parallel, left, end)",Zákaz zastavenia (umiestnenie šikmo/pozdĺžne vľavo: koniec platnosti)
+271,regulatory,no-parking,No parking,Zákaz státia
+271-20,regulatory,no-parking-right-end,"No parking (placed at an angle or parallel, right, end)",Zákaz státia (umiestnenie šikmo/pozdĺžne vpravo: koniec platnosti)
+271-30,regulatory,no-parking-right-continued,"No parking (placed at an angle or parallel, right, continuation)",Zákaz státia (umiestnenie šikmo/pozdĺžne vpravo: priebeh platnosti)
+271-10,regulatory,no-parking-right-start,"No parking (placed at an angle or parallel, right, start)",Zákaz státia (umiestnenie šikmo/pozdĺžne vpravo: začiatok platnosti)
+271-21,regulatory,no-parking-left-start,"No parking (placed at an angle or parallel, left, start)",Zákaz státia (umiestnenie šikmo/pozdĺžne vľavo: začiatok platnosti)
+271-31,regulatory,no-parking-left-continued,"No parking (placed at an angle or parallel, left, continuation)",Zákaz státia (umiestnenie šikmo/pozdĺžne vľavo: priebeh platnosti)
+271-11,regulatory,no-parking-left-end,"No parking (placed at an angle or parallel, left, end)",Zákaz státia (umiestnenie šikmo/pozdĺžne vľavo: koniec platnosti)
+272,regulatory,parking,Parking,Parkovanie
+272-20,regulatory,parking-right-end-left-start,"Parking (placed at an angle or parallel: right end, left start)","Parkovanie (umiestnenie šikmo/pozdĺžne vpravo: koniec platnosti, vľavo: začiatok platnosti)"
+272-30,regulatory,parking-continued,Parking (placed at an angle or parallel: continuation),Parkovanie (umiestnenie šikmo/pozdĺžne vpravo alebo vľavo: priebeh platnosti)
+272-10,regulatory,parking-right-start-left-end,"Parking (placed at an angle or parallel: right start, left end)","Parkovanie (umiestnenie šikmo/pozdĺžne vpravo: začiatok platnosti, vľavo: koniec platnosti)"
+272-50,regulatory,parking-garage,Parking (car park building),Parkovanie (parkovacia garáž alebo parkovací dom)
+273-50,regulatory,pavement-parking-partial-left,"Parking on the pavement (partially, placed at an angle or parallel, left)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vľavo)"
+273-51,regulatory,pavement-parking-partial-left-start,"Parking on the pavement (partially, placed at an angle or parallel, left, start)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vľavo: začiatok platnosti)"
+273-53,regulatory,pavement-parking-partial-left-continued,"Parking on the pavement (partially, placed at an angle or parallel, left, continuation)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vľavo: priebeh platnosti)"
+273-52,regulatory,pavement-parking-partial-left-end,"Parking on the pavement (partially, placed at an angle or parallel, left, end)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vľavo: koniec platnosti)"
+273-57,regulatory,pavement-parking-partial-right-end,"Parking on the pavement (partially, placed at an angle or parallel, right, end)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vpravo: koniec platnosti)"
+273-58,regulatory,pavement-parking-partial-right-continued,"Parking on the pavement (partially, placed at an angle or parallel, right, continuation)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vpravo: priebeh platnosti)"
+273-56,regulatory,pavement-parking-partial-right-start,"Parking on the pavement (partially, placed at an angle or parallel, right, start)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vpravo: začiatok platnosti)"
+273-55,regulatory,pavement-parking-partial-right,"Parking on the pavement (partially, placed at an angle or parallel, right)","Parkovanie na chodníku (čiastočne, umiestnenie šikmo/pozdĺžne vpravo)"
+273-60,regulatory,pavement-parking-full-left,"Parking on the pavement (fully, placed at an angle or parallel, left)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vľavo)"
+273-61,regulatory,pavement-parking-full-left-start,"Parking on the pavement (fully, placed at an angle or parallel, left, start)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vľavo: začiatok platnosti)"
+273-63,regulatory,pavement-parking-full-left-continued,"Parking on the pavement (fully, placed at an angle or parallel, left, continuation)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vľavo: priebeh platnosti)"
+273-62,regulatory,pavement-parking-full-left-end,"Parking on the pavement (fully, placed at an angle or parallel, left, end)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vľavo: koniec platnosti)"
+273-67,regulatory,pavement-parking-full-right-end,"Parking on the pavement (fully, placed at an angle or parallel, right, end)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vpravo: koniec platnosti)"
+273-68,regulatory,pavement-parking-full-right-continued,"Parking on the pavement (fully, placed at an angle or parallel, right, continuation)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vpravo: priebeh platnosti)"
+273-66,regulatory,pavement-parking-full-right-start,"Parking on the pavement (fully, placed at an angle or parallel, right, start)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vpravo: začiatok platnosti)"
+273-65,regulatory,pavement-parking-full-right,"Parking on the pavement (fully, placed at an angle or parallel, right)","Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vpravo)"
+273-70,regulatory,pavement-parking-perpendicular-partial-left,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, left)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vľavo)"
+273-71,regulatory,pavement-parking-perpendicular-partial-left-start,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, left, start)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vľavo, začiatok platnosti)"
+273-73,regulatory,pavement-parking-perpendicular-partial-left-continued,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, left, continuation)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vľavo, priebeh platnosti)"
+273-72,regulatory,pavement-parking-perpendicular-partial-left-end,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, left, end)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vľavo, koniec platnosti)"
+273-77,regulatory,pavement-parking-perpendicular-partial-right-end,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, right, end)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vpravo, koniec platnosti)"
+273-78,regulatory,pavement-parking-perpendicular-partial-right-continued,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, right, continuation)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vpravo, priebeh platnosti)"
+273-76,regulatory,pavement-parking-perpendicular-partial-right-start,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, right, start)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vpravo, začiatok platnosti)"
+273-75,regulatory,pavement-parking-perpendicular-partial-right,"Parking on the pavement (perpendicular, partially, placed at an angle or parallel, right)","Parkovanie na chodníku (priečne čiastočne, umiestnenie šikmo-pozdĺžne vpravo)"
+273-80,regulatory,pavement-parking-perpendicular-full-left,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, left)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vľavo)"
+273-81,regulatory,pavement-parking-perpendicular-full-left-start,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, left, start)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vľavo, začiatok platnosti)"
+273-83,regulatory,pavement-parking-perpendicular-full-left-continued,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, left, continuation)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vľavo, priebeh platnosti)"
+273-82,regulatory,pavement-parking-perpendicular-full-left-end,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, left, end)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vľavo, koniec platnosti)"
+273-87,regulatory,pavement-parking-perpendicular-full-right-end,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, right, end)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vpravo, koniec platnosti)"
+273-88,regulatory,pavement-parking-perpendicular-full-right-continued,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, right, continuation)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vpravo, priebeh platnosti)"
+273-86,regulatory,pavement-parking-perpendicular-full-right-start,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, right, start)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vpravo, začiatok platnosti)"
+273-85,regulatory,pavement-parking-perpendicular-full-right,"Parking on the pavement (perpendicular, fully, placed at an angle or parallel, right)","Parkovanie na chodníku (priečne úplne, umiestnenie šikmo-pozdĺžne vpravo)"
+275,regulatory,no-parking-zone,No parking zone,Zóna zákazu státia
+276,regulatory,end-of-no-parking-zone,End of no parking zone,Koniec zóny zákazu státia
+277,regulatory,parking-zone,Parking zone,Parkovacia zóna
+278,regulatory,end-of-parking-zone,End of parking zone,Koniec parkovacej zóny
+280-50,regulatory,hard-shoulder-running-2-lanes,Hard shoulder running (2 lanes and hard shoulder),Jazda po krajnici (2 pruhy + krajnica)
+280-51,regulatory,hard-shoulder-running-3-lanes,Hard shoulder running (3 lanes and hard shoulder),Jazda po krajnici (3 pruhy + krajnica)
+281-50,regulatory,leave-hard-shoulder-2-lanes,Leave the hard shoulder (2 lanes and hard shoulder),Opustite krajnicu (2 pruhy + krajnica)
+281-51,regulatory,leave-hard-shoulder-3-lanes,Leave the hard shoulder (3 lanes and hard shoulder),Opustite krajnicu (3 pruhy + krajnica)
+282-50,regulatory,end-of-hard-shoulder-running-2-lanes,End of hard shoulder running (2 lanes and hard shoulder),Koniec jazdy po krajnici (2 pruhy + krajnica)
+282-51,regulatory,end-of-hard-shoulder-running-3-lanes,End of hard shoulder running (3 lanes and hard shoulder),Koniec jazdy po krajnici (3 pruhy + krajnica)
+283-50,regulatory,obstacle-bypass-on-hard-shoulder-1-lane,Pass the obstacle on the hard shoulder (1 lane),Obchádzanie prekážky po krajnici (1 pruhy)
+283-51,regulatory,obstacle-bypass-on-hard-shoulder-2-lanes,Pass the obstacle on the hard shoulder (2 lanes),Obchádzanie prekážky po krajnici (2 pruhy)
+301,information,priority-intersection,Intersection with priority,Križovatka s prednosťou v jazde
+301-20,information,priority-intersection-side-road-right,Intersection with priority (side road from the right),Križovatka s prednosťou v jazde (vedľajšia cesta sprava)
+302,information,priority-road,Priority road,Hlavná cesta
+303,information,end-of-priority-road,End of priority road,Koniec hlavnej cesty
+304,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Prednosť pred protiidúcimi vozidlami
+309,information,motorway,Motorway,Diaľnica
+310,information,end-of-motorway,End of motorway,Koniec diaľnice
+311,information,motor-road,Road for motor vehicles,Cesta pre motorové vozidlá
+312,information,end-of-motor-road,End of road for motor vehicles,Koniec cesty pre motorové vozidlá
+313,information,motorway-vignette-required,Motorway section requiring a vignette,Úsek diaľnice spoplatnený diaľničnou známkou
+314,information,motorway-vignette-not-required,Motorway section without vignette,Úsek diaľnice nespoplatnený diaľničnou známkou
+315,information,residential-zone,Residential zone,Obytná zóna
+316,information,end-of-residential-zone,End of residential zone,Koniec obytnej zóny
+317,information,pedestrian-zone,Pedestrian zone,Pešia zóna
+318,information,end-of-pedestrian-zone,End of pedestrian zone,Koniec pešej zóny
+319,information,school-zone,School zone,Školská zóna
+320,information,end-of-school-zone,End of school zone,Koniec školskej zóny
+321-10,information,one-way-road-left,One-way road (left here),Jednosmerná cesta (tu vľavo)
+321-30,information,one-way-road-straight,One-way road (straight ahead),Jednosmerná cesta (priamo)
+321-20,information,one-way-road-right,One-way road (right here),Jednosmerná cesta (tu vpravo)
+322-50,information,tunnel,Tunnel,"Tunel (krátky, bez bližšieho označenia)"
+322-51,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)","Tunel (dlhý, s názvom a dĺžkou)"
+323,information,bicycle-road,Bicycle road,Bicyklová cesta
+324,information,end-of-bicycle-road,End of bicycle road,Koniec bicyklovej cesty
+325-20,information,pedestrian-crossing-left-side,Pedestrian crossing (placed on the left),Priechod pre chodcov (informačná značka; umiestnenie vľavo)
+325-10,information,pedestrian-crossing-right-side,Pedestrian crossing (placed on the right),Priechod pre chodcov (informačná značka; umiestnenie vpravo)
+326-20,information,cycle-crossing-left-side,Cycle crossing (placed on the left),Priechod pre cyklistov (umiestnenie vľavo)
+326-10,information,cycle-crossing-right-side,Cycle crossing (placed on the right),Priechod pre cyklistov (umiestnenie vpravo)
+327-50,information,pedestrian-subway,Pedestrian subway,Podchod alebo nadchod (podchod)
+327-60,information,pedestrian-footbridge,Pedestrian footbridge,Podchod alebo nadchod (nadchod)
+327-51,information,step-free-pedestrian-subway,Step-free pedestrian subway,Podchod alebo nadchod (bezbariérový podchod)
+327-61,information,step-free-pedestrian-footbridge,Step-free pedestrian footbridge,Podchod alebo nadchod (bezbariérový nadchod)
+328,information,dead-end,Dead end,Slepá cesta
+328-50,information,dead-end-except-cyclists,Dead end (passable for cyclists),Slepá cesta (prejazdná pre cyklistov)
+330-50,information,services-emergency-telephone,Services (emergency telephone),Služby (telefón núdzového volania)
+330-52,information,services-filling-station,Services (filling station),Služby (čerpacia stanica)
+330-53,information,services-alternative-fuel-station,Services (alternative fuel station),Služby (čerpacia stanica s alternatívnymi palivami)
+330-54,information,services-lpg-station,Services (LPG station),Služby (čerpacia stanica LPG)
+330-55,information,services-cng-station,Services (CNG station),Služby (čerpacia stanica CNG)
+330-56,information,services-hydrogen-station,Services (liquid hydrogen station),Služby (čerpacia stanica kvapalného vodíka)
+330-58,information,services-ev-charging-station,Services (EV charging station),"Služby (dobíjacia stanica pre elektromobily, samostatný objekt dobíjacej stanice)"
+330-59,information,services-ev-charging-at-facility,Services (EV charging at another facility),"Služby (dobíjacia stanica pre elektromobily, služba poskytovaná v rámci iného objektu)"
+330-60,information,services-motel,Services (motel),Služby (motel)
+330-61,information,services-restaurant,Services (roadside restaurant),Služby (motorest)
+330-62,information,services-refreshments,Services (refreshments),Služby (občerstvenie)
+330-63,information,services-toilets,Services (toilets),Služby (toalety)
+330-64,information,services-accessible-toilets,Services (accessible toilets),Služby (bezbariérové toalety)
+330-65,information,services-church,"Services (church, chapel)","Služby (kostol, kaplnka)"
+330-66,information,services-information-centre,Services (information centre),Služby (infocentrum)
+330-67,information,services-breakdown-service,Services (breakdown service),Služby (poruchová služba)
+330-70,information,services-campsite,Services (campsite),Služby (autokemping)
+330-71,information,services-tent-camp,Services (tent camp),Služby (táborisko)
+330-72,information,services-motorhome-caravan-site,Services (motorhome and caravan site),Služby (miesto pre obytné automobily a prívesy)
+330-73,information,services-motorhome-site,Services (motorhome site),Služby (miesto pre obytné automobily)
+330-74,information,services-outdoor-pool,Services (outdoor swimming pool),Služby (kúpalisko)
+330-75,information,services-indoor-pool,Services (indoor swimming pool),"Služby (kryté kúpalisko, plaváreň)"
+330-76,information,services-stadium,"Services (stadium, arena)","Služby (štadión, aréna)"
+330-77,information,services-leisure-sports-area,Services (leisure sports area),Služby (voľnočasový športový areál)
+330-82,information,services-park-and-ride,Services (park and ride),Služby (parkovisko P+R)
+330-83-10,information,services-secure-truck-parking-left,"Services (secure truck parking, left, straight ahead or neutral)","Služby (bezpečné parkovisko pre nákladné vozidlá, smer jazdy doľava, priamo a neutrálne)"
+330-83-20,information,services-secure-truck-parking-right,"Services (secure truck parking, right)","Služby (bezpečné parkovisko pre nákladné vozidlá, smer jazdy doprava)"
+330-85,information,services-industrial-zone,Services (industrial zone),Služby (priemyselná zóna)
+330-88-10,information,services-airport-left,"Services (airport, to the left)","Služby (letisko, smer jazdy doľava)"
+330-88-30,information,services-airport-straight,"Services (airport, straight ahead or neutral)","Služby (letisko, smer jazdy priamo a neutrálne)"
+330-88-20,information,services-airport-right,"Services (airport, to the right)","Služby (letisko, smer jazdy doprava)"
+330-89,information,services-port,Services (port),Služby (prístav)
+330-91,information,services-railway-station,Services (railway station),Služby (železničná stanica)
+330-92,information,services-car-train,Services (car train),Služby (autovlak)
+330-94,information,services-hospital,Services (hospital),Služby (nemocnica)
+330-95,information,services-first-aid,Services (first aid),Služby (prvá pomoc)
+330-97,information,services-shopping-centre,Services (shopping centre),Služby (nákupné stredisko)
+330-100,information,services-tunnel-traffic-radio,Services (tunnel traffic radio),Služby (rádiová služba dopravných informácií v tuneli)
+331-50,information,bus-stop,"Bus, trolleybus or electric bus stop","Zastávka (autobus, trolejbus, elektrobus)"
+331-60,information,tram-stop,Tram stop,Zastávka (električka)
+332,information,taxi-rank,Taxi rank,Stanovište taxi
+333,information,police,Police,Polícia
+334,information,speed-check,Speed check,Kontrola rýchlosti
+335,information,emergency-lay-by,Emergency lay-by,Núdzová odstavná plocha
+336-31,information,emergency-escape-lane,"Emergency escape lane (straight ahead, road turns left)","Miesto na núdzové brzdenie (priamo, cesta ide doľava)"
+340-50,information,place-name-region-border-1-line,"Place name sign (region border, one-line name)","Miestna návesť (hranica samosprávneho kraja, 1-riadkový názov)"
+340-51,information,place-name-region-border-2-line,"Place name sign (region border, two-line name)","Miestna návesť (hranica samosprávneho kraja, 2-riadkový názov)"
+340-52,information,place-name-district-border-1-line,"Place name sign (district border, one-line name)","Miestna návesť (hranica okresu, 1-riadkový názov)"
+340-53,information,place-name-district-border-2-line,"Place name sign (district border, two-line name)","Miestna návesť (hranica okresu, 2-riadkový názov)"
+340-60,information,place-name-general-1-line,"Place name sign (general, one-line name)",Miestna návesť (všeobecný 1-riadkový názov)
+340-61,information,place-name-general-2-line,"Place name sign (general, two-line name)",Miestna návesť (všeobecný 2-riadkový názov)
+340-62,information,place-name-general-minority-language,Place name sign (general name with minority language name),Miestna návesť (všeobecný názov + názov v jazyku národnostnej menšiny)
+340-70,information,place-name-tourist-1-line,"Place name sign (tourist destination or route, one-line name)","Miestna návesť (turistický cieľ alebo trasa, 1-riadkový názov)"
+340-71,information,place-name-tourist-2-line,"Place name sign (tourist destination or route, two-line name)","Miestna návesť (turistický cieľ alebo trasa, 2-riadkový názov)"
+340-72,information,place-name-tourist-minority-language,Place name sign (tourist destination or route with minority language name),Miestna návesť (turistický cieľ alebo trasa + názov v jazyku národnostnej menšiny)
+340-80,information,place-name-water-1-line,"Place name sign (major river or lake, one-line name)","Miestna návesť (významný vodný tok alebo plocha, 1-riadkový názov)"
+340-81,information,place-name-water-2-line,"Place name sign (major river or lake, two-line name)","Miestna návesť (významný vodný tok alebo plocha, 2-riadkový názov)"
+340-82,information,place-name-water-minority-language,Place name sign (major river or lake with minority language name),Miestna návesť (významný vodný tok alebo plocha + názov v jazyku národnostnej menšiny)
+341,information,state-border,State border,Štátna hranica
+342,information,general-rules-information,Information on general rules,Informácie o všeobecných pravidlách
+350-50,information,road-number-class-1-1-digit,"Road number (class I road, 1-digit number)","Číslo cesty I. alebo II. triedy (cesta I. triedy, 1-ciferné číslo)"
+350-51,information,road-number-class-1-2-digit,"Road number (class I road, 2-digit number)","Číslo cesty I. alebo II. triedy (cesta I. triedy, 2-ciferné číslo)"
+350-52,information,road-number-class-2-3-digit,"Road number (class II road, 3-digit number)","Číslo cesty I. alebo II. triedy (cesta II. triedy, 3-ciferné číslo)"
+351,information,road-number-class-3,Class III road number (only used inside direction signs),"Číslo cesty III. triedy (nevyrába sa ako samostatná značka, len sa vkladá do smerových značiek)"
+352-50,information,motorway-number-1-digit,Motorway number (1-digit number),"Číslo diaľnice alebo rýchlostnej cesty (diaľnica, 1-ciferné číslo)"
+352-51,information,motorway-number-2-digit,Motorway number (2-digit number),"Číslo diaľnice alebo rýchlostnej cesty (diaľnica, 2-ciferné číslo)"
+352-60,information,expressway-number-1-digit,Expressway number (1-digit number),"Číslo diaľnice alebo rýchlostnej cesty (rýchlostná cesta, 1-ciferné číslo)"
+352-61,information,expressway-number-2-digit,Expressway number (2-digit number),"Číslo diaľnice alebo rýchlostnej cesty (rýchlostná cesta, 2-ciferné číslo)"
+353-50,information,european-road-number-class-a-2-digit,"European road number (class A, 2-digit number)","Číslo E-cesty (trieda A, 2-ciferné číslo)"
+353-51,information,european-road-number-class-b-3-digit,"European road number (class B, 3-digit number)","Číslo E-cesty (trieda B, 3-ciferné číslo)"
+355-50,information,kilometre-marker,Kilometre marker,Kilometrovník (základný)
+355-60,information,kilometre-marker-motorway,Kilometre marker (with motorway number),Kilometrovník (s číslom diaľnice)
+355-61,information,kilometre-marker-expressway,Kilometre marker (with expressway number),Kilometrovník (s číslom rýchlostnej cesty)
+355-62,information,kilometre-marker-major-class-1-road,Kilometre marker (with number of a major class I road),Kilometrovník (s číslom zvlášť významnej cesty I. triedy)
+355-70,information,kilometre-marker-junction-branch-motorway,"Kilometre marker (motorway junction branch or feeder, category D marked with sign 309)",Kilometrovník (staničenie vetvy diaľničného uzla alebo prípojky – kategória D označená Z 309)
+355-71,information,kilometre-marker-junction-branch-expressway,"Kilometre marker (motorway junction branch or feeder, category R marked with sign 309)",Kilometrovník (staničenie vetvy diaľničného uzla alebo prípojky – kategória R označená Z 309)
+355-72,information,kilometre-marker-junction-branch-class-1-road,"Kilometre marker (motorway junction branch or feeder, class I road marked with sign 309)",Kilometrovník (staničenie vetvy diaľničného uzla alebo prípojky – cesta I. triedy označená Z 309)
+390-50,information,alternative-route-start,Alternative route (start),Náhradná trasa (začiatok)
+390-55,information,alternative-route-end,Alternative route (end),Náhradná trasa (koniec)
+390-10,information,alternative-route-left-advance,"Alternative route (to the left, advance)","Náhradná trasa (doľava, predbežná)"
+390-11,information,alternative-route-left-here,"Alternative route (to the left, here)","Náhradná trasa (doľava, tu)"
+390-12,information,alternative-route-left-exit,"Alternative route (to the left, exit)","Náhradná trasa (doľava, vyradenie)"
+390-30,information,alternative-route-straight,Alternative route (straight ahead),Náhradná trasa (priamo)
+390-22,information,alternative-route-right-exit,"Alternative route (to the right, exit)","Náhradná trasa (doprava, vyradenie)"
+390-21,information,alternative-route-right-here,"Alternative route (to the right, here)","Náhradná trasa (doprava, tu)"
+390-20,information,alternative-route-right-advance,"Alternative route (to the right, advance)","Náhradná trasa (doprava, predbežná)"
+391-10,information,alternative-route-change-motorway-left,Alternative route change (motorway on the left),Zmena náhradnej trasy (diaľnica vľavo)
+391-20,information,alternative-route-change-motorway-right,Alternative route change (motorway on the right),Zmena náhradnej trasy (diaľnica vpravo)
+392-50,information,closure-advance-notice-all-traffic-via-intermediate-destinations,"Advance closure notice (closed to all traffic, navigation via intermediate destinations)","Uzávierková predzvesť (uzávierka pre všetku dopravu, navigácia prostredníctvom medzicieľov)"
+392-51,information,closure-advance-notice-all-traffic-via-detour-signs,"Advance closure notice (closed to all traffic, navigation via sign 394)","Uzávierková predzvesť (uzávierka pre všetku dopravu, navigácia prostredníctvom Z 394)"
+392-52,information,closure-advance-notice-selected-road-users-via-detour-signs,"Advance closure notice (closed to the road users shown, navigation via sign 394)","Uzávierková predzvesť (uzávierka pre vyznačených účastníkov, navigácia prostredníctvom Z 394)"
+392-53,information,closure-advance-notice-weight-restriction,"Advance closure notice (early notice of a permanent weight restriction, e.g. on a bridge)",Uzávierková predzvesť (včasná informácia o trvalom hmotnostnom obmedzení - napr. na moste)
+393-30,information,detour-announcement,Detour announcement,Ohlasovacia tabuľa obchádzky (bez bližšieho označenia)
+393-31-50,information,detour-announcement-numbered,Detour announcement (numbered detour),Ohlasovacia tabuľa obchádzky (číslovaná obchádzka)
+393-32-52,information,detour-announcement-goods-vehicles,Detour announcement (for goods vehicles),Ohlasovacia tabuľa obchádzky (pre nákladné vozidlá)
+393-32-58,information,detour-announcement-bicycles,Detour announcement (for bicycles),Ohlasovacia tabuľa obchádzky (pre bicykle)
+393-32-75,information,detour-announcement-dangerous-goods,Detour announcement (for vehicles carrying dangerous goods),Ohlasovacia tabuľa obchádzky (pre vozidlá prepravujúce nebezpečné veci)
+393-32-76,information,detour-announcement-water-pollutants,Detour announcement (for vehicles carrying goods that may pollute water),"Ohlasovacia tabuľa obchádzky (pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-16,information,detour-sign-advance-left,"Detour sign (advance, left)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, bez bližšieho označenia)"
+394-10,information,detour-sign-left-here,Detour sign (left here),"Tabuľový smerník na vyznačenie obchádzky (tu doľava, bez bližšieho označenia)"
+394-13,information,detour-sign-lane-change-left,"Detour sign (lane change, left)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, bez bližšieho označenia)"
+394-30,information,detour-sign-straight,Detour sign (straight ahead),"Tabuľový smerník na vyznačenie obchádzky (priamo, bez bližšieho označenia)"
+394-23,information,detour-sign-lane-change-right,"Detour sign (lane change, right)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, bez bližšieho označenia)"
+394-20,information,detour-sign-right-here,Detour sign (right here),"Tabuľový smerník na vyznačenie obchádzky (tu doprava, bez bližšieho označenia)"
+394-26,information,detour-sign-advance-right,"Detour sign (advance, right)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, bez bližšieho označenia)"
+394-50,information,detour-sign-start,Detour sign (start),Tabuľový smerník na vyznačenie obchádzky (začiatok)
+394-17-50,information,detour-sign-advance-left-numbered,"Detour sign (advance, left, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, číslovaná obchádzka)"
+394-11-50,information,detour-sign-left-here-numbered,"Detour sign (left here, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, číslovaná obchádzka)"
+394-14-50,information,detour-sign-lane-change-left-numbered,"Detour sign (lane change, left, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, číslovaná obchádzka)"
+394-31-50,information,detour-sign-straight-numbered,"Detour sign (straight ahead, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (priamo, číslovaná obchádzka)"
+394-24-50,information,detour-sign-lane-change-right-numbered,"Detour sign (lane change, right, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, číslovaná obchádzka)"
+394-21-50,information,detour-sign-right-here-numbered,"Detour sign (right here, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, číslovaná obchádzka)"
+394-27-50,information,detour-sign-advance-right-numbered,"Detour sign (advance, right, numbered detour)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, číslovaná obchádzka)"
+394-55,information,detour-sign-end,Detour sign (end),Tabuľový smerník na vyznačenie obchádzky (koniec)
+394-17-51,information,detour-sign-advance-left-destination,"Detour sign (advance, left, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, s vyznačeným diaľkovým cieľom)"
+394-11-51,information,detour-sign-left-here-destination,"Detour sign (left here, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, s vyznačeným diaľkovým cieľom)"
+394-14-51,information,detour-sign-lane-change-left-destination,"Detour sign (lane change, left, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, s vyznačeným diaľkovým cieľom)"
+394-31-51,information,detour-sign-straight-destination,"Detour sign (straight ahead, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (priamo, s vyznačeným diaľkovým cieľom)"
+394-24-51,information,detour-sign-lane-change-right-destination,"Detour sign (lane change, right, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, s vyznačeným diaľkovým cieľom)"
+394-21-51,information,detour-sign-right-here-destination,"Detour sign (right here, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, s vyznačeným diaľkovým cieľom)"
+394-27-51,information,detour-sign-advance-right-destination,"Detour sign (advance, right, with long-distance destination)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, s vyznačeným diaľkovým cieľom)"
+394-17-52,information,detour-sign-advance-left-road-number,"Detour sign (advance, left, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, s číslom cesty I. alebo II. triedy)"
+394-11-52,information,detour-sign-left-here-road-number,"Detour sign (left here, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, s číslom cesty I. alebo II. triedy)"
+394-14-52,information,detour-sign-lane-change-left-road-number,"Detour sign (lane change, left, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, s číslom cesty I. alebo II. triedy)"
+394-31-52,information,detour-sign-straight-road-number,"Detour sign (straight ahead, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (priamo, s číslom cesty I. alebo II. triedy)"
+394-24-52,information,detour-sign-lane-change-right-road-number,"Detour sign (lane change, right, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, s číslom cesty I. alebo II. triedy)"
+394-21-52,information,detour-sign-right-here-road-number,"Detour sign (right here, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, s číslom cesty I. alebo II. triedy)"
+394-27-52,information,detour-sign-advance-right-road-number,"Detour sign (advance, right, with class I or II road number)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, s číslom cesty I alebo II. triedy)"
+394-18-52,information,detour-sign-advance-left-goods-vehicles,"Detour sign (advance, left, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, pre nákladné vozidlá)"
+394-12-52,information,detour-sign-left-here-goods-vehicles,"Detour sign (left here, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, pre nákladné vozidlá)"
+394-15-52,information,detour-sign-lane-change-left-goods-vehicles,"Detour sign (lane change, left, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, pre nákladné vozidlá)"
+394-32-52,information,detour-sign-straight-goods-vehicles,"Detour sign (straight ahead, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (priamo, pre nákladné vozidlá)"
+394-25-52,information,detour-sign-lane-change-right-goods-vehicles,"Detour sign (lane change, right, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, pre nákladné vozidlá)"
+394-22-52,information,detour-sign-right-here-goods-vehicles,"Detour sign (right here, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, pre nákladné vozidlá)"
+394-28-52,information,detour-sign-advance-right-goods-vehicles,"Detour sign (advance, right, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, pre nákladné vozidlá)"
+394-12-58,information,detour-sign-left-here-bicycles,"Detour sign (left here, for bicycles)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, pre bicykle)"
+394-32-58,information,detour-sign-straight-bicycles,"Detour sign (straight ahead, for bicycles)","Tabuľový smerník na vyznačenie obchádzky (priamo, pre bicykle)"
+394-22-58,information,detour-sign-right-here-bicycles,"Detour sign (right here, for bicycles)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, pre bicykle)"
+394-18-75,information,detour-sign-advance-left-dangerous-goods,"Detour sign (advance, left, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, pre vozidlá prepravujúce nebezpečné veci)"
+394-12-75,information,detour-sign-left-here-dangerous-goods,"Detour sign (left here, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, pre vozidlá prepravujúce nebezpečné veci)"
+394-15-75,information,detour-sign-lane-change-left-dangerous-goods,"Detour sign (lane change, left, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, pre vozidlá prepravujúce nebezpečné veci)"
+394-32-75,information,detour-sign-straight-dangerous-goods,"Detour sign (straight ahead, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (priamo, pre vozidlá prepravujúce nebezpečné veci)"
+394-25-75,information,detour-sign-lane-change-right-dangerous-goods,"Detour sign (lane change, right, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, pre vozidlá prepravujúce nebezpečné veci)"
+394-22-75,information,detour-sign-right-here-dangerous-goods,"Detour sign (right here, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, pre vozidlá prepravujúce nebezpečné veci)"
+394-28-75,information,detour-sign-advance-right-dangerous-goods,"Detour sign (advance, right, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, pre vozidlá prepravujúce nebezpečné veci)"
+394-18-76,information,detour-sign-advance-left-water-pollutants,"Detour sign (advance, left, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (predbežný doľava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-12-76,information,detour-sign-left-here-water-pollutants,"Detour sign (left here, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (tu doľava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-15-76,information,detour-sign-lane-change-left-water-pollutants,"Detour sign (lane change, left, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (preradenie doľava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-32-76,information,detour-sign-straight-water-pollutants,"Detour sign (straight ahead, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (priamo, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-25-76,information,detour-sign-lane-change-right-water-pollutants,"Detour sign (lane change, right, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (preradenie doprava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-22-76,information,detour-sign-right-here-water-pollutants,"Detour sign (right here, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (tu doprava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-28-76,information,detour-sign-advance-right-water-pollutants,"Detour sign (advance, right, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (predbežný doprava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+394-61-51,information,detour-sign-top-panel-destination,"Detour sign (supplementary panel above the sign, long-distance destination name)","Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, názov diaľkového cieľa)"
+394-61-52,information,detour-sign-top-panel-road-number,"Detour sign (supplementary panel above the sign, class I road number)","Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, číslo cesty I. triedy)"
+394-62-52,information,detour-sign-top-panel-goods-vehicles,"Detour sign (supplementary panel above the sign, for goods vehicles)","Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, pre nákladné vozidlá)"
+394-62-58,information,detour-sign-top-panel-bicycles,"Detour sign (supplementary panel above the sign, for bicycles)","Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, pre bicykle)"
+394-62-75,information,detour-sign-top-panel-dangerous-goods,"Detour sign (supplementary panel above the sign, for vehicles carrying dangerous goods)","Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, pre vozidlá prepravujúce nebezpečné veci)"
+394-62-76,information,detour-sign-top-panel-water-pollutants,"Detour sign (supplementary panel above the sign, for vehicles carrying goods that may pollute water)","Tabuľový smerník na vyznačenie obchádzky (prídavná tabuľka nad značkou, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+395-10,information,detour-arrow-left,Detour arrow (to the left),"Šípový smerník na vyznačenie obchádzky (doľava, bez bližšieho označenia)"
+395-20,information,detour-arrow-right,Detour arrow (to the right),"Šípový smerník na vyznačenie obchádzky (doprava, bez bližšieho označenia)"
+395-11-50,information,detour-arrow-left-numbered,"Detour arrow (to the left, numbered detour)","Šípový smerník na vyznačenie obchádzky (doľava, číslovaná obchádzka)"
+395-21-50,information,detour-arrow-right-numbered,"Detour arrow (to the right, numbered detour)","Šípový smerník na vyznačenie obchádzky (doprava, číslovaná obchádzka)"
+395-11-51,information,detour-arrow-left-destination,"Detour arrow (to the left, with long-distance destination)","Šípový smerník na vyznačenie obchádzky (doľava, s vyznačeným diaľkovým cieľom)"
+395-21-51,information,detour-arrow-right-destination,"Detour arrow (to the right, with long-distance destination)","Šípový smerník na vyznačenie obchádzky (doprava, s vyznačeným diaľkovým cieľom)"
+395-12-52,information,detour-arrow-left-goods-vehicles,"Detour arrow (to the left, for goods vehicles)","Šípový smerník na vyznačenie obchádzky (doľava, pre nákladné vozidlá)"
+395-22-52,information,detour-arrow-right-goods-vehicles,"Detour arrow (to the right, for goods vehicles)","Šípový smerník na vyznačenie obchádzky (doprava, pre nákladné vozidlá)"
+395-12-58,information,detour-arrow-left-bicycles,"Detour arrow (to the left, for bicycles)","Šípový smerník na vyznačenie obchádzky (doľava, pre bicykle)"
+395-22-58,information,detour-arrow-right-bicycles,"Detour arrow (to the right, for bicycles)","Šípový smerník na vyznačenie obchádzky (doprava, pre bicykle)"
+395-12-75,information,detour-arrow-left-dangerous-goods,"Detour arrow (to the left, for vehicles carrying dangerous goods)","Šípový smerník na vyznačenie obchádzky (doľava, pre vozidlá prepravujúce nebezpečné veci)"
+395-22-75,information,detour-arrow-right-dangerous-goods,"Detour arrow (to the right, for vehicles carrying dangerous goods)","Šípový smerník na vyznačenie obchádzky (doprava, pre vozidlá prepravujúce nebezpečné veci)"
+395-13-76,information,detour-arrow-left-water-pollutants,"Detour arrow (to the left, for vehicles carrying goods that may pollute water)","Šípový smerník na vyznačenie obchádzky (doľava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+395-22-76,information,detour-arrow-right-water-pollutants,"Detour arrow (to the right, for vehicles carrying goods that may pollute water)","Šípový smerník na vyznačenie obchádzky (doprava, pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+396-30,information,end-of-detour,End of detour,Koniec obchádzky (bez bližšieho označenia)
+396-31-50,information,end-of-detour-numbered,End of detour (numbered detour),Koniec obchádzky (číslovaná obchádzka)
+396-32-52,information,end-of-detour-goods-vehicles,End of detour (for goods vehicles),Koniec obchádzky (pre nákladné vozidlá)
+396-32-58,information,end-of-detour-bicycles,End of detour (for bicycles),Koniec obchádzky (pre bicykle)
+396-32-75,information,end-of-detour-dangerous-goods,End of detour (for vehicles carrying dangerous goods),Koniec obchádzky (pre vozidlá prepravujúce nebezpečné veci)
+396-32-76,information,end-of-detour-water-pollutants,End of detour (for vehicles carrying goods that may pollute water),"Koniec obchádzky (pre vozidlá prepravujúce náklad, ktorý môže spôsobiť znečistenie vody)"
+397-50,information,block-detour-indirect-turn,Block detour (indirect turn),Bloková obchádzka (nepriame odbočenie)
+397-51,information,block-detour-loop,Block detour (loop),Bloková obchádzka (slučka)
+401-30,information,number-of-lanes-2,Number of lanes (2 lanes),Počet jazdných pruhov (2 pruhy)
+401-31,information,number-of-lanes-3,Number of lanes (3 lanes),Počet jazdných pruhov (3 pruhy)
+401-32,information,number-of-lanes-4,Number of lanes (4 lanes),Počet jazdných pruhov (4 pruhy)
+401-33,information,number-of-lanes-5,Number of lanes (5 lanes),Počet jazdných pruhov (5 pruhov)
+402-30,information,number-of-lanes-2-with-regulatory-sign,Number of lanes (2 lanes + regulatory sign),Počet jazdných pruhov (2 pruhy + regulačná značka)
+402-31,information,number-of-lanes-3-with-regulatory-sign,Number of lanes (3 lanes + regulatory sign),Počet jazdných pruhov (3 pruhy + regulačná značka)
+402-32,information,number-of-lanes-4-with-regulatory-sign,Number of lanes (4 lanes + regulatory sign),Počet jazdných pruhov (4 pruhy + regulačná značka)
+403-31,information,number-of-lanes-2-plus-1-oncoming,Number of lanes (2 lanes + 1 oncoming),Počet jazdných pruhov (2 pruhy + 1 v protismere)
+403-32,information,number-of-lanes-1-plus-2-oncoming,Number of lanes (1 lane + 2 oncoming),Počet jazdných pruhov (1 pruh + 2 v protismere)
+403-33,information,number-of-lanes-3-plus-1-oncoming,Number of lanes (3 lanes + 1 oncoming),Počet jazdných pruhov (3 pruhy + 1 v protismere)
+403-34,information,number-of-lanes-2-plus-2-oncoming,Number of lanes (2 lanes + 2 oncoming),Počet jazdných pruhov (2 pruhy + 2 v protismere)
+403-35,information,number-of-lanes-1-plus-3-oncoming,Number of lanes (1 lane + 3 oncoming),Počet jazdných pruhov (1 pruhy + 3 v protismere)
+403-37,information,number-of-lanes-3-plus-2-oncoming,Number of lanes (3 lanes + 2 oncoming),Počet jazdných pruhov (3 pruhy + 2 v protismere)
+403-38,information,number-of-lanes-2-plus-3-oncoming,Number of lanes (2 lanes + 3 oncoming),Počet jazdných pruhov (2 pruhy + 3 v protismere)
+404-31,information,number-of-lanes-2-plus-1-oncoming-with-regulatory-sign,Number of lanes (2 lanes + 1 oncoming + regulatory sign),Počet jazdných pruhov (2 pruhy + 1 v protismere + regulačná značka)
+404-34,information,number-of-lanes-2-plus-2-oncoming-with-regulatory-sign,Number of lanes (2 lanes + 2 oncoming + regulatory sign),Počet jazdných pruhov (2 pruhy + 2 v protismere + regulačná značka)
+404-37,information,number-of-lanes-3-plus-2-oncoming-with-regulatory-sign,Number of lanes (3 lanes + 2 oncoming + regulatory sign),Počet jazdných pruhov (3 pruhy + 2 v protismere + regulačná značka)
+411-10,information,lane-reduction-left-to-1-lane,"Lane reduction (left, 1 lane continuing)","Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh)"
+411-11,information,lane-reduction-left-to-2-lanes,"Lane reduction (left, 2 lanes continuing)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy)"
+411-12,information,lane-reduction-left-to-3-lanes,"Lane reduction (left, 3 lanes continuing)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy)"
+411-13,information,lane-reduction-left-to-4-lanes,"Lane reduction (left, 4 lanes continuing)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 4 pruhy)"
+411-23,information,lane-reduction-right-to-4-lanes,"Lane reduction (right, 4 lanes continuing)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 4 pruhy)"
+411-22,information,lane-reduction-right-to-3-lanes,"Lane reduction (right, 3 lanes continuing)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy)"
+411-21,information,lane-reduction-right-to-2-lanes,"Lane reduction (right, 2 lanes continuing)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy)"
+411-20,information,lane-reduction-right-to-1-lane,"Lane reduction (right, 1 lane continuing)","Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruh)"
+412-11,information,lane-reduction-left-to-2-lanes-with-regulatory-sign,"Lane reduction (left, 2 lanes continuing + regulatory sign)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + regulačná značka)"
+412-12,information,lane-reduction-left-to-3-lanes-with-regulatory-sign,"Lane reduction (left, 3 lanes continuing + regulatory sign)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + regulačná značka)"
+412-22,information,lane-reduction-right-to-3-lanes-with-regulatory-sign,"Lane reduction (right, 3 lanes continuing + regulatory sign)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + regulačná značka)"
+412-21,information,lane-reduction-right-to-2-lanes-with-regulatory-sign,"Lane reduction (right, 2 lanes continuing + regulatory sign)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + regulačná značka)"
+413-10,information,lane-reduction-left-to-1-lane-plus-1-oncoming,"Lane reduction (left, 1 lane continuing + 1 oncoming)","Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 1 v protismere)"
+413-11,information,lane-reduction-left-to-2-lanes-plus-1-oncoming,"Lane reduction (left, 2 lanes continuing + 1 oncoming)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere)"
+413-12,information,lane-reduction-left-to-1-lane-plus-2-oncoming,"Lane reduction (left, 1 lane continuing + 2 oncoming)","Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 2 v protismere)"
+413-14,information,lane-reduction-left-to-2-lanes-plus-2-oncoming,"Lane reduction (left, 2 lanes continuing + 2 oncoming)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere)"
+413-15,information,lane-reduction-left-to-1-lane-plus-3-oncoming,"Lane reduction (left, 1 lane continuing + 3 oncoming)","Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 3 v protismere)"
+413-25,information,lane-reduction-right-to-1-lane-plus-3-oncoming,"Lane reduction (right, 1 lane continuing + 3 oncoming)","Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruhy + 3 v protismere)"
+413-24,information,lane-reduction-right-to-2-lanes-plus-2-oncoming,"Lane reduction (right, 2 lanes continuing + 2 oncoming)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere)"
+413-22,information,lane-reduction-right-to-1-lane-plus-2-oncoming,"Lane reduction (right, 1 lane continuing + 2 oncoming)","Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruh + 2 v protismere)"
+413-21,information,lane-reduction-right-to-2-lanes-plus-1-oncoming,"Lane reduction (right, 2 lanes continuing + 1 oncoming)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere)"
+413-20,information,lane-reduction-right-to-1-lane-plus-1-oncoming,"Lane reduction (right, 1 lane continuing + 1 oncoming)","Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruh + 1 v protismere)"
+414-11,information,lane-reduction-left-to-2-lanes-plus-1-oncoming-with-regulatory-sign,"Lane reduction (left, 2 lanes continuing + 1 oncoming + regulatory sign)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)"
+414-14,information,lane-reduction-left-to-2-lanes-plus-2-oncoming-with-regulatory-sign,"Lane reduction (left, 2 lanes continuing + 2 oncoming + regulatory sign)","Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)"
+414-24,information,lane-reduction-right-to-2-lanes-plus-2-oncoming-with-regulatory-sign,"Lane reduction (right, 2 lanes continuing + 2 oncoming + regulatory sign)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)"
+414-21,information,lane-reduction-right-to-2-lanes-plus-1-oncoming-with-regulatory-sign,"Lane reduction (right, 2 lanes continuing + 1 oncoming + regulatory sign)","Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)"
+421-10,information,lane-gain-left-to-2-lanes,"Lane gain (left, 2 lanes continuing)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy)"
+421-11,information,lane-gain-left-to-3-lanes,"Lane gain (left, 3 lanes continuing)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy)"
+421-12,information,lane-gain-left-to-4-lanes,"Lane gain (left, 4 lanes continuing)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 4 pruhy)"
+421-13,information,lane-gain-left-to-5-lanes,"Lane gain (left, 5 lanes continuing)","Zvýšenie počtu jazdných pruhov (vľavo, pokračuje 5 pruhov)"
+421-23,information,lane-gain-right-to-5-lanes,"Lane gain (right, 5 lanes continuing)","Zvýšenie počtu jazdných pruhov (vpravo, pokračuje 5 pruhov)"
+421-22,information,lane-gain-right-to-4-lanes,"Lane gain (right, 4 lanes continuing)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 4 pruhy)"
+421-21,information,lane-gain-right-to-3-lanes,"Lane gain (right, 3 lanes continuing)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy)"
+421-20,information,lane-gain-right-to-2-lanes,"Lane gain (right, 2 lanes continuing)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy)"
+422-10,information,lane-gain-left-to-2-lanes-with-regulatory-sign,"Lane gain (left, 2 lanes continuing + regulatory sign)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + regulačná značka)"
+422-11,information,lane-gain-left-to-3-lanes-with-regulatory-sign,"Lane gain (left, 3 lanes continuing + regulatory sign)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + regulačná značka)"
+422-12,information,lane-gain-left-to-4-lanes-with-regulatory-sign,"Lane gain (left, 4 lanes continuing + regulatory sign)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 4 pruhy + regulačná značka)"
+422-22,information,lane-gain-right-to-4-lanes-with-regulatory-sign,"Lane gain (right, 4 lanes continuing + regulatory sign)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 4 pruhy + regulačná značka)"
+422-21,information,lane-gain-right-to-3-lanes-with-regulatory-sign,"Lane gain (right, 3 lanes continuing + regulatory sign)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + regulačná značka)"
+422-20,information,lane-gain-right-to-2-lanes-with-regulatory-sign,"Lane gain (right, 2 lanes continuing + regulatory sign)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + regulačná značka)"
+423-10,information,lane-gain-left-to-2-lanes-plus-1-oncoming,"Lane gain (left, 2 lanes continuing + 1 oncoming)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere)"
+423-11,information,lane-gain-left-to-3-lanes-plus-1-oncoming,"Lane gain (left, 3 lanes continuing + 1 oncoming)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + 1 v protismere)"
+423-12,information,lane-gain-left-to-2-lanes-plus-2-oncoming,"Lane gain (left, 2 lanes continuing + 2 oncoming)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere)"
+423-14,information,lane-gain-left-to-3-lanes-plus-2-oncoming,"Lane gain (left, 3 lanes continuing + 2 oncoming)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + 2 v protismere)"
+423-15,information,lane-gain-left-to-2-lanes-plus-3-oncoming,"Lane gain (left, 2 lanes continuing + 3 oncoming)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 3 v protismere)"
+423-25,information,lane-gain-right-to-2-lanes-plus-3-oncoming,"Lane gain (right, 2 lanes continuing + 3 oncoming)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 3 v protismere)"
+423-24,information,lane-gain-right-to-3-lanes-plus-2-oncoming,"Lane gain (right, 3 lanes continuing + 2 oncoming)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 2 v protismere)"
+423-22,information,lane-gain-right-to-2-lanes-plus-2-oncoming,"Lane gain (right, 2 lanes continuing + 2 oncoming)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere)"
+423-21,information,lane-gain-right-to-3-lanes-plus-1-oncoming,"Lane gain (right, 3 lanes continuing + 1 oncoming)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 1 v protismere)"
+423-20,information,lane-gain-right-to-2-lanes-plus-1-oncoming,"Lane gain (right, 2 lanes continuing + 1 oncoming)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere)"
+424-10,information,lane-gain-left-to-2-lanes-plus-1-oncoming-with-regulatory-sign,"Lane gain (left, 2 lanes continuing + 1 oncoming + regulatory sign)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)"
+424-11,information,lane-gain-left-to-3-lanes-plus-1-oncoming-with-regulatory-sign,"Lane gain (left, 3 lanes continuing + 1 oncoming + regulatory sign)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + 1 v protismere + regulačná značka)"
+424-12,information,lane-gain-left-to-2-lanes-plus-2-oncoming-with-regulatory-sign,"Lane gain (left, 2 lanes continuing + 2 oncoming + regulatory sign)","Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)"
+424-22,information,lane-gain-right-to-2-lanes-plus-2-oncoming-with-regulatory-sign,"Lane gain (right, 2 lanes continuing + 2 oncoming + regulatory sign)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)"
+424-21,information,lane-gain-right-to-3-lanes-plus-1-oncoming-with-regulatory-sign,"Lane gain (right, 3 lanes continuing + 1 oncoming + regulatory sign)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 1 v protismere + regulačná značka)"
+424-20,information,lane-gain-right-to-2-lanes-plus-1-oncoming-with-regulatory-sign,"Lane gain (right, 2 lanes continuing + 1 oncoming + regulatory sign)","Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)"
+431-10,information,lane-addition-main-carriageway-1-through-plus-1-from-left,"Lane addition at junction (on the main carriageway, 1 through + 1 from the left)","Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 1 zľava)"
+431-11,information,lane-addition-main-carriageway-2-through-plus-1-from-left,"Lane addition at junction (on the main carriageway, 2 through + 1 from the left)","Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 1 zľava)"
+431-12,information,lane-addition-main-carriageway-1-through-plus-2-from-left,"Lane addition at junction (on the main carriageway, 1 through + 2 from the left)","Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 2 zľava)"
+431-13,information,lane-addition-main-carriageway-3-through-plus-1-from-left,"Lane addition at junction (on the main carriageway, 3 through + 1 from the left)","Bezkolízne pripojenie (v hlavnom páse, 3 priebežné + 1 zľava)"
+431-14,information,lane-addition-main-carriageway-2-through-plus-2-from-left,"Lane addition at junction (on the main carriageway, 2 through + 2 from the left)","Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 2 zľava)"
+431-15,information,lane-addition-main-carriageway-1-through-plus-3-from-left,"Lane addition at junction (on the main carriageway, 1 through + 3 from the left)","Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 3 zľava)"
+431-20,information,lane-addition-main-carriageway-1-through-plus-1-from-right,"Lane addition at junction (on the main carriageway, 1 through + 1 from the right)","Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 1 sprava)"
+431-21,information,lane-addition-main-carriageway-2-through-plus-1-from-right,"Lane addition at junction (on the main carriageway, 2 through + 1 from the right)","Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 1 sprava)"
+431-22,information,lane-addition-main-carriageway-1-through-plus-2-from-right,"Lane addition at junction (on the main carriageway, 1 through + 2 from the right)","Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 2 sprava)"
+431-23,information,lane-addition-main-carriageway-3-through-plus-1-from-right,"Lane addition at junction (on the main carriageway, 3 through + 1 from the right)","Bezkolízne pripojenie (v hlavnom páse, 3 priebežné + 1 sprava)"
+431-24,information,lane-addition-main-carriageway-2-through-plus-2-from-right,"Lane addition at junction (on the main carriageway, 2 through + 2 from the right)","Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 2 sprava)"
+431-25,information,lane-addition-main-carriageway-1-through-plus-3-from-right,"Lane addition at junction (on the main carriageway, 1 through + 3 from the right)","Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 3 sprava)"
+432-10,information,lane-addition-left-1-lane-plus-1-through,"Lane addition at junction (from the left, 1 lane + 1 through)","Bezkolízne pripojenie (zľava, 1 pruh + 1 priebežný)"
+432-11,information,lane-addition-left-1-lane-plus-2-through,"Lane addition at junction (from the left, 1 lane + 2 through)","Bezkolízne pripojenie (zľava, 1 pruh + 2 priebežné)"
+432-12,information,lane-addition-left-2-lanes-plus-1-through,"Lane addition at junction (from the left, 2 lanes + 1 through)","Bezkolízne pripojenie (zľava, 2 pruhy + 1 priebežný)"
+432-13,information,lane-addition-left-1-lane-plus-3-through,"Lane addition at junction (from the left, 1 lane + 3 through)","Bezkolízne pripojenie (zľava, 1 pruh + 3 priebežné)"
+432-14,information,lane-addition-left-2-lanes-plus-2-through,"Lane addition at junction (from the left, 2 lanes + 2 through)","Bezkolízne pripojenie (zľava, 2 pruhy + 2 priebežné)"
+432-15,information,lane-addition-left-3-lanes-plus-1-through,"Lane addition at junction (from the left, 3 lanes + 1 through)","Bezkolízne pripojenie (zľava, 3 pruhy + 1 priebežný)"
+432-20,information,lane-addition-right-1-lane-plus-1-through,"Lane addition at junction (from the right, 1 lane + 1 through)","Bezkolízne pripojenie (sprava, 1 pruh + 1 priebežný)"
+432-21,information,lane-addition-right-1-lane-plus-2-through,"Lane addition at junction (from the right, 1 lane + 2 through)","Bezkolízne pripojenie (sprava, 1 pruh + 2 priebežné)"
+432-22,information,lane-addition-right-2-lanes-plus-1-through,"Lane addition at junction (from the right, 2 lanes + 1 through)","Bezkolízne pripojenie (sprava, 2 pruhy + 1 priebežný)"
+432-23,information,lane-addition-right-1-lane-plus-3-through,"Lane addition at junction (from the right, 1 lane + 3 through)","Bezkolízne pripojenie (sprava, 1 pruh + 3 priebežné)"
+432-24,information,lane-addition-right-2-lanes-plus-2-through,"Lane addition at junction (from the right, 2 lanes + 2 through)","Bezkolízne pripojenie (sprava, 2 pruhy + 2 priebežné)"
+432-25,information,lane-addition-right-3-lanes-plus-1-through,"Lane addition at junction (from the right, 3 lanes + 1 through)","Bezkolízne pripojenie (sprava, 3 pruhy + 1 priebežný)"
+441-10,information,lane-diversion-left-1-lane,"Lane diversion (to the left, 1 lane)","Presmerovanie jazdných pruhov (doľava, 1 pruh)"
+441-11,information,lane-diversion-left-2-lanes,"Lane diversion (to the left, 2 lanes)","Presmerovanie jazdných pruhov (doľava, 2 pruhy)"
+441-12,information,lane-diversion-left-3-lanes,"Lane diversion (to the left, 3 lanes)","Presmerovanie jazdných pruhov (doľava, 3 pruhy)"
+441-13,information,lane-diversion-left-1-lane-plus-1-continuing,"Lane diversion (to the left, 1 lane + 1 continuing)","Presmerovanie jazdných pruhov (doľava, 1 pruh + 1 pokračujúci)"
+441-14,information,lane-diversion-left-1-lane-plus-2-continuing,"Lane diversion (to the left, 1 lane + 2 continuing)","Presmerovanie jazdných pruhov (doľava, 1 pruh + 2 pokračujúce)"
+441-15,information,lane-diversion-left-2-lanes-plus-1-continuing,"Lane diversion (to the left, 2 lanes + 1 continuing)","Presmerovanie jazdných pruhov (doľava, 2 pruhy + 1 pokračujúci)"
+441-16,information,lane-diversion-left-1-lane-plus-1-merging,"Lane diversion (to the left, 1 lane + 1 merging)","Presmerovanie jazdných pruhov (doľava, 1 pruh + 1 pripájajúci sa)"
+441-17,information,lane-diversion-left-1-lane-plus-2-merging,"Lane diversion (to the left, 1 lane + 2 merging)","Presmerovanie jazdných pruhov (doľava, 1 pruh + 2 v pripájajúce sa)"
+441-18,information,lane-diversion-left-2-lanes-plus-1-merging,"Lane diversion (to the left, 2 lanes + 1 merging)","Presmerovanie jazdných pruhov (doľava, 2 pruhy + 1 pripájajúci sa)"
+441-20,information,lane-diversion-right-1-lane,"Lane diversion (to the right, 1 lane)","Presmerovanie jazdných pruhov (doprava, 1 pruh)"
+441-21,information,lane-diversion-right-2-lanes,"Lane diversion (to the right, 2 lanes)","Presmerovanie jazdných pruhov (doprava, 2 pruhy)"
+441-22,information,lane-diversion-right-3-lanes,"Lane diversion (to the right, 3 lanes)","Presmerovanie jazdných pruhov (doprava, 3 pruhy)"
+441-23,information,lane-diversion-right-1-lane-plus-1-continuing,"Lane diversion (to the right, 1 lane + 1 continuing)","Presmerovanie jazdných pruhov (doprava, 1 pruh + 1 pokračujúci)"
+441-24,information,lane-diversion-right-1-lane-plus-2-continuing,"Lane diversion (to the right, 1 lane + 2 continuing)","Presmerovanie jazdných pruhov (doprava, 1 pruh + 2 pokračujúce)"
+441-25,information,lane-diversion-right-2-lanes-plus-1-continuing,"Lane diversion (to the right, 2 lanes + 1 continuing)","Presmerovanie jazdných pruhov (doprava, 2 pruhy + 1 pokračujúci)"
+441-26,information,lane-diversion-right-1-lane-plus-1-merging,"Lane diversion (to the right, 1 lane + 1 merging)","Presmerovanie jazdných pruhov (doprava, 1 pruh + 1 pripájajúci sa)"
+441-27,information,lane-diversion-right-1-lane-plus-2-merging,"Lane diversion (to the right, 1 lane + 2 merging)","Presmerovanie jazdných pruhov (doprava, 1 pruh + 2 v pripájajúce sa)"
+441-28,information,lane-diversion-right-2-lanes-plus-1-merging,"Lane diversion (to the right, 2 lanes + 1 merging)","Presmerovanie jazdných pruhov (doprava, 2 pruhy + 1 pripájajúci sa)"
+442-11,information,lane-diversion-left-2-lanes-with-regulatory-sign,"Lane diversion (to the left, 2 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov (doľava, 2 pruhy, s vloženou regulačnou značkou)"
+442-12,information,lane-diversion-left-3-lanes-with-regulatory-sign,"Lane diversion (to the left, 3 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov (doľava, 3 pruhy, s vloženou regulačnou značkou)"
+442-21,information,lane-diversion-right-2-lanes-with-regulatory-sign,"Lane diversion (to the right, 2 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov (doprava, 2 pruhy, s vloženou regulačnou značkou)"
+442-22,information,lane-diversion-right-3-lanes-with-regulatory-sign,"Lane diversion (to the right, 3 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov (doprava, 3 pruhy, s vloženou regulačnou značkou)"
+443-10,information,contraflow-lane-diversion-left-1-lane,"Contraflow lane diversion (to the left, 1 lane)","Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh)"
+443-11,information,contraflow-lane-diversion-left-2-lanes,"Contraflow lane diversion (to the left, 2 lanes)","Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy)"
+443-12,information,contraflow-lane-diversion-left-3-lanes,"Contraflow lane diversion (to the left, 3 lanes)","Presmerovanie jazdných pruhov do protismeru (doľava, 3 pruhy)"
+443-16,information,contraflow-lane-diversion-left-1-lane-plus-1-straight,"Contraflow lane diversion (to the left, 1 lane + 1 straight)","Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 1 priamo)"
+443-17,information,contraflow-lane-diversion-left-1-lane-plus-2-straight,"Contraflow lane diversion (to the left, 1 lane + 2 straight)","Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 2 priamo)"
+443-18,information,contraflow-lane-diversion-left-2-lanes-plus-1-straight,"Contraflow lane diversion (to the left, 2 lanes + 1 straight)","Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy + 1 priamo)"
+443-20,information,contraflow-lane-diversion-right-1-lane,"Contraflow lane diversion (to the right, 1 lane)","Presmerovanie jazdných pruhov do protismeru (doprava, 1 pruh)"
+443-21,information,contraflow-lane-diversion-right-2-lanes,"Contraflow lane diversion (to the right, 2 lanes)","Presmerovanie jazdných pruhov do protismeru (doprava, 2 pruhy)"
+443-22,information,contraflow-lane-diversion-right-3-lanes,"Contraflow lane diversion (to the right, 3 lanes)","Presmerovanie jazdných pruhov do protismeru (doprava, 3 pruhy)"
+444-11,information,contraflow-lane-diversion-left-2-lanes-with-regulatory-sign,"Contraflow lane diversion (to the left, 2 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy, s vloženou regulačnou značkou)"
+444-12,information,contraflow-lane-diversion-left-3-lanes-with-regulatory-sign,"Contraflow lane diversion (to the left, 3 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doľava, 3 pruhy, s vloženou regulačnou značkou)"
+444-16,information,contraflow-lane-diversion-left-1-lane-plus-1-straight-with-regulatory-sign,"Contraflow lane diversion (to the left, 1 lane + 1 straight, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 1 priamo, s vloženou regulačnou značkou)"
+444-17,information,contraflow-lane-diversion-left-1-lane-plus-2-straight-with-regulatory-sign,"Contraflow lane diversion (to the left, 1 lane + 2 straight, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 2 priamo, s vloženou regulačnou značkou)"
+444-18,information,contraflow-lane-diversion-left-2-lanes-plus-1-straight-with-regulatory-sign,"Contraflow lane diversion (to the left, 2 lanes + 1 straight, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy + 1 priamo, s vloženou regulačnou značkou)"
+444-21,information,contraflow-lane-diversion-right-2-lanes-with-regulatory-sign,"Contraflow lane diversion (to the right, 2 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doprava, 2 pruhy, s vloženou regulačnou značkou)"
+444-22,information,contraflow-lane-diversion-right-3-lanes-with-regulatory-sign,"Contraflow lane diversion (to the right, 3 lanes, with inset regulatory sign)","Presmerovanie jazdných pruhov do protismeru (doprava, 3 pruhy, s vloženou regulačnou značkou)"
+501-50,additional-panel,distance-metres,"Distance (in metres, e.g. 100 m)","Vzdialenosť (v metroch, vzor 100 m)"
+501-51,additional-panel,distance-kilometres,"Distance (in kilometres, e.g. 3 km)","Vzdialenosť (v kilometroch, vzor 3 km)"
+501-70,additional-panel,distance-lane-signs-metres,"Distance (for lane signs, in metres, e.g. 600 m)","Vzdialenosť (pre pruhové značky, v metroch, vzor 600 m)"
+502-50,additional-panel,section-length-metres,"Length of section (in metres, e.g. 800 m)","Dĺžka úseku (v metroch, vzor 800 m)"
+502-51,additional-panel,section-length-kilometres,"Length of section (in kilometres, e.g. 6 km)","Dĺžka úseku (v kilometroch, vzor 6 km)"
+502-71,additional-panel,section-length-lane-signs-kilometres,"Length of section (for lane signs, in kilometres, e.g. 24 km)","Dĺžka úseku (pre pruhové značky, v kilometroch, vzor 24 km)"
+504-10,additional-panel,direction-of-validity-left,Direction of validity (to the left),Smer platnosti (doľava)
+504-20,additional-panel,direction-of-validity-right,Direction of validity (to the right),Smer platnosti (doprava)
+701-50,traffic-device,closure-barrier-100x1200mm,Closure barrier (100 × 1200 mm),Zábrana na označenie uzávierky (100 x 1200 mm)
+701-51,traffic-device,closure-barrier-100x1600mm,Closure barrier (100 × 1600 mm),Zábrana na označenie uzávierky (100 x 1600 mm)
+701-52,traffic-device,closure-barrier-100x2000mm,Closure barrier (100 × 2000 mm),Zábrana na označenie uzávierky (100 x 2000 mm)
+701-53,traffic-device,closure-barrier-250x1200mm,Closure barrier (250 × 1200 mm),Zábrana na označenie uzávierky (250 x 1200 mm)
+701-54,traffic-device,closure-barrier-250x1600mm,Closure barrier (250 × 1600 mm),Zábrana na označenie uzávierky (250 x 1600 mm)
+701-55,traffic-device,closure-barrier-250x2000mm,Closure barrier (250 × 2000 mm),Zábrana na označenie uzávierky (250 x 2000 mm)
+701-56,traffic-device,closure-barrier-250x2400mm,Closure barrier (250 × 2400 mm),Zábrana na označenie uzávierky (250 x 2400 mm)
+701-57,traffic-device,closure-barrier-500x1600mm,Closure barrier (500 × 1600 mm),Zábrana na označenie uzávierky (500 x 1600 mm)
+701-58,traffic-device,closure-barrier-500x2000mm,Closure barrier (500 × 2000 mm),Zábrana na označenie uzávierky (500 x 2000 mm)
+701-59,traffic-device,closure-barrier-500x2400mm,Closure barrier (500 × 2400 mm),Zábrana na označenie uzávierky (500 x 2400 mm)
+701-60,traffic-device,closure-barrier-1000x250mm,Closure barrier (1000 × 250 mm),Zábrana na označenie uzávierky (1000 x 250 mm)
+702-10,traffic-device,direction-board-arrow-left-1000x250mm,"Direction board (arrow, left-pointing, 1000 × 250 mm)","Smerovacia doska (šípová, ľavá orientácia, 1000 x 250 mm)"
+702-11,traffic-device,direction-board-hatched-left-1000x250mm,"Direction board (hatched, left-pointing, 1000 × 250 mm)","Smerovacia doska (šrafovaná, ľavá orientácia, 1000 x 250 mm)"
+702-12,traffic-device,direction-board-warning-left-2000x250mm,"Direction board (warning, left-pointing, 2000 × 250 mm)","Smerovacia doska (varovná, ľavá orientácia, 2000 x 250 mm)"
+702-13,traffic-device,direction-board-warning-lights-left-2500x500mm,"Direction board (warning, with amber lights, left-pointing, 2500 × 500 mm)","Smerovacia doska (varovná so žltými svetlami, ľavá orientácia, 2500 x 500 mm)"
+702-14,traffic-device,direction-board-warning-lights-sign-left-2500x500mm,"Direction board (warning, with amber lights and sign, left-pointing, 2500 × 500 mm)","Smerovacia doska (varovná so žltými svetlami a značkou, ľavá orientácia, 2500 x 500 mm)"
+702-20,traffic-device,direction-board-arrow-right-1000x250mm,"Direction board (arrow, right-pointing, 1000 × 250 mm)","Smerovacia doska (šípová, pravá orientácia, 1000 x 250 mm)"
+702-21,traffic-device,direction-board-hatched-right-1000x250mm,"Direction board (hatched, right-pointing, 1000 × 250 mm)","Smerovacia doska (šrafovaná, pravá orientácia, 1000 x 250 mm)"
+702-22,traffic-device,direction-board-warning-right-2000x250mm,"Direction board (warning, right-pointing, 2000 × 250 mm)","Smerovacia doska (varovná, pravá orientácia, 2000 x 250 mm)"
+702-23,traffic-device,direction-board-warning-lights-right-2500x500mm,"Direction board (warning, with amber lights, right-pointing, 2500 × 500 mm)","Smerovacia doska (varovná so žltými svetlami, pravá orientácia, 2500 x 500 mm)"
+702-24,traffic-device,direction-board-warning-lights-sign-right-2500x500mm,"Direction board (warning, with amber lights and sign, right-pointing, 2500 × 500 mm)","Smerovacia doska (varovná so žltými svetlami a značkou, pravá orientácia, 2500 x 500 mm)"
+702-30,traffic-device,direction-board-hatched-neutral-1000x250mm,"Direction board (hatched, neutral, 1000 × 250 mm)","Smerovacia doska (šrafovaná, neutrálna orientácia, 1000 x 250 mm)"
+703-30,traffic-device,traffic-cone-300mm,"Traffic cone (275 mm reflective area, 300 mm high)","Dopravný kužeľ (retroreflexný obraz 275 mm, celková výška kužeľa 300 mm)"
+703-31,traffic-device,traffic-cone-500mm,"Traffic cone (425 mm reflective area, 500 mm high)","Dopravný kužeľ (retroreflexný obraz 425 mm, celková výška kužeľa 500 mm)"
+703-32,traffic-device,traffic-cone-750mm,"Traffic cone (650 mm reflective area, 750 mm high)","Dopravný kužeľ (retroreflexný obraz 650 mm, celková výška kužeľa 750 mm)"
+703-33,traffic-device,traffic-cone-1000mm,"Traffic cone (900 mm reflective area, 1000 mm high)","Dopravný kužeľ (retroreflexný obraz 900 mm, celková výška kužeľa 1000 mm)"
+705-10,traffic-device,chevron-board-1-arrow-left-500x500mm,"Chevron board (1 arrow, left-pointing, 500 × 500 mm)","Smerovacia tabuľa (1-šípová, ľavá orientácia, 500 x 500 mm)"
+705-11,traffic-device,chevron-board-1-arrow-left-600x600mm,"Chevron board (1 arrow, left-pointing, 600 × 600 mm)","Smerovacia tabuľa (1-šípová, ľavá orientácia, 600 x 600 mm)"
+705-12,traffic-device,chevron-board-1-arrow-left-750x750mm,"Chevron board (1 arrow, left-pointing, 750 × 750 mm)","Smerovacia tabuľa (1-šípová, ľavá orientácia, 750 x 750 mm)"
+705-13,traffic-device,chevron-board-3-arrows-left-500x1500mm,"Chevron board (3 arrows, left-pointing, 500 × 1500 mm)","Smerovacia tabuľa (3-šípová, ľavá orientácia, 500 x 1500 mm)"
+705-14,traffic-device,chevron-board-4-arrows-left-500x2000mm,"Chevron board (4 arrows, left-pointing, 500 × 2000 mm)","Smerovacia tabuľa (4-šípová, ľavá orientácia, 500 x 2000 mm)"
+705-15,traffic-device,chevron-board-5-arrows-left-500x2500mm,"Chevron board (5 arrows, left-pointing, 500 × 2500 mm)","Smerovacia tabuľa (5-šípová, ľavá orientácia, 500 x 2500 mm)"
+730,traffic-signal,green-arrow,Green arrow (supplementary device to traffic signals),Zelená šípka (doplnkové zariadenie k svetelným signálom)
+730-58,traffic-signal,green-arrow-cyclists,Green arrow for cyclists (supplementary device to traffic signals),"Zelená šípka (doplnkové zariadenie k svetelným signálom, platí pre cyklistov)"
+731,traffic-signal,black-arrow,Black arrow (supplementary device to traffic signals),Čierna šípka (doplnkové zariadenie k svetelným signálom)
+739,traffic-signal,cyclist-signal-marker,Cyclist signal marker (supplementary device to traffic signals),Označenie návestidla pre cyklistov (doplnkové zariadenie k svetelným signálom podľa (Z7) § 15 ods. 8)
+801,traffic-signal,vehicle-signal-stop,Vehicle signal: stop,Signál Stoj pre vozidlá
+802,traffic-signal,vehicle-signal-wait,Vehicle signal: wait,Signál Čakaj pre vozidlá
+803,traffic-signal,vehicle-signal-go,Vehicle signal: go,Signál Voľno pre vozidlá
+804-10,traffic-signal,vehicle-signal-stop-left,"Vehicle signal: stop, directional (left)","Signál Stoj pre vozidlá, smerový (vľavo)"
+804-30,traffic-signal,vehicle-signal-stop-straight,"Vehicle signal: stop, directional (straight ahead)","Signál Stoj pre vozidlá, smerový (priamo)"
+804-20,traffic-signal,vehicle-signal-stop-right,"Vehicle signal: stop, directional (right)","Signál Stoj pre vozidlá, smerový (vpravo)"
+805-10,traffic-signal,vehicle-signal-wait-left,"Vehicle signal: wait, directional (left)","Signál Čakaj pre vozidlá, smerový (vľavo)"
+805-30,traffic-signal,vehicle-signal-wait-straight,"Vehicle signal: wait, directional (straight ahead)","Signál Čakaj pre vozidlá, smerový (priamo)"
+805-20,traffic-signal,vehicle-signal-wait-right,"Vehicle signal: wait, directional (right)","Signál Čakaj pre vozidlá, smerový (vpravo)"
+806-10,traffic-signal,vehicle-signal-go-left,"Vehicle signal: go, directional (left)","Signál Voľno pre vozidlá, smerový (vľavo)"
+806-30,traffic-signal,vehicle-signal-go-straight,"Vehicle signal: go, directional (straight ahead)","Signál Voľno pre vozidlá, smerový (priamo)"
+806-20,traffic-signal,vehicle-signal-go-right,"Vehicle signal: go, directional (right)","Signál Voľno pre vozidlá, smerový (vpravo)"
+807-10,traffic-signal,vehicle-signal-stop-straight-and-left,"Vehicle signal: stop, two-directional (straight ahead and left)","Signál Stoj pre vozidlá, 2-smerový (priamo a vľavo)"
+807-20,traffic-signal,vehicle-signal-stop-straight-and-right,"Vehicle signal: stop, two-directional (straight ahead and right)","Signál Stoj pre vozidlá, 2-smerový (priamo a vpravo)"
+808-10,traffic-signal,vehicle-signal-wait-straight-and-left,"Vehicle signal: wait, two-directional (straight ahead and left)","Signál Čakaj pre vozidlá, 2-smerový (priamo a vľavo)"
+808-20,traffic-signal,vehicle-signal-wait-straight-and-right,"Vehicle signal: wait, two-directional (straight ahead and right)","Signál Čakaj pre vozidlá, 2-smerový (priamo a vpravo)"
+809-10,traffic-signal,vehicle-signal-go-straight-and-left,"Vehicle signal: go, two-directional (straight ahead and left)","Signál Voľno pre vozidlá, 2-smerový (priamo a vľavo)"
+809-20,traffic-signal,vehicle-signal-go-straight-and-right,"Vehicle signal: go, two-directional (straight ahead and right)","Signál Voľno pre vozidlá, 2-smerový (priamo a vpravo)"
+810,traffic-signal,cyclist-signal-stop,Cyclist signal: stop,Signál Stoj pre cyklistov
+811,traffic-signal,cyclist-signal-wait,Cyclist signal: wait,Signál Čakaj pre cyklistov
+812,traffic-signal,cyclist-signal-go,Cyclist signal: go,Signál Voľno pre cyklistov
+813-10,traffic-signal,cyclist-signal-stop-left,"Cyclist signal: stop, directional (left)","Signál Stoj pre cyklistov, smerový (vľavo)"
+813-30,traffic-signal,cyclist-signal-stop-straight,"Cyclist signal: stop, directional (straight ahead)","Signál Stoj pre cyklistov, smerový (priamo)"
+813-20,traffic-signal,cyclist-signal-stop-right,"Cyclist signal: stop, directional (right)","Signál Stoj pre cyklistov, smerový (vpravo)"
+814-10,traffic-signal,cyclist-signal-wait-left,"Cyclist signal: wait, directional (left)","Signál Čakaj pre cyklistov, smerový (vľavo)"
+814-30,traffic-signal,cyclist-signal-wait-straight,"Cyclist signal: wait, directional (straight ahead)","Signál Čakaj pre cyklistov, smerový (priamo)"
+814-20,traffic-signal,cyclist-signal-wait-right,"Cyclist signal: wait, directional (right)","Signál Čakaj pre cyklistov, smerový (vpravo)"
+815-10,traffic-signal,cyclist-signal-go-left,"Cyclist signal: go, directional (left)","Signál Voľno pre cyklistov, smerový (vľavo)"
+815-30,traffic-signal,cyclist-signal-go-straight,"Cyclist signal: go, directional (straight ahead)","Signál Voľno pre cyklistov, smerový (priamo)"
+815-20,traffic-signal,cyclist-signal-go-right,"Cyclist signal: go, directional (right)","Signál Voľno pre cyklistov, smerový (vpravo)"
+819,traffic-signal,cyclist-signal-go-supplementary,"Cyclist signal: go, directional (supplementary signal)","Signál Voľno pre cyklistov, smerový (doplnkový signál podľa (Z7) § 15 ods. 8)"
+820,traffic-signal,pedestrian-signal-stop,Pedestrian signal: stop,Signál Stoj pre chodcov
+821,traffic-signal,pedestrian-signal-go,Pedestrian signal: go,Signál Voľno pre chodcov
+822,traffic-signal,cyclist-crossing-signal-stop,Cyclist crossing signal: stop,Signál Stoj pre cyklistov (pri prechádzaní cez vozovku)
+823,traffic-signal,cyclist-crossing-signal-go,Cyclist crossing signal: go,Signál Voľno pre cyklistov (pri prechádzaní cez vozovku)
+824,traffic-signal,pedestrian-cyclist-signal-stop,Pedestrian and cyclist crossing signal: stop,Signál Stoj pre chodcov a cyklistov (pri prechádzaní cez vozovku)
+825,traffic-signal,pedestrian-cyclist-signal-go,Pedestrian and cyclist crossing signal: go,Signál Voľno pre chodcov a cyklistov (pri prechádzaní cez vozovku)
+830,traffic-signal,supplementary-green-arrow-left-far-corner,Supplementary green arrow left (in the far corner of the intersection),Signál Doplnková zelená šípka vľavo (v protiľahlom rohu križovatky)
+831-30,traffic-signal,supplementary-green-arrow-straight,Supplementary green arrow before the intersection (straight ahead),Signál Doplnková zelená šípka pred križovatkou (priamo)
+831-32,traffic-signal,supplementary-green-arrow-straight-and-right,Supplementary green arrow before the intersection (straight ahead and right),Signál Doplnková zelená šípka pred križovatkou (priamo a vpravo)
+831-20,traffic-signal,supplementary-green-arrow-right,Supplementary green arrow before the intersection (right),Signál Doplnková zelená šípka pred križovatkou (vpravo)
+832-50,traffic-signal,crossing-notification-signal-pedestrians,Crossing traffic notification signal (pedestrians),Notifikačný signál o križovaní smeru (chodcov)
+832-51,traffic-signal,crossing-notification-signal-cyclists,Crossing traffic notification signal (cyclists),Notifikačný signál o križovaní smeru (cyklistov)
+832-52,traffic-signal,crossing-notification-signal-pedestrians-cyclists,Crossing traffic notification signal (pedestrians and cyclists),Notifikačný signál o križovaní smeru (chodcov a cyklistov)
+835-30,traffic-signal,speed-signal-30,Speed signal (30 km/h),Rýchlostný signál (30 kmh)
+835-40,traffic-signal,speed-signal-40,Speed signal (40 km/h),Rýchlostný signál (40 kmh)
+835-50,traffic-signal,speed-signal-50,Speed signal (50 km/h),Rýchlostný signál (50 kmh)
+835-60,traffic-signal,speed-signal-60,Speed signal (60 km/h),Rýchlostný signál (60 kmh)
+835-70,traffic-signal,speed-signal-70,Speed signal (70 km/h),Rýchlostný signál (70 kmh)
+836-30,traffic-signal,rail-vehicle-speed-signal-30,Rail vehicle speed signal (30 km/h),Rýchlostný signál pre dráhové vozidlá (30 kmh)
+836-40,traffic-signal,rail-vehicle-speed-signal-40,Rail vehicle speed signal (40 km/h),Rýchlostný signál pre dráhové vozidlá (40 kmh)
+836-50,traffic-signal,rail-vehicle-speed-signal-50,Rail vehicle speed signal (50 km/h),Rýchlostný signál pre dráhové vozidlá (50 kmh)
+836-60,traffic-signal,rail-vehicle-speed-signal-60,Rail vehicle speed signal (60 km/h),Rýchlostný signál pre dráhové vozidlá (60 kmh)
+836-70,traffic-signal,rail-vehicle-speed-signal-70,Rail vehicle speed signal (70 km/h),Rýchlostný signál pre dráhové vozidlá (70 kmh)
+840,traffic-signal,flashing-amber-signal,Flashing amber signal,Prerušovaný žltý signál
+841-50,traffic-signal,flashing-amber-signal-pedestrians,Flashing amber signal with road user symbol (pedestrians),Prerušovaný žltý signál so symbolom účastníka (chodci)
+841-51,traffic-signal,flashing-amber-signal-cyclists,Flashing amber signal with road user symbol (cyclists),Prerušovaný žltý signál so symbolom účastníka (cyklisti)
+841-52,traffic-signal,flashing-amber-signal-pedestrians-cyclists,Flashing amber signal with road user symbol (pedestrians and cyclists),Prerušovaný žltý signál so symbolom účastníka (chodci a cyklisti)
+841-53,traffic-signal,flashing-amber-signal-tram,Flashing amber signal with road user symbol (tram),Prerušovaný žltý signál so symbolom účastníka (električka)
+841-54,traffic-signal,flashing-amber-signal-bus,"Flashing amber signal with road user symbol (bus, trolleybus)","Prerušovaný žltý signál so symbolom účastníka (autobus, trolejbus)"
+850,traffic-signal,rail-vehicle-signal-stop,Rail vehicle signal: stop,Signál Stoj pre dráhové vozidlá
+851,traffic-signal,rail-vehicle-signal-wait,Rail vehicle signal: wait,Signál Čakaj pre dráhové vozidlá
+852,traffic-signal,rail-vehicle-signal-go,Rail vehicle signal: go,Signál Voľno pre dráhové vozidlá
+853-10,traffic-signal,rail-vehicle-signal-go-left,"Rail vehicle signal: go, directional (left)","Signál Voľno pre dráhové vozidlá, smerový (vľavo)"
+853-20,traffic-signal,rail-vehicle-signal-go-right,"Rail vehicle signal: go, directional (right)","Signál Voľno pre dráhové vozidlá, smerový (vpravo)"
+853-30,traffic-signal,rail-vehicle-signal-go-straight,"Rail vehicle signal: go, directional (straight ahead)","Signál Voľno pre dráhové vozidlá, smerový (priamo)"
+855,traffic-signal,rail-vehicle-signal-prepare,Rail vehicle signal: prepare to depart,Signál Výzva pre dráhové vozidlá
+856,traffic-signal,rail-vehicle-signal-depart,Rail vehicle signal: depart,Signál Odjazd pre dráhové vozidlá
+860,traffic-signal,lane-signal-closed,Lane signal: lane closed,Signál Tento jazdný pruh sa nesmie používať
+861-10,traffic-signal,lane-signal-leave-lane-left,Lane signal: leave this lane (left),Signál Opustite tento jazdný pruh v smere šípky (vľavo)
+861-20,traffic-signal,lane-signal-leave-lane-right,Lane signal: leave this lane (right),Signál Opustite tento jazdný pruh v smere šípky (vpravo)
+862,traffic-signal,lane-signal-open,Lane signal: lane open,Signál Tento jazdný pruh sa môže používať
+870,traffic-signal,public-transport-signal-stop,Public transport signal: stop,Signál Stoj pre vozidlá verejnej hromadnej dopravy
+871,traffic-signal,public-transport-signal-wait,Public transport signal: wait,Signál Čakaj pre vozidlá verejnej hromadnej dopravy
+872-10,traffic-signal,public-transport-signal-go-left,Public transport signal: go (left),Signál Voľno pre vozidlá verejnej hromadnej dopravy (vľavo)
+872-11,traffic-signal,public-transport-signal-go-straight-and-left,Public transport signal: go (straight ahead and left),Signál Voľno pre vozidlá verejnej hromadnej dopravy (priamo a vľavo)
+872-20,traffic-signal,public-transport-signal-go-right,Public transport signal: go (right),Signál Voľno pre vozidlá verejnej hromadnej dopravy (vpravo)
+872-21,traffic-signal,public-transport-signal-go-straight-and-right,Public transport signal: go (straight ahead and right),Signál Voľno pre vozidlá verejnej hromadnej dopravy (priamo a vpravo)
+872-30,traffic-signal,public-transport-signal-go-straight,Public transport signal: go (straight ahead),Signál Voľno pre vozidlá verejnej hromadnej dopravy (priamo)
+872-31,traffic-signal,public-transport-signal-go-left-and-right,Public transport signal: go (left and right),Signál Voľno pre vozidlá verejnej hromadnej dopravy (vľavo a vpravo)

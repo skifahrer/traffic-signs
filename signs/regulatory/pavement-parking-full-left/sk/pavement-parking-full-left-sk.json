@@ -1,0 +1,15 @@
+{
+  "sign": "pavement-parking-full-left",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "273-60",
+  "name": {
+    "en": "Parking on the pavement (fully, placed at an angle or parallel, left)",
+    "sk": "Parkovanie na chodníku (úplne, umiestnenie šikmo/pozdĺžne vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "273-60 Parkovanie na chodníku (úplne, umiestnenie šikmo-pozdĺžne vľavo).svg"
+  }
+}

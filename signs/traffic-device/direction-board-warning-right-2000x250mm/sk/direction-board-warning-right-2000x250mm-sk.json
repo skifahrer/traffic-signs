@@ -1,0 +1,15 @@
+{
+  "sign": "direction-board-warning-right-2000x250mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "702-22",
+  "name": {
+    "en": "Direction board (warning, right-pointing, 2000 × 250 mm)",
+    "sk": "Smerovacia doska (varovná, pravá orientácia, 2000 x 250 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "702-22 Smerovacia doska (varovná, pravá orientácia, 2000 x 250 mm).svg"
+  }
+}

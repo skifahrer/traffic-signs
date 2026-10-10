@@ -1,0 +1,15 @@
+{
+  "sign": "cycle-crossing-left-side",
+  "category": "information",
+  "country": "sk",
+  "code": "326-20",
+  "name": {
+    "en": "Cycle crossing (placed on the left)",
+    "sk": "Priechod pre cyklistov (umiestnenie vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "326-20 Priechod pre cyklistov (umiestnenie vľavo).svg"
+  }
+}

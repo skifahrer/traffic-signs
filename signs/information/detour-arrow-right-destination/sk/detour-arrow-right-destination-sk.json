@@ -1,0 +1,15 @@
+{
+  "sign": "detour-arrow-right-destination",
+  "category": "information",
+  "country": "sk",
+  "code": "395-21-51",
+  "name": {
+    "en": "Detour arrow (to the right, with long-distance destination)",
+    "sk": "Šípový smerník na vyznačenie obchádzky (doprava, s vyznačeným diaľkovým cieľom)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "395-21-51 Šípový smerník na vyznačenie obchádzky (doprava, s vyznačeným diaľkovým cieľom).svg"
+  }
+}

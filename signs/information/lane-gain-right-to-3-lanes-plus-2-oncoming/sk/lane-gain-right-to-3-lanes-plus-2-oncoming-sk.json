@@ -1,0 +1,15 @@
+{
+  "sign": "lane-gain-right-to-3-lanes-plus-2-oncoming",
+  "category": "information",
+  "country": "sk",
+  "code": "423-24",
+  "name": {
+    "en": "Lane gain (right, 3 lanes continuing + 2 oncoming)",
+    "sk": "Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 2 v protismere)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "423-24 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 2 v protismere).svg"
+  }
+}

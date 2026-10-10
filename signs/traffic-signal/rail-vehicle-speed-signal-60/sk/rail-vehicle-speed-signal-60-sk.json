@@ -1,0 +1,15 @@
+{
+  "sign": "rail-vehicle-speed-signal-60",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "836-60",
+  "name": {
+    "en": "Rail vehicle speed signal (60 km/h)",
+    "sk": "Rýchlostný signál pre dráhové vozidlá (60 kmh)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "836-60 Rýchlostný signál pre dráhové vozidlá (60 kmh).svg"
+  }
+}

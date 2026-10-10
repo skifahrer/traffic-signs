@@ -1,0 +1,15 @@
+{
+  "sign": "kilometre-marker-junction-branch-expressway",
+  "category": "information",
+  "country": "sk",
+  "code": "355-71",
+  "name": {
+    "en": "Kilometre marker (motorway junction branch or feeder, category R marked with sign 309)",
+    "sk": "Kilometrovník (staničenie vetvy diaľničného uzla alebo prípojky – kategória R označená Z 309)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "355-71 Kilometrovník (staničenie vetvy diaľničného uzla alebo prípojky – kategória R označená Z 309).svg"
+  }
+}

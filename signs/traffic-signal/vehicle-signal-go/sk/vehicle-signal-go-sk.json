@@ -1,0 +1,15 @@
+{
+  "sign": "vehicle-signal-go",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "803",
+  "name": {
+    "en": "Vehicle signal: go",
+    "sk": "Signál Voľno pre vozidlá"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "803 Signál Voľno pre vozidlá.svg"
+  }
+}

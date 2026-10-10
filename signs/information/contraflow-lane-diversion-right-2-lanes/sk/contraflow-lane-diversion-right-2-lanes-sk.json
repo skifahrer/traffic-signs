@@ -1,0 +1,15 @@
+{
+  "sign": "contraflow-lane-diversion-right-2-lanes",
+  "category": "information",
+  "country": "sk",
+  "code": "443-21",
+  "name": {
+    "en": "Contraflow lane diversion (to the right, 2 lanes)",
+    "sk": "Presmerovanie jazdných pruhov do protismeru (doprava, 2 pruhy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "443-21 Presmerovanie jazdných pruhov do protismeru (doprava, 2 pruhy).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "speed-limit-70",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "253-70",
+  "name": {
+    "en": "Speed limit (70 km/h)",
+    "sk": "Najvyššia dovolená rýchlosť (70 km/h)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "253-70 Najvyššia dovolená rýchlosť (70 kmh).svg"
+  }
+}

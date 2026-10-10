@@ -1,0 +1,15 @@
+{
+  "sign": "alternative-route-change-motorway-left",
+  "category": "information",
+  "country": "sk",
+  "code": "391-10",
+  "name": {
+    "en": "Alternative route change (motorway on the left)",
+    "sk": "Zmena náhradnej trasy (diaľnica vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "391-10 Zmena náhradnej trasy (diaľnica vľavo).svg"
+  }
+}

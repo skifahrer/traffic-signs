@@ -1,0 +1,15 @@
+{
+  "sign": "chevron-board-1-arrow-left-750x750mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "705-12",
+  "name": {
+    "en": "Chevron board (1 arrow, left-pointing, 750 × 750 mm)",
+    "sk": "Smerovacia tabuľa (1-šípová, ľavá orientácia, 750 x 750 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "705-12 Smerovacia tabuľa (1-šípová, ľavá orientácia, 750 x 750 mm).svg"
+  }
+}

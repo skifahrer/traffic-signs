@@ -1,0 +1,15 @@
+{
+  "sign": "cyclist-signal-wait",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "811",
+  "name": {
+    "en": "Cyclist signal: wait",
+    "sk": "Signál Čakaj pre cyklistov"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "811 Signál Čakaj pre cyklistov.svg"
+  }
+}

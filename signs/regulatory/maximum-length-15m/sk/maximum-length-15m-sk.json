@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-length-15m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "244-15",
+  "name": {
+    "en": "Maximum length (15 m)",
+    "sk": "Maximálna dĺžka (15 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "244-15 Maximálna dĺžka (15 m).svg"
+  }
+}

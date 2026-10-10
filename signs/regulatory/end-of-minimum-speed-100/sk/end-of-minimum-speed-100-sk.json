@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-minimum-speed-100",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "260-100",
+  "name": {
+    "en": "End of minimum speed (100 km/h)",
+    "sk": "Koniec najnižšej dovolenej rýchlosti (100 km/h)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "260-100 Koniec najnižšej dovolenej rýchlosti (100 kmh).svg"
+  }
+}

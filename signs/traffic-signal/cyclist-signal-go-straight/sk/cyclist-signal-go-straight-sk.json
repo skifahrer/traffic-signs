@@ -1,0 +1,15 @@
+{
+  "sign": "cyclist-signal-go-straight",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "815-30",
+  "name": {
+    "en": "Cyclist signal: go, directional (straight ahead)",
+    "sk": "Signál Voľno pre cyklistov, smerový (priamo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "815-30 Signál Voľno pre cyklistov, smerový (priamo).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "tunnel-with-name-and-length",
+  "category": "information",
+  "country": "sk",
+  "code": "322-51",
+  "name": {
+    "en": "Tunnel (long, with name and length)",
+    "sk": "Tunel (dlhý, s názvom a dĺžkou)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "322-51 Tunel (dlhý, s názvom a dĺžkou).svg"
+  }
+}

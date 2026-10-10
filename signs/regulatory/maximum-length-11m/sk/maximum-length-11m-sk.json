@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-length-11m",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "244-11",
+  "name": {
+    "en": "Maximum length (11 m)",
+    "sk": "Maximálna dĺžka (11 m)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "244-11 Maximálna dĺžka (11 m).svg"
+  }
+}

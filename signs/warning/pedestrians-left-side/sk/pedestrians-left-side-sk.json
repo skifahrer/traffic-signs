@@ -1,0 +1,15 @@
+{
+  "sign": "pedestrians-left-side",
+  "category": "warning",
+  "country": "sk",
+  "code": "140-20",
+  "name": {
+    "en": "Pedestrians (placed on the left)",
+    "sk": "Chodci (umiestnenie vľavo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "140-20 Chodci (umiestnenie vľavo).svg"
+  }
+}

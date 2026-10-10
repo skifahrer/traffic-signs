@@ -1,0 +1,15 @@
+{
+  "sign": "chevron-board-5-arrows-left-500x2500mm",
+  "category": "traffic-device",
+  "country": "sk",
+  "code": "705-15",
+  "name": {
+    "en": "Chevron board (5 arrows, left-pointing, 500 × 2500 mm)",
+    "sk": "Smerovacia tabuľa (5-šípová, ľavá orientácia, 500 x 2500 mm)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "705-15 Smerovacia tabuľa (5-šípová, ľavá orientácia, 500 x 2500 mm).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "speed-limit-140",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "253-140",
+  "name": {
+    "en": "Speed limit (140 km/h)",
+    "sk": "Najvyššia dovolená rýchlosť (140 km/h)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "253-140 Najvyššia dovolená rýchlosť (140 kmh).svg"
+  }
+}

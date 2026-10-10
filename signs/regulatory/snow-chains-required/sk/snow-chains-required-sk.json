@@ -1,0 +1,15 @@
+{
+  "sign": "snow-chains-required",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "251",
+  "name": {
+    "en": "Snow chains required",
+    "sk": "Snehové reťaze"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "251 Snehové reťaze.svg"
+  }
+}

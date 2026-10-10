@@ -1,0 +1,15 @@
+{
+  "sign": "motorway-vignette-not-required",
+  "category": "information",
+  "country": "sk",
+  "code": "314",
+  "name": {
+    "en": "Motorway section without vignette",
+    "sk": "Úsek diaľnice nespoplatnený diaľničnou známkou"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "314 Úsek diaľnice nespoplatnený diaľničnou známkou.svg"
+  }
+}

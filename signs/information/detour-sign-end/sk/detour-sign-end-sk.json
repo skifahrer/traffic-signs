@@ -1,0 +1,15 @@
+{
+  "sign": "detour-sign-end",
+  "category": "information",
+  "country": "sk",
+  "code": "394-55",
+  "name": {
+    "en": "Detour sign (end)",
+    "sk": "Tabuľový smerník na vyznačenie obchádzky (koniec)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "394-55 Tabuľový smerník na vyznačenie obchádzky (koniec).svg"
+  }
+}

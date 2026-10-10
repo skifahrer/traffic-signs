@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-detour-goods-vehicles",
+  "category": "information",
+  "country": "sk",
+  "code": "396-32-52",
+  "name": {
+    "en": "End of detour (for goods vehicles)",
+    "sk": "Koniec obchádzky (pre nákladné vozidlá)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "396-32-52 Koniec obchádzky (pre nákladné vozidlá).svg"
+  }
+}

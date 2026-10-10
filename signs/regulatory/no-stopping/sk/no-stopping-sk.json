@@ -1,0 +1,15 @@
+{
+  "sign": "no-stopping",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "270",
+  "name": {
+    "en": "No stopping",
+    "sk": "Zákaz zastavenia"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "270 Zákaz zastavenia.svg"
+  }
+}

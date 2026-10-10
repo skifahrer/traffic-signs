@@ -1,0 +1,15 @@
+{
+  "sign": "lane-addition-right-1-lane-plus-3-through",
+  "category": "information",
+  "country": "sk",
+  "code": "432-23",
+  "name": {
+    "en": "Lane addition at junction (from the right, 1 lane + 3 through)",
+    "sk": "Bezkolízne pripojenie (sprava, 1 pruh + 3 priebežné)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "432-23 Bezkolízne pripojenie (sprava, 1 pruh + 3 priebežné).svg"
+  }
+}

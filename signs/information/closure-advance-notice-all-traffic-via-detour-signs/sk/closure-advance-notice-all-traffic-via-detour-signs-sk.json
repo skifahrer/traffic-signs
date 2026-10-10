@@ -1,0 +1,15 @@
+{
+  "sign": "closure-advance-notice-all-traffic-via-detour-signs",
+  "category": "information",
+  "country": "sk",
+  "code": "392-51",
+  "name": {
+    "en": "Advance closure notice (closed to all traffic, navigation via sign 394)",
+    "sk": "Uzávierková predzvesť (uzávierka pre všetku dopravu, navigácia prostredníctvom Z 394)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "392-51 Uzávierková predzvesť (uzávierka pre všetku dopravu, navigácia prostredníctvom Z 394).svg"
+  }
+}

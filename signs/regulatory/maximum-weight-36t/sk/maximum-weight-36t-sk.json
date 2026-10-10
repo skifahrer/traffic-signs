@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-36t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-36",
+  "name": {
+    "en": "Maximum weight (36 t)",
+    "sk": "Maximálna hmotnosť (36 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-36 Maximálna hmotnosť (36 t).svg"
+  }
+}

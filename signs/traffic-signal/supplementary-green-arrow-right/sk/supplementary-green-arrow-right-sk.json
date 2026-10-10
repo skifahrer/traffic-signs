@@ -1,0 +1,15 @@
+{
+  "sign": "supplementary-green-arrow-right",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "831-20",
+  "name": {
+    "en": "Supplementary green arrow before the intersection (right)",
+    "sk": "Signál Doplnková zelená šípka pred križovatkou (vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "831-20 Signál Doplnková zelená šípka pred križovatkou (vpravo).svg"
+  }
+}

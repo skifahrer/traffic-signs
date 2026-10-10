@@ -1,0 +1,15 @@
+{
+  "sign": "maximum-weight-38t",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "240-38",
+  "name": {
+    "en": "Maximum weight (38 t)",
+    "sk": "Maximálna hmotnosť (38 t)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "240-38 Maximálna hmotnosť (38 t).svg"
+  }
+}

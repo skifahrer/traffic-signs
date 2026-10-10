@@ -1,0 +1,15 @@
+{
+  "sign": "vehicle-signal-go-straight",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "806-30",
+  "name": {
+    "en": "Vehicle signal: go, directional (straight ahead)",
+    "sk": "Signál Voľno pre vozidlá, smerový (priamo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "806-30 Signál Voľno pre vozidlá, smerový (priamo).svg"
+  }
+}

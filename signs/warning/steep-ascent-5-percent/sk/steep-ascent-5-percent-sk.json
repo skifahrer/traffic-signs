@@ -1,0 +1,15 @@
+{
+  "sign": "steep-ascent-5-percent",
+  "category": "warning",
+  "country": "sk",
+  "code": "113-5",
+  "name": {
+    "en": "Steep ascent (5%)",
+    "sk": "Stúpanie (5%)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "113-5 Stúpanie (5%).svg"
+  }
+}

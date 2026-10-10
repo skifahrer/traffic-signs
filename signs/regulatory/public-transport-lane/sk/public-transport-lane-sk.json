@@ -1,0 +1,15 @@
+{
+  "sign": "public-transport-lane",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "224",
+  "name": {
+    "en": "Public transport lane",
+    "sk": "Vyhradený pruh pre verejnú dopravu"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "224 Vyhradený pruh pre verejnú dopravu.svg"
+  }
+}

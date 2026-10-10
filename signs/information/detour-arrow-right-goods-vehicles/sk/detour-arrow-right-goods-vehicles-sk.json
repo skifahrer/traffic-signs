@@ -1,0 +1,15 @@
+{
+  "sign": "detour-arrow-right-goods-vehicles",
+  "category": "information",
+  "country": "sk",
+  "code": "395-22-52",
+  "name": {
+    "en": "Detour arrow (to the right, for goods vehicles)",
+    "sk": "Šípový smerník na vyznačenie obchádzky (doprava, pre nákladné vozidlá)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "395-22-52 Šípový smerník na vyznačenie obchádzky (doprava, pre nákladné vozidlá).svg"
+  }
+}

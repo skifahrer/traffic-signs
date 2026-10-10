@@ -1,0 +1,15 @@
+{
+  "sign": "motorway-number-2-digit",
+  "category": "information",
+  "country": "sk",
+  "code": "352-51",
+  "name": {
+    "en": "Motorway number (2-digit number)",
+    "sk": "Číslo diaľnice alebo rýchlostnej cesty (diaľnica, 2-ciferné číslo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "352-51 Číslo diaľnice alebo rýchlostnej cesty (diaľnica, 2-ciferné číslo).svg"
+  }
+}

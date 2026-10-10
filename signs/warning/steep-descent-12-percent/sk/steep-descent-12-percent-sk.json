@@ -1,0 +1,15 @@
+{
+  "sign": "steep-descent-12-percent",
+  "category": "warning",
+  "country": "sk",
+  "code": "112-12",
+  "name": {
+    "en": "Steep descent (12%)",
+    "sk": "Klesanie (12%)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "112-12 Klesanie (12%).svg"
+  }
+}

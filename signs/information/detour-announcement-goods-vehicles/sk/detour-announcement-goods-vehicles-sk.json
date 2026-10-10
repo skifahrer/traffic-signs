@@ -1,0 +1,15 @@
+{
+  "sign": "detour-announcement-goods-vehicles",
+  "category": "information",
+  "country": "sk",
+  "code": "393-32-52",
+  "name": {
+    "en": "Detour announcement (for goods vehicles)",
+    "sk": "Ohlasovacia tabuľa obchádzky (pre nákladné vozidlá)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "393-32-52 Ohlasovacia tabuľa obchádzky (pre nákladné vozidlá).svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sign": "level-crossing-cross-above-road-electrified",
+  "category": "warning",
+  "country": "sk",
+  "code": "153-53",
+  "name": {
+    "en": "Level crossing cross (above the road, electrified line)",
+    "sk": "Výstražný kríž (nad vozovkou, elektrifikovaná trať)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "153-53 Výstražný kríž (nad vozovkou, elektrifikovaná trať).svg"
+  }
+}

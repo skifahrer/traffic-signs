@@ -1,0 +1,15 @@
+{
+  "sign": "detour-sign-left-here-numbered",
+  "category": "information",
+  "country": "sk",
+  "code": "394-11-50",
+  "name": {
+    "en": "Detour sign (left here, numbered detour)",
+    "sk": "Tabuľový smerník na vyznačenie obchádzky (tu doľava, číslovaná obchádzka)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "394-11-50 Tabuľový smerník na vyznačenie obchádzky (tu doľava, číslovaná obchádzka).svg"
+  }
+}

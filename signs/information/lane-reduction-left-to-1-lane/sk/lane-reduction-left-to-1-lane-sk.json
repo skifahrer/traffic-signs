@@ -1,0 +1,15 @@
+{
+  "sign": "lane-reduction-left-to-1-lane",
+  "category": "information",
+  "country": "sk",
+  "code": "411-10",
+  "name": {
+    "en": "Lane reduction (left, 1 lane continuing)",
+    "sk": "Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "411-10 Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh).svg"
+  }
+}

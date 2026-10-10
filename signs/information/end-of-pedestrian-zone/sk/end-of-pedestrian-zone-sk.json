@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-pedestrian-zone",
+  "category": "information",
+  "country": "sk",
+  "code": "318",
+  "name": {
+    "en": "End of pedestrian zone",
+    "sk": "Koniec pešej zóny"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "318 Koniec pešej zóny.svg"
+  }
+}

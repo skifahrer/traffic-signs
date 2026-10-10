@@ -1,0 +1,15 @@
+{
+  "sign": "turn-right",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "211-20",
+  "name": {
+    "en": "Turn right",
+    "sk": "Prikázaný smer odbočenia (tu vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "211-20 Prikázaný smer odbočenia (tu vpravo).svg"
+  }
+}

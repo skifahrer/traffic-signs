@@ -1,0 +1,15 @@
+{
+  "sign": "supplementary-green-arrow-left-far-corner",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "830",
+  "name": {
+    "en": "Supplementary green arrow left (in the far corner of the intersection)",
+    "sk": "Signál Doplnková zelená šípka vľavo (v protiľahlom rohu križovatky)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "830 Signál Doplnková zelená šípka vľavo (v protiľahlom rohu križovatky).svg"
+  }
+}

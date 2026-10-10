@@ -1,0 +1,15 @@
+{
+  "sign": "services-ev-charging-at-facility",
+  "category": "information",
+  "country": "sk",
+  "code": "330-59",
+  "name": {
+    "en": "Services (EV charging at another facility)",
+    "sk": "Služby (dobíjacia stanica pre elektromobily, služba poskytovaná v rámci iného objektu)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "330-59 Služby (dobíjacia stanica pre elektromobily, služba poskytovaná v rámci iného objektu).svg"
+  }
+}

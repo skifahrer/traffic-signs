@@ -1,0 +1,15 @@
+{
+  "sign": "vehicle-signal-wait-right",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "805-20",
+  "name": {
+    "en": "Vehicle signal: wait, directional (right)",
+    "sk": "Signál Čakaj pre vozidlá, smerový (vpravo)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "805-20 Signál Čakaj pre vozidlá, smerový (vpravo).svg"
+  }
+}

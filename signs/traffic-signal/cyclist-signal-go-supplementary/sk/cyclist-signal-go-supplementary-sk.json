@@ -1,0 +1,15 @@
+{
+  "sign": "cyclist-signal-go-supplementary",
+  "category": "traffic-signal",
+  "country": "sk",
+  "code": "819",
+  "name": {
+    "en": "Cyclist signal: go, directional (supplementary signal)",
+    "sk": "Signál Voľno pre cyklistov, smerový (doplnkový signál podľa (Z7) § 15 ods. 8)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "819 Signál Voľno pre cyklistov, smerový (doplnkový signál podľa (Z7) § 15 ods. 8).svg"
+  }
+}

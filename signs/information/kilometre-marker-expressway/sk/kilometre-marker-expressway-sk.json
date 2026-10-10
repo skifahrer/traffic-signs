@@ -1,0 +1,15 @@
+{
+  "sign": "kilometre-marker-expressway",
+  "category": "information",
+  "country": "sk",
+  "code": "355-61",
+  "name": {
+    "en": "Kilometre marker (with expressway number)",
+    "sk": "Kilometrovník (s číslom rýchlostnej cesty)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "355-61 Kilometrovník (s číslom rýchlostnej cesty).svg"
+  }
+}

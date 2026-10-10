@@ -1,0 +1,15 @@
+{
+  "sign": "parking-right-start-left-end",
+  "category": "regulatory",
+  "country": "sk",
+  "code": "272-10",
+  "name": {
+    "en": "Parking (placed at an angle or parallel: right start, left end)",
+    "sk": "Parkovanie (umiestnenie šikmo/pozdĺžne vpravo: začiatok platnosti, vľavo: koniec platnosti)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "272-10 Parkovanie (umiestnenie šikmo-pozdĺžne vpravo, začiatok platnosti, vľavo, koniec platnosti).svg"
+  }
+}

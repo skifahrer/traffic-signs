@@ -1,0 +1,15 @@
+{
+  "sign": "end-of-detour-dangerous-goods",
+  "category": "information",
+  "country": "sk",
+  "code": "396-32-75",
+  "name": {
+    "en": "End of detour (for vehicles carrying dangerous goods)",
+    "sk": "Koniec obchádzky (pre vozidlá prepravujúce nebezpečné veci)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "396-32-75 Koniec obchádzky (pre vozidlá prepravujúce nebezpečné veci).svg"
+  }
+}

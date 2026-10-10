@@ -1,0 +1,15 @@
+{
+  "sign": "contraflow-lane-diversion-left-3-lanes",
+  "category": "information",
+  "country": "sk",
+  "code": "443-12",
+  "name": {
+    "en": "Contraflow lane diversion (to the left, 3 lanes)",
+    "sk": "Presmerovanie jazdných pruhov do protismeru (doľava, 3 pruhy)"
+  },
+  "source": {
+    "pipeline": "sk-wikipedia",
+    "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
+    "file": "443-12 Presmerovanie jazdných pruhov do protismeru (doľava, 3 pruhy).svg"
+  }
+}
