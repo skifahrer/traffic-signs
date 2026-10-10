@@ -101,6 +101,11 @@ jobs:
           cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Open or update the pull request
+        id: pr
+        # The changes are pushed to sync/<country> before the pull request is
+        # opened, so a refused pull request loses nothing; the next step says
+        # what to do instead of failing the whole sync.
+        continue-on-error: true
         uses: peter-evans/create-pull-request@v8
         with:
           branch: sync/${{ matrix.country }}
@@ -110,6 +115,38 @@ jobs:
           title: "Sync traffic signs from Wikipedia (${{ matrix.country }})"
           body-path: ${{ runner.temp }}/report.md
           labels: sync
+
+      # Usually "GitHub Actions is not permitted to create or approve pull
+      # requests": the branch is pushed, only the pull request is missing.
+      - name: Link to the pull request if it could not be opened
+        if: steps.pr.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          BASE: ${{ github.event.repository.default_branch }}
+          COUNTRY: ${{ matrix.country }}
+        run: |
+          branch="sync/$COUNTRY"
+          if ! git ls-remote --exit-code --heads origin "$branch" > /dev/null; then
+            echo "::error::The changes could not be pushed to $branch, see the step above."
+            exit 1
+          fi
+          if [ -n "$(gh pr list --repo "$REPO" --head "$branch" --state open --json number --jq '.[].number')" ]; then
+            echo "::error::The pull request for $branch could not be updated, see the step above."
+            exit 1
+          fi
+          title=$(jq -rn --arg t "Sync traffic signs from Wikipedia ($COUNTRY)" '$t | @uri')
+          url="https://github.com/$REPO/compare/$BASE...$branch?expand=1&title=$title"
+          setting="Settings → Actions → General → Workflow permissions → Allow GitHub Actions to create and approve pull requests"
+          echo "::warning title=Pull request not opened::The changes are on $branch, but GitHub Actions may not open pull requests here. Open it from $url, or enable: $setting."
+          {
+            echo "### Pull request not opened"
+            echo
+            echo "The changes are on \`$branch\`: **[open the pull request]($url)**."
+            echo
+            echo "To let this workflow open it next time, enable *$setting*"
+            echo "(if the repository belongs to an organisation, the organisation's Actions settings must allow it too)."
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Fail if the sync reported errors
         if: steps.sync.outputs.failed == 'true'

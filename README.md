@@ -236,7 +236,9 @@ changed, archived and untranslated signs.
 When you add a country, add it to the dropdown's `options` in `sync.yml` too;
 `tests/test_workflow.py` fails until the list matches `pipelines/countries`.
 For the jobs to open pull requests, enable *Settings → Actions → General →
-Allow GitHub Actions to create and approve pull requests*.
+Workflow permissions → Allow GitHub Actions to create and approve pull
+requests*. Without it the sync still pushes `sync/<country>`; the job ends with
+a warning and its summary links to open the pull request by hand.
 
 ## Licence
 
