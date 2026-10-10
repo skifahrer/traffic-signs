@@ -65,6 +65,8 @@ name), or show only signs that 2+ countries have. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.
 `#warning/bend-left`.
+Images stored as TIFF, which browsers do not display, are shown through the
+PNG thumbnail that Wikimedia Commons renders for them.
 
 The site is built from `signs/` by `python3 -m viewer` (static page in
 [`viewer/static`](viewer/static), data in `data.json`) and published by

@@ -43,6 +43,22 @@ class ViewerTest(SandboxTestCase):
         self.assertEqual(entry["valid_until"], 2026)
         self.assertEqual(entry["archived"], [{"image": "signs/warning/danger/sk/danger-sk-archived-2020.svg", "valid_until": 2020}])
 
+    def test_tiff_images_are_shown_through_the_wiki_thumbnail(self):
+        meta_path = layout.sign_path("warning", "danger", "sk", "json")
+        with open(meta_path, encoding="utf-8") as handle:
+            meta = json.load(handle)
+        meta["image"] = {
+            "file": "danger-sk.tif",
+            "source": "https://commons.wikimedia.org/wiki/File:IS_12d_N%C3%A1hradn%C3%AD_trasa.tif",
+        }
+        layout.write_json(meta_path, meta)
+
+        entry = self.sign(build_index(), "danger")["countries"]["sk"]
+        self.assertEqual(
+            entry["image"],
+            "https://commons.wikimedia.org/wiki/Special:FilePath/IS_12d_N%C3%A1hradn%C3%AD_trasa.tif?width=320",
+        )
+
     def test_a_country_without_a_pipeline_still_shows(self):
         os.makedirs(self.path("warning", "danger", "at"))
         layout.write_json(

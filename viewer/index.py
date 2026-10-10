@@ -13,14 +13,18 @@
     }
 
 Image paths are relative to the site root, where the builder copies signs/.
+Formats browsers cannot show (TIFF) point at the PNG thumbnail that the
+image's wiki renders instead.
 """
 
 from __future__ import annotations
 
 import json
 import os
+from urllib.parse import quote
 
 from pipelines.core import layout
+from pipelines.core.images import WEB_IMAGE_EXTS
 from pipelines.countries import all_sources
 
 
@@ -63,21 +67,40 @@ def build_index() -> dict:
     }
 
 
+THUMBNAIL_WIDTH = 320  # px; the detail view shows images up to about 11rem high
+
+
+def thumbnail_url(source: str | None) -> str | None:
+    """The wiki's rendering of a file as a web image, from its description page URL.
+
+    https://commons.wikimedia.org/wiki/File:X.tif → …/wiki/Special:FilePath/X.tif?width=320
+    """
+    if not source or "/wiki/File:" not in source:
+        return None
+    site, name = source.split("/wiki/File:", 1)
+    return f"{site}/wiki/Special:FilePath/{quote(name, safe='%')}?width={THUMBNAIL_WIDTH}"
+
+
 def _country_entry(category: str, slug: str, country: str, meta: dict) -> dict:
-    def path(file: str | None) -> str | None:
-        return f"signs/{category}/{slug}/{country}/{file}" if file else None
+    def path(image: dict) -> str | None:
+        file = image.get("file")
+        if not file:
+            return None
+        if file.rsplit(".", 1)[-1].lower() not in WEB_IMAGE_EXTS:
+            return thumbnail_url(image.get("source"))
+        return f"signs/{category}/{slug}/{country}/{file}"
 
     image = meta.get("image") or {}
     entry = {
         "code": meta.get("code"),
-        "image": path(image.get("file")),
+        "image": path(image),
         "license": image.get("license"),
         "author": image.get("author"),
         "source": image.get("source"),
     }
     if "valid_until" in meta:
         entry["valid_until"] = meta["valid_until"]
-    archived = [{"image": path(a.get("file")), "valid_until": a.get("valid_until")} for a in meta.get("archived", [])]
+    archived = [{"image": path(a), "valid_until": a.get("valid_until")} for a in meta.get("archived", [])]
     if archived:
         entry["archived"] = archived
     return entry
