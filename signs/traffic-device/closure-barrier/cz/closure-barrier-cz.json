@@ -1,0 +1,11 @@
+{
+  "sign": "closure-barrier",
+  "category": "traffic-device",
+  "country": "cz",
+  "code": "Z 2",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-Z02 Zábrana pro označení uzavírky.jpg"
+  }
+}

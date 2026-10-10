@@ -1,0 +1,11 @@
+{
+  "sign": "rest-area-turn",
+  "category": "information",
+  "country": "cz",
+  "code": "IJ 18c",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IJ18c Návěst pro odbočení na odpočívku (2016).jpg"
+  }
+}

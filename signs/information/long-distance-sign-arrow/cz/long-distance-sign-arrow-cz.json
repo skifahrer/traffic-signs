@@ -1,0 +1,11 @@
+{
+  "sign": "long-distance-sign-arrow",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 8a",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS08a Dálková návěst (s šipkou) (2016).jpg"
+  }
+}

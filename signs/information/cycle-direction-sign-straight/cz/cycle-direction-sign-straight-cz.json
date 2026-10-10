@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-direction-sign-straight",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 19a",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS19a Směrová tabule pro cyklisty (s jedním cílem) (2016).jpg"
+  }
+}

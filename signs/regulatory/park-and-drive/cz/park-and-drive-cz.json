@@ -1,0 +1,11 @@
+{
+  "sign": "park-and-drive",
+  "category": "regulatory",
+  "country": "cz",
+  "code": "IP 13f",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "IP 13f Parkoviště P+D (2024).jpg"
+  }
+}

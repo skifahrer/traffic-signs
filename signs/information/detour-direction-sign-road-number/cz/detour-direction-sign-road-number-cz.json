@@ -1,0 +1,11 @@
+{
+  "sign": "detour-direction-sign-road-number",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 11d",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS11d Směrová tabule pro vyznačení objížďky (2016).jpg"
+  }
+}

@@ -19,6 +19,17 @@ class RegistryTest(SandboxTestCase):
                 for t in translations.values():
                     self.assertTrue(t.name_en.strip() and t.name_local.strip(), t.code)
 
+    def test_shared_signs_agree_on_category_and_english_name(self):
+        # The names file is shared, so two countries using the same folder
+        # must not fight over its English name or put it in two categories.
+        first: dict[str, tuple] = {}
+        for code, source in all_sources().items():
+            translations, _ = source.load_translations()
+            for t in translations.values():
+                seen = first.setdefault(t.slug, (t.category, t.name_en, code))
+                with self.subTest(sign=t.slug, countries=(seen[2], code)):
+                    self.assertEqual((t.category, t.name_en), seen[:2])
+
     def test_sk_codes_follow_the_national_pattern(self):
         translations, _ = all_sources()["sk"].load_translations()
         for code in translations:

@@ -1,0 +1,11 @@
+{
+  "sign": "bend-right",
+  "category": "warning",
+  "country": "cz",
+  "code": "A 1a",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "Czech Republic road sign A 1a.svg"
+  }
+}

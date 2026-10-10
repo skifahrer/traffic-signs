@@ -134,6 +134,10 @@ def sha1_of(path: str) -> str | None:
 
 def strip_markup(text: str) -> str:
     """Plain text from a short piece of wikitext or HTML (captions, licence fields)."""
+    text = re.sub(r"<ref[^>]*/>|<ref[^>]*>.*?</ref>", "", text, flags=re.DOTALL)  # footnotes
+    while re.search(r"\{\{[^{}]*\}\}", text):  # templates such as {{refn|...}}, innermost first
+        text = re.sub(r"\{\{[^{}]*\}\}", "", text)
+    text = re.sub(r"<br\s*/?\s*>", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", text)
     text = re.sub(r"\[https?://\S+\s+([^\]]*)\]", r"\1", text)
     text = re.sub(r"'{2,}", "", text)

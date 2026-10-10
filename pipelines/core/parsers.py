@@ -16,20 +16,29 @@ package (countries/<code>/parser.py) when it is specific to that page.
 from __future__ import annotations
 
 import re
+from typing import Sequence, Union
 
-from .model import Entry, Parser
+from .model import Entry, Parser, Problem
 from .wikimedia import strip_markup
 
 DEFAULT_NAMESPACES = ("File", "Image")
 
 
-def gallery(code_pattern: str, namespaces: tuple[str, ...] = ()) -> Parser:
-    """Entries from `<gallery>` blocks whose captions start with the sign code."""
-    line_re = re.compile(rf"^\s*(?:{_alternatives(namespaces)})\s*:\s*([^|]+?)\s*\|(.*)$", re.IGNORECASE)
-    caption_re = _caption_re(code_pattern)
+Patterns = Union[str, Sequence[str], None]
 
-    def parse(wikitext: str) -> tuple[list[Entry], list[str]]:
-        entries, problems = [], []
+
+def gallery(code_pattern: str, namespaces: tuple[str, ...] = (), ignore: Patterns = None, strip: str | None = None) -> Parser:
+    """Entries from `<gallery>` blocks whose captions start with the sign code.
+
+    `ignore`: regular expression(s) for captions that are not signs (symbols,
+    road markings, outdated numbering, ...); they are skipped instead of
+    reported as problems. `strip`: a regular expression removed from names.
+    """
+    line_re = re.compile(rf"^\s*(?:{_alternatives(namespaces)})\s*:\s*([^|]+?)\s*\|(.*)$", re.IGNORECASE)
+    patterns = _Patterns(code_pattern, ignore, strip)
+
+    def parse(wikitext: str) -> tuple[list[Entry], list[Problem]]:
+        captions = _Captions(patterns)
         in_gallery = False
         for line in wikitext.splitlines():
             if re.match(r"\s*<gallery\b", line, re.IGNORECASE):
@@ -37,28 +46,31 @@ def gallery(code_pattern: str, namespaces: tuple[str, ...] = ()) -> Parser:
             elif re.match(r"\s*</gallery>", line, re.IGNORECASE):
                 in_gallery = False
             elif in_gallery and (match := line_re.match(line)):
-                _add(entries, problems, match.group(1), match.group(2), caption_re)
-        return entries, problems
+                captions.add(match.group(1), match.group(2))
+        return captions.entries, captions.problems
 
     parse.label = f"gallery({code_pattern})"
     return parse
 
 
-def wikitable(code_pattern: str, namespaces: tuple[str, ...] = ()) -> Parser:
-    """Entries from table rows: an image cell followed by a cell starting with the sign code."""
-    image_re = re.compile(rf"\[\[\s*(?:{_alternatives(namespaces)})\s*:\s*([^|\]]+)", re.IGNORECASE)
-    caption_re = _caption_re(code_pattern)
+def wikitable(code_pattern: str, namespaces: tuple[str, ...] = (), ignore: Patterns = None, strip: str | None = None) -> Parser:
+    """Entries from table rows: an image cell followed by a cell starting with the sign code.
 
-    def parse(wikitext: str) -> tuple[list[Entry], list[str]]:
-        entries, problems = [], []
+    `ignore` and `strip` work as for `gallery()`.
+    """
+    image_re = re.compile(rf"\[\[\s*(?:{_alternatives(namespaces)})\s*:\s*([^|\]]+)", re.IGNORECASE)
+    patterns = _Patterns(code_pattern, ignore, strip)
+
+    def parse(wikitext: str) -> tuple[list[Entry], list[Problem]]:
+        captions = _Captions(patterns)
         for row in re.split(r"^\s*\|-.*$", wikitext, flags=re.MULTILINE):
             cells = _cells(row)
             for index, cell in enumerate(cells[:-1]):
                 image = image_re.search(cell)
                 if image:
-                    _add(entries, problems, image.group(1), cells[index + 1], caption_re)
+                    captions.add(image.group(1), cells[index + 1])
                     break
-        return entries, problems
+        return captions.entries, captions.problems
 
     parse.label = f"wikitable({code_pattern})"
     return parse
@@ -68,17 +80,34 @@ def _alternatives(namespaces: tuple[str, ...]) -> str:
     return "|".join(re.escape(ns) for ns in (*namespaces, *DEFAULT_NAMESPACES))
 
 
-def _caption_re(code_pattern: str) -> re.Pattern:
-    return re.compile(rf"^({code_pattern})\s+(.+)$")
+class _Patterns:
+    def __init__(self, code_pattern: str, ignore: Patterns, strip: str | None):
+        self.caption = re.compile(rf"^({code_pattern}):?\s+(.+)$")
+        ignore = [ignore] if isinstance(ignore, str) else list(ignore or [])
+        self.ignore = re.compile("|".join(f"(?:{p})" for p in ignore)) if ignore else None
+        self.strip = re.compile(strip) if strip else None
 
 
-def _add(entries: list[Entry], problems: list[str], file: str, caption: str, caption_re: re.Pattern) -> None:
-    file, text = file.strip().replace("_", " "), strip_markup(caption)
-    match = caption_re.match(text)
-    if match:
-        entries.append(Entry(file=file, code=match.group(1), name=match.group(2).strip()))
-    else:
-        problems.append(f"caption without a sign code: `{file}` → `{text}`")
+class _Captions:
+    """Collects (image, caption) pairs as entries (`<code> <name>`) or problems."""
+
+    QUOTES = " „“”\"'«»"
+
+    def __init__(self, patterns: _Patterns):
+        self.patterns = patterns
+        self.entries: list[Entry] = []
+        self.problems: list[Problem] = []
+
+    def add(self, file: str, caption: str) -> None:
+        file, text = file.strip().replace("_", " "), strip_markup(caption)
+        if self.patterns.ignore and self.patterns.ignore.search(text):
+            return
+        match = self.patterns.caption.match(text)
+        if match:
+            name = self.patterns.strip.sub("", match.group(2)) if self.patterns.strip else match.group(2)
+            self.entries.append(Entry(file=file, code=match.group(1), name=name.strip(self.QUOTES)))
+        else:
+            self.problems.append(Problem(file, f"caption without a sign code: `{file}` → `{text}`"))
 
 
 def _cells(row: str) -> list[str]:

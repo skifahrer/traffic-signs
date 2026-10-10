@@ -1,0 +1,11 @@
+{
+  "sign": "section-of-validity-e",
+  "category": "additional-panel",
+  "country": "cz",
+  "code": "E 8e",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-E08e Úsek platnosti.jpg"
+  }
+}

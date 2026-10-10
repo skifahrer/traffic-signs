@@ -42,8 +42,19 @@ class Translation:
     name_local: str  # the local name the English one was translated from
 
 
+@dataclass
+class Problem:
+    """A row the parser could not read as a sign."""
+
+    file: str  # its image, so corrections.csv can still turn it into a sign
+    message: str
+
+    def __str__(self) -> str:
+        return self.message
+
+
 # wikitext -> (entries found, problems such as rows without a sign code)
-Parser = Callable[[str], "tuple[list[Entry], list[str]]"]
+Parser = Callable[[str], "tuple[list[Entry], list[Problem]]"]
 
 
 @dataclass(frozen=True)
@@ -63,13 +74,13 @@ class Source:
     def parsers(self) -> tuple[Parser, ...]:
         return tuple(self.parser) if isinstance(self.parser, (list, tuple)) else (self.parser,)
 
-    def parse(self, wikitext: str) -> tuple[list[Entry], list[str]]:
+    def parse(self, wikitext: str) -> tuple[list[Entry], list[Problem]]:
         """Run every parser and combine what they find.
 
         A row that two parsers both read (same file and code) counts once.
         """
         entries: list[Entry] = []
-        problems: list[str] = []
+        problems: list[Problem] = []
         seen: set[tuple[str, str]] = set()
         for parser in self.parsers:
             found, found_problems = parser(wikitext)
@@ -128,10 +139,15 @@ class Source:
             translations[t.code] = t
         return translations, problems
 
-    def apply_corrections(self, entries: list[Entry]) -> list[str]:
-        """Fix known mistakes on the page; returns a description of each change."""
+    def apply_corrections(self, entries: list[Entry], problems: list[Problem]) -> tuple[list[str], list[Problem]]:
+        """Fix known mistakes on the page, keyed by image file.
+
+        A correction changes the code and/or name of an entry. One that gives
+        both for a row the parser could not read adds that row as a sign.
+        Returns a description of each change and the problems still left.
+        """
         if not os.path.exists(self.corrections_file):
-            return []
+            return [], problems
         fixes = {row["file"]: row for row in _read_csv(self.corrections_file)}
         applied = []
         for entry in entries:
@@ -142,7 +158,15 @@ class Source:
             if (code, name) != (entry.code, entry.name):
                 applied.append(f"{entry.code} {entry.name} → {code} {name}")
             entry.code, entry.name = code, name
-        return applied
+        left = []
+        for problem in problems:
+            fix = fixes.get(problem.file)
+            if fix and fix["code"] and fix[self.local_name_column]:
+                entries.append(Entry(problem.file, fix["code"], fix[self.local_name_column]))
+                applied.append(f"`{problem.file}` (caption not readable) → {fix['code']} {fix[self.local_name_column]}")
+            else:
+                left.append(problem)
+        return applied, left
 
 
 def _parser_name(parser: Parser) -> str:

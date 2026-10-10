@@ -1,0 +1,11 @@
+{
+  "sign": "advance-sign-roundabout",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 9b",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS09b Návěst před okružní křižovatkou (2016 - verze 2015-07-31).jpg"
+  }
+}

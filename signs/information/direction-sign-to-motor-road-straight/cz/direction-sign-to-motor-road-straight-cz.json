@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-to-motor-road-straight",
+  "category": "information",
+  "country": "cz",
+  "code": "IS 2a",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IS02a Směrová tabule pro příjezd k silnici pro motorová vozidla (přímo) (2016).jpg"
+  }
+}

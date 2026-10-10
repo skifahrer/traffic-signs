@@ -15,6 +15,7 @@ on:
         # `all` plus one entry per folder in pipelines/countries; tests/test_workflow.py checks this.
         options:
           - all
+          - cz
           - sk
         default: all
       prune:

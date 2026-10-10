@@ -1,0 +1,11 @@
+{
+  "sign": "toll",
+  "category": "information",
+  "country": "cz",
+  "code": "IP 15c",
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "CZ-IP15c Mýtné - 2007.jpg"
+  }
+}
