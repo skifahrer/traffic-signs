@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 18a",
+  "image": {
+    "file": "lane-gain-cz.jpg",
+    "sha1": "babdc6be1939f952f9c19c607b29029355dc21e5",
+    "source": "https://commons.wikimedia.org/wiki/File:IP18acr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

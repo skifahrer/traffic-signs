@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 22e",
+  "image": {
+    "file": "street-name-e-cz.jpg",
+    "sha1": "6c59b55f2f72657432ca184d9b4b36da5074aead",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS22e_Ozna%C4%8Den%C3%AD_n%C3%A1zvu_ulice.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

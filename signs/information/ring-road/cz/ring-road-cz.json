@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 1",
+  "image": {
+    "file": "ring-road-cz.svg",
+    "sha1": "ac9bfc81bee6c14de06f8a66824a326080e4323b",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_traffic_sign_IP1a.svg",
+    "author": "Zirland",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

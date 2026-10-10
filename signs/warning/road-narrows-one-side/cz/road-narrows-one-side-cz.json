@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 6b",
+  "image": {
+    "file": "road-narrows-one-side-cz.svg",
+    "sha1": "f8031b09b3e5723296b6134d653724cecfa0e69d",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_6b.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 23b",
+  "image": {
+    "file": "passing-trams-on-the-left-cz.svg",
+    "sha1": "f9746dc4f0d34083155af2c80ba75ba2175e8993",
+    "source": "https://commons.wikimedia.org/wiki/File:IP23b.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

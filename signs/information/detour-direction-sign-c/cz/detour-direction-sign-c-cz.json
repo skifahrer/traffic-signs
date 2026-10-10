@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 11c",
+  "image": {
+    "file": "detour-direction-sign-c-cz.jpg",
+    "sha1": "a19a9c195ef2a946319ca2791119d1499af6818d",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS11c_Sm%C4%9Brov%C3%A1_tabule_pro_vyzna%C4%8Den%C3%AD_obj%C3%AD%C5%BE%C4%8Fky_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

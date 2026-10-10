@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 2d",
+  "image": {
+    "file": "two-junctions-layout-cz.svg",
+    "sha1": "953f6d973a1745328feab2c7220c0059b28ffac2",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_E_2d.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

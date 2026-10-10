@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 11e",
+  "image": {
+    "file": "pavement-parking-parallel-cz.jpg",
+    "sha1": "cfaa397a252e6c90772e668d01562ee29c6d7483",
+    "source": "https://commons.wikimedia.org/wiki/File:IP11ecr.jpg",
+    "author": "Author: Ministerstvo dopravy a spojů České republiky, uploader: Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

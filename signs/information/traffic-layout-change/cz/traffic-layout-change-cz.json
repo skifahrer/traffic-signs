@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 22",
+  "image": {
+    "file": "traffic-layout-change-cz.svg",
+    "sha1": "5b4dcb9acb34daf19e078642bba85ca22c325277",
+    "source": "https://commons.wikimedia.org/wiki/File:IP22.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

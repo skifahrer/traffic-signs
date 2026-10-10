@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 8",
+  "image": {
+    "file": "services-vehicle-repair-cz.jpg",
+    "sha1": "4d86213d57a828586e73de1c0ada1dcd925e6798",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ08cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

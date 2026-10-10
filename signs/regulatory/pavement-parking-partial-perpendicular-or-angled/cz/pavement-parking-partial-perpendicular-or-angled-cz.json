@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 11f",
+  "image": {
+    "file": "pavement-parking-partial-perpendicular-or-angled-cz.jpg",
+    "sha1": "4bc0d566a083d7670179d26926fb75dae9079e5d",
+    "source": "https://commons.wikimedia.org/wiki/File:IP11fcr.jpg",
+    "author": "Author: Ministerstvo dopravy a spojů České republiky, uploader: Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

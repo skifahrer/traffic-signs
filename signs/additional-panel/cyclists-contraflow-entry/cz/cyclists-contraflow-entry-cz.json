@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 12b",
+  "image": {
+    "file": "cyclists-contraflow-entry-cz.jpg",
+    "sha1": "99342b19626787bc55d3837cf7fff9e96de43272",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E12b_Vjezd_cyklist%C5%AF_v_protism%C4%9Bru_povolen_(2016_-_verze_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

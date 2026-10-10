@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 8b",
+  "image": {
+    "file": "end-of-restricted-zone-cz.svg",
+    "sha1": "7076c45fce78d538b3e56dcc9c07b8995721dd67",
+    "source": "https://commons.wikimedia.org/wiki/File:IP25b.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

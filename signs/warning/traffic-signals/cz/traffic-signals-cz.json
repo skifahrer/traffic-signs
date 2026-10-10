@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 10",
+  "image": {
+    "file": "traffic-signals-cz.svg",
+    "sha1": "bcc3e948900e570881d1148664f13103e9dc4eb0",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_10.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 11",
+  "image": {
+    "file": "no-motor-vehicles-cz.jpg",
+    "sha1": "7c30e9e3056143b1fddba7e8504a52fe988ebbb0",
+    "source": "https://commons.wikimedia.org/wiki/File:B11cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

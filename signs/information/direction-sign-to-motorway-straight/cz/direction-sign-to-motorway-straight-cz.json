@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 1a",
+  "image": {
+    "file": "direction-sign-to-motorway-straight-cz.svg",
+    "sha1": "feee876b05dc6fbf1708c3b54a376073d7aeaeb0",
+    "source": "https://commons.wikimedia.org/wiki/File:IS1a-INFZN.svg",
+    "author": "Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

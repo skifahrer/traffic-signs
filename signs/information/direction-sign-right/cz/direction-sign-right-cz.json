@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 3c",
+  "image": {
+    "file": "direction-sign-right-cz.jpg",
+    "sha1": "d05f3e0b04d3940b5d2a9ba5c6210c676478c60f",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS03c_Sm%C4%9Brov%C3%A1_tabule_s_c%C3%ADlem_(vpravo)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

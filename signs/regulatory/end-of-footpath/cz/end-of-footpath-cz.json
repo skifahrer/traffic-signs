@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 7b",
+  "image": {
+    "file": "end-of-footpath-cz.svg",
+    "sha1": "bb326af0558f47812e0d24c68b14418b4b2d56fa",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C07b.svg",
+    "author": "Kys5g",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

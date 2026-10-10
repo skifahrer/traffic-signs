@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 4c",
+  "image": {
+    "file": "pass-on-either-side-cz.svg",
+    "sha1": "ee46d50f61edc73853ddbb2a4ca7c7dc3306c6a8",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C04c.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

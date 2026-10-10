@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 9",
+  "image": {
+    "file": "emergency-lay-by-cz.svg",
+    "sha1": "fd40afdb4d7db7556bcb7e16cd1019211774de09",
+    "source": "https://commons.wikimedia.org/wiki/File:IP9-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

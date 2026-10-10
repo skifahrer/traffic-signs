@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 20a",
+  "image": {
+    "file": "speed-limit-cz.jpg",
+    "sha1": "ee9e3bb688769fe69a625a39a4b9d808031f00b8",
+    "source": "https://commons.wikimedia.org/wiki/File:B20acr.jpg",
+    "author": "Frisky007 Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

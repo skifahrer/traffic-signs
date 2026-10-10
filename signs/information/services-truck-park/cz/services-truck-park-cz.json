@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 17a",
+  "image": {
+    "file": "services-truck-park-cz.svg",
+    "sha1": "a4becc0476f14e4ec1cd8850d22e222f998c067b",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ17a-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

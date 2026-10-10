@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 8b",
+  "image": {
+    "file": "end-of-cycle-path-cz.svg",
+    "sha1": "95f6be29de544de93c506740c3bafe9c45ba8823",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C08b.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

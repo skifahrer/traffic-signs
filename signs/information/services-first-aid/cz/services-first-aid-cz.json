@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 3",
+  "image": {
+    "file": "services-first-aid-cz.svg",
+    "sha1": "68dbe5fc5a1790d9e3d86c17d69f186ddf531903",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_IJ-3.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

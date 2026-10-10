@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 7b",
+  "image": {
+    "file": "direction-arrow-turn-cz.jpg",
+    "sha1": "583f32964070fb40cb7dc3456f77c4581a1ad163",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E07b_Sm%C4%9Brov%C3%A1_%C5%A1ipka.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

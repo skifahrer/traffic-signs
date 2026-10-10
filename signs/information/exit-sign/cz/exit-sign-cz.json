@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 7b",
+  "image": {
+    "file": "exit-sign-cz.jpg",
+    "sha1": "4cc18002cba69766cdaab813318549e652470f8d",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS07b_V%C3%BDjezd_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

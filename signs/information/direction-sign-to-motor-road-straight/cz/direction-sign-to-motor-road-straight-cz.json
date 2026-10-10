@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 2a",
+  "image": {
+    "file": "direction-sign-to-motor-road-straight-cz.jpg",
+    "sha1": "a9d8b825cb2e8fdf63739b6bae54e28cd729084e",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS02a_Sm%C4%9Brov%C3%A1_tabule_pro_p%C5%99%C3%ADjezd_k_silnici_pro_motorov%C3%A1_vozidla_(p%C5%99%C3%ADmo)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

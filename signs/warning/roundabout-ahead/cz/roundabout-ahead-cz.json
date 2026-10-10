@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 4",
+  "image": {
+    "file": "roundabout-ahead-cz.svg",
+    "sha1": "2ff021ae20ff1dc0569dfd017f309b4d033c7b13",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_4.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

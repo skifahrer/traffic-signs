@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 12c",
+  "image": {
+    "file": "alternative-route-right-here-cz.tif",
+    "sha1": "066e929abe762ae7d8775761df4e4f82877e5fdc",
+    "source": "https://commons.wikimedia.org/wiki/File:IS_12c_Sm%C4%9Brov%C3%A1_tabule_pro_n%C3%A1hradn%C3%AD_trasu_d%C3%A1lnice_(vpravo).tif",
+    "author": "Ministerstvo dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

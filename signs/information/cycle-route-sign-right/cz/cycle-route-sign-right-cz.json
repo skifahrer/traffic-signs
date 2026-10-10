@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 21c",
+  "image": {
+    "file": "cycle-route-sign-right-cz.png",
+    "sha1": "77c1b72bbed21e543d63fe160a041e549440968f",
+    "source": "https://commons.wikimedia.org/wiki/File:IS_21c_Sm%C4%9Brov%C3%A1_tabulka_pro_cyklisty_(vpravo).png",
+    "author": "Wakinki",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

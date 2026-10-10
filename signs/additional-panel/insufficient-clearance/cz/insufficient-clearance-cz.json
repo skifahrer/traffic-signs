@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 17",
+  "image": {
+    "file": "insufficient-clearance-cz.svg",
+    "sha1": "b8648a5b21f624bfb0a7de0f8a7f04f4de6edc12",
+    "source": "https://commons.wikimedia.org/wiki/File:E_17_Nedostate%C4%8Dn%C3%BD_pr%C5%AFjezdn%C3%AD_profil_vozovky.svg",
+    "author": "Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

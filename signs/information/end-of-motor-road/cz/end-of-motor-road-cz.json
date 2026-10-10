@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 2b",
+  "image": {
+    "file": "end-of-motor-road-cz.svg",
+    "sha1": "c6696345adc2c88f0169e9b90d2e4382fc09ec8e",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_traffic_sign_IZ2b.svg",
+    "author": "Zirland",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

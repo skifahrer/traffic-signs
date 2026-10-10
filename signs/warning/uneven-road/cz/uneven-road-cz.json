@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 7a",
+  "image": {
+    "file": "uneven-road-cz.svg",
+    "sha1": "ffd5e55b63a028794b5ee97ea47ffa4d51ba69b3",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_7a.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

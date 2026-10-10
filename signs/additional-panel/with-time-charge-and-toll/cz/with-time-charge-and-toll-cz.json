@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 11f",
+  "image": {
+    "file": "with-time-charge-and-toll-cz.svg",
+    "sha1": "51ba057ca747a3567bbb38fddeb3f35cb2561d35",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_E11f_2016.svg",
+    "author": "HLock",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

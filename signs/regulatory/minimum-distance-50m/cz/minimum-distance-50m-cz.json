@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 34",
+  "image": {
+    "file": "minimum-distance-50m-cz.jpg",
+    "sha1": "691d3fc8d9b26963c29eea9bcb0ca11a46bda75c",
+    "source": "https://commons.wikimedia.org/wiki/File:B34cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

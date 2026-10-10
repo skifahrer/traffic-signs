@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 17",
+  "image": {
+    "file": "european-road-number-class-a-2-digit-cz.svg",
+    "sha1": "efae7919fd3d5000b331363cb3827c6a6d656191",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_traffic_sign_IS17_-_E50.svg",
+    "author": "Zirland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

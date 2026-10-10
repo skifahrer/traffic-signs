@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 25",
+  "image": {
+    "file": "trams-cz.svg",
+    "sha1": "702555a995ef0819ee543211ea2d0e615330ba04",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_25.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

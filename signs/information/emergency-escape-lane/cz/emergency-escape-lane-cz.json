@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 24",
+  "image": {
+    "file": "emergency-escape-lane-cz.svg",
+    "sha1": "9a27506eba51b15c2342ef99886c3ffd00e78440",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_IP_24.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

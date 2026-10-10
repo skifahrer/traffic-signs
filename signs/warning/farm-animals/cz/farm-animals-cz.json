@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 13",
+  "image": {
+    "file": "farm-animals-cz.svg",
+    "sha1": "151613c14f8a833ff5f5d96f7af9d1c7ce3bd22d",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_13.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

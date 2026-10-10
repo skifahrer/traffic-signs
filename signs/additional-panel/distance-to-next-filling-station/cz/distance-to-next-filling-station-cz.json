@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 16",
+  "image": {
+    "file": "distance-to-next-filling-station-cz.jpg",
+    "sha1": "8491f382b8805697ef59fac0efb67412106821cd",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E16_Vzd%C3%A1lenost_k_p%C5%99%C3%AD%C5%A1t%C3%AD_%C4%8Derpac%C3%AD_stanici_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

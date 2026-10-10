@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 2b",
+  "image": {
+    "file": "direction-sign-to-motor-road-left-cz.jpg",
+    "sha1": "35e384ff5d8e37174a620baa2f35f6648257b949",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS02b_Sm%C4%9Brov%C3%A1_tabule_pro_p%C5%99%C3%ADjezd_k_silnici_pro_motorov%C3%A1_vozidla_(vlevo)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

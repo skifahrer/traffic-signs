@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 2d",
+  "image": {
+    "file": "direction-sign-motor-road-entrance-straight-cz.jpg",
+    "sha1": "e9b43aca110912178439ae5bf26a1fa05ab21363",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS02d_Sm%C4%9Brov%C3%A1_tabule_p%C5%99ed_n%C3%A1jezdem_na_silnici_pro_motorov%C3%A1_vozidla_(p%C5%99%C3%ADmo)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

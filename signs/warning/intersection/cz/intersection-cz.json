@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 3",
+  "image": {
+    "file": "intersection-cz.svg",
+    "sha1": "a8dba2b6bdb72483b6a1f05d778e8c9ac39f43a3",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_3.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

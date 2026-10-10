@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 6b",
+  "image": {
+    "file": "end-of-pedestrian-zone-cz.svg",
+    "sha1": "f6121503d199e9b2ee3f58f1db81509c9c673c3b",
+    "source": "https://commons.wikimedia.org/wiki/File:IP27b.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 24b",
+  "image": {
+    "file": "tourist-destination-direction-sign-cz.svg",
+    "sha1": "f8ae5899b8c31f2260ddba69d0ff686427d835c6",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS24b_Kulturn%C3%AD_nebo_turistick%C3%BD_c%C3%ADl.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

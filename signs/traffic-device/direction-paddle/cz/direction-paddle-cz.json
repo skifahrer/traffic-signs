@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 8c",
+  "image": {
+    "file": "direction-paddle-cz.jpg",
+    "sha1": "b1e19ac7fafaf5964a0ad90de09558a825e0662b",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z08c_Sm%C4%9Brovka.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

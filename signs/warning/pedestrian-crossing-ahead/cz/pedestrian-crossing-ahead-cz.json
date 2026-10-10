@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 11",
+  "image": {
+    "file": "pedestrian-crossing-ahead-cz.svg",
+    "sha1": "2c6394a3d19953fe1ad6d55c431d6c093572540e",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_11.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

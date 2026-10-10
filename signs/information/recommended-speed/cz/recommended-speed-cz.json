@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 5",
+  "image": {
+    "file": "recommended-speed-cz.svg",
+    "sha1": "0df5a79cebaafc859871f1fec9c542752e3b931d",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_IP-5_(70).svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

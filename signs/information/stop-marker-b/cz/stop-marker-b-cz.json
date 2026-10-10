@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 4b",
+  "image": {
+    "file": "stop-marker-b-cz.svg",
+    "sha1": "d8e4113dd317c0a6baaf3a51c5b17abfb033e8e6",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_IJ-4b.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

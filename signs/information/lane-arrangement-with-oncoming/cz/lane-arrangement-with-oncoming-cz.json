@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 16",
+  "image": {
+    "file": "lane-arrangement-with-oncoming-cz.jpg",
+    "sha1": "f52e4cfe50f70903a422dc32bfe16fd81a9a6dfc",
+    "source": "https://commons.wikimedia.org/wiki/File:IP16cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

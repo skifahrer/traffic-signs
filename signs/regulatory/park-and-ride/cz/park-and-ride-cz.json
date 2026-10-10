@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 13d",
+  "image": {
+    "file": "park-and-ride-cz.jpg",
+    "sha1": "074edc047fe0c99780148f505b43daed620b0d16",
+    "source": "https://commons.wikimedia.org/wiki/File:IP13dcr.jpg",
+    "author": "Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

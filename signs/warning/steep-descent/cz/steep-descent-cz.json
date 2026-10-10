@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 5a",
+  "image": {
+    "file": "steep-descent-cz.svg",
+    "sha1": "0293112d70c9484ef9c47a38d658f1d9b8624d5c",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_5a.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

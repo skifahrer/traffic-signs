@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="502"
+   height="502"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg2994"
+   sodipodi:docname="CZ_road_sign_IP-5_(70).svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2998" />
+  <sodipodi:namedview
+     id="namedview2996"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.8007968"
+     inkscape:cx="183.56717"
+     inkscape:cy="390.8607"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2994" />
+  <rect
+     width="500"
+     height="500"
+     rx="40"
+     ry="40"
+     x="1"
+     y="1"
+     fill="#004182"
+     stroke="none"
+     id="rect2984" />
+  <rect
+     width="470"
+     height="470"
+     rx="25"
+     ry="25"
+     x="16"
+     y="16"
+     fill="#fff"
+     stroke="none"
+     id="rect2986" />
+  <rect
+     width="440"
+     height="440"
+     rx="10"
+     ry="10"
+     x="31"
+     y="31"
+     fill="#004182"
+     stroke="none"
+     id="rect2988" />
+  <path
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.6;paint-order:stroke fill markers;enable-background:accumulate;stop-color:#000000"
+     d="m 307.90151,81.733793 c -5.47722,0.08928 -10.96671,0.444415 -16.43217,1.050605 -37.68764,4.180033 -76.55949,19.477032 -112.49101,44.608362 11.823,4.44583 20.94939,15.88307 21.02042,29.08522 a 106.50805,166.08789 51 0 1 113.14746,-38.93482 106.50805,166.08789 51 0 1 67.47739,28.78962 106.50805,166.08789 51 0 1 -62.04812,187.29348 106.50805,166.08789 51 0 1 -196.10217,21.75043 106.50805,166.08789 51 0 1 9.11402,-128.24591 l 22.58453,30.4592 a 6.7148047,6.7148047 0 0 0 12.07709,-3.35721 l 9.33747,-97.15801 a 6.7148047,6.7148047 0 0 0 -8.60746,-7.07527 l -93.420519,27.95829 a 6.7148047,6.7148047 0 0 0 -0.903493,12.5212 L 103.246,204.69337 c -10.505117,16.222 -18.713039,33.11299 -24.395675,50.26663 -13.834194,41.75995 -12.254721,88.38143 15.761841,122.97901 28.016564,34.59757 73.290324,45.83556 117.014014,40.98606 43.72368,-4.8495 89.04192,-24.66205 129.51301,-57.4349 40.4711,-32.77284 69.2732,-72.98075 83.10739,-114.7407 13.8342,-41.75996 12.25611,-88.38283 -15.76046,-122.9804 C 383.97163,93.496196 346.24209,81.108866 307.90151,81.733793 Z" />
+</svg>

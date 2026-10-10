@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 15a",
+  "image": {
+    "file": "other-name-cz.jpg",
+    "sha1": "cdfc914bda5fdc51b7402616c4302875bea4c332",
+    "source": "https://commons.wikimedia.org/wiki/File:IS15acr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

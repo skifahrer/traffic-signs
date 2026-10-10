@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 1",
+  "image": {
+    "file": "count-cz.svg",
+    "sha1": "2bc98a5e44ff75e521e1e9d57930135b7953f7d0",
+    "source": "https://commons.wikimedia.org/wiki/File:E1_po%C4%8Det.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

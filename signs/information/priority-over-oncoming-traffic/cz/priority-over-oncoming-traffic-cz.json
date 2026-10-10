@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "P 8",
+  "image": {
+    "file": "priority-over-oncoming-traffic-cz.svg",
+    "sha1": "c14df0ac0125528fc8bb8b2637dea083037f22f1",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_P-8.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

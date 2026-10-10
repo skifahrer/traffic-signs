@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 3b",
+  "image": {
+    "file": "distance-overhead-cz.jpg",
+    "sha1": "067334a112396825889b6261c9ed57b7c1dcc013",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E03b_Vzd%C3%A1lenost.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

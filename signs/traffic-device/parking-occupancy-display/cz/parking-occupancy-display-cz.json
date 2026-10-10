@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "ZPI 2",
+  "image": {
+    "file": "parking-occupancy-display-cz.jpg",
+    "sha1": "05c80a7f1314d770c98b52375ca9daa68eac798c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-I02_Obsaditelnost_parkovi%C5%A1t%C4%9B.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

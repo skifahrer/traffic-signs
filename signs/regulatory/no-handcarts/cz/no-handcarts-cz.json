@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 10",
+  "image": {
+    "file": "no-handcarts-cz.jpg",
+    "sha1": "ce7d7fda43717dd06669a67a1b8aacf547b207f2",
+    "source": "https://commons.wikimedia.org/wiki/File:B10cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

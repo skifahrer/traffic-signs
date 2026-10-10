@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 27",
+  "image": {
+    "file": "mandatory-stop-cz.jpg",
+    "sha1": "d121879d16fb27ef145f517be37fb54b56161d4d",
+    "source": "https://commons.wikimedia.org/wiki/File:B27cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

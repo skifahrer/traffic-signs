@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 15",
+  "image": {
+    "file": "maximum-width-cz.jpg",
+    "sha1": "98f08b3bc43d6641a95dc53061c612c4c509c642",
+    "source": "https://commons.wikimedia.org/wiki/File:B15cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

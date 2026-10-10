@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 13e",
+  "image": {
+    "file": "kiss-and-ride-cz.jpg",
+    "sha1": "a4c23d1a312d15308097e4e20f6bd0f4346bd4b1",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IP13e_Parkovi%C5%A1t%C4%9B_K_%2B_R.jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

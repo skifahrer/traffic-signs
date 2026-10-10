@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 6",
+  "image": {
+    "file": "when-wet-cz.svg",
+    "sha1": "dd344fb9141a2ead4584069cd41aee0bc43dd7f2",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E06_Za_mokra.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 18",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-cz.jpg",
+    "sha1": "47ee98d6df644cbc2c377a840a28b83886f365ff",
+    "source": "https://commons.wikimedia.org/wiki/File:B18cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

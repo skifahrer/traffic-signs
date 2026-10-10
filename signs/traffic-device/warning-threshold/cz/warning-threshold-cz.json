@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 13",
+  "image": {
+    "file": "warning-threshold-cz.tif",
+    "sha1": "09935e26f93c52c46fa7f9552473bce15c39b92b",
+    "source": "https://commons.wikimedia.org/wiki/File:Z_13_V%C3%BDstra%C5%BEn%C3%BD_pr%C3%A1h.tif",
+    "author": "Ministerstvo dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

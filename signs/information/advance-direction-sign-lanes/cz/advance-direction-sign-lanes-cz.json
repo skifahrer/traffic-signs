@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 6c",
+  "image": {
+    "file": "advance-direction-sign-lanes-cz.jpg",
+    "sha1": "af13fb02cdc05577a29c8e86291f256100c8693c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS06c_N%C3%A1v%C4%9Bst_p%C5%99ed_k%C5%99i%C5%BEovatkou.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

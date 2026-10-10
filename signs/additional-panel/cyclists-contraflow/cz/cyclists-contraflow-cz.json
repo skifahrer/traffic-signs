@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 12a",
+  "image": {
+    "file": "cyclists-contraflow-cz.jpg",
+    "sha1": "a091dcb72f8ce1b70f72348b37983404424bbe03",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E12a_J%C3%ADzda_cyklist%C5%AF_v_protism%C4%9Bru_(2016_-_verze_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

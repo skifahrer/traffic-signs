@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 12c",
+  "image": {
+    "file": "personal-transporters-cz.svg",
+    "sha1": "e3608f14b8351b2ab5f4e5a6df9347503878d67a",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_12c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

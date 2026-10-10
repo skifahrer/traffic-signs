@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 4a",
+  "image": {
+    "file": "built-up-area-cz.jpg",
+    "sha1": "b73910eba14339534b41f68d94f30fdf861ce87d",
+    "source": "https://commons.wikimedia.org/wiki/File:IS12acr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

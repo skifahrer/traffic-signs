@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 13",
+  "image": {
+    "file": "maximum-weight-cz.jpg",
+    "sha1": "8519e4f662f3303e25db4160e4c6fb0bee9e9a7a",
+    "source": "https://commons.wikimedia.org/wiki/File:B13cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

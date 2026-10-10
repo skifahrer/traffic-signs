@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 15b",
+  "image": {
+    "file": "end-of-winter-equipment-required-cz.svg",
+    "sha1": "116837121f87b00191d223761e9e55c54c04f71c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C-15b.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

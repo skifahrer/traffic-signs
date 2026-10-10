@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 21b",
+  "image": {
+    "file": "end-of-no-overtaking-cz.jpg",
+    "sha1": "3b3760ef6597c5ade32ee1887a5a2a47680fc45f",
+    "source": "https://commons.wikimedia.org/wiki/File:B21bcr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 23",
+  "image": {
+    "file": "queues-cz.svg",
+    "sha1": "631e58a4cf790a4ee3fb058c135eec9bfc4a1549",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_23.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

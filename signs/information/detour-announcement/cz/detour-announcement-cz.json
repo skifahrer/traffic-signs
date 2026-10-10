@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 11a",
+  "image": {
+    "file": "detour-announcement-cz.svg",
+    "sha1": "2dc4d7603acf7cdc955d905fd5a4b9d1a773eccf",
+    "source": "https://commons.wikimedia.org/wiki/File:IS11a.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

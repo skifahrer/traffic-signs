@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "P 2",
+  "image": {
+    "file": "priority-road-cz.svg",
+    "sha1": "663208761cb52837d0798e48fb48bee30ae8442c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-P02_Hlavn%C3%AD_pozemn%C3%AD_komunikace.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

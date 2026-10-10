@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 14",
+  "image": {
+    "file": "administrative-border-cz.jpg",
+    "sha1": "77ff50e9076b4861a1124817a99c46b6e9c4bb00",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS14_Hranice_%C3%BAzemn%C3%ADho_celku_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

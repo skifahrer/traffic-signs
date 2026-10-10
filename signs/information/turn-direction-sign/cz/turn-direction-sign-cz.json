@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 7a",
+  "image": {
+    "file": "turn-direction-sign-cz.jpg",
+    "sha1": "6e64f92f568185c2c70f7a662087654c7d027aca",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS07a_N%C3%A1v%C4%9Bst_pro_odbo%C4%8Den%C3%AD_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

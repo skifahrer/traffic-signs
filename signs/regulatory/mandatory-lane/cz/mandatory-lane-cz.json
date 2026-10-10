@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 12a",
+  "image": {
+    "file": "mandatory-lane-cz.svg",
+    "sha1": "8b61c8b37345f103b32729e59c351021da1046ba",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C12a.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

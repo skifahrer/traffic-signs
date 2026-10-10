@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 11a",
+  "image": {
+    "file": "services-restaurant-cz.jpg",
+    "sha1": "9b16b32d578bc6e648fd90cd0d34cfc480122bfd",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ11acr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

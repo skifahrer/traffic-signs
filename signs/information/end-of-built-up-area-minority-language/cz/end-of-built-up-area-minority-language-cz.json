@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 4d",
+  "image": {
+    "file": "end-of-built-up-area-minority-language-cz.jpg",
+    "sha1": "b9186d10faba4009c9865c07f393e82bde42c6b4",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS12d_Konec_obce_v_jazyce_n%C3%A1rodnostn%C3%AD_men%C5%A1iny_(2009).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

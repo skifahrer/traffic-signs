@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 8b",
+  "image": {
+    "file": "distance-sign-cz.jpg",
+    "sha1": "eee1135c802ff6599e55778ecd3b03ef6817adf1",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS08b_D%C3%A1lkov%C3%A1_n%C3%A1v%C4%9Bst_(se_vzd%C3%A1lenostmi)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

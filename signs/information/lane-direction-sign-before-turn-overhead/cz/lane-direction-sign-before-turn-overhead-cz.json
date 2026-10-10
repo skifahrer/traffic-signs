@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 6g",
+  "image": {
+    "file": "lane-direction-sign-before-turn-overhead-cz.jpg",
+    "sha1": "47fe94850f5700c09fa684f77017e699eff68b49",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS06g_N%C3%A1v%C4%9Bst_v_k%C5%99i%C5%BEovatce_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

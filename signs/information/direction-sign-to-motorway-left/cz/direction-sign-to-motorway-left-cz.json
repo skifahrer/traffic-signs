@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 1b",
+  "image": {
+    "file": "direction-sign-to-motorway-left-cz.jpg",
+    "sha1": "ce3ba1df6e26d68d3aeadb338e1576f320b04bc6",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS01b_Sm%C4%9Brov%C3%A1_tabule_pro_p%C5%99%C3%ADjezd_k_d%C3%A1lnici_(vlevo)_(2016_-_verze_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 31",
+  "image": {
+    "file": "no-riders-cz.jpg",
+    "sha1": "5b44dfb267410e52328fe37884eb92af9e1c20e0",
+    "source": "https://commons.wikimedia.org/wiki/File:B31cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

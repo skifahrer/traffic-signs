@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 6a",
+  "image": {
+    "file": "junction-name-cz.jpg",
+    "sha1": "6eafb948b2a1a39b6b119a4f0e483f8812bf8bcd",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS06a_Ozna%C4%8Den%C3%AD_k%C5%99i%C5%BEovatky_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

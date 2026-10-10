@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 10a",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cz.svg",
+    "sha1": "52d559896619085560d9928cb3ba78f42ef4a2c0",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C10a.svg",
+    "author": "Kys5g",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

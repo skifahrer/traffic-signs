@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 3b",
+  "image": {
+    "file": "turn-left-cz.svg",
+    "sha1": "fc03a537acc27248550c9b3ca7d844147e1de3c1",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C03b.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

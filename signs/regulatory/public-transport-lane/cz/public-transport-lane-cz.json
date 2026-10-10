@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 20a",
+  "image": {
+    "file": "public-transport-lane-cz.svg",
+    "sha1": "3779c28b88323cf7a1b2fa68b20182435b14e655",
+    "source": "https://commons.wikimedia.org/wiki/File:IP20a.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

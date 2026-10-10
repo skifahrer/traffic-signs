@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 29",
+  "image": {
+    "file": "no-parking-cz.svg",
+    "sha1": "9bd7afff48c39b4b7253c341f024da5a3bad5a99",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-29.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

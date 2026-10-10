@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 4c",
+  "image": {
+    "file": "direction-board-hatched-centre-cz.jpg",
+    "sha1": "a17b44dd2c53df4c04cfa4b417423fd62e924f32",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z04c_Sm%C4%9Brovac%C3%AD_deska_st%C5%99edov%C3%A1.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

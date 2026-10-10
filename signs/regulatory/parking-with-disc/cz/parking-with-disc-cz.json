@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 13b",
+  "image": {
+    "file": "parking-with-disc-cz.jpg",
+    "sha1": "37144b2a878d9ea6d407cebe0b09d88364e582ad",
+    "source": "https://commons.wikimedia.org/wiki/File:IP13bcr.jpg",
+    "author": "author: Ministerstvo dopravy a spojů České republiky, uploader: Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

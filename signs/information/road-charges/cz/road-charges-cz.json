@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 28a",
+  "image": {
+    "file": "road-charges-cz.jpg",
+    "sha1": "e4f83e979f250895b20595fc21b4a89ab7e34382",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IP28a_Zpoplatn%C4%9Bn%C3%AD_provozu_(2016_-_verze_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

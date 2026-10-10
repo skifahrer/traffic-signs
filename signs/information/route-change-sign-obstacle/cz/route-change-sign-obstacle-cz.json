@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 10c",
+  "image": {
+    "file": "route-change-sign-obstacle-cz.jpg",
+    "sha1": "76f5fc1d50f0c236349272cb2f716daeca453b38",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS10c_N%C3%A1v%C4%9Bst_zm%C4%9Bny_sm%C4%9Bru_j%C3%ADzdy_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

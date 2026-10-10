@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 6",
+  "image": {
+    "file": "pedestrian-crossing-cz.svg",
+    "sha1": "6e678abe9a83429efbde57548f6044379032da86",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_IP-6.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

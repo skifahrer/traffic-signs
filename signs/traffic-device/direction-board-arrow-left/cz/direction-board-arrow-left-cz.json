@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 4d",
+  "image": {
+    "file": "direction-board-arrow-left-cz.jpg",
+    "sha1": "9add026326e5001f0d45290967fc4a474737bab6",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z04d_Sm%C4%9Brovac%C3%AD_deska_lev%C3%A1.jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

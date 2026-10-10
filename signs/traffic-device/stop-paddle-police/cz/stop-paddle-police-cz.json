@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 8a",
+  "image": {
+    "file": "stop-paddle-police-cz.svg",
+    "sha1": "9fafe0430c61aebe13fea0334e04c2a83a4be4f4",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z08a_Zastavovac%C3%AD_ter%C4%8D_(pro_policisty).svg",
+    "author": "Ministerstvo dopravy a spojů České republiky; This vector image was created with Inkscape by ZooFari, and then manually edited.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

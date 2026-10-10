@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 7",
+  "image": {
+    "file": "no-motorcycles-cz.svg",
+    "sha1": "58beb5a226eb18b400f11a7cc13d3e5de3cbcbd4",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-7.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

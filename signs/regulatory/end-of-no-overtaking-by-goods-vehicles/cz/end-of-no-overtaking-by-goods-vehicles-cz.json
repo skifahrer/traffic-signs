@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 22b",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-cz.jpg",
+    "sha1": "3e4966589fdd4e9dff22d24ffc85627035165565",
+    "source": "https://commons.wikimedia.org/wiki/File:B22bcr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

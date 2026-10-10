@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 14a",
+  "image": {
+    "file": "other-mandatory-instruction-cz.jpg",
+    "sha1": "03b5d730963dce2c17c1f3542f182088d63476c1",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-C14a_Jin%C3%BD_p%C5%99%C3%ADkaz_(p%C5%99ejdi_na_druhou_stranu).jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
