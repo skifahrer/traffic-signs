@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 9",
+  "image": {
+    "file": "yellow-black-stripes-cz.jpg",
+    "sha1": "5bc26de4cfdafde7d0bf91a963335896650752ad",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z09_%C5%BDlut%C3%A9_a_%C4%8Dern%C3%A9_pruhy.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 24a",
+  "image": {
+    "file": "no-right-turn-cz.jpg",
+    "sha1": "cfe94862732997f7d1dc545dfb23e0618b414995",
+    "source": "https://commons.wikimedia.org/wiki/File:B24acz.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

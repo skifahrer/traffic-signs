@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 1e",
+  "image": {
+    "file": "direction-sign-motorway-entrance-left-cz.svg",
+    "sha1": "bb06926e05ed41b89d2fc8f731d858a956eec194",
+    "source": "https://commons.wikimedia.org/wiki/File:IS1c-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

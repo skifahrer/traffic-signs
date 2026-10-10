@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 11h",
+  "image": {
+    "file": "delineator-green-round-cz.jpg",
+    "sha1": "f655f2321e760ef829f9165fc03f86c4e3567e55",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z11h_Sm%C4%9Brov%C3%BD_sloupek_(zelen%C3%BD_kulat%C3%BD)_-_baliseta_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

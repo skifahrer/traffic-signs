@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 19a",
+  "image": {
+    "file": "cycle-direction-sign-straight-cz.jpg",
+    "sha1": "a7e7a7fe7f3c9f8d2ffa6646fecd220d47683013",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS19a_Sm%C4%9Brov%C3%A1_tabule_pro_cyklisty_(s_jedn%C3%ADm_c%C3%ADlem)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

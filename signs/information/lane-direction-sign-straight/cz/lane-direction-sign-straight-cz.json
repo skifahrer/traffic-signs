@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 6e",
+  "image": {
+    "file": "lane-direction-sign-straight-cz.jpg",
+    "sha1": "86e975098f4a83e4a723c5b831f56021f5054645",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS06e_N%C3%A1v%C4%9Bst_v_k%C5%99i%C5%BEovatce_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

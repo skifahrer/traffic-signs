@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 4c",
+  "image": {
+    "file": "one-way-traffic-cyclists-contraflow-cz.tif",
+    "sha1": "052ce46d7af42220316b0c925dbc3be29113959a",
+    "source": "https://commons.wikimedia.org/wiki/File:IP_04c_Jednosm%C4%9Brn%C3%BD_provoz_s_povolen%C3%BDm_provozem_cyklist%C5%AF_v_protism%C4%9Bru_(2025).tif",
+    "author": "Ministerstvo dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

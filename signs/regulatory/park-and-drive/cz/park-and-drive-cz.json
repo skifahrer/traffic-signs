@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IP 13f",
+  "image": {
+    "file": "park-and-drive-cz.jpg",
+    "sha1": "db1c0a0060878a5dc038fa6dede57dc708254666",
+    "source": "https://commons.wikimedia.org/wiki/File:IP_13f_Parkovi%C5%A1t%C4%9B_P%2BD_(2024).jpg",
+    "author": "pracovní komise Ministerstva dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 11f",
+  "image": {
+    "file": "delineator-blue-right-cz.jpg",
+    "sha1": "de6b36cf2e69019de7c5c6050588d94644dff61c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z11f_Sm%C4%9Brovac%C3%AD_sloupek.jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

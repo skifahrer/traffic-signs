@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 15a",
+  "image": {
+    "file": "winter-equipment-required-cz.svg",
+    "sha1": "27c4c1a9abd81e14fa5bfd519d59407ee7f04359",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C-15a.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

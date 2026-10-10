@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 4b",
+  "image": {
+    "file": "local-direction-sign-left-cz.jpg",
+    "sha1": "0a8920063f0c7f6ca90aaebb04b4f4362fbae92d",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS04b_Sm%C4%9Brov%C3%A1_tabule_s_m%C3%ADstn%C3%ADm_c%C3%ADlem_(vlevo)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

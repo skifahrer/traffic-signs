@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 15",
+  "image": {
+    "file": "services-motorhome-waste-disposal-cz.jpg",
+    "sha1": "5dbc4ebbb40ebe973d7070819a9b4a5bd45e9a29",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ_15_Servisn%C3%AD_m%C3%ADsto_pro_sanitaci_hygienick%C3%BDch_za%C5%99%C3%ADzen%C3%AD_obytn%C3%BDch_vozidel_(2024).jpg",
+    "author": "pracovní komise Ministerstva dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

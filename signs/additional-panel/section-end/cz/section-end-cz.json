@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 8c",
+  "image": {
+    "file": "section-end-cz.svg",
+    "sha1": "6d91783ce4d1f4b5bae0f39be61296ce3a1c0eee",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E08c_Konec_%C3%BAseku.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

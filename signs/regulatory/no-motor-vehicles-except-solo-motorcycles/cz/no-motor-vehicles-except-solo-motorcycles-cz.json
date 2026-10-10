@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 3",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-cz.svg",
+    "sha1": "f01d2e30696463826b62aa935a300e130fc86329",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-3a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 23",
+  "image": {
+    "file": "tourist-destination-advance-sign-cz.svg",
+    "sha1": "dbd5b8fd633f0486ec9d2bbb468f4e3700e50500",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS23_Kulturn%C3%AD_nebo_turistick%C3%BD_c%C3%ADl_-_n%C3%A1v%C4%9Bst.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

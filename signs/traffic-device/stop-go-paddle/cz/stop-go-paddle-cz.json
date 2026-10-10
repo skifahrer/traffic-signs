@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 8d",
+  "image": {
+    "file": "stop-go-paddle-cz.jpg",
+    "sha1": "2fcbaa29d8c8874d99b84dc1409374f9c485f739",
+    "source": "https://commons.wikimedia.org/wiki/File:Z_8d_Zastavovac%C3%AD_ter%C4%8D_pro_st%C5%99%C3%ADdav%C3%BD_provoz_(2024).jpg",
+    "author": "pracovní komise Ministerstva dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

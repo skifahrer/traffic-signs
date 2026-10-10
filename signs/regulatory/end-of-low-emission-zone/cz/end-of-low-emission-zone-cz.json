@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IZ 7b",
+  "image": {
+    "file": "end-of-low-emission-zone-cz.tiff",
+    "sha1": "76dcc9d62de2ba71ed64262f5d2a4622b90240d8",
+    "source": "https://commons.wikimedia.org/wiki/File:IZ_07b_Konec_n%C3%ADzkoemisn%C3%AD_z%C3%B3ny_(2025).tiff",
+    "author": "Ministerstvo dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

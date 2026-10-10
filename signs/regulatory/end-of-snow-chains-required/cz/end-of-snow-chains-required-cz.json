@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 5b",
+  "image": {
+    "file": "end-of-snow-chains-required-cz.svg",
+    "sha1": "e218618cc0b80410823d4409bcbf04f0e2ea6c7d",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C05b.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

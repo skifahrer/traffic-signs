@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 19",
+  "image": {
+    "file": "no-vehicles-carrying-water-pollutants-cz.jpg",
+    "sha1": "e940a7cc889b96da35950c011a24dbd0c92fe121",
+    "source": "https://commons.wikimedia.org/wiki/File:B19cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

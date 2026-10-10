@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 11a",
+  "image": {
+    "file": "bridleway-cz.svg",
+    "sha1": "9246aa55b08b202e85a1c4ce05b3cef80bb989c4",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C11a.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

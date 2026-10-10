@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 4",
+  "image": {
+    "file": "no-goods-vehicles-cz.svg",
+    "sha1": "651f61cd2c77a7e5f62d0c452caf726fcb1ca304",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-4.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

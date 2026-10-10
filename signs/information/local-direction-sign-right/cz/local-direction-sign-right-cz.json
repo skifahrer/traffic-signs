@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 4c",
+  "image": {
+    "file": "local-direction-sign-right-cz.svg",
+    "sha1": "1387befa5ce45928ae2f5fa9f9b990ffe54f7c53",
+    "source": "https://commons.wikimedia.org/wiki/File:IS4d-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

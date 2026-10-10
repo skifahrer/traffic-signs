@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 14",
+  "image": {
+    "file": "transit-cz.svg",
+    "sha1": "0bc0855af528982c0b27f6025a6456eeae416f54",
+    "source": "https://commons.wikimedia.org/wiki/File:E14_Tranzit.svg",
+    "author": "Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

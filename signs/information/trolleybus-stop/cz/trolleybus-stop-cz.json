@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 4e",
+  "image": {
+    "file": "trolleybus-stop-cz.jpg",
+    "sha1": "a7c7211b27d557b51e40a0a67cd688f23fbc3491",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ04ecr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

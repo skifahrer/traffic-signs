@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 21",
+  "image": {
+    "file": "tunnel-ahead-cz.svg",
+    "sha1": "23ae453c0dbf367656c73682b586a2fee6671879",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_21.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

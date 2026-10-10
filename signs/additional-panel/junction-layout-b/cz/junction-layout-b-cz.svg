@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="150" width="150" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata id="metadata7">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g id="layer2" transform="translate(-10,-8)">
+<rect id="rect3005" ry="0" height="14.000009" width="45.000008" y="85" x="20" fill="#000"/>
+<use id="use3793" xlink:href="#rect3005" transform="matrix(0.31111106,0,0,3.2142837,62.777779,-170.21411)" height="166" width="168" y="0" x="0"/>
+<path id="path3799" fill="#000" d="m63,17,0,36c0,24.513035,27.486965,52,52,52h36v-26h-36c-12.25652,0-26-13.743482-26-26v-36h-26z"/>
+<rect id="rect3809" ry="8" height="144" width="144" stroke="#000" stroke-dasharray="none" stroke-miterlimit="4" y="11" x="13" stroke-width="6" fill="none"/>
+</g>
+</svg>

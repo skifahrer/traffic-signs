@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 10b",
+  "image": {
+    "file": "end-of-shared-zone-cz.jpg",
+    "sha1": "9f1cc739f1f5ec75b5e6b6d48148dcbf59a5a58c",
+    "source": "https://commons.wikimedia.org/wiki/File:IZ_10b_Konec_sd%C3%ADlen%C3%A9_z%C3%B3ny_(2024).jpg",
+    "author": "pracovní komise Ministerstva dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

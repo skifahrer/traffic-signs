@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 5",
+  "image": {
+    "file": "no-buses-cz.svg",
+    "sha1": "df34f07e924cb212106c3e7c71b201c0da655fdf",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-5.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

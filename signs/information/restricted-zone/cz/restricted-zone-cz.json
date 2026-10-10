@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 8a",
+  "image": {
+    "file": "restricted-zone-cz.svg",
+    "sha1": "eeedebdbdf8aa51578e3cda9681f9c717cbaa5ad",
+    "source": "https://commons.wikimedia.org/wiki/File:IP25a.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

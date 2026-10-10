@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "P 6",
+  "image": {
+    "file": "stop-cz.svg",
+    "sha1": "9a11c5ee863221ada0851bdbbd3d45715e4d0de7",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_P_6.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

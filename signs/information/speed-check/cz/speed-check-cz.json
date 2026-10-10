@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 31a",
+  "image": {
+    "file": "speed-check-cz.svg",
+    "sha1": "34540da5ea46bfeec58c0b8ce434f0dc0a749d3d",
+    "source": "https://commons.wikimedia.org/wiki/File:IP31a.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

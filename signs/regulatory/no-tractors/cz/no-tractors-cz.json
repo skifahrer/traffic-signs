@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 6",
+  "image": {
+    "file": "no-tractors-cz.svg",
+    "sha1": "0c3e280a04096c1b66c0346b26c9a02f58897b3c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-6.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

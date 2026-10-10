@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 18b",
+  "image": {
+    "file": "rest-area-advance-turn-cz.jpg",
+    "sha1": "44c022fd48579ce8ab173e2b72742a93adb285ef",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IJ18b_N%C3%A1v%C4%9Bst_p%C5%99ed_odbo%C4%8Den%C3%ADm_na_odpo%C4%8D%C3%ADvku_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

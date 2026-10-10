@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 15",
+  "image": {
+    "file": "roadworks-cz.svg",
+    "sha1": "338695cde04a217c55c4e498601ca6a03ca20ea4",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_15.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

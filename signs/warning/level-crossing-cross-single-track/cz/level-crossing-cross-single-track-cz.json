@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 32a",
+  "image": {
+    "file": "level-crossing-cross-single-track-cz.svg",
+    "sha1": "ba20bc3194e8ce4c4fa3fed5b22cb6fa43b9da15",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_A_32a.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

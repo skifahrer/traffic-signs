@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 3b",
+  "image": {
+    "file": "direction-sign-left-cz.jpg",
+    "sha1": "e4db385a4c04440a82b824744c9c0ac4c1c7c661",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS03b_Sm%C4%9Brov%C3%A1_tabule_s_c%C3%ADlem_(vlevo)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

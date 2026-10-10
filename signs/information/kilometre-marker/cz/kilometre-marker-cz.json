@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 18a",
+  "image": {
+    "file": "kilometre-marker-cz.jpg",
+    "sha1": "cb4caff449716b01bd4cbb6d64c26ffb41118312",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS18a_Kilometrovn%C3%ADk_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

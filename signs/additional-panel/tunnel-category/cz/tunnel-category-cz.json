@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 15",
+  "image": {
+    "file": "tunnel-category-cz.svg",
+    "sha1": "76c10faac7d190475c00bb7c2a4c6453a21ae800",
+    "source": "https://commons.wikimedia.org/wiki/File:E15_Kategorie_tunelu.svg",
+    "author": "Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

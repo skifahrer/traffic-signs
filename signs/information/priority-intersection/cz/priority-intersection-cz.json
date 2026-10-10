@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "P 1",
+  "image": {
+    "file": "priority-intersection-cz.svg",
+    "sha1": "d36c4feab86ace45fbbc69f58ac5b46f82e9810c",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_Republic_road_sign_P_1.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

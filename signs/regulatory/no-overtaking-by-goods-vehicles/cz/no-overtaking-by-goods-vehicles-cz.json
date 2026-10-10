@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 22a",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-cz.svg",
+    "sha1": "81651358b0b8df75e8e4c0712ff2f0b10b7299aa",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-22a.svg",
+    "author": "Frisky007",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

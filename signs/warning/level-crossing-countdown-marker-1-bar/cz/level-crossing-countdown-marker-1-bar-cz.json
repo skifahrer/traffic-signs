@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 31c",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-cz.svg",
+    "sha1": "1efff38abb6e7d3f16f7a78abd832b469a550999",
+    "source": "https://commons.wikimedia.org/wiki/File:A31c.svg",
+    "author": "Original: Frisky007 Vector: Life of Riley",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

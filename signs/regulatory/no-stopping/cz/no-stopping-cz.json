@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 28",
+  "image": {
+    "file": "no-stopping-cz.svg",
+    "sha1": "c2f434c54c10ffa90f3ab3f8f1d0c3578a83ad1f",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-28.svg",
+    "author": "Government of the Czech Republic",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

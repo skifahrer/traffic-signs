@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 16a",
+  "image": {
+    "file": "motorway-number-cz.svg",
+    "sha1": "78aea010be114544eb6f6aa3d1dee18427423ce5",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_traffic_sign_IS16a_-_D5.svg",
+    "author": "Zirland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

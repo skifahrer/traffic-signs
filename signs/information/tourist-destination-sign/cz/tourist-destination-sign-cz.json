@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 24a",
+  "image": {
+    "file": "tourist-destination-sign-cz.svg",
+    "sha1": "ced8c099ee844f46b895cb3bc62d9bde6264d95d",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS24a_Kulturn%C3%AD_nebo_turistick%C3%BD_c%C3%ADl.svg",
+    "author": "Original: Ministry of Transport of the Czech Republic Vector: Gumruch",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

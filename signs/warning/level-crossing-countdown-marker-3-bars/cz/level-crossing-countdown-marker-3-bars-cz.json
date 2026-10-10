@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 31a",
+  "image": {
+    "file": "level-crossing-countdown-marker-3-bars-cz.svg",
+    "sha1": "b49a4c5f062d183a471d39ba0871692c4e343f16",
+    "source": "https://commons.wikimedia.org/wiki/File:Czech_road_sign_A31a.svg",
+    "author": "Life of Riley",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

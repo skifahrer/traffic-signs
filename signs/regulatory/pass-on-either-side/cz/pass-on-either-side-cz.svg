@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500.00002"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="CZ_road_sign_C-15a.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     showborder="true"
+     inkscape:zoom="0.779"
+     inkscape:cx="145.05777"
+     inkscape:cy="346.5982"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     inkscape:object-paths="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-midpoints="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-596)">
+    <g
+       id="g2"
+       transform="rotate(135,249.99992,846)">
+      <ellipse
+         style="display:inline;fill:#cbcbcb;fill-opacity:1;stroke-width:21.5999;stroke-linecap:round"
+         id="ellipse3284"
+         cx="249.99991"
+         cy="846"
+         rx="248.99991"
+         ry="249"
+         inkscape:label="eclipse263" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke-width:21.299;stroke-linecap:round"
+         id="path1722"
+         cx="249.99991"
+         cy="846"
+         rx="245.53085"
+         ry="245.53094"
+         inkscape:label="eclipse265" />
+      <ellipse
+         style="display:inline;fill:#004182;fill-opacity:1;stroke-width:20.3735;stroke-linecap:round"
+         id="ellipse3000"
+         cx="249.99991"
+         cy="846"
+         rx="234.86234"
+         ry="234.86243"
+         inkscape:label="eclipse267" />
+      <g
+         id="g1"
+         transform="matrix(1.296875,0,0,1.296875,152.73437,-66.999996)"
+         style="fill:#ffffff;stroke-width:0.771084" />
+    </g>
+    <path
+       id="rect1-8"
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:1"
+       d="M 250.02288,698.12333 113.50652,852.9353 83.610003,805.8577 c -0.436814,-0.68682 -1.255946,-1.02985 -2.051696,-0.85866 -0.344683,0.0739 -0.661743,0.24083 -0.919458,0.48127 -0.323246,0.30243 -0.534987,0.70667 -0.597782,1.14488 l -19.68616,137.19006 c -0.184766,1.28753 0.921858,2.39014 2.208695,2.20118 L 199.45738,926.03652 c 1.78485,-0.2621 2.28331,-2.60024 0.75988,-3.56641 l -47.12063,-29.85354 96.92621,-85.21623 96.88061,85.21623 -47.12063,29.85354 c -1.52342,0.96617 -1.02496,3.30431 0.75988,3.56641 l 136.89377,19.97991 c 1.28689,0.18896 2.39351,-0.91365 2.20861,-2.20118 L 419.95893,806.62506 c -0.0628,-0.43821 -0.27454,-0.84245 -0.59779,-1.14488 -0.25733,-0.24083 -0.57482,-0.4076 -0.91947,-0.48127 -0.79575,-0.17118 -1.61487,0.17184 -2.05168,0.85866 l -29.89653,47.0776 z"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+</svg>

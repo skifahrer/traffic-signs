@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 4a",
+  "image": {
+    "file": "one-way-traffic-cz.svg",
+    "sha1": "d18986e439f817c5e1d0d65154fa7e1375828ad5",
+    "source": "https://commons.wikimedia.org/wiki/File:IP4a-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 2b",
+  "image": {
+    "file": "junction-layout-b-cz.svg",
+    "sha1": "c47c27c3e188cc92f6fe07e8c515703a3e86a65b",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E02b_Tvar_k%C5%99i%C5%BEovatky.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

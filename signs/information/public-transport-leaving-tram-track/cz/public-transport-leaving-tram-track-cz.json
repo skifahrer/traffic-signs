@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 23c",
+  "image": {
+    "file": "public-transport-leaving-tram-track-cz.jpg",
+    "sha1": "5ee37c995e0dd4d38ea36cd89c2a0614649e691c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IP23c_Sj%C3%AD%C5%BEd%C4%9Bn%C3%AD_vozidel_ve%C5%99ejn%C3%A9_hromadn%C3%A9_dopravy_osob_z_tramvajov%C3%A9ho_p%C3%A1su_(2016_-_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

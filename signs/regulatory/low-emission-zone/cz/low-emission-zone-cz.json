@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "IZ 7a",
+  "image": {
+    "file": "low-emission-zone-cz.tiff",
+    "sha1": "d043c4f9b899fb4e719b30b378a303f10d864b8f",
+    "source": "https://commons.wikimedia.org/wiki/File:IZ_07a_N%C3%ADzkoemisn%C3%AD_z%C3%B3na_(2025).tiff",
+    "author": "Ministerstvo dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

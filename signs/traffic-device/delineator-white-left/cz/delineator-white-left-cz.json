@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 11a",
+  "image": {
+    "file": "delineator-white-left-cz.jpg",
+    "sha1": "bc93b8f0f17eb01a2036dc6f740ee16b898ce5eb",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z11a_Sm%C4%9Brov%C3%BD_sloupek.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 12c",
+  "image": {
+    "file": "cyclists-permitted-direction-cz.jpg",
+    "sha1": "58ce2cd8bcb39ad4533c131cc84d75432b17a181",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E12c_Povolen%C3%BD_sm%C4%9Br_j%C3%ADzdy_cyklist%C5%AF.jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

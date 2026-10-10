@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 8",
+  "image": {
+    "file": "no-bicycles-cz.svg",
+    "sha1": "0c5995976b00a70de46257e1b685a08068e62df8",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_B-8.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

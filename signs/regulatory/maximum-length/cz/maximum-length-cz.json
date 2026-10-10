@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 17",
+  "image": {
+    "file": "maximum-length-cz.jpg",
+    "sha1": "176fe3a106e3777d9ab10b69d5ba76f44ad96e9c",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-B17_Z%C3%A1kaz_vjezdu_vozidel_nebo_souprav,_jejich%C5%BE_d%C3%A9lka_p%C5%99esahuje_vyzna%C4%8Denou_mez_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

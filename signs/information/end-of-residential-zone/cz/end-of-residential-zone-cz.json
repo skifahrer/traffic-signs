@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 5b",
+  "image": {
+    "file": "end-of-residential-zone-cz.svg",
+    "sha1": "f039a74f51ab5044a4796bb26ae21251f41ec23b",
+    "source": "https://commons.wikimedia.org/wiki/File:IP26b.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

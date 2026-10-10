@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 9e",
+  "image": {
+    "file": "advance-sign-junction-restriction-e-cz.jpg",
+    "sha1": "2299168ee322f7935d8b8013466b95cbfe6699fc",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS09e_N%C3%A1v%C4%9Bst_p%C5%99ed_k%C5%99i%C5%BEovatkou_s_omezen%C3%ADm_(2016_-_verze_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

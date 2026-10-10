@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 16b",
+  "image": {
+    "file": "road-number-class-1-1-digit-cz.svg",
+    "sha1": "02b820ed24b57438b271090d1a54586098ff0f2a",
+    "source": "https://commons.wikimedia.org/wiki/File:SilniceI4.svg",
+    "author": "Zirland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

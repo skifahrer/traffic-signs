@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 33",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-cz.jpg",
+    "sha1": "58cd6bb9b07b4726d4ff8d4efa0ce7e4c3e2c874",
+    "source": "https://commons.wikimedia.org/wiki/File:B33cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

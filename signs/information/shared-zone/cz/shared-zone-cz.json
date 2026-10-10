@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IZ 10a",
+  "image": {
+    "file": "shared-zone-cz.jpg",
+    "sha1": "eb07e97b33186c8ccf0490b8856a3b4d5959f2ca",
+    "source": "https://commons.wikimedia.org/wiki/File:IZ_10a_Sd%C3%ADlen%C3%A1_z%C3%B3na_(2024).jpg",
+    "author": "pracovní komise Ministerstva dopravy ČR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

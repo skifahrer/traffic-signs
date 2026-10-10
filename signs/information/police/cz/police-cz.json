@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 1",
+  "image": {
+    "file": "police-cz.jpg",
+    "sha1": "c9c15b813c191f4723da5499196aa8932ac60b78",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ01cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

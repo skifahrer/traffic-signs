@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 8a",
+  "image": {
+    "file": "long-distance-sign-arrow-cz.jpg",
+    "sha1": "dac94d1c2a300a51d6017fd02db84bbf4029d915",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS08a_D%C3%A1lkov%C3%A1_n%C3%A1v%C4%9Bst_(s_%C5%A1ipkou)_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

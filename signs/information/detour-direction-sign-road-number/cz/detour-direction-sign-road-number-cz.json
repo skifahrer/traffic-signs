@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 11d",
+  "image": {
+    "file": "detour-direction-sign-road-number-cz.jpg",
+    "sha1": "7c75b618aac00fe538d8305b29a4ec4e85779f9f",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS11d_Sm%C4%9Brov%C3%A1_tabule_pro_vyzna%C4%8Den%C3%AD_obj%C3%AD%C5%BE%C4%8Fky_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

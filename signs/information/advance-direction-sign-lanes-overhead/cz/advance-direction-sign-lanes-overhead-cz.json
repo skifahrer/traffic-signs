@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 6d",
+  "image": {
+    "file": "advance-direction-sign-lanes-overhead-cz.jpg",
+    "sha1": "104fb63efd542b0c75dc1c66a44ede1e2b3fc075",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IS06d_N%C3%A1v%C4%9Bst_v_k%C5%99i%C5%BEovatce_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

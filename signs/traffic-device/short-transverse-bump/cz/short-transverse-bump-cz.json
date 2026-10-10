@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "cz",
   "code": "Z 12",
+  "image": {
+    "file": "short-transverse-bump-cz.jpg",
+    "sha1": "56feb45345ee874924ce5cd8b44cb7b06ec88d7e",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-Z12_Kr%C3%A1tk%C3%BD_p%C5%99%C3%AD%C4%8Dn%C3%BD_pr%C3%A1h.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

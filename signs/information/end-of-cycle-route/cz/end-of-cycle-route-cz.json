@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 21d",
+  "image": {
+    "file": "end-of-cycle-route-cz.png",
+    "sha1": "5e479c0364de714f65d9dc28b135546d1a80d3ec",
+    "source": "https://commons.wikimedia.org/wiki/File:IS_21d_Konec_cyklistick%C3%A9_trasy.png",
+    "author": "Wakinki",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2992" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="144" width="143.99213" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata id="metadata2997">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g id="layer2" transform="translate(-10.007882,-10)">
+<g id="g3829">
+<rect id="rect3790" stroke-dasharray="none" ry="7.499095" height="138.99818" width="138.99031" stroke="#000" stroke-miterlimit="4" y="12.500905" x="12.508786" stroke-width="5.00180912" fill="#FFF"/>
+<path id="path3792" stroke-linejoin="miter" d="m37,91,91,0s25.22763-14.631196-7-23c0,0,2-17-25-12,0.893025,0.96886-24.130514-34.923271-47,12h-9c0.0061-0.01217-7.716497,1.189891-10,6-2.752856,5.798783-4.254374,11.212344,7,17z" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="#000"/>
+<path id="path3795" stroke-linejoin="miter" d="m37,92-8,11" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="4" fill="none"/>
+<path id="path3795-1" stroke-linejoin="miter" d="M48.89254,93.10746,32.10746,116.39254" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="4" fill="none"/>
+<use id="use3817" xlink:href="#path3795" transform="translate(23.89254,1.10746)" height="162" width="164" y="0" x="0"/>
+<use id="use3819" xlink:href="#path3795-1" transform="translate(24.690637,0.65035322)" height="162" width="164" y="0" x="0"/>
+<use id="use3821" xlink:href="#path3795" transform="translate(48.967144,1.2374369)" height="162" width="164" y="0" x="0"/>
+<use id="use3823" xlink:href="#path3795-1" transform="translate(49.497475,0.35355339)" height="162" width="164" y="0" x="0"/>
+<use id="use3825" xlink:href="#path3795" transform="translate(74.069435,0.88388347)" height="162" width="164" y="0" x="0"/>
+<use id="use3827" xlink:href="#path3795-1" transform="translate(74.422989,-0.17677669)" height="162" width="164" y="0" x="0"/>
+</g>
+</g>
+</svg>

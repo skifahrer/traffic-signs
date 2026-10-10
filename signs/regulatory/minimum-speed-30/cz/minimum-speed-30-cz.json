@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 6a",
+  "image": {
+    "file": "minimum-speed-30-cz.svg",
+    "sha1": "4a78daccdc551a31051b20344c38b23c4dfa8498",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C06a.30.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

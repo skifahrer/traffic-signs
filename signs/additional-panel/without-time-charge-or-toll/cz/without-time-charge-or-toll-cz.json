@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 11e",
+  "image": {
+    "file": "without-time-charge-or-toll-cz.svg",
+    "sha1": "eb17c88fcb46befd40e61510adbb907603af1d76",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_E11e_2016.svg",
+    "author": "HLock",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

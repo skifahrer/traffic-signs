@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "B 23b",
+  "image": {
+    "file": "end-of-no-horns-cz.jpg",
+    "sha1": "ce06eb6e7acd2d0e84205d87e5dc0b48d2f8e9fb",
+    "source": "https://commons.wikimedia.org/wiki/File:B23bcr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

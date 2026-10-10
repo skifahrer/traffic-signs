@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 28b",
+  "image": {
+    "file": "general-rules-information-cz.jpg",
+    "sha1": "527972f508432d2b08ebd971a7e830f2c1cb5385",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IP28b_Nejvy%C5%A1%C5%A1%C3%AD_dovolen%C3%A9_rychlosti_(2016_-_verze_2015-07-31).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

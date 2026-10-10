@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 2d",
+  "image": {
+    "file": "mandatory-direction-straight-or-right-cz.svg",
+    "sha1": "dd91fbb902a0768e78f8e054e5d7704154c5a9a5",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C02d.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

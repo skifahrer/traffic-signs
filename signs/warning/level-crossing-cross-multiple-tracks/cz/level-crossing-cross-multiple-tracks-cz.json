@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "cz",
   "code": "A 32b",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-cz.svg",
+    "sha1": "ef49e48a3e6f7883f9be54ac86ec128ea55a6b4b",
+    "source": "https://commons.wikimedia.org/wiki/File:A32b_CZ.svg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

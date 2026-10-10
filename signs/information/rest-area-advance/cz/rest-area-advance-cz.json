@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 18a",
+  "image": {
+    "file": "rest-area-advance-cz.jpg",
+    "sha1": "32dda25c36d8a6fe9c45a93d7a5cad303fdc0217",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IJ18a_N%C3%A1v%C4%9Bst_p%C5%99ed_odpo%C4%8D%C3%ADvkou_(2016).jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

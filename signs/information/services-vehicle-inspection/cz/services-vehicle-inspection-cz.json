@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IJ 9",
+  "image": {
+    "file": "services-vehicle-inspection-cz.jpg",
+    "sha1": "f90e29da13a3af6150087cbcb4b65164530eeef5",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ09cr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

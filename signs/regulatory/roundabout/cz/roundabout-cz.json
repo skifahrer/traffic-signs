@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "cz",
   "code": "C 1",
+  "image": {
+    "file": "roundabout-cz.svg",
+    "sha1": "d0634110b2a81a2e12970adb84ef63ada55c948a",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ_road_sign_C01.svg",
+    "author": "Kys5g",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

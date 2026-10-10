@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IS 3a",
+  "image": {
+    "file": "direction-sign-straight-cz.svg",
+    "sha1": "3801503a3df5ffa8bc271a50defc282f49611f7c",
+    "source": "https://commons.wikimedia.org/wiki/File:IS3a-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

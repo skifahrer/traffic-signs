@@ -3,6 +3,14 @@
   "category": "information",
   "country": "cz",
   "code": "IP 15d",
+  "image": {
+    "file": "end-of-toll-cz.jpg",
+    "sha1": "5fa3c02a73c40b8986ab024219e06d59e58fe2ac",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-IP15d_Konec_m%C3%BDtn%C3%A9ho_-_2007.jpg",
+    "author": "Ministerstvo dopravy České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",

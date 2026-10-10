@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "cz",
   "code": "E 4",
+  "image": {
+    "file": "section-length-cz.jpg",
+    "sha1": "8a0859476639a22256c5a7efdcc283ea196f0c03",
+    "source": "https://commons.wikimedia.org/wiki/File:CZ-E04_D%C3%A9lka_%C3%BAseku.jpg",
+    "author": "Ministerstvo dopravy a spojů České republiky",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
