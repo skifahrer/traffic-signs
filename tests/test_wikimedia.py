@@ -38,6 +38,32 @@ class ImageInfoTest(unittest.TestCase):
         self.assertEqual(info["File:110-10_Zákruta.svg"]["license"], "Public domain")
 
 
+class RequestTest(unittest.TestCase):
+    def test_api_queries_are_posted_so_long_title_lists_fit(self):
+        titles = "|".join(f"File:{n} Tabuľový smerník na vyznačenie obchádzky (predbežný doľava).svg" for n in range(50))
+        sent = {}
+
+        class Response:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *exc):
+                return False
+
+            def read(self):
+                return b'{"query": {}}'
+
+        def urlopen(request, timeout):
+            sent["url"], sent["data"], sent["method"] = request.full_url, request.data, request.get_method()
+            return Response()
+
+        with mock.patch("urllib.request.urlopen", side_effect=urlopen):
+            Client(delay=0).get_json("https://commons.wikimedia.org/w/api.php", {"action": "query", "titles": titles})
+        self.assertEqual(sent["method"], "POST")
+        self.assertEqual(sent["url"], "https://commons.wikimedia.org/w/api.php")
+        self.assertGreater(len(sent["data"]), 4000)
+
+
 class StripMarkupTest(unittest.TestCase):
     def test_links_and_formatting(self):
         self.assertEqual(strip_markup("[[Bratislava|Bratislave]] '''tučné''' &amp; <b>x</b>"), "Bratislave tučné & x")

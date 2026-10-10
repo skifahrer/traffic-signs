@@ -34,15 +34,17 @@ class Client:
         self.retries = retries
         self._last = 0.0
 
-    def get(self, url: str, params: dict | None = None) -> bytes:
+    def get(self, url: str, params: dict | None = None, post: dict | None = None) -> bytes:
+        """GET `url` with query `params`, or POST `post` as a form when given."""
         if params:
             url = f"{url}?{urllib.parse.urlencode(params)}"
+        body = urllib.parse.urlencode(post).encode() if post is not None else None
         for attempt in range(self.retries + 1):
             wait = self.delay - (time.monotonic() - self._last)
             if wait > 0:
                 time.sleep(wait)
             self._last = time.monotonic()
-            request = urllib.request.Request(url, headers={"User-Agent": self.user_agent})
+            request = urllib.request.Request(url, data=body, headers={"User-Agent": self.user_agent})
             try:
                 with urllib.request.urlopen(request, timeout=60) as response:
                     return response.read()
@@ -59,7 +61,8 @@ class Client:
         raise AssertionError("unreachable")
 
     def get_json(self, url: str, params: dict) -> dict:
-        return json.loads(self.get(url, {**params, "format": "json", "formatversion": "2"}))
+        # POST, because 50 long file titles do not fit in a GET URL (HTTP 414).
+        return json.loads(self.get(url, post={**params, "format": "json", "formatversion": "2"}))
 
     def page_wikitext(self, wiki: str, title: str) -> str:
         """Raw wikitext of the current revision of `title` on e.g. sk.wikipedia.org."""
