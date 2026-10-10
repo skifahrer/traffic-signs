@@ -1,13 +1,21 @@
 name: Sync signs from Wikipedia
 
+# "Start" runs the tests and works out which countries to sync. Then every
+# country gets its own "Sync <country>" job; they run one after another and
+# each opens its own pull request on sync/<country>.
+
 on:
   schedule:
     - cron: "17 4 * * 1" # Mondays 04:17 UTC, all countries
   workflow_dispatch:
     inputs:
-      countries:
-        description: "Countries to sync: all, or country codes separated by spaces (e.g. sk or sk cz)"
-        type: string
+      country:
+        description: Country to sync
+        type: choice
+        # `all` plus one entry per folder in pipelines/countries; tests/test_workflow.py checks this.
+        options:
+          - all
+          - sk
         default: all
       prune:
         description: Delete signs that left the Wikipedia page instead of archiving them
@@ -23,12 +31,15 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: sync-${{ inputs.countries || 'all' }}
+  group: sync-signs
   cancel-in-progress: false
 
 jobs:
-  sync:
+  start:
+    name: Start
     runs-on: ubuntu-latest
+    outputs:
+      countries: ${{ steps.plan.outputs.countries }}
     steps:
       - uses: actions/checkout@v5
 
@@ -40,27 +51,41 @@ jobs:
         run: python -m unittest discover -s tests -t .
 
       - name: Choose countries
-        id: countries
+        id: plan
         env:
-          REQUESTED: ${{ inputs.countries || 'all' }}
+          COUNTRY: ${{ inputs.country || 'all' }}
         run: |
-          # Normalise "SK, cz" to "sk cz"; anything but letters and spaces is dropped.
-          countries=$(echo "$REQUESTED" | tr 'A-Z,' 'a-z ' | tr -cd 'a-z ' | xargs)
-          countries=${countries:-all}
           python -m pipelines --list
-          echo "list=$countries" >> "$GITHUB_OUTPUT"
-          echo "slug=${countries// /-}" >> "$GITHUB_OUTPUT"
+          countries=$(python -m pipelines "$COUNTRY" --matrix)
+          echo "Countries to sync: $countries"
+          echo "countries=$countries" >> "$GITHUB_OUTPUT"
 
-      - name: Sync (${{ steps.countries.outputs.list }})
+  sync:
+    name: Sync ${{ matrix.country }}
+    needs: start
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1 # one country after another
+      fail-fast: false # a failing country does not stop the next one
+      matrix:
+        country: ${{ fromJSON(needs.start.outputs.countries) }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Sync ${{ matrix.country }} from Wikipedia
         id: sync
         env:
-          COUNTRIES: ${{ steps.countries.outputs.list }}
+          COUNTRY: ${{ matrix.country }}
           PRUNE: ${{ inputs.prune }}
           VERBOSE: ${{ inputs.verbose }}
           WIKIMEDIA_USER_AGENT: >-
             traffic-signs-sync/1.0 (https://github.com/${{ github.repository }}; GitHub Actions) python-urllib
         run: |
-          args=($COUNTRIES --report "$RUNNER_TEMP/report.md")
+          args=("$COUNTRY" --report "$RUNNER_TEMP/report.md")
           if [ "$PRUNE" = "true" ]; then args+=(--prune); fi
           if [ "$VERBOSE" = "true" ]; then args+=(--verbose); fi
           if python -m pipelines "${args[@]}"; then
@@ -76,16 +101,18 @@ jobs:
       - name: Open or update the pull request
         uses: peter-evans/create-pull-request@v8
         with:
-          branch: sync/${{ steps.countries.outputs.slug }}
+          branch: sync/${{ matrix.country }}
           delete-branch: true
           add-paths: signs/**
-          commit-message: "Sync traffic signs from Wikipedia (${{ steps.countries.outputs.list }})"
-          title: "Sync traffic signs from Wikipedia (${{ steps.countries.outputs.list }})"
+          commit-message: "Sync traffic signs from Wikipedia (${{ matrix.country }})"
+          title: "Sync traffic signs from Wikipedia (${{ matrix.country }})"
           body-path: ${{ runner.temp }}/report.md
           labels: sync
 
       - name: Fail if the sync reported errors
         if: steps.sync.outputs.failed == 'true'
+        env:
+          COUNTRY: ${{ matrix.country }}
         run: |
-          echo "::error::The sync reported errors, see the job summary."
+          echo "::error::The $COUNTRY sync reported errors, see the job summary."
           exit 1
