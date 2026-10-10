@@ -38,6 +38,15 @@ class WorkflowTest(unittest.TestCase):
                 self.assertEqual(main([choice, "--matrix"]), 0)
                 self.assertEqual(json.loads(printed.call_args.args[0]), countries)
 
+    def test_viewer_is_republished_after_the_sync_workflow(self):
+        workflows = os.path.join(layout.REPO_ROOT, ".github", "workflows")
+        with open(WORKFLOW, encoding="utf-8") as handle:
+            sync_name = re.search(r"^name: (.+)$", handle.read(), re.MULTILINE).group(1).strip()
+        with open(os.path.join(workflows, "pages.yml"), encoding="utf-8") as handle:
+            pages = handle.read()
+        self.assertIn("workflow_run:", pages)
+        self.assertIn(f'workflows: ["{sync_name}"]', pages)
+
 
 if __name__ == "__main__":
     unittest.main()

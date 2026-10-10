@@ -68,8 +68,10 @@ and earlier (archived) images. Every sign has its own link, e.g.
 
 The site is built from `signs/` by `python3 -m viewer` (static page in
 [`viewer/static`](viewer/static), data in `data.json`) and published by
-[`.github/workflows/pages.yml`](.github/workflows/pages.yml) on every change to
-`signs/` or the viewer on master. One-time setup: *Settings → Pages → Build and
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml) from master: on
+every change to `signs/` or the viewer (merging a sync pull request included),
+after every run of the sync workflow, and on demand. On phones the filters fold
+under *Filters* and each sign is a card with the countries side by side. One-time setup: *Settings → Pages → Build and
 deployment → Source: GitHub Actions*.
 
 To preview it locally:

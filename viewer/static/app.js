@@ -48,16 +48,20 @@ function matches(sign) {
 function image(src, alt, className) {
   return src
     ? el("img", { src, alt, loading: "lazy", decoding: "async", class: className })
-    : el("span", { class: "missing", title: "No image yet" }, "–");
+    : el("span", { class: ["missing", className].filter(Boolean).join(" "), title: "Image not downloaded yet" }, "no image yet");
 }
 
 function cell(sign, country) {
   const entry = sign.countries[country];
-  if (!entry) return el("div", { class: "cell muted", title: `Not in ${countryName(country)}` }, el("span", { class: "missing" }, "–"));
+  const label = el("span", { class: "country" }, country.toUpperCase());
+  if (!entry) {
+    return el("div", { class: "cell absent", title: `Not in ${countryName(country)}` }, label, el("span", { "aria-label": `Not in ${countryName(country)}` }, "—"));
+  }
   const local = localName(sign, country);
   return el(
     "div",
     { class: "cell" },
+    label,
     image(entry.image, `${countryName(country)}: ${local || englishName(sign)}`),
     el("code", {}, entry.code),
     local && el("span", { class: "local", title: local }, local),
@@ -160,6 +164,9 @@ function route() {
 }
 
 function setupControls() {
+  // Filters start open where there is room for them, folded on phones.
+  $("filters").open = window.matchMedia("(min-width: 641px)").matches;
+
   const category = $("category");
   category.append(
     el("option", { value: "" }, "All types"),
