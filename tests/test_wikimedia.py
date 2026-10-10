@@ -1,7 +1,7 @@
 import unittest
 from unittest import mock
 
-from pipelines.wikimedia import Client, strip_markup
+from pipelines.core.wikimedia import Client, strip_markup
 
 
 class ImageInfoTest(unittest.TestCase):

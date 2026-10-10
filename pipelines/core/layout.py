@@ -14,7 +14,7 @@ import json
 import os
 import re
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SIGNS_DIR = os.path.join(REPO_ROOT, "signs")
 
 # Top-level types. Keep this list short and country-neutral; country-specific

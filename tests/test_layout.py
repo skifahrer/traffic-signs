@@ -5,7 +5,7 @@ import os
 import re
 import unittest
 
-from pipelines import layout
+from pipelines.core import layout
 
 LANG_RE = re.compile(r"^[a-z]{2,3}(?:-[A-Z]{2})?$")  # ISO 639, optionally with a region: de, de-AT
 IMAGE_EXTS = {"svg", "png", "jpg", "jpeg", "gif", "webp"}
