@@ -1,4 +1,4 @@
-"""The Markdown report of a sync run (job summary and pull request body)."""
+"""The Markdown report of a sync run (job summary and commit message)."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import os
 from . import layout
 from .sync import Result
 
-SECTION_LIMIT = 100  # keeps the PR body under GitHub's size limit
+SECTION_LIMIT = 100  # keeps the job summary readable
 
 
 def render(results: list[Result]) -> str:
