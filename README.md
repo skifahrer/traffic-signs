@@ -65,6 +65,10 @@ name), or show only signs that 2+ countries have. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.
 `#warning/bend-left`.
+While `data.json` downloads, a progress bar shows how much has arrived. The
+list then shows the first 100 matching signs and adds the next 100 as you scroll
+(or with *Show more*); the header counts how many are shown, e.g.
+*200 of 1,314 signs*.
 Images stored as TIFF, which browsers do not display, are shown through the
 PNG thumbnail that Wikimedia Commons renders for them.
 

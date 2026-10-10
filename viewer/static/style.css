@@ -317,6 +317,53 @@ main {
   text-align: center;
 }
 
+/* Loading data.json, and the "show more" footer under the list */
+
+.loading {
+  display: grid;
+  justify-items: center;
+  gap: 0.5rem;
+  padding: 4rem 1rem;
+}
+
+.loading progress {
+  width: min(20rem, 80%);
+  accent-color: var(--accent);
+}
+
+.loading p,
+.more p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.more {
+  display: grid;
+  justify-items: center;
+  gap: 0.5rem;
+  padding: 1rem 0 2rem;
+}
+
+.more[hidden],
+.loading[hidden] {
+  display: none;
+}
+
+.more button {
+  font: inherit;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.4rem 1rem;
+  cursor: pointer;
+}
+
+.more button:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
 /* Detail dialog */
 
 dialog {
