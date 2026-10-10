@@ -13,7 +13,9 @@ import os
 from . import layout
 from .wikimedia import sha1_of
 
-IMAGE_EXTS = {"svg", "png", "jpg", "jpeg", "gif", "webp"}
+IMAGE_EXTS = {"svg", "png", "jpg", "jpeg", "gif", "webp", "tif", "tiff"}
+# Formats browsers display; the viewer shows the others through a Commons thumbnail.
+WEB_IMAGE_EXTS = {"svg", "png", "jpg", "jpeg", "gif", "webp"}
 
 
 def image_meta(path: str, info: dict) -> dict:

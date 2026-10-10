@@ -65,12 +65,14 @@ name), or show only signs that 2+ countries have. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.
 `#warning/bend-left`.
+Images stored as TIFF, which browsers do not display, are shown through the
+PNG thumbnail that Wikimedia Commons renders for them.
 
 The site is built from `signs/` by `python3 -m viewer` (static page in
 [`viewer/static`](viewer/static), data in `data.json`) and published by
 [`.github/workflows/pages.yml`](.github/workflows/pages.yml) from master: on
-every change to `signs/` or the viewer (merging a sync pull request included),
-after every run of the sync workflow, and on demand. On phones the filters fold
+every change to `signs/` or the viewer, after every run of the sync workflow
+(which commits its changes to master), and on demand. On phones the filters fold
 under *Filters* and each sign is a card with the countries side by side. One-time setup: *Settings → Pages → Build and
 deployment → Source: GitHub Actions*.
 
@@ -161,7 +163,7 @@ pipelines/
     parsers.py         reusable page readers: gallery(), wikitable()
     sync.py            the sync engine: page → translations → images → signs/
     images.py          image download, update and archiving
-    report.py          Markdown report for the job summary and the pull request
+    report.py          Markdown report for the job summary and the commit message
     layout.py          the signs/ folder structure
     wikimedia.py       HTTP client with User-Agent, rate limit and retries
     log.py             progress logging
@@ -229,16 +231,18 @@ plus the prune and verbose switches.
 
 The run starts with a **Start** job that runs the tests and picks the
 countries. Each country is then its own **Sync <country>** job. They run one
-after another, a failing country does not stop the next, and each opens (or
-updates) its own pull request on `sync/<country>` with a report listing new,
-changed, archived and untranslated signs.
+after another, and a failing country does not stop the next. Each job commits
+its changes straight to the branch the workflow runs on (master for the weekly
+run) as `github-actions[bot]`. The commit message has the counts (new, changed,
+images downloaded, archived, ...) and a link to the run, and the job summary
+has the full report. A job with nothing new makes no commit. Signs written
+before an error are committed too, and the job still fails, so check its
+summary. Once the run finishes, the viewer is republished.
 
 When you add a country, add it to the dropdown's `options` in `sync.yml` too;
 `tests/test_workflow.py` fails until the list matches `pipelines/countries`.
-For the jobs to open pull requests, enable *Settings → Actions → General →
-Workflow permissions → Allow GitHub Actions to create and approve pull
-requests*. Without it the sync still pushes `sync/<country>`; the job ends with
-a warning and its summary links to open the pull request by hand.
+If master is protected by a branch rule, allow GitHub Actions to push to it,
+or the job fails with "Could not push".
 
 ## Licence
 

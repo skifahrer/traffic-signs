@@ -2,7 +2,8 @@ name: Sync signs from Wikipedia
 
 # "Start" runs the tests and works out which countries to sync. Then every
 # country gets its own "Sync <country>" job; they run one after another and
-# each opens its own pull request on sync/<country>.
+# each commits its changes straight to the branch the workflow runs on
+# (master for the weekly run). Publish viewer runs after this workflow.
 
 on:
   schedule:
@@ -30,7 +31,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: sync-signs
@@ -72,7 +72,11 @@ jobs:
       matrix:
         country: ${{ fromJSON(needs.start.outputs.countries) }}
     steps:
+      # The branch tip, not the commit the run started on: it already has the
+      # previous country's commit, which may have touched the same names files.
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v6
         with:
@@ -100,53 +104,49 @@ jobs:
           fi
           cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Open or update the pull request
-        id: pr
-        # The changes are pushed to sync/<country> before the pull request is
-        # opened, so a refused pull request loses nothing; the next step says
-        # what to do instead of failing the whole sync.
-        continue-on-error: true
-        uses: peter-evans/create-pull-request@v8
-        with:
-          branch: sync/${{ matrix.country }}
-          delete-branch: true
-          add-paths: signs/**
-          commit-message: "Sync traffic signs from Wikipedia (${{ matrix.country }})"
-          title: "Sync traffic signs from Wikipedia (${{ matrix.country }})"
-          body-path: ${{ runner.temp }}/report.md
-          labels: sync
-
-      # Usually "GitHub Actions is not permitted to create or approve pull
-      # requests": the branch is pushed, only the pull request is missing.
-      - name: Link to the pull request if it could not be opened
-        if: steps.pr.outcome == 'failure'
+      # Signs written before an error are complete, so they are committed
+      # too; the last step still fails the job.
+      - name: Commit and push the changes
         env:
-          GH_TOKEN: ${{ github.token }}
-          REPO: ${{ github.repository }}
-          BASE: ${{ github.event.repository.default_branch }}
           COUNTRY: ${{ matrix.country }}
+          BRANCH: ${{ github.ref_name }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          branch="sync/$COUNTRY"
-          if ! git ls-remote --exit-code --heads origin "$branch" > /dev/null; then
-            echo "::error::The changes could not be pushed to $branch, see the step above."
-            exit 1
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A signs
+          if git diff --cached --quiet; then
+            echo "No changes for $COUNTRY."
+            echo "No changes to commit." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
           fi
-          if [ -n "$(gh pr list --repo "$REPO" --head "$branch" --state open --json number --jq '.[].number')" ]; then
-            echo "::error::The pull request for $branch could not be updated, see the step above."
-            exit 1
-          fi
-          title=$(jq -rn --arg t "Sync traffic signs from Wikipedia ($COUNTRY)" '$t | @uri')
-          url="https://github.com/$REPO/compare/$BASE...$branch?expand=1&title=$title"
-          setting="Settings → Actions → General → Workflow permissions → Allow GitHub Actions to create and approve pull requests"
-          echo "::warning title=Pull request not opened::The changes are on $branch, but GitHub Actions may not open pull requests here. Open it from $url, or enable: $setting."
           {
-            echo "### Pull request not opened"
+            echo "Sync traffic signs from Wikipedia ($COUNTRY)"
             echo
-            echo "The changes are on \`$branch\`: **[open the pull request]($url)**."
+            # The report's counts: the bullet list before the first section.
+            awk '/^### /{exit} /^- /' "$RUNNER_TEMP/report.md"
             echo
-            echo "To let this workflow open it next time, enable *$setting*"
-            echo "(if the repository belongs to an organisation, the organisation's Actions settings must allow it too)."
-          } >> "$GITHUB_STEP_SUMMARY"
+            echo "Report: $RUN_URL"
+          } > "$RUNNER_TEMP/message.txt"
+          git commit -q -F "$RUNNER_TEMP/message.txt"
+          git show --stat --format="Committed %h: %s" HEAD | tail -1
+          # Someone may have pushed meanwhile: rebase onto it and try again.
+          for attempt in 1 2 3 4; do
+            if git push origin "HEAD:refs/heads/$BRANCH"; then
+              sha=$(git rev-parse --short HEAD)
+              echo "Pushed $sha to $BRANCH."
+              echo "Committed [\`$sha\`]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$sha) to \`$BRANCH\`." >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep $((2 ** attempt))
+            if ! git pull --rebase origin "$BRANCH"; then
+              git rebase --abort || true
+              echo "::error::The $COUNTRY changes conflict with new commits on $BRANCH; re-run the sync."
+              exit 1
+            fi
+          done
+          echo "::error::Could not push the $COUNTRY changes to $BRANCH. If the branch is protected, allow GitHub Actions to push to it."
+          exit 1
 
       - name: Fail if the sync reported errors
         if: steps.sync.outputs.failed == 'true'

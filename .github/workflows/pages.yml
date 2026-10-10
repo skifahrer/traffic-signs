@@ -1,8 +1,9 @@
 name: Publish viewer
 
 # Builds the sign viewer (python -m viewer) from master and publishes it on
-# GitHub Pages: when signs or the viewer change on master (including merged
-# sync pull requests), after every run of the sync workflow, and on demand.
+# GitHub Pages: when signs or the viewer change on master, after every run of
+# the sync workflow (its commits are pushed by GitHub Actions, which does not
+# start a push run), and on demand.
 # One-time setup: Settings → Pages → Build and deployment → Source: GitHub Actions.
 
 on:
