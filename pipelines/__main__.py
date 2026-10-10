@@ -28,7 +28,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--list", action="store_true", help="list the available countries and exit")
     parser.add_argument("--check", action="store_true", help="report changes without writing anything")
     parser.add_argument("--no-images", action="store_true", help="skip Commons metadata and image downloads")
-    parser.add_argument("--prune", action="store_true", help="delete signs that are no longer on the page")
+    parser.add_argument("--prune", action="store_true", help="delete signs that left the page instead of archiving them")
     parser.add_argument("--strict", action="store_true", help="fail when a sign has no translation")
     parser.add_argument("--wikitext", help="read the page from this file instead of downloading it (one country only)")
     parser.add_argument("--report", help="also write the Markdown report to this file")

@@ -2,6 +2,8 @@
 
     signs/<category>/<sign>/<sign>.json                         names of the sign, keyed by language
     signs/<category>/<sign>/<country>/<sign>-<country>.<ext>    image (svg, png, ...)
+    signs/<category>/<sign>/<country>/<sign>-<country>-archived-<year>.<ext>
+                                                                an earlier image, valid until <year>
     signs/<category>/<sign>/<country>/<sign>-<country>.json     metadata and image provenance
 
 The names file is shared by every country that has the sign, so pipelines
@@ -38,6 +40,15 @@ def sign_dir(category: str, slug: str, country: str) -> str:
 
 def sign_path(category: str, slug: str, country: str, ext: str) -> str:
     return os.path.join(sign_dir(category, slug, country), f"{slug}-{country}.{ext}")
+
+
+def archived_path(category: str, slug: str, country: str, ext: str, year: int) -> str:
+    """A free name for an archived image: <sign>-<country>-archived-<year>[-<n>].<ext>."""
+    base = os.path.join(sign_dir(category, slug, country), f"{slug}-{country}-archived-{year}")
+    path, n = f"{base}.{ext}", 2
+    while os.path.exists(path):
+        path, n = f"{base}-{n}.{ext}", n + 1
+    return path
 
 
 def translations_path(category: str, slug: str) -> str:

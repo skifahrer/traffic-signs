@@ -51,20 +51,33 @@ class LayoutTest(unittest.TestCase):
             category, slug, country = parts
             if not layout.COUNTRY_RE.match(country):
                 problems.append(f"bad country folder {'/'.join(parts)}")
-            prefix = f"{slug}-{country}."
+            stem = re.escape(f"{slug}-{country}")
+            images = "|".join(sorted(IMAGE_EXTS))
+            current_re = re.compile(rf"^{stem}\.(json|{images})$")
+            archived_re = re.compile(rf"^{stem}-archived-\d{{4}}(-\d+)?\.({images})$")
             for name in filenames:
                 where = f"{'/'.join(parts)}/{name}"
-                if not name.startswith(prefix):
-                    problems.append(f"{where}: name must start with {prefix}")
+                if not (current_re.match(name) or archived_re.match(name)):
+                    problems.append(
+                        f"{where}: expected {slug}-{country}.<json|image> or"
+                        f" {slug}-{country}-archived-<year>.<image> (names go in ../{slug}.json)"
+                    )
                     continue
-                ext = name[len(prefix):]
-                if ext == "json":
-                    with open(os.path.join(dirpath, name), encoding="utf-8") as handle:
-                        meta = json.load(handle)
-                    if (meta.get("category"), meta.get("sign"), meta.get("country")) != (category, slug, country):
-                        problems.append(f"{where}: category/sign/country do not match the path")
-                elif ext not in IMAGE_EXTS:
-                    problems.append(f"{where}: unknown extension .{ext} (names go in ../{slug}.json)")
+                if not name.endswith(".json"):
+                    continue
+                with open(os.path.join(dirpath, name), encoding="utf-8") as handle:
+                    meta = json.load(handle)
+                if (meta.get("category"), meta.get("sign"), meta.get("country")) != (category, slug, country):
+                    problems.append(f"{where}: category/sign/country do not match the path")
+                listed = [meta["image"]] if meta.get("image") else []
+                for old in meta.get("archived", []):
+                    if not isinstance(old.get("valid_until"), int):
+                        problems.append(f"{where}: archived entry without a valid_until year")
+                    if old.get("file"):
+                        listed.append(old)
+                for image in listed:
+                    if image["file"] not in filenames:
+                        problems.append(f"{where}: lists {image['file']}, which is not in the folder")
         self.assertEqual(problems, [], "\n".join(problems[:50]))
 
 

@@ -14,6 +14,7 @@ signs/
       <sign>.json             the sign's names, one entry per language
       <country>/              ISO 3166-1 alpha-2 code, lowercase: sk, cz, us, ...
         <sign>-<country>.svg  the image (svg, png, ...)
+        <sign>-<country>-archived-<year>.svg   an earlier image, valid until <year>
         <sign>-<country>.json metadata: national code, image source and licence
 ```
 
@@ -72,7 +73,7 @@ python3 -m pipelines sk               # only Slovakia (several: sk cz pl)
 python3 -m pipelines --list           # available countries
 python3 -m pipelines sk --no-images   # names and metadata only
 python3 -m pipelines sk --check       # report what would change, write nothing
-python3 -m pipelines sk --prune       # also delete signs removed from the page
+python3 -m pipelines sk --prune       # delete signs removed from the page instead of archiving them
 python3 -m pipelines sk -v            # also log signs that are already up to date
 ```
 
@@ -90,6 +91,37 @@ collapsible groups and errors are shown as annotations.
 
 It needs Python 3.9+ and nothing else.
 
+### Images and the archive
+
+Each run compares the image on disk with Commons by SHA-1:
+
+| Situation | What the sync does |
+| --- | --- |
+| Image not on disk yet | downloads it |
+| Commons has a new version (SHA-1 differs) | downloads it over the old one |
+| Image deleted from Commons, sign still on the page | renames it to `<sign>-<country>-archived-<year>.<ext>` and moves its metadata to `archived` with `valid_until` |
+| Sign removed from the page | archives its image the same way and marks the sign `"valid_until": <year>`; its folder and names stay |
+| Sign comes back to the page | downloads the current image and drops the sign's `valid_until`; the archive is kept |
+
+`<year>` is the year the sync noticed the change, so it is the last year the
+image was known to be valid. With `--prune`, signs that left the page are
+deleted instead of archived.
+
+```json
+{
+  "sign": "danger",
+  "category": "warning",
+  "country": "sk",
+  "code": "101",
+  "valid_until": 2026,
+  "archived": [
+    {"file": "danger-sk-archived-2026.svg", "sha1": "f3c1…", "source": "https://commons.wikimedia.org/wiki/File:…",
+     "author": "…", "license": "Public domain", "license_url": null, "valid_until": 2026}
+  ],
+  "source": {"pipeline": "sk-wikipedia", "page": "…", "file": "101 Nebezpečenstvo.svg"}
+}
+```
+
 ### Code layout
 
 ```
@@ -99,6 +131,7 @@ pipelines/
     model.py           Source (a country's settings), Entry, Translation
     parsers.py         reusable page readers: gallery(), wikitable()
     sync.py            the sync engine: page → translations → images → signs/
+    images.py          image download, update and archiving
     report.py          Markdown report for the job summary and the pull request
     layout.py          the signs/ folder structure
     wikimedia.py       HTTP client with User-Agent, rate limit and retries

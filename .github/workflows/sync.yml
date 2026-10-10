@@ -10,7 +10,7 @@ on:
         type: string
         default: all
       prune:
-        description: Delete signs that are no longer on the Wikipedia page
+        description: Delete signs that left the Wikipedia page instead of archiving them
         type: boolean
         default: false
       verbose:
