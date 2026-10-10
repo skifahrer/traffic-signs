@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "271",
+  "image": {
+    "file": "no-parking-sk.svg",
+    "sha1": "810072b60ecd38244ef22b4d36122cf4b905916e",
+    "source": "https://commons.wikimedia.org/wiki/File:271_Z%C3%A1kaz_st%C3%A1tia.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

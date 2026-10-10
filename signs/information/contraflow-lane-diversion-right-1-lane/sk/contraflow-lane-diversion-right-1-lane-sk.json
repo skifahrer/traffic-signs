@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "443-20",
+  "image": {
+    "file": "contraflow-lane-diversion-right-1-lane-sk.svg",
+    "sha1": "3dd49bdb11b888be545f15caad5c14b99d47130d",
+    "source": "https://commons.wikimedia.org/wiki/File:443-20_Presmerovanie_jazdn%C3%BDch_pruhov_do_protismeru_(doprava,_1_pruh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

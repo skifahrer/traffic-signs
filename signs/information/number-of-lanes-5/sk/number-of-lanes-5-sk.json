@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "401-33",
+  "image": {
+    "file": "number-of-lanes-5-sk.svg",
+    "sha1": "b2ed6417256be8dbbb6490f8c3982452ba979155",
+    "source": "https://commons.wikimedia.org/wiki/File:401-33_Po%C4%8Det_jazdn%C3%BDch_pruhov_(5_pruhov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

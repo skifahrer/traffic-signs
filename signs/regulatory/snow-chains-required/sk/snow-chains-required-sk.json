@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "251",
+  "image": {
+    "file": "snow-chains-required-sk.svg",
+    "sha1": "b7a370c83771dd45e28b9061174f6abbb0eb15c2",
+    "source": "https://commons.wikimedia.org/wiki/File:251_Snehov%C3%A9_re%C5%A5aze.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

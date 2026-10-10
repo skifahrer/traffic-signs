@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "267",
+  "image": {
+    "file": "end-of-all-restrictions-sk.svg",
+    "sha1": "520205d187ff7d35872d549c714452bcd49bd8a9",
+    "source": "https://commons.wikimedia.org/wiki/File:267_Koniec_viacer%C3%BDch_z%C3%A1kazov.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

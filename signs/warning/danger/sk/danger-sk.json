@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "101",
+  "image": {
+    "file": "danger-sk.svg",
+    "sha1": "f3c1a01677763c1af55d069ffac54c5b729e150d",
+    "source": "https://commons.wikimedia.org/wiki/File:101_Nebezpe%C4%8Denstvo.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

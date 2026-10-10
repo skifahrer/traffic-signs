@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "224",
+  "image": {
+    "file": "public-transport-lane-sk.svg",
+    "sha1": "e7c2db47f3cee4b3d57bd9a68cadb566a598562d",
+    "source": "https://commons.wikimedia.org/wiki/File:224_Vyhraden%C3%BD_pruh_pre_verejn%C3%BA_dopravu.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

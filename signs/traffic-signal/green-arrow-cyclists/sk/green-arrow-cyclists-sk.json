@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "730-58",
+  "image": {
+    "file": "green-arrow-cyclists-sk.svg",
+    "sha1": "0f2ad7d3382cac105e25e0adb4a97f0ebd327880",
+    "source": "https://commons.wikimedia.org/wiki/File:730-58_Zelen%C3%A1_%C5%A1%C3%ADpka_(doplnkov%C3%A9_zariadenie_k_sveteln%C3%BDm_sign%C3%A1lom,_plat%C3%AD_pre_cyklistov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

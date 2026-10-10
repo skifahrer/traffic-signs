@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "825",
+  "image": {
+    "file": "pedestrian-cyclist-signal-go-sk.svg",
+    "sha1": "44e7e42c735bacc3363cb0caf5217529bda7fd84",
+    "source": "https://commons.wikimedia.org/wiki/File:825_Sign%C3%A1l_Vo%C4%BEno_pre_chodcov_a_cyklistov_(pri_prech%C3%A1dzan%C3%AD_cez_vozovku).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

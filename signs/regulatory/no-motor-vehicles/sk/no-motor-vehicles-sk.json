@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "232",
+  "image": {
+    "file": "no-motor-vehicles-sk.svg",
+    "sha1": "30d0b121f4f597749c21b5bb5a30131031710578",
+    "source": "https://commons.wikimedia.org/wiki/File:232_Z%C3%A1kaz_vjazdu_pre_v%C5%A1etky_motorov%C3%A9_vozidl%C3%A1.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

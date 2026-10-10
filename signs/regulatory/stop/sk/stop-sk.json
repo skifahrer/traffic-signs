@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "202",
+  "image": {
+    "file": "stop-sk.svg",
+    "sha1": "bc4cceb03dc4c40bf7e6e080ac925d8deb6d91dd",
+    "source": "https://commons.wikimedia.org/wiki/File:202_Stoj,_daj_prednos%C5%A5_v_jazde!.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-58",
+  "image": {
+    "file": "no-bicycles-sk.svg",
+    "sha1": "568424554444f0c772de22676276deb5cc2051b9",
+    "source": "https://commons.wikimedia.org/wiki/File:233-58_Z%C3%A1kaz_vjazdu_pre_(bicykle).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "823",
+  "image": {
+    "file": "cyclist-crossing-signal-go-sk.svg",
+    "sha1": "d38e13c65388918092bd8f716e337d773a4128b6",
+    "source": "https://commons.wikimedia.org/wiki/File:823_Sign%C3%A1l_Vo%C4%BEno_pre_cyklistov_(pri_prech%C3%A1dzan%C3%AD_cez_vozovku).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

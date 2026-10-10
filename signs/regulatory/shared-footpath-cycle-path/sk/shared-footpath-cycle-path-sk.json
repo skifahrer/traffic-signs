@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "222",
+  "image": {
+    "file": "shared-footpath-cycle-path-sk.svg",
+    "sha1": "d4e0051bfec7783db02054e2fc782f3ba5c4f220",
+    "source": "https://commons.wikimedia.org/wiki/File:222_Spolo%C4%8Dn%C3%A1_cesti%C4%8Dka_pre_chodcov_a_cyklistov.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

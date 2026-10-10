@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "390-22",
+  "image": {
+    "file": "alternative-route-right-exit-sk.svg",
+    "sha1": "490b8f7ed923b329d88e669264cf50aa3685b14a",
+    "source": "https://commons.wikimedia.org/wiki/File:390-22_N%C3%A1hradn%C3%A1_trasa_(doprava,_vyradenie).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

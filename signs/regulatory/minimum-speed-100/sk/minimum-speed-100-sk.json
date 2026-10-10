@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "250-100",
+  "image": {
+    "file": "minimum-speed-100-sk.svg",
+    "sha1": "852eba5181e5ddeda3cd7ce9e97ec26f45a1a449",
+    "source": "https://commons.wikimedia.org/wiki/File:250-100_Najni%C5%BE%C5%A1ia_dovolen%C3%A1_r%C3%BDchlos%C5%A5_(100_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

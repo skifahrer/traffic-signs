@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-77",
+  "image": {
+    "file": "services-leisure-sports-area-sk.svg",
+    "sha1": "d94010050f91451661b936585f337ccbf0ded233",
+    "source": "https://commons.wikimedia.org/wiki/File:330-77_Slu%C5%BEby_(vo%C4%BEno%C4%8Dasov%C3%BD_%C5%A1portov%C3%BD_are%C3%A1l).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

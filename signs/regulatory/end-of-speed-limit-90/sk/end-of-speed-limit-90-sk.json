@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "263-90",
+  "image": {
+    "file": "end-of-speed-limit-90-sk.svg",
+    "sha1": "1413de0d76a0294865f57c71bdbf5a18d45db4ae",
+    "source": "https://commons.wikimedia.org/wiki/File:263-90_Koniec_najvy%C5%A1%C5%A1ej_dovolenej_r%C3%BDchlosti_(90_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

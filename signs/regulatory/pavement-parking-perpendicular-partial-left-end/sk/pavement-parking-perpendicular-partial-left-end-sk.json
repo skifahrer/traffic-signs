@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "273-72",
+  "image": {
+    "file": "pavement-parking-perpendicular-partial-left-end-sk.svg",
+    "sha1": "9f2fc7787eedc0ba29d90a9a449282313b99477a",
+    "source": "https://commons.wikimedia.org/wiki/File:273-72_Parkovanie_na_chodn%C3%ADku_(prie%C4%8Dne_%C4%8Diasto%C4%8Dne,_umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_v%C4%BEavo,_koniec_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

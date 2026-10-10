@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "126",
+  "image": {
+    "file": "crosswind-sk.svg",
+    "sha1": "4be094ad813a5526d7cb49075e63267b63a0e032",
+    "source": "https://commons.wikimedia.org/wiki/File:126_Bo%C4%8Dn%C3%BD_vietor.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

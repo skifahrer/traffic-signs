@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "225-90",
+  "image": {
+    "file": "end-of-public-transport-lane-sk.svg",
+    "sha1": "aa64d7764d7ede0e67c1af19a21ef9038236a9ba",
+    "source": "https://commons.wikimedia.org/wiki/File:225-90_Koniec_%C5%A1peci%C3%A1lnej_cesti%C4%8Dky_alebo_pruhu_(vyhraden%C3%BD_pruh_pre_verejn%C3%BA_dopravu).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

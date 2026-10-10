@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "278",
+  "image": {
+    "file": "end-of-parking-zone-sk.svg",
+    "sha1": "f5356b08fcebe5e9000417f15ec81067d319153a",
+    "source": "https://commons.wikimedia.org/wiki/File:278_Koniec_parkovacej_z%C3%B3ny.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

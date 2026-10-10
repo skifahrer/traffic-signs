@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "120",
+  "image": {
+    "file": "slippery-road-sk.svg",
+    "sha1": "9982d467fdc01eb102d704d6493f8de9982a226f",
+    "source": "https://commons.wikimedia.org/wiki/File:120_Nebezpe%C4%8Denstvo_%C5%A1myku.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

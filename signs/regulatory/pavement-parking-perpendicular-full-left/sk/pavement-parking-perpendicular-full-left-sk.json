@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "273-80",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-left-sk.svg",
+    "sha1": "5e21d04a1893b0369853dd66a70af7bd37074ef8",
+    "source": "https://commons.wikimedia.org/wiki/File:273-80_Parkovanie_na_chodn%C3%ADku_(prie%C4%8Dne_%C3%BAplne,_umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

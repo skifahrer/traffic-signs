@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "441-11",
+  "image": {
+    "file": "lane-diversion-left-2-lanes-sk.svg",
+    "sha1": "b505cddbfedcf49c7d8732806532739790810021",
+    "source": "https://commons.wikimedia.org/wiki/File:441-11_Presmerovanie_jazdn%C3%BDch_pruhov_(do%C4%BEava,_2_pruhy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

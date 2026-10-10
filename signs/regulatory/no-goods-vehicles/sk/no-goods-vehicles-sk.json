@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-52",
+  "image": {
+    "file": "no-goods-vehicles-sk.svg",
+    "sha1": "b2db75d5daccef70b1dd356572ddee5f9a5e0c76",
+    "source": "https://commons.wikimedia.org/wiki/File:233-52_Z%C3%A1kaz_vjazdu_pre_(n%C3%A1kladn%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

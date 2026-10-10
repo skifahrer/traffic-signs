@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-29",
+  "image": {
+    "file": "maximum-weight-29t-sk.svg",
+    "sha1": "59490b31eb8488dc75cf7decddda192d8fd31c17",
+    "source": "https://commons.wikimedia.org/wiki/File:240-29_Maxim%C3%A1lna_hmotnos%C5%A5_(29_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

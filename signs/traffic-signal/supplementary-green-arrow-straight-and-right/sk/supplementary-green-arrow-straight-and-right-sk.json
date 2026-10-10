@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "831-32",
+  "image": {
+    "file": "supplementary-green-arrow-straight-and-right-sk.svg",
+    "sha1": "0f73fd7ef47c63560c34b7a1ac7de95f9e25b39c",
+    "source": "https://commons.wikimedia.org/wiki/File:831-32_Sign%C3%A1l_Doplnkov%C3%A1_zelen%C3%A1_%C5%A1%C3%ADpka_pred_kri%C5%BEovatkou_(priamo_a_vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

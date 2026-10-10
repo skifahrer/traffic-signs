@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "393-32-52",
+  "image": {
+    "file": "detour-announcement-goods-vehicles-sk.svg",
+    "sha1": "7d6f9ad426cfb9f5ade0acec684d6ae7b3ebd2ff",
+    "source": "https://commons.wikimedia.org/wiki/File:393-32-52_Ohlasovacia_tabu%C4%BEa_obch%C3%A1dzky_(pre_n%C3%A1kladn%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

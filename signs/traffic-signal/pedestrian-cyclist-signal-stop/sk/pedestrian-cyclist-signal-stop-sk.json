@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "824",
+  "image": {
+    "file": "pedestrian-cyclist-signal-stop-sk.svg",
+    "sha1": "6cff33146df559868b66d59f676190ca9267219e",
+    "source": "https://commons.wikimedia.org/wiki/File:824_Sign%C3%A1l_Stoj_pre_chodcov_a_cyklistov_(pri_prech%C3%A1dzan%C3%AD_cez_vozovku).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

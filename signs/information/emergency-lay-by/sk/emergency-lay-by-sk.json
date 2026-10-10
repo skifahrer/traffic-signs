@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "335",
+  "image": {
+    "file": "emergency-lay-by-sk.svg",
+    "sha1": "c8f5909bb4f63d6ef47e0c3d400dcab3f0b00a31",
+    "source": "https://commons.wikimedia.org/wiki/File:335_N%C3%BAdzov%C3%A1_odstavn%C3%A1_plocha.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

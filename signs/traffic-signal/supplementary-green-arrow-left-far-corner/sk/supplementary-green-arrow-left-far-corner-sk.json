@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "830",
+  "image": {
+    "file": "supplementary-green-arrow-left-far-corner-sk.svg",
+    "sha1": "17d3f847686062a3a70ab116c66eafced9d68ae3",
+    "source": "https://commons.wikimedia.org/wiki/File:830_Sign%C3%A1l_Doplnkov%C3%A1_zelen%C3%A1_%C5%A1%C3%ADpka_v%C4%BEavo_(v_proti%C4%BEahlom_rohu_kri%C5%BEovatky).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

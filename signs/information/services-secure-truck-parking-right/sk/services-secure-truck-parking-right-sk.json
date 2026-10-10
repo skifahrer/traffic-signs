@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-83-20",
+  "image": {
+    "file": "services-secure-truck-parking-right-sk.svg",
+    "sha1": "ea4f95891efcec595e51bdd65d95fd1fcfbd0e88",
+    "source": "https://commons.wikimedia.org/wiki/File:330-83-20_Slu%C5%BEby_(bezpe%C4%8Dn%C3%A9_parkovisko_pre_n%C3%A1kladn%C3%A9_vozidl%C3%A1,_smer_jazdy_doprava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

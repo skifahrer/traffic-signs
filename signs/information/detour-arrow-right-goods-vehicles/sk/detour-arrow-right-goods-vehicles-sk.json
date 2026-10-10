@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "395-22-52",
+  "image": {
+    "file": "detour-arrow-right-goods-vehicles-sk.svg",
+    "sha1": "f407a05717f5f956729d402f2034e1a0f50e91cf",
+    "source": "https://commons.wikimedia.org/wiki/File:395-22-52_%C5%A0%C3%ADpov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(doprava,_pre_n%C3%A1kladn%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

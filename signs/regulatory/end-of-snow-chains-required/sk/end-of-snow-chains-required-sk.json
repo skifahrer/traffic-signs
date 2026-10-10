@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "261",
+  "image": {
+    "file": "end-of-snow-chains-required-sk.svg",
+    "sha1": "1e5c36900e82dff2e0ed954277505db373c7447a",
+    "source": "https://commons.wikimedia.org/wiki/File:261_Koniec_snehov%C3%BDch_re%C5%A5az%C3%AD.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

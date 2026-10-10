@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "442-22",
+  "image": {
+    "file": "lane-diversion-right-3-lanes-with-regulatory-sign-sk.svg",
+    "sha1": "9f354d12391f38882664997bb4fc8a53854d0244",
+    "source": "https://commons.wikimedia.org/wiki/File:442-22_Presmerovanie_jazdn%C3%BDch_pruhov_(doprava,_3_pruhy,_s_vlo%C5%BEenou_regula%C4%8Dnou_zna%C4%8Dkou).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

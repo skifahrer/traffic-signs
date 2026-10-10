@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-2,8",
+  "image": {
+    "file": "maximum-weight-2-8t-sk.svg",
+    "sha1": "47ba143aad57f03df502c69f8bf50f24bf83addb",
+    "source": "https://commons.wikimedia.org/wiki/File:240-2,8_Maxim%C3%A1lna_hmotnos%C5%A5_(2,8_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

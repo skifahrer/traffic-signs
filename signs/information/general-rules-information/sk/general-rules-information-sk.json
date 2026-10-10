@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "342",
+  "image": {
+    "file": "general-rules-information-sk.svg",
+    "sha1": "d807d22b29d3ea7102a590dc252ccd72f007e240",
+    "source": "https://commons.wikimedia.org/wiki/File:342_Inform%C3%A1cie_o_v%C5%A1eobecn%C3%BDch_pravidl%C3%A1ch.svg",
+    "author": "Krumpi",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

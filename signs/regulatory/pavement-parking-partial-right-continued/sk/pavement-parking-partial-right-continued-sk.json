@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "273-58",
+  "image": {
+    "file": "pavement-parking-partial-right-continued-sk.svg",
+    "sha1": "ec0ac7f56815b7984e34449725f667ddc1c572ae",
+    "source": "https://commons.wikimedia.org/wiki/File:273-58_Parkovanie_na_chodn%C3%ADku_(%C4%8Diasto%C4%8Dne,_umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_vpravo,_priebeh_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

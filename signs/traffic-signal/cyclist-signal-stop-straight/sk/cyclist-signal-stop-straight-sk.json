@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "813-30",
+  "image": {
+    "file": "cyclist-signal-stop-straight-sk.svg",
+    "sha1": "f91b6c0255d63ba74bfe91557ff2b2dc4faeb93d",
+    "source": "https://commons.wikimedia.org/wiki/File:813-30_Sign%C3%A1l_Stoj_pre_cyklistov,_smerov%C3%BD_(priamo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

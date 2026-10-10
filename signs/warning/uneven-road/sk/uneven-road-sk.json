@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "115",
+  "image": {
+    "file": "uneven-road-sk.svg",
+    "sha1": "919aab0ff3866104777f5c17424e9a275ce65ca1",
+    "source": "https://commons.wikimedia.org/wiki/File:115_Nerovnos%C5%A5_vozovky.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

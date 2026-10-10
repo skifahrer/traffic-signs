@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "392-52",
+  "image": {
+    "file": "closure-advance-notice-selected-road-users-via-detour-signs-sk.svg",
+    "sha1": "bb4f507cc887a509d9f92063ab4c2c5e6794d0a6",
+    "source": "https://commons.wikimedia.org/wiki/File:392-52_Uz%C3%A1vierkov%C3%A1_predzves%C5%A5_(uz%C3%A1vierka_pre_vyzna%C4%8Den%C3%BDch_%C3%BA%C4%8Dastn%C3%ADkov,_navig%C3%A1cia_prostredn%C3%ADctvom_Z_394).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

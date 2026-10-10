@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "111-10",
+  "image": {
+    "file": "double-bend-left-sk.svg",
+    "sha1": "ce41da69799e89a8d0d864ca5e6a7d9adfe50fd0",
+    "source": "https://commons.wikimedia.org/wiki/File:111-10_Dvojit%C3%A1_z%C3%A1kruta_(prv%C3%A1_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

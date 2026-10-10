@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "310",
+  "image": {
+    "file": "end-of-motorway-sk.svg",
+    "sha1": "f3ce62a316161a58e0e680b8483f386068733cac",
+    "source": "https://commons.wikimedia.org/wiki/File:310_Koniec_dia%C4%BEnice.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

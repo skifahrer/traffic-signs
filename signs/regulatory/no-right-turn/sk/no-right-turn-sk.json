@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "215-20",
+  "image": {
+    "file": "no-right-turn-sk.svg",
+    "sha1": "b37169bf6de311a61b07048fee69aeedd58b37c7",
+    "source": "https://commons.wikimedia.org/wiki/File:215-20_Z%C3%A1kaz_odbo%C4%8Denia_(vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

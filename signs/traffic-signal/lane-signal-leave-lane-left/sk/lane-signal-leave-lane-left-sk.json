@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "861-10",
+  "image": {
+    "file": "lane-signal-leave-lane-left-sk.svg",
+    "sha1": "d91d86bbd7234f321dc1ced138d585b87229c04b",
+    "source": "https://commons.wikimedia.org/wiki/File:861-10_Sign%C3%A1l_Opustite_tento_jazdn%C3%BD_pruh_v_smere_%C5%A1%C3%ADpky_(v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

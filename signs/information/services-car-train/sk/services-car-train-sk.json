@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-92",
+  "image": {
+    "file": "services-car-train-sk.svg",
+    "sha1": "4c31ecdb5e3650a835357b217cb020380e0ad8dc",
+    "source": "https://commons.wikimedia.org/wiki/File:330-92_Slu%C5%BEby_(autovlak).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

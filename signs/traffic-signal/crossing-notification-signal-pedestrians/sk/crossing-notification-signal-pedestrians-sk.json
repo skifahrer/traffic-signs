@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "832-50",
+  "image": {
+    "file": "crossing-notification-signal-pedestrians-sk.svg",
+    "sha1": "81d058c7f19d15d88a57f8ea88c1e35c39360c9d",
+    "source": "https://commons.wikimedia.org/wiki/File:832-50_Notifika%C4%8Dn%C3%BD_sign%C3%A1l_o_kri%C5%BEovan%C3%AD_smeru_(chodcov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

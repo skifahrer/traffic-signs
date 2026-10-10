@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "393-32-76",
+  "image": {
+    "file": "detour-announcement-water-pollutants-sk.svg",
+    "sha1": "84dbcf37f94e30b59ef5779fe50e6c37c469ab10",
+    "source": "https://commons.wikimedia.org/wiki/File:393-32-76_Ohlasovacia_tabu%C4%BEa_obch%C3%A1dzky_(pre_vozidl%C3%A1_prepravuj%C3%BAce_n%C3%A1klad,_ktor%C3%BD_m%C3%B4%C5%BEe_sp%C3%B4sobi%C5%A5_zne%C4%8Distenie_vody).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "281-50",
+  "image": {
+    "file": "leave-hard-shoulder-2-lanes-sk.svg",
+    "sha1": "42e242b089bb8790b7a06a78246e1564cd8b3ee4",
+    "source": "https://commons.wikimedia.org/wiki/File:281-50_Opustite_krajnicu_(2_pruhy_%2B_krajnica).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

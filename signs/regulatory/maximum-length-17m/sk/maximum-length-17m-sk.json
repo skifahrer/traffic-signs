@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "244-17",
+  "image": {
+    "file": "maximum-length-17m-sk.svg",
+    "sha1": "eefff8bd44d43d67b72e3acb78db5dd34c2a9f58",
+    "source": "https://commons.wikimedia.org/wiki/File:244-17_Maxim%C3%A1lna_d%C4%BA%C5%BEka_(17_m).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

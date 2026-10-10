@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "819",
+  "image": {
+    "file": "cyclist-signal-go-supplementary-sk.svg",
+    "sha1": "71e2adb6822b2a9979736adb83860501fb5b1bc5",
+    "source": "https://commons.wikimedia.org/wiki/File:819_Sign%C3%A1l_Vo%C4%BEno_pre_cyklistov,_smerov%C3%BD_(doplnkov%C3%BD_sign%C3%A1l_pod%C4%BEa_(Z7)_%C2%A7_15_ods._8).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

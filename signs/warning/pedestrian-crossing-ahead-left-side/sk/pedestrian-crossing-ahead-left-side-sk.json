@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "142-20",
+  "image": {
+    "file": "pedestrian-crossing-ahead-left-side-sk.svg",
+    "sha1": "4cb73bc170a011e8e8676185976efc56a87a490b",
+    "source": "https://commons.wikimedia.org/wiki/File:142-20_Priechod_pre_chodcov_(v%C3%BDstra%C5%BEn%C3%A1_zna%C4%8Dka;_umiestnenie_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

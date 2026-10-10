@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "391-10",
+  "image": {
+    "file": "alternative-route-change-motorway-left-sk.svg",
+    "sha1": "f937b48afd58d347b0bade8d3ec3d8907f7af49a",
+    "source": "https://commons.wikimedia.org/wiki/File:391-10_Zmena_n%C3%A1hradnej_trasy_(dia%C4%BEnica_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

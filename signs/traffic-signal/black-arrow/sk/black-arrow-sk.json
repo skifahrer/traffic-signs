@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "731",
+  "image": {
+    "file": "black-arrow-sk.svg",
+    "sha1": "9482a4f32c32f2e5b86c88cd0908177811a55d87",
+    "source": "https://commons.wikimedia.org/wiki/File:731_%C4%8Cierna_%C5%A1%C3%ADpka_(doplnkov%C3%A9_zariadenie_k_sveteln%C3%BDm_sign%C3%A1lom).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

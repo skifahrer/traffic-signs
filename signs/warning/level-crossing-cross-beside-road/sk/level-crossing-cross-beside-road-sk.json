@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "153-50",
+  "image": {
+    "file": "level-crossing-cross-beside-road-sk.svg",
+    "sha1": "9e878f0bc97a034f965671a201b4d08fd5532b7e",
+    "source": "https://commons.wikimedia.org/wiki/File:153-50_V%C3%BDstra%C5%BEn%C3%BD_kr%C3%AD%C5%BE_(ved%C4%BEa_vozovky).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

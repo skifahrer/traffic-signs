@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "249",
+  "image": {
+    "file": "end-of-low-emission-zone-sk.svg",
+    "sha1": "b5a48b459ab7ca28a66cc89a2c1f4420a1576e1c",
+    "source": "https://commons.wikimedia.org/wiki/File:249_Koniec_n%C3%ADzkoemisnej_z%C3%B3ny.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

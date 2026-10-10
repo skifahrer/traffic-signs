@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "443-18",
+  "image": {
+    "file": "contraflow-lane-diversion-left-2-lanes-plus-1-straight-sk.svg",
+    "sha1": "e602f1afb7754dca352fd4d09e8316c55dbfe44c",
+    "source": "https://commons.wikimedia.org/wiki/File:443-18_Presmerovanie_jazdn%C3%BDch_pruhov_do_protismeru_(do%C4%BEava,_2_pruhy_%2B_1_priamo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

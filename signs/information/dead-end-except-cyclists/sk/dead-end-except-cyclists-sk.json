@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "328-50",
+  "image": {
+    "file": "dead-end-except-cyclists-sk.svg",
+    "sha1": "66555fcdac8465e9789623489b4978bf2bad7ac6",
+    "source": "https://commons.wikimedia.org/wiki/File:328-50_Slep%C3%A1_cesta_(prejazdn%C3%A1_pre_cyklistov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

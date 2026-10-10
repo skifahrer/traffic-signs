@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "270-21",
+  "image": {
+    "file": "no-stopping-left-start-sk.svg",
+    "sha1": "d30cc53c55dddd4f8f01386363e4d38fd9e716c8",
+    "source": "https://commons.wikimedia.org/wiki/File:270-21_Z%C3%A1kaz_zastavenia_(umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_v%C4%BEavo,_za%C4%8Diatok_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

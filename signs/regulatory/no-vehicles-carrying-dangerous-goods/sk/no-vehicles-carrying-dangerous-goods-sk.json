@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "234",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-sk.svg",
+    "sha1": "a0210077893f0dae2b36cf62cd1dfc3045e47614",
+    "source": "https://commons.wikimedia.org/wiki/File:234_Z%C3%A1kaz_vjazdu_pre_vozidl%C3%A1_prepravuj%C3%BAce_(nebezpe%C4%8Dn%C3%A9_veci).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "114-10",
+  "image": {
+    "file": "road-narrows-right-sk.svg",
+    "sha1": "f405749b9b05bb8101759575cc5846f66532b252",
+    "source": "https://commons.wikimedia.org/wiki/File:114-10_Z%C3%BA%C5%BEen%C3%A1_vozovka_(sprava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

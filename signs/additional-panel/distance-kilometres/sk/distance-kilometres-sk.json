@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "501-51",
+  "image": {
+    "file": "distance-kilometres-sk.svg",
+    "sha1": "cc260335af578d8d571cd5203db0a7ca7c9adab6",
+    "source": "https://commons.wikimedia.org/wiki/File:501-51_Vzdialenos%C5%A5_(v_kilometroch,_vzor_3_km).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

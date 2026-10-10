@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "110-10",
+  "image": {
+    "file": "bend-left-sk.svg",
+    "sha1": "90886adc268d5ae33bd4cd784f59fe7211199dd5",
+    "source": "https://commons.wikimedia.org/wiki/File:110-10_Z%C3%A1kruta_(v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

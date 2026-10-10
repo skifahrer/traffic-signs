@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "sk",
   "code": "504-20",
+  "image": {
+    "file": "direction-of-validity-right-sk.svg",
+    "sha1": "054e63fd8851f3f360421d9f742a05ed599627b2",
+    "source": "https://commons.wikimedia.org/wiki/File:504-20_Smer_platnosti_(doprava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

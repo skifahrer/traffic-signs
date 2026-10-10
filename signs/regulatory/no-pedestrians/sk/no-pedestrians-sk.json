@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-60",
+  "image": {
+    "file": "no-pedestrians-sk.svg",
+    "sha1": "c13c4c5f3720f16b3c9cabc0021b334f458625ee",
+    "source": "https://commons.wikimedia.org/wiki/File:233-60_Z%C3%A1kaz_vstupu_pre_(chodcov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

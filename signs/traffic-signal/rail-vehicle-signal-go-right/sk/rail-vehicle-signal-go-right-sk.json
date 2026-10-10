@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "853-20",
+  "image": {
+    "file": "rail-vehicle-signal-go-right-sk.svg",
+    "sha1": "7bd8e85fb04c5b9f2c39a660b97290880bdf39ed",
+    "source": "https://commons.wikimedia.org/wiki/File:853-20_Sign%C3%A1l_Vo%C4%BEno_pre_dr%C3%A1hov%C3%A9_vozidl%C3%A1,_smerov%C3%BD_(vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

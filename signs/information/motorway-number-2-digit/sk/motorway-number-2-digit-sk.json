@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "352-51",
+  "image": {
+    "file": "motorway-number-2-digit-sk.svg",
+    "sha1": "00122572f22ae5958bdf2eaab685d658b465ecab",
+    "source": "https://commons.wikimedia.org/wiki/File:352-51_%C4%8C%C3%ADslo_dia%C4%BEnice_alebo_r%C3%BDchlostnej_cesty_(dia%C4%BEnica,_2-cifern%C3%A9_%C4%8D%C3%ADslo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

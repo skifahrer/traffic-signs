@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "235",
+  "image": {
+    "file": "no-vehicles-carrying-water-pollutants-sk.svg",
+    "sha1": "0cd5db04b191219d269c6f0d6df2d327dba0df86",
+    "source": "https://commons.wikimedia.org/wiki/File:235_Z%C3%A1kaz_vjazdu_pre_vozidl%C3%A1_prepravuj%C3%BAce_(n%C3%A1klad,_ktor%C3%BD_m%C3%B4%C5%BEe_sp%C3%B4sobi%C5%A5_zne%C4%8Distenie_vody).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "402-32",
+  "image": {
+    "file": "number-of-lanes-4-with-regulatory-sign-sk.svg",
+    "sha1": "28ef4c9f36ce906b560b0bd88b2fb37ef1e9103c",
+    "source": "https://commons.wikimedia.org/wiki/File:402-32_Po%C4%8Det_jazdn%C3%BDch_pruhov_(4_pruhy_%2B_regula%C4%8Dn%C3%A1_zna%C4%8Dka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

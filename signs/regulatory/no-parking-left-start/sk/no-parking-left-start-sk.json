@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "271-21",
+  "image": {
+    "file": "no-parking-left-start-sk.svg",
+    "sha1": "35620721c6455ed64f8b69b40365cf3fcb56cc46",
+    "source": "https://commons.wikimedia.org/wiki/File:271-21_Z%C3%A1kaz_st%C3%A1tia_(umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_v%C4%BEavo,_za%C4%8Diatok_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "265",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-sk.svg",
+    "sha1": "91c7d69935ece059b6599b67e45d0fa32eeb83b0",
+    "source": "https://commons.wikimedia.org/wiki/File:265_Koniec_z%C3%A1kazu_predch%C3%A1dzania_pre_n%C3%A1kladn%C3%A9_vozidl%C3%A1.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "121",
+  "image": {
+    "file": "snow-or-ice-sk.svg",
+    "sha1": "1009580e2a9528329c380dc35f8657a282144316",
+    "source": "https://commons.wikimedia.org/wiki/File:121_Sneh_alebo_po%C4%BEadovica.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

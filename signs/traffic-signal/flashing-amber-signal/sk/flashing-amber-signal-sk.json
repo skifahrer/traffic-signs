@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "840",
+  "image": {
+    "file": "flashing-amber-signal-sk.svg",
+    "sha1": "5e8e6c1d94bf71a2b8ff1a8c7d93156436910896",
+    "source": "https://commons.wikimedia.org/wiki/File:840_Preru%C5%A1ovan%C3%BD_%C5%BElt%C3%BD_sign%C3%A1l.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

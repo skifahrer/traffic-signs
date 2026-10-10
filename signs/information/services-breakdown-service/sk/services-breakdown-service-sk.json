@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-67",
+  "image": {
+    "file": "services-breakdown-service-sk.svg",
+    "sha1": "dad06ba885908ec18e77d2aae45ce1d319cebcef",
+    "source": "https://commons.wikimedia.org/wiki/File:330-67_Slu%C5%BEby_(poruchov%C3%A1_slu%C5%BEba).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

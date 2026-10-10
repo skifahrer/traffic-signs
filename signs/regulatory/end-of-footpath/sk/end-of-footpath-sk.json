@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "225-50",
+  "image": {
+    "file": "end-of-footpath-sk.svg",
+    "sha1": "b3a211316cf1364db6352599dbbd1fb19a3be802",
+    "source": "https://commons.wikimedia.org/wiki/File:225-50_Koniec_%C5%A1peci%C3%A1lnej_cesti%C4%8Dky_alebo_pruhu_(cesti%C4%8Dka_pre_chodcov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

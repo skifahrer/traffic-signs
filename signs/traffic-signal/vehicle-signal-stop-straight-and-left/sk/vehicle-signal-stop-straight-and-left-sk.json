@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "807-10",
+  "image": {
+    "file": "vehicle-signal-stop-straight-and-left-sk.svg",
+    "sha1": "c57320c8ee2ecc36b1c3e265bb34372e93af25f3",
+    "source": "https://commons.wikimedia.org/wiki/File:807-10_Sign%C3%A1l_Stoj_pre_vozidl%C3%A1,_2-smerov%C3%BD_(priamo_a_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

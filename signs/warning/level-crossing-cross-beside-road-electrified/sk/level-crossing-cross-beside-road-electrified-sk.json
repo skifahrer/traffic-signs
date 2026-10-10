@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "153-51",
+  "image": {
+    "file": "level-crossing-cross-beside-road-electrified-sk.svg",
+    "sha1": "0a5d9e03d72c3d872245dc4e8ef2c716f6fa9416",
+    "source": "https://commons.wikimedia.org/wiki/File:153-51_V%C3%BDstra%C5%BEn%C3%BD_kr%C3%AD%C5%BE_(ved%C4%BEa_vozovky,_elektrifikovan%C3%A1_tra%C5%A5).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

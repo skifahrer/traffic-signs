@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "263-120",
+  "image": {
+    "file": "end-of-speed-limit-120-sk.svg",
+    "sha1": "170817cfb612c8e1fc0b330dd46c8e6532b4f82f",
+    "source": "https://commons.wikimedia.org/wiki/File:263-120_Koniec_najvy%C5%A1%C5%A1ej_dovolenej_r%C3%BDchlosti_(120_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

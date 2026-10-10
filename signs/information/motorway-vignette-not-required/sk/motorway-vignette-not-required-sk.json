@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "314",
+  "image": {
+    "file": "motorway-vignette-not-required-sk.svg",
+    "sha1": "c535516603bb64a8960042220ef5ea857fea416d",
+    "source": "https://commons.wikimedia.org/wiki/File:314_%C3%9Asek_dia%C4%BEnice_nespoplatnen%C3%BD_dia%C4%BEni%C4%8Dnou_zn%C3%A1mkou.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "321-10",
+  "image": {
+    "file": "one-way-road-left-sk.svg",
+    "sha1": "8668c2d3982e30f99337367c53d0fdec3709de34",
+    "source": "https://commons.wikimedia.org/wiki/File:321-10_Jednosmern%C3%A1_cesta_(tu_v%C4%BEavo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

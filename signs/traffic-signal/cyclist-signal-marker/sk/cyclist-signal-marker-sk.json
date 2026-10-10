@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "739",
+  "image": {
+    "file": "cyclist-signal-marker-sk.svg",
+    "sha1": "c35d01a7f67cdad195b9e8daffcd6fcd9e966793",
+    "source": "https://commons.wikimedia.org/wiki/File:739_Ozna%C4%8Denie_n%C3%A1vestidla_pre_cyklistov_(doplnkov%C3%A9_zariadenie_k_sveteln%C3%BDm_sign%C3%A1lom_pod%C4%BEa_(Z7)_%C2%A7_15_ods._8).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

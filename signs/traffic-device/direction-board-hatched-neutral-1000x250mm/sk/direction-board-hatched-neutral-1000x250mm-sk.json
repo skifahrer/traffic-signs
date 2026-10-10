@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "sk",
   "code": "702-30",
+  "image": {
+    "file": "direction-board-hatched-neutral-1000x250mm-sk.svg",
+    "sha1": "e989c9cc1ac4f7dd0d23a3e72fead46071c64aba",
+    "source": "https://commons.wikimedia.org/wiki/File:702-30_Smerovacia_doska_(%C5%A1rafovan%C3%A1,_neutr%C3%A1lna_orient%C3%A1cia,_1000_x_250_mm).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "225-70",
+  "image": {
+    "file": "end-of-shared-footpath-cycle-path-sk.svg",
+    "sha1": "9534392c6a9e338e15b8fb755f77643c9ebffecf",
+    "source": "https://commons.wikimedia.org/wiki/File:225-70_Koniec_%C5%A1peci%C3%A1lnej_cesti%C4%8Dky_alebo_pruhu_(spolo%C4%8Dn%C3%A1_cesti%C4%8Dka_pre_chodcov_a_cyklistov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

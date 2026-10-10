@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "132",
+  "image": {
+    "file": "two-way-traffic-sk.svg",
+    "sha1": "08705d04f1cfec2f86544c0a15b0c697d5208cf8",
+    "source": "https://commons.wikimedia.org/wiki/File:132_Obojsmern%C3%A1_prem%C3%A1vka.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

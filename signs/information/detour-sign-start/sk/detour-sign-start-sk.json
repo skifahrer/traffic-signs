@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-50",
+  "image": {
+    "file": "detour-sign-start-sk.svg",
+    "sha1": "9ef132157dd0fb2ea58208e94aab95dabc77f8ae",
+    "source": "https://commons.wikimedia.org/wiki/File:394-50_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(za%C4%8Diatok).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

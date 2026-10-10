@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "203",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-sk.svg",
+    "sha1": "cfba5e7f6ca064ad4af3ef840822934c7ac90da3",
+    "source": "https://commons.wikimedia.org/wiki/File:203_Prednos%C5%A5_protiid%C3%BAcich_vozidiel.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

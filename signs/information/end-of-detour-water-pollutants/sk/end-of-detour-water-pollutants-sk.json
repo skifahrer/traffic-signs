@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "396-32-76",
+  "image": {
+    "file": "end-of-detour-water-pollutants-sk.svg",
+    "sha1": "62c642bab5a8bc3834e2049b7c1ddc0d5018afa7",
+    "source": "https://commons.wikimedia.org/wiki/File:396-32-76_Koniec_obch%C3%A1dzky_(pre_vozidl%C3%A1_prepravuj%C3%BAce_n%C3%A1klad,_ktor%C3%BD_m%C3%B4%C5%BEe_sp%C3%B4sobi%C5%A5_zne%C4%8Distenie_vody).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

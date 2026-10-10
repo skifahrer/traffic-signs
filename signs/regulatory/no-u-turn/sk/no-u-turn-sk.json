@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "216",
+  "image": {
+    "file": "no-u-turn-sk.svg",
+    "sha1": "49cd35b4ae6836b4e3e64f67fc3375ca19de0df4",
+    "source": "https://commons.wikimedia.org/wiki/File:216_Z%C3%A1kaz_ot%C3%A1%C4%8Dania.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

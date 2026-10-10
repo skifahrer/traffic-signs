@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "811",
+  "image": {
+    "file": "cyclist-signal-wait-sk.svg",
+    "sha1": "4fdc4fecee9decd668fc8f38c076803e0615d1dd",
+    "source": "https://commons.wikimedia.org/wiki/File:811_Sign%C3%A1l_%C4%8Cakaj_pre_cyklistov.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

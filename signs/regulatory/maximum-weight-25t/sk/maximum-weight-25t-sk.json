@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-25",
+  "image": {
+    "file": "maximum-weight-25t-sk.svg",
+    "sha1": "75af6092940f69b20251ec06edc097ce796c7832",
+    "source": "https://commons.wikimedia.org/wiki/File:240-25_Maxim%C3%A1lna_hmotnos%C5%A5_(25_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

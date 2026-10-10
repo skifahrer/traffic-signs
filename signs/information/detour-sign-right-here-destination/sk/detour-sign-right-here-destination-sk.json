@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-21-51",
+  "image": {
+    "file": "detour-sign-right-here-destination-sk.svg",
+    "sha1": "48d7698620e8543690dc8b8617ce14269ecae898",
+    "source": "https://commons.wikimedia.org/wiki/File:394-21-51_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(tu_doprava,_s_vyzna%C4%8Den%C3%BDm_dia%C4%BEkov%C3%BDm_cie%C4%BEom).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

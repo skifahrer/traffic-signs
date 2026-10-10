@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "332",
+  "image": {
+    "file": "taxi-rank-sk.svg",
+    "sha1": "b03c104ab6268cec5b9b5cd6222c94a46645ddfd",
+    "source": "https://commons.wikimedia.org/wiki/File:332_Stanovi%C5%A1te_taxi.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

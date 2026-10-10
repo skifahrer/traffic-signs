@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "814-20",
+  "image": {
+    "file": "cyclist-signal-wait-right-sk.svg",
+    "sha1": "1a106e8650181287e6c11bb3e92a4143bb0deb8e",
+    "source": "https://commons.wikimedia.org/wiki/File:814-20_Sign%C3%A1l_%C4%8Cakaj_pre_cyklistov,_smerov%C3%BD_(vpravo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

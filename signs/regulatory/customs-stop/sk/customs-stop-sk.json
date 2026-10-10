@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "245-50",
+  "image": {
+    "file": "customs-stop-sk.svg",
+    "sha1": "fc90ff4df664568cb4d9b01de133879f6ab309fa",
+    "source": "https://commons.wikimedia.org/wiki/File:245-50_Povinn%C3%A9_zastavenie_vozidla_(CLO_-_ZOLL).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

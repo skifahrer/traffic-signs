@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-74",
+  "image": {
+    "file": "services-outdoor-pool-sk.svg",
+    "sha1": "d42b9507ae40d5404d70b2d56817e4667d4c63e4",
+    "source": "https://commons.wikimedia.org/wiki/File:330-74_Slu%C5%BEby_(k%C3%BApalisko).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

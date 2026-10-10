@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "273-51",
+  "image": {
+    "file": "pavement-parking-partial-left-start-sk.svg",
+    "sha1": "e332dfd985799b7fd757f5e8a533334634293095",
+    "source": "https://commons.wikimedia.org/wiki/File:273-51_Parkovanie_na_chodn%C3%ADku_(%C4%8Diasto%C4%8Dne,_umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_v%C4%BEavo,_za%C4%8Diatok_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

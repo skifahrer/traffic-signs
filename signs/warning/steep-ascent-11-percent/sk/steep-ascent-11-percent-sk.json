@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "113-11",
+  "image": {
+    "file": "steep-ascent-11-percent-sk.svg",
+    "sha1": "5a1a1512dee266612d21382e068cd75d0fc6b8b0",
+    "source": "https://commons.wikimedia.org/wiki/File:113-11_St%C3%BApanie_(11%25).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

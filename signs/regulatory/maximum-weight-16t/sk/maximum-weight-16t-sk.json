@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-16",
+  "image": {
+    "file": "maximum-weight-16t-sk.svg",
+    "sha1": "f02b8cc2ecb09cc4baaf4d5e63cc60751f90bbd6",
+    "source": "https://commons.wikimedia.org/wiki/File:240-16_Maxim%C3%A1lna_hmotnos%C5%A5_(16_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

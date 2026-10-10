@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "271-30",
+  "image": {
+    "file": "no-parking-right-continued-sk.svg",
+    "sha1": "799947aa10ce747385ea406dc4521c3e80f148c3",
+    "source": "https://commons.wikimedia.org/wiki/File:271-30_Z%C3%A1kaz_st%C3%A1tia_(umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_vpravo,_priebeh_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

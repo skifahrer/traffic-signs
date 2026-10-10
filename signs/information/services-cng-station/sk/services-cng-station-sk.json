@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-55",
+  "image": {
+    "file": "services-cng-station-sk.svg",
+    "sha1": "56fc28ad909cd9dca413e5a4a3770c9e9d71b1e8",
+    "source": "https://commons.wikimedia.org/wiki/File:330-55_Slu%C5%BEby_(%C4%8Derpacia_stanica_CNG).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "394-14-52",
+  "image": {
+    "file": "detour-sign-lane-change-left-road-number-sk.svg",
+    "sha1": "df36271d383304f2f372715d7969234e7f2ac154",
+    "source": "https://commons.wikimedia.org/wiki/File:394-14-52_Tabu%C4%BEov%C3%BD_smern%C3%ADk_na_vyzna%C4%8Denie_obch%C3%A1dzky_(preradenie_do%C4%BEava,_s_%C4%8D%C3%ADslom_cesty_I._alebo_II._triedy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "272-10",
+  "image": {
+    "file": "parking-right-start-left-end-sk.svg",
+    "sha1": "2cd223fdbb735b504766a6f36025ba9bb042a56f",
+    "source": "https://commons.wikimedia.org/wiki/File:272-10_Parkovanie_(umiestnenie_%C5%A1ikmo-pozd%C4%BA%C5%BEne_vpravo,_za%C4%8Diatok_platnosti,_v%C4%BEavo,_koniec_platnosti).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "315",
+  "image": {
+    "file": "residential-zone-sk.svg",
+    "sha1": "e23df817580dbcb226cdc99e400ff7fc33c7808b",
+    "source": "https://commons.wikimedia.org/wiki/File:315_Obytn%C3%A1_z%C3%B3na.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

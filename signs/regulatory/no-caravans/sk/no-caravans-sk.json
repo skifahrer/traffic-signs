@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-78",
+  "image": {
+    "file": "no-caravans-sk.svg",
+    "sha1": "2de9f3f99fb2b678813bba01e0ef76b8a1710212",
+    "source": "https://commons.wikimedia.org/wiki/File:233-78_Z%C3%A1kaz_vjazdu_pre_(obytn%C3%A9_pr%C3%ADvesy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

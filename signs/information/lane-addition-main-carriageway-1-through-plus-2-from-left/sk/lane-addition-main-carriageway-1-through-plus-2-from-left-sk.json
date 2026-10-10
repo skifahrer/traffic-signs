@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "431-12",
+  "image": {
+    "file": "lane-addition-main-carriageway-1-through-plus-2-from-left-sk.svg",
+    "sha1": "59aedc723df07cdd3dc95091c4d5cb433631a10b",
+    "source": "https://commons.wikimedia.org/wiki/File:431-12_Bezkol%C3%ADzne_pripojenie_(v_hlavnom_p%C3%A1se,_1_priebe%C5%BEn%C3%BD_%2B_2_z%C4%BEava).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

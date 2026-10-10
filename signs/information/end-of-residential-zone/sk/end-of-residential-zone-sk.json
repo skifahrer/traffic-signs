@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "316",
+  "image": {
+    "file": "end-of-residential-zone-sk.svg",
+    "sha1": "c4539d41bd8e710d07ad4f736a33377e0c144c34",
+    "source": "https://commons.wikimedia.org/wiki/File:316_Koniec_obytnej_z%C3%B3ny.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

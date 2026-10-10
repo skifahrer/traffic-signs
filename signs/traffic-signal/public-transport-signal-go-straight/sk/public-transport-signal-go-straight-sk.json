@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "872-30",
+  "image": {
+    "file": "public-transport-signal-go-straight-sk.svg",
+    "sha1": "5726e8ca9d3cca02b7577730596a68ff96276144",
+    "source": "https://commons.wikimedia.org/wiki/File:872-30_Sign%C3%A1l_Vo%C4%BEno_pre_vozidl%C3%A1_verejnej_hromadnej_dopravy_(priamo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

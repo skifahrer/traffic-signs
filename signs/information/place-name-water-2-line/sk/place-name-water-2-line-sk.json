@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "340-81",
+  "image": {
+    "file": "place-name-water-2-line-sk.svg",
+    "sha1": "be9064e4d25ea81d6c00c7cb4c5f6a88ebcf8522",
+    "source": "https://commons.wikimedia.org/wiki/File:340-81_Miestna_n%C3%A1ves%C5%A5_(v%C3%BDznamn%C3%BD_vodn%C3%BD_tok_alebo_plocha,_2-riadkov%C3%BD_n%C3%A1zov).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

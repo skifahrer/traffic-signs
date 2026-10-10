@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "312",
+  "image": {
+    "file": "end-of-motor-road-sk.svg",
+    "sha1": "59fcd1513a8f51cc5f843eace6884ba63af8e5b1",
+    "source": "https://commons.wikimedia.org/wiki/File:312_Koniec_cesty_pre_motorov%C3%A9_vozidl%C3%A1.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

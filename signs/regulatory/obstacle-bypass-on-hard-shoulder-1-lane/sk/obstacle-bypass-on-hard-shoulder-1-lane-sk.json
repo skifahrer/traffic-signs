@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "283-50",
+  "image": {
+    "file": "obstacle-bypass-on-hard-shoulder-1-lane-sk.svg",
+    "sha1": "e482b4b597a4a2ecbfbc5afad78a92db4be5174b",
+    "source": "https://commons.wikimedia.org/wiki/File:283-50_Obch%C3%A1dzanie_prek%C3%A1%C5%BEky_po_krajnici_(1_pruhy).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

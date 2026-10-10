@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "836-50",
+  "image": {
+    "file": "rail-vehicle-speed-signal-50-sk.svg",
+    "sha1": "a703c5424dbbd63097843035dc9f2e839210c01a",
+    "source": "https://commons.wikimedia.org/wiki/File:836-50_R%C3%BDchlostn%C3%BD_sign%C3%A1l_pre_dr%C3%A1hov%C3%A9_vozidl%C3%A1_(50_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

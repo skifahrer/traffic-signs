@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-4,5",
+  "image": {
+    "file": "maximum-weight-4-5t-sk.svg",
+    "sha1": "41859e02608c490a0e3fa8df1e6dce471fe6f258",
+    "source": "https://commons.wikimedia.org/wiki/File:240-4,5_Maxim%C3%A1lna_hmotnos%C5%A5_(4,5_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

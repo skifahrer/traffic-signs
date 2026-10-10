@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "241-8",
+  "image": {
+    "file": "maximum-axle-weight-8t-sk.svg",
+    "sha1": "ed149adec29c2a9d84838c7fa12b5702a9d36e63",
+    "source": "https://commons.wikimedia.org/wiki/File:241-8_Maxim%C3%A1lna_hmotnos%C5%A5_na_n%C3%A1pravu_(8_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

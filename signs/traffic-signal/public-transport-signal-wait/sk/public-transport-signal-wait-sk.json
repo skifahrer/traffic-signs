@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "871",
+  "image": {
+    "file": "public-transport-signal-wait-sk.svg",
+    "sha1": "d2c904077fd9fb50ef1121b507e5e310deca9a4e",
+    "source": "https://commons.wikimedia.org/wiki/File:871_Sign%C3%A1l_%C4%8Cakaj_pre_vozidl%C3%A1_verejnej_hromadnej_dopravy.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

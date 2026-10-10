@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "423-15",
+  "image": {
+    "file": "lane-gain-left-to-2-lanes-plus-3-oncoming-sk.svg",
+    "sha1": "3a783b9e9068fb7142f1762a62a839d62455c5b6",
+    "source": "https://commons.wikimedia.org/wiki/File:423-15_Zv%C3%BD%C5%A1enie_po%C4%8Dtu_jazdn%C3%BDch_pruhov_(v%C4%BEavo,_pokra%C4%8Duj%C3%BA_2_pruhy_%2B_3_v_protismere).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

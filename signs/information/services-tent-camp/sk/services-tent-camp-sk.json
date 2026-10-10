@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-71",
+  "image": {
+    "file": "services-tent-camp-sk.svg",
+    "sha1": "0af2cc95658b0ec7a6e57b5d0864e2c22101dadd",
+    "source": "https://commons.wikimedia.org/wiki/File:330-71_Slu%C5%BEby_(t%C3%A1borisko).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

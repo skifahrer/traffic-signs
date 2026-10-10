@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "397-51",
+  "image": {
+    "file": "block-detour-loop-sk.svg",
+    "sha1": "cc4c7384c64021b7136533f69cfddb3d4616b7f6",
+    "source": "https://commons.wikimedia.org/wiki/File:397-51_Blokov%C3%A1_obch%C3%A1dzka_(slu%C4%8Dka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

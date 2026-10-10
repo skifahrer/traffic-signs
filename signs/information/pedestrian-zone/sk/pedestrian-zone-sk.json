@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "317",
+  "image": {
+    "file": "pedestrian-zone-sk.svg",
+    "sha1": "78d39ff5e9a7997b0f66621660d212b6cf1f808e",
+    "source": "https://commons.wikimedia.org/wiki/File:317_Pe%C5%A1ia_z%C3%B3na.svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

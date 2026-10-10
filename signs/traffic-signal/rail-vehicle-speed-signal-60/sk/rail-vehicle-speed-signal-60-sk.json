@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "836-60",
+  "image": {
+    "file": "rail-vehicle-speed-signal-60-sk.svg",
+    "sha1": "fdf9e4d56c22e4b4e83c3d3858a27916345a2e6d",
+    "source": "https://commons.wikimedia.org/wiki/File:836-60_R%C3%BDchlostn%C3%BD_sign%C3%A1l_pre_dr%C3%A1hov%C3%A9_vozidl%C3%A1_(60_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

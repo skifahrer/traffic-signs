@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "sk",
   "code": "112-19",
+  "image": {
+    "file": "steep-descent-19-percent-sk.svg",
+    "sha1": "28731406919bd5c2bc23541977317bb6b721b9b3",
+    "source": "https://commons.wikimedia.org/wiki/File:112-19_Klesanie_(19%25).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

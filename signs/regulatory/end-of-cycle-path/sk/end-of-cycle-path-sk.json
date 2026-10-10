@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "225-60",
+  "image": {
+    "file": "end-of-cycle-path-sk.svg",
+    "sha1": "006e509e12cfa67d30a1e890deba585fe6d0eb77",
+    "source": "https://commons.wikimedia.org/wiki/File:225-60_Koniec_%C5%A1peci%C3%A1lnej_cesti%C4%8Dky_alebo_pruhu_(cyklistick%C3%A1_komunik%C3%A1cia).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

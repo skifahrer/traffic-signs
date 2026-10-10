@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "240-33",
+  "image": {
+    "file": "maximum-weight-33t-sk.svg",
+    "sha1": "5e61a70d6b15246c8381af9482ece8fc1b44e862",
+    "source": "https://commons.wikimedia.org/wiki/File:240-33_Maxim%C3%A1lna_hmotnos%C5%A5_(33_t).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "268-20",
+  "image": {
+    "file": "speed-limit-zone-20-sk.svg",
+    "sha1": "4f1687bddd0252dfdf64e4402fb5ba36c6b748e9",
+    "source": "https://commons.wikimedia.org/wiki/File:268-20_Z%C3%B3na_najvy%C5%A1%C5%A1ej_dovolenej_r%C3%BDchlosti_(20_kmh).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

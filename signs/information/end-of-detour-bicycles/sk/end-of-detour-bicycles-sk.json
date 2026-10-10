@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "396-32-58",
+  "image": {
+    "file": "end-of-detour-bicycles-sk.svg",
+    "sha1": "8444010f6e879968eba9209f6eada50e492eae10",
+    "source": "https://commons.wikimedia.org/wiki/File:396-32-58_Koniec_obch%C3%A1dzky_(pre_bicykle).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

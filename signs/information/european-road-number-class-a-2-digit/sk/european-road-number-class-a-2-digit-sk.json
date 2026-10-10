@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "353-50",
+  "image": {
+    "file": "european-road-number-class-a-2-digit-sk.svg",
+    "sha1": "a05985a75bb8928ea5ef9fe2b2769d4067b550fe",
+    "source": "https://commons.wikimedia.org/wiki/File:353-50_%C4%8C%C3%ADslo_E-cesty_(trieda_A,_2-cifern%C3%A9_%C4%8D%C3%ADslo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

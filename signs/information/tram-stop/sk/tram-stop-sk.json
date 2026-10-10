@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "331-60",
+  "image": {
+    "file": "tram-stop-sk.svg",
+    "sha1": "6e61a71e354a9ba27c87bf9a6e461d504c1a1734",
+    "source": "https://commons.wikimedia.org/wiki/File:331-60_Zast%C3%A1vka_(elektri%C4%8Dka).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

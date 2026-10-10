@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "sk",
   "code": "805-30",
+  "image": {
+    "file": "vehicle-signal-wait-straight-sk.svg",
+    "sha1": "90d65b726c332adb3d905772aee46f07bb4f5c3f",
+    "source": "https://commons.wikimedia.org/wiki/File:805-30_Sign%C3%A1l_%C4%8Cakaj_pre_vozidl%C3%A1,_smerov%C3%BD_(priamo).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

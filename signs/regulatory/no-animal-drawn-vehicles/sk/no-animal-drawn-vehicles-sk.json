@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "sk",
   "code": "233-63",
+  "image": {
+    "file": "no-animal-drawn-vehicles-sk.svg",
+    "sha1": "2efa04bc200cd8b8e37a423ff74bbb28a071778c",
+    "source": "https://commons.wikimedia.org/wiki/File:233-63_Z%C3%A1kaz_vjazdu_pre_(z%C3%A1prahov%C3%A9_vozidl%C3%A1).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",

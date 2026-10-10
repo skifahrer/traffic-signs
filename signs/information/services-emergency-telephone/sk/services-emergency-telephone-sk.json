@@ -3,6 +3,14 @@
   "category": "information",
   "country": "sk",
   "code": "330-50",
+  "image": {
+    "file": "services-emergency-telephone-sk.svg",
+    "sha1": "ff3bc9c55bcd7a32d11793f4e2dce4ef89e588e2",
+    "source": "https://commons.wikimedia.org/wiki/File:330-50_Slu%C5%BEby_(telef%C3%B3n_n%C3%BAdzov%C3%A9ho_volania).svg",
+    "author": "Ministerstvo dopravy a výstavby SR",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "sk-wikipedia",
     "page": "https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku",
