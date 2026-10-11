@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G4",
+  "image": {
+    "file": "one-way-road-ro.svg",
+    "sha1": "7e8bbef769c1a66d3cae530fd343ec3cbb0a0aac",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G04.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

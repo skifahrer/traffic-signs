@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P44",
+  "image": {
+    "file": "ramp-ro.svg",
+    "sha1": "28450c6535e6c4e4721534c962577bc671378282",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P44.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

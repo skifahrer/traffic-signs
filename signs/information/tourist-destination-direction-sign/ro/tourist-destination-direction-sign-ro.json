@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F34",
+  "image": {
+    "file": "tourist-destination-direction-sign-ro.svg",
+    "sha1": "89e70fa6fa1dbad8e1d66fdb5d4a46859a000bed",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F34.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

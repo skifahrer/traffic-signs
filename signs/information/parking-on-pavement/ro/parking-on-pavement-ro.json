@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G35",
+  "image": {
+    "file": "parking-on-pavement-ro.svg",
+    "sha1": "95fe9c7c403d26a8e44ab669602f48b67bc76df8",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G35.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G03",
+  "image": {
+    "file": "national-speed-limits-ro.svg",
+    "sha1": "7afa00546d2b94da1475fde6f8b4e4e6d092f607",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G03.svg",
+    "author": "xavax",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A49",
+  "image": {
+    "file": "level-crossing-cross-ro.svg",
+    "sha1": "210984d826d0d242cc0e2b12bf73c8933bd8648d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A49.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G25",
+  "image": {
+    "file": "services-restaurant-ro.svg",
+    "sha1": "841d1359573acb322da1d35fd37a7408d56ef137",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G25.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

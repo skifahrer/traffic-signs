@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C20",
+  "image": {
+    "file": "maximum-tandem-axle-weight-ro.svg",
+    "sha1": "e4d96bbc6c0a6c083d7b6a961d4d0f60b7ad38c7",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C20.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

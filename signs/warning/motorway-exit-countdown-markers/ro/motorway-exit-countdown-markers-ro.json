@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A45",
+  "image": {
+    "file": "motorway-exit-countdown-markers-ro.svg",
+    "sha1": "43b3229ebc97bff28eb718b5ceb8e0a2d26ac58d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A45.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

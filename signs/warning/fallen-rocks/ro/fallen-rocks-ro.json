@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A21",
+  "image": {
+    "file": "fallen-rocks-ro.svg",
+    "sha1": "773a0ebdac87961708f60df14a28469ea5583968",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A21.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

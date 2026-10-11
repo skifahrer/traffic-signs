@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "D02",
+  "image": {
+    "file": "turn-right-here-ro.svg",
+    "sha1": "766955f918ea69de2b5dc094b8d35405e4ffdad1",
+    "source": "https://commons.wikimedia.org/wiki/File:Romania_road_sign_D02.svg",
+    "author": "Tenervfe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C38",
+  "image": {
+    "file": "no-parking-ro.svg",
+    "sha1": "0c78fa2314eb1c508757b99df37f4a6ba1661424",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C38.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

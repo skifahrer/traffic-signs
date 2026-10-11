@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A9",
+  "image": {
+    "file": "road-narrows-both-sides-ro.svg",
+    "sha1": "8cf512161840b119440fa3d345bb3fe696061447",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A09.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F27",
+  "image": {
+    "file": "lane-use-speed-limits-ro.svg",
+    "sha1": "2017896b0a8fba359b550ed63dccd3737fc5915c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F27.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

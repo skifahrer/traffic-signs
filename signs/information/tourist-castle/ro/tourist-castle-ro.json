@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "T01",
+  "image": {
+    "file": "tourist-castle-ro.svg",
+    "sha1": "5af81899824db81337922e486109d72ec2c57c13",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_T01.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

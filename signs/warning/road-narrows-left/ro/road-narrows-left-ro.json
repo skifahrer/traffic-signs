@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A11",
+  "image": {
+    "file": "road-narrows-left-ro.svg",
+    "sha1": "8fb67fa8ce0a064f63ca6fe5a1facfc1f39fee80",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A11.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C10",
+  "image": {
+    "file": "no-pedestrians-ro.svg",
+    "sha1": "8ed51d93ddb8e0f556178ef726263bdf2ec73495",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C10.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

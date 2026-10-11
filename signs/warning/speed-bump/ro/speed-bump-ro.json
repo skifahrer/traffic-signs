@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A18",
+  "image": {
+    "file": "speed-bump-ro.svg",
+    "sha1": "d3c94db5403ee74323564cb16c75971393f9a950",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A18.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

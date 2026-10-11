@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C47",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-ro.svg",
+    "sha1": "de4d537a499c69455216096e3fb3fbbe8ad0a0d0",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C47.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F51",
+  "image": {
+    "file": "river-name-ro.svg",
+    "sha1": "8a125e2f818136a3d532858c2921e95ed8fc83a8",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F51.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G68",
+  "image": {
+    "file": "street-name-ro.svg",
+    "sha1": "ace019ef487b4f2a6610ca83f3ce7a24e2e9124e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G68.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A34",
+  "image": {
+    "file": "intersection-ro.svg",
+    "sha1": "e891a455492324c5e33f97b1c50011f467d0880e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A34.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

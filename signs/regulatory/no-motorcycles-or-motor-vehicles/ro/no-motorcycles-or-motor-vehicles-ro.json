@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C14",
+  "image": {
+    "file": "no-motorcycles-or-motor-vehicles-ro.svg",
+    "sha1": "c5292d04647084d5933df0f064e3615b3b62af87",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C14.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "Terminare prioritate",
+  "image": {
+    "file": "end-of-priority-road-ro.svg",
+    "sha1": "e9fa726bc2ee5cd6c79daf5b501477c218f72fdf",
+    "source": "https://commons.wikimedia.org/wiki/File:Terminare_prioritate.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

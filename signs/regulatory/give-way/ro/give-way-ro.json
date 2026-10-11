@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "B1",
+  "image": {
+    "file": "give-way-ro.svg",
+    "sha1": "d1d2a7b38f61a873c19138fb8f77a3fdf44cdf2d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_B01.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

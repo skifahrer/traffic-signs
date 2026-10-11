@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G33",
+  "image": {
+    "file": "services-breakdown-service-ro.svg",
+    "sha1": "33eb2558e77da2d55614221e8273f30a26ba23ef",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G33.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

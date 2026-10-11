@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F50",
+  "image": {
+    "file": "county-boundary-ro.svg",
+    "sha1": "4ed8b6e26d5a9a52e63de58e42403c2bcb6a6e82",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F50.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

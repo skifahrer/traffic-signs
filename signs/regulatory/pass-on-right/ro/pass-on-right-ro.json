@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "D05",
+  "image": {
+    "file": "pass-on-right-ro.svg",
+    "sha1": "6fb2cdfd01f602ede879a8557b55fdef2cc41926",
+    "source": "https://commons.wikimedia.org/wiki/File:Romania_road_sign_D05.svg",
+    "author": "Tenervfe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

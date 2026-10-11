@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A36",
+  "image": {
+    "file": "side-road-right-minor-ro.svg",
+    "sha1": "84b2f9ae9e69d21c90c640af70a0c16662014dd4",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A36.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

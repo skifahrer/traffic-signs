@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F07",
+  "image": {
+    "file": "restricted-road-detour-ro.svg",
+    "sha1": "5729792bda5e6c2033252b98cfb48840442c5523",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F07.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

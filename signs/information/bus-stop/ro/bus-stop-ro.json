@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G14",
+  "image": {
+    "file": "bus-stop-ro.svg",
+    "sha1": "bf3e5d42eecabfb8b6f24438483144359d100374",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G14.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C30a",
+  "image": {
+    "file": "speed-limit-by-vehicle-category-ro.svg",
+    "sha1": "52ec7c7bb25a6808352bf55017b2ab72e8165e69",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C30a.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

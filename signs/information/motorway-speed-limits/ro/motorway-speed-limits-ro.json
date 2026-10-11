@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G08",
+  "image": {
+    "file": "motorway-speed-limits-ro.svg",
+    "sha1": "0d0847a2f5bed99c5636306374f17fc6c20eb718",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G08.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

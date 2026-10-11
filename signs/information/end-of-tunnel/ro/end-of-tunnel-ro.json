@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G43",
+  "image": {
+    "file": "end-of-tunnel-ro.svg",
+    "sha1": "c58ac1007af7259c9588e1d1588949e5a677a1d1",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G43.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

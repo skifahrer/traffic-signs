@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A14",
+  "image": {
+    "file": "tunnel-ahead-ro.svg",
+    "sha1": "69be7461dc51a7dbdc6a66eefc8547a33e1cf815",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A14.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

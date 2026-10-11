@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P02",
+  "image": {
+    "file": "distance-b-ro.svg",
+    "sha1": "f9edfc67b7892e0d65a800feac14bb25859c14d6",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P02.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

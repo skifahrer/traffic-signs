@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A28",
+  "image": {
+    "file": "traffic-signals-ro.svg",
+    "sha1": "f07f21a1adb1cca89141deb61a3ee17f7194ec88",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A28.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G7",
+  "image": {
+    "file": "end-of-motorway-ro.svg",
+    "sha1": "720e386c7b51cc871258397e3f8c728edb6c8a8c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G07.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

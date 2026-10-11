@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G53",
+  "image": {
+    "file": "wine-region-ro.svg",
+    "sha1": "b0d181acf81ebb9e26aae0e8a328e6d3aaf1051a",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G53.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

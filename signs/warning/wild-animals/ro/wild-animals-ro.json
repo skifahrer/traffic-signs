@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A26",
+  "image": {
+    "file": "wild-animals-ro.svg",
+    "sha1": "d5e0341fd79e5e9b36ad2a298c1211513ea1f2af",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A26.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

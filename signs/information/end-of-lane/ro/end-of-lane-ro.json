@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F23",
+  "image": {
+    "file": "end-of-lane-ro.svg",
+    "sha1": "cd78cdfbdce159bb9c542543a16cc3c51d8acbb0",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F23.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

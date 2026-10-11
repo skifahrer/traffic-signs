@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P26",
+  "image": {
+    "file": "use-headlights-ro.svg",
+    "sha1": "3a4dcf787d12952f6b0e212f339b1a0170460b11",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P26.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

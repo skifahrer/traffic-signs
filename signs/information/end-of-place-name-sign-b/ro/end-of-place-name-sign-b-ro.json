@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F49",
+  "image": {
+    "file": "end-of-place-name-sign-b-ro.svg",
+    "sha1": "df5ace5cc37881d52fef011ff7ea27467e1f125e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F49.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F29",
+  "image": {
+    "file": "direction-sign-ro.svg",
+    "sha1": "4ee0fcce8f0014b3fd3a5ccbabbb62e9c3ca2023",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F29.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

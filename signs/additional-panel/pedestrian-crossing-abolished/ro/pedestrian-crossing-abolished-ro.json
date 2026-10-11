@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P34",
+  "image": {
+    "file": "pedestrian-crossing-abolished-ro.svg",
+    "sha1": "2d6c08b06842383cd9913e6f1c093fb5a63600c3",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P34.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

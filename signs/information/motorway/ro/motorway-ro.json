@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G06",
+  "image": {
+    "file": "motorway-ro.svg",
+    "sha1": "5989408c104ed427753acd83f2f96f7c1ed15542",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G06.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

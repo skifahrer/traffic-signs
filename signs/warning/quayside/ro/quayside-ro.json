@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A16",
+  "image": {
+    "file": "quayside-ro.svg",
+    "sha1": "d66af23b1d29f5a627d832debc94e80848e5be9a",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A16.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

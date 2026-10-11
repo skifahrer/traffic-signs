@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F01",
+  "image": {
+    "file": "advance-direction-sign-ro.svg",
+    "sha1": "070ca5c00984f738f08439d7900c4539a60ce648",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F01.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C23",
+  "image": {
+    "file": "minimum-distance-ro.svg",
+    "sha1": "c34b8754301dfe1cee6733dda85953c3e11d0252",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C23.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

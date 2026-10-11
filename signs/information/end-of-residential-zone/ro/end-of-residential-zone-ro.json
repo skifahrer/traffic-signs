@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G39",
+  "image": {
+    "file": "end-of-residential-zone-ro.svg",
+    "sha1": "4f8d92a51d3466310d56708cba85c36315d481fe",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G39.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

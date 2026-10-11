@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C24-1",
+  "image": {
+    "file": "no-left-turn-ro.svg",
+    "sha1": "80039a978a70e1423aa11bf44695d1e62bd784da",
+    "source": "https://commons.wikimedia.org/wiki/File:Romania_road_sign_C24-1.svg",
+    "author": "Tenervfe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G12",
+  "image": {
+    "file": "pedestrian-subway-ro.svg",
+    "sha1": "e99428249763df8956273005a5c411b012cd8ba9",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G12.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

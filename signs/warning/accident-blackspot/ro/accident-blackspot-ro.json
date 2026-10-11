@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A55",
+  "image": {
+    "file": "accident-blackspot-ro.svg",
+    "sha1": "33699c4a19c379655e7049b35ff1cc4ff22ff069",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A55.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

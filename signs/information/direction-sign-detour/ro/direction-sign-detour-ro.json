@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F37",
+  "image": {
+    "file": "direction-sign-detour-ro.svg",
+    "sha1": "13024aa629fc70e5e19db69ffffeba5e1887bc7e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F37.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

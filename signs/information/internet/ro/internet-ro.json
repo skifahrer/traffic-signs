@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G60",
+  "image": {
+    "file": "internet-ro.svg",
+    "sha1": "ddbdf3b4ed30aae3075d69e2b424ad61cc0dab1d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G60.svg",
+    "author": "JhoniBrava404",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

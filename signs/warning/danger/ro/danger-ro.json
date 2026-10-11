@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A32",
+  "image": {
+    "file": "danger-ro.svg",
+    "sha1": "9ebbb5671b8ea9e651e06521ba9c0a070448996d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A32.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

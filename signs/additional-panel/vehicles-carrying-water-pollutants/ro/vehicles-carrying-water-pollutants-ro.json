@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P32",
+  "image": {
+    "file": "vehicles-carrying-water-pollutants-ro.svg",
+    "sha1": "d5f03d4f751086a093c33a6b8e56db8c56e7d15e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P32.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

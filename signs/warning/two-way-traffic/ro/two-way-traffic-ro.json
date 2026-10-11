@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A31",
+  "image": {
+    "file": "two-way-traffic-ro.svg",
+    "sha1": "821e855f8b7c1cb49901b7127fa8657e044d4a21",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A31.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G56",
+  "image": {
+    "file": "drinking-water-ro.svg",
+    "sha1": "b38cb268adbd6e089c0a7ddb7733961917006595",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G56.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

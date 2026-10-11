@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F08",
+  "image": {
+    "file": "exit-advance-sign-motorway-ro.svg",
+    "sha1": "90fb3922f0e8b80aff968a6cc319bf14fa49ee49",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F08.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

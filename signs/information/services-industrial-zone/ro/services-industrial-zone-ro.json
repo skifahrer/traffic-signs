@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G54",
+  "image": {
+    "file": "services-industrial-zone-ro.svg",
+    "sha1": "0a9f4ccfe46f7c8001dc51944b1d31c300fc6878",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G54.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

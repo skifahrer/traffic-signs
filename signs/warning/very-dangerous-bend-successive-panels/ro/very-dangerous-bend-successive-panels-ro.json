@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A06",
+  "image": {
+    "file": "very-dangerous-bend-successive-panels-ro.svg",
+    "sha1": "dfabdfcc6158045f5a5a425cafca5df28210e69b",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A06-R.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

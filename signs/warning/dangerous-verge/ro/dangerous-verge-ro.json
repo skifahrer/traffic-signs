@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A12",
+  "image": {
+    "file": "dangerous-verge-ro.svg",
+    "sha1": "a668d3b8fe8a6f21648d9205698c5fc20c461be1",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A12.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

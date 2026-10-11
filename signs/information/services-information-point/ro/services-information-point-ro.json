@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G67",
+  "image": {
+    "file": "services-information-point-ro.svg",
+    "sha1": "dd93dc7d418f7afc534f2765cdbf056f69e1741c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G67.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

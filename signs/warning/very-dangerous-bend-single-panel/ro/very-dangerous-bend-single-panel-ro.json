@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A05",
+  "image": {
+    "file": "very-dangerous-bend-single-panel-ro.svg",
+    "sha1": "5cf2d034629181e1df06c45a57dd1d7b6d63a1d0",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A05-R.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

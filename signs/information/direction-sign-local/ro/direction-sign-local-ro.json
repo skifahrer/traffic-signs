@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F35",
+  "image": {
+    "file": "direction-sign-local-ro.svg",
+    "sha1": "0a116ff5036e8e93936be7eb9c3117dc484adc07",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F35.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

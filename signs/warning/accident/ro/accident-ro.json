@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A33",
+  "image": {
+    "file": "accident-ro.svg",
+    "sha1": "2cfca358eb9ea92e5a072a5bda72d21d4ee36609",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A33.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

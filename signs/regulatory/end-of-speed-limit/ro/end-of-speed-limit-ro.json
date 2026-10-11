@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C36",
+  "image": {
+    "file": "end-of-speed-limit-ro.svg",
+    "sha1": "cc09e042f992b4db347a0d30b6b2c1fc465140ec",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C36_(50).svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C33",
+  "image": {
+    "file": "toll-stop-ro.svg",
+    "sha1": "e4d4d544d9b872a4516654147b402f6e899157ee",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C33.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

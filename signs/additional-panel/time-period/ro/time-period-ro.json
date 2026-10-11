@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P03",
+  "image": {
+    "file": "time-period-ro.svg",
+    "sha1": "9580a1a9bf28620a4646c98e8698dda31eadb23e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P03.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

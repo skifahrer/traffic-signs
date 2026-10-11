@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A40",
+  "image": {
+    "file": "roundabout-ahead-ro.svg",
+    "sha1": "c45ead16f6b91c505dce9cf3b962ad7d8a9502e3",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A40.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

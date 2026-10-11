@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G76",
+  "image": {
+    "file": "keep-distance-ro.svg",
+    "sha1": "71c2771a1bd2ad19b2426f1955e396b71222e172",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G76.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

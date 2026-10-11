@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F21",
+  "image": {
+    "file": "lane-use-ro.svg",
+    "sha1": "9022978ae6ae441fb7bf2f5863f1b38f36c6dc0d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F21.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

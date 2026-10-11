@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G73",
+  "image": {
+    "file": "traffic-monitoring-ro.svg",
+    "sha1": "9733e6119e597c3e410ad322267f0b1f8b5326ab",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G73.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F36",
+  "image": {
+    "file": "airport-ro.svg",
+    "sha1": "ed899e7882409f15c12f771b6c824baa8ddd7f77",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F36.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

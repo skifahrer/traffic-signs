@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G32",
+  "image": {
+    "file": "services-toilets-ro.svg",
+    "sha1": "bb4497efd7b4ae500c00f401296455fe869c8f0c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G32.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

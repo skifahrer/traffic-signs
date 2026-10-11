@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "T10",
+  "image": {
+    "file": "tourist-ski-lift-ro.svg",
+    "sha1": "5c40ff3e7d63c2a2bb64c9c4e7b2c90fcf391164",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_T10.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

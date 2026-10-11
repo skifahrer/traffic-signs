@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "T11",
+  "image": {
+    "file": "tourist-cable-car-ro.svg",
+    "sha1": "f6667f85491e629b2f67ffccc39ae123f2eb8610",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_T11.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

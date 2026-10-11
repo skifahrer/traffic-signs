@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "D14-40",
+  "image": {
+    "file": "minimum-speed-ro.svg",
+    "sha1": "cd8a9bcae9fe12af1ff8323633ade5d0ef12ad81",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_D13(40).svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

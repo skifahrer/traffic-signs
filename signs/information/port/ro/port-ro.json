@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G46",
+  "image": {
+    "file": "port-ro.svg",
+    "sha1": "4dd1ae6ae5a571bf60638d7bcb35d7e4e73f2224",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G46.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

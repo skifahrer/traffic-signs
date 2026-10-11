@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A19",
+  "image": {
+    "file": "slippery-road-ro.svg",
+    "sha1": "30a390ca629dbbc5513e7180536ed199f25eb32e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A19.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

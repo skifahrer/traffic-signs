@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A24",
+  "image": {
+    "file": "cyclists-ro.svg",
+    "sha1": "3a5f10dc062d038ae8831fbc5a554bd8f8de5adf",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A24.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

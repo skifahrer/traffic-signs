@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C04",
+  "image": {
+    "file": "no-motorcycles-ro.svg",
+    "sha1": "ae5ec13bd7c8e4eb088c2484b59a4c2cad458470",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C04.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

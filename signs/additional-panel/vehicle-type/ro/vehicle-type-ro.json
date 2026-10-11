@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P05",
+  "image": {
+    "file": "vehicle-type-ro.svg",
+    "sha1": "19813cafcdd8d5a4e3dbb4d1285c1f57e22fe344",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P05.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

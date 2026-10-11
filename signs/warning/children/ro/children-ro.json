@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A23",
+  "image": {
+    "file": "children-ro.svg",
+    "sha1": "bc5a8e74c7e42abb040650fa2219b6379933324d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A23.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

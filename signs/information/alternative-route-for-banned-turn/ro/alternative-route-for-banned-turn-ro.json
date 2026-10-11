@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F13",
+  "image": {
+    "file": "alternative-route-for-banned-turn-ro.svg",
+    "sha1": "a47fdb529b99dc7946eb071733f59a29af1048d9",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F13.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

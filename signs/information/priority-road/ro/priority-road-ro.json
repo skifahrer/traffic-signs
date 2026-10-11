@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "Prioritate",
+  "image": {
+    "file": "priority-road-ro.svg",
+    "sha1": "b4b5bc3569c438a5a98691be99737f1ec6b01c35",
+    "source": "https://commons.wikimedia.org/wiki/File:Prioritate.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

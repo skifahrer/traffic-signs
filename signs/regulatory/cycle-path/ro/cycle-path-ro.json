@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "D11",
+  "image": {
+    "file": "cycle-path-ro.svg",
+    "sha1": "7702152dd21ff081873acb3fcf21120d07626469",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_D08.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

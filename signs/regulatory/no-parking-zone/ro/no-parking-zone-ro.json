@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C42",
+  "image": {
+    "file": "no-parking-zone-ro.svg",
+    "sha1": "7f46d25bf1636103d9a0a1e25f9a510b4ec05b80",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C42.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

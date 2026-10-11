@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F46",
+  "image": {
+    "file": "place-name-sign-ro.svg",
+    "sha1": "f0e8fc535f9b05e5cd25065e48b44ce58f8d66b1",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F46.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

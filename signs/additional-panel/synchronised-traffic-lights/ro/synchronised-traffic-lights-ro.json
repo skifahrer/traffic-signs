@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P22",
+  "image": {
+    "file": "synchronised-traffic-lights-ro.svg",
+    "sha1": "ded9d2c860ab46d943d5e32722f3a28aabe7d35a",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P22.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

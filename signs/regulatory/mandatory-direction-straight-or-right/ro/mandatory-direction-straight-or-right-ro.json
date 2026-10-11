@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "D04",
+  "image": {
+    "file": "mandatory-direction-straight-or-right-ro.svg",
+    "sha1": "ae780b5a90a3edcd29d478623c0e8568d542611e",
+    "source": "https://commons.wikimedia.org/wiki/File:Romania_road_sign_D04.svg",
+    "author": "Tenervfe",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

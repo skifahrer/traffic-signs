@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C09",
+  "image": {
+    "file": "no-buses-ro.svg",
+    "sha1": "c0057f3328e1dca6b2154f067a7e7ad54f23bcfa",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C09.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

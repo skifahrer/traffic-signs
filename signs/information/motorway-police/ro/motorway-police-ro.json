@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G75",
+  "image": {
+    "file": "motorway-police-ro.svg",
+    "sha1": "34cf1bb0c274cac5a2911144ec2b0c771e922f87",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G75.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

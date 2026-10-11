@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A13",
+  "image": {
+    "file": "queues-ro.svg",
+    "sha1": "1daecbd95535d580b1fa417f10e2b31cf4d2b4c4",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A13.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

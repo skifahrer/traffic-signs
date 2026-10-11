@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C29",
+  "image": {
+    "file": "speed-limit-ro.svg",
+    "sha1": "2ebbd597c94554986b44c6284aa4dc52e7d87c99",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C29_(50).svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

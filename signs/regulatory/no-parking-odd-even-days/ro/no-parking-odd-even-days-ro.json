@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C40",
+  "image": {
+    "file": "no-parking-odd-even-days-ro.svg",
+    "sha1": "7c5ce189de64fbd595e83f151eeb3b1d7767f717",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C40.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

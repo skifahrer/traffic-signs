@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C45",
+  "image": {
+    "file": "end-of-speed-limit-zone-ro.svg",
+    "sha1": "7ece331558980229d397b804582af9f10772937c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C45.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

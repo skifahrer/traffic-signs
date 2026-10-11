@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "Curbă dublă dreapta",
+  "image": {
+    "file": "double-bend-right-ro.svg",
+    "sha1": "4c615bd3df8ac2473c0e57a71d01393c44e1cd21",
+    "source": "https://commons.wikimedia.org/wiki/File:Curb%C4%83_dubl%C4%83_dreapta.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

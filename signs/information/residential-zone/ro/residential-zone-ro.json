@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G38",
+  "image": {
+    "file": "residential-zone-ro.svg",
+    "sha1": "9b525baceb32643d667a70dbbd2cbe53002ff83c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G38.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

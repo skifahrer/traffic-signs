@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A43",
+  "image": {
+    "file": "trams-ro.svg",
+    "sha1": "224c47f756ca5c3308c388eb3303d44e990d1d9e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A43.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

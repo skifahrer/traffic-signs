@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A1",
+  "image": {
+    "file": "bend-left-ro.svg",
+    "sha1": "05c89e997911b221f28e321a50a7bc058bb5076e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A1.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

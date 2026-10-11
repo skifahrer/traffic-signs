@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A3",
+  "image": {
+    "file": "pedestrian-crossing-ahead-ro.svg",
+    "sha1": "5812f60fe8e75092dd3587f0279e036eba60f849",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_A3_sign.svg",
+    "author": "Dlphetracks",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

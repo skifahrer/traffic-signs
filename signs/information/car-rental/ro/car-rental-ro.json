@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G49",
+  "image": {
+    "file": "car-rental-ro.svg",
+    "sha1": "1d5504c5b56ab11dca600a00cc6212a4b7a25ce4",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G49.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

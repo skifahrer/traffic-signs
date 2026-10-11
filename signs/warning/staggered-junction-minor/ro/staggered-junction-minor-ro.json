@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A38",
+  "image": {
+    "file": "staggered-junction-minor-ro.svg",
+    "sha1": "f9a5041a9c6425584b36e367e75a58d748ff9a96",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A38.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

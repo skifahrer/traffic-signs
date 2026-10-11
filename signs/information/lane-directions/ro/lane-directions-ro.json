@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F19",
+  "image": {
+    "file": "lane-directions-ro.svg",
+    "sha1": "7624364a12104690d2e9fe151ac177096ae8749d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F19.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

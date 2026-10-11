@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C18",
+  "image": {
+    "file": "maximum-weight-ro.svg",
+    "sha1": "8a059cbecb98e98d284e1b24932928625fe84623",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C18.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

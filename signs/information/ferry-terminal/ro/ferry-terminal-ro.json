@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G45",
+  "image": {
+    "file": "ferry-terminal-ro.svg",
+    "sha1": "1cbff9116ebd5208fd1fd6dea2bdbd65357627fe",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G45.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

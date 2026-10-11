@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G40",
+  "image": {
+    "file": "recommended-speed-zone-ro.svg",
+    "sha1": "579ce40dcbe2dd935d3af267b9071e825403c103",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G40.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

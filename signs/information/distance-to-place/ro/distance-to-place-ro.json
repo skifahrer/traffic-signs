@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F10",
+  "image": {
+    "file": "distance-to-place-ro.svg",
+    "sha1": "2e032c3baf9bc211e6d1f9fe63a331f84e543a15",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F10.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

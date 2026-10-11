@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C06",
+  "image": {
+    "file": "no-mopeds-ro.svg",
+    "sha1": "28bbb3b2ba4252746ab0f35d6efecbe575a0bd63",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C06.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

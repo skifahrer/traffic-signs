@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F30",
+  "image": {
+    "file": "direction-sign-motorway-ro.svg",
+    "sha1": "558fa67bdd90e82ffdb1e74966e9e2b3ab1577bc",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F30.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G11",
+  "image": {
+    "file": "services-police-ro.svg",
+    "sha1": "2711e25de3ef8f2b4b49e9b28e7dbb4b3c6d1e2e",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G11.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

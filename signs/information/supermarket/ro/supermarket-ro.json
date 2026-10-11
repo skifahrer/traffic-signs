@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G59",
+  "image": {
+    "file": "supermarket-ro.svg",
+    "sha1": "ad52dbe66970070824de4b05fd75d2ef6e0b51f5",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G59.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

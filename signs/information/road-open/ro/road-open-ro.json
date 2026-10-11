@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F43",
+  "image": {
+    "file": "road-open-ro.svg",
+    "sha1": "d608caf8c208cc38d622fa65214bda28aad3ae46",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F43.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

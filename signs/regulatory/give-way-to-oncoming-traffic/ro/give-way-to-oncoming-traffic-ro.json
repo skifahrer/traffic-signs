@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "B05",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-ro.svg",
+    "sha1": "7a8326df5b688c75c0d7aff0d28a00dfc82514fd",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_B05.svg",
+    "author": "Alex:D",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

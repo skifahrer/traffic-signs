@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G47",
+  "image": {
+    "file": "railway-station-ro.svg",
+    "sha1": "95565822c38c5c20e291542f3a993370d28e1f5f",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G47.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

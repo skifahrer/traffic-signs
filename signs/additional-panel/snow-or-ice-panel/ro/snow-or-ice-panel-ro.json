@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P27",
+  "image": {
+    "file": "snow-or-ice-panel-ro.svg",
+    "sha1": "d6c6e7ab6756c959662a49c69c06cda6690c2151",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P27.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

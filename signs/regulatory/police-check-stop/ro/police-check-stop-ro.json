@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "C34",
+  "image": {
+    "file": "police-check-stop-ro.svg",
+    "sha1": "a412ba0e004265163146825cd4313fe0be989b26",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_C34.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

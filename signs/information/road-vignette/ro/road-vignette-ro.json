@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G80",
+  "image": {
+    "file": "road-vignette-ro.svg",
+    "sha1": "78b3fa953e9936d753993fde394e06d52316f6c7",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G80.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F06",
+  "image": {
+    "file": "road-closed-advance-ro.svg",
+    "sha1": "633ce82563e4b8219e81d20c105aee70e2993ef5",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F06.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

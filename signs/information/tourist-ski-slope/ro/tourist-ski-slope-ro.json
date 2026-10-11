@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "T09",
+  "image": {
+    "file": "tourist-ski-slope-ro.svg",
+    "sha1": "1ee8c8506797cf3c75e76cb6e6f36006c4421d9a",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_T09.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

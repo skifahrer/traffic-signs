@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G24",
+  "image": {
+    "file": "services-hotel-or-motel-ro.svg",
+    "sha1": "54f34d1bcfad9283063983ffe90ebca1ecf8bd0d",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G24.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

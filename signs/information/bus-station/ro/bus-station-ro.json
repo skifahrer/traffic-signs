@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G48",
+  "image": {
+    "file": "bus-station-ro.svg",
+    "sha1": "6a859e38dd15ad43a4b3f27b03ac84bcf7488475",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G48.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

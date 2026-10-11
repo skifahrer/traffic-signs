@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P07",
+  "image": {
+    "file": "distance-to-level-crossing-ro.svg",
+    "sha1": "f9e6a8cd3d1bbfc07e1193caa274991696642a6a",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P07.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

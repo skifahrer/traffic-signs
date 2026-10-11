@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G79",
+  "image": {
+    "file": "services-emergency-telephone-ro.svg",
+    "sha1": "c2dc733912e61c23a4257ba1bad478d19db3ab69",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G79.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

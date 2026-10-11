@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ro",
   "code": "G36",
+  "image": {
+    "file": "parking-garage-ro.svg",
+    "sha1": "2759a46f37b0acf20e4b033debe5968d78284b55",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G36.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

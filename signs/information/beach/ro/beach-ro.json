@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "G50",
+  "image": {
+    "file": "beach-ro.svg",
+    "sha1": "1963e3da1bf6753922188c399323914b1d27221c",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_G50.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

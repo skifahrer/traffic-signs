@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ro",
   "code": "A29",
+  "image": {
+    "file": "low-flying-aircraft-ro.svg",
+    "sha1": "d92f34cee95e224fc0c226195d9a89fa8698f151",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_A29.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ro",
   "code": "P17",
+  "image": {
+    "file": "distance-to-stop-line-ro.svg",
+    "sha1": "b8a12c0fec01f4c33c83e8d2baf9ad0260229810",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_P17.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",

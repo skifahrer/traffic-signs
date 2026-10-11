@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ro",
   "code": "F52",
+  "image": {
+    "file": "distance-sign-ro.svg",
+    "sha1": "d75b2ed1af0f13e5aa13e109fc922d927224d45f",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_road_sign_F52.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ro-wikipedia",
     "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
