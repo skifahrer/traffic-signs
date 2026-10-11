@@ -31,7 +31,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 
 1. ~~Greece (`gr`), Romania (`ro`), Finland (`fi`)~~ added
 2. ~~Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)~~ added
-3. ~~Ireland (`ie`)~~ added, Netherlands (`nl`), Belgium (`be`), Luxembourg (`lu`)
+3. ~~Ireland (`ie`)~~ added, Netherlands (`nl`), Belgium (`be`)
 4. Sweden (`se`), Norway (`no`), Iceland (`is`)
 5. Russia (`ru`), Latvia (`lv`), Lithuania (`lt`)
 6. Croatia (`hr`), Moldova (`md`), Belarus (`by`)
@@ -57,7 +57,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 26. United Arab Emirates (`ae`), Uganda (`ug`), Oman (`om`)
 27. Iran (`ir`), Saudi Arabia (`sa`), Kuwait (`kw`)
 28. Mauritius (`mu`)
-29. Later, once a source is found: Brazil (`br`)
+29. Later, once a source is found: Brazil (`br`), Luxembourg (`lu`)
 
 ## Europe
 
