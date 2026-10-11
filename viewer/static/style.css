@@ -227,11 +227,13 @@ main {
   background: var(--surface);
 }
 
+/* Cells line up at the top and every image box is the same size, with the
+   sign drawn at its bottom: all signs in a row stand on one line. */
 .row {
   display: grid;
   grid-template-columns: minmax(12rem, 20rem) repeat(var(--columns), var(--cell));
   gap: 0.75rem;
-  align-items: center;
+  align-items: start;
   padding: 0.6rem 0.9rem;
   border-top: 1px solid var(--line);
   min-width: max-content;
@@ -259,6 +261,11 @@ main {
   background: none;
 }
 
+.row .name,
+.row.head > * {
+  align-self: center;
+}
+
 .name strong {
   display: block;
 }
@@ -282,6 +289,7 @@ main {
   width: 4.5rem;
   height: 4.5rem;
   object-fit: contain;
+  object-position: center bottom;
 }
 
 .cell .missing {
@@ -299,22 +307,6 @@ main {
 .cell.absent {
   color: var(--line);
   font-size: 1.5rem;
-}
-
-/* The country only has variants of this sign (other side, other value): the first one, faded. */
-.cell.variant img,
-.cell.variant .missing {
-  opacity: 0.7;
-}
-
-.badge.variant-badge {
-  background: transparent;
-  border: 1px solid var(--line);
-  color: var(--muted);
-}
-
-.panel.variant {
-  border-style: dashed;
 }
 
 /* Country code inside each cell; only shown on phones, where there is no header row. */
@@ -343,6 +335,33 @@ main {
   background: var(--warn-soft);
   color: var(--warn);
   white-space: nowrap;
+}
+
+/* Reset filters: shown only while a filter differs from a first visit */
+
+button.reset {
+  font: inherit;
+  font-size: 0.9rem;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.3rem 0.8rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+button.reset::before {
+  content: "✕ ";
+}
+
+button.reset:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+button.reset[hidden] {
+  display: none;
 }
 
 /* Sharing: a small pill button, and a note when a link was copied */
@@ -502,7 +521,15 @@ dialog h2 {
   gap: 1rem;
 }
 
+/* Each panel's heading, image, details and archive share rows with the other
+   panels on its line, so a heading that wraps does not push one image lower:
+   the large images stand on one line too. */
 .panel {
+  display: grid;
+  grid-row: span 4;
+  grid-template-rows: subgrid;
+  row-gap: 0;
+  align-content: start;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 0.9rem;
@@ -517,6 +544,7 @@ dialog h2 {
   width: 100%;
   height: 11rem;
   object-fit: contain;
+  object-position: center bottom;
 }
 
 .panel .missing {
@@ -562,6 +590,7 @@ dialog h2 {
   width: 3.5rem;
   height: 3.5rem;
   object-fit: contain;
+  object-position: center bottom;
   opacity: 0.8;
 }
 

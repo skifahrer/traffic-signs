@@ -61,10 +61,11 @@ meaning, so the countries line up.
 The viewer relies on this naming to tie variants to their sign: a folder whose
 name is another folder's name plus a side (`-left`, `-from-right`,
 `-left-side`), a value (`-50`, `-3-5t`, `-20mph`, `-10-percent`) or a design
-letter (`-b`) is shown as that sign's variant. A country that has only
-variants, such as Germany with `crosswind-from-left` and
-`crosswind-from-right`, then appears in the `crosswind` row too, marked
-*variant*, and counts for *In 2+ countries*.
+letter (`-b`) is shown as that sign's variant. Variants are not blended into
+their sign: each keeps its own row, and a row compares only countries with
+that very sign, so Germany with only `crosswind-from-left` and
+`crosswind-from-right` is not shown in the `crosswind` row. The sign's
+detail links to its variants and back.
 
 ## Viewer
 
@@ -80,7 +81,11 @@ first) or by name. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.
 `#warning/bend-left`, and the filters are kept in the URL
-(`?type=warning&q=bend&countries=sk,cz&sort=countries-desc`), so a filtered list can be bookmarked.
+(`?type=warning&q=bend&countries=sk,cz&sort=countries-desc`), so a filtered list can be bookmarked. While
+any filter differs from a first visit, **Reset filters** (next to the
+filters, and under "No signs match") brings back every type and country.
+Sign images stand on one line at their bottom edge, in the list and in a
+sign's detail, so their shapes and sizes are easy to compare.
 
 **Share** (in the header, next to each category and in a sign's detail)
 opens the phone's share sheet, or copies the link on a computer. Links point
