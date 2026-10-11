@@ -3,7 +3,7 @@
 
 const PAGE_SIZE = 100; // signs added to the page at a time, as the reader scrolls
 
-const state = { query: "", category: "", countries: new Set(), shared: false, withdrawn: true };
+const state = { query: "", category: "", group: "", countries: new Set(), shared: false, withdrawn: true };
 let data;
 const signsByKey = new Map(); // "warning/crosswind" -> sign
 // What render() matched, in display order, and how much of it is on the page.
@@ -59,19 +59,56 @@ function readUrl() {
   state.shared = params.get("shared") === "1";
   state.withdrawn = params.get("withdrawn") !== "0";
   const wanted = (params.get("countries") || "").split(",").filter((c) => c in data.countries);
-  state.countries = new Set(wanted.length ? wanted : Object.keys(data.countries));
+  const group = groupById(params.get("group"));
+  if (group?.countries.length) {
+    state.group = group.id;
+    state.countries = new Set(group.countries);
+  } else {
+    state.countries = new Set(wanted.length ? wanted : Object.keys(data.countries));
+  }
 }
 
 function writeUrl() {
   const params = new URLSearchParams();
   if (state.category) params.set("type", state.category);
   if (state.query) params.set("q", state.query);
-  if (state.countries.size !== Object.keys(data.countries).length) params.set("countries", [...state.countries].join(","));
+  if (state.group) params.set("group", state.group);
+  else if (state.countries.size !== Object.keys(data.countries).length) params.set("countries", [...state.countries].join(","));
   if (state.shared) params.set("shared", "1");
   if (!state.withdrawn) params.set("withdrawn", "0");
   const search = params.toString().replace(/%2C/g, ",");
   const url = location.pathname + (search ? `?${search}` : "") + location.hash;
   if (url !== location.pathname + location.search + location.hash) history.replaceState(history.state, "", url);
+}
+
+const groupById = (id) => (data.groups || []).find((g) => g.id === id);
+
+// The "Countries" menu: all countries, continents, then political and economic
+// groups. A group selects the countries it has signs for; one without any yet
+// is listed but cannot be chosen.
+function setupGroups() {
+  const select = $("group");
+  const option = (g) => {
+    const label = `${g.label} (${g.countries.length}${g.countries.length < g.members ? ` of ${g.members}` : ""})`;
+    return el("option", { value: g.id, disabled: !g.countries.length }, label);
+  };
+  const kinds = [
+    ["continent", "Continents"],
+    ["group", "Groups"],
+  ];
+  select.append(
+    el("option", { value: "" }, `All countries (${Object.keys(data.countries).length})`),
+    el("option", { value: "custom", hidden: true }, "Chosen countries"),
+    ...kinds.map(([kind, label]) => el("optgroup", { label }, ...(data.groups || []).filter((g) => g.kind === kind).map(option))),
+  );
+  select.value = state.group || (state.countries.size === Object.keys(data.countries).length ? "" : "custom");
+  select.addEventListener("change", () => {
+    const group = groupById(select.value);
+    state.group = group ? group.id : "";
+    state.countries = new Set(group ? group.countries : Object.keys(data.countries));
+    for (const box of $("countries").querySelectorAll("input")) box.checked = state.countries.has(box.value);
+    render();
+  });
 }
 
 // What the share button in the header shares: a category's page when only
@@ -356,6 +393,9 @@ function setupControls() {
     const box = el("input", { type: "checkbox", checked: state.countries.has(code), value: code });
     box.addEventListener("change", () => {
       box.checked ? state.countries.add(code) : state.countries.delete(code);
+      // Ticking a country by hand leaves the group: the menu shows "Chosen countries".
+      state.group = "";
+      $("group").value = state.countries.size === Object.keys(data.countries).length ? "" : "custom";
       render();
     });
     chips.append(el("label", { title: countryName(code) }, box, code.toUpperCase()));
@@ -462,6 +502,7 @@ async function start() {
   $("loading").hidden = true;
   readUrl();
   setupControls();
+  setupGroups();
   setupInfiniteScroll();
   render();
   route();

@@ -3,6 +3,7 @@
     {
       "categories": {"warning": "Warning signs", ...},
       "countries": {"sk": {"name": "Slovakia", "language": "sk", "language_name": "Slovak"}, ...},
+      "groups": [{"id": "eu", "label": "European Union", "kind": "group", "countries": ["sk", ...], "members": 27}, ...],
       "signs": [
         {"category": "warning", "sign": "danger",
          "names": {"en": "Other danger", "sk": "Nebezpečenstvo"},
@@ -35,6 +36,8 @@ from urllib.parse import quote
 from pipelines.core import layout
 from pipelines.core.images import WEB_IMAGE_EXTS
 from pipelines.countries import all_sources
+
+from .groups import groups_for
 
 
 def build_index() -> dict:
@@ -73,6 +76,7 @@ def build_index() -> dict:
     return {
         "categories": dict(layout.CATEGORIES),
         "countries": dict(sorted(countries.items())),
+        "groups": groups_for(sorted(countries)),
         "signs": signs,
     }
 

@@ -70,7 +70,10 @@ variants, such as Germany with `crosswind-from-left` and
 
 **<https://skifahrer.github.io/traffic-signs/>** shows every sign with one
 column per country, so the same sign can be compared across countries. Filter
-by type, by country, by text (English or local name, national code, folder
+by type, by country or a group of countries (continents; the EU, the EU and
+the United States, NATO, G7, Five Eyes, the Commonwealth, the Visegrád Group,
+Nordic, Baltic and Benelux countries, the former Soviet Union, Mercosur, the
+Arab League, ASEAN; see [`viewer/groups.py`](viewer/groups.py)), by text (English or local name, national code, folder
 name), or show only signs that 2+ countries have. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.

@@ -4,6 +4,11 @@ Countries whose road signs are listed on Wikipedia, to be added here one pull re
 
 Source: every “Road signs in …” article on the English Wikipedia (103 in October 2026), surveyed for sign galleries and codes. Many countries also have a list on their own Wikipedia (as Germany, France, Poland, Czechia, Slovakia and Hungary use); check it first, as it usually has the official names and codes.
 
+A country added here also joins its groups in the viewer's *Countries* menu
+(continents, EU, NATO, Commonwealth, Mercosur, …): membership is listed in
+[`viewer/groups.py`](viewer/groups.py) for every country, added or not, and a
+test fails if a new country is on no continent.
+
 **Ready**: most images have a sign code in the caption or the file name. **Needs work**: codes are missing for many signs, or the page mixes layouts.
 
 ## Already added
