@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-tn",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-tn-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/TN",
+    "file": "Tennessee 1.svg"
+  }
+}

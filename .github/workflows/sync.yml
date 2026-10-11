@@ -30,6 +30,7 @@ on:
           - ro
           - sk
           - us
+          - us-states
         default: all
       prune:
         description: Delete signs that left the Wikipedia page instead of archiving them

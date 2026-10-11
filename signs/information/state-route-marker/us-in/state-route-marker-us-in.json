@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-in",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-in-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/IN",
+    "file": "Indiana 1.svg"
+  }
+}

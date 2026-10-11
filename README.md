@@ -115,6 +115,11 @@ python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
 
 ## Countries
 
+Regions of a country have ISO 3166-2 codes (`us-ca`) and run together as one
+bundle (`python3 -m pipelines us-states`). In the viewer they are not part of
+*All countries*: choose *US states* in the Countries menu, or open the
+*US states* chip to tick some of them next to the countries.
+
 | Country | Signs | Source | Pipeline |
 | --- | --- | --- | --- |
 | Australia (`au`) | 285 | [Road signs in Australia](https://en.wikipedia.org/wiki/Road_signs_in_Australia) (English Wikipedia, national AS 1742 signs only) | [`pipelines/countries/au`](pipelines/countries/au) |
@@ -131,6 +136,7 @@ python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
 | Romania (`ro`) | 278 | [Indicatoarele rutiere din România](https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia) (Romanian Wikipedia, codes from the image names) | [`pipelines/countries/ro`](pipelines/countries/ro) |
 | Slovakia (`sk`) | 837 | [Zoznam dopravných značiek na Slovensku](https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku) (Slovak Wikipedia, VL 6.1 / 6.3 / 6.4) | [`pipelines/countries/sk`](pipelines/countries/sk) |
 | United States (`us`) | 1,132 | [Road signs in the United States](https://en.wikipedia.org/wiki/Road_signs_in_the_United_States) (English Wikipedia, MUTCD) | [`pipelines/countries/us`](pipelines/countries/us) |
+| US states (`us-states`: `us-al` … `us-wy`, DC, Puerto Rico) | 52 | Each state's route shield, from Wikipedia's road data modules ([`Module:Road data/strings/USA/CA`](https://en.wikipedia.org/wiki/Module:Road_data/strings/USA/CA), …) | [`pipelines/countries/us_states`](pipelines/countries/us_states) |
 
 Countries still to add, and in which order, are listed in [COUNTRIES.md](COUNTRIES.md).
 

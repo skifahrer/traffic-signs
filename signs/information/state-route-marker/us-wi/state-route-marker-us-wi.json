@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-wi",
+  "code": "WI",
+  "source": {
+    "pipeline": "us-wi-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WI",
+    "file": "WIS 13.svg"
+  }
+}

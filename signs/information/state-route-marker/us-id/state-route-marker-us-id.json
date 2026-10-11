@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-id",
+  "code": "SH",
+  "source": {
+    "pipeline": "us-id-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/ID",
+    "file": "Idaho 1.svg"
+  }
+}

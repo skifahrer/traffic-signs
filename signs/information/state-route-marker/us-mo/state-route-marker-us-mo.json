@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-mo",
+  "code": "Route",
+  "source": {
+    "pipeline": "us-mo-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MO",
+    "file": "MO-1.svg"
+  }
+}

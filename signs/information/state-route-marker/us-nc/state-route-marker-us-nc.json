@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-nc",
+  "code": "NC",
+  "source": {
+    "pipeline": "us-nc-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NC",
+    "file": "NC 12.svg"
+  }
+}

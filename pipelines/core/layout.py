@@ -31,7 +31,7 @@ CATEGORIES = {
 }
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
-COUNTRY_RE = re.compile(r"^[a-z]{2}$")
+COUNTRY_RE = re.compile(r"^[a-z]{2}(?:-[a-z0-9]{1,3})?$")  # ISO 3166-1 alpha-2, or 3166-2 for a region: "us-ca"
 
 
 def sign_dir(category: str, slug: str, country: str) -> str:
@@ -93,7 +93,7 @@ def validate(category: str, slug: str, country: str) -> None:
     if not SLUG_RE.match(slug):
         raise ValueError(f"bad sign slug {slug!r}: use lowercase a-z, 0-9 and single hyphens")
     if not COUNTRY_RE.match(country):
-        raise ValueError(f"bad country code {country!r}: use ISO 3166-1 alpha-2, lowercase")
+        raise ValueError(f"bad country code {country!r}: use ISO 3166-1 alpha-2 (or 3166-2 for a region), lowercase")
 
 
 def write_text(path: str, text: str) -> bool:

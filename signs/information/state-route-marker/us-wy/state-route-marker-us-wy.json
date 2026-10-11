@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-wy",
+  "code": "WY",
+  "source": {
+    "pipeline": "us-wy-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WY",
+    "file": "WY-22.svg"
+  }
+}

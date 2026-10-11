@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-pa",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-pa-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/PA",
+    "file": "PA-3.svg"
+  }
+}

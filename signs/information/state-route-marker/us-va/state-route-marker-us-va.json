@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-va",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-va-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/VA",
+    "file": "Virginia 7.svg"
+  }
+}

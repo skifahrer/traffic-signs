@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-nd",
+  "code": "ND",
+  "source": {
+    "pipeline": "us-nd-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/ND",
+    "file": "ND-1 (2015).svg"
+  }
+}

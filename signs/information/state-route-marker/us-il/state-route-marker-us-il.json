@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-il",
+  "code": "IL",
+  "source": {
+    "pipeline": "us-il-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/IL",
+    "file": "Illinois 1.svg"
+  }
+}

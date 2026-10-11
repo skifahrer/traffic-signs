@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-tx",
+  "code": "SH",
+  "source": {
+    "pipeline": "us-tx-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/TX",
+    "file": "Texas 6.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-az",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-az-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AZ",
+    "file": "Arizona 87.svg"
+  }
+}

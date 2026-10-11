@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-me",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-me-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/ME",
+    "file": "Maine 3.svg"
+  }
+}

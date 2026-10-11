@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-sd",
+  "code": "SD",
+  "source": {
+    "pipeline": "us-sd-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/SD",
+    "file": "SD 10.svg"
+  }
+}

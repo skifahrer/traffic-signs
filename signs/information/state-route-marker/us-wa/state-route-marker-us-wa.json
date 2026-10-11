@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-wa",
+  "code": "WA",
+  "source": {
+    "pipeline": "us-wa-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WA",
+    "file": "WA-9.svg"
+  }
+}

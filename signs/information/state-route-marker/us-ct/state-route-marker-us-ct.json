@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ct",
+  "code": "CT",
+  "source": {
+    "pipeline": "us-ct-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/CT",
+    "file": "Connecticut Highway 2.svg"
+  }
+}

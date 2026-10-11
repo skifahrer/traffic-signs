@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-vt",
+  "code": "VT",
+  "source": {
+    "pipeline": "us-vt-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/VT",
+    "file": "Vermont 2.svg"
+  }
+}

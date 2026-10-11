@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ri",
+  "code": "RI",
+  "source": {
+    "pipeline": "us-ri-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/RI",
+    "file": "Rhode Island 2.svg"
+  }
+}

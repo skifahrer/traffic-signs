@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-la",
+  "code": "LA",
+  "source": {
+    "pipeline": "us-la-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/LA",
+    "file": "Louisiana 1 (2008).svg"
+  }
+}

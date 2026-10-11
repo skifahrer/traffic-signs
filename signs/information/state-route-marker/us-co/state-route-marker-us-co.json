@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-co",
+  "code": "SH",
+  "source": {
+    "pipeline": "us-co-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/CO",
+    "file": "Colorado 1.svg"
+  }
+}

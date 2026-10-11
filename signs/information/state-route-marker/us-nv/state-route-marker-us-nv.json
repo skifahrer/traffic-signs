@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-nv",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-nv-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NV",
+    "file": "Nevada 28.svg"
+  }
+}

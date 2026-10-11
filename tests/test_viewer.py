@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 from pipelines.core import layout
 from tests.support import SandboxTestCase
@@ -151,15 +152,21 @@ class SharePagesTest(SandboxTestCase):
 class GroupTest(SandboxTestCase):
     def test_every_country_with_a_pipeline_is_on_a_continent(self):
         from pipelines.countries import all_sources
-        from viewer.groups import CONTINENT, GROUPS
+        from viewer.groups import CONTINENT, GROUPS, REGION
 
         on_a_continent = {c for g in GROUPS if g["kind"] == CONTINENT for c in g["members"]}
+        in_a_region_group = {c for g in GROUPS if g["kind"] == REGION for c in g["members"]}
         for country in all_sources():
             with self.subTest(country=country):
-                self.assertIn(country, on_a_continent, "add it to its continent in viewer/groups.py")
+                if "-" in country:  # a region: its country is on a continent, and it is in a region group
+                    self.assertIn(country.split("-")[0], on_a_continent)
+                    self.assertIn(country, in_a_region_group, "add it to its group of regions in viewer/groups.py")
+                else:
+                    self.assertIn(country, on_a_continent, "add it to its continent in viewer/groups.py")
         for group in GROUPS:
             with self.subTest(group=group["id"]):
-                self.assertTrue(all(len(c) == 2 and c.islower() for c in group["members"]), group["members"])
+                code = r"[a-z]{2}-[a-z0-9]{1,3}" if group["kind"] == REGION else r"[a-z]{2}"
+                self.assertTrue(all(re.fullmatch(code, c) for c in group["members"]), group["members"])
         sizes = {g["id"]: len(g["members"]) for g in GROUPS}
         self.assertEqual((sizes["eu"], sizes["eu-us"], sizes["nato"], sizes["five-eyes"], sizes["g7"]), (27, 28, 32, 5, 7))
 

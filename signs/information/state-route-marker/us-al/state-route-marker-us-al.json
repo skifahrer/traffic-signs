@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-al",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-al-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AL",
+    "file": "Alabama 1.svg"
+  }
+}

@@ -2,6 +2,7 @@
 
     python -m pipelines                  # every country
     python -m pipelines sk cz            # only these countries
+    python -m pipelines us-states        # a bundle: every US state
     python -m pipelines --list           # show the available countries
     python -m pipelines all --matrix     # the selected countries as JSON, for a CI job matrix
     python -m pipelines sk --check -v    # report what would change, log every sign
@@ -16,16 +17,17 @@ import sys
 from .core import layout, log, report
 from .core.sync import Options, Result, sync
 from .core.wikimedia import Client
-from .countries import all_sources
+from .countries import all_sources, bundles, choices
 
 
 def main(argv: list[str] | None = None) -> int:
     sources = all_sources()
+    groups = bundles(sources)
     parser = argparse.ArgumentParser(
         prog="python -m pipelines", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
     parser.add_argument(
-        "countries", nargs="*", metavar="country", help=f"country codes or `all` (default); available: {', '.join(sources)}"
+        "countries", nargs="*", metavar="country", help=f"country codes, bundles or `all` (default); available: {', '.join(choices(sources))}"
     )
     parser.add_argument("--list", action="store_true", help="list the available countries and exit")
     parser.add_argument(
@@ -46,15 +48,16 @@ def main(argv: list[str] | None = None) -> int:
             print(f"{code}  {source.country_name:<16} {source.page_url}")
         return 0
 
-    requested = [c.lower() for c in args.countries if c.lower() != "all"] or list(sources)
-    unknown = [c for c in requested if c not in sources]
+    chosen = [c.lower() for c in args.countries if c.lower() != "all"] or choices(sources)
+    unknown = [c for c in chosen if c not in sources and c not in groups]
     if unknown:
-        parser.error(f"unknown country {', '.join(unknown)}; available: {', '.join(sources)}")
+        parser.error(f"unknown country {', '.join(unknown)}; available: {', '.join(choices(sources))}")
+    if args.matrix:  # one job per country or bundle
+        print(json.dumps(chosen))
+        return 0
+    requested = [code for c in chosen for code in groups.get(c, [c])]
     if args.wikitext and len(requested) != 1:
         parser.error("--wikitext needs exactly one country")
-    if args.matrix:
-        print(json.dumps(requested))
-        return 0
 
     log.verbose = args.verbose
     log.info(f"Syncing {', '.join(requested)}")

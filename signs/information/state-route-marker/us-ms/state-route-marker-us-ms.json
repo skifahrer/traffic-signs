@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ms",
+  "code": "MS",
+  "source": {
+    "pipeline": "us-ms-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MS",
+    "file": "Ellipse sign 1.svg"
+  }
+}

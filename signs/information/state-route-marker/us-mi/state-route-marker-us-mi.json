@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-mi",
+  "code": "M",
+  "source": {
+    "pipeline": "us-mi-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MI",
+    "file": "M-1.svg"
+  }
+}

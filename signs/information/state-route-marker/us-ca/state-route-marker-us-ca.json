@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ca",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/CA",
+    "file": "California 1.svg"
+  }
+}
