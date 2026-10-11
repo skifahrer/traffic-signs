@@ -1,0 +1,11 @@
+{
+  "sign": "customs-stop",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F10 (douane)",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F10 (v1).svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-public-transport-lane",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F14",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F14.svg"
+  }
+}

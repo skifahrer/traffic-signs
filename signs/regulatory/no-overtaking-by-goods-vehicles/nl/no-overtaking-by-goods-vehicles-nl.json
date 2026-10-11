@@ -1,0 +1,11 @@
+{
+  "sign": "no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F3 2023.svg"
+  }
+}

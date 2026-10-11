@@ -1,0 +1,11 @@
+{
+  "sign": "one-way-road",
+  "category": "information",
+  "country": "nl",
+  "code": "C3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C3.svg"
+  }
+}

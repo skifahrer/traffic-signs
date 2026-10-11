@@ -1,0 +1,11 @@
+{
+  "sign": "poor-visibility",
+  "category": "warning",
+  "country": "nl",
+  "code": "J35",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J35 2023.svg"
+  }
+}

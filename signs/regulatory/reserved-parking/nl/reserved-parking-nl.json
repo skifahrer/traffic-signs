@@ -1,0 +1,11 @@
+{
+  "sign": "reserved-parking",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "E9",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord E9.svg"
+  }
+}

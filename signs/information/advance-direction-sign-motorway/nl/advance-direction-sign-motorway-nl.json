@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-motorway",
+  "category": "information",
+  "country": "nl",
+  "code": "K2",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord K2.svg"
+  }
+}

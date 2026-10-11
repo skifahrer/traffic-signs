@@ -1,0 +1,11 @@
+{
+  "sign": "lane-advance-direction-sign",
+  "category": "information",
+  "country": "nl",
+  "code": "K11",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord K11.svg"
+  }
+}

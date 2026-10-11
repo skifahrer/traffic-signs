@@ -1,0 +1,11 @@
+{
+  "sign": "no-mopeds",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C13",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C13 2023.svg"
+  }
+}

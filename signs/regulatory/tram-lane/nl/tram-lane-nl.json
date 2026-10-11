@@ -1,0 +1,11 @@
+{
+  "sign": "tram-lane",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F15",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F15.svg"
+  }
+}

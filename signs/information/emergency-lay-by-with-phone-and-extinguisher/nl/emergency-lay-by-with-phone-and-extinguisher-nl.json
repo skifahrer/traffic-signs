@@ -1,0 +1,11 @@
+{
+  "sign": "emergency-lay-by-with-phone-and-extinguisher",
+  "category": "information",
+  "country": "nl",
+  "code": "L15",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L15.svg"
+  }
+}

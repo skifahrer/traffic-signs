@@ -1,0 +1,11 @@
+{
+  "sign": "bus-and-tram-stop",
+  "category": "information",
+  "country": "nl",
+  "code": "L3a",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L3a.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-crossing-ahead",
+  "category": "warning",
+  "country": "nl",
+  "code": "J22",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J22 2023.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "low-flying-aircraft",
+  "category": "warning",
+  "country": "nl",
+  "code": "J30",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J30 2023.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-entry",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C2",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C2 2023.svg"
+  }
+}

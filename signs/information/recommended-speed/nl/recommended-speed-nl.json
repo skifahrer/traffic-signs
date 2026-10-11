@@ -1,0 +1,11 @@
+{
+  "sign": "recommended-speed",
+  "category": "information",
+  "country": "nl",
+  "code": "A4",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord A4.svg"
+  }
+}

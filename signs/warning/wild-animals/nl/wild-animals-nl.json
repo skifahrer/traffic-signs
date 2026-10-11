@@ -1,0 +1,11 @@
+{
+  "sign": "wild-animals",
+  "category": "warning",
+  "country": "nl",
+  "code": "J27",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J27 2023.svg"
+  }
+}

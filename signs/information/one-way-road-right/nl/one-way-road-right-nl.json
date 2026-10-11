@@ -1,0 +1,11 @@
+{
+  "sign": "one-way-road-right",
+  "category": "information",
+  "country": "nl",
+  "code": "C4",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C4 (rechts).svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "dead-end-ahead",
+  "category": "information",
+  "country": "nl",
+  "code": "L9",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L9.svg"
+  }
+}

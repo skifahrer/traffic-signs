@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-direction-sign-stacked",
+  "category": "information",
+  "country": "nl",
+  "code": "K8",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord K8.svg"
+  }
+}

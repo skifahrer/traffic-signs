@@ -1,0 +1,11 @@
+{
+  "sign": "parking-for-vehicles-shown",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "E8",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord E8.svg"
+  }
+}

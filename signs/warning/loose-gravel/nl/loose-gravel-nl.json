@@ -1,0 +1,11 @@
+{
+  "sign": "loose-gravel",
+  "category": "warning",
+  "country": "nl",
+  "code": "J25",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J25 2023.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-u-turn",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F7",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F7 2023.svg"
+  }
+}

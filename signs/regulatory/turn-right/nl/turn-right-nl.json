@@ -1,0 +1,11 @@
+{
+  "sign": "turn-right",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "D5",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord D5.svg"
+  }
+}

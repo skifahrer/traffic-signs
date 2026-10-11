@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "A2",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord A2.svg"
+  }
+}

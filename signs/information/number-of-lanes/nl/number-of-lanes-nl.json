@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes",
+  "category": "information",
+  "country": "nl",
+  "code": "L7",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L7.svg"
+  }
+}

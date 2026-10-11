@@ -1,0 +1,11 @@
+{
+  "sign": "service-area-exit-sign",
+  "category": "information",
+  "country": "nl",
+  "code": "K3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord K3.svg"
+  }
+}

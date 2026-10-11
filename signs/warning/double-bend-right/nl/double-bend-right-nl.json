@@ -1,0 +1,11 @@
+{
+  "sign": "double-bend-right",
+  "category": "warning",
+  "country": "nl",
+  "code": "J4",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J4 2023.svg"
+  }
+}

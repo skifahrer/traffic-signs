@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-rush-hour-lane",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C23-03",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C23-03.svg"
+  }
+}

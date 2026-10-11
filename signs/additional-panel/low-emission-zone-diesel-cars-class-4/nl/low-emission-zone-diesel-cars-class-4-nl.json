@@ -1,0 +1,11 @@
+{
+  "sign": "low-emission-zone-diesel-cars-class-4",
+  "category": "additional-panel",
+  "country": "nl",
+  "code": "C22e4",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "NL-C22e4.svg"
+  }
+}

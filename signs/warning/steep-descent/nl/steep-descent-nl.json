@@ -1,0 +1,11 @@
+{
+  "sign": "steep-descent",
+  "category": "warning",
+  "country": "nl",
+  "code": "J7",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J7 2023.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-without-barriers",
+  "category": "warning",
+  "country": "nl",
+  "code": "J11",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J11 2023.svg"
+  }
+}

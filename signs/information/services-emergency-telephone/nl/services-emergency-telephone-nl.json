@@ -1,0 +1,11 @@
+{
+  "sign": "services-emergency-telephone",
+  "category": "information",
+  "country": "nl",
+  "code": "L16",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L16.svg"
+  }
+}

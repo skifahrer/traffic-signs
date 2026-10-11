@@ -1,0 +1,11 @@
+{
+  "sign": "priority-intersection-side-road-right",
+  "category": "information",
+  "country": "nl",
+  "code": "B5",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord B5 2023.svg"
+  }
+}

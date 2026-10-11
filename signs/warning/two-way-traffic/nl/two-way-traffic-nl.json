@@ -1,0 +1,11 @@
+{
+  "sign": "two-way-traffic",
+  "category": "warning",
+  "country": "nl",
+  "code": "J29",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J29 2023.svg"
+  }
+}

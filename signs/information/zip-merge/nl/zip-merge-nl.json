@@ -1,0 +1,11 @@
+{
+  "sign": "zip-merge",
+  "category": "information",
+  "country": "nl",
+  "code": "L5",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L5.svg"
+  }
+}
