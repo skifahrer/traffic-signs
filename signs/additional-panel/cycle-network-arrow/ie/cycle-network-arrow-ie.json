@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 042",
+  "image": {
+    "file": "cycle-network-arrow-ie.svg",
+    "sha1": "fb1b19169356a3e767cb70a4d4cc76402b6fb198",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-042.svg",
+    "author": "EthanL13",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 140A",
+  "image": {
+    "file": "pedestrian-crossing-ahead-ie.svg",
+    "sha1": "099109ed2facbc8129d0091ffb763959efd220f5",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-140A.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

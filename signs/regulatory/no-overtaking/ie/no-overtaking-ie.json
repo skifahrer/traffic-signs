@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 014",
+  "image": {
+    "file": "no-overtaking-ie.svg",
+    "sha1": "d937d4abdd78f7bac0f8bd842a4a8f556432e7cf",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-014.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

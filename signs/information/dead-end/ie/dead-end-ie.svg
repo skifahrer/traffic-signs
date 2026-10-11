@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="427" height="602" fill-rule="evenodd">
+<rect width="425" height="600" rx="37.5" ry="37.5" x="1" y="1" fill="#000" stroke="none"/>
+<rect width="400" height="575" rx="25" ry="25" x="13.5" y="13.5" fill="#fff" stroke="none"/>
+<rect width="75" height="345" x="176" y="143.5" fill="#000" stroke="none"/>
+<rect width="200" height="75" x="113.5" y="138.5" fill="#f00" stroke="none"/>
+</svg>

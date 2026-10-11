@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "WK 052",
+  "image": {
+    "file": "works-site-access-ie.svg",
+    "sha1": "e6a6e78fbebe4d3b3ce2dcdbea0c5da524ece2fc",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-052.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

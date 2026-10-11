@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "WK 091 (right)",
+  "image": {
+    "file": "detour-arrow-right-ie.svg",
+    "sha1": "fc6ba0b94da99039f1c33c7fa04053cdb366206c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-091-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

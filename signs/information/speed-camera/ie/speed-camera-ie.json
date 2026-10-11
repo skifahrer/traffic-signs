@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 402",
+  "image": {
+    "file": "speed-camera-ie.svg",
+    "sha1": "02182b8eb0cf6076a201b1c69443859967b4df84",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-402A.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

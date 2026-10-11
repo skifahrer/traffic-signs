@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 304L",
+  "image": {
+    "file": "lane-gain-from-left-left-lane-continues-b-ie.svg",
+    "sha1": "01f884091ebab39351154f63b56fb31fc2373778",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-304L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

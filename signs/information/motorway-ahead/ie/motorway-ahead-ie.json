@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 332",
+  "image": {
+    "file": "motorway-ahead-ie.svg",
+    "sha1": "aa5c46a02e8c33720229ab6b646b26af686924dc",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-332.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

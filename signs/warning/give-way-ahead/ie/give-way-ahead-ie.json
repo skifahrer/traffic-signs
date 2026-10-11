@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 041",
+  "image": {
+    "file": "give-way-ahead-ie.svg",
+    "sha1": "21dbe56411f0a7c0fd06f8c743f868221a718a67",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-041.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

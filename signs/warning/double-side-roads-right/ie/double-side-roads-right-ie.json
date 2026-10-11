@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 008R",
+  "image": {
+    "file": "double-side-roads-right-ie.svg",
+    "sha1": "f5456929cb01d1e2638d12540267cbf368a34f33",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-008-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

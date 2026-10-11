@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 018R",
+  "image": {
+    "file": "junction-with-major-road-at-sharp-corner-right-ie.svg",
+    "sha1": "5471c877e7522ebf7180a048c91192aa83ea8b7e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-018-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

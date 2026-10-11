@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 324",
+  "image": {
+    "file": "lane-diverge-ie.svg",
+    "sha1": "71e60da396b681a01d33a7813b383982a3127831",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-324_(2024%E2%80%93).svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

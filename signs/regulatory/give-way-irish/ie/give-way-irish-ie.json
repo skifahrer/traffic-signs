@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 026 (Irish)",
+  "image": {
+    "file": "give-way-irish-ie.svg",
+    "sha1": "5b3c541e2eb37e6737a11223955d67d3f6c08305",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-026G.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

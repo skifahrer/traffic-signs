@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 062",
+  "image": {
+    "file": "no-vehicles-carrying-explosives-ie.svg",
+    "sha1": "370eea501fbaeca0d349c315f18a329595f9963a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-062.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

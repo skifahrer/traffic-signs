@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "RUS 059",
+  "image": {
+    "file": "contraflow-bicycle-lane-ie.svg",
+    "sha1": "9d24f22aa67716d9f54e15b94c91013d06869a57",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-059.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

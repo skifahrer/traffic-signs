@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 050",
+  "image": {
+    "file": "except-buses-ie.svg",
+    "sha1": "e144a34a713af94f2f8a47cae9d9d8280067c7fa",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-050_(buses).svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

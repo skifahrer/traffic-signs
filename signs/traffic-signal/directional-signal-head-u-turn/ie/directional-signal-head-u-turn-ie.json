@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RTS 002 (U-turn)",
+  "image": {
+    "file": "directional-signal-head-u-turn-ie.png",
+    "sha1": "e24ce0dc6a22a69223b613a036b00afb4da47a21",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_002_u_turn.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

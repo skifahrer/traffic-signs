@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 807",
+  "image": {
+    "file": "emergency-exit-right-ie.svg",
+    "sha1": "df1ef6b2810bb15090dee675270cd03f1999e3bc",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-807B-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

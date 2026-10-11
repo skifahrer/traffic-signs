@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 901",
+  "image": {
+    "file": "tram-information-sign-ie.svg",
+    "sha1": "891da58c2a1dc156a4d6118b9a27b7cd94194da0",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-901.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

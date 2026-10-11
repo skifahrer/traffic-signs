@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 130",
+  "image": {
+    "file": "speed-bump-ie.svg",
+    "sha1": "91dc76c72e4428b2908959eb9b3603d598086a2e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-130.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

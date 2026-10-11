@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 061",
+  "image": {
+    "file": "another-train-coming-ie.svg",
+    "sha1": "bbb6c611af7a946d10f3e09f1cca0d479fd34139",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-061.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 210",
+  "image": {
+    "file": "services-hospital-ie.svg",
+    "sha1": "2a3d7b4a7d2938ee39104b446ccad11c89875cee",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-210.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

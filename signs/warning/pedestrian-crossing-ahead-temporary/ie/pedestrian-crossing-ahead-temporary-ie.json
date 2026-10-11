@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 082",
+  "image": {
+    "file": "pedestrian-crossing-ahead-temporary-ie.svg",
+    "sha1": "9ffea11b5ff405b602f9cf3987adece4e7215da8",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-082.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

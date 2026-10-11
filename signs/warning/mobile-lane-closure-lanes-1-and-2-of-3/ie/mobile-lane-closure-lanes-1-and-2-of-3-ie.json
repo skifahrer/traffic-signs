@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 114",
+  "image": {
+    "file": "mobile-lane-closure-lanes-1-and-2-of-3-ie.svg",
+    "sha1": "72a399deb3271a5e1efc155dd0f4431fe53f7042",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-114.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

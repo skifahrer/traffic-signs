@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 146",
+  "image": {
+    "file": "pedestrians-and-cyclists-ie.svg",
+    "sha1": "7a558e8df94c8d7800dea1ef2046beddecb5f9aa",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-146.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

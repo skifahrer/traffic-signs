@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 154",
+  "image": {
+    "file": "horse-drawn-vehicles-ie.svg",
+    "sha1": "b17f9cd5d5a99ee0f23b80513dcfb067e7319575",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-154.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 131",
+  "image": {
+    "file": "dip-ie.svg",
+    "sha1": "c82ad5e112a791c341f4b1e598e87fd6cd920444",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-131.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

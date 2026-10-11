@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 017L",
+  "image": {
+    "file": "staggered-crossroads-major-road-ahead-left-ie.svg",
+    "sha1": "767a358f4ed0fce462d654b3db09cafe5e58b8e4",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-017-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

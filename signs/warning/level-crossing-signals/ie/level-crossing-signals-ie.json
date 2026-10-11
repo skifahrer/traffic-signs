@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 120",
+  "image": {
+    "file": "level-crossing-signals-ie.svg",
+    "sha1": "013f7e09405d9f1aaa8327c0224a7383f7d4b598",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-120.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

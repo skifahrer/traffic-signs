@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 040",
+  "image": {
+    "file": "reduce-speed-now-ie.svg",
+    "sha1": "fbcc3051f3d11643a251304c00b2551ade1cee58",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-040.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

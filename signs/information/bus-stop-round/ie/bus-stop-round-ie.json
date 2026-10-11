@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "RUS 031 (circle)",
+  "image": {
+    "file": "bus-stop-round-ie.svg",
+    "sha1": "ead6d076f7c3bdd1708c729bb97451457390d0c1",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-031_(circle).svg",
+    "author": "EthanL13",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

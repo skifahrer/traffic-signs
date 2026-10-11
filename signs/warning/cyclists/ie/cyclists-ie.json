@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 143",
+  "image": {
+    "file": "cyclists-ie.svg",
+    "sha1": "0d8144589da27e501269be55cc206a071803b2e8",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-143.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

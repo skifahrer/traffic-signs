@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "ie",
   "code": "RUS 061 (Irish)",
+  "image": {
+    "file": "go-paddle-irish-ie.svg",
+    "sha1": "2a771d690b932dfa5150f20ae2bc0c4d5d03be53",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-061T.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

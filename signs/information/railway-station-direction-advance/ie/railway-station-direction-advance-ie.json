@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 231R",
+  "image": {
+    "file": "railway-station-direction-advance-ie.svg",
+    "sha1": "c7be5ca5194ed960bf3a65485aea2c2ef9a3d216",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-231R.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

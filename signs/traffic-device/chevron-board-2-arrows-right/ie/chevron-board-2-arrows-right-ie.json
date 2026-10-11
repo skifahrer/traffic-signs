@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "ie",
   "code": "W 062R",
+  "image": {
+    "file": "chevron-board-2-arrows-right-ie.svg",
+    "sha1": "d0430fca646e317513ecdece442a6a4c0e77d24d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-062-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

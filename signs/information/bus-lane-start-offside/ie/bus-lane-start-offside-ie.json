@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 361",
+  "image": {
+    "file": "bus-lane-start-offside-ie.svg",
+    "sha1": "3130664535eb547d87b7181a0df49cda132805bf",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-361.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

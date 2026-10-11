@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RTS 002 (straight)",
+  "image": {
+    "file": "directional-signal-head-straight-ie.png",
+    "sha1": "6a5dabbac5f3a02ad245a4444c3ea2347e7cb4cd",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_002_straight.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 805",
+  "image": {
+    "file": "emergency-telephone-fire-extinguisher-and-lay-by-ie.svg",
+    "sha1": "5f3e9113501c3f7d235e184986d516556431b86e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-805.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

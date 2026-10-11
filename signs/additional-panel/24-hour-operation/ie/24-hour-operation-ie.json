@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 055",
+  "image": {
+    "file": "24-hour-operation-ie.svg",
+    "sha1": "414656a56456d433263ddd4fa35bded28c9c8f1e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-055.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

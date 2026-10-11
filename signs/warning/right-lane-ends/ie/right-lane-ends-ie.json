@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 091R",
+  "image": {
+    "file": "right-lane-ends-ie.svg",
+    "sha1": "785f722f40027e876f72c76403c02b45412c4843",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-091R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

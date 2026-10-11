@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 051",
+  "image": {
+    "file": "days-and-times-ie.svg",
+    "sha1": "5623771b4a015e3bcb474c47d83b72deb619af3d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-051.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

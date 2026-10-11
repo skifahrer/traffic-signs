@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 166",
+  "image": {
+    "file": "crosswind-ie.svg",
+    "sha1": "30d1ddb6dec8ed3ecf468becbceb327efb8e7247",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-166.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

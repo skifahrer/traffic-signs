@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 135",
+  "image": {
+    "file": "soft-verges-ie.svg",
+    "sha1": "1bacfd2141ea1609ee1c31fb516ece041fafd10e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-135.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

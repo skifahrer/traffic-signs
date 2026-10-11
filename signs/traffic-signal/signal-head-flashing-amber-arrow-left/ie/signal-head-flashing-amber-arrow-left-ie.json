@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RTS 004 (left turn)",
+  "image": {
+    "file": "signal-head-flashing-amber-arrow-left-ie.png",
+    "sha1": "c7be7e0f75d68f65d2f603f87d3af1a5f0ea452b",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_004_left_turn_with_flashing_amber.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

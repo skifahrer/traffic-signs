@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 122.2L",
+  "image": {
+    "file": "level-crossing-countdown-marker-2-bars-ie.svg",
+    "sha1": "5fce24141396070053ca0e2c1813c72c1840cb98",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-122.2-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

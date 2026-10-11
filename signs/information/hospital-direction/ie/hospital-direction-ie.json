@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 212",
+  "image": {
+    "file": "hospital-direction-ie.svg",
+    "sha1": "f83c57241cc9ef4b0a464e0a829e046f4b050cf1",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-212L.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 003L",
+  "image": {
+    "file": "direction-arrow-left-ie.svg",
+    "sha1": "d546c5bbe65defbb8faa98ed3bb6022f7ece6df4",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-003L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

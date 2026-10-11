@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 113",
+  "image": {
+    "file": "maximum-width-ahead-ie.svg",
+    "sha1": "75ffe316b77a175ca8c80ecf5be1bd73b6e831ba",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-113.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

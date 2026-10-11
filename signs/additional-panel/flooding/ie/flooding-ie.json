@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 069",
+  "image": {
+    "file": "flooding-ie.svg",
+    "sha1": "0b6ef31751227a0da7cdf0eeda9ff49b1812e5d4",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-069_(flood).svg",
+    "author": "EthanL13",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

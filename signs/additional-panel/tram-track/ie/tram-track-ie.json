@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 064",
+  "image": {
+    "file": "tram-track-ie.svg",
+    "sha1": "fd4a1cc110ec78ffd32965eb17f316da710d3f25",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-064.svg",
+    "author": "EthanL13",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

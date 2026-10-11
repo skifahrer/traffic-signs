@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 305R",
+  "image": {
+    "file": "lane-gain-from-right-right-lane-continues-ie.svg",
+    "sha1": "be6c3f52f72c0ceb358eac7d3713fac1b99f24aa",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-305R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

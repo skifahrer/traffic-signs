@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 114",
+  "image": {
+    "file": "no-goods-vehicles-over-weight-ahead-ie.svg",
+    "sha1": "3acaa3388624377bd762e05ed23b8b41ab06a7b9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-114.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

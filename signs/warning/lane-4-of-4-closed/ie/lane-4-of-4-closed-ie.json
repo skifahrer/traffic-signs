@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 046",
+  "image": {
+    "file": "lane-4-of-4-closed-ie.svg",
+    "sha1": "769f4d8819e9c64d77fcb1af3a35dd1d51187d6d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-046.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

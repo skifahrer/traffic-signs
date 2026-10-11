@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 800",
+  "image": {
+    "file": "tunnel-with-name-and-length-ie.svg",
+    "sha1": "c4e1702e3970652d05046991806c7c2150f8ab71",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-800-W.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

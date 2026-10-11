@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 062",
+  "image": {
+    "file": "long-low-vehicles-phone-before-crossing-ie.svg",
+    "sha1": "33256846b95620bcd716cb8a9197be2a83234c5b",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-062.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

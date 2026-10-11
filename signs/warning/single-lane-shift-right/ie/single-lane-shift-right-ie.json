@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 013",
+  "image": {
+    "file": "single-lane-shift-right-ie.svg",
+    "sha1": "ef997b7596fb6f8e25b30c689a6cc2460956aef7",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-013.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "S 102",
+  "image": {
+    "file": "flashing-amber-signal-ie.png",
+    "sha1": "57269beedd92ba40a7c114617f92817610d4e245",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_S_102_flashing_amber_signal.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

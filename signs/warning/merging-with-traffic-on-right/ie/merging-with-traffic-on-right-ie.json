@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 031",
+  "image": {
+    "file": "merging-with-traffic-on-right-ie.svg",
+    "sha1": "5664d90c51de9db7ed42d7a687f3820565ab77d6",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-031.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

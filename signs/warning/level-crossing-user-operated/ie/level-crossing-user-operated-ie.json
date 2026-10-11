@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 126",
+  "image": {
+    "file": "level-crossing-user-operated-ie.svg",
+    "sha1": "316965118330f0930c8e012e155b2de327b003ed",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-126.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

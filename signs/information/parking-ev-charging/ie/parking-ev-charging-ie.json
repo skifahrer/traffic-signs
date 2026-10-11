@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 204a",
+  "image": {
+    "file": "parking-ev-charging-ie.svg",
+    "sha1": "872d8f15d71a5d8827c904e0aa4fc0fe97cf5008",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-204a.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

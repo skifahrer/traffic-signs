@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 806",
+  "image": {
+    "file": "emergency-station-ie.svg",
+    "sha1": "ebfc9631ac2bfd080cf0e309cdf88474b03d4308",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-806.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

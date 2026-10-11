@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 095",
+  "image": {
+    "file": "end-of-dual-carriageway-ie.svg",
+    "sha1": "bbbc494aaea6b369145437e904f5c21fac6b6605",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-095.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

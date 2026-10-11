@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 020",
+  "image": {
+    "file": "lanes-diverge-at-crossover-ie.svg",
+    "sha1": "7d085a6ff2bf6cd04f3e20709b9d37fffa29889a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-020.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

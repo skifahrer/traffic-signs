@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RPC 004",
+  "image": {
+    "file": "pedestrian-signal-head-3-aspects-ie.png",
+    "sha1": "67906980e95d8a1913dcf6db88e0186aabb1fd48",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RPC_004_3_aspect_pedestrian_signal.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

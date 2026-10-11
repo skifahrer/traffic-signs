@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 067",
+  "image": {
+    "file": "safe-headroom-ie.svg",
+    "sha1": "2200225cc8c45feb163247d90cbce77e6ac35f9a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-067.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

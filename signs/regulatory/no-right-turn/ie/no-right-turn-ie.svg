@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="602mm"
+   height="602mm"
+   viewBox="0 0 602 602"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Prohibitory.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="602mm"
+     inkscape:zoom="0.27464869"
+     inkscape:cx="1028.5867"
+     inkscape:cy="1054.0738"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,305)">
+    <circle
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.25729"
+       id="path31"
+       cx="301"
+       cy="-3.9999883"
+       r="300" />
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.00583"
+       id="circle1182"
+       cx="301"
+       cy="-3.9999883"
+       r="240" />
+    <path
+       id="rect846"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.09412"
+       d="M 251,196.00003 V -73.999898 c 0,-13.85001 11.15003,-25.000031 25.00002,-25.000031 H 461 v 59.999951 H 310.99995 V 196.00003 Z"
+       sodipodi:nodetypes="cssccccc" />
+    <path
+       id="rect2761"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.49239"
+       d="M 399.5,6.0000317 510.99972,-68.999968 399.5,-144.00011 c 15.35395,48.821332 15.35395,101.178812 0,150.0001417 z"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.351231"
+       id="rect969"
+       width="60"
+       height="580"
+       x="185.66756"
+       y="-79.989273"
+       transform="rotate(-45)" />
+  </g>
+</svg>

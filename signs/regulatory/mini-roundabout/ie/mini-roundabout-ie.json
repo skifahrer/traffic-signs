@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 049",
+  "image": {
+    "file": "mini-roundabout-ie.svg",
+    "sha1": "dac7507dd9a7c25e53eac5c0864eab7ceb5f169c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-049.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

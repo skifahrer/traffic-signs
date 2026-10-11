@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "RUS 070",
+  "image": {
+    "file": "shared-zone-ie.svg",
+    "sha1": "24ac64c5b878527f49a9dc60d1ca03772624da41",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-070.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

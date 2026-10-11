@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 308",
+  "image": {
+    "file": "lane-gain-in-200m-ie.svg",
+    "sha1": "a6ab59b7ec9e56fd873918d996b5de5903afac86",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-308_(200).svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

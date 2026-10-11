@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 044",
+  "image": {
+    "file": "speed-limit-30-ie.svg",
+    "sha1": "909894f1da5bc36662b7b24cf9731dd48bad8bf8",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-044.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "F 204",
+  "image": {
+    "file": "disabled-parking-place-ie.svg",
+    "sha1": "2025bb38bc8862758fb281fe503f8c0201cc0550",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-204.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

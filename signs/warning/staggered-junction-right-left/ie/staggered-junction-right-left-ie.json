@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 007RL",
+  "image": {
+    "file": "staggered-junction-right-left-ie.svg",
+    "sha1": "975c9b62deef44fec605ae0a83d38becb4fb5a6f",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-007-R-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 001",
+  "image": {
+    "file": "pass-on-left-ie.svg",
+    "sha1": "287c4368f120696db83a5dbd93ea16c10320c371",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-001.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

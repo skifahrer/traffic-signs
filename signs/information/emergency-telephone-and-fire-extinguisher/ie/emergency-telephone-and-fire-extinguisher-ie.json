@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ie",
   "code": "F 804",
+  "image": {
+    "file": "emergency-telephone-and-fire-extinguisher-ie.svg",
+    "sha1": "c572f9d776224fe39ab7a1c4e4c2bc89b822d485",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-804.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 142",
+  "image": {
+    "file": "children-ie.svg",
+    "sha1": "df75058146225dbbd86a0a95379ce8226e1bb063",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-142.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

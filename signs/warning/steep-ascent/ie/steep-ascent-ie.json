@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 106",
+  "image": {
+    "file": "steep-ascent-ie.svg",
+    "sha1": "b052e4ee8cc93e45cee68a516656a19bd5a86faa",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-106.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 020a",
+  "image": {
+    "file": "electric-vehicle-parking-ie.svg",
+    "sha1": "1921cc56d9fced7e62ac3a9bbc217160fe9b001c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-020a.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

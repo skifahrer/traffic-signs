@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 012",
+  "image": {
+    "file": "no-right-turn-ie.svg",
+    "sha1": "993fa40ef7d45971bc2251d139e0819100e84b4a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-012.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

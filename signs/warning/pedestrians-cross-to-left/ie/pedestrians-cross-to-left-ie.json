@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 080",
+  "image": {
+    "file": "pedestrians-cross-to-left-ie.svg",
+    "sha1": "c1391eea6bbcc77c8ada1614312ae5365db28802",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-080.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

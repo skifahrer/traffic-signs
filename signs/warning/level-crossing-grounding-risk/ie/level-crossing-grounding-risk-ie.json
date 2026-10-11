@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 123",
+  "image": {
+    "file": "level-crossing-grounding-risk-ie.svg",
+    "sha1": "c5dca541a11f5fdb5f9dc19b88ab6f9959d21789",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-123.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

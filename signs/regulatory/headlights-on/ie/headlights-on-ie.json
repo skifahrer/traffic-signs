@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "F 801",
+  "image": {
+    "file": "headlights-on-ie.svg",
+    "sha1": "1b53880f51423e2ad0bf4e8918ee41543846b792",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-801.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

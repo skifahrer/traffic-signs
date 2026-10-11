@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RTS 003 (green bus 2)",
+  "image": {
+    "file": "signal-head-with-green-bus-aspect-b-ie.png",
+    "sha1": "06fb0f4d8197c2f358e3f182b57adadaa56cfc1f",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_003_4_aspect_with_green_bus_2.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

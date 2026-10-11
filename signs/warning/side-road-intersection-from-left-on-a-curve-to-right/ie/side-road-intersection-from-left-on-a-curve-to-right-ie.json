@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 009R",
+  "image": {
+    "file": "side-road-intersection-from-left-on-a-curve-to-right-ie.svg",
+    "sha1": "f1f9b9d17747934f2361fed0862582241deb6e27",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-009-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

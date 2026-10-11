@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 164",
+  "image": {
+    "file": "fallen-rocks-ie.svg",
+    "sha1": "ebb360155ae0f3d39a142dfd63cb4628d92a8804",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-164.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

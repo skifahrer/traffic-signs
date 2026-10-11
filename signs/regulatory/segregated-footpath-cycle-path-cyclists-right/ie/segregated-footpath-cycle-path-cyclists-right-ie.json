@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 058CR",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-right-ie.svg",
+    "sha1": "dd3fc3148c1c0a4fdfef6413b31ee85955494d90",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-058-CR.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

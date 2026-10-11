@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 005L",
+  "image": {
+    "file": "y-junction-left-ie.svg",
+    "sha1": "f6c2c79f444158998f1d81ecad7d258a3895a21e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-005-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 004L",
+  "image": {
+    "file": "distance-and-direction-ie.svg",
+    "sha1": "c930ac048fb833f4cf454af1dad57911a4e57f9d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-004L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

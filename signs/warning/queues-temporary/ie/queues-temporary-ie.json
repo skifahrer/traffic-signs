@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 062",
+  "image": {
+    "file": "queues-temporary-ie.svg",
+    "sha1": "3a7ba4697234022f50352a2d550792fa167c3d6c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-062.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 081",
+  "image": {
+    "file": "two-way-traffic-crossing-ie.svg",
+    "sha1": "3a326b399492a22d3b2984c383987d07c60c3cc9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-081.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 150",
+  "image": {
+    "file": "horse-riders-ie.svg",
+    "sha1": "6849cd43b8a864941300f0e2ad6771eca51da5cc",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-150.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

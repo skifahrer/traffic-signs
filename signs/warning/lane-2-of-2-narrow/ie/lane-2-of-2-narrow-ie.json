@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "WK 105",
+  "image": {
+    "file": "lane-2-of-2-narrow-ie.svg",
+    "sha1": "74311ff5271126dcd1c10e443b1a08b9f7632fa3",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-105.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

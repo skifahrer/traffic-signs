@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RTS 001",
+  "image": {
+    "file": "signal-head-ie.png",
+    "sha1": "74b59e222cc5f3a22c44744408ee6f5e46671325",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_001_standard.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

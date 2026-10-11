@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 026A",
+  "image": {
+    "file": "give-way-cyclists-ie.svg",
+    "sha1": "91b5e0a3b044934f0d0df57f45778c5941f7c8ef",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-026A.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

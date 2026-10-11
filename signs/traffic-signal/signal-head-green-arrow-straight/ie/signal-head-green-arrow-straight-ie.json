@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "ie",
   "code": "RTS 002 (green straight)",
+  "image": {
+    "file": "signal-head-green-arrow-straight-ie.png",
+    "sha1": "72848c025fa32ce0d87fbfee33f5acd9c0f3d15a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_002_green_straight.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

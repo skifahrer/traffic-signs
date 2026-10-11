@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ie",
   "code": "P 080",
+  "image": {
+    "file": "slow-ie.svg",
+    "sha1": "5fba91a5bca08d0c8356335630441e1ce68f53ce",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-080.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

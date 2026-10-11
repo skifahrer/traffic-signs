@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 080",
+  "image": {
+    "file": "two-way-traffic-ie.svg",
+    "sha1": "f053d0fdacc191aae7e12ca3194d0bbd3e988a1d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-080.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

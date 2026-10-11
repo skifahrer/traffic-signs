@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "ie",
   "code": "RUS 060",
+  "image": {
+    "file": "stop-go-paddle-ie.svg",
+    "sha1": "33f6a76b103d8dca5fe9636f151e8f83fe5214e8",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-060.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

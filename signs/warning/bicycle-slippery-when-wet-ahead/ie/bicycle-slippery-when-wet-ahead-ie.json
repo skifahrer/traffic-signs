@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 144",
+  "image": {
+    "file": "bicycle-slippery-when-wet-ahead-ie.svg",
+    "sha1": "5b4be33ddf6eb895310bf1e9835f505f46b9f051",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-144.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

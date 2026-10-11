@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ie",
   "code": "RUS 059A",
+  "image": {
+    "file": "contraflow-cycling-one-way-street-ie.svg",
+    "sha1": "f3010605a3b3ab18983772065698721d6d6a4de7",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-059A.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",

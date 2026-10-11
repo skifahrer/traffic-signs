@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ie",
   "code": "W 116",
+  "image": {
+    "file": "maximum-axle-weight-ahead-ie.svg",
+    "sha1": "3498b107364486ff52c6533a34d5279d9378277e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-116.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ie-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
