@@ -1,6 +1,7 @@
 {
   "en": "Quayside or river bank",
   "cs": "Nábřeží",
+  "da": "Havnekaj",
   "de": "Ufer",
   "el": "Η οδός οδηγεί σε αποβάθρα ή όχθη ποταμού",
   "en-GB": "Quayside or river bank",
@@ -8,5 +9,7 @@
   "fr": "Débouché sur un quai ou une berge",
   "hu": "Rakpart vagy meredek part (veszély a jobb oldalon)",
   "pl": "nabrzeże lub brzeg rzeki",
-  "ro": "Cădere în chei sau în mal abrupt"
+  "pt": "Saída num cais ou precipício",
+  "ro": "Cădere în chei sau în mal abrupt",
+  "uk": "Виїзд на набережну або берег"
 }

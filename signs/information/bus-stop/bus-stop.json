@@ -1,12 +1,15 @@
 {
   "en": "Bus, trolleybus or electric bus stop",
   "cs": "Zastávka autobusu",
+  "da": "Busstoppested for nærtrafik",
   "de": "Haltestelle",
   "el": "Στάση λεωφορείου ή τρόλεϊ",
   "fi": "Linja-autopysäkki",
   "fr": "Arrêt d’autobus",
   "hu": "Autóbusz-megállóhely",
   "pl": "przystanek autobusowy",
+  "pt": "Paragem de veículos de transporte coletivo de passageiros",
   "ro": "Stație de autobuz",
-  "sk": "Zastávka (autobus, trolejbus, elektrobus)"
+  "sk": "Zastávka (autobus, trolejbus, elektrobus)",
+  "uk": "Пункт зупинки автобуса"
 }

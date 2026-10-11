@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road",
+  "category": "information",
+  "country": "dk",
+  "code": "B16",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign B16.svg"
+  }
+}

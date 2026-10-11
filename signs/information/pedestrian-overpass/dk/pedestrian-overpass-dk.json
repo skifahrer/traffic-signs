@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-overpass",
+  "category": "information",
+  "country": "dk",
+  "code": "E26.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E26.1.svg"
+  }
+}

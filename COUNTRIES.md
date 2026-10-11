@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Poland (`pl`), Romania (`ro`), Slovakia (`sk`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark (`dk`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -30,7 +30,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Finland 
 ## Order of pull requests
 
 1. ~~Greece (`gr`), Romania (`ro`), Finland (`fi`)~~ added
-2. Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)
+2. ~~Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)~~ added
 3. Ireland (`ie`), Netherlands (`nl`), Belgium (`be`)
 4. Sweden (`se`), Norway (`no`), Iceland (`is`)
 5. Russia (`ru`), Latvia (`lv`), Lithuania (`lt`)
@@ -66,9 +66,9 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Finland 
 | 1 | [Greece](https://en.wikipedia.org/wiki/Road_signs_in_Greece) | `gr` | 517 | ✅ added | codes in image names |
 | 2 | [Romania](https://en.wikipedia.org/wiki/Road_signs_in_Romania) | `ro` | 488 | ✅ added | codes in image names |
 | 3 | [Finland](https://en.wikipedia.org/wiki/Road_signs_in_Finland) | `fi` | 481 | ✅ added | codes in image names |
-| 4 | [Portugal](https://en.wikipedia.org/wiki/Road_signs_in_Portugal) | `pt` | 478 | ✅ ready | codes in image names |
-| 5 | [Ukraine](https://en.wikipedia.org/wiki/Road_signs_in_Ukraine) | `ua` | 475 | ✅ ready | codes in image names |
-| 6 | [Denmark](https://en.wikipedia.org/wiki/Road_signs_in_Denmark) | `dk` | 474 | ✅ ready | codes in image names |
+| 4 | [Portugal](https://en.wikipedia.org/wiki/Road_signs_in_Portugal) | `pt` | 478 | ✅ added | codes in image names |
+| 5 | [Ukraine](https://en.wikipedia.org/wiki/Road_signs_in_Ukraine) | `ua` | 475 | ✅ added | codes in image names |
+| 6 | [Denmark](https://en.wikipedia.org/wiki/Road_signs_in_Denmark) | `dk` | 474 | ✅ added | codes in image names |
 | 7 | [Ireland](https://en.wikipedia.org/wiki/Road_signs_in_Ireland) | `ie` | 465 | ✅ ready | codes in captions |
 | 8 | [Netherlands](https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands) | `nl` | 450 | ✅ ready | codes in captions |
 | 9 | [Belgium](https://en.wikipedia.org/wiki/Road_signs_in_Belgium) | `be` | 427 | ✅ ready | codes in image names |

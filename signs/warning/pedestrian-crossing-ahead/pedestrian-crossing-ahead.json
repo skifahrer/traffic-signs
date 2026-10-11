@@ -1,6 +1,7 @@
 {
   "en": "Pedestrian crossing ahead",
   "cs": "Přechod pro chodce",
+  "da": "Fodgængerfelt",
   "de-AT": "Fußgängerübergang",
   "el": "Κίνδυνος λόγω διάβασης πεζών",
   "en-CA": "Pedestrian crossing ahead",
@@ -9,5 +10,7 @@
   "fr": "Passage pour piétons",
   "hu": "Gyalogos átkelés",
   "pl": "przejście dla pieszych",
-  "ro": "Trecere de pietoni"
+  "pt": "Passagem de peões",
+  "ro": "Trecere de pietoni",
+  "uk": "Пішохідний перехід"
 }

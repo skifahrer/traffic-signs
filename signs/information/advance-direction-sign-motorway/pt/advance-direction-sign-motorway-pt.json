@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-motorway",
+  "category": "information",
+  "country": "pt",
+  "code": "I2e",
+  "source": {
+    "pipeline": "pt-wikipedia",
+    "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
+    "file": "SP I2e.svg"
+  }
+}

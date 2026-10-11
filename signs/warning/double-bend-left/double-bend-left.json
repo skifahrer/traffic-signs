@@ -1,6 +1,7 @@
 {
   "en": "Double bend (first to the left)",
   "cs": "Dvojitá zatáčka, první vlevo",
+  "da": "Flere sving, først til venstre",
   "de": "Doppelkurve – zunächst links",
   "de-AT": "Gefährliche Kurven (Doppelkurve links beginnend)",
   "el": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη αριστερά",
@@ -12,6 +13,8 @@
   "fr": "Succession de virages, le premier à gauche",
   "hu": "Egymás utáni veszélyes útkanyarulatok (az első balra)",
   "pl": "niebezpieczne zakręty — pierwszy w lewo",
+  "pt": "Curva à esquerda e contracurva",
   "ro": "Curbă dublă la stânga",
-  "sk": "Dvojitá zákruta (prvá vľavo)"
+  "sk": "Dvojitá zákruta (prvá vľavo)",
+  "uk": "Декілька поворотів"
 }

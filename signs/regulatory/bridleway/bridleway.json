@@ -1,9 +1,12 @@
 {
   "en": "Bridleway",
   "cs": "Stezka pro jezdce na zvířeti",
+  "da": "Ridesti",
   "de": "Reitweg",
   "de-AT": "Reitweg",
   "el": "Οδός αποκλειστικής κυκλοφορίας εφίππων",
   "fi": "Ratsastustie",
-  "fr": "Chemin obligatoire pour cavaliers"
+  "fr": "Chemin obligatoire pour cavaliers",
+  "pt": "Pista obrigatória para cavaleiros",
+  "uk": "Доріжка для вершників"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C55",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C55.svg"
+  }
+}

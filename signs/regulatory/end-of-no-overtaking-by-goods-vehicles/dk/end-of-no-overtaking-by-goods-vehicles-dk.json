@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C54",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C54.svg"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "en": "No vehicles carrying dangerous goods",
   "cs": "Zákaz vjezdu vozidel přepravujících nebezpečný náklad",
+  "da": "Kørsel med farligt gods forbudt",
   "de": "Verbot für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern",
   "de-AT": "Fahrverbot für Kraftfahrzeuge mit gefährlichen Gütern",
   "el": "Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν επικίνδυνα υλικά",
@@ -8,6 +9,8 @@
   "fr": "Accès interdit aux véhicules transportant des marchandises dangereuses",
   "hu": "Veszélyes anyagot szállító járművel behajtani tilos",
   "pl": "zakaz wjazdu pojazdów z towarami niebezpiecznymi",
+  "pt": "Trânsito proibido a veículos transportando mercadorias perigosas",
   "ro": "Circulație interzisă vehiculelor cu mărfuri periculoase",
-  "sk": "Zákaz vjazdu pre vozidlá prepravujúce (nebezpečné veci)"
+  "sk": "Zákaz vjazdu pre vozidlá prepravujúce (nebezpečné veci)",
+  "uk": "Рух транспортних засобів, що перевозять небезпечні вантажі, заборонено"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "tunnel-ahead",
+  "category": "warning",
+  "country": "dk",
+  "code": "A44",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "A44 dk.svg"
+  }
+}

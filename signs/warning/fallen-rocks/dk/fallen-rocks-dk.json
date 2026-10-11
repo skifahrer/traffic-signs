@@ -1,0 +1,11 @@
+{
+  "sign": "fallen-rocks",
+  "category": "warning",
+  "country": "dk",
+  "code": "A34",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A34.svg"
+  }
+}

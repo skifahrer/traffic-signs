@@ -1,6 +1,7 @@
 {
   "en": "Motorway",
   "cs": "Dálnice",
+  "da": "Motorvej",
   "de": "Autobahn",
   "de-AT": "Autobahn",
   "el": "Αυτοκινητόδρομος",
@@ -10,6 +11,8 @@
   "fr": "Début d’une section d’autoroute",
   "hu": "Autópálya",
   "pl": "autostrada",
+  "pt": "Autoestrada",
   "ro": "Autostradă",
-  "sk": "Diaľnica"
+  "sk": "Diaľnica",
+  "uk": "Автомагістраль"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "dead-end-passable-for-cyclists",
+  "category": "information",
+  "country": "dk",
+  "code": "E18.1.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E18.1.1.svg"
+  }
+}

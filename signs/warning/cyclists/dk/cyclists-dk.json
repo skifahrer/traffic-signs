@@ -1,0 +1,11 @@
+{
+  "sign": "cyclists",
+  "category": "warning",
+  "country": "dk",
+  "code": "A21",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A21.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "roadworks",
+  "category": "warning",
+  "country": "dk",
+  "code": "A39",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A39.svg"
+  }
+}

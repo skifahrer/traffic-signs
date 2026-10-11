@@ -1,8 +1,11 @@
 {
   "en": "Crossroads with a road without priority",
+  "da": "Farligt vejkryds, hvor den krydsende trafik har ubetinget vigepligt.",
   "de-AT": "Kreuzung mit Straße ohne Vorrang",
   "el": "Διασταύρωση με δρόμο χωρίς προτεραιότητα",
   "fi": "Sivutien risteys",
   "hu": "Útkereszteződés alárendelt úttal (1)",
-  "ro": "Intersecție cu un drum fără prioritate"
+  "pt": "Cruzamento ou entroncamento",
+  "ro": "Intersecție cu un drum fără prioritate",
+  "uk": "Перехрещення з другорядною дорогою"
 }

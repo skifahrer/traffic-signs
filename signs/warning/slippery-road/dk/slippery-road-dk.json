@@ -1,0 +1,11 @@
+{
+  "sign": "slippery-road",
+  "category": "warning",
+  "country": "dk",
+  "code": "A31",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A31.svg"
+  }
+}

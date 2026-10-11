@@ -1,6 +1,7 @@
 {
   "en": "Parking",
   "cs": "Parkoviště",
+  "da": "Parkering",
   "de": "Parken",
   "de-AT": "Parken / Parkplatz",
   "el": "Χώρος στάθμευσης",
@@ -10,6 +11,8 @@
   "fr": "Lieu aménagé pour le stationnement",
   "hu": "Várakozóhely",
   "pl": "parking",
+  "pt": "Estacionamento autorizado",
   "ro": "Parcare",
-  "sk": "Parkovanie"
+  "sk": "Parkovanie",
+  "uk": "Місце для стоянки"
 }

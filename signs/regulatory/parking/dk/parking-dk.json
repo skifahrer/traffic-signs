@@ -1,0 +1,11 @@
+{
+  "sign": "parking",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "E33.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E33.1.svg"
+  }
+}

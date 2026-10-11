@@ -1,6 +1,7 @@
 {
   "en": "No parking",
   "cs": "Zákaz stání",
+  "da": "Parkering forbudt",
   "de": "Eingeschränktes Haltverbot",
   "de-AT": "Parken verboten",
   "el": "Απαγορεύεται η στάθμευση",
@@ -11,6 +12,8 @@
   "fr": "Stationnement interdit",
   "hu": "Várakozni tilos",
   "pl": "zakaz postoju",
+  "pt": "Estacionamento proibido",
   "ro": "Staționarea interzisă",
-  "sk": "Zákaz státia"
+  "sk": "Zákaz státia",
+  "uk": "Стоянку заборонено"
 }

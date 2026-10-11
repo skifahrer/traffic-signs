@@ -1,6 +1,7 @@
 {
   "en": "Roundabout ahead",
   "cs": "Křižovatka s kruhovým objezdem",
+  "da": "Rundkørsel",
   "de-AT": "Kreuzung mit Kreisverkehr",
   "el": "Προσέγγιση σε κυκλική υποχρεωτική πορεία (πλατεία)",
   "en-AU": "Roundabout Ahead",
@@ -10,5 +11,7 @@
   "fr": "Carrefour à sens giratoire",
   "hu": "Körforgalom előjelzése",
   "pl": "skrzyżowanie o ruchu okrężnym",
-  "ro": "Giratoriu"
+  "pt": "Aproximação de rotunda",
+  "ro": "Giratoriu",
+  "uk": "Перехрещення з рухом по колу"
 }

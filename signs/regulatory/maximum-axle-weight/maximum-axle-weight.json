@@ -1,11 +1,14 @@
 {
   "en": "Maximum axle weight",
   "cs": "Zákaz vjezdu vozidel, jejichž okamžitá hmotnost připadající na nápravu přesahuje vyznačenou mez",
+  "da": "Maksimal akseltryk",
   "de-AT": "Fahrverbot für alle Fahrzeuge mit über … Tonnen Achslast",
   "el": "Απαγορεύεται η είσοδος σε οχήματα βάρους ανά άξονα μεγαλύτερου του αναγραφόμενου (π.χ. 2τ)",
   "en-US": "Axle weight limit",
   "fi": "Ajoneuvon suurin sallittu akselille kohdistuva massa",
   "fr": "Accès interdit aux véhicules pesant sur un essieu plus que le nombre indiqué",
   "hu": "Tengelyterhelés-korlátozás",
-  "ro": "Greutatea maximă pe osie simplă"
+  "pt": "Trânsito proibido a veículos de peso por eixo superior a (2,5) t",
+  "ro": "Greutatea maximă pe osie simplă",
+  "uk": "Рух транспортних засобів, навантаження на вісь яких перевищує… т, заборонено"
 }

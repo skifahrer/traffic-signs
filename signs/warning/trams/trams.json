@@ -1,6 +1,7 @@
 {
   "en": "Trams",
   "cs": "Tramvaj",
+  "da": "Letbane",
   "el": "Διάβαση τροχιοδρόμου (Τραμ)",
   "en-AU": "Tram Crossing",
   "en-GB": "Trams crossing ahead",
@@ -8,5 +9,7 @@
   "fr": "Traversée de voies de tramways",
   "hu": "Villamos",
   "pl": "tramwaj",
-  "ro": "Trecere la nivel cu șinele de tramvai"
+  "pt": "Intersecção com via onde circulam veículos sobre carris",
+  "ro": "Trecere la nivel cu șinele de tramvai",
+  "uk": "Перехрещення з трамвайною колією"
 }

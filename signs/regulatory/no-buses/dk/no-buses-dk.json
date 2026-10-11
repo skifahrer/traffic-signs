@@ -1,0 +1,11 @@
+{
+  "sign": "no-buses",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C23.2",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C23.2.svg"
+  }
+}

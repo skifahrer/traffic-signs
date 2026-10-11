@@ -1,6 +1,7 @@
 {
   "en": "Give way to oncoming traffic",
   "cs": "Přednost protijedoucích vozidel",
+  "da": "Hold for modkørende",
   "de": "Vorrang des Gegenverkehrs",
   "de-AT": "Wartepflicht bei Gegenverkehr",
   "el": "Υποχρεωτική παραχώρηση προτεραιότητας στην αντίθετα ερχόμενη κυκλοφορία (λόγω στενότητας)",
@@ -9,6 +10,8 @@
   "fr": "Cédez le passage à la circulation venant en sens inverse",
   "hu": "A szembejövő forgalom elsőbbsége",
   "pl": "pierwszeństwo dla nadjeżdżających z przeciwka",
+  "pt": "Cedência de passagem nos estreitamentos da faixa de rodagem",
   "ro": "Prioritate pentru vehiculele din sens invers",
-  "sk": "Prednosť protiidúcich vozidiel"
+  "sk": "Prednosť protiidúcich vozidiel",
+  "uk": "Перевага зустрічного руху"
 }

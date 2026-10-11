@@ -1,0 +1,11 @@
+{
+  "sign": "bus-stop",
+  "category": "information",
+  "country": "dk",
+  "code": "E31",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E31.svg"
+  }
+}

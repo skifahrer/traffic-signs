@@ -1,6 +1,7 @@
 {
   "en": "Pass on the left",
   "cs": "Přikázaný směr objíždění vlevo",
+  "da": "Påbudt passage mod venstre",
   "de": "Vorgeschriebene Vorbeifahrt – links vorbei",
   "de-AT": "Den zu benützenden Fahrstreifen: Links",
   "el": "Υποχρεωτική διέλευση μόνο από αριστερά της νησίδας",
@@ -11,5 +12,6 @@
   "fr": "Contournement obligatoire par la gauche",
   "hu": "Kikerülési irány (balra)",
   "pl": "nakaz jazdy z lewej strony znaku",
+  "pt": "Obrigação de contornar a placa ou obstáculo pela esquerda",
   "sk": "Prikázaný smer obchádzania (vľavo)"
 }

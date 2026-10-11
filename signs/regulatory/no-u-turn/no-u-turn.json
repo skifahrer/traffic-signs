@@ -1,6 +1,7 @@
 {
   "en": "No U-turn",
   "cs": "Zákaz otáčení",
+  "da": "U-vending forbudt",
   "de": "Verbot des Wendens",
   "de-AT": "Umkehren verboten",
   "el": "Απαγορεύεται η αναστροφή (πορεία προς την αντίθετη κατεύθυνση)",
@@ -11,6 +12,8 @@
   "fr": "Interdiction de faire demi-tour",
   "hu": "Megfordulni tilos",
   "pl": "zakaz zawracania",
+  "pt": "Proibição de inversão do sentido de marcha",
   "ro": "Întoarcerea interzisă",
-  "sk": "Zákaz otáčania"
+  "sk": "Zákaz otáčania",
+  "uk": "Розворот заборонено"
 }

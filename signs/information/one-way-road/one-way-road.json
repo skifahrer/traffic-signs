@@ -1,11 +1,14 @@
 {
   "en": "One-way road",
+  "da": "Ensrettet",
   "el": "Μονόδρομος",
   "en-AU": "One Way (forward)",
   "en-GB": "One-way traffic",
   "fi": "Yksisuuntainen tie",
   "fr": "Circulation à sens unique",
   "hu": "Egyirányú forgalmi út (1)",
+  "pt": "Trânsito de sentido único",
   "ro": "Sens unic",
-  "sk": "Jednosmerná cesta (priamo)"
+  "sk": "Jednosmerná cesta (priamo)",
+  "uk": "Дорога з одностороннім рухом"
 }

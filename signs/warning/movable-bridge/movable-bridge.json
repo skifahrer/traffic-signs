@@ -1,6 +1,7 @@
 {
   "en": "Movable bridge",
   "cs": "Pohyblivý most",
+  "da": "Oplukkelig bro",
   "de": "Bewegliche Brücke",
   "el": "Κινητή γέφυρα",
   "en-CA": "Opening bridge",
@@ -10,5 +11,7 @@
   "fr": "Pont mobile",
   "hu": "Nyitható híd",
   "pl": "ruchomy most",
-  "ro": "Pod mobil"
+  "pt": "Ponte móvel",
+  "ro": "Pod mobil",
+  "uk": "Розвідний міст"
 }

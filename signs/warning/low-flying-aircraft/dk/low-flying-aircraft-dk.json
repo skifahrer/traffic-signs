@@ -1,0 +1,11 @@
+{
+  "sign": "low-flying-aircraft",
+  "category": "warning",
+  "country": "dk",
+  "code": "A96",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A96.svg"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "en": "Bend (right)",
   "cs": "Zatáčka vpravo",
+  "da": "Skarpt højresving",
   "de": "Kurve – rechts",
   "de-AT": "Gefährliche Kurve (Rechtskurve)",
   "el": "Επικίνδυνη στροφή (δεξιά)",
@@ -12,6 +13,8 @@
   "fr": "Virage à droite",
   "hu": "Veszélyes útkanyarulat jobbra",
   "pl": "niebezpieczny zakręt w prawo",
+  "pt": "Curva à direita",
   "ro": "Curbă la dreapta",
-  "sk": "Zákruta (vpravo)"
+  "sk": "Zákruta (vpravo)",
+  "uk": "Небезпечний поворот праворуч"
 }

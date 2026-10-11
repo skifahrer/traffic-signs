@@ -1,6 +1,7 @@
 {
   "en": "Other danger",
   "cs": "Jiné nebezpečí",
+  "da": "Anden fare",
   "de": "Gefahrstelle",
   "de-AT": "Andere Gefahren",
   "el": "Άλλοι κίνδυνοι (μη δηλούμενοι στις πινακίδες Κ-1 έως Κ-24)",
@@ -9,6 +10,8 @@
   "fr": "Autres dangers",
   "hu": "Egyéb veszély",
   "pl": "inne niebezpieczeństwo",
+  "pt": "Outros perigos",
   "ro": "Alte pericole",
-  "sk": "Nebezpečenstvo"
+  "sk": "Nebezpečenstvo",
+  "uk": "Аварійно-небезпечна ділянка (інша небезпека)"
 }

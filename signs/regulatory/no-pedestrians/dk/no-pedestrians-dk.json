@@ -1,0 +1,11 @@
+{
+  "sign": "no-pedestrians",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C26.2",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C26.2.svg"
+  }
+}

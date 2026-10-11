@@ -1,6 +1,7 @@
 {
   "en": "No stopping",
   "cs": "Zákaz zastavení",
+  "da": "Parkering og standsning forbudt",
   "de": "Absolutes Haltverbot",
   "de-AT": "Halten und Parken verboten",
   "el": "Απαγορεύεται η στάση και η στάθμευση",
@@ -12,6 +13,8 @@
   "fr": "Arrêt et stationnement interdits",
   "hu": "Megállni tilos",
   "pl": "zakaz zatrzymywania się",
+  "pt": "Paragem e estacionamento proibidos",
   "ro": "Oprirea interzisă",
-  "sk": "Zákaz zastavenia"
+  "sk": "Zákaz zastavenia",
+  "uk": "Зупинку заборонено"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-countdown-markers",
+  "category": "warning",
+  "country": "dk",
+  "code": "A75",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A75.svg"
+  }
+}

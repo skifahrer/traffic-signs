@@ -1,11 +1,14 @@
 {
   "en": "Speed limit",
   "cs": "Nejvyšší dovolená rychlost",
+  "da": "Lokal hastighedsbegrænsning",
   "de-AT": "Geschwindigkeits beschränkung (erlaubte Höchstgeschwindigkeit) von … km/h",
   "en-CA": "Maximum speed limit",
   "en-US": "Speed limit",
   "fi": "Nopeusrajoitus",
   "fr": "Limitation de vitesse",
   "hu": "Sebességkorlátozás",
-  "ro": "Viteză maximă"
+  "pt": "Proibição de exceder a velocidade máxima de (40) km/h",
+  "ro": "Viteză maximă",
+  "uk": "Обмеження максимальної швидкості"
 }

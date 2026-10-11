@@ -1,6 +1,7 @@
 {
   "en": "End of motorway",
   "cs": "Konec dálnice",
+  "da": "Motorvej ophører",
   "de": "Ende der Autobahn",
   "de-AT": "Ende der Autobahn",
   "el": "Τέλος αυτοκινητόδρομου",
@@ -9,6 +10,8 @@
   "fr": "Fin d’une section d’autoroute",
   "hu": "Autópálya vége",
   "pl": "koniec autostrady",
+  "pt": "Fim de autoestrada",
   "ro": "Sfârșitul autostrăzii",
-  "sk": "Koniec diaľnice"
+  "sk": "Koniec diaľnice",
+  "uk": "Кінець автомагістралі"
 }

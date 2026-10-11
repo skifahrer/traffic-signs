@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-both-sides",
+  "category": "warning",
+  "country": "dk",
+  "code": "A43.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A43.1.svg"
+  }
+}

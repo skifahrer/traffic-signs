@@ -1,6 +1,7 @@
 {
   "en": "No overtaking",
   "cs": "Zákaz předjíždění",
+  "da": "Overhaling forbudt",
   "de": "Überholverbot für Kraftfahrzeuge aller Art",
   "de-AT": "Überholen von mehrspurigen KFZ verboten",
   "el": "Απαγορεύεται το προσπέρασμα",
@@ -11,6 +12,8 @@
   "fr": "Interdiction de dépasser",
   "hu": "Előzni tilos",
   "pl": "zakaz wyprzedzania",
+  "pt": "Proibição de ultrapassar",
   "ro": "Depășirea interzisă",
-  "sk": "Zákaz predchádzania"
+  "sk": "Zákaz predchádzania",
+  "uk": "Обгін заборонено"
 }

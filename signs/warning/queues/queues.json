@@ -1,6 +1,7 @@
 {
   "en": "Queues likely",
   "cs": "Kolona",
+  "da": "Risiko for kødannelse",
   "de": "Stau",
   "el": "Συχνή κυκλοφοριακή συμφόρηση",
   "en-GB": "Queues likely",
@@ -8,6 +9,8 @@
   "fr": "Bouchon",
   "hu": "Torlódás",
   "pl": "zator drogowy",
+  "pt": "Congestionamento",
   "ro": "Drum aglomerat",
-  "sk": "Kolóny"
+  "sk": "Kolóny",
+  "uk": "Затори в дорожньому русі"
 }

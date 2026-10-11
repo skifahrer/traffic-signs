@@ -1,0 +1,11 @@
+{
+  "sign": "traffic-signals",
+  "category": "warning",
+  "country": "dk",
+  "code": "A19",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A19.svg"
+  }
+}

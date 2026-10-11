@@ -1,5 +1,6 @@
 {
   "en": "No entry for mopeds",
+  "da": "Knallerter forbudt",
   "de": "Verbot für Mofas",
   "de-AT": "Fahrverbot für Motorfahrräder",
   "el": "Απαγορεύεται η είσοδος στα μοτοποδήλατα",
@@ -7,6 +8,8 @@
   "fr": "Accès interdit aux cyclomoteurs",
   "hu": "Segédmotoros kerékpárral behajtani tilos",
   "pl": "zakaz wjazdu motorowerów",
+  "pt": "Trânsito proibido a ciclomotores",
   "ro": "Circulație interzisă pentru ciclomotoare",
-  "sk": "Zákaz vjazdu pre (mopedy)"
+  "sk": "Zákaz vjazdu pre (mopedy)",
+  "uk": "Рух на мопедах заборонено"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "parking-panel-partial-pavement-perpendicular",
+  "category": "additional-panel",
+  "country": "pt",
+  "code": "M12e",
+  "source": {
+    "pipeline": "pt-wikipedia",
+    "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
+    "file": "Portugal road sign M12e.svg"
+  }
+}

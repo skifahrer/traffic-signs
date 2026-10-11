@@ -1,11 +1,14 @@
 {
   "en": "Roundabout",
   "cs": "Kruhový objezd",
+  "da": "Rundkørsel",
   "de": "Kreisverkehr",
   "el": "Κυκλική υποχρεωτική διαδρομή (πλατεία)",
   "fi": "Pakollinen kiertosuunta",
   "hu": "Körforgalom",
   "pl": "ruch okrężny ,,rondo’’",
+  "pt": "Rotunda",
   "ro": "Giratoriu",
-  "sk": "Kruhový objazd"
+  "sk": "Kruhový objazd",
+  "uk": "Круговий рух"
 }

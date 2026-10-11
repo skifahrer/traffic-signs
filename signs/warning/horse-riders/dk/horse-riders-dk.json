@@ -1,0 +1,11 @@
+{
+  "sign": "horse-riders",
+  "category": "warning",
+  "country": "dk",
+  "code": "A23",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A23.svg"
+  }
+}

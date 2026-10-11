@@ -1,6 +1,7 @@
 {
   "en": "Steep ascent",
   "cs": "Nebezpečné stoupání",
+  "da": "Stejl stigning",
   "de-AT": "Starke Steigung mit … %",
   "el": "Επικίνδυνη ανωφέρεια (ανηφόρα)",
   "en-AU": "Steep ascent",
@@ -8,5 +9,7 @@
   "fi": "Jyrkkä mäki",
   "hu": "Veszélyes emelkedő",
   "pl": "stromy podjazd",
-  "ro": "Drum în urcare periculoasă (Rampă)"
+  "pt": "Subida de inclinação acentuada",
+  "ro": "Drum în urcare periculoasă (Rampă)",
+  "uk": "Крутий підйом"
 }

@@ -1,6 +1,7 @@
 {
   "en": "No left turn",
   "cs": "Zákaz odbočování vlevo",
+  "da": "Venstresving forbudt",
   "de-AT": "Einbiegen nach links verboten",
   "el": "Απαγορεύεται η αριστερή στροφή",
   "en-AU": "No Left Turn (standard version; except New South Wales)",
@@ -11,6 +12,8 @@
   "fr": "Interdiction de tourner à gauche à la prochaine intersection",
   "hu": "Balra bekanyarodni tilos",
   "pl": "zakaz skręcania w lewo",
+  "pt": "Proibição de virar à esquerda",
   "ro": "Virajul la stânga interzis",
-  "sk": "Zákaz odbočenia (vľavo)"
+  "sk": "Zákaz odbočenia (vľavo)",
+  "uk": "Поворот ліворуч заборонено"
 }

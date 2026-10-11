@@ -1,0 +1,11 @@
+{
+  "sign": "two-way-traffic",
+  "category": "warning",
+  "country": "dk",
+  "code": "A18",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A18.svg"
+  }
+}

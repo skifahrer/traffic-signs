@@ -1,6 +1,7 @@
 {
   "en": "Loose gravel",
   "cs": "Odlétávající štěrk",
+  "da": "Løse sten",
   "de": "Splitt, Schotter",
   "el": "Εκτίναξη χαλικιών",
   "en-GB": "Loose chippings",
@@ -9,6 +10,8 @@
   "fr": "Projection de gravillons",
   "hu": "Kavicsfelverődés",
   "pl": "sypki żwir",
+  "pt": "Projeção de gravilha",
   "ro": "Împroșcare cu pietriș",
-  "sk": "Štrk na vozovke"
+  "sk": "Štrk na vozovke",
+  "uk": "Викидання кам'яних матеріалів"
 }

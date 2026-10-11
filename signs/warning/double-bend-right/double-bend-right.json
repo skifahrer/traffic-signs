@@ -1,6 +1,7 @@
 {
   "en": "Double bend (first to the right)",
   "cs": "Dvojitá zatáčka, první vpravo",
+  "da": "Flere sving, først til højre",
   "de": "Doppelkurve – zunächst rechts",
   "de-AT": "Gefährliche Kurven (Doppelkurve rechts beginnend)",
   "el": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη δεξιά",
@@ -11,6 +12,8 @@
   "fr": "Succession de virages, le premier à droite",
   "hu": "Egymás utáni veszélyes útkanyarulatok (az első jobbra)",
   "pl": "niebezpieczne zakręty — pierwszy w prawo",
+  "pt": "Curva à direita e contracurva",
   "ro": "Curbă dublă la dreapta",
-  "sk": "Dvojitá zákruta (prvá vpravo)"
+  "sk": "Dvojitá zákruta (prvá vpravo)",
+  "uk": "Декілька поворотів"
 }

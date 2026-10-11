@@ -1,6 +1,7 @@
 {
   "en": "Stop, give way",
   "cs": "Stůj, dej přednost v jízdě!",
+  "da": "Fuld stop",
   "de": "Halt. Vorfahrt gewähren",
   "de-AT": "Halt",
   "el": "Υποχρεωτική διακοπή πορείας (STOP)",
@@ -12,6 +13,8 @@
   "fr": "Stop",
   "hu": "Állj! Elsőbbségadás kötelező",
   "pl": "stop",
+  "pt": "Paragem obrigatória no cruzamento ou entroncamento (coloquialmente referido como \"sinal de stop\")",
   "ro": "STOP",
-  "sk": "Stoj, daj prednosť v jazde!"
+  "sk": "Stoj, daj prednosť v jazde!",
+  "uk": "Проїзд без зупинки заборонено"
 }

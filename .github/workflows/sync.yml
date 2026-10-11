@@ -21,14 +21,17 @@ on:
           - ca
           - cz
           - de
+          - dk
           - fi
           - fr
           - gb
           - gr
           - hu
           - pl
+          - pt
           - ro
           - sk
+          - ua
           - us
           - us-states
         default: all

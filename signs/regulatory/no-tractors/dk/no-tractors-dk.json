@@ -1,0 +1,11 @@
+{
+  "sign": "no-tractors",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C24.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C24.1.svg"
+  }
+}

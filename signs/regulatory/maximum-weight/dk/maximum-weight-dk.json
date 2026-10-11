@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-weight",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C31",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C31.svg"
+  }
+}

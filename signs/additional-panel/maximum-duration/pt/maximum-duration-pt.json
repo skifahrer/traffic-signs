@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-duration",
+  "category": "additional-panel",
+  "country": "pt",
+  "code": "M8a",
+  "source": {
+    "pipeline": "pt-wikipedia",
+    "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
+    "file": "Portugal road sign M8.svg"
+  }
+}

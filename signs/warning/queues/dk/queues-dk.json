@@ -1,0 +1,11 @@
+{
+  "sign": "queues",
+  "category": "warning",
+  "country": "dk",
+  "code": "A20",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A20.svg"
+  }
+}

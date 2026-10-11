@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-either-side",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "D16",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign D16.svg"
+  }
+}

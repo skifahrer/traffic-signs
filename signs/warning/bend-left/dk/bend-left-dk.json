@@ -1,0 +1,11 @@
+{
+  "sign": "bend-left",
+  "category": "warning",
+  "country": "dk",
+  "code": "A41.2",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A41.2.svg"
+  }
+}

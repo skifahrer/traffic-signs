@@ -1,0 +1,11 @@
+{
+  "sign": "trams",
+  "category": "warning",
+  "country": "dk",
+  "code": "A71",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A71.svg"
+  }
+}

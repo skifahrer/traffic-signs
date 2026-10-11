@@ -1,8 +1,11 @@
 {
   "en": "Minimum speed",
+  "da": "Mindste hastighed",
   "de-AT": "Vorgeschriebene Mindestgeschwindigkeit von … km/h",
   "el": "Υποχρεωτική ελάχιστη ταχύτητα (π.χ. 30 χλμ/ώρα)",
   "fi": "Vähimmäisnopeus",
   "hu": "Kötelező legkisebb sebesség",
-  "ro": "Viteză minimă"
+  "pt": "Obrigação de transitar à velocidade mínima de (30) km/h",
+  "ro": "Viteză minimă",
+  "uk": "Обмеження мінімальної швидкості"
 }

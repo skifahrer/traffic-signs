@@ -1,6 +1,7 @@
 {
   "en": "Low-flying aircraft",
   "cs": "Letadla",
+  "da": "Lavtgående fly",
   "de-AT": "Flugbetrieb",
   "el": "Κίνδυνος λόγω χαμηλής πτήσης αεροσκαφών",
   "en-AU": "Aircraft",
@@ -9,5 +10,7 @@
   "fr": "Traversée d’une aire de danger aérien",
   "hu": "Mélyrepülés",
   "pl": "lotnisko",
-  "ro": "Zonă aeroportuară"
+  "pt": "Pista de aviação",
+  "ro": "Zonă aeroportuară",
+  "uk": "Низьколетючі літаки"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles-or-animal-drawn-vehicles",
+  "category": "regulatory",
+  "country": "pt",
+  "code": "C4d",
+  "source": {
+    "pipeline": "pt-wikipedia",
+    "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
+    "file": "Portugal road sign C4d.svg"
+  }
+}

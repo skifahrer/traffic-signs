@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-recommended-speed",
+  "category": "information",
+  "country": "dk",
+  "code": "E40",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E40.svg"
+  }
+}

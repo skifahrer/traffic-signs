@@ -1,11 +1,14 @@
 {
   "en": "Maximum width",
   "cs": "Zákaz vjezdu vozidel, jejichž šířka přesahuje vyznačenou mez",
+  "da": "Maksimal vognbredde",
   "de-AT": "Fahrverbot für über … Meter breite Fahrzeuge",
   "el": "Απαγορεύεται η είσοδος σε οχήματα πλάτους μεγαλύτερου του αναγραφόμενου (π.χ. 2μ)",
   "en-GB": "Maximum width",
   "fi": "Ajoneuvon suurin sallittu leveys",
   "fr": "Accès interdit aux véhicules dont la largeur est supérieure au nombre indiqué",
   "hu": "Szélességkorlátozás",
-  "ro": "Lățimea maximă"
+  "pt": "Trânsito proibido a veículos de largura superior a (2) m",
+  "ro": "Lățimea maximă",
+  "uk": "Рух транспортних засобів, ширина яких перевищує… м, заборонено"
 }

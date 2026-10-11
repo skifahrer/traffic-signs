@@ -1,11 +1,14 @@
 {
   "en": "No entry for tractors",
   "cs": "Zákaz vjezdu traktorů",
+  "da": "Traktorer forbudt",
   "de": "Verbot für Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen",
   "el": "Απαγορεύεται η είσοδος στα αγροτικά μηχανήματα",
   "fi": "Traktorilla ajo kielletty",
   "fr": "Accès interdit aux véhicules agricoles à moteur",
   "hu": "Mezőgazdasági vontatóval behajtani tilos",
   "pl": "zakaz wjazdu ciągników rolniczych i pojazdów wolnobieżnych",
-  "ro": "Circulație interzisă utilajelor agricole"
+  "pt": "Trânsito proibido a veículos agrícolas",
+  "ro": "Circulație interzisă utilajelor agricole",
+  "uk": "Рух тракторів заборонено"
 }

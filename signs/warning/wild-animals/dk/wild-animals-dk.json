@@ -1,0 +1,11 @@
+{
+  "sign": "wild-animals",
+  "category": "warning",
+  "country": "dk",
+  "code": "A26",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A26.svg"
+  }
+}

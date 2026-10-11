@@ -1,6 +1,7 @@
 {
   "en": "Bend (left)",
   "cs": "Zatáčka vlevo",
+  "da": "Skarpt venstresving",
   "de": "Kurve – links",
   "de-AT": "Gefährliche Kurve (Linkskurve)",
   "el": "Επικίνδυνη στροφή (αριστερή)",
@@ -11,6 +12,8 @@
   "fr": "Virage à gauche",
   "hu": "Veszélyes útkanyarulat balra",
   "pl": "niebezpieczny zakręt w lewo",
+  "pt": "Curva à esquerda",
   "ro": "Curbă la stânga",
-  "sk": "Zákruta (vľavo)"
+  "sk": "Zákruta (vľavo)",
+  "uk": "Небезпечний поворот ліворуч"
 }

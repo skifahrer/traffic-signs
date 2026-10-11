@@ -1,0 +1,11 @@
+{
+  "sign": "priority-over-oncoming-traffic",
+  "category": "information",
+  "country": "dk",
+  "code": "B19",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign B19.svg"
+  }
+}

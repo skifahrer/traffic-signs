@@ -1,6 +1,7 @@
 {
   "en": "Dead end",
   "cs": "Slepá pozemní komunikace",
+  "da": "Blind vej",
   "de": "Sackgasse",
   "de-AT": "Sackgasse",
   "el": "Αδιέξοδο",
@@ -10,6 +11,8 @@
   "fr": "Impasse",
   "hu": "Zsákutca",
   "pl": "droga bez przejazdu",
+  "pt": "Via púbica sem saída",
   "ro": "Fundătură",
-  "sk": "Slepá cesta"
+  "sk": "Slepá cesta",
+  "uk": "Глухий кут"
 }

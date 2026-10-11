@@ -1,0 +1,11 @@
+{
+  "sign": "dangerous-verge",
+  "category": "warning",
+  "country": "dk",
+  "code": "A35",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A35.svg"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "en": "No entry for motorcycles",
   "cs": "Zákaz vjezdu motocyklů",
+  "da": "Motorcykler forbudt",
   "de": "Verbot für Krafträder",
   "de-AT": "Fahrverbot für Motorräder",
   "el": "Απαγορεύεται η είσοδος στις μοτοσυκλέτες",
@@ -10,6 +11,8 @@
   "fr": "Accès interdit aux motocyclettes et motocyclettes légères",
   "hu": "Motorkerékpárral behajtani tilos",
   "pl": "zakaz wjazdu motocykli",
+  "pt": "Trânsito proibido a automóveis pesados",
   "ro": "Circulație interzisă pentru motociclete",
-  "sk": "Zákaz vjazdu pre (motocykle)"
+  "sk": "Zákaz vjazdu pre (motocykle)",
+  "uk": "Рух мотоциклів заборонено"
 }

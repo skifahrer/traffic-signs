@@ -1,6 +1,7 @@
 {
   "en": "Cyclists",
   "cs": "Cyklisté",
+  "da": "Cyklister på kørebanen",
   "el": "Κίνδυνος λόγω συχνής εισόδου ή διάβασης ποδηλατιστών",
   "en-AU": "Cyclists",
   "en-GB": "Cyclists",
@@ -9,5 +10,7 @@
   "fr": "Débouché de cyclistes",
   "hu": "Kerékpárosok",
   "pl": "rowerzyści",
-  "ro": "Bicicliști"
+  "pt": "Saída de ciclistas",
+  "ro": "Bicicliști",
+  "uk": "Виїзд велосипедистів"
 }
