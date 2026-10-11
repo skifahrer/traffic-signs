@@ -186,7 +186,7 @@ F11,information,direction-board-overhead-b,Direction board above the lane (varia
 F12,information,direction-board-overhead-exit,Direction board above the road (at the exit),Ajokaistan yläpuolinen erkanemisviitta
 F13,information,direction-sign,Direction sign,Tienviitta
 F14,information,exit-direction-sign,Exit direction sign,Erkanemisviitta
-F15,information,direction-sign-for-detour,Direction sign for detour,Kiertotien viitta
+F15,information,direction-sign-detour,Direction sign (detour),Kiertotien viitta
 F16,information,address-direction-sign,Address direction sign,Osoiteviitta
 F17,information,address-direction-sign-advance,Address direction sign (advance),Osoiteviitan ennakkomerkki
 F18,information,direction-sign-showing-park-and-ride-facilities,Direction sign showing park-and-ride facilities,Liityntäpysäköintiviitta
@@ -241,7 +241,7 @@ G4,information,services-address-sign,Services address sign,Palvelukohteen osoite
 G5,information,services-address-sign-advance,Services address sign (advance),Palvelukohteen osoiteviitan ennakkomerkki
 G6,information,services-traffic-radio,Services (traffic information radio),Radioaseman taajuus
 G7,information,services-information-point,Services (information point),Opastuspiste
-G8,information,information-centre,Information centre,Opastustoimisto
+G8,information,services-information-centre,Services (information centre),Opastustoimisto
 G9,information,services-first-aid,Services (first aid),Ensiapu
 G10,information,services-breakdown-service,Services (breakdown service),Autokorjaamo
 G11.1,information,services-filling-station,Services (filling station),Polttoaineen jakelu
@@ -268,7 +268,7 @@ G28,information,other-tourist-attraction,Other tourist attraction,Muu nähtävyy
 G29,information,swimming-place,Swimming place,Uintipaikka
 G30,information,fishing-place,Fishing place,Kalastuspaikka
 G31,information,ski-lift,Ski lift,Hiihtohissi
-G32,information,cross-country-skiing-centre,Cross-country skiing centre,Maastohiihtokeskus
+G32,information,services-cross-country-skiing,Services (cross-country skiing),Maastohiihtokeskus
 G33,information,golf-course,Golf course,Golfkenttä
 G34,information,pleasure-or-theme-park,Pleasure or theme park,Huvi- ja teemapuisto
 G35,information,cottage-accommodation,Cottage accommodation,Mökkimajoitus

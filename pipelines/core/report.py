@@ -22,7 +22,7 @@ def _render_one(r: Result) -> str:
         "",
         f"- Signs on the page: {r.entries}",
         f"- Synced (have a translation): {r.synced}",
-        f"- New: {len(r.added)}, metadata changed: {len(r.changed)}, images downloaded: {len(r.images)}",
+        f"- New: {len(r.added)}, moved: {len(r.moved)}, metadata changed: {len(r.changed)}, images downloaded: {len(r.images)}",
         f"- No longer on the page: {len(r.removed)}" + (" (deleted)" if r.options.prune else " (archived)"),
         f"- Archived (valid until {r.options.year}): {len(r.archived)}",
         f"- Waiting for a translation: {len(r.untranslated)}",
@@ -43,6 +43,7 @@ def _render_one(r: Result) -> str:
     )
     section(f"{source.language_name} name changed, check the English translation", r.renamed)
     section("New signs", r.added)
+    section("Moved to another folder", r.moved)
     section("Changed metadata", r.changed)
     section("Images downloaded", r.images)
     section(f"Archived as valid until {r.options.year}", r.archived)

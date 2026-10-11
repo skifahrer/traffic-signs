@@ -293,7 +293,7 @@ code,category,slug,name_en,name_de
 316,regulatory,park-and-ride,Park and ride,Parken und Reisen
 316-50,regulatory,park-and-drive,Park and drive,Parken und Mitfahren
 317,regulatory,hikers-car-park,Car park for hikers,Wandererparkplatz
-318,regulatory,parking-disc,Parking disc,Parkscheibe
+318,regulatory,parking-with-disc,Parking with parking disc,Parkscheibe
 325.1,information,residential-zone,Residential zone,Beginn eines verkehrsberuhigten Bereichs
 325.2,information,end-of-residential-zone,End of residential zone,Ende eines verkehrsberuhigten Bereichs
 327,information,tunnel,Tunnel,Tunnel

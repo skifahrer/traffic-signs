@@ -1,0 +1,19 @@
+{
+  "sign": "pedestrian-subway",
+  "category": "information",
+  "country": "cz",
+  "code": "IP 3",
+  "image": {
+    "file": "pedestrian-subway-cz.svg",
+    "sha1": "0927b7950cd93a4db5923b50bef9bc6f293fea52",
+    "source": "https://commons.wikimedia.org/wiki/File:IP3-INFZN.svg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "IP3-INFZN.svg"
+  }
+}

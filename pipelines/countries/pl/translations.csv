@@ -178,7 +178,7 @@ D-31,information,services-campsite-with-electric-hookups,Services (campsite with
 D-32,information,services-tent-camp,Services (tent camp),pole biwakowe
 D-33,information,services-youth-hostel,Services (youth hostel),schronisko młodzieżowe
 D-34,information,services-information-centre,Services (information centre),punkt informacji turystycznej
-D-34a,information,traffic-radio,Traffic information radio,informacja radiowa o ruchu drogowym
+D-34a,information,services-traffic-radio,Services (traffic information radio),informacja radiowa o ruchu drogowym
 D-34b,information,services-information-board,Services (combined information board),zbiorcza tablica informacyjna
 D-35,information,pedestrian-subway,Pedestrian subway,przejście podziemne dla pieszych
 D-35a,information,escalator-down,Escalator down,schody ruchome w dół
@@ -219,10 +219,10 @@ E-2f,information,direction-board-overhead-to-motorway,Direction board above the 
 E-3,information,arrow-sign-with-road-number,Arrow direction sign with road number,drogowskaz w kształcie strzały do miejscowości wskazujący numer drogi
 E-4,information,arrow-sign-with-distance,Arrow direction sign with distance,drogowskaz w kształcie strzały do miejscowości podający do niej odległość
 E-5,information,arrow-sign-to-district,Arrow direction sign to a city district,drogowskaz do dzielnicy miasta
-E-6,information,direction-to-airport,Direction to the airport,drogowskaz do lotniska
-E-6a,information,direction-to-railway-station,Direction to the railway station,drogowskaz do dworca lub stacji kolejowej
+E-6,information,airport,Airport,drogowskaz do lotniska
+E-6a,information,railway-station,Railway station,drogowskaz do dworca lub stacji kolejowej
 E-6a (wariant),information,direction-to-railway-station-pkp,Direction to the railway station (variant with the PKP logo),drogowskaz do dworca lub stacji kolejowej (wariant)
-E-6b,information,direction-to-bus-station,Direction to the bus station,drogowskaz do dworca autobusowego
+E-6b,information,bus-station,Bus station,drogowskaz do dworca autobusowego
 E-6c,information,direction-to-ferry,Direction to the ferry,drogowskaz do przystani promowej
 E-7,information,direction-to-harbour,Direction to the harbour,drogowskaz do przystani wodnej lub żeglugi
 E-8,information,direction-to-beach,Direction to the beach,drogowskaz do plaży lub miejsca kąpielowego
@@ -233,8 +233,8 @@ E-12,information,direction-to-viewpoint,Direction to a viewpoint,drogowskaz do p
 E-12a,information,direction-to-cycle-route,Direction to a cycle route,drogowskaz do szlaku rowerowego
 E-13,information,destination-board,Destination board,tablica kierunkowa
 E-14,information,route-board,Route board,tablica szlaku drogowego
-E-15a,information,road-number-national,National road number,numer drogi krajowej
-E-15b,information,road-number-regional,Regional road number,numer drogi wojewódzkiej
+E-15a,information,national-road-number,National road number,numer drogi krajowej
+E-15b,information,regional-road-number,Road number (regional road),numer drogi wojewódzkiej
 E-15c,information,motorway-number,Motorway number,numer autostrady
 E-15d,information,expressway-number,Expressway number,numer drogi ekspresowej
 E-16,information,european-road-number-class-a-2-digit,"European road number (class A, 2-digit number)",numer szlaku międzynarodowego
@@ -242,7 +242,7 @@ E-17a,information,place-name-sign,Place name,miejscowość
 E-18a,information,end-of-place-name-sign,End of place name,koniec miejscowości
 E-19a,information,bypass,Bypass,obwodnica
 E-20,information,junction-board,Junction board,tablica węzła drogowego
-E-20a,information,junction-number,Junction number,numer węzła drogowego na autostradzie lub drodze ekspresowej
+E-20a,information,motorway-junction-number,Motorway junction number,numer węzła drogowego na autostradzie lub drodze ekspresowej
 E-21,information,district-name,District name,dzielnica (osiedle)
 E-22a,information,tourist-route,Tourist route,samochodowy szlak turystyczny
 E-22b,information,tourist-route-attraction,Attraction on a tourist route,obiekt na samochodowym szlaku turystycznym
@@ -257,7 +257,7 @@ F-6,information,advance-sign-junction,Advance sign before a junction,znak uprzed
 F-6a,information,advance-sign-junction-variant,Advance sign before a junction (variant),wariant znaku uprzedzającego
 F-7,information,route-for-prohibited-left-turn,Route for a prohibited left turn,sposób jazdy w związku z zakazem skręcania w lewo
 F-8,information,detour-announcement,Detour announcement,objazd w związku z zamknięciem drogi
-F-9,information,detour-route-sign,Detour route sign,znak prowadzący na drodze objazdowej
+F-9,information,detour-route,Detour route,znak prowadzący na drodze objazdowej
 F-10,information,lane-directions,Directions of the lanes,kierunki na pasach ruchu
 F-11,information,lane-direction,Direction of the lane,kierunki na pasie ruchu
 F-12,information,transit-route-advance,Transit route ahead,znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem

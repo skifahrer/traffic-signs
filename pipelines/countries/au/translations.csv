@@ -22,7 +22,7 @@ R2-11,warning,two-way-traffic-ahead-regulatory,Two-way Traffic,Two-way Traffic
 R2-14-L,regulatory,turn-left,Turn left,Turn Left
 R2-14-R,regulatory,turn-right,Turn right,Turn Right
 R2-15,regulatory,u-turn-permitted,U-turn Permitted,U-turn Permitted
-R2-17,regulatory,one-way-forward,One Way (forward),One Way (forward)
+R2-17,information,one-way-road,One-way road,One Way (forward)
 R2-19,regulatory,left-lane-must-exit,Left lane must exit,Left Lane Must Exit
 R2-20,regulatory,left-turn-on-red-permitted-after-stopping,Left Turn on Red Permitted after Stopping,Left Turn on Red Permitted after Stopping
 R2-22,regulatory,no-hook-turn-by-bicycles,No hook turn by Bicycles,No hook turn by Bicycles
@@ -62,7 +62,7 @@ R4-11 (60),regulatory,end-of-speed-limit-zone-60,End of 60 km/h Speed Limit Zone
 R4-235N,information,school-zone,School zone,"School Zone (Non-standard school operating hours, used in New South Wales)"
 R4-235-1N,regulatory,school-zone-r4-235-1n,"School Zone (Non-standard school operating hours, used in New South Wales)","School Zone (Non-standard school operating hours, used in New South Wales)"
 R5-20,regulatory,bus-zone,Bus Zone,Bus Zone
-R5-21,regulatory,taxi-zone,Taxi Zone,Taxi Zone
+R5-21,regulatory,taxi-rank-zone,Taxi rank zone,Taxi Zone
 R5-23,regulatory,loading-bay,Loading bay,Loading Zone
 R5-24,regulatory,truck-zone,Truck Zone,Truck Zone
 R5-25,regulatory,works-zone,Works Zone,Works Zone
@@ -77,13 +77,13 @@ R5-63-5,regulatory,end-of-2-hour-parking-area,End of 2 Hour Parking Area,End of 
 R5-64,regulatory,area-parking-control-ahead,Area Parking Control Ahead,Area Parking Control Ahead
 R5-65,regulatory,park-in-bays-only,Park in Bays Only,Park in Bays Only
 R5-73,regulatory,end-of-no-stopping-area,End of No Stopping Area,End of No Stopping Area
-R5-83,regulatory,end-of-no-parking-area,End of No Parking Area,End of No Parking Area
+R5-83,regulatory,end-of-no-parking-zone,End of no parking zone,End of No Parking Area
 R6-1,regulatory,no-overtaking,No overtaking,No Overtaking or Passing (used at bottlenecks)
 R6-2,regulatory,no-overtaking-on-bridge,No Overtaking on Bridge,No Overtaking on Bridge
 R6-3,regulatory,bridge-load-limit,Bridge Load Limit,Bridge Load Limit
 R6-4,regulatory,maximum-weight,Maximum weight,Gross Load Limit
 R6-5,regulatory,end-load-limit,End Load Limit,End Load Limit
-R6-6,regulatory,stop-here-on-red-signal,Stop Here on Red Signal,Stop Here on Red Signal
+R6-6,regulatory,stop-here-on-red,Stop here on red,Stop Here on Red Signal
 R6-7,regulatory,hand-held-stop-sign-for-children-crossings,Hand Held Stop Sign (for children crossings),Hand Held Stop Sign (for children crossings)
 R6-8,regulatory,hand-held-stop-sign-for-roadworks,Hand Held Stop Sign (for roadworks),Hand Held Stop Sign (for roadworks)
 R6-10-1,regulatory,no-buses,No entry for buses and trolleybuses,No Buses
@@ -154,8 +154,8 @@ W1-4-L,warning,double-bend-left,Double bend (first to the left),Double curve fir
 W1-4-R,warning,double-bend-right,Double bend (first to the right),Double curve first to right
 W1-5-L,warning,winding-road-left,Winding road (left),Winding road first to left
 W1-5-R,warning,winding-road-right,Winding road (right),Winding road first to right
-W1-7-L,warning,hairpin-curve-to-left,Hairpin curve to left,Hairpin curve to left
-W1-7-R,warning,hairpin-curve-to-right,Hairpin curve to right,Hairpin curve to right
+W1-7-L,warning,hairpin-curve-left,Hairpin curve (left),Hairpin curve to left
+W1-7-R,warning,hairpin-curve-right,Hairpin curve (right),Hairpin curve to right
 W1-8-L,warning,tilting-truck-left,Tilting Truck (left),Tilting Truck (left)
 W1-8-R,warning,tilting-truck-right,Tilting Truck (right),Tilting Truck (right)
 W1-9-1,warning,exit-advisory-speed,Exit advisory speed,Exit advisory speed
@@ -187,8 +187,8 @@ W2-13-L,warning,double-side-road-intersections-from-left,Double side road inters
 W2-13-R,warning,double-side-road-intersections-from-right,Double side road intersections from right,Double side road intersections from right
 W2-14-L,warning,t-junction-beyond-a-curve-to-left,T-junction beyond a curve to left,T-junction beyond a curve to left
 W2-14-R,warning,t-junction-beyond-a-curve-to-right,T-junction beyond a curve to right,T-junction beyond a curve to right
-W2-15-L,warning,crossroad-intersection-on-a-curve-to-left,Crossroad intersection on a curve to left,Crossroad intersection on a curve to left
-W2-15-R,warning,crossroad-intersection-on-a-curve-to-right,Crossroad intersection on a curve to right,Crossroad intersection on a curve to right
+W2-15-L,warning,curve-with-crossroad-left,Curve with crossroad (left),Crossroad intersection on a curve to left
+W2-15-R,warning,curve-with-crossroad-right,Curve with crossroad (right),Crossroad intersection on a curve to right
 W2-16-L,warning,side-road-intersection-entering-straight-ahead-on-a-curve-to,"Side road intersection, entering straight ahead on a curve to left","Side road intersection, entering straight ahead on a curve to left"
 W2-16-R,warning,side-road-intersection-entering-straight-ahead-on-a-curve-to-w2-16-r,"Side road intersection, entering straight ahead on a curve to right","Side road intersection, entering straight ahead on a curve to right"
 W3-1,warning,stop-ahead,Stop ahead,Stop Sign ahead
@@ -205,13 +205,13 @@ W4-11,warning,two-way-traffic,Two-way traffic,Two-way Traffic ahead
 W5-12,warning,steep-descent,Steep descent,Steep Descent
 W5-13,warning,steep-ascent,Steep ascent,Steep ascent
 W5-20,warning,slippery-road,Slippery road,Slippery Road when wet
-W5-22,warning,trucks-crossing-or-entering,Trucks Crossing or Entering,Trucks Crossing or Entering
+W5-22,warning,truck-crossing,Truck crossing,Trucks Crossing or Entering
 W5-25N,warning,turning-traffic,Turning Traffic,Turning Traffic
 W5-30,warning,low-flying-aircraft,Low-flying aircraft,Aircraft
 W5-31,warning,safety-ramp-crossing,Safety Ramp Crossing,Safety Ramp Crossing
 W5-33,warning,slow-point,Slow Point,Slow Point
-W5-34-L,warning,merging-traffic-left,Merging Traffic (left),Merging Traffic (left)
-W5-34-R,warning,merging-traffic-right,Merging Traffic (right),Merging Traffic (right)
+W5-34-L,warning,merging-traffic-from-left,Traffic merging from the left,Merging Traffic (left)
+W5-34-R,warning,merging-traffic-from-right,Traffic merging from the right,Merging Traffic (right)
 W5-35-L,warning,added-lane-left,Added Lane (left),Added Lane (left)
 W5-35-R,warning,added-lane-right,Added Lane (right),Added Lane (right)
 W5-36,warning,fire-station,Fire station ahead (stop when lights show),Fire Station

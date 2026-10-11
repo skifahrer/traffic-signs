@@ -193,7 +193,7 @@ E-044,information,end-of-residential-zone,End of residential zone,Lakó-pihenő 
 E-045,information,services-hospital,Services (hospital),Kórház
 E-046,regulatory,parking,Parking,Várakozóhely
 E-047,information,parking-distance,Parking distance,Várakozóhely előjelzése
-E-048,information,parking-for-trucks,Parking for trucks,Várakozóhely (időleges)
+E-048,information,truck-parking,Truck parking,Várakozóhely (időleges)
 E-049,regulatory,parking-garage,Parking (car park building),Parkolóház
 E-050,information,roadside-cycle-path-begins,Roadside cycle path begins,Út melletti kerékpárút kezdete
 E-051,information,bicycle-path-next-to-the-road,Bicycle path next to the road,Út melletti kerékpárút
@@ -251,7 +251,7 @@ G-307,information,pedestrian-underpass-with-ramp,Pedestrian underpass (with ramp
 G-308,information,pedestrian-overpass-with-ramp,Pedestrian overpass (with ramp),Gyalogos felüljáró (rámpával)
 G-312,information,dead-end-on-side-street,Dead end on side street,Zsákutca előjelzése (1)
 G-313,information,dead-end-on-side-street-g-313,Dead end on side street,Zsákutca előjelzése (2)
-G-351,information,motorway-exit,Motorway exit,Autópálya-kijárat
+G-351,information,exit-motorway,Exit (motorway),Autópálya-kijárat
 G-401,information,national-speed-limits,National speed limits (at the border),Általános sebességkorlátozás
 G-653,information,distance-till-cities-with-special-signs-for-border-crossings,Distance till cities (with special signs for border crossings or separate countries),Határátkelőhelyhez vezető út útvonal-megerősítő jelzése
 H-001,additional-panel,curved-main-road-90-left,Curved main road (90° left),Főútvonal vonalvezetése (1)
@@ -287,7 +287,7 @@ H-030,additional-panel,loose-shoulder-ditch,Loose shoulder / ditch,Veszélyes pa
 H-031,additional-panel,tracked-road-section,Tracked road section,Nyomvályús útszakasz
 H-032,additional-panel,multiplication,Multiplication,Többszöröződés
 H-033,additional-panel,traffic-order-change,Traffic order change,Forgalmi rend változás
-H-034,additional-panel,risk-of-accident,Risk of accident,Balesetveszély
+H-034,additional-panel,accident-risk,Accident risk,Balesetveszély
 H-035,additional-panel,arrow-pointing-to-a-traffic-lane,Arrow pointing to a traffic lane,Forgalmi sávra mutató nyíl
 H-036,additional-panel,traffic-calming-central-island,Traffic calming central island,Forgalomcsillapító középsziget
 H-037,additional-panel,vertical-alignment,Vertical alignment,Merőleges felállás
@@ -301,7 +301,7 @@ H-044,additional-panel,parking-crosswise-on-the-sidewalk-in-full-formation-right
 H-045,additional-panel,parking-crosswise-on-the-sidewalk-half-standing-left,"Parking crosswise on the sidewalk, half standing (left)","Járdán várakozás keresztben, félig felállással (bal)"
 H-046,additional-panel,parking-crosswise-on-the-sidewalk-half-standing-right,"Parking crosswise on the sidewalk, half standing (right)","Járdán várakozás keresztben, félig felállással (jobb)"
 H-047,additional-panel,number-of-taxis,… taxis,Taxik száma
-H-048,additional-panel,offending-vehicle-will-be-towed,Offending vehicle will be towed,Elszállítás
+H-048,additional-panel,vehicles-will-be-towed,Vehicles will be towed away,Elszállítás
 H-049,additional-panel,for-disabled-people,For disabled people,Mozgáskorlátozottak részére
 H-050,additional-panel,parking-meter,Parking meter,Parkolóóra
 H-051,additional-panel,place-clock-in-dashboard-in-case-you-can-only-park-for-one,Place clock in dashboard (in case you can only park for one hour),Parkolótárcsa
@@ -338,14 +338,14 @@ H-081,additional-panel,except-for-public-transport-company,Except for [public tr
 H-082,additional-panel,except-police,Except police,Kivéve rendőrség
 H-083,additional-panel,except-with-permission,Except with permission,Kivéve engedéllyel
 H-084,additional-panel,except-for-passenger-vehicles,Except for passenger vehicles,Kivéve személygépkocsi
-H-085,additional-panel,except-for-trucks,Except for trucks,Kivéve tehergépkocsi
-H-086,additional-panel,except-for-buses,Except for buses,Kivéve autóbusz
+H-085,additional-panel,except-goods-vehicles,Except goods vehicles,Kivéve tehergépkocsi
+H-086,additional-panel,except-buses,Except buses,Kivéve autóbusz
 H-087,additional-panel,except-for-motorcycles,Except for motorcycles,Kivéve motorkerékpár
-H-088,additional-panel,except-for-mopeds,Except for mopeds,Kivéve segédmotoros kerékpár
-H-089,additional-panel,except-for-bicycles,Except for bicycles,Kivéve kerékpár
+H-088,additional-panel,except-mopeds,Except mopeds,Kivéve segédmotoros kerékpár
+H-089,additional-panel,except-bicycles,Except bicycles,Kivéve kerékpár
 H-090,additional-panel,except-for-agricultural-vehicles,Except for agricultural vehicles,Kivéve mezőgazdasági vontató
-H-091,additional-panel,except-for-trams-tramway,Except for trams (tramway),Kivéve villamos
-H-092,additional-panel,except-for-trucks-with-trailers,Except for trucks with trailers,Kivéve pótkocsis tehergépkocsi
+H-091,additional-panel,except-trams,Except trams,Kivéve villamos
+H-092,additional-panel,except-goods-vehicles-with-trailers,Except goods vehicles with trailers,Kivéve pótkocsis tehergépkocsi
 H-093,additional-panel,except-for-personal-vehicles-with-trailers,Except for personal vehicles with trailers,Kivéve utánfutós személygépkocsi
 H-094,additional-panel,except-for-semi-trailer-trucks,Except for semi-trailer trucks,Kivéve nyerges vontató
 H-095,additional-panel,except-for-cars-with-caravans,Except for cars with caravans,Kivéve lakókocsis személygépkocsi

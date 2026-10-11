@@ -1,0 +1,19 @@
+{
+  "sign": "narrow-bridge",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-24",
+  "image": {
+    "file": "narrow-bridge-ca.svg",
+    "sha1": "78b714cf94cefa103eafec0e2b68decd77fd77dc",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wa-24.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "Ontario Wa-24.svg"
+  }
+}

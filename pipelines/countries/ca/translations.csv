@@ -40,7 +40,7 @@ WA-19,warning,railway-crossing-on-side-road-ahead,Railway crossing on side road 
 WA-20,warning,railway-crossing-on-side-road-ahead-wa-20,Railway crossing on side road ahead,Railway crossing on side road ahead
 WA-21,warning,steep-descent,Steep descent,Steep descent
 WA-23,warning,road-narrows-both-sides,Road narrows (from both sides),Road narrows ahead
-WA-24,warning,narrow-bridge-ahead,Narrow bridge ahead,Narrow bridge ahead
+WA-24,warning,narrow-bridge,Narrow bridge,Narrow bridge ahead
 WA-26,warning,low-bridge-ahead,Low headroom ahead,Height restriction ahead
 WA-27,warning,height-restriction-marker,Height restriction marker,Height restriction marker
 WA-31,warning,divided-highway-begins,Divided highway begins,Divided highway begins

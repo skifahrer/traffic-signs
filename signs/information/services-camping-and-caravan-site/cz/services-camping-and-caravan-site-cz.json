@@ -1,0 +1,19 @@
+{
+  "sign": "services-camping-and-caravan-site",
+  "category": "information",
+  "country": "cz",
+  "code": "IJ 14c",
+  "image": {
+    "file": "services-camping-and-caravan-site-cz.jpg",
+    "sha1": "06aaa7327ecbcbe75bdc6c9024b710f9307501f5",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ14ccr.jpg",
+    "author": "Frisky007",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "source": {
+    "pipeline": "cz-wikipedia",
+    "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
+    "file": "IJ14ccr.jpg"
+  }
+}
