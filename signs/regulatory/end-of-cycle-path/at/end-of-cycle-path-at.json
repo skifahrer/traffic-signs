@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z16a",
+  "image": {
+    "file": "end-of-cycle-path-at.svg",
+    "sha1": "a0b0b4e9004fd43143791ba87ede3dd8f05a71b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_16a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z8b",
+  "image": {
+    "file": "no-mopeds-at.svg",
+    "sha1": "d1ae4502426760220571894fbabb68cb0def43f2",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_8b.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

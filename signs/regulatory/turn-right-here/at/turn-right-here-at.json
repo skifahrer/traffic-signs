@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z15 (rechts abb)",
+  "image": {
+    "file": "turn-right-here-at.svg",
+    "sha1": "6aa64036c0bbfac539bdde8eb701ccef5991a37c",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_15_rechts_abb.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

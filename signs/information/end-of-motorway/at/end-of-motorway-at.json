@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z8b",
+  "image": {
+    "file": "end-of-motorway-at.svg",
+    "sha1": "2e91bb7a3ce5c7da37b92b09e1d1936206029447",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_8b.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

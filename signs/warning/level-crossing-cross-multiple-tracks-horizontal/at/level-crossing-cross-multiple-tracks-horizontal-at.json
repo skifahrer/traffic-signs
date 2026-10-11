@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z6d (doppelt liegend)",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-horizontal-at.svg",
+    "sha1": "c49e2180b0b0fca538c1dd5415328c6ec2a6e4c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_6d_doppelt_liegend.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

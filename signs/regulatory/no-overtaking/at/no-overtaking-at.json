@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z4a",
+  "image": {
+    "file": "no-overtaking-at.svg",
+    "sha1": "648cd98b95bf4731ce3071226a2581aac308bfba",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_4a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

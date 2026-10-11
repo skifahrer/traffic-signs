@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z15a-d",
+  "image": {
+    "file": "advance-direction-sign-motorway-d-at.svg",
+    "sha1": "2cfcdbed24716d712e1a37590b2b642e7ec4a5fe",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_15a-d.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

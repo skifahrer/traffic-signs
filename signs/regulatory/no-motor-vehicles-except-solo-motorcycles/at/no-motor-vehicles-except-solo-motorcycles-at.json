@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z6a",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-at.svg",
+    "sha1": "7847ad516742f1c019c79a42b2bd40a18ccf8624",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_6a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z9d",
+  "image": {
+    "file": "end-of-residential-zone-at.svg",
+    "sha1": "9355fc39f9c1a6c8e1bccfed0305ab1a1bc954bb",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_9d.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

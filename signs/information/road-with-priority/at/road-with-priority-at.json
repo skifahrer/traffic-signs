@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z19",
+  "image": {
+    "file": "road-with-priority-at.svg",
+    "sha1": "380429e366d021cf1ef06c4729520d0db8531cae",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_19.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

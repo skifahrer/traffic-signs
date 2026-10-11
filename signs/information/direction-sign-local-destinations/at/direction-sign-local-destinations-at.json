@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z13d",
+  "image": {
+    "file": "direction-sign-local-destinations-at.svg",
+    "sha1": "ea291ba087b97e2acbf9d69a900dd28d0cf003f2",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_13d_links_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z3b",
+  "image": {
+    "file": "no-right-turn-at.svg",
+    "sha1": "e1e2e5020c6b7ad90118320ca87660f2a38b4da5",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_3b.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

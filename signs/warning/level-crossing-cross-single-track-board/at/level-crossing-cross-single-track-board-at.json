@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z6d (Tafel)",
+  "image": {
+    "file": "level-crossing-cross-single-track-board-at.svg",
+    "sha1": "ca91ae1be59d073a867b4187161cfe8405910c80",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_6d_Tafel.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

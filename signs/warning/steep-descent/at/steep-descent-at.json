@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z7",
+  "image": {
+    "file": "steep-descent-at.svg",
+    "sha1": "7f66965f4fe8676e9e09143562bab45b62f05127",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_7_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

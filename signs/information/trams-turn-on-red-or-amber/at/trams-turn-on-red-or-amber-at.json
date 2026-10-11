@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z10a",
+  "image": {
+    "file": "trams-turn-on-red-or-amber-at.svg",
+    "sha1": "bd2588ad23f30a83497dcdc5ff63d5fcae9d68ba",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_10a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

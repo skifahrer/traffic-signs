@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "at",
   "code": "§54 g",
+  "image": {
+    "file": "when-wet-at.svg",
+    "sha1": "cd21c7de4ad159ffce558ded2a504c7bd508cc50",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatztafel_g.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

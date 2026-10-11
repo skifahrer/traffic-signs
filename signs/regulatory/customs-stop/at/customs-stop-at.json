@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z12",
+  "image": {
+    "file": "customs-stop-at.svg",
+    "sha1": "f5a3447d2b3a9c5c43024c2681b1b7a2edf29bc6",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_12_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

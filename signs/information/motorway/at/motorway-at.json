@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z8a",
+  "image": {
+    "file": "motorway-at.svg",
+    "sha1": "f38d20012af874b9ad1e78e4e87a98effb510894",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_8a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

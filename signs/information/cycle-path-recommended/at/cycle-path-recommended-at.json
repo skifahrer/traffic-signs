@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z27",
+  "image": {
+    "file": "cycle-path-recommended-at.svg",
+    "sha1": "6d694cd5de7bd89f38f9b54f9e2b8ac3cbb5f240",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_27.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

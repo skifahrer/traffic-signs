@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z2",
+  "image": {
+    "file": "services-hospital-at.svg",
+    "sha1": "42ce76601c42bebf9ac2ed4ade858934c81df6b5",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_2_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

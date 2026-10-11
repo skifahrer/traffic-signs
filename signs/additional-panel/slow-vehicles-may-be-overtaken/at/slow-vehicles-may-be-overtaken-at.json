@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "at",
   "code": "§54 i",
+  "image": {
+    "file": "slow-vehicles-may-be-overtaken-at.svg",
+    "sha1": "ecfd4cf0f19da7ca857982febdff7905369f555a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatztafel_i.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

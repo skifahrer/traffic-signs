@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z8c",
+  "image": {
+    "file": "expressway-at.svg",
+    "sha1": "ae7bd5ba35febb1e6c19fd9e0f8ed8384750c0ce",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_8c.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

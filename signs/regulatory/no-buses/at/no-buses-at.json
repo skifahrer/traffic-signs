@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z7f",
+  "image": {
+    "file": "no-buses-at.svg",
+    "sha1": "ff19cbdf885cfdd96b53e15a8ca20668cdef31c2",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_7f.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

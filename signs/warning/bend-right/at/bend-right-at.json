@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z2a",
+  "image": {
+    "file": "bend-right-at.svg",
+    "sha1": "20cfb12494e332ea4e09da8e24c8b833666c97e1",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_2a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z14a",
+  "image": {
+    "file": "advance-direction-sign-to-motorway-at.svg",
+    "sha1": "ea5f1530aa7ef1104f3b6bd368264bf5ebd787ba",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_14a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

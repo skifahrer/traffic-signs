@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z3c",
+  "image": {
+    "file": "no-u-turn-at.svg",
+    "sha1": "6cdb489b113ccc4e64b3e7707cdcb35d42abb587",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_3c.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

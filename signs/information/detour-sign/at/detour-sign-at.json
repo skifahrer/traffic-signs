@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z16b",
+  "image": {
+    "file": "detour-sign-at.svg",
+    "sha1": "ef03b6cc0c1bec152579626662c0f0b6727ca42b",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_16b_geradeaus.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

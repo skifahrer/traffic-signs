@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z7a",
+  "image": {
+    "file": "no-goods-vehicles-at.svg",
+    "sha1": "10c30b5d3757ee37a7f0658f0fa2adf8357fd4b1",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_7a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

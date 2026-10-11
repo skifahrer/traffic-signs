@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z2a",
+  "image": {
+    "file": "pedestrian-crossing-at.svg",
+    "sha1": "d03bdf68d9d1df8b83726d61524ff8028a7322f4",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_2a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

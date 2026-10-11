@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z11a",
+  "image": {
+    "file": "cycle-crossing-ahead-at.svg",
+    "sha1": "fcbaa48e4845b13e6dd6390fd2904c29bda77dc0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_11a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

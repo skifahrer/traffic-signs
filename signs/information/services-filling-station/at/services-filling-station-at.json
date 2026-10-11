@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z6",
+  "image": {
+    "file": "services-filling-station-at.svg",
+    "sha1": "e9bf5fd77d65679af3996227a71c17cb4b129e86",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_6.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

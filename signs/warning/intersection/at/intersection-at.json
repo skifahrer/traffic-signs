@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z3",
+  "image": {
+    "file": "intersection-at.svg",
+    "sha1": "ba5a30358cdbee4dbe10b5e372b5daf05de2b99d",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_3.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

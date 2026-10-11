@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z1",
+  "image": {
+    "file": "uneven-road-at.svg",
+    "sha1": "57a32cb78802d8e371a87ba28af66f321b2f90f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_1.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

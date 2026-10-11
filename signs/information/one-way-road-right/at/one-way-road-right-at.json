@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z10 (rechts)",
+  "image": {
+    "file": "one-way-road-right-at.svg",
+    "sha1": "db18d0816e88eaa6d55331b393172d4b4fccba1a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_10_rechts_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z15b-b (quer)",
+  "image": {
+    "file": "exit-direction-sign-motorway-landscape-at.svg",
+    "sha1": "31f472db6729780ddb00a8891d67c3ab65d26cb0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_15b-b_quer.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

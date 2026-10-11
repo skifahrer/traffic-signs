@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z19a",
+  "image": {
+    "file": "end-of-minimum-speed-at.svg",
+    "sha1": "149e8faeffdfc8bcb9f60f6b3680858ad8737d75",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_19a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

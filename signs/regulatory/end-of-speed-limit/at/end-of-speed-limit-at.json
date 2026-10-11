@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z10b",
+  "image": {
+    "file": "end-of-speed-limit-at.svg",
+    "sha1": "0a0a30087af11030ea10ce3dd23cfb3a1621ace2",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_10b_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

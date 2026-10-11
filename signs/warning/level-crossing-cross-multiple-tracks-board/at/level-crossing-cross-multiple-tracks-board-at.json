@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z6d (doppelt Tafel)",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-board-at.svg",
+    "sha1": "3d760af67a9fc7b8c6b5d698c46fe8eeb9804071",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_6d_doppelt_Tafel.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

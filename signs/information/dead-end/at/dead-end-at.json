@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z11",
+  "image": {
+    "file": "dead-end-at.svg",
+    "sha1": "bfa715a98b16ea192f5d2ede51f97935faf31214",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_11_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

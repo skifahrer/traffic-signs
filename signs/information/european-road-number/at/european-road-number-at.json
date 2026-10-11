@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z18",
+  "image": {
+    "file": "european-road-number-at.svg",
+    "sha1": "241275bc2aa46f212eb66bd0b1fe60db6d2a3aba",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_18.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

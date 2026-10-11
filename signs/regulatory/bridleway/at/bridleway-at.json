@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z17b",
+  "image": {
+    "file": "bridleway-at.svg",
+    "sha1": "36a507a445a8b2ab99f8e10049aaf9746a9118ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_17b.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

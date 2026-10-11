@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z13a (groß)",
+  "image": {
+    "file": "advance-direction-sign-at.svg",
+    "sha1": "bb9f92c88d2cc73ba772aac7cf290d8655d67929",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_13a_gro%C3%9F_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

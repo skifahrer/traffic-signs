@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z9a",
+  "image": {
+    "file": "maximum-width-at.svg",
+    "sha1": "5b8ef8b8ca88a2bde23df3a4bb1b1e3d7976af23",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_9a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

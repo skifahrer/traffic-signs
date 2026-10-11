@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z23",
+  "image": {
+    "file": "lane-directions-at.svg",
+    "sha1": "f02c0eab72edd5e357c9d4fac09eb545dd40dcd1",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_23.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

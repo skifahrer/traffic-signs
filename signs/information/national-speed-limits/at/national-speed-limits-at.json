@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z22",
+  "image": {
+    "file": "national-speed-limits-at.svg",
+    "sha1": "5770b3eb69b10a664e6dfec16a1d4a0f20769ca4",
+    "source": "https://commons.wikimedia.org/wiki/File:Allgemeine_Geschwindigkeitsbeschr%C3%A4nkung_%C3%96sterreich_%C2%A753-22.svg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
