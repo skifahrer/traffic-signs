@@ -300,11 +300,6 @@ main {
   border-style: dashed;
 }
 
-/* Countries without the sign, in one line: only on phones (see below). */
-.absent-list {
-  display: none;
-}
-
 /* Country code inside each cell; only shown on phones, where there is no header row. */
 .cell .country {
   display: none;
@@ -503,7 +498,7 @@ footer {
   font-size: 0.85rem;
 }
 
-/* Phones: each sign is a card, name on top and the countries that have it wrapping below. */
+/* Phones: each sign is a card, name on top and the countries wrapping below. */
 @media (max-width: 640px) {
   .top {
     padding: 0.5rem 0.75rem 0.25rem;
@@ -564,15 +559,19 @@ footer {
     display: block;
   }
 
-  .cell.absent {
-    display: none;
+  /* A country without the sign keeps its place as an empty slot, so every
+     country sits in the same spot on every card. */
+  .cell.absent .gap {
+    display: block;
+    width: 3.5rem;
+    height: 3.5rem;
+    border: 1px dashed var(--line);
+    border-radius: 8px;
+    color: transparent;
   }
 
-  .absent-list {
-    display: block;
-    grid-column: 1 / -1;
-    margin: 0;
-    font-size: 0.75rem;
+  .cell.absent .country {
+    opacity: 0.5;
   }
 
   /* Detail: full screen, close button always in reach, two countries per row. */

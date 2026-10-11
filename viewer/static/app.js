@@ -75,7 +75,12 @@ function cell(sign, country) {
   if (!entry) {
     const variants = variantsIn(sign, country);
     if (variants.length) return variantCell(variants, country, label);
-    return el("div", { class: "cell absent", title: `Not in ${countryName(country)}` }, label, el("span", { "aria-label": `Not in ${countryName(country)}` }, "—"));
+    return el(
+      "div",
+      { class: "cell absent", title: `Not in ${countryName(country)}` },
+      label,
+      el("span", { class: "gap", "aria-label": `Not in ${countryName(country)}` }, "—"),
+    );
   }
   const local = localName(sign, country);
   return el(
@@ -159,15 +164,11 @@ function groupFor(category) {
 }
 
 function row(sign) {
-  const cells = view.columns.map((c) => cell(sign, c));
-  // Phones hide the empty cells and list those countries in one line instead.
-  const absent = view.columns.filter((c, i) => cells[i].classList.contains("absent"));
   return el(
     "a",
     { class: "row", href: `#${sign.category}/${sign.sign}`, role: "row" },
     el("div", { class: "name" }, el("strong", {}, englishName(sign)), el("code", {}, sign.sign)),
-    cells,
-    absent.length > 0 && el("p", { class: "absent-list muted", "aria-hidden": "true" }, `Not in ${absent.map((c) => c.toUpperCase()).join(", ")}`),
+    view.columns.map((c) => cell(sign, c)),
   );
 }
 
