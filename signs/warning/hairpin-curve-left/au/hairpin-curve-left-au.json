@@ -1,0 +1,19 @@
+{
+  "sign": "hairpin-curve-left",
+  "category": "warning",
+  "country": "au",
+  "code": "W1-7-L",
+  "image": {
+    "file": "hairpin-curve-left-au.svg",
+    "sha1": "5884b28d739d8a0c14b7e53cc20b53937dc8d468",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-7-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W1-7-L.svg"
+  }
+}

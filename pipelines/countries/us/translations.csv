@@ -428,7 +428,7 @@ R12-6,regulatory,weight-limit-with-special-hauling-vehicles,Weight limit with sp
 R12-7,regulatory,emergency-vehicle-weight-limit,Emergency vehicle weight limit,Emergency vehicle weight limit
 R12-7aP,additional-panel,emergency-vehicle-weight-limit-plaque,Emergency vehicle weight limit (plaque),Emergency vehicle weight limit (plaque)
 R13-1,regulatory,trucks-over-10-tons-must-enter-weigh-station-next-right,Trucks over 10 tons must enter weigh station next right,Trucks over 10 tons must enter weigh station next right
-R14-1,regulatory,truck-route-sign,Truck route sign,Truck route sign
+R14-1,regulatory,truck-route,Truck route,Truck route sign
 R14-2,regulatory,hazardous-material-route,Hazardous material route,Hazardous material route
 R14-3,regulatory,hazardous-material-prohibited,Hazardous material prohibited,Hazardous material prohibited
 R14-4,regulatory,national-network-route,National Network Route,National Network Route
@@ -543,8 +543,8 @@ W4-1R,warning,merge-right,Merge (right),Merge (right)
 W4-1L,warning,merge-left,Merge (left),Merge (left)
 W4-2R,warning,road-narrows-right,Road narrows (from the right),Lane ends (right)
 W4-2L,warning,road-narrows-left,Road narrows (from the left),Lane ends (left)
-W4-3R,warning,added-right-lane,Added right lane,Added right lane
-W4-3L,warning,added-left-lane,Added left lane,Added left lane
+W4-3R,warning,added-lane-right,Added Lane (right),Added right lane
+W4-3L,warning,added-lane-left,Added Lane (left),Added left lane
 W4-4P,additional-panel,cross-traffic-does-not-stop,Cross traffic does not stop (plaque),Cross traffic does not stop (plaque)
 W4-4aPR,additional-panel,traffic-from-right-does-not-stop,Traffic from right does not stop (plaque),Traffic from right does not stop (plaque)
 W4-4aP,additional-panel,traffic-from-left-does-not-stop,Traffic from left does not stop (plaque),Traffic from left does not stop (plaque)
@@ -674,7 +674,7 @@ W11-10,warning,truck,Truck,Truck
 W11-11,warning,golf-cart,Golf cart,Golf cart
 W11-12P,additional-panel,emergency-signal-ahead,Emergency signal ahead (plaque),Emergency signal ahead (plaque)
 W11-14,warning,horse-drawn-vehicles,Horse-drawn vehicles,Horse-drawn vehicles
-W11-15,warning,bicycle-and-pedestrians,Bicycle and pedestrians,Bicycle and pedestrians
+W11-15,warning,pedestrians-and-cyclists,Pedestrians and Cyclists,Bicycle and pedestrians
 W11-15P,additional-panel,trail-x-ing,Trail x-ing (plaque),Trail x-ing (plaque)
 W11-15a,warning,trail-crossing,Trail crossing,Trail crossing
 W11-16,warning,bear,Bear,Bear
@@ -688,9 +688,9 @@ W12-1,warning,double-arrow,Double arrow,Double arrow
 W12-2,warning,low-bridge-ahead,Low headroom ahead,Low clearance
 W12-2a,warning,low-clearance-overhead,Low Clearance (Overhead),Low Clearance (Overhead)
 W12-2b,warning,low-clearance-overhead-w12-2b,Low Clearance (Overhead),Low Clearance (Overhead)
-W13-1P,additional-panel,speed-advisory,Speed advisory,Speed advisory
+W13-1P,additional-panel,advisory-speed,Advisory Speed,Speed advisory
 W13-1aP,additional-panel,speed-advisory-confirmation,Speed advisory Confirmation (plaque),Speed advisory Confirmation (plaque)
-W13-2,warning,exit-speed-advisory,Exit speed advisory,Exit speed advisory
+W13-2,warning,exit-advisory-speed,Exit advisory speed,Exit speed advisory
 W13-3,warning,ramp-speed-advisory,Ramp speed advisory,Ramp speed advisory
 W13-6,warning,exit-speed-advisory-270-degree-loop-curve,Exit speed advisory (270 degree loop curve),Exit speed advisory (270 degree loop curve)
 W13-7,warning,ramp-speed-advisory-270-degree-loop-curve,Ramp speed advisory (270 degree loop curve),Ramp speed advisory (270 degree loop curve)
@@ -764,7 +764,7 @@ CW21-1,warning,workers-symbol-sign,Workers (symbol sign),Workers (symbol sign)
 CW21-1a,warning,workers-text-sign,Workers (text sign),Workers (text sign)
 CW21-2,warning,fresh-oil-tar,Fresh oil (tar),Fresh oil (tar)
 CW21-3,warning,road-machinery-distance-ahead,Road machinery (distance) ahead,Road machinery (distance) ahead
-CW21-4,warning,slow-moving-vehicle,Slow moving vehicle,Slow moving vehicle
+CW21-4,warning,slow-moving-vehicles,Slow-moving vehicles,Slow moving vehicle
 CW21-5,warning,shoulder-work,Shoulder work,Shoulder work
 CW21-5aR,warning,right-shoulder-closed,Right Shoulder Closed,Right Shoulder Closed
 CW21-5bR,warning,right-shoulder-closed-distance-ahead,Right Shoulder Closed (distance) ahead,Right Shoulder Closed (distance) ahead
@@ -815,16 +815,16 @@ M1-10,information,eisenhower-interstate-system,Eisenhower interstate system,Eise
 M1-10a,information,eisenhower-interstate-system-m1-10a,Eisenhower interstate system,Eisenhower interstate system
 M2-2,information,combination-junction-2-route-signs,Combination junction (2 route signs),Combination junction (2 route signs)
 M4-8P,additional-panel,detour,Detour (plaque),Detour (plaque)
-M4-8a,information,end-detour,End detour,End detour
+M4-8a,information,end-of-detour,End of detour,End detour
 M4-8b,additional-panel,end-if-a-road-work-blocked-road,End (plaque) (if a road work blocked road),End (plaque) (if a road work blocked road)
-M4-9R,information,detour-right-arrow,Detour Right Arrow,Detour Right Arrow
-M4-9L,information,detour-left-arrow,Detour Left Arrow,Detour Left Arrow
+M4-9R,information,detour-arrow-right,Detour arrow (to the right),Detour Right Arrow
+M4-9L,information,detour-arrow-left,Detour arrow (to the left),Detour Left Arrow
 M4-9aR,information,bicycle-and-pedestrian-detour-right-arrow,Bicycle and Pedestrian Detour Right Arrow,Bicycle and Pedestrian Detour Right Arrow
 M4-9aL,information,bicycle-and-pedestrian-detour-left-arrow,Bicycle and Pedestrian Detour Left Arrow,Bicycle and Pedestrian Detour Left Arrow
 M4-9bR,information,pedestrian-detour-right-arrow,Pedestrian Detour Right Arrow,Pedestrian Detour Right Arrow
 M4-9bL,information,pedestrian-detour-left-arrow,Pedestrian Detour Left Arrow,Pedestrian Detour Left Arrow
-M4-9cR,information,bicycle-detour-right-arrow,Bicycle Detour Right Arrow,Bicycle Detour Right Arrow
-M4-9cL,information,bicycle-detour-left-arrow,Bicycle Detour Left Arrow,Bicycle Detour Left Arrow
+M4-9cR,information,detour-arrow-right-bicycles,"Detour arrow (to the right, for bicycles)",Bicycle Detour Right Arrow
+M4-9cL,information,detour-arrow-left-bicycles,"Detour arrow (to the left, for bicycles)",Bicycle Detour Left Arrow
 M4-10R,information,detour-right-arrow-m4-10r,Detour Right Arrow,Detour Right Arrow
 M4-10L,information,detour-left-arrow-m4-10l,Detour Left Arrow,Detour Left Arrow
 M4-11,information,emergency-route,Emergency Route,Emergency Route
@@ -903,7 +903,7 @@ D3-2a,information,advance-street-name-3-lines-d3-2a,Advance street name (3-lines
 D3-2b,information,advance-street-name-4-lines,Advance street name (4-lines),Advance street name (4-lines)
 D4-1,regulatory,parking,Parking,Parking area
 D4-2,regulatory,park-and-ride,Park and ride,Park - Ride
-D4-3,information,bicycle-parking-area,Bicycle parking area,Bicycle parking area
+D4-3,information,bicycle-parking,Bicycle parking,Bicycle parking area
 D4-4,information,bicycle-sharing-station,Bicycle-sharing station,Bicycle-sharing station
 D4-4a,information,bicycle-lockers,Bicycle lockers,Bicycle lockers
 D5-1,information,rest-area-distance,Rest area (distance),Rest area (distance)
@@ -959,7 +959,7 @@ D11-14,information,equestrians-permitted,Equestrians permitted,Equestrians permi
 D11-20L,information,bicycle-left-turn-may-use-turn-box,Bicycle left turn may use turn box,Bicycle left turn may use turn box
 D11-20aL,information,bicycle-left-turn-box,Bicycle left turn box,Bicycle left turn box
 D12-1,information,radio-weather-information,Radio-Weather information,Radio-Weather information
-D12-1a,information,radio-traffic-information,Radio-Traffic information,Radio-Traffic information
+D12-1a,information,services-traffic-radio,Services (traffic information radio),Radio-Traffic information
 D12-1bP,additional-panel,urgent-message-when-flashing,Urgent message when flashing (plaque),Urgent message when flashing (plaque)
 D12-2,information,carpool-information,Carpool information,Carpool information
 D12-3,information,channel-9-monitored,Channel 9 monitored,Channel 9 monitored
@@ -1052,7 +1052,7 @@ I3-5,information,airport,Airport,Airport
 I3-6,information,bus-station,Bus station,Bus station
 I3-7,information,train-station,Train station,Train station
 I3-8,information,light-rail-station,Light rail station,Light rail station
-I3-9,information,vehicle-ferry-terminal,Vehicle Ferry Terminal,Vehicle Ferry Terminal
+I3-9,information,ferry-terminal,Ferry,Vehicle Ferry Terminal
 I3-10,information,passenger-only-ferry-terminal,Passenger Only Ferry Terminal,Passenger Only Ferry Terminal
 I3-10P,additional-panel,ferry,Ferry (plaque),Ferry (plaque)
 I4-1,information,library,Library,Library

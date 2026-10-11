@@ -1,3 +1,4 @@
+import dataclasses
 import datetime
 import hashlib
 import json
@@ -36,6 +37,17 @@ class SyncTest(SandboxTestCase):
                 [("en", "Bend (left)"), ("cs", "Zatáčka vlevo"), ("sk", "Zákruta (vľavo)")],
             )
 
+    def test_no_images_keeps_the_svg_found_for_a_raster_file(self):
+        self.run_pipeline("--no-images")
+        folder = self.path("warning", "danger", "sk")
+        with open(os.path.join(folder, "danger-sk.svg"), "w") as handle:
+            handle.write("<svg/>")
+        self.write_page(SK_WIKITEXT.replace("101 Nebezpečenstvo.svg", "101 Nebezpečenstvo.png"))
+        self.assertEqual(self.run_pipeline("--no-images"), 0)
+        self.assertIn("danger-sk.svg", os.listdir(folder))
+        with open(os.path.join(folder, "danger-sk.json"), encoding="utf-8") as handle:
+            self.assertEqual(json.load(handle)["source"]["file"], "101 Nebezpečenstvo.svg")
+
     def test_reports_page_problems_as_errors(self):
         self.write_page(SK_WIKITEXT.replace("</gallery>", "Súbor:Bez kódu.svg|Značka bez kódu\n</gallery>"))
         self.assertEqual(self.run_pipeline("--no-images"), 1)
@@ -62,6 +74,63 @@ class PruneTest(SandboxTestCase):
         self.assertEqual(self.run_pipeline("--no-images", "--prune"), 0)
         self.assertEqual(layout.country_dirs("warning", "danger"), ["cz"])
         self.assertEqual(layout.read_translations("warning", "danger"), {"en": "Other danger", "cs": "Jiné nebezpečí"})
+
+
+class MoveTest(SandboxTestCase):
+    """A code that translations.csv sends to another folder moves there with its images and archive."""
+
+    def run_with_danger_in(self, category: str, slug: str, *args: str) -> int:
+        from pipelines.core.model import Source
+
+        load = Source.load_translations
+
+        def moved(source):
+            translations, problems = load(source)
+            translations["101"] = dataclasses.replace(translations["101"], category=category, slug=slug)
+            return translations, problems
+
+        with mock.patch.object(Source, "load_translations", moved):
+            return self.run_pipeline("--no-images", *args)
+
+    def read_json(self, *parts: str) -> dict:
+        with open(os.path.join(*parts), encoding="utf-8") as handle:
+            return json.load(handle)
+
+    def test_moves_the_folder_and_its_files(self):
+        self.run_pipeline("--no-images")
+        old = self.path("warning", "danger", "sk")
+        with open(os.path.join(old, "danger-sk.svg"), "w") as handle:
+            handle.write("<svg/>")
+        with open(os.path.join(old, "danger-sk-archived-2020.svg"), "w") as handle:
+            handle.write("<svg/>")
+        meta = self.read_json(old, "danger-sk.json")
+        meta["image"] = {"file": "danger-sk.svg", "sha1": "x"}
+        meta["archived"] = [{"file": "danger-sk-archived-2020.svg", "valid_until": 2020}]
+        layout.write_json(os.path.join(old, "danger-sk.json"), meta)
+        os.makedirs(self.path("warning", "danger", "cz"))  # another country keeps the old sign
+
+        self.assertEqual(self.run_with_danger_in("warning", "other-danger", "--check"), 0)
+        self.assertTrue(os.path.isdir(old))  # --check moves nothing
+        self.assertEqual(self.run_with_danger_in("warning", "other-danger"), 0)
+
+        self.assertFalse(os.path.exists(old))
+        new = self.path("warning", "other-danger", "sk")
+        self.assertEqual(
+            set(os.listdir(new)), {"other-danger-sk.json", "other-danger-sk.svg", "other-danger-sk-archived-2020.svg"}
+        )
+        meta = self.read_json(new, "other-danger-sk.json")
+        self.assertEqual((meta["sign"], meta["image"]["file"]), ("other-danger", "other-danger-sk.svg"))
+        self.assertEqual(meta["archived"][0]["file"], "other-danger-sk-archived-2020.svg")
+        self.assertNotIn("valid_until", meta)
+        self.assertEqual(layout.read_translations("warning", "other-danger")["sk"], "Nebezpečenstvo")
+        self.assertNotIn("sk", layout.read_translations("warning", "danger"))
+        self.assertEqual(layout.country_dirs("warning", "danger"), ["cz"])
+
+    def test_drops_the_old_sign_when_no_country_is_left(self):
+        self.run_pipeline("--no-images")
+        self.assertEqual(self.run_with_danger_in("regulatory", "danger-moved"), 0)
+        self.assertFalse(os.path.exists(self.path("warning", "danger")))
+        self.assertTrue(os.path.isdir(self.path("regulatory", "danger-moved", "sk")))
 
 
 class ImageTest(SandboxTestCase):

@@ -49,6 +49,7 @@ class Result:
     archived: list[str] = field(default_factory=list)
     untranslated: list[Entry] = field(default_factory=list)
     renamed: list[str] = field(default_factory=list)
+    moved: list[str] = field(default_factory=list)
     unused: list[str] = field(default_factory=list)
     errors: list[str] = field(default_factory=list)
 
@@ -79,6 +80,7 @@ def sync(source: Source, client: Client, options: Options) -> Result:
                 _prefer_svg(client, signs, info)
 
     previous = layout.existing_signs(source.country, source.pipeline)
+    _move_signs(source, options, result, signs, previous)
     title = f"{source.country}: write {len(signs)} signs" + (" (check only, nothing is written)" if options.check else "")
     with log.phase(title):
         log.info(f"{len(previous)} signs from {source.country} already in signs/")
@@ -235,6 +237,9 @@ def _write_sign(
     label = f"{progress.step()} {entry.code} → {key}"
     meta_path = layout.sign_path(t.category, t.slug, country, "json")
     old_meta = _read_json(meta_path) or {}
+    if info is None and old_meta.get("source", {}).get("file") == entry.file.rsplit(".", 1)[0] + ".svg":
+        # --no-images does not look for SVG versions (_prefer_svg); keep the one found before.
+        entry.file = old_meta["source"]["file"]
     ext = entry.file.rsplit(".", 1)[-1].lower()
     image_path = layout.sign_path(t.category, t.slug, country, ext)
 
@@ -300,7 +305,8 @@ def _write_sign(
             f"image downloaded, {download} ({got['bytes'] / 1024:.1f} KB in {got['seconds']:.1f}s,"
             f" SHA-1 verified{', after a retry' if got['attempts'] > 1 else ''}, ETA {progress.eta()})"
         )
-    notes += [f"removed old .{other} image" for other in images.remove_other_formats(t.category, t.slug, country, ext)]
+    if info is not None:  # with --no-images the image on disk was not checked, so it stays
+        notes += [f"removed old .{other} image" for other in images.remove_other_formats(t.category, t.slug, country, ext)]
     _log_sign(result, label, notes)
 
 
@@ -310,6 +316,58 @@ def _log_sign(result: Result, label: str, notes: list[str]) -> None:
     else:
         result.unchanged += 1
         log.detail(f"{label}: up to date")
+
+
+def _move_signs(
+    source: Source, options: Options, result: Result, signs: list[tuple[Entry, Translation]], previous: dict[str, str]
+) -> None:
+    """Signs whose translation now names another folder: move them there, with their images and archive.
+
+    A sign moves when translations.csv gives its code a new category or slug
+    (merging it into a sign other countries have, say). Moving keeps its
+    images and history, where a new folder plus an archived old one would
+    show it twice. `previous` is updated to the new places.
+    """
+    wanted = {f"{t.category}/{t.slug}" for _, t in signs}
+    left = {(_read_json(path) or {}).get("code"): key for key, path in previous.items() if key not in wanted}
+    for entry, t in signs:
+        new = f"{t.category}/{t.slug}"
+        old = left.get(entry.code)
+        if new in previous or not old:
+            continue
+        result.moved.append(f"`{old}` → `{new}` ({entry.code})")
+        log.info(f"{entry.code}: moved from {old} to {new}" + (" (check only)" if options.check else ""))
+        if not options.check:
+            _move_sign(source, old, new)
+        previous[new] = layout.sign_path(t.category, t.slug, source.country, "json") if not options.check else previous[old]
+        del previous[old]
+
+
+def _move_sign(source: Source, old: str, new: str) -> None:
+    country = source.country
+    (old_category, old_slug), (category, slug) = old.split("/"), new.split("/")
+    old_dir, new_dir = layout.sign_dir(old_category, old_slug, country), layout.sign_dir(category, slug, country)
+    if os.path.exists(new_dir):
+        raise RuntimeError(f"cannot move {old}/{country}: {new}/{country} already exists")
+    os.makedirs(new_dir)
+    renamed = lambda name: name.replace(f"{old_slug}-{country}", f"{slug}-{country}", 1)  # noqa: E731
+    for name in os.listdir(old_dir):
+        shutil.move(os.path.join(old_dir, name), os.path.join(new_dir, renamed(name)))
+    meta_path = layout.sign_path(category, slug, country, "json")
+    meta = _read_json(meta_path)
+    meta.update(sign=slug, category=category)
+    for image in [meta.get("image"), *meta.get("archived", [])]:
+        if image:
+            image["file"] = renamed(image["file"])
+    layout.write_json(meta_path, meta)
+    names = layout.read_translations(old_category, old_slug)
+    if source.name_key in names:
+        layout.update_translations(category, slug, {source.name_key: names[source.name_key]})
+    _remove_dir(old_dir)
+    if layout.country_dirs(old_category, old_slug):
+        layout.remove_translation(old_category, old_slug, source.name_key)
+    elif os.path.isdir(os.path.dirname(layout.translations_path(old_category, old_slug))):
+        _remove_dir(os.path.dirname(layout.translations_path(old_category, old_slug)))
 
 
 def _archive_sign(source: Source, options: Options, result: Result, key: str) -> None:

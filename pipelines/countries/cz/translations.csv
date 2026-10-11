@@ -143,13 +143,13 @@ IZ 7a,regulatory,low-emission-zone,Low emission zone,Nízkoemisní zóna
 IZ 7b,regulatory,end-of-low-emission-zone,End of low emission zone,Konec nízkoemisní zóny
 IZ 8a,information,restricted-zone,Zone with traffic restrictions,Zóna s dopravním omezením
 IZ 8b,information,end-of-restricted-zone,End of zone with traffic restrictions,Konec zóny s dopravním omezením
-IZ 9a,information,cycle-zone,Cycle zone,Zóna pro cyklisty
-IZ 9b,information,end-of-cycle-zone,End of cycle zone,Konec zóny pro cyklisty
+IZ 9a,information,bicycle-zone,Bicycle zone,Zóna pro cyklisty
+IZ 9b,information,end-of-bicycle-zone,End of bicycle zone,Konec zóny pro cyklisty
 IZ 10a,information,shared-zone,Shared zone,Sdílená zóna
 IZ 10b,information,end-of-shared-zone,End of shared zone,Konec sdílené zóny
 IP 1,information,ring-road,Ring road,Okruh
 IP 2,information,speed-bump-location,Speed bump (location),Zpomalovací práh
-IP 3,information,pedestrian-subway-or-footbridge,Pedestrian subway or footbridge,Podchod nebo nadchod
+IP 3,information,pedestrian-subway,Pedestrian subway,Podchod nebo nadchod
 IP 4a,information,one-way-traffic,One-way traffic,Jednosměrný provoz
 IP 4b,information,one-way-traffic-horizontal,One-way traffic (horizontal arrow),Jednosměrný provoz
 IP 4c,information,one-way-traffic-cyclists-contraflow,"One-way traffic, cyclists allowed in both directions",Jednosměrný provoz s povoleným provozem cyklistů v protisměru
@@ -194,7 +194,7 @@ IP 28b,information,general-rules-information,Information on general rules,Nejvy�
 IP 29,information,zip-merge,Zip merge,Střídavé řazení
 IP 30,information,state-border,State border,Státní hranice
 IP 31a,information,speed-check,Speed check,Měření rychlosti
-IP 31b,information,end-of-speed-check,End of speed check,Konec měření rychlosti
+IP 31b,information,end-of-average-speed-check,End of average speed check,Konec měření rychlosti
 IP 32,information,safe-distance-reminder,Safe distance reminder,Bezpečný odstup
 IS 1a,information,direction-sign-to-motorway-straight,Direction sign to the motorway (straight ahead),Směrová tabule pro příjezd k dálnici (přímo)
 IS 1b,information,direction-sign-to-motorway-left,Direction sign to the motorway (left),Směrová tabule pro příjezd k dálnici (vlevo)
@@ -262,7 +262,7 @@ IS 21a,information,cycle-route-sign-straight,Cycle route sign (straight ahead),S
 IS 21b,information,cycle-route-sign-left,Cycle route sign (left),Směrová tabulka pro cyklisty
 IS 21c,information,cycle-route-sign-right,Cycle route sign (right),Směrová tabulka pro cyklisty
 IS 21d,information,end-of-cycle-route,End of cycle route,Konec cyklistické trasy
-IS 22a,information,street-name-a,Street name sign (variant a),Označení názvu ulice
+IS 22a,information,street-name,Street name sign,Označení názvu ulice
 IS 22b,information,street-name-b,Street name sign (variant b),Označení názvu ulice
 IS 22c,information,street-name-c,Street name sign (variant c),Označení názvu ulice
 IS 22d,information,street-name-d,Street name sign (variant d),Označení názvu ulice
@@ -292,7 +292,7 @@ IJ 12,information,services-toilets,Services (toilets),WC
 IJ 13,information,rest-area,Rest area,Místo pro odpočinek
 IJ 14a,information,services-tent-camp,Services (tent camp),Tábořiště pro stany
 IJ 14b,information,services-caravan-site,Services (caravan site),Tábořiště pro obytné přívěsy
-IJ 14c,information,services-tent-and-caravan-site,Services (tent and caravan site),Tábořiště pro stany a pro obytné přívěsy
+IJ 14c,information,services-camping-and-caravan-site,Services (camping and caravan site),Tábořiště pro stany a pro obytné přívěsy
 IJ 15,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),Servisní místo pro sanitaci hygienických zařízení obytných vozidel
 IJ 16,information,services-church,"Services (church, chapel)",Silniční kaple
 IJ 17a,information,services-truck-park,Services (truck park),Truckpark

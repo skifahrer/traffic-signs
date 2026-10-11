@@ -178,6 +178,10 @@ copy is hashed:
 | Image deleted from Commons, sign still on the page | renames it to `<sign>-<country>-archived-<year>.<ext>` and moves its metadata to `archived` with `valid_until` |
 | Sign removed from the page | archives its image the same way and marks the sign `"valid_until": <year>`; its folder and names stay |
 | Sign comes back to the page | downloads the current image and drops the sign's `valid_until`; the archive is kept |
+| `translations.csv` gives a code another category or slug | moves the country's folder there (images, archive and name, files renamed); the old sign goes when no country is left in it |
+
+Moving is how two countries' versions of one sign are merged: point the
+code at the slug the other countries use and run the sync.
 
 `<year>` is the year the sync noticed the change, so it is the last year the
 image was known to be valid. With `--prune`, signs that left the page are

@@ -1,0 +1,19 @@
+{
+  "sign": "end-of-detour",
+  "category": "information",
+  "country": "us",
+  "code": "M4-8a",
+  "image": {
+    "file": "end-of-detour-us.svg",
+    "sha1": "ec58abcc5ef055cdee160daed0e4c54bcd4aaf6c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M4-8a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD M4-8a.svg"
+  }
+}

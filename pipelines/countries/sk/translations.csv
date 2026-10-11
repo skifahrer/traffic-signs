@@ -381,7 +381,7 @@ code,category,slug,name_en,name_sk
 319,information,school-zone,School zone,Školská zóna
 320,information,end-of-school-zone,End of school zone,Koniec školskej zóny
 321-10,information,one-way-road-left,One-way road (left here),Jednosmerná cesta (tu vľavo)
-321-30,information,one-way-road-straight,One-way road (straight ahead),Jednosmerná cesta (priamo)
+321-30,information,one-way-road,One-way road,Jednosmerná cesta (priamo)
 321-20,information,one-way-road-right,One-way road (right here),Jednosmerná cesta (tu vpravo)
 322-50,information,tunnel,Tunnel,"Tunel (krátky, bez bližšieho označenia)"
 322-51,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)","Tunel (dlhý, s názvom a dĺžkou)"
@@ -429,7 +429,7 @@ code,category,slug,name_en,name_sk
 330-88-30,information,services-airport-straight,"Services (airport, straight ahead or neutral)","Služby (letisko, smer jazdy priamo a neutrálne)"
 330-88-20,information,services-airport-right,"Services (airport, to the right)","Služby (letisko, smer jazdy doprava)"
 330-89,information,services-port,Services (port),Služby (prístav)
-330-91,information,services-railway-station,Services (railway station),Služby (železničná stanica)
+330-91,information,railway-station,Railway station,Služby (železničná stanica)
 330-92,information,services-car-train,Services (car train),Služby (autovlak)
 330-94,information,services-hospital,Services (hospital),Služby (nemocnica)
 330-95,information,services-first-aid,Services (first aid),Služby (prvá pomoc)

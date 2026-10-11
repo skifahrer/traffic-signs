@@ -1,0 +1,19 @@
+{
+  "sign": "truck-parking",
+  "category": "information",
+  "country": "hu",
+  "code": "E-048",
+  "image": {
+    "file": "truck-parking-hu.svg",
+    "sha1": "0ba0f5020cb1071a7436dce7dd1d29ab22ea0c72",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-048.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "hu-wikipedia",
+    "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",
+    "file": "Hungary road sign E-048.svg"
+  }
+}

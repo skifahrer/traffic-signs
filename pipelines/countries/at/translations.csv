@@ -121,7 +121,7 @@ code,category,slug,name_en,name_de-AT
 §53 Z2c (b),information,pedestrian-and-cycle-crossing,Pedestrian and cycle crossing,Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt
 §53 Z2c (a),information,cycle-and-pedestrian-crossing,Cycle and pedestrian crossing,Kennzeichnung einer Radfahrerüberfahrt und eines Schutzweges
 §53 Z3,information,services-first-aid,Services (first aid),Erste Hilfe
-§53 Z3a,information,church-services,Church services,Gottesdienste
+§53 Z3a,information,services-church,"Services (church, chapel)",Gottesdienste
 §53 Z4,information,services-breakdown-service,Services (breakdown service),Pannenhilfe
 §53 Z4a,information,services-traffic-radio,Services (traffic information radio),"Verkehrsfunk (Sendername, UKW-Frequenz)"
 §53 Z5,information,services-telephone,Services (telephone),Telefonstelle
