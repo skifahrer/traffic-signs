@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "E-028",
+  "image": {
+    "file": "speed-limit-zone-hu.svg",
+    "sha1": "a40e5e5e329cadce5b300ae746d12da3818a376d",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-028.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

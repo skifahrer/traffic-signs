@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-014",
+  "image": {
+    "file": "services-toilets-hu.svg",
+    "sha1": "08e49cedc508d96bbf04ad9ff6a79b00377ae7a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-014.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

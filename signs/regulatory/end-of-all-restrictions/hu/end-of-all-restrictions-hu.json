@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "C-043",
+  "image": {
+    "file": "end-of-all-restrictions-hu.svg",
+    "sha1": "3dac0a65369b2d5cd20ebd5362afb940938b69bb",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-043.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

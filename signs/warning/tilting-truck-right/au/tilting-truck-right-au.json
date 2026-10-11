@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-8-R",
+  "image": {
+    "file": "tilting-truck-right-au.svg",
+    "sha1": "c800604b6f6996cbec32fd76c3737fbe1c92c5c1",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-8-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

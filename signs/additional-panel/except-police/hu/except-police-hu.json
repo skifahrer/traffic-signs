@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-082",
+  "image": {
+    "file": "except-police-hu.svg",
+    "sha1": "88bddbb5a8a485bf20d6ddd67bcf07a2b68c698f",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-082.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-015",
+  "image": {
+    "file": "mandatory-direction-of-lanes-e-015-hu.svg",
+    "sha1": "57c2c4ea44b7ee1e73a3586e783727389040ed35",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-015.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

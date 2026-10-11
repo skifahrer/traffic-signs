@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R8-2",
+  "image": {
+    "file": "shared-footpath-cycle-path-au.svg",
+    "sha1": "27990150efbf433e29e491fc013dfe8e98a79bb8",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R8-2.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

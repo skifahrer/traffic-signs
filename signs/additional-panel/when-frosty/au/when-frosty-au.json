@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-8",
+  "image": {
+    "file": "when-frosty-au.svg",
+    "sha1": "cae92f63214abcd08f6d69433fa470a1c3cd9beb",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-8.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

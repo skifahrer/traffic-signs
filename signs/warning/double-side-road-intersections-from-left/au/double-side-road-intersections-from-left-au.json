@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-13-L",
+  "image": {
+    "file": "double-side-road-intersections-from-left-au.svg",
+    "sha1": "9e968f583c92e62489e548e358127137fe4f11d6",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W2-13-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

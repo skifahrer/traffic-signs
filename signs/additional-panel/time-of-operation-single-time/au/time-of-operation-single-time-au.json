@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-1-1",
+  "image": {
+    "file": "time-of-operation-single-time-au.svg",
+    "sha1": "d10d8aaf0f33f128f405bb35fc12790a6e25f9e2",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-1-1.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

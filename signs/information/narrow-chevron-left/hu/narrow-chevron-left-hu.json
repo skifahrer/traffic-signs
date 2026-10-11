@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-035",
+  "image": {
+    "file": "narrow-chevron-left-hu.svg",
+    "sha1": "945c201216a49c21e601b145558220183a1969f0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-035.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

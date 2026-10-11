@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "D-031",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-hu.svg",
+    "sha1": "32aebae0a5c867fb451135caca6c6563a17c9700",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-031.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

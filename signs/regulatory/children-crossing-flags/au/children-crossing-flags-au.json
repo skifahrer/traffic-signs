@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R3-3",
+  "image": {
+    "file": "children-crossing-flags-au.svg",
+    "sha1": "24de2ef60687343938597c236f1e13a301bd7af3",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R3-3.svg",
+    "author": "Cassowary",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

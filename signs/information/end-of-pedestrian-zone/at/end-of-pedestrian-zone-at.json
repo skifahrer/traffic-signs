@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z9b",
+  "image": {
+    "file": "end-of-pedestrian-zone-at.svg",
+    "sha1": "5ed67dfd1553c76fb84588c582aaeae4d6a9ade0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_9b_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

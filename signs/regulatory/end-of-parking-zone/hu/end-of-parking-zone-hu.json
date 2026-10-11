@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "E-035",
+  "image": {
+    "file": "end-of-parking-zone-hu.svg",
+    "sha1": "33e9df18f79e4917f81e8ff961c4be0b3ff9d305",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-035.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

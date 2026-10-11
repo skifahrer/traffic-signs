@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-2-60",
+  "image": {
+    "file": "advisory-speed-au.svg",
+    "sha1": "5a2eb1c9a198623698b60bb61fad37dad57e6f8c",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-2-60.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

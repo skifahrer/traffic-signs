@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-042",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-hu.svg",
+    "sha1": "bde82d84af48c4b237845c24e9f9b1add7a47285",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-042.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

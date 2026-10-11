@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "C-011",
+  "image": {
+    "file": "no-goods-vehicles-over-weight-b-hu.svg",
+    "sha1": "95e8ed8bd31285dcc8323675e69f6485531b6f4b",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-011.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

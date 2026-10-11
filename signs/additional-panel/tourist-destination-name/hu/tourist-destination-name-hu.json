@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-105",
+  "image": {
+    "file": "tourist-destination-name-hu.svg",
+    "sha1": "c3edd095392ba563469189eb584f35b85e299bc0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-105.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

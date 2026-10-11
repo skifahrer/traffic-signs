@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z23",
+  "image": {
+    "file": "give-way-at.svg",
+    "sha1": "6010d601e8567ccac9f810e6294b79dedd37ed77",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_23.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

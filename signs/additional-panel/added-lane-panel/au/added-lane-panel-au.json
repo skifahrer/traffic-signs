@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-26",
+  "image": {
+    "file": "added-lane-panel-au.svg",
+    "sha1": "e3ef89f73f1d56c437516d7878a39999771ca95a",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-26.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

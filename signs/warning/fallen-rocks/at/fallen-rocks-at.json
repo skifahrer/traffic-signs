@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z10b",
+  "image": {
+    "file": "fallen-rocks-at.svg",
+    "sha1": "0e97fe7884a66efd3835ed76847d27d3d1622d36",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_10b.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "D-013",
+  "image": {
+    "file": "mandatory-direction-left-or-u-turn-hu.svg",
+    "sha1": "17b623daf5332fdbb744fd1b787bb5f37462574f",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-013.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

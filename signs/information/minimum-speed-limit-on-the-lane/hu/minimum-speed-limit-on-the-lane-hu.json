@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-001",
+  "image": {
+    "file": "minimum-speed-limit-on-the-lane-hu.svg",
+    "sha1": "3e6e08b63d29e934681a05b2c8d746c1d2d96fe4",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-001.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

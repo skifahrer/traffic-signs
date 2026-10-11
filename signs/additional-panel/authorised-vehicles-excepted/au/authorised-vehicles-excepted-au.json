@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-4",
+  "image": {
+    "file": "authorised-vehicles-excepted-au.svg",
+    "sha1": "20a18ddc4ba3ce9d65bd15023d3d43ee9480cc75",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-4.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

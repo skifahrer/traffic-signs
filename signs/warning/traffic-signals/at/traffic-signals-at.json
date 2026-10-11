@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z15",
+  "image": {
+    "file": "traffic-signals-at.svg",
+    "sha1": "25a1a825d5a1a08f4e1dad5bec9de94951042e11",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_15.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

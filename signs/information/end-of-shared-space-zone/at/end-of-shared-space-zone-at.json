@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z9f",
+  "image": {
+    "file": "end-of-shared-space-zone-at.svg",
+    "sha1": "3a1711426c55397dcdb0b19a2c773ee62b3a6177",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_9f.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

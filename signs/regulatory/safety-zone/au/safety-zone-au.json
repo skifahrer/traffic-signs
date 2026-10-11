@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R3-2",
+  "image": {
+    "file": "safety-zone-au.svg",
+    "sha1": "9e220409297ba75fb95f084c88c392e621db634f",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R3-2.svg",
+    "author": "Standards Australia derivative work Fry1989",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

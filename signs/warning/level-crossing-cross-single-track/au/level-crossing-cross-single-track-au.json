@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "R6-24",
+  "image": {
+    "file": "level-crossing-cross-single-track-au.svg",
+    "sha1": "6a0157930d408d7a824ff4de3f3943d4fa7a9458",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-24.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W7-17-R",
+  "image": {
+    "file": "railway-level-crossing-on-t-junction-right-au.svg",
+    "sha1": "4f5e1f0e3122d990407aa51404f6ff809d047b8a",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W7-17-R.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

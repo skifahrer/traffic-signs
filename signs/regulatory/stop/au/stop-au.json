@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R1-1",
+  "image": {
+    "file": "stop-au.svg",
+    "sha1": "03e36c4626e81976bbc2af26f5e273db7cd288ba",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R1-1.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

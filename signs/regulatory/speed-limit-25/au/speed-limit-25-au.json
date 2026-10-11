@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-1 (25)",
+  "image": {
+    "file": "speed-limit-25-au.svg",
+    "sha1": "f8579bfab2797f4c00893df222d9808aa561643c",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-1_(25).svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

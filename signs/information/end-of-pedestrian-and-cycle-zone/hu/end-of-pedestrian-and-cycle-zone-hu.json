@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-037",
+  "image": {
+    "file": "end-of-pedestrian-and-cycle-zone-hu.svg",
+    "sha1": "120cdca7b5ce5b4d4b51896c0b63118bb55c6f5c",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-037.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

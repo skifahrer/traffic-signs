@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z7c",
+  "image": {
+    "file": "no-animal-drawn-vehicles-at.svg",
+    "sha1": "3e487c5202d1e27b243a726a0e81a25bdfd96bbd",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_7c.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-36",
+  "image": {
+    "file": "fire-station-au.svg",
+    "sha1": "51363120ccf5b2f1fc76ec0e83d9e1d8c16ed5aa",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-36.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

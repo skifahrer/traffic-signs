@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-047",
+  "image": {
+    "file": "level-crossing-countdown-marker-2-bars-left-side-hu.svg",
+    "sha1": "45801725663fc765bef76e0bbdfabb55e3ab6f2a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-047.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

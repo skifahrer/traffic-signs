@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R4-235N",
+  "image": {
+    "file": "school-zone-au.svg",
+    "sha1": "d6062812eb9c1c83c27135f4c40fc97f4239f339",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-235N.svg",
+    "author": "Government of New South Wales",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

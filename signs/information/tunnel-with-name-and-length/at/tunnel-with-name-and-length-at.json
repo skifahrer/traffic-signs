@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z9g",
+  "image": {
+    "file": "tunnel-with-name-and-length-at.svg",
+    "sha1": "aea1515c14f3f0b4d8d3ac6fc8e293d8e2812d8b",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_9g.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

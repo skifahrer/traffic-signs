@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-020",
+  "image": {
+    "file": "built-up-area-hu.svg",
+    "sha1": "fc1ea0c5757cfed59a134f481f375115dca6a00b",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-020.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

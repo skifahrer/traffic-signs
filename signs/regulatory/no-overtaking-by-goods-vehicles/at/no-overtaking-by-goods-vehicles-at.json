@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z4c",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-at.svg",
+    "sha1": "8ecbb3ba9825e038a4f46422fef873f38e967836",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_4c.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-14",
+  "image": {
+    "file": "school-plaque-au.svg",
+    "sha1": "857a6ed078339c5dbf73ad1eacd69e6b170fe8fb",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W8-14.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

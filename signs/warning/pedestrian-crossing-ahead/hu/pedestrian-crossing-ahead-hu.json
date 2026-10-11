@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-020",
+  "image": {
+    "file": "pedestrian-crossing-ahead-hu.svg",
+    "sha1": "3f0ceff64c309b1d100f0cbd1ab9421d973edb4f",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-020.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

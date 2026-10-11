@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-024",
+  "image": {
+    "file": "wild-animals-hu.svg",
+    "sha1": "4b034cf7d80ceff36570fa07bb3ba290a2997e18",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-024.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

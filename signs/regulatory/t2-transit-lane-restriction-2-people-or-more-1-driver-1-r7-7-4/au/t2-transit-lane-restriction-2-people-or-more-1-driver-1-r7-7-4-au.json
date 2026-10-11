@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R7-7-4",
+  "image": {
+    "file": "t2-transit-lane-restriction-2-people-or-more-1-driver-1-r7-7-4-au.svg",
+    "sha1": "3e23d21659ac39b7d02967af80dbcb8d6efc0c37",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-7-4.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

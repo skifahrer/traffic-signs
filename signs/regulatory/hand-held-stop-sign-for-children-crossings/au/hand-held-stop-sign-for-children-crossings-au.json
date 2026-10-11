@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-7",
+  "image": {
+    "file": "hand-held-stop-sign-for-children-crossings-au.svg",
+    "sha1": "8fd1521518f07b237622ea650bbd44c29dc47d3d",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-7.svg",
+    "author": "Cassowary",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

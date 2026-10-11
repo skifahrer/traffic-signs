@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-3-R",
+  "image": {
+    "file": "pass-on-right-au.svg",
+    "sha1": "10a9bcdf198fd3413716666aef8f8c3119cf500f",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-3-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

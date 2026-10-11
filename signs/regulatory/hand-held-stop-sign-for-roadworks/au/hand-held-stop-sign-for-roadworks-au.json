@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-8",
+  "image": {
+    "file": "hand-held-stop-sign-for-roadworks-au.svg",
+    "sha1": "4f1c9d9d2b9fb06144390c3e57642b00e32648bc",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-8.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

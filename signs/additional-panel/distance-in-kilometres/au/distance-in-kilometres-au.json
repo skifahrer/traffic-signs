@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-7-1",
+  "image": {
+    "file": "distance-in-kilometres-au.svg",
+    "sha1": "6b5b359d619663bf56d64e2f4d60c285c3382d9c",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-7-1.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

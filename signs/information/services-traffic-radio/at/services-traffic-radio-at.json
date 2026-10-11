@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z4a",
+  "image": {
+    "file": "services-traffic-radio-at.svg",
+    "sha1": "6cd600c586f47b8a9dded8bbc6abfd3398419f9e",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_4a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

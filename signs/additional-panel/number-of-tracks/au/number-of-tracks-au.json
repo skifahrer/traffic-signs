@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W7-2-1",
+  "image": {
+    "file": "number-of-tracks-au.svg",
+    "sha1": "900681ab63d28be2a4766daf2c0d0355a7c10a4b",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W7-2-1.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

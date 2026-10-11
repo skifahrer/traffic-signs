@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-3",
+  "image": {
+    "file": "road-narrows-both-sides-au.svg",
+    "sha1": "4570139e0d8a995d38a49454283f68564df68ad6",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W4-3.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

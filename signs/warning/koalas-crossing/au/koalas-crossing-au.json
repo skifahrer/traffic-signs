@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-47",
+  "image": {
+    "file": "koalas-crossing-au.svg",
+    "sha1": "c1bc182f3c61e89561202997767c3ad363727036",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-47.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

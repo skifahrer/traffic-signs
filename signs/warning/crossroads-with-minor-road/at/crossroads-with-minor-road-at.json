@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z4",
+  "image": {
+    "file": "crossroads-with-minor-road-at.svg",
+    "sha1": "e549cd1e0680cb8f3dedb29ff9da51be2a01b078",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_4.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

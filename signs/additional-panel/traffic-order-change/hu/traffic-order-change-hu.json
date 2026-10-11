@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-033",
+  "image": {
+    "file": "traffic-order-change-hu.svg",
+    "sha1": "963f888ef87ad8b4fd3a524c451007ad3a29e9b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-033.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

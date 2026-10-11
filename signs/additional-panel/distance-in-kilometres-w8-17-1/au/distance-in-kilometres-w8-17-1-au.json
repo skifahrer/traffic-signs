@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-17-1",
+  "image": {
+    "file": "distance-in-kilometres-w8-17-1-au.svg",
+    "sha1": "32d3ab74601d6de5e4865e1e6dabd9caa94e4a27",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-17-1.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-33",
+  "image": {
+    "file": "maximum-length-au.svg",
+    "sha1": "1f52d846037ca28efa6cc2d1a091bbe2e4ec2941",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-33.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

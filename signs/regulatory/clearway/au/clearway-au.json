@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-45",
+  "image": {
+    "file": "clearway-au.svg",
+    "sha1": "240c45698897e7307b5d41eb9204a6b0b2107d0c",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-45.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

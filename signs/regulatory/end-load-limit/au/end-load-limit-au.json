@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-5",
+  "image": {
+    "file": "end-load-limit-au.svg",
+    "sha1": "56e17c0351cbda642dd0aa6cb3cdb9f8b198b548",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-5.svg",
+    "author": "Auguel",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-8-R",
+  "image": {
+    "file": "staggered-side-road-intersection-first-from-right-au.svg",
+    "sha1": "bd0025b7df9748e392a4a3aa3daf6fdad4ef51f6",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W2-8-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

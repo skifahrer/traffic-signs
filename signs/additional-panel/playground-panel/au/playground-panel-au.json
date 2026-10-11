@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-13",
+  "image": {
+    "file": "playground-panel-au.svg",
+    "sha1": "726aea4a1a55ea1a4952b28d7693af3c1d0fa78e",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W8-13.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

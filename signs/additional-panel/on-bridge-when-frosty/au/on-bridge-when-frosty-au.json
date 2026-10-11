@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-29",
+  "image": {
+    "file": "on-bridge-when-frosty-au.svg",
+    "sha1": "1d0dcdf0a30d43e234bd9a4cb33fc4a713acb28d",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-29.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

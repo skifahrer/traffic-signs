@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-10-1",
+  "image": {
+    "file": "no-buses-au.svg",
+    "sha1": "03e6e478da7dace36f3825183266c16761827ccf",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-10-1.svg",
+    "author": "Standards Australia derivative work: Cassowary derivative work: Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

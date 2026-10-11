@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-15-L",
+  "image": {
+    "file": "curve-with-crossroad-left-au.svg",
+    "sha1": "3ef883443df2abc8c7a76958e9b2f66bf8208491",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W2-15-L.svg",
+    "author": "Standards Australia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

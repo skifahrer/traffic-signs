@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z10a",
+  "image": {
+    "file": "speed-limit-at.svg",
+    "sha1": "af68e04267b46dc3a5a0424e33a687203ba50aa5",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_10a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

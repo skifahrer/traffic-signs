@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-6-L",
+  "image": {
+    "file": "no-left-turn-au.svg",
+    "sha1": "df5b2e2e9952b758a6709ac4966bd95580cc0eff",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-6-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

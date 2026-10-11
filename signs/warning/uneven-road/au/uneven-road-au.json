@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-43",
+  "image": {
+    "file": "uneven-road-au.svg",
+    "sha1": "9998f937bcae99f63b8068744335c86a49baaba1",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-43.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

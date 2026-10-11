@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-046",
+  "image": {
+    "file": "parking-crosswise-on-the-sidewalk-half-standing-right-hu.svg",
+    "sha1": "c10080b327ed1115b914b037313d0eb844b8874a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-046.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

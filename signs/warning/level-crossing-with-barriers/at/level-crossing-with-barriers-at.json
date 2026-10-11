@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z6a",
+  "image": {
+    "file": "level-crossing-with-barriers-at.svg",
+    "sha1": "8bef7912fe09e71b13621acda20ecc4e7c82a375",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_6a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

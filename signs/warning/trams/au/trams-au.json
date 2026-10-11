@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-41",
+  "image": {
+    "file": "trams-au.svg",
+    "sha1": "558012740d87d62f87e84829a313d51d40825e57",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-41.svg",
+    "author": "Standards Australia",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

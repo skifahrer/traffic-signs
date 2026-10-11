@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-30",
+  "image": {
+    "file": "median-turning-lane-au.svg",
+    "sha1": "f68c7dbd58904d1af52473a9a4aaec018819c6aa",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-30.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

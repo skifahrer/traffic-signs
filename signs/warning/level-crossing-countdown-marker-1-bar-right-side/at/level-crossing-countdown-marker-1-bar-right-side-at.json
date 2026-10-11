@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z6c (I rechts)",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-right-side-at.svg",
+    "sha1": "d9daa1433b5fc8210fe26a3c34a00b17e4cecfc1",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_6c_I_rechts.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

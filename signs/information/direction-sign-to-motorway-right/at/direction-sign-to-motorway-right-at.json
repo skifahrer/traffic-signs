@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z14b (rechts)",
+  "image": {
+    "file": "direction-sign-to-motorway-right-at.svg",
+    "sha1": "76a521bfbff8f2e3c8fbbf2b76ae551f2e810964",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_14b_rechts_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

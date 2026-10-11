@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-1",
+  "image": {
+    "file": "narrow-bridge-au.svg",
+    "sha1": "9658363a2af81eaef7a1ebe55ac06814799b048d",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W4-1.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

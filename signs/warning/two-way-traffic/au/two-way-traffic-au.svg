@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1021.33mm"
+   height="1021.33mm"
+   viewBox="0 0 1021.33 1021.33"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Warning blank.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="2877.1775"
+     inkscape:cy="1597.933"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,724.32995)">
+    <rect
+       style="fill:#ffe112;fill-opacity:1;stroke:none;stroke-width:0.994494"
+       id="rect10"
+       width="750"
+       height="750"
+       x="137.1785"
+       y="-164.98929"
+       rx="50"
+       ry="50"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.967974"
+       id="rect12"
+       width="730"
+       height="730"
+       x="147.1785"
+       y="-154.98929"
+       rx="40"
+       ry="40"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#ffe112;fill-opacity:1;stroke:none;stroke-width:0.914934"
+       id="rect14"
+       width="690"
+       height="690"
+       x="167.1785"
+       y="-134.98929"
+       rx="20"
+       ry="20"
+       transform="rotate(-45)" />
+    <path
+       id="path866"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       d="m 368.16182,-442.48007 h -20.99371 l -97.49967,175.99545 14.0451,17.284 62.9514,-19.46434 -9.99996,289.999933 h 81.99999 l -9.99998,-289.999933 62.9514,19.46434 14.04561,-17.284 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.0471241"
+       id="circle878"
+       cx="260.16797"
+       cy="-260.66803"
+       r="12.003" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.0471123"
+       id="circle880"
+       cx="357.66495"
+       cy="-436.66492"
+       r="12" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.0471241"
+       id="circle882"
+       cx="455.16196"
+       cy="-260.66803"
+       r="12.003" />
+    <path
+       id="path916"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       d="m 674.16182,15.150133 h -20.99371 l -97.49967,-175.995453 14.0451,-17.284 62.9514,19.46434 -9.99996,-289.99993 h 81.99999 l -9.99998,289.99993 62.9514,-19.46434 14.04561,17.284 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.0471241"
+       id="circle918"
+       cx="566.16797"
+       cy="166.66191"
+       r="12.003"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.0471123"
+       id="circle920"
+       cx="663.66498"
+       cy="-9.3349819"
+       r="12"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.0471241"
+       id="circle922"
+       cx="761.16199"
+       cy="166.66191"
+       r="12.003"
+       transform="scale(1,-1)" />
+  </g>
+</svg>

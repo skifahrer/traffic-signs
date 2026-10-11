@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-5",
+  "image": {
+    "file": "metre-plate-au.svg",
+    "sha1": "3daab801b645415e966d098a28fb2b71430ad434",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-5.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

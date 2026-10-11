@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z9a",
+  "image": {
+    "file": "pedestrian-zone-at.svg",
+    "sha1": "f72b7dc8a1eb9749525d5ec856c06b07e41ad2a9",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_9a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

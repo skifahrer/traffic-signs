@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-10",
+  "image": {
+    "file": "tram-speed-au.svg",
+    "sha1": "4aeb595ed01c2e01217a1d61d2dff4f7a7cbd801",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-10.svg",
+    "author": "Aebion",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z10 (links)",
+  "image": {
+    "file": "one-way-road-left-at.svg",
+    "sha1": "c9513c43db50c48db74516c91bfa8c2d48248624",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_10_links_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

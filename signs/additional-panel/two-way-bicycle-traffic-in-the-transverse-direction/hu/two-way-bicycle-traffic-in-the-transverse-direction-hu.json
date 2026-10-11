@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-121",
+  "image": {
+    "file": "two-way-bicycle-traffic-in-the-transverse-direction-hu.svg",
+    "sha1": "4ad48fa6709165bef9049215a3c5cf1b0ad82210",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-121.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

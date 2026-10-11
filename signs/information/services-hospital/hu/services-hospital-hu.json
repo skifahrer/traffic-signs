@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-045",
+  "image": {
+    "file": "services-hospital-hu.svg",
+    "sha1": "3ca4487152cd8e6b5829c1399e2be0671fb5223a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-045.svg",
+    "author": "Gigillo83 (Adobe and Inkscape) iThe source code of the previous SVG was invalid due to 6 errors.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-14-R",
+  "image": {
+    "file": "turn-right-au.svg",
+    "sha1": "b9e3640914b4f2ebd3c5b63bb4d2dccc9fb07cda",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-14-R.svg",
+    "author": "Cassowary",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

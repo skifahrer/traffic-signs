@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-65",
+  "image": {
+    "file": "park-in-bays-only-au.svg",
+    "sha1": "33c3a805acbee59448f96696f4d957e133b780b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-65.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

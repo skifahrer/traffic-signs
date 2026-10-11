@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-096",
+  "image": {
+    "file": "except-for-caravans-trailers-hu.svg",
+    "sha1": "ae1cc32e82de60bb7895fb77e9dd1eee28156af6",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-096.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

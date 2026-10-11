@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z11",
+  "image": {
+    "file": "pedestrian-crossing-ahead-at.svg",
+    "sha1": "29d56be7d93c69149046d004b1563d7fd242db14",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_11.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

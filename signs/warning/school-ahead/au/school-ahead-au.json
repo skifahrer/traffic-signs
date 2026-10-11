@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W6-4",
+  "image": {
+    "file": "school-ahead-au.svg",
+    "sha1": "cfbc4a49af0eb9cbb72b37c8d7fcd7c6ed4b98cd",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W6-4.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

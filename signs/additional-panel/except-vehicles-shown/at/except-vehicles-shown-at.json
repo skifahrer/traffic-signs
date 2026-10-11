@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "at",
   "code": "§54 h",
+  "image": {
+    "file": "except-vehicles-shown-at.svg",
+    "sha1": "13a5f5e01abed731ca48468398bcec8c2b2ed6c2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatztafel_h.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

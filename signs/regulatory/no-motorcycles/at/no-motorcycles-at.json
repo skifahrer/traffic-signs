@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z6b",
+  "image": {
+    "file": "no-motorcycles-at.svg",
+    "sha1": "ad4085805abd41564b6fdb49e91a3a72587b65c1",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_6b.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

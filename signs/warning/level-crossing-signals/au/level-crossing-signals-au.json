@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W7-4",
+  "image": {
+    "file": "level-crossing-signals-au.svg",
+    "sha1": "b8cb96f021e3aa39222160edb7819d6b5bd7178f",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W7-4.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

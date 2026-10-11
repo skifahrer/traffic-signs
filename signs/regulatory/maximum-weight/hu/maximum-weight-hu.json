@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "C-023",
+  "image": {
+    "file": "maximum-weight-hu.svg",
+    "sha1": "63c83c561ddea2efe54ac4865f36af55a253ef27",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-023.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

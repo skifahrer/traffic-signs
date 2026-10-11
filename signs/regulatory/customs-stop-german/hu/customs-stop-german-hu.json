@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "C-035",
+  "image": {
+    "file": "customs-stop-german-hu.svg",
+    "sha1": "4be262eeec42bde26267ce0afe1704d26a6c6b1c",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-035.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

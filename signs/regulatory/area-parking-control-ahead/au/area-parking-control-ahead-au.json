@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-64",
+  "image": {
+    "file": "area-parking-control-ahead-au.svg",
+    "sha1": "8fb913a60425b56dde13a6e9ac58e4c4dc28e381",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-64.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

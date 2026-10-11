@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-005",
+  "image": {
+    "file": "services-hotel-or-motel-hu.svg",
+    "sha1": "40d4254df3414d23a1f6e00bd877dfbbe00c4b95",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-005.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

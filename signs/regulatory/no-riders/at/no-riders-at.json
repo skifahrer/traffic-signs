@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z14a",
+  "image": {
+    "file": "no-riders-at.svg",
+    "sha1": "5da4fc5edb29b1bd63dbceac09207211353e33e3",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_14a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

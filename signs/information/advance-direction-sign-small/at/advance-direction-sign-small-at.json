@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z13a (klein)",
+  "image": {
+    "file": "advance-direction-sign-small-at.svg",
+    "sha1": "f41b980963eb6834fccd7f1adba965b97513ad6d",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_13a_klein_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

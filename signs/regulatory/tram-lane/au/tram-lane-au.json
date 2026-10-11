@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R7-1-5",
+  "image": {
+    "file": "tram-lane-au.svg",
+    "sha1": "0306fdc018f99127d7561e6991638070cb67a9b5",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-1-5.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

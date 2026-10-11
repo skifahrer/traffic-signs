@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-2",
+  "image": {
+    "file": "buses-excepted-au.svg",
+    "sha1": "a0d5d922d8fc10fe57a3b04839fd141122aef949",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

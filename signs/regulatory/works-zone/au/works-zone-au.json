@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-25",
+  "image": {
+    "file": "works-zone-au.svg",
+    "sha1": "fdb37c7103d705b8b6ec1f396171559ef1973807",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-25.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z13b",
+  "image": {
+    "file": "no-stopping-at.svg",
+    "sha1": "9f609cd3284a5e747bc55a60d3eb8374eee327a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_13b.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

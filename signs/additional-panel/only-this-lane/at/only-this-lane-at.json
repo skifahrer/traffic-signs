@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "at",
   "code": "§54 k",
+  "image": {
+    "file": "only-this-lane-at.svg",
+    "sha1": "fd03c295eb918f48400a78c45d0f1d157c2d1d7c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatztafel_k.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

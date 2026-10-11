@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-1 (10)",
+  "image": {
+    "file": "speed-limit-10-au.svg",
+    "sha1": "59011b26b6aea0a1d3fb642319a74d04435d7600",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-1_(10).svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

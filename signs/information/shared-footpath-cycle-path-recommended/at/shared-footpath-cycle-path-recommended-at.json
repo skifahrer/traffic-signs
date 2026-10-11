@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z28a",
+  "image": {
+    "file": "shared-footpath-cycle-path-recommended-at.svg",
+    "sha1": "552c0a718926d336ba91c08f3e339db52d94b544",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_28a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

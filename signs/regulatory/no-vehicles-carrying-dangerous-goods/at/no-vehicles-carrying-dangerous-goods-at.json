@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z7e",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-at.svg",
+    "sha1": "3674d79ce315d112ffc0170b2cd7f2675fbe2f75",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_7e.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

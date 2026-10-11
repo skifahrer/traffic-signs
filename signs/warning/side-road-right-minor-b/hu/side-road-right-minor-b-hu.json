@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-032",
+  "image": {
+    "file": "side-road-right-minor-b-hu.svg",
+    "sha1": "08c3ef1c9806a2d2314bdf8f12289e4db15a2569",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-032.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

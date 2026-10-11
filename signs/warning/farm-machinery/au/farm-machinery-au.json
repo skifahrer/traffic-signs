@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-50",
+  "image": {
+    "file": "farm-machinery-au.svg",
+    "sha1": "210bbd6efb92c5a82197fc402805fd82aa09d814",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-50.svg",
+    "author": "Standards Australia",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W6-9",
+  "image": {
+    "file": "pedestrians-and-cyclists-au.svg",
+    "sha1": "606c2b5131f4a4cef8a44a6c05280c842e60e926",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W6-9.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

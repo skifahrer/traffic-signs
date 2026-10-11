@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "G-202",
+  "image": {
+    "file": "county-border-megye-obsolete-hu.svg",
+    "sha1": "cf82a87bd79a787cc8b4dbd3945b7f673db95fb9",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-202.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

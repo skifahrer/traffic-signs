@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R3-1",
+  "image": {
+    "file": "pedestrian-crossing-au.svg",
+    "sha1": "c4fdaa85e90f3fa2cdc0363a117513cdff30b236",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R3-1.svg",
+    "author": "Standards Australia derivative work: Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

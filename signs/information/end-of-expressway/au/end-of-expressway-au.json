@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R6-21",
+  "image": {
+    "file": "end-of-expressway-au.svg",
+    "sha1": "536ff45e8c8240bb99420adb842e03a306b72c42",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-21.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

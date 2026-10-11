@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R7-9-2",
+  "image": {
+    "file": "end-of-t3-transit-lane-au.svg",
+    "sha1": "4b5044b96738cfa8c3fcdd526f3b15099e81c180",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-9-2.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

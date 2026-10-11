@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R7-5",
+  "image": {
+    "file": "lane-clearance-au.svg",
+    "sha1": "04e0e53201d874bafc9a06beee872844178db453",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-5.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

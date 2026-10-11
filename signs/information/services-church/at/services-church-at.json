@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z3a",
+  "image": {
+    "file": "services-church-at.svg",
+    "sha1": "72348f9a127d7a4d43cecebff8403bb9601fcc99",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_3a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

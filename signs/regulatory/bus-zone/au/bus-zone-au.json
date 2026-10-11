@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-20",
+  "image": {
+    "file": "bus-zone-au.svg",
+    "sha1": "f4824e5b3dc95a7a7b9c5f5038ecf52a92f9a32a",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-20.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

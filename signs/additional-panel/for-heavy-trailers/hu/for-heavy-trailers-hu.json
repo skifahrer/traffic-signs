@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-075",
+  "image": {
+    "file": "for-heavy-trailers-hu.svg",
+    "sha1": "a35bcd1fb4df049ab4b0db3264794549af4c7bad",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-075.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

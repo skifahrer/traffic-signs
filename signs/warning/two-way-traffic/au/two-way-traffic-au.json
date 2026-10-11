@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-11",
+  "image": {
+    "file": "two-way-traffic-au.svg",
+    "sha1": "e59f2dc56f505e7ed3452d17d7f565a90aacbe67",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W4-11.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

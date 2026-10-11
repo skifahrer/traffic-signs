@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§53 Z1a",
+  "image": {
+    "file": "parking-at.svg",
+    "sha1": "004ae8163c33c92a8baa56609b4bcae8a80006ac",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinweiszeichen_1a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

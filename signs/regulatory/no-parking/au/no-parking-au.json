@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-40",
+  "image": {
+    "file": "no-parking-au.svg",
+    "sha1": "93560c6d1fc1fc0ae6e6dd672e106e2c0aed1cff",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-40.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-22",
+  "image": {
+    "file": "truck-crossing-au.svg",
+    "sha1": "589a1decea0c7d68476037d4d5c604b0c59e2550",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-22.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

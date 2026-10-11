@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "at",
   "code": "§52 Z13a",
+  "image": {
+    "file": "no-parking-at.svg",
+    "sha1": "5309596645c4c07f4315207a302c7903e498bdd2",
+    "source": "https://commons.wikimedia.org/wiki/File:Vorschriftszeichen_13a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

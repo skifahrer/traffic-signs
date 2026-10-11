@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-15",
+  "image": {
+    "file": "no-pedestrians-au.svg",
+    "sha1": "756232a9e4ccbd463e9f83b5d6e0a119bbd2f685",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-15.svg",
+    "author": "Standards Australia derivative work: Cassowary derivative work: Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

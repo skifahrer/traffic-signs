@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-20 (motorway)",
+  "image": {
+    "file": "motorway-entrance-au.svg",
+    "sha1": "8150e75f0494b7fc2c93fa09124d7e3ca877a4d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-20_(motorway).svg",
+    "author": "NSW Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,7 +3,15 @@
 
 const PAGE_SIZE = 100; // signs added to the page at a time, as the reader scrolls
 
-const state = { query: "", category: "", group: "", countries: new Set(), shared: false, withdrawn: true };
+const state = { query: "", category: "", group: "", countries: new Set(), shared: false, withdrawn: true, sort: "" };
+
+// Orders of the signs within each type; "" keeps the order of data.json.
+const SORTS = {
+  "": "Default order",
+  "countries-desc": "Most countries first",
+  "countries-asc": "Fewest countries first",
+  name: "Name A–Z",
+};
 let data;
 const signsByKey = new Map(); // "warning/crosswind" -> sign
 // What render() matched, in display order, and how much of it is on the page.
@@ -50,7 +58,7 @@ function shareButton(label, url, title) {
   return button;
 }
 
-// The filters live in the URL (?type=warning&q=bend&countries=sk,cz&shared=1),
+// The filters live in the URL (?type=warning&q=bend&countries=sk,cz&shared=1&sort=name),
 // so a filtered list can be bookmarked or shared as it is.
 function readUrl() {
   const params = new URLSearchParams(location.search);
@@ -58,6 +66,7 @@ function readUrl() {
   state.query = (params.get("q") || "").trim();
   state.shared = params.get("shared") === "1";
   state.withdrawn = params.get("withdrawn") !== "0";
+  state.sort = params.get("sort") in SORTS ? params.get("sort") : "";
   const wanted = (params.get("countries") || "").split(",").filter((c) => c in data.countries);
   const group = groupById(params.get("group"));
   if (group?.countries.length) {
@@ -76,6 +85,7 @@ function writeUrl() {
   else if (state.countries.size !== Object.keys(data.countries).length) params.set("countries", [...state.countries].join(","));
   if (state.shared) params.set("shared", "1");
   if (!state.withdrawn) params.set("withdrawn", "0");
+  if (state.sort) params.set("sort", state.sort);
   const search = params.toString().replace(/%2C/g, ",");
   const url = location.pathname + (search ? `?${search}` : "") + location.hash;
   if (url !== location.pathname + location.search + location.hash) history.replaceState(history.state, "", url);
@@ -115,7 +125,7 @@ function setupGroups() {
 // the type is chosen, else this page with its filters.
 function viewLink() {
   const onlyCategory =
-    state.category && !state.query && !state.shared && state.withdrawn && state.countries.size === Object.keys(data.countries).length;
+    state.category && !state.sort && !state.query && !state.shared && state.withdrawn && state.countries.size === Object.keys(data.countries).length;
   return onlyCategory ? categoryLink(state.category) : location.href.split("#")[0];
 }
 
@@ -169,6 +179,22 @@ function matches(sign) {
     .toLowerCase()
     .split(/\s+/)
     .every((word) => haystack.includes(word));
+}
+
+// How many of the chosen countries have the sign (or only variants of it).
+const chosenCount = (sign) => [...countriesOf(sign)].filter((c) => state.countries.has(c)).length;
+
+// The signs in the order state.sort asks for; ties keep the default order.
+function sorted(signs) {
+  if (state.sort === "name") {
+    return [...signs].sort((a, b) => englishName(a).localeCompare(englishName(b), "en", { sensitivity: "base" }));
+  }
+  if (state.sort.startsWith("countries")) {
+    const sign = state.sort === "countries-asc" ? 1 : -1;
+    const counts = new Map(signs.map((s) => [s, chosenCount(s)]));
+    return [...signs].sort((a, b) => sign * (counts.get(a) - counts.get(b)));
+  }
+  return signs;
 }
 
 function image(src, alt, className) {
@@ -225,7 +251,7 @@ const formatNumber = (n) => n.toLocaleString("en");
 function render() {
   writeUrl();
   view.columns = Object.keys(data.countries).filter((c) => state.countries.has(c));
-  const matching = data.signs.filter(matches);
+  const matching = sorted(data.signs.filter(matches));
   // Display order: category by category, as listed in data.categories.
   view.signs = Object.keys(data.categories).flatMap((category) => matching.filter((s) => s.category === category));
   view.shown = 0;
@@ -379,6 +405,13 @@ function setupControls() {
     ...Object.entries(data.categories).map(([value, label]) => el("option", { value }, label)),
   );
   category.value = state.category;
+  const sort = $("sort");
+  sort.append(...Object.entries(SORTS).map(([value, label]) => el("option", { value }, label)));
+  sort.value = state.sort;
+  sort.addEventListener("change", () => {
+    state.sort = sort.value;
+    render();
+  });
   $("search").value = state.query;
   $("shared").checked = state.shared;
   $("withdrawn").checked = state.withdrawn;

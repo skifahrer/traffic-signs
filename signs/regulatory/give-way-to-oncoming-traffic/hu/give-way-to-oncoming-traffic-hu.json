@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "B-005",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-hu.svg",
+    "sha1": "d6342eb933d82bcab61c25a9324228a4899decf3",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-005.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

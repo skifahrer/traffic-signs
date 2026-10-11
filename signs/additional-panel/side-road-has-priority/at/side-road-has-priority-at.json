@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "at",
   "code": "§54 d",
+  "image": {
+    "file": "side-road-has-priority-at.svg",
+    "sha1": "2b78bede17f5a3b4acbb354c0e146f5e8b86b7e4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatztafel_d.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

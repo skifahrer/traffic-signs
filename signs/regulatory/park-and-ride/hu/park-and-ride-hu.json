@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "E-053",
+  "image": {
+    "file": "park-and-ride-hu.svg",
+    "sha1": "eef938b294e44b3cfb6fd5c3def8dad01482bbb8",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-053.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

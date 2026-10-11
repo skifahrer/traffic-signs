@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-20",
+  "image": {
+    "file": "left-turn-on-red-permitted-after-stopping-au.svg",
+    "sha1": "eba522ccb862038a97d0a0073d74f0afe350fb73",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-20.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

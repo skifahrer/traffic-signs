@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-1-3",
+  "image": {
+    "file": "at-all-times-au.svg",
+    "sha1": "e54a39856d65f563bdb94baae7223f95ae685bea",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-1-3.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

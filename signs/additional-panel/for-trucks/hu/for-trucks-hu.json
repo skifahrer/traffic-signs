@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-062",
+  "image": {
+    "file": "for-trucks-hu.svg",
+    "sha1": "7b610084709a7c53d6fcaaafecb5e3f35d6a7190",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-062.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

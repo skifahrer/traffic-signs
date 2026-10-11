@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-120",
+  "image": {
+    "file": "crossing-bus-traffic-from-the-left-hu.svg",
+    "sha1": "70097445062d9fd78b97f9b0301aef175a58e1be",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-120.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

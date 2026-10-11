@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-37",
+  "image": {
+    "file": "ambulance-station-ahead-au.svg",
+    "sha1": "8867f2f551e4c745d248aa6da7d6325c6c31e6bc",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-37.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

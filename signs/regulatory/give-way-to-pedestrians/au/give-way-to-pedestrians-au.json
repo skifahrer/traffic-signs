@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-10",
+  "image": {
+    "file": "give-way-to-pedestrians-au.svg",
+    "sha1": "9cb4cc54dd7a2484ee07cea9b81503ced406e3c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-10.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W7-13-L",
+  "image": {
+    "file": "railway-level-crossing-on-crossroad-left-au.svg",
+    "sha1": "61c07b4ad8cd8d04029254d262b9669dbcb28daf",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W7-13-L.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

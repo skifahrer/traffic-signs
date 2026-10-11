@@ -3,6 +3,14 @@
   "category": "information",
   "country": "at",
   "code": "§53 Z17a",
+  "image": {
+    "file": "place-name-sign-at.svg",
+    "sha1": "1a98b41f50cf0b55b8aad1c9fca6e8cfb9e2f21e",
+    "source": "https://commons.wikimedia.org/wiki/File:Austria,_Hinweiszeichen_17a_(2010).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

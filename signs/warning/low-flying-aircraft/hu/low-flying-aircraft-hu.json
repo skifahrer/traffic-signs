@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-051",
+  "image": {
+    "file": "low-flying-aircraft-hu.svg",
+    "sha1": "adaace803dcc8dec8b8edae9db3f26e412c24606",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-051.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

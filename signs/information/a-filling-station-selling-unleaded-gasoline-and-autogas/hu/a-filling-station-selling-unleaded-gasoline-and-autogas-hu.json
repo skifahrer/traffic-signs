@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-017",
+  "image": {
+    "file": "a-filling-station-selling-unleaded-gasoline-and-autogas-hu.svg",
+    "sha1": "6830c595ca97c8ed0126fde5e64708d7edece0f7",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-017.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

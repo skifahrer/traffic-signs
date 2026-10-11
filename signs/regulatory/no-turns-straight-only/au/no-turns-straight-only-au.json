@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-7",
+  "image": {
+    "file": "no-turns-straight-only-au.svg",
+    "sha1": "1b4f0fa11cc296cc9d974c0107164b8e7a8ce799",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-7.svg",
+    "author": "Cassowary",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

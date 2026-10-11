@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W3-2",
+  "image": {
+    "file": "give-way-ahead-au.svg",
+    "sha1": "01098ac19a0517d3eac1b27c6b06700d0cfd23ce",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W3-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

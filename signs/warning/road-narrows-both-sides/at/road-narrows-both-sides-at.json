@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "at",
   "code": "§50 Z8a",
+  "image": {
+    "file": "road-narrows-both-sides-at.svg",
+    "sha1": "b87b206405d83836bfade8893d44ad440c8d81f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Gefahrenzeichen_8a.svg",
+    "author": "3247",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "at-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",

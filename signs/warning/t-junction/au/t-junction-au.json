@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-3",
+  "image": {
+    "file": "t-junction-au.svg",
+    "sha1": "ddb88a5fb23127941d454b0427b5b005c56a3287",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W2-3.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

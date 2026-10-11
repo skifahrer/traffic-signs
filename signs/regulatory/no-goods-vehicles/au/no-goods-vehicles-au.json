@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-10-2",
+  "image": {
+    "file": "no-goods-vehicles-au.svg",
+    "sha1": "74d7511a530f61727ebc438d4c01ec4f41026bc8",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-10-2.svg",
+    "author": "Standards Australia derivative work: Cassowary derivative work: Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

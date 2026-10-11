@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-42-R",
+  "image": {
+    "file": "fallen-rocks-right-au.svg",
+    "sha1": "a1a8c244ae35f113c8f09a5cabe86b4e342a1127",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-42-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

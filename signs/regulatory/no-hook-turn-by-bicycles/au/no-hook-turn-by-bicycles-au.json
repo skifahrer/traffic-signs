@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-22",
+  "image": {
+    "file": "no-hook-turn-by-bicycles-au.svg",
+    "sha1": "d6bba2d04a8b4e5e4bfb2e4e84ed41ac9688eab5",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-22.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
