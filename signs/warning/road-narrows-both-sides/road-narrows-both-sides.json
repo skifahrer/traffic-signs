@@ -1,6 +1,7 @@
 {
   "en": "Road narrows (from both sides)",
   "cs": "Zúžená vozovka (z obou stran)",
+  "da": "Vejen indsnævres",
   "de": "Verengte Fahrbahn",
   "de-AT": "Fahrbahnverengung (beidseitig)",
   "el": "Επικίνδυνη στένωση οδοστρώματος",
@@ -12,6 +13,8 @@
   "fr": "Chaussée rétrécie",
   "hu": "Útszűkület (két oldalról)",
   "pl": "zwężenie jezdni — dwustronne",
+  "pt": "Passagem estreita",
   "ro": "Îngustarea șoselei din ambele sensuri",
-  "sk": "Zúžená vozovka (z oboch strán)"
+  "sk": "Zúžená vozovka (z oboch strán)",
+  "uk": "Звуження дороги"
 }

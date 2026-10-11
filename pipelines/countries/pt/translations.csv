@@ -1,0 +1,280 @@
+code,category,slug,name_en,name_pt
+A1a,warning,bend-right,Bend (right),Curva à direita
+A1b,warning,bend-left,Bend (left),Curva à esquerda
+A1c,warning,double-bend-right,Double bend (first to the right),Curva à direita e contracurva
+A1d,warning,double-bend-left,Double bend (first to the left),Curva à esquerda e contracurva
+A2a,warning,hump,Hump,Lomba
+A2b,warning,dip,Dip,Depressão
+A2c,warning,uneven-road,Uneven road,Lomba ou depressão
+A3a,warning,steep-descent,Steep descent,Descida perigosa
+A3b,warning,steep-ascent,Steep ascent,Subida de inclinação acentuada
+A4a,warning,road-narrows-both-sides,Road narrows (from both sides),Passagem estreita
+A4b,warning,road-narrows-left,Road narrows (from the left),Passagem estreita
+A4c,warning,road-narrows-right,Road narrows (from the right),Passagem estreita
+A5,warning,slippery-road,Slippery road,Pavimento escorregadio
+A6,warning,loose-gravel,Loose gravel,Projeção de gravilha
+A7a,warning,dangerous-verge,Dangerous verge,Bermas baixas
+A7b,warning,dangerous-verge-left,Dangerous verge (on the left),Bermas baixas
+A8,warning,quayside,Quayside or river bank,Saída num cais ou precipício
+A9,warning,fallen-rocks,Fallen rocks,Queda de pedras
+A10,warning,movable-bridge,Movable bridge,Ponte móvel
+A11,warning,snow-or-ice,Snow or ice,Neve ou gelo
+A12,warning,crosswind,Crosswind,Vento lateral
+A13,warning,poor-visibility,Poor visibility,Visibilidade insuficiente
+A14,warning,children,Children,Crianças
+A15,warning,elderly-people,Elderly people,Idosos
+A16a,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Passagem de peões
+A16b,warning,pedestrians,Pedestrians,Travessia de peões
+A17,warning,cyclists,Cyclists,Saída de ciclistas
+A18,warning,horse-riders,Horse riders,Cavaleiros
+A19a,warning,domestic-animals,Domestic animals,Animais
+A19b,warning,wild-animals,Wild animals,Animais selvagens
+A20,warning,tunnel-ahead,Tunnel ahead,Túnel
+A21,warning,low-flying-aircraft,Low-flying aircraft,Pista de aviação
+A22,warning,traffic-signals,Traffic signals,Sinalização luminosa
+A23,warning,roadworks,Roadworks,Trabalhos na via
+A24,warning,crossroads-with-minor-road,Crossroads with a road without priority,Cruzamento ou entroncamento
+A25,warning,two-way-traffic,Two-way traffic,Trânsito nos dois sentidos
+A26,warning,level-crossing-with-barriers,Level crossing with barriers,Passagem de nível com guarda
+A27,warning,level-crossing-without-barriers,Level crossing without barriers,Passagem de nível sem guarda
+A28,warning,trams,Trams,Intersecção com via onde circulam veículos sobre carris
+A29,warning,danger,Other danger,Outros perigos
+A30,warning,queues,Queues likely,Congestionamento
+A31,warning,accident,Accident,Obstrução da via
+A32a,warning,level-crossing-cross-single-track,Level crossing cross (single track),"Local de passagem de nível sem guarda (referida também como ""cruz de Santo André"")"
+A32b,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Local de passagem de nível sem guarda com duas ou mais vias
+B1,regulatory,give-way,Give way,Cedência de passagem
+B2,regulatory,stop,"Stop, give way","Paragem obrigatória no cruzamento ou entroncamento (coloquialmente referido como ""sinal de stop"")"
+B3,information,priority-road,Priority road,Via com prioridade
+B4,information,end-of-priority-road,End of priority road,Fim de via com prioridade
+B5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Cedência de passagem nos estreitamentos da faixa de rodagem
+B6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Prioridade nos estreitamentos da faixa de rodagem
+B7,warning,roundabout-ahead,Roundabout ahead,Aproximação de rotunda
+B8,warning,crossroads-with-priority,Crossroads with priority,Cruzamento com via sem prioridade
+B9a,warning,side-road-left-priority,Side road on the left (with priority),Entroncamento com via sem prioridade à esquerda
+B9b,warning,side-road-right-priority,Side road on the right (with priority),Entroncamento com via sem prioridade à direita
+B9c,warning,merging-traffic-from-left,Traffic merging from the left,Confluência sem prioridade à esquerda
+B9d,warning,merging-traffic-from-right,Traffic merging from the right,Confluência sem prioridade à direita
+C1,regulatory,no-entry,No entry,Sentido proibido
+C2,regulatory,no-vehicles,No vehicles,Trânsito proibido
+C3a,regulatory,no-motor-vehicles,No motor vehicles,Trânsito proibido a automóveis e motociclos com carro
+C3b,regulatory,no-motorcycles,No entry for motorcycles,Trânsito proibido a automóveis pesados
+C3c,regulatory,no-goods-vehicles,No entry for goods vehicles,Trânsito proibido a automóveis de mercadorias
+C3d,regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,"Trânsito proibido a automóveis de mercadorias de peso total superior a (3,5) t"
+C3e,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,Trânsito proibido a motociclos simples
+C3f,regulatory,no-mopeds,No entry for mopeds,Trânsito proibido a ciclomotores
+C3g,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,Trânsito proibido a velocípedes
+C3h,regulatory,no-tractors,No entry for tractors,Trânsito proibido a veículos agrícolas
+C3i,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Trânsito proibido a veículos de tração animal
+C3j,regulatory,no-handcarts,No entry for handcarts,Trânsito proibido a carros de mão
+C3l,regulatory,no-pedestrians,No entry for pedestrians,Trânsito proibido a peões
+C3m,regulatory,no-riders,No entry for riders on animals,Trânsito proibido a cavaleiros
+C3n,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Trânsito proibido a veículos com reboque
+C3o,regulatory,no-trailers-over-weight,No trailers over the weight shown,Trânsito proibido a veículos com reboque de dois ou mais eixos
+C3p,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Trânsito proibido a veículos transportando mercadorias perigosas
+C3q,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Trânsito proibido a veículos transportando produtos facilmente inflamáveis ou explosivos
+C3r,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Trânsito proibido a veículos transportando produtos suscetíveis de poluírem as águas
+C4a,regulatory,no-motor-vehicles-or-motorcycles,No motor vehicles or motorcycles,Trânsito proibido a automóveis e motociclos
+C4b,regulatory,no-goods-vehicles-or-trailers,No goods vehicles or vehicles with trailers,Trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque
+C4c,regulatory,no-motor-vehicles-or-animal-drawn-vehicles,No motor vehicles or animal-drawn vehicles,"Trânsito proibido a automóveis, a motociclos e a veículos de tração animal"
+C4d,regulatory,no-goods-vehicles-or-animal-drawn-vehicles,No goods vehicles or animal-drawn vehicles,Trânsito proibido a automóveis de mercadorias e a veículos de tração animal
+C4e,regulatory,no-pedestrians-animals-or-non-motor-vehicles,"No pedestrians, animals or non-motor vehicles","Trânsito proibido a peões, a animais e a veículos que não sejam automóveis ou motociclos"
+C4f,regulatory,no-bicycles-mopeds-or-motorcycles,"No bicycles, mopeds or motorcycles",Trânsito proibido a veículos de duas rodas
+C5,regulatory,maximum-axle-weight,Maximum axle weight,"Trânsito proibido a veículos de peso por eixo superior a (2,5) t"
+C6,regulatory,maximum-weight,Maximum weight,"Trânsito proibido a veículos de peso total superior a (5,5) t"
+C7,regulatory,maximum-length,Maximum length,Trânsito proibido a veículos ou conjunto de veículos de comprimento superior a (10) m
+C8,regulatory,maximum-width,Maximum width,Trânsito proibido a veículos de largura superior a (2) m
+C9,regulatory,maximum-height,Maximum height,"Trânsito proibido a veículos de altura superior a (3,5) m"
+C10,regulatory,minimum-distance,Minimum distance between vehicles,Proibição de transitar a menos de (70) m do veículo precedente
+C11a,regulatory,no-right-turn,No right turn,Proibição de virar à direita
+C11b,regulatory,no-left-turn,No left turn,Proibição de virar à esquerda
+C12,regulatory,no-u-turn,No U-turn,Proibição de inversão do sentido de marcha
+C13,regulatory,speed-limit,Speed limit,Proibição de exceder a velocidade máxima de (40) km/h
+C14a,regulatory,no-overtaking,No overtaking,Proibição de ultrapassar
+C14b,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Proibição de ultrapassar para automóveis pesados
+C14c,regulatory,no-overtaking-by-motorcycles,No overtaking by motorcycles and mopeds,Proibição de ultrapassar para motociclos e ciclomotores
+C15,regulatory,no-parking,No parking,Estacionamento proibido
+C16,regulatory,no-stopping,No stopping,Paragem e estacionamento proibidos
+C17,regulatory,no-horns,Use of horns prohibited,Proibição de sinais sonoros
+C18,regulatory,customs-stop,Customs stop,Paragem obrigatória na alfândega
+C19,regulatory,other-compulsory-stop,Other compulsory stop,Outras paragens obrigatórias
+C20a,regulatory,end-of-all-restrictions,End of all restrictions,Fim de todas as proibições impostas anteriormente por sinalização a veículos em marcha
+C20b,regulatory,end-of-speed-limit,End of speed limit,Fim da limitação de velocidade
+C20c,regulatory,end-of-no-overtaking,End of no overtaking,Fim da proibição de ultrapassar
+C20d,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Fim da proibição de ultrapassar para automóveis pesados
+C20e,regulatory,end-of-no-overtaking-by-motorcycles,End of no overtaking by motorcycles and mopeds,Fim da proibição de ultrapassar para motociclos e ciclomotores
+C21,regulatory,end-of-no-parking,End of no parking,Fim da paragem ou estacionamento proibidos
+C22,regulatory,end-of-no-horns,End of horns prohibited,Fim da proibição de sinais sonoros
+D1a,regulatory,turn-right-here,Turn right here,Sentido obrigatório para a direita
+D1b,regulatory,turn-left-here,Turn left here,Sentido obrigatório para a esquerda
+D1c,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),"Sentido obrigatório em frente, na próxima interseção"
+D1d,regulatory,turn-left,Turn left,"Sentido obrigatório para a esquerda, na próxima interseção"
+D1e,regulatory,turn-right,Turn right,"Sentido obrigatório para a direita, na próxima interseção"
+D2a,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Sentidos obrigatórios possíveis (em frente e para a esquerda)
+D2b,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Sentidos obrigatórios possíveis (em frente e para a direita)s
+D2c,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Sentidos obrigatórios possíveis (para a esquerda e para a direita)
+D3a,regulatory,pass-on-right,Pass on the right,Obrigação de contornar a placa ou obstáculo pela direita
+D3b,regulatory,pass-on-left,Pass on the left,Obrigação de contornar a placa ou obstáculo pela esquerda
+D4,regulatory,roundabout,Roundabout,Rotunda
+D5a,regulatory,goods-vehicles-only,Goods vehicles only,Via obrigatória para automóveis de mercadorias
+D5b,regulatory,heavy-vehicles-only,Heavy vehicles only,Via obrigatória para automóveis pesados
+D6,regulatory,public-transport-lane,Public transport lane,Via reservada a veículos de transporte público
+D7a,regulatory,cycle-path,Cycle path,Pista obrigatória para velocípedes
+D7b,regulatory,footpath,Footpath,Pista obrigatória para peões
+D7c,regulatory,bridleway,Bridleway,Pista obrigatória para cavaleiros
+D7d,regulatory,path-for-cattle,Path for cattle,Pista obrigatória para gado em manada
+D7e,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,"Pista obrigatória para peões e velocípedes, sem separação entre os mesmos"
+D7f,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,"Pista obrigatória para peões e velocípedes, com separação entre os mesmos"
+D8,regulatory,minimum-speed,Minimum speed,Obrigação de transitar à velocidade mínima de (30) km/h
+D9,regulatory,snow-chains-required,Snow chains required,Obrigação de utilizar correntes de neve
+D10,regulatory,headlights-on,Switch on headlights,Obrigação de utilizar as luzes de cruzamento (médios) acesas
+D11a,regulatory,end-of-goods-vehicles-only,End of goods vehicles only,Fim da via obrigatória para automóveis de mercadorias
+D11b,regulatory,end-of-heavy-vehicles-only,End of heavy vehicles only,Fim da via obrigatória para automóveis pesados
+D12,regulatory,end-of-public-transport-lane,End of public transport lane,Fim da via reservada a veículos de transporte público
+D13a,regulatory,end-of-cycle-path,End of cycle path,Fim da pista obrigatória para velocípedes
+D13b,regulatory,end-of-footpath,End of footpath,Fim da pista obrigatória para peões
+D13c,regulatory,end-of-bridleway,End of bridleway,Fim da pista obrigatória para cavaleiros
+D13d,regulatory,end-of-path-for-cattle,End of path for cattle,Fim da pista obrigatória para gado em manada
+D13e,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Fim da pista obrigatória para peões e velocípedes (sem separação entre peões e velocípedes)
+D13f,regulatory,end-of-segregated-footpath-cycle-path,End of segregated footpath and cycle path,Fim da pista obrigatória para peões e velocípedes (com separação entre peões e velocípedes)
+D15,regulatory,end-of-snow-chains-required,End of snow chains required,Fim da obrigação de utilizar correntes de neve
+D16,regulatory,end-of-headlights-on,End of switch on headlights,Fim da obrigação de utilizar as luzes de cruzamento acesas
+E1,information,lane-advance-direction-sign,Advance direction sign by lane,Destinos sobre o itinerário
+E2,information,exit-direction-sign,Exit direction sign,Destinos de saída
+E3,information,lane-directions,Directions of the lanes,Sinal de seleção lateral
+F1a,information,lane-restriction,Restriction in the lane,Aplicação de prescrição a via de trânsito
+F2,information,public-transport-lane-advance,Lane reserved for public transport,Via de trânsito reservada a veículos de transporte público
+G1,regulatory,parking-zone,Parking zone,Zona de estacionamento autorizado
+G2a,regulatory,no-parking-zone,No parking zone,Zona de estacionamento proibido (em qualquer período)
+G2b,regulatory,no-parking-zone-b,No parking zone (variant b),Zona de estacionamento proibido (das 8h às 20h)
+G3,regulatory,no-stopping-zone,No stopping zone,Zona de paragem e estacionamento proibidos
+G4,regulatory,speed-limit-zone,Speed limit zone,Zona de velocidade limitada (a 40 km/h)
+G5a,regulatory,no-vehicles-zone,Zone closed to vehicles,Zona de trânsito proibido
+G5b,regulatory,no-goods-vehicles-zone,Zone closed to goods vehicles,Zona de trânsito proibido (a veículos pesados de mercadorias)
+G6,regulatory,end-of-parking-zone,End of parking zone,Fim de zona de estacionamento autorizado
+G7a,regulatory,end-of-no-parking-zone,End of no parking zone,Fim de zona de paragem e estacionamento proibidos
+G8,regulatory,end-of-speed-limit-zone,End of speed limit zone,Fim de zona de velocidade limitada (a 40 km/h)
+G9,regulatory,end-of-no-vehicles-zone,End of zone closed to vehicles,Fim de todas as proibições impostas na zona
+H1a,regulatory,parking,Parking,Estacionamento autorizado
+H1b,regulatory,parking-garage,Parking (car park building),Estacionamento autorizado
+H2,information,services-hospital,Services (hospital),Hospital
+H3,information,one-way-road,One-way road,Trânsito de sentido único
+H4,information,dead-end,Dead end,Via púbica sem saída
+H5,information,snow-chains-recommended,Snow chains recommended,Correntes de neve recomendadas
+H6,information,recommended-speed,Recommended speed,Velocidade recomendada
+H7,information,pedestrian-crossing,Pedestrian crossing,Passagem para peões
+H8a,information,pedestrian-subway,Pedestrian subway,Passagem desnivelada para peões (em rampa)
+H8b,information,pedestrian-overpass,Pedestrian overpass,Passagem desnivelada para peões (em escada)
+H9,information,services-hospital-emergency,Services (hospital with emergency care),Hospital com urgência médica
+H10,information,services-first-aid,Services (first aid),Posto de socorros
+H11,information,services-breakdown-service,Services (breakdown service),Oficina
+H12,information,services-telephone,Services (telephone),Telefone
+H13a,information,services-filling-station,Services (filling station),Posto de abastecimento de combustível
+H13b,information,services-filling-station-lpg,Services (filling station with LPG),Posto de abastecimento de combustível com tipo de combustível
+H14a,information,services-campsite,Services (campsite),Parque de campismo
+H14b,information,services-caravan-site,Services (caravan site),Parque de caravanismo
+H14c,information,services-camping-and-caravan-site,Services (camping and caravan site),Parque misto para campismo e caravanismo
+H15,information,services-emergency-telephone,Services (emergency telephone),Telefone de emergência
+H16a,information,services-inn,Services (inn),Pousada
+H16b,information,services-hostel,Services (hostel),Alojamento local
+H16c,information,services-youth-hostel,Services (youth hostel),Pousada de juventude
+H17,information,services-hotel-or-motel,Services (hotel or motel),Empreendimento turístico
+H18,information,services-restaurant,Services (roadside restaurant),Restaurante
+H19,information,services-cafe,Services (café or snack bar open every day),Café ou bar
+H20a,information,bus-stop,"Bus, trolleybus or electric bus stop",Paragem de veículos de transporte coletivo de passageiros
+H20b,information,tram-stop,Tram stop,Paragem de veículos de transporte coletivo de passageiros que transitem sobre carris
+H20c,information,school-bus-stop,School bus stop,Paragem de veículos afetos ao transporte de crianças
+H21,information,airport,Airport,Aeroporto
+H22,information,services-information-point,Services (information point),Posto de informações
+H23,information,services-traffic-radio,Services (traffic information radio),Estação de radiodifusão
+H24,information,motorway,Motorway,Autoestrada
+H25,information,motor-road,Road for motor vehicles,Via reservada a automóveis e motociclos
+H26,information,emergency-escape-lane,"Emergency escape lane (straight ahead, road turns left)",Escapatória
+H29a,information,country-border,Country border,Identificação de entrada em Portugal
+H29b,information,country-border-b,Country border (variant b),Identificação de entrada em país estrangeiro
+H31a,information,number-of-lanes,Number and direction of lanes,Número e sentido das vias de trânsito
+H31b,information,number-of-lanes-b,Number and direction of lanes (variant b),Número e sentido das vias de trânsito
+H31c,information,number-of-lanes-c,Number and direction of lanes (variant c),Número e sentido das vias de trânsito
+H31d,information,number-of-lanes-d,Number and direction of lanes (variant d),Número e sentido das vias de trânsito
+H32,information,lane-reduction,Lane reduction,Supressão de via de trânsito
+H33,information,electronic-toll-lane,Electronic toll lane (Via Verde),Via verde
+H35,information,tunnel,Tunnel,Túnel
+H36,information,end-of-snow-chains-recommended,End of snow chains recommended,Fim da recomendação do uso de correntes de neve
+H37,information,end-of-recommended-speed,End of recommended speed,Fim de velocidade recomendada
+H38,information,end-of-motorway,End of motorway,Fim de autoestrada
+H39,information,end-of-motor-road,End of road for motor vehicles,Fim de via reservada a automóveis e motociclos
+H40,regulatory,end-of-parking,End of parking,Fim de estacionamento autorizado
+H41,information,end-of-tunnel,End of tunnel,Fim de túnel
+H42,information,average-speed-check,Average speed check,Velocidade média
+H43,information,speed-camera,Speed camera,Velocidade instantânea
+H44a,information,electronic-toll-section,Electronic toll section,Lanço com cobrança eletrónica de portagem
+H44b,information,electronic-toll-section-b,Electronic toll section (variant b),Lanço com cobrança eletrónica de portagem
+H44c,information,electronic-toll-section-c,Electronic toll section (variant c),Lanço com cobrança eletrónica de portagem
+H45,information,end-of-electronic-toll-section,End of electronic toll section,Fim de lanço com cobrança eletrónica de portagem
+H46,information,residential-zone,Residential zone,Zona residencial ou de coexistência
+I2a,information,advance-direction-sign-distance,Advance direction sign (with distance),"Pré-aviso gráfico de interseção de nível, com indicação da distância"
+I2b,information,advance-direction-sign-roundabout,Advance direction sign (roundabout),Pré-aviso gráfico de rotunda
+I2c,information,advance-direction-sign,Advance direction sign,Pré-aviso gráfico de interseção de nível
+I2d,information,advance-direction-sign-grade-separated,Advance direction sign (grade-separated junction),Pré-aviso gráfico de interseção desnivelada
+I2e,information,advance-direction-sign-motorway,Advance direction sign on the motorway,Pré-aviso gráfico para colocação sobre a via
+I3a,information,advance-direction-sign-reduced,Advance direction sign (reduced),Pré-aviso reduzido de entroncamento
+I3b,information,advance-direction-sign-reduced-b,"Advance direction sign (reduced, variant b)",Pré-aviso reduzido de cruzamento
+I4a,information,services-ahead,Motorway services ahead (with distances),Aproximação de área de serviço
+I5b,information,rest-area-exit-ahead,Exit to a rest area ahead,Aproximação de via de saída para uma área de repouso
+I6,information,route-for-prohibited-left-turn,Route for a prohibited left turn,Pré-sinalização de itinerário
+I7a,information,dead-end-side-road-right,Dead-end side road (to the right),Pré-sinalização de via sem saída
+I7b,information,dead-end-side-road-left,Dead-end side road (to the left),Pré-sinalização de via sem saída
+I8,information,school-direction,Direction to a school,Aproximação de travessia de crianças
+I9a,warning,level-crossing-countdown-markers,Level crossing countdown markers,Aproximação de passagem de nível (sinais colocados do lado direito da via)
+I9d,warning,level-crossing-countdown-markers-left-side,Level crossing countdown markers (placed on the left),Aproximação de passagem de nível (sinais colocados do lado esquerdo da via)
+J1,information,direction-sign,Direction sign,Direção da via de saída
+J2,information,direction-to-airport,Direction to the airport,Direção da via de acesso
+J3a,information,direction-sign-local,Direction sign (destination in town),Indicação de âmbito urbano
+J3b,information,direction-sign-local-b,"Direction sign (destination in town, variant b)",Indicação de âmbito urbano
+L1,information,distance-sign,Distance sign,sinal de confirmação
+N1a,information,place-name-sign,Place name,Início de localidade
+N1b,information,place-name-sign-b,Place name (variant b),"Início de localidade (com características turísticas, geográficas ou culturais notáveis)"
+N2a,information,end-of-place-name-sign,End of place name,Fim de localidade
+N2b,information,end-of-place-name-sign-b,End of place (variant b),"Fim de localidade (com características turísticas, geográficas ou culturais notáveis)"
+O4a,information,exit-countdown-motorway,Exit countdown,Sinal de aproximação de saída
+O5a,traffic-device,divergence-marker,Divergence marker,Baia direcional para balizamento de pontos de divergência
+O5b,traffic-device,divergence-marker-b,Divergence marker (variant b),Baia direcional para balizamento de pontos de divergência
+O6a,traffic-device,direction-board-arrow-left,Direction board (arrow to the left),Baia direcional
+O6b,traffic-device,direction-board-arrow-right,Direction board (arrow to the right),Baia direcional
+O7a,traffic-device,position-marker,Position marker,Baliza de posição
+M1a,additional-panel,distance,Distance,Distância
+M1b,additional-panel,distance-to-stop-line,Distance to the stop line,Distância até um local de paragem obrigatória assinalado pelo sinal B2
+M2,additional-panel,section-length,Length of section,Extensão de um troço
+M3a,additional-panel,section-start-left,Start or end of section (left),Início do local regulamentado
+M3b,additional-panel,section-start,Start of section,Início do local regulamentado
+M3c,additional-panel,section-start-right,Start or end of section (right),Fim do local regulamentado
+M3d,additional-panel,section-end,End of section,Fim do local regulamentado
+M4a,additional-panel,section-continues-left,Section continues (left),Extensão regulamentada
+M4b,additional-panel,section-continues-right,Section continues (right),Extensão regulamentada
+M5,additional-panel,section-continues,Section continues,Repetição da extensão regulamentada
+M6a,additional-panel,section-repetition,Repetition of the sign,Continuação do local regulamentado
+M6b,additional-panel,section-repetition-b,Repetition of the sign (variant b),Continuação do local regulamentado
+M7a,additional-panel,days,Days of the week,Periodicidade
+M7b,additional-panel,time-period,Time period (e.g. 16–18 h),Periodicidade
+M7c,additional-panel,time-period-b,Time period (variant b),Periodicidade
+M7d,additional-panel,days-and-times,Days and times,Periodicidade
+M8a,additional-panel,maximum-duration,Maximum duration,Duração
+M9,additional-panel,weight-limit,Weight limit,Peso
+M10a,additional-panel,except-vehicles-shown,Except the vehicles shown,Aplicação
+M10b,additional-panel,vehicle-type,Type of vehicle,Aplicação
+M12a,additional-panel,parking-position,Parking position,Estacionamento perpendicular à via
+M12b,additional-panel,parking-angled-panel,Parking (angled),Estacionamento em espinha
+M12c,additional-panel,parking-panel-partial-pavement-parallel,Parking partly on the pavement (parallel),"Estacionamento paralelo à via, parcialmente em cima do passeio"
+M12d,additional-panel,parking-panel-pavement-parallel,Parking on the pavement (parallel),"Estacionamento paralelo à via, totalmente em cima do passeio"
+M12e,additional-panel,parking-panel-partial-pavement-perpendicular,Parking partly on the pavement (perpendicular),"Estacionamento perpendicular à via, parcialmente em cima do passeio"
+M12f,additional-panel,parking-panel-pavement-perpendicular,Parking on the pavement (perpendicular),"Estacionamento perpendicular à via, totalmente em cima do passeio"
+M13a,additional-panel,priority-road-course,Course of the priority road,Diagrama da via com prioridade em entroncamento
+M13b,additional-panel,priority-road-course-b,Course of the priority road (variant b),Diagrama da via com prioridade em cruzamento
+M14,additional-panel,text-panel,Text panel,Informação diversa
+M15a,additional-panel,rain,Rain,Chuva
+M15b,additional-panel,snow-or-ice-panel,In snow or ice,Neve ou gelo
+M16,additional-panel,snowplough,Snowplough,Limpa-neves
+M19a,additional-panel,zone-restriction,Zone restriction,Início ou fim de zona regulamentada
+M20,additional-panel,with-charge,Subject to a charge,Estacionamento pago
+D14,regulatory,end-of-minimum-speed,End of minimum speed,Fim da obrigação de transitar à velocidade mínima
+H34,information,vehicle-inspection-centre,Vehicle inspection centre,Centro de inspeções

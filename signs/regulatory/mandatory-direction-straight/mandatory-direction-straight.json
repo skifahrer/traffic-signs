@@ -1,6 +1,7 @@
 {
   "en": "Mandatory direction (straight ahead)",
   "cs": "Přikázaný směr jízdy přímo",
+  "da": "Påbudt kørselsretning",
   "de": "Vorgeschriebene Fahrtrichtung – geradeaus",
   "de-AT": "Vorgeschriebene Fahrtrichtung: Geradeaus",
   "el": "Υποχρεωτική κατεύθυνση πορείας ευθεία",
@@ -10,6 +11,8 @@
   "fr": "Direction obligatoire à la prochaine intersection : tout droit",
   "hu": "Kötelező haladási irány (egyenesen)",
   "pl": "nakaz jazdy prosto",
+  "pt": "Sentido obrigatório em frente, na próxima interseção",
   "ro": "Înainte",
-  "sk": "Prikázaný smer jazdy (priamo)"
+  "sk": "Prikázaný smer jazdy (priamo)",
+  "uk": "Рух прямо"
 }

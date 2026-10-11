@@ -1,6 +1,7 @@
 {
   "en": "Level crossing with barriers",
   "cs": "Železniční přejezd se závorami",
+  "da": "Overkørsel med bomme",
   "de-AT": "Bahnübergang mit Schranken",
   "el": "Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης με κινητά φράγματα",
   "en-GB": "Level crossing with barriers",
@@ -8,5 +9,7 @@
   "fr": "Passage à niveau muni de barrières",
   "hu": "Sorompós vasúti átjáró",
   "pl": "przejazd kolejowy z zaporami",
-  "ro": "Trecere la nivel cu calea ferată, cu bariere"
+  "pt": "Passagem de nível com guarda",
+  "ro": "Trecere la nivel cu calea ferată, cu bariere",
+  "uk": "Залізничний переїзд із шлагбаумом"
 }

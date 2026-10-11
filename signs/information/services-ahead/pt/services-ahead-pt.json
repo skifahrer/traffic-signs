@@ -1,0 +1,11 @@
+{
+  "sign": "services-ahead",
+  "category": "information",
+  "country": "pt",
+  "code": "I4a",
+  "source": {
+    "pipeline": "pt-wikipedia",
+    "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
+    "file": "Portugal road sign I4a.svg"
+  }
+}

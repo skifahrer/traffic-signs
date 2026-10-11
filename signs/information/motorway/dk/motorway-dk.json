@@ -1,0 +1,11 @@
+{
+  "sign": "motorway",
+  "category": "information",
+  "country": "dk",
+  "code": "E42",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E42.svg"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "en": "Level crossing without barriers",
   "cs": "Železniční přejezd bez závor",
+  "da": "Overkørsel uden bomme",
   "de-AT": "Bahnübergang ohne Schranken",
   "el": "Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης χωρίς κινητά φράγματα",
   "en-GB": "Level crossing without barriers",
@@ -8,5 +9,7 @@
   "fr": "Passage à niveau sans barrière",
   "hu": "Sorompó nélküli vasúti átjáró",
   "pl": "przejazd kolejowy bez zapór",
-  "ro": "Trecere la nivel cu calea ferată, fără bariere"
+  "pt": "Passagem de nível sem guarda",
+  "ro": "Trecere la nivel cu calea ferată, fără bariere",
+  "uk": "Залізничний переїзд без шлагбаума"
 }

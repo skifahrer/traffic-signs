@@ -1,6 +1,7 @@
 {
   "en": "Children",
   "cs": "Děti",
+  "da": "Børn på vejen",
   "de-AT": "Achtung Kinder",
   "el": "Κίνδυνος λόγω συχνής κίνησης παιδιών (Σχολείο)",
   "en-AU": "Children",
@@ -11,5 +12,7 @@
   "fr": "Endroit fréquenté par les enfants",
   "hu": "Gyermekek",
   "pl": "dzieci",
-  "ro": "Copii"
+  "pt": "Crianças",
+  "ro": "Copii",
+  "uk": "Діти"
 }

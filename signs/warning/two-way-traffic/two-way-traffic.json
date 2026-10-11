@@ -1,6 +1,7 @@
 {
   "en": "Two-way traffic",
   "cs": "Provoz v obou směrech",
+  "da": "Modkørende færdsel",
   "de": "Gegenverkehr",
   "de-AT": "Achtung Gegenverkehr",
   "el": "Προσοχή, διπλή κυκλοφορία (από μονόδρομο σε διπλής)",
@@ -12,6 +13,8 @@
   "fr": "Circulation dans les deux sens",
   "hu": "Szembejövő forgalom",
   "pl": "odcinek jezdni o ruchu dwukierunkowym",
+  "pt": "Trânsito nos dois sentidos",
   "ro": "Circulație în ambele sensuri",
-  "sk": "Obojsmerná premávka"
+  "sk": "Obojsmerná premávka",
+  "uk": "Двосторонній рух"
 }

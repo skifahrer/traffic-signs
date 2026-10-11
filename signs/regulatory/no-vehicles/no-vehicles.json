@@ -1,6 +1,7 @@
 {
   "en": "No vehicles",
   "cs": "Zákaz vjezdu všech vozidel (v obou směrech)",
+  "da": "Kørsel i begge retninger forbudt",
   "de": "Verbot für Fahrzeuge aller Art",
   "de-AT": "Fahrverbot (in beiden Richtungen)",
   "el": "Κλειστή οδός για όλα τα οχήματα (και προς τις δύο κατευθύνσεις)",
@@ -9,6 +10,8 @@
   "fr": "Circulation interdite à tout véhicule dans les deux sens",
   "hu": "Mindkét irányból behajtani tilos",
   "pl": "zakaz ruchu w obu kierunkach",
+  "pt": "Trânsito proibido",
   "ro": "Circulație interzisă pentru autovehiculele neautorizate",
-  "sk": "Zákaz vjazdu pre všetky vozidlá"
+  "sk": "Zákaz vjazdu pre všetky vozidlá",
+  "uk": "Рух заборонено"
 }

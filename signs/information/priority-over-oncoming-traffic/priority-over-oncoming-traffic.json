@@ -1,6 +1,7 @@
 {
   "en": "Priority over oncoming traffic",
   "cs": "Přednost před protijedoucími vozidly",
+  "da": "Modkørende færdsel skal holde tilbage",
   "de": "Vorrang vor dem Gegenverkehr",
   "de-AT": "Wartepflicht für Gegenverkehr",
   "el": "Προτεραιότητα έναντι της επερχόμενης κυκλοφορίας (σε στενότητα οδού)",
@@ -8,6 +9,8 @@
   "fi": "Etuajo-oikeus kohdattaessa",
   "hu": "Elsőbbség a szembejövő forgalommal szemben",
   "pl": "pierwszeństwo na zwężonym odcinku drogi",
+  "pt": "Prioridade nos estreitamentos da faixa de rodagem",
   "ro": "Prioritate față de vehiculele din sens invers",
-  "sk": "Prednosť pred protiidúcimi vozidlami"
+  "sk": "Prednosť pred protiidúcimi vozidlami",
+  "uk": "Перевага перед зустрічним рухом"
 }

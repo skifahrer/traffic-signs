@@ -1,5 +1,6 @@
 {
   "en": "Road narrows (from the left)",
+  "da": "Vejen indsnævres til venstre",
   "de": "Einseitig verengte Fahrbahn – Verengung links",
   "de-AT": "Fahrbahnverengung (linksseitig)",
   "el": "Επικίνδυνη στένωση οδοστρώματος στην αριστερή πλευρά",
@@ -7,6 +8,8 @@
   "fr": "Chaussée rétrécie par la gauche",
   "hu": "Útszűkület (balról)",
   "pl": "zwężenie jezdni — lewostronne",
+  "pt": "Passagem estreita",
   "ro": "Îngustarea șoselei din stânga",
-  "sk": "Zúžená vozovka (zľava)"
+  "sk": "Zúžená vozovka (zľava)",
+  "uk": "Звуження дороги"
 }

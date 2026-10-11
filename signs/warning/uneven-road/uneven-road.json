@@ -1,6 +1,7 @@
 {
   "en": "Uneven road",
   "cs": "Nerovnost vozovky",
+  "da": "Ujævn vej",
   "de": "Unebene Fahrbahn",
   "de-AT": "Querrinne oder Aufwölbung",
   "el": "Ανώμαλο οδόστρωμα",
@@ -11,6 +12,8 @@
   "fr": "Cassis ou dos-d’âne",
   "hu": "Egyenetlen úttest",
   "pl": "nierówna droga",
+  "pt": "Lomba ou depressão",
   "ro": "Drum denivelat",
-  "sk": "Nerovnosť vozovky"
+  "sk": "Nerovnosť vozovky",
+  "uk": "Нерівна дорога"
 }

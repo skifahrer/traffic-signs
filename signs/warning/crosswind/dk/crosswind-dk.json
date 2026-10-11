@@ -1,0 +1,11 @@
+{
+  "sign": "crosswind",
+  "category": "warning",
+  "country": "dk",
+  "code": "A95",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A95.svg"
+  }
+}

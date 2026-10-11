@@ -1,0 +1,11 @@
+{
+  "sign": "no-right-turn",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C11.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C11.1.svg"
+  }
+}

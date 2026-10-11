@@ -1,0 +1,11 @@
+{
+  "sign": "give-way-to-oncoming-traffic",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "B18",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign B18.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight-or-left",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "D11.6",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign D11.6.svg"
+  }
+}

@@ -1,11 +1,14 @@
 {
   "en": "Maximum height",
   "cs": "Zákaz vjezdu vozidel, jejichž výška přesahuje vyznačenou mez",
+  "da": "Maksimal vognhøjde",
   "de-AT": "Fahrverbot für über … Meter hohe Fahrzeuge",
   "el": "Απαγορεύεται η είσοδος σε οχήματα ύψους μεγαλύτερου του αναγραφόμενου (π.χ. 3.5μ)",
   "en-GB": "Maximum height",
   "fi": "Ajoneuvon suurin sallittu korkeus",
   "fr": "Accès interdit aux véhicules dont la hauteur est supérieure au nombre indiqué",
   "hu": "Magasságkorlátozás",
-  "ro": "Înălțimea maximă"
+  "pt": "Trânsito proibido a veículos de altura superior a (3,5) m",
+  "ro": "Înălțimea maximă",
+  "uk": "Рух транспортних засобів, висота яких перевищує… м, заборонено"
 }

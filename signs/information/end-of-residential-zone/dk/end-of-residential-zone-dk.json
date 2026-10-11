@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-residential-zone",
+  "category": "information",
+  "country": "dk",
+  "code": "E52",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E52.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-with-barriers",
+  "category": "warning",
+  "country": "dk",
+  "code": "A73",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A73.svg"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "en": "End of priority road",
   "cs": "Konec hlavní pozemní komunikace",
+  "da": "Hovedvej ophører",
   "de": "Ende der Vorfahrtstraße",
   "de-AT": "Ende der Vorrangstraße",
   "el": "Τέλος οδού προτεραιότητας",
@@ -8,6 +9,8 @@
   "fr": "Fin du caractère prioritaire d’une route",
   "hu": "Főútvonal vége",
   "pl": "koniec drogi z pierwszeństwem",
+  "pt": "Fim de via com prioridade",
   "ro": "Sfârșitul drumului cu prioritate",
-  "sk": "Koniec hlavnej cesty"
+  "sk": "Koniec hlavnej cesty",
+  "uk": "Кінець головної дороги"
 }

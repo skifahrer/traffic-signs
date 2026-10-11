@@ -1,0 +1,11 @@
+{
+  "sign": "dip",
+  "category": "warning",
+  "country": "dk",
+  "code": "A38",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "A38 dip.svg"
+  }
+}

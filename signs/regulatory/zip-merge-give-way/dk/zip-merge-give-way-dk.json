@@ -1,0 +1,11 @@
+{
+  "sign": "zip-merge-give-way",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "B15",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign B15.svg"
+  }
+}

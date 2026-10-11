@@ -1,0 +1,364 @@
+code,category,slug,name_en,name_uk
+1.1,warning,bend-right,Bend (right),Небезпечний поворот праворуч
+1.2,warning,bend-left,Bend (left),Небезпечний поворот ліворуч
+1.3.1,warning,double-bend-right,Double bend (first to the right),Декілька поворотів
+1.3.2,warning,double-bend-left,Double bend (first to the left),Декілька поворотів
+1.4.1,traffic-device,chevron-board-1-arrow-right,Chevron (right),Напрямок повороту
+1.4.2,traffic-device,chevron-board-1-arrow-left,Chevron (left),Напрямок повороту
+1.4.3,traffic-device,chevron-board-t-junction,Chevron board (T-junction),Напрямок повороту
+1.4.4,traffic-device,chevron-board-1-arrow-right-b,"Chevron board (1 arrow, right-pointing, variant b)",Напрямок повороту
+1.4.5,traffic-device,chevron-board-1-arrow-left-b,"Chevron board (1 arrow, left-pointing, variant b)",Напрямок повороту
+1.4.6,traffic-device,chevron-board-1-arrow-right-c,"Chevron board (1 arrow, right-pointing, variant c)",Напрямок повороту
+1.4.7,traffic-device,chevron-board-1-arrow-left-c,"Chevron board (1 arrow, left-pointing, variant c)",Напрямок повороту
+1.5.1,warning,road-narrows-both-sides,Road narrows (from both sides),Звуження дороги
+1.5.2,warning,road-narrows-right,Road narrows (from the right),Звуження дороги
+1.5.3,warning,road-narrows-left,Road narrows (from the left),Звуження дороги
+1.6,warning,steep-ascent,Steep ascent,Крутий підйом
+1.7,warning,steep-descent,Steep descent,Крутий спуск
+1.8,warning,quayside,Quayside or river bank,Виїзд на набережну або берег
+1.9,warning,tunnel-ahead,Tunnel ahead,Тунель
+1.10,warning,uneven-road,Uneven road,Нерівна дорога
+1.11,warning,hump,Hump,Пагорб
+1.12,warning,dip,Dip,Вибоїна
+1.13,warning,slippery-road,Slippery road,Слизька дорога
+1.14,warning,loose-gravel,Loose gravel,Викидання кам'яних матеріалів
+1.15,warning,dangerous-verge,Dangerous verge,Небезпечне узбіччя
+1.16,warning,fallen-rocks,Fallen rocks,Падіння каміння
+1.17,warning,crosswind,Crosswind,Боковий вітер
+1.18,warning,low-flying-aircraft,Low-flying aircraft,Низьколетючі літаки
+1.19,warning,roundabout-ahead,Roundabout ahead,Перехрещення з рухом по колу
+1.20,warning,trams,Trams,Перехрещення з трамвайною колією
+1.21,warning,intersection,Intersection,Перехрещення рівнозначних доріг
+1.22,warning,crossroads-with-minor-road,Crossroads with a road without priority,Перехрещення з другорядною дорогою
+1.23.1,warning,side-road-right-minor,Side road on the right (without priority),Прилягання другорядної дороги
+1.23.2,warning,side-road-left-minor,Side road on the left (without priority),Прилягання другорядної дороги
+1.23.3,warning,staggered-crossroads-with-first-on-right,Staggered crossroads with first on right,Прилягання другорядної дороги
+1.23.4,warning,staggered-crossroads-with-first-on-left,Staggered crossroads with first on left,Прилягання другорядної дороги
+1.24,warning,traffic-signals,Traffic signals,Світлофорне регулювання
+1.25,warning,movable-bridge,Movable bridge,Розвідний міст
+1.26,warning,two-way-traffic,Two-way traffic,Двосторонній рух
+1.27,warning,level-crossing-with-barriers,Level crossing with barriers,Залізничний переїзд із шлагбаумом
+1.28,warning,level-crossing-without-barriers,Level crossing without barriers,Залізничний переїзд без шлагбаума
+1.29,warning,level-crossing-cross-single-track,Level crossing cross (single track),Одноколійна залізниця
+1.30,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Багатоколійна залізниця
+1.31.1,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Наближення до залізничного переїзду
+1.31.2,warning,level-crossing-countdown-marker-2-bars,Level crossing countdown marker (2 bars),Наближення до залізничного переїзду
+1.31.3,warning,level-crossing-countdown-marker-1-bar,Level crossing countdown marker (1 bar),Наближення до залізничного переїзду
+1.31.4,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Наближення до залізничного переїзду
+1.31.5,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Наближення до залізничного переїзду
+1.31.6,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Наближення до залізничного переїзду
+1.32,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Пішохідний перехід
+1.33,warning,children,Children,Діти
+1.34,warning,cyclists,Cyclists,Виїзд велосипедистів
+1.35,warning,domestic-animals,Domestic animals,Перегін худоби
+1.36,warning,wild-animals,Wild animals,Дикі тварини
+1.37,warning,roadworks,Roadworks,Дорожні роботи
+1.38,warning,queues,Queues likely,Затори в дорожньому русі
+1.39,warning,danger,Other danger,Аварійно-небезпечна ділянка (інша небезпека)
+1.40,warning,change-of-road-surface-type,Change of road surface type,Зміна покриття
+1.41,warning,accident-blackspot,Accident blackspot,Місце (ділянка) зосередження дорожньо-транспортних пригод
+2.1,regulatory,give-way,Give way,Дати дорогу
+2.2,regulatory,stop,"Stop, give way",Проїзд без зупинки заборонено
+2.3,information,priority-road,Priority road,Головна дорога
+2.4,information,end-of-priority-road,End of priority road,Кінець головної дороги
+2.5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Перевага зустрічного руху
+2.6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Перевага перед зустрічним рухом
+3.1,regulatory,no-vehicles,No vehicles,Рух заборонено
+3.2,regulatory,no-motor-vehicles,No motor vehicles,Рух механічних транспортних засобів заборонено
+3.3,regulatory,no-goods-vehicles,No entry for goods vehicles,Рух вантажних автомобілів заборонено
+3.4,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Рух з причепом заборонено
+3.5,regulatory,no-tractors,No entry for tractors,Рух тракторів заборонено
+3.6,regulatory,no-motorcycles,No entry for motorcycles,Рух мотоциклів заборонено
+3.7,regulatory,no-mopeds,No entry for mopeds,Рух на мопедах заборонено
+3.8,regulatory,no-bicycles,No entry for bicycles,Рух на велосипедах заборонено
+3.9,regulatory,no-pedestrians,No entry for pedestrians,Рух пішоходів заборонено
+3.10,regulatory,no-handcarts,No entry for handcarts,Рух з ручними візками заборонено
+3.11,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Рух гужових возів (саней) заборонено
+3.12,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,"Рух транспортних засобів, що перевозять небезпечні вантажі, заборонено"
+3.13,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,"Рух транспортних засобів, що перевозять вибухові та легкозаймисті вантажі, заборонено"
+3.14,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,"Рух транспортних засобів, що перевозять речовини, які забруднюють воду, заборонено"
+3.15,regulatory,maximum-weight,Maximum weight,"Рух транспортних засобів, маса яких перевищує… т, заборонено"
+3.16,regulatory,maximum-axle-weight,Maximum axle weight,"Рух транспортних засобів, навантаження на вісь яких перевищує… т, заборонено"
+3.17,regulatory,maximum-width,Maximum width,"Рух транспортних засобів, ширина яких перевищує… м, заборонено"
+3.18,regulatory,maximum-height,Maximum height,"Рух транспортних засобів, висота яких перевищує… м, заборонено"
+3.19,regulatory,maximum-length,Maximum length,"Рух транспортних засобів, довжина яких перевищує… м, заборонено"
+3.20,regulatory,minimum-distance,Minimum distance between vehicles,Рух транспортних засобів без дотримання дистанції… м заборонено
+3.21,regulatory,no-entry,No entry,В'їзд заборонено
+3.22,regulatory,no-right-turn,No right turn,Поворот праворуч заборонено
+3.23,regulatory,no-left-turn,No left turn,Поворот ліворуч заборонено
+3.24,regulatory,no-u-turn,No U-turn,Розворот заборонено
+3.25,regulatory,no-overtaking,No overtaking,Обгін заборонено
+3.26,regulatory,end-of-no-overtaking,End of no overtaking,Кінець заборони обгону
+3.27,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Обгін вантажним автомобілям заборонено
+3.28,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Кінець заборони обгону вантажним автомобілям
+3.29,regulatory,speed-limit,Speed limit,Обмеження максимальної швидкості
+3.30,regulatory,end-of-speed-limit,End of speed limit,Кінець обмеження максимальної швидкості
+3.31,regulatory,speed-limit-zone,Speed limit zone,Зона обмеження максимальної швидкості
+3.32,regulatory,end-of-speed-limit-zone,End of speed limit zone,Кінець зони обмеження максимальної швидкості
+3.33,regulatory,no-horns,Use of horns prohibited,Подачу звукового сигналу заборонено
+3.34,regulatory,no-stopping,No stopping,Зупинку заборонено
+3.35,regulatory,no-parking,No parking,Стоянку заборонено
+3.36,regulatory,no-parking-odd-days,No parking on odd days,Стоянку заборонено в непарні числа місяця
+3.37,regulatory,no-parking-even-days,No parking on even days,Стоянку заборонено в парні числа місяця
+3.38,regulatory,no-parking-zone,No parking zone,Зона обмеженої стоянки
+3.39,regulatory,end-of-no-parking-zone,End of no parking zone,Кінець зони обмеженої стоянки
+3.40,regulatory,customs-stop,Customs stop,Митниця
+3.41,regulatory,police-check-stop,Police check stop,Контроль
+3.42,regulatory,end-of-all-restrictions,End of all restrictions,Кінець усіх заборон і обмежень
+3.43,regulatory,stop-for-dangers-including-traffic-accidents-natural,"Stop for dangers, including traffic accidents, natural disasters or other road obstructions",Небезпека
+3.44,regulatory,road-closed-to-the-displayed-vehicles,Road closed to the displayed vehicles,Рух зазначених транспортних засобів заборонено
+3.45,regulatory,road-closed-to-the-displayed-vehicles-3-45,Road closed to the displayed vehicles,Рух зазначених транспортних засобів заборонено
+4.1,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Рух прямо
+4.2,regulatory,turn-right-here,Turn right here,Рух праворуч
+4.3,regulatory,turn-left-here,Turn left here,Рух ліворуч
+4.4,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Рух прямо або праворуч
+4.5,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Рух прямо або ліворуч
+4.6,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Рух праворуч або ліворуч
+4.7,regulatory,keep-right,Keep right,Об'їзд перешкоди з правого боку
+4.8,regulatory,keep-left,Keep left,Об'їзд перешкоди з лівого боку
+4.9,regulatory,pass-on-either-side,Pass on either side,Об'їзд перешкоди з правого або лівого боку
+4.10,regulatory,roundabout,Roundabout,Круговий рух
+4.11,regulatory,road-for-movement-of-passenger-cars,Road for movement of passenger cars,Рух легкових автомобілів
+4.12,regulatory,minimum-speed,Minimum speed,Обмеження мінімальної швидкості
+4.13,regulatory,end-of-minimum-speed,End of minimum speed,Кінець обмеження мінімальної швидкості
+4.14,regulatory,cycle-path,Cycle path,Велодоріжка
+4.15,regulatory,end-of-cycle-path,End of cycle path,Кінець велодоріжки
+4.16,regulatory,footpath,Footpath,Доріжка для пішоходів
+4.17,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Доріжка для пішоходів і велосипедистів
+4.18,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,Суміжні пішохідна та велосипедна доріжки
+4.19,regulatory,bridleway,Bridleway,Доріжка для вершників
+4.20.1,regulatory,vehicles-carrying-dangerous-goods-may-proceed-straight-ahead,Vehicles carrying dangerous goods may proceed straight ahead only,Напрямок руху транспортних засобів з небезпечними вантажами
+4.20.2,regulatory,vehicles-carrying-dangerous-goods-may-turn-right-only,Vehicles carrying dangerous goods may turn right only,Напрямок руху транспортних засобів з небезпечними вантажами
+4.20.3,regulatory,vehicles-carrying-dangerous-goods-may-turn-left-only,Vehicles carrying dangerous goods may turn left only,Напрямок руху транспортних засобів з небезпечними вантажами
+4.21,regulatory,snow-chains-required,Snow chains required,Рух зі застосуванням ланцюгів проти ковзання
+4.22,regulatory,end-of-snow-chains-required,End of snow chains required,Кінець ділянки руху зі застосуванням ланцюгів проти ковзання
+4.23,regulatory,combined-cars-vehicles-and-bicycles-traffic,Combined cars vehicles and bicycles traffic,Дорога для суміщеного руху легкових автомобілів та велосипедистів
+4.24,regulatory,end-of-combined-cars-vehicles-and-bicycles-traffic,End of combined cars vehicles and bicycles traffic,Кінець дороги для суміщеного руху легкових автомобілів та велосипедистів
+5.1,information,motorway,Motorway,Автомагістраль
+5.2,information,end-of-motorway,End of motorway,Кінець автомагістралі
+5.3,information,motor-road,Road for motor vehicles,Дорога для автомобілів
+5.4,information,end-of-motor-road,End of road for motor vehicles,Кінець дороги для автомобілів
+5.5,information,one-way-road,One-way road,Дорога з одностороннім рухом
+5.6,information,end-of-one-way-road,End of one-way road,Кінець дороги з одностороннім рухом
+5.7.1,information,rightward-one-way-street,Rightward one-way street,Виїзд на дорогу з одностороннім рухом
+5.7.2,information,leftward-one-way-street,Leftward one-way street,Виїзд на дорогу з одностороннім рухом
+5.8,information,one-way-street-with-reverse-lane-for-buses,One-way street with reverse lane for buses,Дорога із смугою для руху маршрутних транспортних засобів
+5.9,information,one-way-street-with-reverse-lane-for-buses-ends,One-way street with reverse lane for buses ends,Кінець дороги із смугою для руху маршрутних транспортних засобів
+5.10.1,information,entrance-road-with-bus-lane,Entrance to a road with a bus lane,Виїзд на дорогу із смугою для руху маршрутних транспортних засобів
+5.10.2,information,entrance-road-with-bus-lane-b,Entrance to a road with a bus lane (variant b),Виїзд на дорогу із смугою для руху маршрутних транспортних засобів
+5.10.3,information,entrance-road-with-bus-lane-c,Entrance to a road with a bus lane (variant c),Виїзд на дорогу із смугою для руху маршрутних транспортних засобів
+5.10.4,information,entrance-road-with-bus-lane-d,Entrance to a road with a bus lane (variant d),Виїзд на дорогу із смугою для руху маршрутних транспортних засобів
+5.11,regulatory,public-transport-lane,Public transport lane,Смуга для руху маршрутних транспортних засобів
+5.12,regulatory,end-of-public-transport-lane,End of public transport lane,Кінець смуги для руху маршрутних транспортних засобів
+5.13,information,reversible-lane-begins,Reversible Lane begins,Дорога з реверсивним рухом
+5.14,information,reversible-lane-ends,Reversible Lane ends,Кінець дороги з реверсивним рухом
+5.15,information,crossing-the-reversible-lane,Crossing the reversible lane,Виїзд на дорогу з реверсивним рухом
+5.16,information,mandatory-direction-of-lanes,Mandatory direction of lanes,Напрямки руху по смугах
+5.17.1,information,narrowing-of-a-lane,Narrowing of a lane,Напрямок руху по смугах
+5.17.2,information,narrowing-of-a-lane-5-17-2,Narrowing of a lane,Напрямок руху по смугах
+5.18,information,mandatory-direction-of-a-lane,Mandatory direction of a lane,Напрямок руху по смузі
+5.19.1,information,lane-use,Use of lanes,Використання смуги руху
+5.19.2,information,lane-use-b,Use of lanes (variant b),Використання смуги руху
+5.19.3,information,lane-use-c,Use of lanes (variant c),Використання смуги руху
+5.20.1,information,additional-lane-on-the-right-begins,Additional lane on the right begins,Початок додаткової смуги руху
+5.20.2,information,additional-lane-on-the-left-begins,Additional lane on the left begins,Початок додаткової смуги руху
+5.21.1,information,end-of-additional-lane-right,End of additional lane (on the right),Кінець додаткової смуги руху
+5.21.2,information,end-of-additional-lane-left,End of additional lane (on the left),Кінець додаткової смуги руху
+5.22,information,right-lane-merges-with-traffic-coming-from-other-road,Right lane merges with traffic coming from other road,Прилягання смуги для розгону транспортних засобів
+5.23,information,lane-on-the-right-begins-with-traffic-coming-from-other-road,Lane on the right begins with traffic coming from other road,Прилягання додаткової смуги руху з правого боку
+5.24,information,minimum-speed-on-different-traffic-lanes,Minimum speed on different traffic lanes.,Мінімальна швидкість на різних смугах руху
+5.25,information,minimum-speed-in-the-traffic-lane,Minimum speed in the traffic lane.,Мінімальна швидкість на смузі руху
+5.26,information,maximum-speed-limit-on-different-traffic-lanes,Maximum speed limit on different traffic lanes.,Обмеження максимальної швидкості на різних смугах руху
+5.27.1,information,lane-closed-proceed-into-oncoming-lane,"Lane closed, proceed into oncoming lane",Зміна напрямку руху на дорозі з розділювальною смугою
+5.27.2,information,do-not-enter-to-oncoming-lane-return-to-your-lane,"Do not enter to oncoming lane, return to your lane",Зміна напрямку руху на дорозі з розділювальною смугою
+5.28,information,emergency-escape-lane-for-runaway-vehicles,Emergency escape lane for runaway vehicles,Смуга руху для аварійної зупинки
+5.29,information,u-turn-place,U-turn place,Місце для розвороту
+5.30,information,u-turn-zone,U-turn zone,Зона для розвороту
+5.31.1,information,trucks-proceed-straight-only,Trucks proceed straight only,Напрямок руху для вантажних автомобілів
+5.31.2,information,trucks-proceed-right-only,Trucks proceed right only,Напрямок руху для вантажних автомобілів
+5.31.3,information,trucks-proceed-left-only,Trucks proceed left only,Напрямок руху для вантажних автомобілів
+5.32.1,information,dead-end,Dead end,Глухий кут
+5.32.2,information,dead-end-side-road-left,Dead-end side road (to the left),Глухий кут
+5.32.3,information,dead-end-side-road-right,Dead-end side road (to the right),Глухий кут
+5.33,information,recommended-speed,Recommended speed,Рекомендована швидкість
+5.34,information,residential-zone,Residential zone,Житлова зона
+5.35,information,end-of-residential-zone,End of residential zone,Кінець житлової зони
+5.36,information,pedestrian-zone,Pedestrian zone,Пішохідна зона
+5.37,information,end-of-pedestrian-zone,End of pedestrian zone,Кінець пішохідної зони
+5.38.1,information,pedestrian-crossing,Pedestrian crossing,Пішохідний перехід
+5.38.2,information,pedestrian-crossing-left-side,Pedestrian crossing (placed on the left),Пішохідний перехід
+5.39,information,diagonal-pedestrian-crossing,Diagonal pedestrian crossing,Діагональний пішохідний перехід
+5.40.1,information,stairway-down,Stairway down,Підземний пішохідний перехід
+5.40.2,information,stairway-down-5-40-2,Stairway down,Підземний пішохідний перехід
+5.41.1,information,stairway-up,Stairway up,Надземний пішохідний перехід
+5.41.2,information,stairway-up-5-41-2,Stairway up,Надземний пішохідний перехід
+5.42.1,regulatory,parking,Parking,Місце для стоянки
+5.42.2,information,parking-5-42-2,Parking,Місце для стоянки
+5.42.3,information,truck-parking,Truck parking,Місце для стоянки
+5.43,regulatory,parking-zone,Parking zone,Зона стоянки
+5.44,regulatory,end-of-parking-zone,End of parking zone,Кінець зони стоянки
+5.45.1,information,bus-stop,"Bus, trolleybus or electric bus stop",Пункт зупинки автобуса
+5.45.2,information,bus-stop-ends,Bus stop ends,Кінець пункту зупинки автобуса
+5.46.1,information,tram-stop,Tram stop,Пункт зупинки трамвая
+5.46.2,information,tram-stop-ends,Tram stop ends,Кінець пункту зупинки трамвая
+5.47.1,information,trolleybus-stop,Trolleybus stop,Пункт зупинки тролейбуса
+5.47.2,information,trolleybus-stop-ends,Trolleybus stop ends,Кінець пункту зупинки тролейбуса
+5.48,information,taxi-rank,Taxi rank,Місце зупинки таксі
+5.49,information,place-name-sign,Place name,Початок населеного пункту
+5.50,information,end-of-place-name-sign,End of place name,Кінець населеного пункту
+5.51,information,village-begins,Village begins,Початок населеного пункту
+5.52,information,village-ends,Village ends,Кінець населеного пункту
+5.53,information,built-up-area,Built-up area,Початок забудови населеного пункту
+5.54,information,end-of-built-up-area,End of built-up area,Кінець забудови населеного пункту
+5.55,information,national-speed-limits,National speed limits (at the border),Загальні обмеження швидкості та розклад застосування денних ходових вогнів (ближнього світла фар)
+5.56,information,other-road-restrictions-such-as-for-a-mountainous-road-ahead,Other road restrictions (such as for a mountainous road ahead),Можливість використання дороги
+5.62,information,alternative-route-to-meet-your-destination-where-left-turn,Alternative route to meet your destination where left turn is prohibited,Схема руху
+5.63,information,alternative-route-for-closed-road,Alternative route for closed road,Схема об'їзду
+5.64.1,information,detour-route-on-straight,Detour route on straight,Напрямок об'їзду
+5.64.2,information,detour-route-on-right,Detour route on right,Напрямок об'їзду
+5.64.3,information,detour-route-on-left,Detour route on left,Напрямок об'їзду
+5.65.1,information,street-name,Street name sign,Назва об'єкта
+5.65.2,information,river-name,River or valley name,Назва об'єкта
+5.66,information,route-number,Route number,Номер маршруту (дороги)
+5.67.1,information,road-number-and-direction,Road number and direction,Номер і напрямок маршруту (дороги)
+5.67.2,information,road-number-and-direction-b,Road number and direction (variant b),Номер і напрямок маршруту (дороги)
+5.67.3,information,road-number-and-direction-c,Road number and direction (variant c),Номер і напрямок маршруту (дороги)
+5.68,information,distance-marker,Distance marker,Кілометровий знак
+5.69,information,stop-used-where-a-regular-stop-sign-is-not-needed-such-as,"Stop (used where a regular stop sign is not needed, such as unprotected railway crossings)",Місце зупинки
+5.70,information,new-road-signs-ahead-2014-2021,New road signs ahead (2014–2021),Зміна схеми руху
+5.71,information,airport,Airport,Аеропорт
+5.72,information,train-station,Train station,Залізничний вокзал чи пункт зупинки поїздів
+5.73,information,bus-station,Bus station,Автовокзал чи автостанція
+5.74,information,tunnel,Tunnel,Тунель
+5.75,information,end-of-tunnel,End of tunnel,Закінчення тунелю
+5.76,information,speed-camera,Speed camera,Автоматична відеофіксація порушень Правил дорожнього руху
+5.77,information,sea-river-port-or-station,Sea (river) port or station,Морський (річковий) порт чи вокзал
+5.78,information,services-traffic-radio,Services (traffic information radio),"Радіостанції, що передають інформацію про дорожній рух"
+5.79.1,information,emergency-exit-right,Emergency exit (to the right),Аварійний вихід
+5.79.2,information,emergency-exit-left,Emergency exit (to the left),Аварійний вихід
+5.80.1,information,indicators-of-directions-and-distances-to-emergency-exits,Indicators of directions and distances to emergency exits,Покажчики напрямків і відстані до аварійних виходів
+5.80.2,information,indicators-of-directions-and-distances-to-emergency-exits-5-80-2,Indicators of directions and distances to emergency exits,Покажчики напрямків і відстані до аварійних виходів
+5.81,information,indicators-of-directions-and-distances-to-emergency-exits-5-81,Indicators of directions and distances to emergency exits,Покажчик напрямків і відстані до аварійних виходів
+5.82.1,information,toll-road,Toll road,Платна дорога
+5.82.2,information,expressway-ends-toll-payment-required,Expressway ends (toll/payment required),Кінець платної дороги
+5.83.1,information,toll-road-5-83-1,Toll road,Платна дорога
+5.83.2,information,end-of-toll,End of toll,Кінець платної дороги
+5.84,information,border-zone,Border zone,Початок прикордонної смуги
+5.85,information,end-of-the-border-zone,End of the border zone,Кінець прикордонної смуги
+5.86,information,controlled-border-zone,Controlled border zone,Початок контрольованого прикордонного району
+5.87,information,end-of-the-controlled-border-zone,End of the controlled border zone,Кінець контрольованого прикордонного району
+5.88,information,bicycle-lane,Bicycle lane,Велосмуга
+5.89,information,end-of-bicycle-lane,End of bicycle lane,Кінець велосмуги
+5.90,information,pedestrian-and-cycle-zone,Pedestrian and cycle zone,Зона для пішоходів і велосипедистів
+5.91,information,end-of-pedestrian-and-cycle-zone,End of pedestrian and cycle zone,Кінець зони для пішоходів і велосипедистів
+5.92.1,information,cyclist-crossing-placed-on-right-side-of-road,Cyclist crossing (placed on right side of road),Велопереїзд
+5.92.2,information,cyclist-crossing-placed-on-left-side-of-road,Cyclist crossing (placed on left side of road),Велопереїзд
+5.93.1,information,pedestrians-and-cyclist-crossing-placed-on-right-side-of,Pedestrians and Cyclist crossing (placed on right side of road),Суміжні пішохідний перехід та велопереїзд
+5.93.2,information,pedestrians-and-cyclist-crossing-placed-on-left-side-of-road,Pedestrians and Cyclist crossing (placed on left side of road),Суміжні пішохідний перехід та велопереїзд
+5.94.1,information,contraflow-bicycle-lane,Contraflow bicycle lane,Дорога зі зустрічною велосмугою
+5.94.2,information,end-of-contraflow-bicycle-lane,End of contraflow bicycle lane,Кінець дороги зі зустрічною велосмугою
+5.95.1,information,entrance-to-a-road-with-one-way-traffic-and-an-oncoming,Entrance to a road with one-way traffic and an oncoming bicycle lane (right),Виїзд на дорогу з одностороннім рухом і зустрічною велосмугою
+5.95.2,information,entrance-to-a-road-with-one-way-traffic-and-an-oncoming-5-95-2,Entrance to a road with one-way traffic and an oncoming bicycle lane (left),Виїзд на дорогу з одностороннім рухом і зустрічною велосмугою
+5.96.1,information,area-of-dimensional-and-weight-control,Area of dimensional and weight control,Зона габаритно-вагового контролю
+5.96.2,information,end-of-area-of-dimensional-and-weight-control,End of area of dimensional and weight control,Кінець зони габаритно-вагового контролю
+6.1,information,services-first-aid,Services (first aid),Пункт першої медичної допомоги
+6.2,information,services-hospital,Services (hospital),Лікарня
+6.3,information,services-emergency-telephone,Services (emergency telephone),Телефон для виклику аварійної служби
+6.4,information,fire-extinguisher,Fire extinguisher,Вогнегасник
+6.5,information,services-breakdown-service,Services (breakdown service),Пункт технічного обслуговування
+6.6,information,services-car-wash,Services (car wash),Пункт миття автомобілів
+6.7.1,information,services-filling-station,Services (filling station),Автозаправні станції
+6.7.2,information,filling-only-gas-station,Filling-only gas station,Автозаправні станції
+6.7.3,information,services-ev-charging-station,Services (EV charging station),Електрозарядні станції
+6.7.4,information,gas-station-with-mixed-services,Gas station with mixed services,Автозаправні станції
+6.7.5,information,gas-station-combined-with-a-charging-station,Gas station combined with a charging station,Автозаправні та електрозарядні станції
+6.7.6,information,gas-station-combined-with-a-charging-station-6-7-6,Gas station combined with a charging station,Автозаправні та електрозарядні станції
+6.7.7,information,gas-station-combined-with-a-charging-station-6-7-7,Gas station combined with a charging station,Автозаправні та електрозарядні станції
+6.8,information,services-telephone,Services (telephone),Телефон
+6.9,information,services-information-point,Services (information point),Пункт довідкової служби
+6.10,information,police,Police,Дорожні станції патрульної поліції
+6.11,information,services-toilets,Services (toilets),Туалет
+6.12,information,drinking-water,Drinking water,Питна вода
+6.13,information,services-restaurant,Services (roadside restaurant),Ресторан або їдальня
+6.14,information,services-cafe,Services (café or snack bar open every day),Кафе
+6.15,information,rest-area,Rest area,Місце відпочинку
+6.16,information,services-hotel-or-motel,Services (hotel or motel),Готель або мотель
+6.17,information,tourist-base,Tourist base,Туристична база
+6.18,information,services-campsite,Services (campsite),Кемпінг
+6.19,information,caravan-parking,Parking for caravans and motorhomes,Місце стоянки причепів у кемпінгу
+6.20,information,services-camping-and-caravan-site,Services (camping and caravan site),Ділянка для табору автотуристів і місце стоянки причепів у кемпінгу
+6.21,information,beaches-or-pools,Beaches or pools,Пляж або басейн
+6.22,information,national-historic-cultural-tourist-site,National historic/cultural/tourist site,Визначні місця
+6.23,information,services-tyre-repair,Services (tyre repair),Шиномонтаж
+7.1.1,additional-panel,distance,Distance,Відстань до об'єкта
+7.1.2,additional-panel,distance-to-stop-line,Distance to the stop line,Відстань до об'єкта
+7.1.3,additional-panel,above-sign-indicating-a-distance-in-300-meters-to-the-left,Above sign indicating a distance in 300 meters to the left,Відстань до об'єкта
+7.1.4,additional-panel,above-sign-indicating-a-distance-in-100-meters-to-the-right,Above sign indicating a distance in 100 meters to the right,Відстань до об'єкта
+7.2.1,additional-panel,section-length,Length of section,Зона дії
+7.2.2,additional-panel,above-sign-indicating-where-stopping-and-parking-prohibited,Above sign indicating where stopping and parking prohibited in length in 10 meters,Зона дії
+7.2.3,additional-panel,above-sign-indicating-where-no-stopping-and-parking-ends,Above sign indicating where no stopping and parking ends,Зона дії
+7.2.4,additional-panel,above-sign-indicating-where-no-stopping-and-parking-in-both,Above sign indicating where no stopping and parking in both directions,Зона дії
+7.2.5,additional-panel,above-sign-indicating-where-stopping-and-parking-prohibited-7-2-5,Above sign indicating where stopping and parking prohibited in length in 30 meters on right side,Зона дії
+7.2.6,additional-panel,above-sign-indicating-where-stopping-and-parking-prohibited-7-2-6,Above sign indicating where stopping and parking prohibited in length in 25 meters on left side,Зона дії
+7.2.7,additional-panel,zone-of-validity,Zone of validity,Зона дії
+7.3.1,additional-panel,above-sign-indicating-of-object-on-the-right,Above sign indicating of object on the right,Напрямок дії
+7.3.2,additional-panel,above-sign-indicating-of-object-on-the-left,Above sign indicating of object on the left,Напрямок дії
+7.3.3,additional-panel,above-sign-indicating-of-object-on-both-sides-of-road,Above sign indicating of object on both sides of road,Напрямок дії
+7.4.1,additional-panel,above-sign-indicating-a-time-during-saturdays-sundays-and,"Above sign indicating a time during Saturdays, Sundays and holidays",Час дії
+7.4.2,additional-panel,above-sign-effective-during-working-days,Above sign effective during working days,Час дії
+7.4.3,additional-panel,above-sign-effective-during-weekdays,Above sign effective during weekdays,Час дії
+7.4.4,additional-panel,above-sign-effective-during-times,Above sign effective during times,Час дії
+7.4.5,additional-panel,above-sign-effective-during-saturdays-sundays-and-public,"Above sign effective during Saturdays, Sundays and public holidays during times",Час дії
+7.4.6,additional-panel,above-sign-effective-during-working-days-during-times,Above sign effective during working days during times,Час дії
+7.4.7,additional-panel,above-sign-effective-during-weekdays-during-times,Above sign effective during weekdays during times,Час дії
+7.5.1,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Вид транспортного засобу
+7.5.2,additional-panel,vehicle-type-with-trailers,Type of vehicle (with trailers),Вид транспортного засобу
+7.5.3,additional-panel,vehicle-type-cars,Type of vehicle (cars),Вид транспортного засобу
+7.5.4,additional-panel,vehicle-type-buses,Type of vehicle (buses),Вид транспортного засобу
+7.5.5,additional-panel,vehicle-type-tractors,Type of vehicle (tractors),Вид транспортного засобу
+7.5.6,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Вид транспортного засобу
+7.5.7,additional-panel,vehicle-type-bicycles,Type of vehicle (bicycles),Вид транспортного засобу
+7.5.8,additional-panel,vehicle-type-dangerous-goods,Type of vehicle (carrying dangerous goods),Вид транспортного засобу
+7.5.9,additional-panel,vehicle-type,Type of vehicle,Вид транспортного засобу
+7.6.1,additional-panel,park-parallel-to-curb,Park parallel to curb,Спосіб поставлення транспортного засобу на стоянку
+7.6.2,additional-panel,park-straddling-curb-when-minimum-distance-is-possible,Park straddling curb (when minimum distance is possible),Спосіб поставлення транспортного засобу на стоянку
+7.6.3,additional-panel,park-on-sidewalk-when-minimum-distance-is-possible,Park on sidewalk (when minimum distance is possible),Спосіб поставлення транспортного засобу на стоянку
+7.6.4,additional-panel,park-parallel-to-curb-7-6-4,Park parallel to curb,Спосіб поставлення транспортного засобу на стоянку
+7.6.5,additional-panel,park-straddling-curb-when-minimum-distance-is-possible-7-6-5,Park straddling curb (when minimum distance is possible),Спосіб поставлення транспортного засобу на стоянку
+7.6.6,additional-panel,park-on-sidewalk-when-minimum-distance-is-possible-7-6-6,Park on sidewalk (when minimum distance is possible),Спосіб поставлення транспортного засобу на стоянку
+7.6.7,additional-panel,degree-parking,Degree parking,Спосіб поставлення транспортного засобу на стоянку
+7.7,additional-panel,no-idling-during-parking,No idling during parking,Стоянка з непрацюючим двигуном
+7.8,additional-panel,priority-road-course,Course of the priority road,Напрямок головної дороги
+7.9,additional-panel,only-this-lane,Applies only to this lane,Смуга руху
+7.10,additional-panel,number-of-curves-in-road,Number of curves in road,Кількість поворотів
+7.11,additional-panel,approach-to-ferry,Approach to ferry,Поромна переправа
+7.12,additional-panel,above-sign-applied-during-winter-conditions,Above sign applied during winter conditions,Ожеледиця
+7.13,additional-panel,when-wet,When wet,Вологе покриття
+7.14,additional-panel,toll-payment-required,Toll/payment required,Платні послуги
+7.15,additional-panel,raised-viewing-platform-for-cars,Raised viewing platform for cars,Місце для огляду автомобілів
+7.16,additional-panel,blind-pedestrians-may-be-crossing,Blind pedestrians may be crossing,Пішоходи з порушенням зору
+7.17,additional-panel,disabled-parking,Parking for disabled persons,Особи з інвалідністю
+7.18,additional-panel,except-disabled,Except disabled persons,Крім осіб з інвалідністю
+7.19,additional-panel,maximum-duration,Maximum duration,Обмеження тривалості стоянки
+7.20,additional-panel,temperature-limit,Temperature limit,Обмеження за температурою
+7.21.1,additional-panel,other-danger-frontal-collision-area,Other danger: frontal collision area,Вид небезпеки
+7.21.2,additional-panel,other-danger-rear-end-collision-area,Other danger: rear-end collision area,Вид небезпеки
+7.21.3,additional-panel,other-danger-collision-with-pedestrian-likely,Other danger: collision with pedestrian likely,Вид небезпеки
+7.21.4,additional-panel,other-danger-collision-with-cyclist-likely,Other danger: collision with cyclist likely,Вид небезпеки
+7.21.5,additional-panel,other-danger-rollover-area,Other danger: rollover area,Вид небезпеки
+7.22,additional-panel,other-danger-this-section-of-road-passes-near-ski-slopes-or,"Other danger: this section of road passes near ski slopes or trails, or other winter sports areas",Лижники
+7.23,additional-panel,a-place-for-charging-electric-cars,A place for charging electric cars,Місце для зарядки електромобілів
+7.24,additional-panel,tow-away-zone,Tow away zone,Евакуатор
+7.25,additional-panel,safety-island,Safety island,Острівець безпеки
+7.26,additional-panel,period-of-use-of-daytime-running-light,Period of use of daytime running light,Строк застосування денних ходових вогнів (ближнього світла фар)
+7.27,additional-panel,road-marking,Road marking,Нанесення розмітки
+7.28.1,additional-panel,type-of-public-transport-metro,Type of public transport (metro),Вид громадського транспорту
+7.28.2,additional-panel,type-of-public-transport-bus,Type of public transport (bus),Вид громадського транспорту
+7.28.3,additional-panel,type-of-public-transport-trolleybus,Type of public transport (trolleybus),Вид громадського транспорту
+7.28.4,additional-panel,type-of-public-transport-tram,Type of public transport (tram),Вид громадського транспорту
+7.29.1,additional-panel,direction-of-movement-of-cyclists,Direction of movement of cyclists,Напрямок велоруху
+7.29.2,additional-panel,direction-of-movement-of-cyclists-7-29-2,Direction of movement of cyclists,Напрямок велоруху
+7.29.3,additional-panel,direction-of-movement-of-cyclists-7-29-3,Direction of movement of cyclists,Напрямок велоруху
+7.29.4,additional-panel,direction-of-movement-of-cyclists-7-29-4,Direction of movement of cyclists,Напрямок велоруху
+7.29.5,additional-panel,direction-of-movement-of-cyclists-7-29-5,Direction of movement of cyclists,Напрямок велоруху
+7.29.6,additional-panel,direction-of-movement-of-cyclists-7-29-6,Direction of movement of cyclists,Напрямок велоруху

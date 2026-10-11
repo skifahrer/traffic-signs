@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C23.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C23.1.svg"
+  }
+}

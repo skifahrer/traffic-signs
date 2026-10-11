@@ -1,6 +1,7 @@
 {
   "en": "Footpath",
   "cs": "Stezka pro chodce",
+  "da": "Gangsti",
   "de": "Gehweg",
   "de-AT": "Gehweg",
   "el": "Οδός αποκλειστικής κυκλοφορίας πεζών (πεζόδρομος)",
@@ -8,6 +9,8 @@
   "fr": "Chemin obligatoire pour piétons",
   "hu": "Gyalogút",
   "pl": "droga dla pieszych",
+  "pt": "Pista obrigatória para peões",
   "ro": "Pistă pietonală",
-  "sk": "Cestička pre chodcov"
+  "sk": "Cestička pre chodcov",
+  "uk": "Доріжка для пішоходів"
 }

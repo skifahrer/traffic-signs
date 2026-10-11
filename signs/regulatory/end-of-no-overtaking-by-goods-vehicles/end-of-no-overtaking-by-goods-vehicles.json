@@ -1,6 +1,7 @@
 {
   "en": "End of no overtaking by goods vehicles",
   "cs": "Konec zákazu předjíždění pro nákladní automobily",
+  "da": "Overhalingsforbud med lastbil ophører",
   "de": "Ende des Überholverbotes für Kraftfahrzeuge über 3,5 t",
   "de-AT": "Ende des Überholverbotes für Lastkraftfahrzeuge",
   "el": "Τέλος απαγόρευσης προσπεράσματος από φορτηγά άνω των 3,5 τόνων",
@@ -8,5 +9,7 @@
   "fr": "Fin d’interdiction de dépasser pour les véhicules de transport de marchandises",
   "hu": "Tehergépkocsikra vonatkozó előzési tilalom vége",
   "pl": "koniec zakazu wyprzedzania przez samochody ciężarowe",
-  "sk": "Koniec zákazu predchádzania pre nákladné vozidlá"
+  "pt": "Fim da proibição de ultrapassar para automóveis pesados",
+  "sk": "Koniec zákazu predchádzania pre nákladné vozidlá",
+  "uk": "Кінець заборони обгону вантажним автомобілям"
 }

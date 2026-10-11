@@ -1,6 +1,7 @@
 {
   "en": "Roadworks",
   "cs": "Práce na silnici",
+  "da": "Vejarbejde",
   "de": "Arbeitsstelle",
   "de-AT": "Baustelle",
   "el": "Κίνδυνος λόγω εκτέλεσης έργων στο οδόστρωμα",
@@ -10,6 +11,8 @@
   "fr": "Travaux",
   "hu": "Úton folyó munkák",
   "pl": "roboty na drodze",
+  "pt": "Trabalhos na via",
   "ro": "Lucrări",
-  "sk": "Práca"
+  "sk": "Práca",
+  "uk": "Дорожні роботи"
 }

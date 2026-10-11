@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-all-restrictions",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C59",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C59.svg"
+  }
+}

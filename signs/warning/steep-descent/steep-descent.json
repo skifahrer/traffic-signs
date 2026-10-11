@@ -1,6 +1,7 @@
 {
   "en": "Steep descent",
   "cs": "Nebezpečné klesání",
+  "da": "Stejl nedkørsel",
   "de-AT": "Gefährliches Gefälle mit … %",
   "el": "Επικίνδυνη κατωφέρεια (κατηφόρα)",
   "en-AU": "Steep Descent",
@@ -11,5 +12,7 @@
   "fr": "Descente dangereuse",
   "hu": "Veszélyes lejtő",
   "pl": "niebezpieczny zjazd",
-  "ro": "Drum în coborâre periculoasă (Pantă)"
+  "pt": "Descida perigosa",
+  "ro": "Drum în coborâre periculoasă (Pantă)",
+  "uk": "Крутий спуск"
 }

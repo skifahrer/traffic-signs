@@ -1,6 +1,7 @@
 {
   "en": "Cycle path",
   "cs": "Stezka pro cyklisty",
+  "da": "Cykelsti",
   "de": "Radweg",
   "de-AT": "Radweg",
   "el": "Οδός αποκλειστικής κυκλοφορίας ποδηλάτων",
@@ -10,6 +11,8 @@
   "fr": "Piste ou bande obligatoire pour les cycles",
   "hu": "Kerékpárút",
   "pl": "droga dla rowerów",
+  "pt": "Pista obrigatória para velocípedes",
   "ro": "Pistă de bicicliști",
-  "sk": "Cyklistická komunikácia"
+  "sk": "Cyklistická komunikácia",
+  "uk": "Велодоріжка"
 }

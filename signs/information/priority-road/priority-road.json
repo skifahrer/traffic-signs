@@ -1,6 +1,7 @@
 {
   "en": "Priority road",
   "cs": "Hlavní pozemní komunikace",
+  "da": "Hovedvej",
   "de": "Vorfahrtstraße",
   "de-AT": "Beginn der Vorrangstraße",
   "el": "Οδός προτεραιότητας",
@@ -8,6 +9,8 @@
   "fr": "Route à caractère prioritaire",
   "hu": "Főútvonal",
   "pl": "droga z pierwszeństwem",
+  "pt": "Via com prioridade",
   "ro": "Drum cu prioritate",
-  "sk": "Hlavná cesta"
+  "sk": "Hlavná cesta",
+  "uk": "Головна дорога"
 }

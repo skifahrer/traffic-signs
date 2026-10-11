@@ -1,0 +1,11 @@
+{
+  "sign": "no-motorcycles",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C22.2",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C22.2.svg"
+  }
+}

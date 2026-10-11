@@ -1,0 +1,11 @@
+{
+  "sign": "bridleway",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "D23",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign D23.svg"
+  }
+}

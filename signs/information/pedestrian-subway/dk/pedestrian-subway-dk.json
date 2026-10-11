@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-subway",
+  "category": "information",
+  "country": "dk",
+  "code": "E26.2",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E26.2.svg"
+  }
+}

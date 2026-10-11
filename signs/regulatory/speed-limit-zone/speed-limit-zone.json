@@ -4,5 +4,7 @@
   "el": "Περιοχή ορίου ταχύτητας (π.χ. 50 χλμ/ώρα)",
   "fi": "Nopeusrajoitusalue",
   "hu": "Korlátozott sebességű övezet",
-  "ro": "Zonă cu viteză limitată"
+  "pt": "Zona de velocidade limitada (a 40 km/h)",
+  "ro": "Zonă cu viteză limitată",
+  "uk": "Зона обмеження максимальної швидкості"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "recommended-route-mopeds",
+  "category": "information",
+  "country": "dk",
+  "code": "E21.4",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E21.4.svg"
+  }
+}

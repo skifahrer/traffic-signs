@@ -1,0 +1,11 @@
+{
+  "sign": "one-way-road",
+  "category": "information",
+  "country": "dk",
+  "code": "E19",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E19.svg"
+  }
+}

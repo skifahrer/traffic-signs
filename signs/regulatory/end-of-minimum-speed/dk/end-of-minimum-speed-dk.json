@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-minimum-speed",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "D56",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign D56.svg"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "en": "No right turn",
   "cs": "Zákaz odbočování vpravo",
+  "da": "Højresving forbudt",
   "de-AT": "Einbiegen nach rechts verboten",
   "el": "Απαγορεύεται η δεξιά στροφή",
   "en-AU": "No Right Turn (standard version; except New South Wales)",
@@ -11,6 +12,8 @@
   "fr": "Interdiction de tourner à droite à la prochaine intersection",
   "hu": "Jobbra bekanyarodni tilos",
   "pl": "zakaz skręcania w prawo",
+  "pt": "Proibição de virar à direita",
   "ro": "Virajul la dreapta interzis",
-  "sk": "Zákaz odbočenia (vpravo)"
+  "sk": "Zákaz odbočenia (vpravo)",
+  "uk": "Поворот праворуч заборонено"
 }

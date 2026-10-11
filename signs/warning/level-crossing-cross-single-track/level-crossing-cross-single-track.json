@@ -1,6 +1,7 @@
 {
   "en": "Level crossing cross (single track)",
   "cs": "Výstražný kříž pro železniční přejezd jednokolejný",
+  "da": "Enkeltsporet overkørsel",
   "de-AT": "Andreaskreuz (eingleisig)",
   "el": "Κίνδυνος άμεσης γειτνίασης με σιδηροδρομική διάβαση (μονή γραμμή)",
   "en-AU": "Railway Crossing",
@@ -9,5 +10,7 @@
   "en-US": "Railroad crossing (crossbuck)",
   "fi": "Tasoristeys",
   "hu": "Egyvágányú vasúti átjáró",
-  "pl": "krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym"
+  "pl": "krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym",
+  "pt": "Local de passagem de nível sem guarda (referida também como \"cruz de Santo André\")",
+  "uk": "Одноколійна залізниця"
 }

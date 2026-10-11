@@ -1,6 +1,7 @@
 {
   "en": "Give way",
   "cs": "Dej přednost v jízdě!",
+  "da": "Ubetinget vigepligt",
   "de": "Vorfahrt gewähren",
   "de-AT": "Vorrang geben",
   "el": "Υποχρεωτική παραχώρηση προτεραιότητας",
@@ -12,6 +13,8 @@
   "fr": "Cédez le passage",
   "hu": "Elsőbbségadás kötelező",
   "pl": "ustąp pierwszeństwa",
+  "pt": "Cedência de passagem",
   "ro": "Cedează trecerea",
-  "sk": "Daj prednosť v jazde!"
+  "sk": "Daj prednosť v jazde!",
+  "uk": "Дати дорогу"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "no-u-turn",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C12",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C12.svg"
+  }
+}

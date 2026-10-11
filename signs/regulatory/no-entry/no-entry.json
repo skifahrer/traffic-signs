@@ -1,6 +1,7 @@
 {
   "en": "No entry",
   "cs": "Zákaz vjezdu všech vozidel",
+  "da": "Indkørsel forbudt",
   "de": "Verbot der Einfahrt",
   "de-AT": "Einfahrt verboten",
   "el": "Απαγορεύεται η είσοδος σε όλα τα οχήματα",
@@ -12,6 +13,8 @@
   "fr": "Sens interdit à tout véhicule",
   "hu": "Behajtani tilos",
   "pl": "zakaz wjazdu",
+  "pt": "Sentido proibido",
   "ro": "Acces interzis",
-  "sk": "Zákaz vjazdu"
+  "sk": "Zákaz vjazdu",
+  "uk": "В'їзд заборонено"
 }

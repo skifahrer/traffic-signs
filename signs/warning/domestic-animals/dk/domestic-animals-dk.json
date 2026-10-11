@@ -1,0 +1,11 @@
+{
+  "sign": "domestic-animals",
+  "category": "warning",
+  "country": "dk",
+  "code": "A27",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A27.svg"
+  }
+}

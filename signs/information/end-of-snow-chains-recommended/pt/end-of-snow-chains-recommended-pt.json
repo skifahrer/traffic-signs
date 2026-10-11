@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-snow-chains-recommended",
+  "category": "information",
+  "country": "pt",
+  "code": "H36",
+  "source": {
+    "pipeline": "pt-wikipedia",
+    "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
+    "file": "Portugal road sign H36.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "residential-zone",
+  "category": "information",
+  "country": "dk",
+  "code": "E51",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E51.svg"
+  }
+}

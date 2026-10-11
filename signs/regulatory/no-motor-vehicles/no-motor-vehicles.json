@@ -1,8 +1,11 @@
 {
   "en": "No motor vehicles",
   "cs": "Zákaz vjezdu všech motorových vozidel",
+  "da": "Motorkøretøjer forbudt",
   "fr": "Accès interdit aux véhicules à moteur à l’exception des cyclomoteurs",
   "pl": "zakaz wjazdu pojazdów silnikowych",
+  "pt": "Trânsito proibido a automóveis e motociclos com carro",
   "ro": "Circulație interzisă pentru autovehicule",
-  "sk": "Zákaz vjazdu pre všetky motorové vozidlá"
+  "sk": "Zákaz vjazdu pre všetky motorové vozidlá",
+  "uk": "Рух механічних транспортних засобів заборонено"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "parking-garage",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "E33.2",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E33.2.svg"
+  }
+}

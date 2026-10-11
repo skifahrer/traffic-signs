@@ -1,0 +1,11 @@
+{
+  "sign": "give-way",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "B11",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign B11.svg"
+  }
+}

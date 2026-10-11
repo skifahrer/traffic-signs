@@ -1,6 +1,7 @@
 {
   "en": "End of no overtaking",
   "cs": "Konec zákazu předjíždění",
+  "da": "Overhalingsforbud ophører",
   "de": "Ende des Überholverbotes für Kraftfahrzeuge aller Art",
   "de-AT": "Ende des Überholverbotes",
   "el": "Τέλος απαγόρευσης προσπεράσματος",
@@ -8,6 +9,8 @@
   "fr": "Fin d’interdiction de dépasser",
   "hu": "Előzési tilalom vége",
   "pl": "koniec zakazu wyprzedzania",
+  "pt": "Fim da proibição de ultrapassar",
   "ro": "Sfârșitul restricției de depășire",
-  "sk": "Koniec zákazu predchádzania"
+  "sk": "Koniec zákazu predchádzania",
+  "uk": "Кінець заборони обгону"
 }

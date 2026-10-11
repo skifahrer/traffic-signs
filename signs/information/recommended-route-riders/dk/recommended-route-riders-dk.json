@@ -1,0 +1,11 @@
+{
+  "sign": "recommended-route-riders",
+  "category": "information",
+  "country": "dk",
+  "code": "E21.3",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E21.3.svg"
+  }
+}

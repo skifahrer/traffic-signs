@@ -1,6 +1,7 @@
 {
   "en": "Crosswind",
   "cs": "Boční vítr",
+  "da": "Sidevind",
   "de-AT": "Seitenwind",
   "el": "Κίνδυνος λόγω συχνού ισχυρού ανέμου (πλευρικός άνεμος)",
   "en-GB": "Side winds",
@@ -9,6 +10,8 @@
   "fr": "Vent latéral",
   "hu": "Oldalszél",
   "pl": "boczny wiatr",
+  "pt": "Vento lateral",
   "ro": "Vânturi laterale",
-  "sk": "Bočný vietor"
+  "sk": "Bočný vietor",
+  "uk": "Боковий вітер"
 }

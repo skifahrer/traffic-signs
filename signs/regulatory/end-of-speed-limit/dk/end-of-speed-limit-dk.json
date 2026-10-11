@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C56",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C56.svg"
+  }
+}

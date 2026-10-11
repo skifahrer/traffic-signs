@@ -1,0 +1,11 @@
+{
+  "sign": "children",
+  "category": "warning",
+  "country": "dk",
+  "code": "A22",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A22.svg"
+  }
+}

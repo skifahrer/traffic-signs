@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C62",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C62.svg"
+  }
+}

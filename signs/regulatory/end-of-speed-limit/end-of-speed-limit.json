@@ -1,10 +1,13 @@
 {
   "en": "End of speed limit",
   "cs": "Konec nejvyšší dovolené rychlosti",
+  "da": "Lokal hastighedsbegrænsning ophører",
   "de-AT": "Ende der Geschwindigkeits- beschränkung von … km/h",
   "el": "Τέλος ορίου ταχύτητας (π.χ. 60 χλμ/ώρα)",
   "en-AU": "Speed De-restriction",
   "fi": "Nopeusrajoitus päättyy",
   "hu": "Sebességkorlátozás vége",
-  "ro": "Sfârșitul limitei de viteze"
+  "pt": "Fim da limitação de velocidade",
+  "ro": "Sfârșitul limitei de viteze",
+  "uk": "Кінець обмеження максимальної швидкості"
 }

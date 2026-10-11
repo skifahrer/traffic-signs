@@ -1,11 +1,14 @@
 {
   "en": "Customs stop",
+  "da": "Passage uden stop forbudt",
   "de-AT": "Halt Zoll",
   "el": "Τελωνείο",
   "fi": "Pakollinen pysäyttäminen tullitarkastusta varten",
   "fr": "Arrêt au poste de douane",
   "hu": "Kötelező megállás (vám, általános)",
   "pl": "stój — kontrola celna",
+  "pt": "Paragem obrigatória na alfândega",
   "ro": "Vamă",
-  "sk": "Povinné zastavenie vozidla (CLO - ZOLL)"
+  "sk": "Povinné zastavenie vozidla (CLO - ZOLL)",
+  "uk": "Митниця"
 }

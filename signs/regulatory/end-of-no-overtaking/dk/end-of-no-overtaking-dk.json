@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking",
+  "category": "regulatory",
+  "country": "dk",
+  "code": "C53",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign C53.svg"
+  }
+}

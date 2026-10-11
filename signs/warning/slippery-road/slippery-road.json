@@ -1,6 +1,7 @@
 {
   "en": "Slippery road",
   "cs": "Nebezpečí smyku",
+  "da": "Risiko for glat vej",
   "de": "Schleuder- oder Rutschgefahr",
   "de-AT": "Schleudergefahr",
   "el": "Ολισθηρό οδόστρωμα",
@@ -11,6 +12,8 @@
   "fr": "Chaussée glissante",
   "hu": "Csúszós úttest",
   "pl": "śliska jezdnia",
+  "pt": "Pavimento escorregadio",
   "ro": "Drum alunecos",
-  "sk": "Nebezpečenstvo šmyku"
+  "sk": "Nebezpečenstvo šmyku",
+  "uk": "Слизька дорога"
 }

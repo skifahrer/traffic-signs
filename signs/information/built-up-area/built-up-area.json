@@ -1,8 +1,10 @@
 {
   "en": "Built-up area",
   "cs": "Obec",
+  "da": "Tættere bebygget område",
   "el": "Αρχή κατοικημένης περιοχής",
   "fi": "Taajama",
   "hu": "Lakott terület kezdete (1)",
-  "pl": "obszar zabudowany"
+  "pl": "obszar zabudowany",
+  "uk": "Початок забудови населеного пункту"
 }

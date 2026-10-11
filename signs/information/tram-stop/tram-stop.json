@@ -1,9 +1,12 @@
 {
   "en": "Tram stop",
   "cs": "Zastávka tramvaje",
+  "da": "Letbanestoppested",
   "fi": "Raitiovaunupysäkki",
   "hu": "Villamos-megállóhely",
   "pl": "przystanek tramwajowy",
+  "pt": "Paragem de veículos de transporte coletivo de passageiros que transitem sobre carris",
   "ro": "Stație de tramvai",
-  "sk": "Zastávka (električka)"
+  "sk": "Zastávka (električka)",
+  "uk": "Пункт зупинки трамвая"
 }

@@ -1,6 +1,7 @@
 {
   "en": "Traffic signals",
   "cs": "Světelné signály",
+  "da": "Lyssignal",
   "de": "Lichtzeichenanlage",
   "de-AT": "Vorankündigung eines Lichtzeichens",
   "el": "Προσοχή, κόμβος ή θέση όπου η κυκλοφορία ρυθμίζεται με φωτεινούς σηματοδότες",
@@ -10,6 +11,8 @@
   "fr": "Feux tricolores",
   "hu": "Forgalomirányító fényjelző készülék",
   "pl": "sygnały świetlne",
+  "pt": "Sinalização luminosa",
   "ro": "Semafor",
-  "sk": "Svetelné signály"
+  "sk": "Svetelné signály",
+  "uk": "Світлофорне регулювання"
 }

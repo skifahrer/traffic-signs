@@ -1,0 +1,11 @@
+{
+  "sign": "built-up-area",
+  "category": "information",
+  "country": "dk",
+  "code": "E55",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign E55.svg"
+  }
+}

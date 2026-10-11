@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-single-track",
+  "category": "warning",
+  "country": "dk",
+  "code": "A74.1",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A74.1.svg"
+  }
+}

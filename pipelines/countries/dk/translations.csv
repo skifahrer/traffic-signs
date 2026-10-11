@@ -1,0 +1,136 @@
+code,category,slug,name_en,name_da
+A11,warning,crossroads-with-minor-road,Crossroads with a road without priority,"Farligt vejkryds, hvor den krydsende trafik har ubetinget vigepligt."
+A12.1,warning,side-road-right-minor,Side road on the right (without priority),"Farligt vejkryds, hvor sidevej til højre har ubetinget vigepligt."
+A16,warning,roundabout-ahead,Roundabout ahead,Rundkørsel
+A17,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Fodgængerfelt
+A18,warning,two-way-traffic,Two-way traffic,Modkørende færdsel
+A19,warning,traffic-signals,Traffic signals,Lyssignal
+A20,warning,queues,Queues likely,Risiko for kødannelse
+A21,warning,cyclists,Cyclists,Cyklister på kørebanen
+A22,warning,children,Children,Børn på vejen
+A23,warning,horse-riders,Horse riders,Ryttere
+A26,warning,wild-animals,Wild animals,Dyrevildt
+A27,warning,domestic-animals,Domestic animals,Kreaturer
+A31,warning,slippery-road,Slippery road,Risiko for glat vej
+A33,warning,loose-gravel,Loose gravel,Løse sten
+A34,warning,fallen-rocks,Fallen rocks,Stenskred
+A35,warning,dangerous-verge,Dangerous verge,Farlig rabat
+A36,warning,speed-bump,Speed bump,Bump på vejen
+A37,warning,uneven-road,Uneven road,Ujævn vej
+A38,warning,dip,Dip,Dyk i vejen
+A39,warning,roadworks,Roadworks,Vejarbejde
+A41.1,warning,bend-right,Bend (right),Skarpt højresving
+A41.2,warning,bend-left,Bend (left),Skarpt venstresving
+A42.1,warning,double-bend-right,Double bend (first to the right),"Flere sving, først til højre"
+A42.2,warning,double-bend-left,Double bend (first to the left),"Flere sving, først til venstre"
+A43.1,warning,road-narrows-both-sides,Road narrows (from both sides),Vejen indsnævres
+A43.2,warning,road-narrows-left,Road narrows (from the left),Vejen indsnævres til venstre
+A43.3,warning,road-narrows-right,Road narrows (from the right),Vejen indsnævres til højre
+A44,warning,tunnel-ahead,Tunnel ahead,Tunnel
+A46.1,warning,steep-descent,Steep descent,Stejl nedkørsel
+A46.2,warning,steep-ascent,Steep ascent,Stejl stigning
+A71,warning,trams,Trams,Letbane
+A72,warning,level-crossing-without-barriers,Level crossing without barriers,Overkørsel uden bomme
+A73,warning,level-crossing-with-barriers,Level crossing with barriers,Overkørsel med bomme
+A74.1,warning,level-crossing-cross-single-track,Level crossing cross (single track),Enkeltsporet overkørsel
+A74.2,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Flersporet overkørsel
+A75,warning,level-crossing-countdown-markers,Level crossing countdown markers,Afstand til jernbaneoverkørsel
+A91,warning,movable-bridge,Movable bridge,Oplukkelig bro
+A92,warning,quayside,Quayside or river bank,Havnekaj
+A95,warning,crosswind,Crosswind,Sidevind
+A96,warning,low-flying-aircraft,Low-flying aircraft,Lavtgående fly
+A97,warning,low-flying-helicopters,Low-flying helicopters or sudden helicopter noise,Lavtgående helikoptere
+A99,warning,danger,Other danger,Anden fare
+B11,regulatory,give-way,Give way,Ubetinget vigepligt
+B13,regulatory,stop,"Stop, give way",Fuld stop
+B15,regulatory,zip-merge-give-way,Merging traffic (give way in turn),Sammenfletning
+B16,information,priority-road,Priority road,Hovedvej
+B17,information,end-of-priority-road,End of priority road,Hovedvej ophører
+B18,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Hold for modkørende
+B19,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Modkørende færdsel skal holde tilbage
+C11.1,regulatory,no-right-turn,No right turn,Højresving forbudt
+C11.2,regulatory,no-left-turn,No left turn,Venstresving forbudt
+C12,regulatory,no-u-turn,No U-turn,U-vending forbudt
+C19,regulatory,no-entry,No entry,Indkørsel forbudt
+C21,regulatory,no-vehicles,No vehicles,Kørsel i begge retninger forbudt
+C22.1,regulatory,no-motor-vehicles,No motor vehicles,Motorkøretøjer forbudt
+C22.2,regulatory,no-motorcycles,No entry for motorcycles,Motorcykler forbudt
+C23.1,regulatory,no-goods-vehicles,No entry for goods vehicles,Indkørsel forbudt for lastbiler
+C23.2,regulatory,no-buses,No entry for buses and trolleybuses,Busser forbudt
+C23.3,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Kørsel med farligt gods forbudt
+C24.1,regulatory,no-tractors,No entry for tractors,Traktorer forbudt
+C24.2,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Kørsel med hestevogn forbudt
+C25.1,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,Cyklister forbudt
+C25.2,regulatory,no-mopeds,No entry for mopeds,Knallerter forbudt
+C26.1,regulatory,no-riders,No entry for riders on animals,Ridning og føring af hest forbudt
+C26.2,regulatory,no-pedestrians,No entry for pedestrians,Fodgængere forbudt
+C31,regulatory,maximum-weight,Maximum weight,Maximal totalvægt af køretøj
+C32,regulatory,maximum-weight-combination,Maximum weight of a vehicle combination,Maksimal totalvægt for vogntog
+C35,regulatory,maximum-axle-weight,Maximum axle weight,Maksimal akseltryk
+C36,regulatory,maximum-bogie-weight,Maximum bogie weight,Maksimal bogietryk
+C41,regulatory,maximum-width,Maximum width,Maksimal vognbredde
+C42,regulatory,maximum-height,Maximum height,Maksimal vognhøjde
+C43,regulatory,maximum-length,Maximum length,Maksimal vognlængde
+C51,regulatory,no-overtaking,No overtaking,Overhaling forbudt
+C52,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Overhaling med lastbil forbudt
+C53,regulatory,end-of-no-overtaking,End of no overtaking,Overhalingsforbud ophører
+C54,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Overhalingsforbud med lastbil ophører
+C55,regulatory,speed-limit,Speed limit,Lokal hastighedsbegrænsning
+C56,regulatory,end-of-speed-limit,End of speed limit,Lokal hastighedsbegrænsning ophører
+C59,regulatory,end-of-all-restrictions,End of all restrictions,Ophør af alle forbud
+C61,regulatory,no-stopping,No stopping,Parkering og standsning forbudt
+C62,regulatory,no-parking,No parking,Parkering forbudt
+C92,regulatory,customs-stop,Customs stop,Passage uden stop forbudt
+D11.1,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Påbudt kørselsretning
+D11.2,regulatory,turn-left,Turn left,Påbudt kørselsretning mod venstre
+D11.3,regulatory,turn-right,Turn right,Påbudt kørselsretning mod højre
+D11.4,regulatory,turn-left-here,Turn left here,Påbudt kørselsretning til venstre
+D11.5,regulatory,turn-right-here,Turn right here,Påbudt kørselsretning til højre
+D11.6,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Påbudt kørselsretning mod ligeud eller venstre
+D11.7,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Påbudt kørselsretning mod ligeud eller højre
+D11.8,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Påbudt kørselsretning mod højre eller venstre
+D12,regulatory,roundabout,Roundabout,Rundkørsel
+D15.2,regulatory,pass-on-left,Pass on the left,Påbudt passage mod venstre
+D15.3,regulatory,pass-on-right,Pass on the right,Påbudt passage mod højre
+D16,regulatory,pass-on-either-side,Pass on either side,Valgfri passage
+D21,regulatory,cycle-path,Cycle path,Cykelsti
+D22,regulatory,footpath,Footpath,Gangsti
+D23,regulatory,bridleway,Bridleway,Ridesti
+D55,regulatory,minimum-speed,Minimum speed,Mindste hastighed
+D56,regulatory,end-of-minimum-speed,End of minimum speed,Mindste hastighed ophører
+E15,information,lane-directions,Directions of the lanes,Vognbaner i kryds
+E17,information,pedestrian-crossing,Pedestrian crossing,Fodgængerfelt
+E18,information,dead-end,Dead end,Blind vej
+E18.1.1,information,dead-end-passable-for-cyclists,Dead end (passable for cyclists),Blind vej med angivelse af cykelsti
+E19,information,one-way-road,One-way road,Ensrettet
+E21.1,information,recommended-route-cyclists,Recommended route for cyclists,Anbefalet rute for cyklister
+E21.2,information,recommended-route-pedestrians,Recommended route for pedestrians,Anbefalet rute for fodgængere
+E21.3,information,recommended-route-riders,Recommended route for horse riders,Anbefalet rute for ridende
+E21.4,information,recommended-route-mopeds,Recommended route for mopeds,Anbefalet rute for lille knallert
+E22.1,information,truck-route-recommended,Recommended route for goods vehicles,Anbefalet rute for lastbiler
+E23,information,instructions-for-disabled,Instructions for disabled,Vejledning for invalide
+E24,information,instructions-for-visually-impaired,Instructions for visually impaired,Vejledning for synshandicappede
+E26.1,information,pedestrian-overpass,Pedestrian overpass,Fodgængerbro
+E26.2,information,pedestrian-subway,Pedestrian subway,Fodgængertunnel
+E30,information,tram-stop,Tram stop,Letbanestoppested
+E31,information,bus-stop,"Bus, trolleybus or electric bus stop",Busstoppested for nærtrafik
+E33.1,regulatory,parking,Parking,Parkering
+E33.2,regulatory,parking-garage,Parking (car park building),Parkeringsgarage
+E34,information,emergency-lay-by,Emergency lay-by,Nødplads
+E39,information,recommended-speed,Recommended speed,Anbefalet hastighed
+E40,information,end-of-recommended-speed,End of recommended speed,Anbefalet hastighed ophører
+E42,information,motorway,Motorway,Motorvej
+E43,information,expressway,Expressway,Motortrafikvej
+E44,information,end-of-motorway,End of motorway,Motorvej ophører
+E45,information,end-of-expressway,End of expressway,Motortrafikvej ophører
+E47,information,bicycle-road,Bicycle road,Cykelgade
+E48,information,end-of-bicycle-road,End of bicycle road,Cykelgade ophører
+E49,information,pedestrian-zone,Pedestrian zone,Gågade
+E50,information,end-of-pedestrian-zone,End of pedestrian zone,Gågade ophører
+E51,information,residential-zone,Residential zone,Opholds- og legegade
+E52,information,end-of-residential-zone,End of residential zone,Opholds- og legegade ophører
+E53,information,traffic-calming-zone,Traffic calming zone,Område med fartdæmpning
+E55,information,built-up-area,Built-up area,Tættere bebygget område
+E56,information,end-of-built-up-area,End of built-up area,Tættere bebygget område opører
+E80,information,national-speed-limits,National speed limits (at the border),Generelle hastighedsbegrænsninger
+E90,information,speed-camera,Speed camera,Automatisk trafikkontrol

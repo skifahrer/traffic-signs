@@ -1,0 +1,11 @@
+{
+  "sign": "crossroads-with-minor-road",
+  "category": "warning",
+  "country": "dk",
+  "code": "A11",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A11.svg"
+  }
+}

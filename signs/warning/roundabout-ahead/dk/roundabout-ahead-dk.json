@@ -1,0 +1,11 @@
+{
+  "sign": "roundabout-ahead",
+  "category": "warning",
+  "country": "dk",
+  "code": "A16",
+  "source": {
+    "pipeline": "dk-wikipedia",
+    "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
+    "file": "Denmark road sign A16.svg"
+  }
+}
