@@ -74,11 +74,13 @@ by type, by country or a group of countries (continents; the EU, the EU and
 the United States, NATO, G7, Five Eyes, the Commonwealth, the Visegrád Group,
 Nordic, Baltic and Benelux countries, the former Soviet Union, Mercosur, the
 Arab League, ASEAN; see [`viewer/groups.py`](viewer/groups.py)), by text (English or local name, national code, folder
-name), or show only signs that 2+ countries have. Click a sign to see each
+name), or show only signs that 2+ countries have. Within each type, signs can
+be sorted by how many of the chosen countries have them (most or fewest
+first) or by name. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.
 `#warning/bend-left`, and the filters are kept in the URL
-(`?type=warning&q=bend&countries=sk,cz`), so a filtered list can be bookmarked.
+(`?type=warning&q=bend&countries=sk,cz&sort=countries-desc`), so a filtered list can be bookmarked.
 
 **Share** (in the header, next to each category and in a sign's detail)
 opens the phone's share sheet, or copies the link on a computer. Links point
