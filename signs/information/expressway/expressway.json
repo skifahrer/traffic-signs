@@ -1,5 +1,8 @@
 {
   "en": "Expressway",
   "de": "Kraftfahrstraße",
-  "fr": "Route à accès réglementé"
+  "de-AT": "Autostraße",
+  "en-AU": "Start Freeway",
+  "fr": "Route à accès réglementé",
+  "hu": "Autóút"
 }

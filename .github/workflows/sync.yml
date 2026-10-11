@@ -16,11 +16,14 @@ on:
         # `all` plus one entry per folder in pipelines/countries; tests/test_workflow.py checks this.
         options:
           - all
+          - at
+          - au
           - ca
           - cz
           - de
           - fr
           - gb
+          - hu
           - pl
           - sk
           - us

@@ -1,0 +1,11 @@
+{
+  "sign": "side-road-has-priority",
+  "category": "additional-panel",
+  "country": "at",
+  "code": "§54 d",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Zusatztafel d.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "emergency-stopping-lane-only",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R5-58-L",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R5-58-L.svg"
+  }
+}

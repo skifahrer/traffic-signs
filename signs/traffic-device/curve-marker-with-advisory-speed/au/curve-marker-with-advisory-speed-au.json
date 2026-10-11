@@ -1,0 +1,11 @@
+{
+  "sign": "curve-marker-with-advisory-speed",
+  "category": "traffic-device",
+  "country": "au",
+  "code": "D4-V110 (L)",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign D4-V110 (L).svg"
+  }
+}

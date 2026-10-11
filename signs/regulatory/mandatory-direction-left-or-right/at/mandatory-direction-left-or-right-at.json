@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-left-or-right",
+  "category": "regulatory",
+  "country": "at",
+  "code": "§52 Z15 (links rechts)",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Vorschriftszeichen 15 links rechts.svg"
+  }
+}

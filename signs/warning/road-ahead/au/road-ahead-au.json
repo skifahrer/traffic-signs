@@ -1,0 +1,11 @@
+{
+  "sign": "road-ahead",
+  "category": "warning",
+  "country": "au",
+  "code": "W6-8",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W6-8.svg"
+  }
+}

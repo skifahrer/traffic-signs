@@ -2,7 +2,10 @@
   "en": "Public transport lane",
   "cs": "Vyhrazený jízdní pruh",
   "de": "Bussonderfahrstreifen",
+  "de-AT": "Fahrstreifen für Omnibusse",
+  "en-AU": "Bus Lane",
   "fr": "Voie réservée aux véhicules des services réguliers de transport en commun",
+  "hu": "Autóbusz forgalmi sáv kezdete",
   "pl": "pas ruchu dla autobusów",
   "sk": "Vyhradený pruh pre verejnú dopravu"
 }

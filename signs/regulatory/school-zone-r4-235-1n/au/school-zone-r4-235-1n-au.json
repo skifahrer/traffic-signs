@@ -1,0 +1,11 @@
+{
+  "sign": "school-zone-r4-235-1n",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R4-235-1N",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R4-235-1N.svg"
+  }
+}

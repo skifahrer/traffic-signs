@@ -1,0 +1,11 @@
+{
+  "sign": "cyclists",
+  "category": "warning",
+  "country": "au",
+  "code": "W6-7-FYG",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W6-7-FYG.svg"
+  }
+}

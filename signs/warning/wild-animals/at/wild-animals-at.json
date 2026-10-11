@@ -1,0 +1,11 @@
+{
+  "sign": "wild-animals",
+  "category": "warning",
+  "country": "at",
+  "code": "§50 Z13b",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Gefahrenzeichen 13b.svg"
+  }
+}

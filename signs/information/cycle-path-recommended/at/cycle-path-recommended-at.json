@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-path-recommended",
+  "category": "information",
+  "country": "at",
+  "code": "§53 Z27",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Hinweiszeichen 27.svg"
+  }
+}

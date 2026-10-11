@@ -2,8 +2,10 @@
   "en": "No entry for animal-drawn vehicles",
   "cs": "Zákaz vjezdu potahových vozidel",
   "de": "Verbot für Gespannfuhrwerke",
+  "de-AT": "Fahrverbot für Fuhrwerke",
   "en-GB": "No horse-drawn vehicles",
   "fr": "Accès interdit aux véhicules à traction animale",
+  "hu": "Állati erővel vont járművel behajtani tilos",
   "pl": "zakaz wjazdu pojazdów zaprzęgowych",
   "sk": "Zákaz vjazdu pre (záprahové vozidlá)"
 }

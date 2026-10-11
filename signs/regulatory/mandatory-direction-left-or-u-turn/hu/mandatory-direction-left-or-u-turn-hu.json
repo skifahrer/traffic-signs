@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-left-or-u-turn",
+  "category": "regulatory",
+  "country": "hu",
+  "code": "D-013",
+  "source": {
+    "pipeline": "hu-wikipedia",
+    "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",
+    "file": "Hungary road sign D-013.svg"
+  }
+}

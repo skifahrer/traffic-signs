@@ -1,0 +1,11 @@
+{
+  "sign": "on-side-road-right",
+  "category": "additional-panel",
+  "country": "au",
+  "code": "W8-3-R",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W8-3-R.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "give-way-to-pedestrians",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R2-10",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R2-10.svg"
+  }
+}

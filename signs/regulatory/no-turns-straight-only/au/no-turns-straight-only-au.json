@@ -1,0 +1,11 @@
+{
+  "sign": "no-turns-straight-only",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R2-7",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R2-7.svg"
+  }
+}

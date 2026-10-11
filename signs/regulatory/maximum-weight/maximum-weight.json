@@ -1,6 +1,9 @@
 {
   "en": "Maximum weight",
   "cs": "Zákaz vjezdu vozidel, jejichž okamžitá hmotnost přesahuje vyznačenou mez",
+  "de-AT": "Fahrverbot für Fahrzeuge mit über … Tonnen Gesamtgewicht",
+  "en-AU": "Gross Load Limit",
   "en-US": "Weight limit",
-  "fr": "Accès interdit aux véhicules dont le poids excède le nombre indiqué"
+  "fr": "Accès interdit aux véhicules dont le poids excède le nombre indiqué",
+  "hu": "Össztömeg-korlátozás (Súlykorlátozás)"
 }

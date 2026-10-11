@@ -2,9 +2,12 @@
   "en": "No entry for goods vehicles",
   "cs": "Zákaz vjezdu nákladních automobilů",
   "de": "Verbot für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und für Zugmaschinen. Ausgenommen sind Personenkraftwagen und Kraftomnibusse.",
+  "de-AT": "Fahrverbot für Lastkraftfahrzeuge",
+  "en-AU": "No Trucks",
   "en-CA": "No trucks",
   "en-US": "No trucks",
   "fr": "Accès interdit aux véhicules de transport de marchandises",
+  "hu": "Tehergépkocsival behajtani tilos",
   "pl": "zakaz wjazdu samochodów ciężarowych",
   "sk": "Zákaz vjazdu pre (nákladné vozidlá)"
 }

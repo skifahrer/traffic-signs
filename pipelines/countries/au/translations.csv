@@ -1,0 +1,286 @@
+code,category,slug,name_en,name_en-AU
+R1-1,regulatory,stop,"Stop, give way",Stop
+R1-2,regulatory,give-way,Give way,Give Way
+R1-3,regulatory,give-way-at-roundabout,Give way at roundabout,Give way at roundabout
+R2-2-L,information,one-way-road-left,One-way road (left here),One Way (left)
+R2-2-R,information,one-way-road-right,One-way road (right here),One Way (right)
+R2-3-L,regulatory,pass-on-left,Pass on the left,Keep Left
+R2-3-R,regulatory,pass-on-right,Pass on the right,Keep Right
+R2-4,regulatory,no-entry,No entry,No Entry (standard version; except New South Wales)
+R2-4N,regulatory,no-entry-nsw,No Entry (New South Wales version; also permitted in the Australian Capital Territory and the Northern Territory),No Entry (New South Wales version; also permitted in the Australian Capital Territory and the Northern Territory)
+R2-5,regulatory,no-u-turn,No U-turn,No U-turn (standard version; except New South Wales)
+R2-5N,regulatory,no-u-turn-nsw,No U-turn (New South Wales version; also permitted in the Australian Capital Territory and the Northern Territory),No U-turn (New South Wales version; also permitted in the Australian Capital Territory and the Northern Territory)
+R2-6-L,regulatory,no-left-turn,No left turn,No Left Turn (standard version; except New South Wales)
+R2-6N-L,regulatory,no-left-turn-nsw,No Left Turn (New South Wales version; permitted in the Australian Capital Territory and the Northern Territory,No Left Turn (New South Wales version; permitted in the Australian Capital Territory and the Northern Territory
+R2-6-R,regulatory,no-right-turn,No right turn,No Right Turn (standard version; except New South Wales)
+R2-6N-R,regulatory,no-right-turn-nsw,No Right Turn (New South Wales version; permitted in the Australian Capital Territory and the Northern Territory,No Right Turn (New South Wales version; permitted in the Australian Capital Territory and the Northern Territory
+R2-7,regulatory,no-turns-straight-only,No Turns (Straight Only),No Turns (Straight Only)
+R2-9-L,regulatory,left-lane-must-turn-left,Left lane must turn left,Left Lane Must Turn Left
+R2-9-R,regulatory,right-lane-must-turn-right,Right lane must turn right,Right Lane Must Turn Right
+R2-10,regulatory,give-way-to-pedestrians,Give Way to Pedestrians,Give Way to Pedestrians
+R2-11,warning,two-way-traffic-ahead-regulatory,Two-way Traffic,Two-way Traffic
+R2-14-L,regulatory,turn-left,Turn left,Turn Left
+R2-14-R,regulatory,turn-right,Turn right,Turn Right
+R2-15,regulatory,u-turn-permitted,U-turn Permitted,U-turn Permitted
+R2-17,regulatory,one-way-forward,One Way (forward),One Way (forward)
+R2-19,regulatory,left-lane-must-exit,Left lane must exit,Left Lane Must Exit
+R2-20,regulatory,left-turn-on-red-permitted-after-stopping,Left Turn on Red Permitted after Stopping,Left Turn on Red Permitted after Stopping
+R2-22,regulatory,no-hook-turn-by-bicycles,No hook turn by Bicycles,No hook turn by Bicycles
+R3-1,information,pedestrian-crossing,Pedestrian crossing,Pedestrian Crossing
+R3-2,regulatory,safety-zone,Safety Zone (excluding the Australian Capital Territory and New South Wales),Safety Zone (excluding the Australian Capital Territory and New South Wales)
+R3-3,regulatory,children-crossing-flags,"Children Crossing (flags are displayed near crossings around schools, orange variant, excluding the Northern Territory)","Children Crossing (flags are displayed near crossings around schools, orange variant, excluding the Northern Territory)"
+R3-4,regulatory,children-crossing-speed-limit-when-lights-flashing,Children Crossing Speed Limit when Lights Flashing,Children Crossing Speed Limit when Lights Flashing
+R3-5-R,regulatory,pedestrians-may-cross-diagonally-left,Pedestrians may Cross Diagonally (left),Pedestrians may Cross Diagonally (left)
+R3-5-L,regulatory,pedestrians-may-cross-diagonally-right,Pedestrians may Cross Diagonally (right),Pedestrians may Cross Diagonally (right)
+R4-1 (10),regulatory,speed-limit-10,Speed limit (10 km/h),10 km/h Speed Limit
+R4-1 (20),regulatory,speed-limit-20,Speed limit (20 km/h),20 km/h Speed Limit
+R4-1 (25),regulatory,speed-limit-25,25 km/h Speed Limit,25 km/h Speed Limit
+R4-1 (30),regulatory,speed-limit-30,Speed limit (30 km/h),30 km/h Speed Limit
+R4-1 (40),regulatory,speed-limit-40,Speed limit (40 km/h),40 km/h Speed Limit
+R4-1 (50),regulatory,speed-limit-50,Speed limit (50 km/h),50 km/h Speed Limit
+R4-1 (60),regulatory,speed-limit-60,Speed limit (60 km/h),60 km/h Speed Limit
+R4-1 (70),regulatory,speed-limit-70,Speed limit (70 km/h),70 km/h Speed Limit
+R4-1 (80),regulatory,speed-limit-80,Speed limit (80 km/h),80 km/h Speed Limit
+R4-1 (90),regulatory,speed-limit-90,Speed limit (90 km/h),90 km/h Speed Limit
+R4-1 (100),regulatory,speed-limit-100,Speed limit (100 km/h),100 km/h Speed Limit
+R4-1 (110),regulatory,speed-limit-110,Speed limit (110 km/h),110 km/h Speed Limit
+R4-2,regulatory,end-of-speed-limit,End of speed limit,Speed De-restriction
+R4-3,warning,roadworks-regulatory,Road Work,Road Work
+R4-4,information,shared-space-zone,Shared space (encounter zone),Shared Zone
+R4-5,information,end-of-shared-space-zone,End of shared space (encounter zone),End of Shared Zone
+R4-6,regulatory,local-traffic-area,Local Traffic Area,Local Traffic Area
+R4-10 (20),regulatory,speed-limit-zone-20,Speed limit zone (20 km/h),20 km/h Speed Limit Zone Area
+R4-10 (30),regulatory,speed-limit-zone-30,Speed limit zone (30 km/h),30 km/h Speed Limit Zone Area
+R4-10 (40),regulatory,speed-limit-zone-40,40 km/h Speed Limit Zone Area,40 km/h Speed Limit Zone Area
+R4-10 (50),regulatory,speed-limit-zone-50,50 km/h Speed Limit Zone Area,50 km/h Speed Limit Zone Area
+R4-10 (60),regulatory,speed-limit-zone-60,60 km/h Speed Limit Zone Area,60 km/h Speed Limit Zone Area
+R4-11 (20),regulatory,end-of-speed-limit-zone-20,End of speed limit zone (20 km/h),End of 20 km/h Speed Limit Zone Area
+R4-11 (30),regulatory,end-of-speed-limit-zone-30,End of speed limit zone (30 km/h),End of 30 km/h Speed Limit Zone Area
+R4-11 (40),regulatory,end-of-speed-limit-zone-40,End of 40 km/h Speed Limit Zone Area,End of 40 km/h Speed Limit Zone Area
+R4-11 (50),regulatory,end-of-speed-limit-zone-50,End of 50 km/h Speed Limit Zone Area,End of 50 km/h Speed Limit Zone Area
+R4-11 (60),regulatory,end-of-speed-limit-zone-60,End of 60 km/h Speed Limit Zone Area,End of 60 km/h Speed Limit Zone Area
+R4-235N,information,school-zone,School zone,"School Zone (Non-standard school operating hours, used in New South Wales)"
+R4-235-1N,regulatory,school-zone-r4-235-1n,"School Zone (Non-standard school operating hours, used in New South Wales)","School Zone (Non-standard school operating hours, used in New South Wales)"
+R5-20,regulatory,bus-zone,Bus Zone,Bus Zone
+R5-21,regulatory,taxi-zone,Taxi Zone,Taxi Zone
+R5-23,regulatory,loading-bay,Loading bay,Loading Zone
+R5-24,regulatory,truck-zone,Truck Zone,Truck Zone
+R5-25,regulatory,works-zone,Works Zone,Works Zone
+R5-26,regulatory,mail-zone,Mail Zone,Mail Zone
+R5-35,regulatory,no-stopping,No stopping,No Stopping
+R5-39,regulatory,tow-away-area,Tow-Away Area,Tow-Away Area
+R5-40,regulatory,no-parking,No parking,No Parking
+R5-45,regulatory,clearway,Clearway,Clearway
+R5-51,regulatory,end-clearway,End Clearway,End Clearway
+R5-58-L,regulatory,emergency-stopping-lane-only,Emergency Stopping Lane Only,Emergency Stopping Lane Only
+R5-63-5,regulatory,end-of-2-hour-parking-area,End of 2 Hour Parking Area,End of 2 Hour Parking Area
+R5-64,regulatory,area-parking-control-ahead,Area Parking Control Ahead,Area Parking Control Ahead
+R5-65,regulatory,park-in-bays-only,Park in Bays Only,Park in Bays Only
+R5-73,regulatory,end-of-no-stopping-area,End of No Stopping Area,End of No Stopping Area
+R5-83,regulatory,end-of-no-parking-area,End of No Parking Area,End of No Parking Area
+R6-1,regulatory,no-overtaking,No overtaking,No Overtaking or Passing (used at bottlenecks)
+R6-2,regulatory,no-overtaking-on-bridge,No Overtaking on Bridge,No Overtaking on Bridge
+R6-3,regulatory,bridge-load-limit,Bridge Load Limit,Bridge Load Limit
+R6-4,regulatory,maximum-weight,Maximum weight,Gross Load Limit
+R6-5,regulatory,end-load-limit,End Load Limit,End Load Limit
+R6-6,regulatory,stop-here-on-red-signal,Stop Here on Red Signal,Stop Here on Red Signal
+R6-7,regulatory,hand-held-stop-sign-for-children-crossings,Hand Held Stop Sign (for children crossings),Hand Held Stop Sign (for children crossings)
+R6-8,regulatory,hand-held-stop-sign-for-roadworks,Hand Held Stop Sign (for roadworks),Hand Held Stop Sign (for roadworks)
+R6-10-1,regulatory,no-buses,No entry for buses and trolleybuses,No Buses
+R6-10-2,regulatory,no-goods-vehicles,No entry for goods vehicles,No Trucks
+R6-10-3,regulatory,no-bicycles,No entry for bicycles,No Bicycles
+R6-11,regulatory,low-clearance-marker,Low Clearance Marker,Low Clearance Marker
+R6-12,regulatory,clearance-marker,Clearance Marker,Clearance Marker
+R6-13,regulatory,prohibited-on-freeways,Prohibited on Freeways,Prohibited on Freeways
+R6-14,regulatory,stop-here-on-red-arrow,Stop Here on Red Arrow,Stop Here on Red Arrow
+R6-15,regulatory,no-pedestrians,No entry for pedestrians,No Pedestrians
+R6-17,regulatory,bridge-load-limit-per-axle-group,Bridge Load Limit (Per Axle Group),Bridge Load Limit (Per Axle Group)
+R6-18,regulatory,buses-must-enter,Buses Must Enter (Checking stations and weighbridges are set up on roads for buses to check their weight and length),Buses Must Enter (Checking stations and weighbridges are set up on roads for buses to check their weight and length)
+R6-19,information,expressway,Expressway,Start Freeway
+R6-20,information,freeway-entrance,Freeway entrance,Freeway Entrance
+R6-21,information,end-of-expressway,End of expressway,End Freeway
+R6-19 (motorway),information,motorway,Motorway,Start Motorway
+R6-20 (motorway),regulatory,motorway-entrance,Motorway Entrance,Motorway Entrance
+R6-21 (motorway),information,end-of-motorway,End of motorway,End Motorway
+R6-22,regulatory,trucks-and-buses-must-use-low-gear,Trucks & Buses Must Use Low Gear,Trucks & Buses Must Use Low Gear
+R6-23,regulatory,end-truck-and-bus-low-gear-area,End Truck & Bus Low Gear Area,End Truck & Bus Low Gear Area
+R6-24,warning,level-crossing-cross-single-track,Level crossing cross (single track),Railway Crossing
+R6-27,regulatory,trucks-must-enter,Trucks Must Enter (Checking stations and weighbridges are set up on roads for trucks to check their weight and length),Trucks Must Enter (Checking stations and weighbridges are set up on roads for trucks to check their weight and length)
+R6-28,regulatory,trucks-use-left-lane,Trucks Use Left Lane,Trucks Use Left Lane
+R6-29,regulatory,keep-left-unless-overtaking,Keep Left Unless Overtaking,Keep Left Unless Overtaking
+R6-30,regulatory,median-turning-lane,Median Turning Lane,Median Turning Lane
+R6-31,regulatory,give-way-to-buses-attached-to-a-bus,Give Way to Buses (Attached to a bus),Give Way to Buses (Attached to a bus)
+R6-32,regulatory,end-keep-left-unless-overtaking,End Keep Left Unless Overtaking,End Keep Left Unless Overtaking
+R6-33,regulatory,maximum-length,Maximum length,Overall Length Limit
+R7-1-1,regulatory,public-transport-lane,Public transport lane,Bus Lane
+R7-1-3,regulatory,truck-lane,Truck Lane,Truck Lane
+R7-1-4,information,bicycle-lane,Bicycle lane,Bicycle Lane
+R7-1-5,regulatory,tram-lane,Tram lane,Tram Lane
+R7-2,additional-panel,ahead,Ahead (plaque),"Ahead (used with bus, transit or truck lane signs)"
+R7-3-L,additional-panel,left-lane,Left lane (plaque),"Left Lane (used with bus, transit or truck lane signs)"
+R7-4,additional-panel,end,End (plaque),End
+R7-5,regulatory,lane-clearance,Lane Clearance,Lane Clearance
+R7-7-1,regulatory,t2-transit-lane,T2 Transit Lane (you must have 2 or more people in the vehicle),T2 Transit Lane (you must have 2 or more people in the vehicle)
+R7-7-2,regulatory,t3-transit-lane,T3 Transit Lane (you must have 3 or more people in the vehicle),T3 Transit Lane (you must have 3 or more people in the vehicle)
+R7-7-3,regulatory,t2-transit-lane-restriction-2-people-or-more-1-driver-1,"T2 Transit Lane Restriction (2 people or more (1 driver, 1 passenger))","T2 Transit Lane Restriction (2 people or more (1 driver, 1 passenger))"
+R7-7-4,regulatory,t2-transit-lane-restriction-2-people-or-more-1-driver-1-r7-7-4,"T2 Transit Lane Restriction (2 people or more (1 driver, 1 passenger))","T2 Transit Lane Restriction (2 people or more (1 driver, 1 passenger))"
+R7-7-5,regulatory,t3-transit-lane-restriction-3-people-or-more-1-driver-2,"T3 Transit Lane Restriction (3 people or more (1 driver, 2 passengers))","T3 Transit Lane Restriction (3 people or more (1 driver, 2 passengers))"
+R7-7-6,regulatory,t3-transit-lane-restriction-3-people-or-more-1-driver-2-r7-7-6,"T3 Transit Lane Restriction (3 people or more (1 driver, 2 passengers))","T3 Transit Lane Restriction (3 people or more (1 driver, 2 passengers))"
+R7-8,regulatory,buses-only,Buses Only,Buses Only
+R7-9-1,regulatory,end-of-t2-transit-lane,End of T2 Transit Lane,End of T2 Transit Lane
+R7-9-2,regulatory,end-of-t3-transit-lane,End of T3 Transit Lane,End of T3 Transit Lane
+R8-1,regulatory,cycle-path,Cycle path,Bicycles Only
+R8-2,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Shared Path
+R8-3-L,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,Separated Path
+R9-1-1,additional-panel,time-of-operation-single-time,"Time of Operation (Single time) (used with No u-turn, No left turn, No right turn or No turns signs)","Time of Operation (Single time) (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-1-2,additional-panel,time-of-operation-double-times,"Time of Operation (Double times) (used with No u-turn, No left turn, No right turn or No turns signs)","Time of Operation (Double times) (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-1-3,additional-panel,at-all-times,At All Times,At All Times
+R9-2,additional-panel,buses-excepted,Buses Excepted,Buses Excepted
+R9-3,additional-panel,bicycles-excepted,Bicycles Excepted,Bicycles Excepted
+R9-4,additional-panel,authorised-vehicles-excepted,Authorised Vehicles Excepted,Authorised Vehicles Excepted
+R9-6-1,additional-panel,distance-in-metres,"Distance (in metres) (used with No u-turn, No left turn, No right turn or No turns signs)","Distance (in metres) (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-6-2,additional-panel,distance-in-metres-plaque,"Distance (in metres) (used with No u-turn, No left turn, No right turn or No turns signs)","Distance (in metres) (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-7-1,additional-panel,distance-in-kilometres,"Distance (in kilometres) (used with No u-turn, No left turn, No right turn or No turns signs)","Distance (in kilometres) (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-7-2,additional-panel,distance-in-kilometres-plaque,"Distance (in kilometres) (used with No u-turn, No left turn, No right turn or No turns signs)","Distance (in kilometres) (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-8,additional-panel,at-street-name,"At Street Name (used with No u-turn, No left turn, No right turn or No turns signs)","At Street Name (used with No u-turn, No left turn, No right turn or No turns signs)"
+R9-9,additional-panel,one-lane,One Lane,One Lane
+W1-1-L,warning,sharp-bend-left,Turn (left),"90 Sharp turn, to left"
+W1-1-R,warning,sharp-bend-right,Turn (right),"90 Sharp turn, to right"
+W1-2-L,warning,double-sharp-bend-left,Reverse turn (left),Double sharp curve first to left
+W1-2-R,warning,double-sharp-bend-right,Reverse turn (right),Double sharp curve first to right
+W1-3-L,warning,bend-left,Bend (left),Curve to left
+W1-3-R,warning,bend-right,Bend (right),Curve to right
+W1-4-L,warning,double-bend-left,Double bend (first to the left),Double curve first to left
+W1-4-R,warning,double-bend-right,Double bend (first to the right),Double curve first to right
+W1-5-L,warning,winding-road-left,Winding road (left),Winding road first to left
+W1-5-R,warning,winding-road-right,Winding road (right),Winding road first to right
+W1-7-L,warning,hairpin-curve-to-left,Hairpin curve to left,Hairpin curve to left
+W1-7-R,warning,hairpin-curve-to-right,Hairpin curve to right,Hairpin curve to right
+W1-8-L,warning,tilting-truck-left,Tilting Truck (left),Tilting Truck (left)
+W1-8-R,warning,tilting-truck-right,Tilting Truck (right),Tilting Truck (right)
+W1-9-1,warning,exit-advisory-speed,Exit advisory speed,Exit advisory speed
+W1-9-2-L,warning,exit-advisory-speed-with-curve-to-left,Exit advisory speed with curve to left,Exit advisory speed with curve to left
+W1-9-2-R,warning,exit-advisory-speed-with-curve-to-right,Exit advisory speed with curve to right,Exit advisory speed with curve to right
+W1-9-3-L,warning,exit-advisory-speed-with-turn-to-left,Exit advisory speed with turn to left,Exit advisory speed with turn to left
+W1-9-3-R,warning,exit-advisory-speed-with-turn-to-right,Exit advisory speed with turn to right,Exit advisory speed with turn to right
+W1-9-4-L,warning,exit-advisory-speed-with-reverse-curve-first-to-left,"Exit advisory speed with reverse curve, first to left","Exit advisory speed with reverse curve, first to left"
+W1-9-4-R,warning,exit-advisory-speed-with-reverse-curve-first-to-right,"Exit advisory speed with reverse curve, first to right","Exit advisory speed with reverse curve, first to right"
+W1-9-5-L,warning,exit-advisory-speed-with-hairpin-curve-to-left,Exit advisory speed with hairpin curve to left,Exit advisory speed with hairpin curve to left
+W1-9-5-R,warning,exit-advisory-speed-with-hairpin-curve-to-right,Exit advisory speed with hairpin curve to right,Exit advisory speed with hairpin curve to right
+W1-10,warning,tram-speed,Tram Speed,Tram Speed
+W2-1,warning,intersection,Intersection,Crossroad intersection
+W2-3,warning,t-junction,T-junction,T-junction
+W2-4-L,warning,side-road-intersection-from-left,Side road intersection from left,Side road intersection from left
+W2-4-R,warning,side-road-intersection-from-right,Side road intersection from right,Side road intersection from right
+W2-7,warning,roundabout-ahead,Roundabout ahead,Roundabout Ahead
+W2-8-L,warning,staggered-side-road-intersection-first-from-left,"Staggered side road intersection, first from left","Staggered side road intersection, first from left"
+W2-8-R,warning,staggered-side-road-intersection-first-from-right,"Staggered side road intersection, first from right","Staggered side road intersection, first from right"
+W2-9-L,warning,side-road-intersection-from-right-on-a-curve-to-left,Side road intersection from right on a curve to left,Side road intersection from right on a curve to left
+W2-9-R,warning,side-road-intersection-from-left-on-a-curve-to-right,Side road intersection from left on a curve to right,Side road intersection from left on a curve to right
+W2-10-L,warning,side-road-intersection-from-left-on-a-curve-to-left,Side road intersection from left on a curve to left,Side road intersection from left on a curve to left
+W2-10-R,warning,side-road-intersection-from-right-on-a-curve-to-right,Side road intersection from right on a curve to right,Side road intersection from right on a curve to right
+W2-11-L,warning,staggered-side-road-intersection-first-from-right-on-a-curve,"Staggered side road intersection, first from right on a curve to left","Staggered side road intersection, first from right on a curve to left"
+W2-11-R,warning,staggered-side-road-intersection-first-from-left-on-a-curve,"Staggered side road intersection, first from left on a curve to right","Staggered side road intersection, first from left on a curve to right"
+W2-12-L,warning,staggered-side-road-intersection-first-from-left-on-a-curve-w2-12-l,"Staggered side road intersection, first from left on a curve to left","Staggered side road intersection, first from left on a curve to left"
+W2-12-R,warning,staggered-side-road-intersection-first-from-right-on-a-curve-w2-12-r,"Staggered side road intersection, first from right on a curve to right","Staggered side road intersection, first from right on a curve to right"
+W2-13-L,warning,double-side-road-intersections-from-left,Double side road intersections from left,Double side road intersections from left
+W2-13-R,warning,double-side-road-intersections-from-right,Double side road intersections from right,Double side road intersections from right
+W2-14-L,warning,t-junction-beyond-a-curve-to-left,T-junction beyond a curve to left,T-junction beyond a curve to left
+W2-14-R,warning,t-junction-beyond-a-curve-to-right,T-junction beyond a curve to right,T-junction beyond a curve to right
+W2-15-L,warning,crossroad-intersection-on-a-curve-to-left,Crossroad intersection on a curve to left,Crossroad intersection on a curve to left
+W2-15-R,warning,crossroad-intersection-on-a-curve-to-right,Crossroad intersection on a curve to right,Crossroad intersection on a curve to right
+W2-16-L,warning,side-road-intersection-entering-straight-ahead-on-a-curve-to,"Side road intersection, entering straight ahead on a curve to left","Side road intersection, entering straight ahead on a curve to left"
+W2-16-R,warning,side-road-intersection-entering-straight-ahead-on-a-curve-to-w2-16-r,"Side road intersection, entering straight ahead on a curve to right","Side road intersection, entering straight ahead on a curve to right"
+W3-1,warning,stop-ahead,Stop ahead,Stop Sign ahead
+W3-2,warning,give-way-ahead,Give way ahead,Give Way Sign ahead
+W4-1,warning,narrow-bridge,Narrow bridge,Narrow Bridge
+W4-3,warning,road-narrows-both-sides,Road narrows (from both sides),Road Narrows
+W4-4,warning,divided-road,Divided Road,Divided Road
+W4-5,warning,island,Island,Island
+W4-6,warning,end-divided-road,End Divided Road,End Divided Road
+W4-8,warning,low-bridge-ahead,Low headroom ahead,Low Clearance ahead
+W4-9,warning,left-lane-ends,Left lane ends,Left Lane Ends
+W4-10,warning,lane-allocation-ahead-three-way-traffic,Lane Allocation ahead (Three-way traffic),Lane Allocation ahead (Three-way traffic)
+W4-11,warning,two-way-traffic,Two-way traffic,Two-way Traffic ahead
+W5-12,warning,steep-descent,Steep descent,Steep Descent
+W5-13,warning,steep-ascent,Steep ascent,Steep ascent
+W5-20,warning,slippery-road,Slippery road,Slippery Road when wet
+W5-22,warning,trucks-crossing-or-entering,Trucks Crossing or Entering,Trucks Crossing or Entering
+W5-25N,warning,turning-traffic,Turning Traffic,Turning Traffic
+W5-30,warning,low-flying-aircraft,Low-flying aircraft,Aircraft
+W5-31,warning,safety-ramp-crossing,Safety Ramp Crossing,Safety Ramp Crossing
+W5-33,warning,slow-point,Slow Point,Slow Point
+W5-34-L,warning,merging-traffic-left,Merging Traffic (left),Merging Traffic (left)
+W5-34-R,warning,merging-traffic-right,Merging Traffic (right),Merging Traffic (right)
+W5-35-L,warning,added-lane-left,Added Lane (left),Added Lane (left)
+W5-35-R,warning,added-lane-right,Added Lane (right),Added Lane (right)
+W5-36,warning,fire-station,Fire station ahead (stop when lights show),Fire Station
+W5-37,warning,ambulance-station-ahead,Ambulance Station,Ambulance Station
+W5-38,warning,farm-animals,Farm animals,Stock Crossing
+W5-41,warning,trams,Trams,Tram Crossing
+W5-42-L,warning,fallen-rocks-left,Fallen rocks (from the left),Falling Rocks (left)
+W5-42-R,warning,fallen-rocks-right,Fallen rocks (from the right),Falling Rocks (right)
+W5-43,warning,uneven-road,Uneven road,Uneven Surface
+W5-44,warning,camels-crossing,Camels crossing,Camels crossing
+W5-45,warning,emus-crossing,Emus crossing,Emus crossing
+W5-46,warning,wild-horses-crossing,Wild Horses Crossing,Wild Horses Crossing
+W5-47,warning,koalas-crossing,Koalas Crossing,Koalas Crossing
+W5-48,warning,wombats-crossing,Wombats Crossing,Wombats Crossing
+W5-50,warning,farm-machinery,Farm Machinery,Farm Machinery
+W6-3,warning,children,Children,Children
+W6-4,warning,school-ahead,School,School
+W6-7-FYG,warning,cyclists,Cyclists,Cyclists
+W6-8,warning,road-ahead,Road Ahead,Road Ahead
+W6-9,warning,pedestrians-and-cyclists,Pedestrians and Cyclists,Pedestrians and Cyclists
+W7-2-1,additional-panel,number-of-tracks,Number of tracks,Number of Tracks
+W7-4,warning,level-crossing-signals,Light signals at a level crossing ahead,Railway Level Crossing with Flashing Signals ahead
+W7-7-L,warning,railway-level-crossing-ahead-left,Railway Level Crossing ahead (left),Railway Level Crossing ahead (left)
+W7-7-R,warning,railway-level-crossing-ahead-right,Railway Level Crossing ahead (right),Railway Level Crossing ahead (right)
+W7-8,warning,railway-level-crossing-on-road-ahead,Railway Level Crossing on Road ahead,Railway Level Crossing on Road ahead
+W7-9-L,warning,railway-level-crossing-on-road-ahead-skewed-left,Railway Level Crossing on Road ahead (skewed) (left),Railway Level Crossing on Road ahead (skewed) (left)
+W7-9-R,warning,railway-level-crossing-on-road-ahead-skewed-right,Railway Level Crossing on Road ahead (skewed) (right),Railway Level Crossing on Road ahead (skewed) (right)
+W7-12-L,warning,railway-level-crossing-on-side-road-left,Railway Level Crossing on Side Road (left),Railway Level Crossing on Side Road (left)
+W7-12-R,warning,railway-level-crossing-on-side-road-right,Railway Level Crossing on Side Road (right),Railway Level Crossing on Side Road (right)
+W7-13-L,warning,railway-level-crossing-on-crossroad-left,Railway Level Crossing on Crossroad (left),Railway Level Crossing on Crossroad (left)
+W7-13-R,warning,railway-level-crossing-on-crossroad-right,Railway Level Crossing on Crossroad (right),Railway Level Crossing on Crossroad (right)
+W7-15,warning,railway-gate,Railway Gate,Railway Gate
+W7-17-L,warning,railway-level-crossing-on-t-junction-left,Railway Level Crossing on T-junction (left),Railway Level Crossing on T-junction (left)
+W7-17-R,warning,railway-level-crossing-on-t-junction-right,Railway Level Crossing on T-junction (right),Railway Level Crossing on T-junction (right)
+W8-2-60,additional-panel,advisory-speed,Advisory Speed,Advisory Speed
+W8-3-L,additional-panel,on-side-road-left,On Side Road (left),On Side Road (left)
+W8-3-R,additional-panel,on-side-road-right,On Side Road (right),On Side Road (right)
+W8-5,additional-panel,metre-plate,Metre plate,Metre plate
+W8-7,additional-panel,when-wet,When wet,When Wet
+W8-8,additional-panel,when-frosty,When Frosty,When Frosty
+W8-9,additional-panel,under-snow,Under Snow,Under Snow
+W8-13,additional-panel,playground-panel,Playground,Playground
+W8-14,additional-panel,school-plaque,School,School
+W8-15,additional-panel,merge-right-panel,Merge Right,Merge Right
+W8-16,additional-panel,one-lane-plaque,One Lane,One Lane
+W8-17-1,additional-panel,distance-in-kilometres-w8-17-1,Distance (in kilometres),Distance (in kilometres)
+W8-17-2,additional-panel,distance-in-metres-w8-17-2,Distance (in metres),Distance (in metres)
+W8-23,additional-panel,crossing-arrows,Crossing Arrows,Crossing Arrows
+W8-26,additional-panel,added-lane-panel,Added Lane,Added Lane
+W8-27,additional-panel,prepare-to-stop,Prepare to Stop,Prepare to Stop
+W8-28,additional-panel,crossing-ramp,Crossing Ramp,Crossing Ramp
+W8-29,additional-panel,on-bridge-when-frosty,On Bridge When Frosty,On Bridge When Frosty
+W9-1-L,warning,modified-side-road-intersection-left,Modified side road intersection (left),Modified side road intersection (left)
+W9-1-R,warning,modified-side-road-intersection-right,Modified side road intersection (right),Modified side road intersection (right)
+W9-2-L,warning,modified-t-junction-left,Modified T-junction (left),Modified T-junction (left)
+W9-2-R,warning,modified-t-junction-right,Modified T-junction (right),Modified T-junction (right)
+W9-3-L,warning,modified-crossroad-intersection-left,Modified crossroad intersection (left),Modified crossroad intersection (left)
+W9-3-R,warning,modified-crossroad-intersection-right,Modified crossroad intersection (right),Modified crossroad intersection (right)
+G9-79 (10),information,speed-limit-ahead-10,10 km/h Speed Limit Ahead,10 km/h Speed Limit Ahead
+G9-79 (20),information,speed-limit-ahead-20,20 km/h Speed Limit Ahead,20 km/h Speed Limit Ahead
+G9-79 (25),information,speed-limit-ahead-25,25 km/h Speed Limit Ahead,25 km/h Speed Limit Ahead
+G9-79 (30),information,speed-limit-ahead-30,30 km/h Speed Limit Ahead,30 km/h Speed Limit Ahead
+G9-79 (40),information,speed-limit-ahead-40,40 km/h Speed Limit Ahead,40 km/h Speed Limit Ahead
+G9-79 (50),information,speed-limit-ahead-50,50 km/h Speed Limit Ahead,50 km/h Speed Limit Ahead
+G9-79 (60),information,speed-limit-ahead-60,60 km/h Speed Limit Ahead,60 km/h Speed Limit Ahead
+G9-79 (70),information,speed-limit-ahead-70,70 km/h Speed Limit Ahead,70 km/h Speed Limit Ahead
+G9-79 (80),information,speed-limit-ahead-80,80 km/h Speed Limit Ahead,80 km/h Speed Limit Ahead
+G9-79 (90),information,speed-limit-ahead-90,90 km/h Speed Limit Ahead,90 km/h Speed Limit Ahead
+G9-79 (100),information,speed-limit-ahead-100,100 km/h Speed Limit Ahead,100 km/h Speed Limit Ahead
+G9-79 (110),information,speed-limit-ahead-110,110 km/h Speed Limit Ahead,110 km/h Speed Limit Ahead
+D4-V110 (L),traffic-device,curve-marker-with-advisory-speed,"Curve marker with Advisory Speed (left, used in Victoria)","Curve marker with Advisory Speed (left, used in Victoria)"
+D4-V110 (R),traffic-device,curve-marker-with-advisory-speed-r,"Curve marker with Advisory Speed (right, used in Victoria)","Curve marker with Advisory Speed (right, used in Victoria)"

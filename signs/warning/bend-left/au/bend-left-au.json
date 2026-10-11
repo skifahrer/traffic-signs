@@ -1,0 +1,11 @@
+{
+  "sign": "bend-left",
+  "category": "warning",
+  "country": "au",
+  "code": "W1-3-L",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W1-3-L.svg"
+  }
+}

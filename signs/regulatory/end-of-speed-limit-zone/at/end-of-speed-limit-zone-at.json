@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-zone",
+  "category": "regulatory",
+  "country": "at",
+  "code": "§52 Z11b",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Vorschriftszeichen 11b (2010).svg"
+  }
+}

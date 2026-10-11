@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-multiple-tracks-horizontal",
+  "category": "warning",
+  "country": "at",
+  "code": "§50 Z6d (doppelt liegend)",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Gefahrenzeichen 6d doppelt liegend.svg"
+  }
+}

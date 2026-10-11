@@ -1,0 +1,11 @@
+{
+  "sign": "railway-level-crossing-on-side-road-right",
+  "category": "warning",
+  "country": "au",
+  "code": "W7-12-R",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W7-12-R.svg"
+  }
+}

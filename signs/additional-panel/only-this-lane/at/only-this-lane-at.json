@@ -1,0 +1,11 @@
+{
+  "sign": "only-this-lane",
+  "category": "additional-panel",
+  "country": "at",
+  "code": "§54 k",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Zusatztafel k.svg"
+  }
+}

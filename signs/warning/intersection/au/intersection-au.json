@@ -1,0 +1,11 @@
+{
+  "sign": "intersection",
+  "category": "warning",
+  "country": "au",
+  "code": "W2-1",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W2-1.svg"
+  }
+}

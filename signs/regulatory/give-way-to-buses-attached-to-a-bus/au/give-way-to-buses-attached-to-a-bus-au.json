@@ -1,0 +1,11 @@
+{
+  "sign": "give-way-to-buses-attached-to-a-bus",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R6-31",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R6-31.svg"
+  }
+}
