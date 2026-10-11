@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "F46.2",
+  "image": {
+    "file": "parking-garage-fi.svg",
+    "sha1": "c69fc3d82a9b5f04adcff09bfd5f9123dc9560f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F46.2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

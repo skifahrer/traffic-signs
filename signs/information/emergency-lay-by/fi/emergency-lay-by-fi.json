@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E21",
+  "image": {
+    "file": "emergency-lay-by-fi.svg",
+    "sha1": "7eeaa9552535f2b4d383237abb3533536fff5107",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E21.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

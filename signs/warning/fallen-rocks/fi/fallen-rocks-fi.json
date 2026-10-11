@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A30",
+  "image": {
+    "file": "fallen-rocks-fi.svg",
+    "sha1": "054290a89b6424f54d512b171a5f778781339b1f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A30.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

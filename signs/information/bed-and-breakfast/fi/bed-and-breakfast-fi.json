@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G36",
+  "image": {
+    "file": "bed-and-breakfast-fi.svg",
+    "sha1": "381865b935681f991796927d3662271d1125dd1f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G36.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

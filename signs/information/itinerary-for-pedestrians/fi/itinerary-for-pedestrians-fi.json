@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F52",
+  "image": {
+    "file": "itinerary-for-pedestrians-fi.svg",
+    "sha1": "1fa2fc7bf783e6d97ab7cb8790c78e0bf85ccced",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F52.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

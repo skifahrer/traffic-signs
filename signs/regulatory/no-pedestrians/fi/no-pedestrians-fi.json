@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C13",
+  "image": {
+    "file": "no-pedestrians-fi.svg",
+    "sha1": "0dab70ee8be3edc7b8eefbb1386d9ada93f34f64",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C13.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F47",
+  "image": {
+    "file": "railway-station-fi.svg",
+    "sha1": "2ecde6fd5321405f048a3311f70c90f35bef249b",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F47.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

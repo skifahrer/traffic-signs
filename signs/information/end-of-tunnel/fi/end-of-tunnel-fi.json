@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E20",
+  "image": {
+    "file": "end-of-tunnel-fi.svg",
+    "sha1": "7df3da5506e7071066b48efb833e70344d3dd180",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E20.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

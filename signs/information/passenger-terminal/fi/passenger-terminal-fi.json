@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F41",
+  "image": {
+    "file": "passenger-terminal-fi.svg",
+    "sha1": "e6f0232c961bf156dc8b59fccda660305ee1ea7b",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F41.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

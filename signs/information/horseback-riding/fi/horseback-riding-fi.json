@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G40",
+  "image": {
+    "file": "horseback-riding-fi.svg",
+    "sha1": "c0fca3543878c08ce8ea7b49a0934a96b9facd71",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G40.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

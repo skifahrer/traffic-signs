@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "B6",
+  "image": {
+    "file": "stop-fi.svg",
+    "sha1": "4f027476074b527aaa7dffd607087934a8f3b0a9",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_B6.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_etuajo-oikeus-_ja_v%C3%A4ist%C3%A4mismerkeist%C3%A4",

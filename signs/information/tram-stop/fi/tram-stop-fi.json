@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E7",
+  "image": {
+    "file": "tram-stop-fi.svg",
+    "sha1": "266c0e05f4ef859532f327d94f4d2f2ade83f1ad",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E7.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C45",
+  "image": {
+    "file": "customs-stop-fi.svg",
+    "sha1": "cc31a5e29ab61a574be4bdd96021132b837d3b20",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C45-1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

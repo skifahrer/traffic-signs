@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E17",
+  "image": {
+    "file": "expressway-fi.svg",
+    "sha1": "1b08b6e416be2004845618b58a8221d04dd27be0",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E17.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

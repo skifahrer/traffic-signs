@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "E3.3",
+  "image": {
+    "file": "park-and-ride-c-fi.svg",
+    "sha1": "f754ea9cf9574c9e9bad46f6f0d746fb78f2c8a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E3.3.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

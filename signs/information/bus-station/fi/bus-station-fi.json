@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F48",
+  "image": {
+    "file": "bus-station-fi.svg",
+    "sha1": "e7bd4b22cceec164971c69c75dda5b3eb892dba9",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F48.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

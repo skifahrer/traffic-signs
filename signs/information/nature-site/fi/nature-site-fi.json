@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G25",
+  "image": {
+    "file": "nature-site-fi.svg",
+    "sha1": "89e465ab4cf3b3c34c7b8cad67ed7db41618622a",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G25.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

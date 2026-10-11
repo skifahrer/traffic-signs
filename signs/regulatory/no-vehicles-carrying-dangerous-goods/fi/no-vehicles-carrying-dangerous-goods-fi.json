@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C8",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-fi.svg",
+    "sha1": "3434aa4abd9f9e1f533e61357597eb77f62a73a9",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C8.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

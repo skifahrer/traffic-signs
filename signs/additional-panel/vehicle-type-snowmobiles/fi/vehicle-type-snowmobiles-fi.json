@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H12.11",
+  "image": {
+    "file": "vehicle-type-snowmobiles-fi.svg",
+    "sha1": "56f71d2fa789008a4efd03d5db887d1bbb7a0836",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H12.11-1-A.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

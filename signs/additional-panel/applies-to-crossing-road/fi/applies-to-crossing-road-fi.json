@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H1",
+  "image": {
+    "file": "applies-to-crossing-road-fi.svg",
+    "sha1": "a896988983a5e61852849053e7a5bd90eef25b6f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H1-1-A.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E24",
+  "image": {
+    "file": "residential-zone-fi.svg",
+    "sha1": "5d7a4ca25298afe7aa8aca52c87f73ccd0d3222d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E24.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

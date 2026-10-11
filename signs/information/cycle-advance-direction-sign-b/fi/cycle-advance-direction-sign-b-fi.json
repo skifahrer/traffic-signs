@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F21.2",
+  "image": {
+    "file": "cycle-advance-direction-sign-b-fi.png",
+    "sha1": "51237d23f00e4cc999f58fcc7df3f6e23229ee41",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F21.2.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

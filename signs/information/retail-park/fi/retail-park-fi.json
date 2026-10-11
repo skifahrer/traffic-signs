@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F45",
+  "image": {
+    "file": "retail-park-fi.svg",
+    "sha1": "8e25e8cf8aa41f6a11ec282431300cc255004091",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F45.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

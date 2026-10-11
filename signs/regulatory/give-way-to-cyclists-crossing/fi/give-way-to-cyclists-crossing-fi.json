@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "B7",
+  "image": {
+    "file": "give-way-to-cyclists-crossing-fi.svg",
+    "sha1": "86ef0c5fb8b4661a05ea17c076b78c090201fac7",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_B7.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_etuajo-oikeus-_ja_v%C3%A4ist%C3%A4mismerkeist%C3%A4",

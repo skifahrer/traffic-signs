@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A6",
+  "image": {
+    "file": "movable-bridge-fi.svg",
+    "sha1": "4142116dd9095bc0f7ca10a3b37cbe80216cad22",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A6.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F38",
+  "image": {
+    "file": "symbol-of-road-for-motor-vehicles-fi.svg",
+    "sha1": "c346815b884510eadb2eb257b54c7614ddc8e6d6",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F38.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

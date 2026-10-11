@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F53",
+  "image": {
+    "file": "itinerary-for-handicapped-fi.svg",
+    "sha1": "44dabcc90eb81b1f566d51cee0b7e10fb4223d74",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F53.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

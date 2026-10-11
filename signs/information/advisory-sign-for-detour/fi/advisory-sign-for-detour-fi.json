@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F4.1",
+  "image": {
+    "file": "advisory-sign-for-detour-fi.png",
+    "sha1": "dee2cd611d66e19dea346a4333cbfaf05f1e2028",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F4.1.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

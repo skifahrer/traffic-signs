@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "D1.3",
+  "image": {
+    "file": "mandatory-direction-straight-fi.svg",
+    "sha1": "ffc8b7982fbeebb558354c12f05e55026f7a0f2c",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_D1.3.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_m%C3%A4%C3%A4r%C3%A4ysmerkeist%C3%A4",

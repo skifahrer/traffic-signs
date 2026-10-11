@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A17",
+  "image": {
+    "file": "children-fi.svg",
+    "sha1": "86fe7a5194223c54be7e0e0d8b1fd8437f24899a",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A17.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

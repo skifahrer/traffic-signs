@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C35",
+  "image": {
+    "file": "end-of-speed-limit-zone-fi.svg",
+    "sha1": "171165caaaea98255a59f7c848afc4f18e27f72d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C35-40.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A27",
+  "image": {
+    "file": "level-crossing-with-barriers-fi.svg",
+    "sha1": "ea503c7d66061644cedbeb2750278711cfc9dbfc",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A27.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

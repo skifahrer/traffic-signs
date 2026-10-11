@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F43",
+  "image": {
+    "file": "freight-terminal-fi.svg",
+    "sha1": "60db23a4a0c6a14d2b755bb4f74575a769ece4ae",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F43.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

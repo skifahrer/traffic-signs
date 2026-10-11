@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F24.1",
+  "image": {
+    "file": "dead-end-fi.svg",
+    "sha1": "1221b2b86f798e8eb315ef3eb70bcd4460433127",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F24.1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

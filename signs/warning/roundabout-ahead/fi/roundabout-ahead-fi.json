@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A24",
+  "image": {
+    "file": "roundabout-ahead-fi.svg",
+    "sha1": "cd8f3acfba352d2b420e1d60f52a2f99038ff3e8",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A24.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

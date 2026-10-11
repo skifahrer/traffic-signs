@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F7.3",
+  "image": {
+    "file": "information-on-traffic-lanes-f7-3-fi.svg",
+    "sha1": "1ebcadc153ff670d944397d054a4fa7f3a5b1b90",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F7.3.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

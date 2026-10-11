@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C42",
+  "image": {
+    "file": "taxi-stopping-place-fi.svg",
+    "sha1": "6ce4273499242a69e8376b25744dbb8b744e01d7",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C42.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

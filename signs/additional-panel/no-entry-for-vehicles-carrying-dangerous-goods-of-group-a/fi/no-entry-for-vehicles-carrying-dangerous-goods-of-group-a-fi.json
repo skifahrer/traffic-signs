@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H14",
+  "image": {
+    "file": "no-entry-for-vehicles-carrying-dangerous-goods-of-group-a-fi.svg",
+    "sha1": "533db1f0818efea6ce3b97b38169b099fb0047a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H14.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F1.1",
+  "image": {
+    "file": "advance-direction-sign-type-a-fi.png",
+    "sha1": "ec35e1dc2e080e9dc04d997af333a42751f66417",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F1.1.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

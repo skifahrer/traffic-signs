@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F14",
+  "image": {
+    "file": "exit-direction-sign-fi.png",
+    "sha1": "c0d572b6c0b1266abb5b7c38a7409b70934c96ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F14.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

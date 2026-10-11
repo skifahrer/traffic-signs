@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G23",
+  "image": {
+    "file": "museum-or-historic-building-fi.svg",
+    "sha1": "9c46ebd307cf6469af90398da1c2d6afbbc0d049",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G23.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F54",
+  "image": {
+    "file": "overpass-or-underpass-with-steps-fi.svg",
+    "sha1": "b49c30777092c59e5e1f6c56f12490aea342b8a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F54.1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

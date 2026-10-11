@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F18",
+  "image": {
+    "file": "direction-sign-showing-park-and-ride-facilities-fi.svg",
+    "sha1": "c1ef53243a7ce3539f714641b387b424aebcab91",
+    "source": "https://commons.wikimedia.org/wiki/File:Liitynt%C3%A4pys%C3%A4k%C3%B6intiviitta_650.svg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

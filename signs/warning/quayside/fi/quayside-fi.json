@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A7",
+  "image": {
+    "file": "quayside-fi.svg",
+    "sha1": "47d4398983d2ffc5f55b4bda3c642b6bead9fab7",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A7.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

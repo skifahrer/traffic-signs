@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H22.2",
+  "image": {
+    "file": "priority-road-course-b-fi.svg",
+    "sha1": "7c98cc38be6166a881cb7e1926c9361750c67280",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H22.2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

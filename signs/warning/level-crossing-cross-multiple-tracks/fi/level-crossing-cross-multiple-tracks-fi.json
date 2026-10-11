@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A29.2",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-fi.svg",
+    "sha1": "a0d9b82384c0fd8107dfb0c04ee3478f411928f2",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A29.2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

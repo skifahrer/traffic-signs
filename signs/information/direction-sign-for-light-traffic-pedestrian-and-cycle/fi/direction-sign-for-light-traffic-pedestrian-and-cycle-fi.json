@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F20.2",
+  "image": {
+    "file": "direction-sign-for-light-traffic-pedestrian-and-cycle-fi.png",
+    "sha1": "f09869a4d4667c636add176631cce4d1be18a08a",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F20.2.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

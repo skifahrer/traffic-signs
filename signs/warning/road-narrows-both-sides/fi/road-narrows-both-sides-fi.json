@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A4",
+  "image": {
+    "file": "road-narrows-both-sides-fi.svg",
+    "sha1": "ef790c27114f9a81d9c44fccda78a4bcaa869f4e",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A4.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

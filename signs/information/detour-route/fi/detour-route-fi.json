@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F5",
+  "image": {
+    "file": "detour-route-fi.svg",
+    "sha1": "cfc1a0ca7c844aa765949f8abdd1173a5087d8cd",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F5.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

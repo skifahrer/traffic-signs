@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A15",
+  "image": {
+    "file": "pedestrian-crossing-ahead-fi.svg",
+    "sha1": "8c101df9100492d7f2505a4b2322d3218ee18662",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A15.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

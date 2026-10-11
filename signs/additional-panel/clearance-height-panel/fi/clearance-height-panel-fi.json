@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H7",
+  "image": {
+    "file": "clearance-height-panel-fi.svg",
+    "sha1": "b91334f07a78122a038e26288528bfb1724f01b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H7.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

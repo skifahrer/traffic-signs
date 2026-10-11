@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F51",
+  "image": {
+    "file": "itinerary-for-transport-of-dangerous-goods-fi.svg",
+    "sha1": "1be54bebaa894a05f4c419c6881b24d0c137009e",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F51.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

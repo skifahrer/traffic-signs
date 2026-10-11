@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F6",
+  "image": {
+    "file": "route-to-be-followed-in-order-to-turn-left-fi.png",
+    "sha1": "eb525c354c5146dee174b0b547d00990fb457744",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F6.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

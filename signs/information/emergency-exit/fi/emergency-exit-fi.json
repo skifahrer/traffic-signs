@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F56",
+  "image": {
+    "file": "emergency-exit-fi.svg",
+    "sha1": "ee75e0310feb3a88896b145299b63f4cb3dfe181",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_690-R.svg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E29",
+  "image": {
+    "file": "end-of-bicycle-road-fi.svg",
+    "sha1": "b6dd8d55a93f26cc6396ad17928b636db61bf8ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E29.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

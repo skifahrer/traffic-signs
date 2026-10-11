@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E23",
+  "image": {
+    "file": "end-of-built-up-area-fi.svg",
+    "sha1": "dbb3957ee16435d226aef7dec175e7578a0af7ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E23.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

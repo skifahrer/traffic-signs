@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C12",
+  "image": {
+    "file": "no-bicycles-or-mopeds-fi.svg",
+    "sha1": "9c75d86b810a2d0952826c39debcd48b25e6e8c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C12.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

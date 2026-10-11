@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E30",
+  "image": {
+    "file": "zip-merge-fi.png",
+    "sha1": "197ac67136fde4b72725b8e1b7238122340b7cc9",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E30.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

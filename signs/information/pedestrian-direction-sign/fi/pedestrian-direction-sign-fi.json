@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F19",
+  "image": {
+    "file": "pedestrian-direction-sign-fi.png",
+    "sha1": "a5a5f85c5dab5fd71caa22abbb1d2397b5899736",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F19.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

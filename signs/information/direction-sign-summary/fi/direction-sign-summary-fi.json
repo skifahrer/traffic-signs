@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F9",
+  "image": {
+    "file": "direction-sign-summary-fi.png",
+    "sha1": "4001571b9a71f6454c61baa79ca6ee923fea7947",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F9.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

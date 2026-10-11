@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A20.1",
+  "image": {
+    "file": "elk-fi.svg",
+    "sha1": "ef1df6bdfc20efea2c82bff52646db05f2fbfb0e",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A20.1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

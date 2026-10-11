@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G9",
+  "image": {
+    "file": "services-first-aid-fi.svg",
+    "sha1": "65c0c70d7b447c5583f054c13b9f73daf69073a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G9.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

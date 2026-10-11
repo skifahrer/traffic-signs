@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F30",
+  "image": {
+    "file": "main-road-number-class-2-fi.svg",
+    "sha1": "b5bbc7cbb2525c7feebad0c33ac9f8e871501615",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F30-44.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

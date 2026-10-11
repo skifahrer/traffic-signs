@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E14.1",
+  "image": {
+    "file": "one-way-road-fi.svg",
+    "sha1": "90e99d525850ca863e9bdf5f36fc46f4b0918017",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E14.1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

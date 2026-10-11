@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C4",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-fi.svg",
+    "sha1": "9ea90926fc219b992515d3c1626200f06e83b822",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C4.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

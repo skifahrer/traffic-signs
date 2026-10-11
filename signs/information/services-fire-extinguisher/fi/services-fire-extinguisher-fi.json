@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G22",
+  "image": {
+    "file": "services-fire-extinguisher-fi.svg",
+    "sha1": "56a7c8b90cd11b6d4020a83bc693bf525a0f3c75",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G22.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

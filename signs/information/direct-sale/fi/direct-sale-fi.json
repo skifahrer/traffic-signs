@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G37",
+  "image": {
+    "file": "direct-sale-fi.svg",
+    "sha1": "4cbd8d343f9c7b755c75d1b5b663a5041dca8df8",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G37.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

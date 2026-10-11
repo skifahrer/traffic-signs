@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A33",
+  "image": {
+    "file": "danger-fi.svg",
+    "sha1": "e0718a560eb7deff3797daff368adbcbd3055a03",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A33.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

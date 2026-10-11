@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C48",
+  "image": {
+    "file": "no-studded-tyres-fi.svg",
+    "sha1": "1652be3cf3bb0fa5f5b9c09bc123ad126ba4ccf0",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C48.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

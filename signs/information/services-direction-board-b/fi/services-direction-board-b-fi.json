@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G2",
+  "image": {
+    "file": "services-direction-board-b-fi.png",
+    "sha1": "73381f9533119dfd445c7b0a7cdfbed7b6656087",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G2.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

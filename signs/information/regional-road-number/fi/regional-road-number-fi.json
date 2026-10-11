@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F31",
+  "image": {
+    "file": "regional-road-number-fi.svg",
+    "sha1": "a2bba3797f715f846274474ee39d1b82bb641455",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F31-522.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

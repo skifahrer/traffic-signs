@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H19.1",
+  "image": {
+    "file": "parking-disc-panel-fi.svg",
+    "sha1": "6e040b34a57ccbbab408b3b331ed5039c8f0444f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H19.1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

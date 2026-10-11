@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C40",
+  "image": {
+    "file": "end-of-no-parking-zone-fi.svg",
+    "sha1": "54bfff311c1f58f98b525e94e672c9aac6f56033",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C40.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

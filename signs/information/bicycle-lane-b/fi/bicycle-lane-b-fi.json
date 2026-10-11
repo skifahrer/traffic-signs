@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E13.2",
+  "image": {
+    "file": "bicycle-lane-b-fi.svg",
+    "sha1": "212d382c0d68f2eb17913a2b224ba78dce5c1f24",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E13.2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

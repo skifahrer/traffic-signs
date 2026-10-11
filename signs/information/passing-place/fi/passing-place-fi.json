@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E5",
+  "image": {
+    "file": "passing-place-fi.svg",
+    "sha1": "9e14b67d30f2a5cd05dd13f649b9e8f9c14ac197",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E5.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

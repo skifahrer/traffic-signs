@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H26",
+  "image": {
+    "file": "emergency-phone-and-extinguisher-fi.svg",
+    "sha1": "f2f3a14ae0aa2a8353e7f2a0fc8126050cc22167",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H26.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

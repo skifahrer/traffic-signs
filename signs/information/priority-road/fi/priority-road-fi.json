@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "B1",
+  "image": {
+    "file": "priority-road-fi.svg",
+    "sha1": "4f01d7993239b887dd6bcbe7da6cdbaf161b0d11",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_B1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_etuajo-oikeus-_ja_v%C3%A4ist%C3%A4mismerkeist%C3%A4",

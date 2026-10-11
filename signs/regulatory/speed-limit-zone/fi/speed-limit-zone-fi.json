@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C34",
+  "image": {
+    "file": "speed-limit-zone-fi.svg",
+    "sha1": "30753899ffa3a14c8ce12442155eaa9009034b2d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C34-40.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

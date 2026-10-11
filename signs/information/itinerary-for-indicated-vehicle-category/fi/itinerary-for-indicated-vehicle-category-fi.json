@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F50",
+  "image": {
+    "file": "itinerary-for-indicated-vehicle-category-fi.svg",
+    "sha1": "a26a21c505187bc0890d6133d3cc5144a7a1175d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F50.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "B4",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-fi.svg",
+    "sha1": "3136bfee4f322541a59b9430b4f49580f87fa0a3",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_B4.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_etuajo-oikeus-_ja_v%C3%A4ist%C3%A4mismerkeist%C3%A4",

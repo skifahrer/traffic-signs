@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G17",
+  "image": {
+    "file": "services-campsite-fi.svg",
+    "sha1": "20efb5f06997adfc9a3703f183e43f25438c201b",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G17.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

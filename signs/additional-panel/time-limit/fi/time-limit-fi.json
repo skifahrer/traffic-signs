@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H18",
+  "image": {
+    "file": "time-limit-fi.svg",
+    "sha1": "08a7bd118883354910dce1e188fa68e9b2df3a4f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H18-A.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

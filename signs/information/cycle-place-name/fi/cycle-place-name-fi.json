@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F23",
+  "image": {
+    "file": "cycle-place-name-fi.png",
+    "sha1": "1c3a018b9fed551c98d20437d3c90e7a2b46685b",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F23.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

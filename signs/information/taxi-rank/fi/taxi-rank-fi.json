@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E8",
+  "image": {
+    "file": "taxi-rank-fi.svg",
+    "sha1": "696f7f186e6f2bfba2ebda10f9893c18d2d10c8f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E8.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

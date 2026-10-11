@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "E11.2",
+  "image": {
+    "file": "tram-and-taxi-lane-fi.svg",
+    "sha1": "fff6834e77b2d7a15372be0820b6133a2d7c9892",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E11.2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

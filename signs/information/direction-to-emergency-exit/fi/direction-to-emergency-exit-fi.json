@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F57",
+  "image": {
+    "file": "direction-to-emergency-exit-fi.svg",
+    "sha1": "885bfaee77cde7bc4481139f57dae136b82fc724",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_691-L.svg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

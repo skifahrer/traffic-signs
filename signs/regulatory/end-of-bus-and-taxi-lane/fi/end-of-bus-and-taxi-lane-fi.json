@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "E10.2",
+  "image": {
+    "file": "end-of-bus-and-taxi-lane-fi.svg",
+    "sha1": "8c2e9dc651f2794b2879b90d1e3883a2fa10efd3",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E10.2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

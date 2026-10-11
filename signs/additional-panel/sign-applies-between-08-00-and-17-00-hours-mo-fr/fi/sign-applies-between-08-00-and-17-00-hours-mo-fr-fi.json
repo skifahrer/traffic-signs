@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H17.1",
+  "image": {
+    "file": "sign-applies-between-08-00-and-17-00-hours-mo-fr-fi.svg",
+    "sha1": "4284459d53dcc0c37bf9df55bdf5d5861aa4b060",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H17.1-A.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

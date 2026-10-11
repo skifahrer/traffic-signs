@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C47",
+  "image": {
+    "file": "minimum-distance-fi.svg",
+    "sha1": "7305605ee51be0e36dfc12661b9b1b345340bd37",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C47.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

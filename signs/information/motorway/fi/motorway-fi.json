@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E15",
+  "image": {
+    "file": "motorway-fi.svg",
+    "sha1": "d9f12bfaad1ae52cc601d9c9b85e3dc920423f5c",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E15.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

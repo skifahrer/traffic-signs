@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H21",
+  "image": {
+    "file": "electric-vehicles-charging-only-fi.svg",
+    "sha1": "1b2e0a011a46ca0750dcbdf303afd4d2749b3231",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H21.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H2.3",
+  "image": {
+    "file": "sign-applies-km-in-the-direction-of-the-arrow-h2-3-fi.svg",
+    "sha1": "8b83d269db02ed238beec45d8bf7d8cd072705d2",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H2.3-A.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

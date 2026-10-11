@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C33",
+  "image": {
+    "file": "end-of-speed-limit-fi.svg",
+    "sha1": "af3568e2ce51503261b5a185675256768fd08f44",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C33-60.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

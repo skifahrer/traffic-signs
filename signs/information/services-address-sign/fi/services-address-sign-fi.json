@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G4",
+  "image": {
+    "file": "services-address-sign-fi.png",
+    "sha1": "1097d9eed1b3259016ceb99ff04740b3bf042f58",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G4.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

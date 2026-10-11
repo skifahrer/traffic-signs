@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F42",
+  "image": {
+    "file": "cargo-terminal-fi.svg",
+    "sha1": "c017a594300b364802a1bdc2ff532c568d478ea9",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F42.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

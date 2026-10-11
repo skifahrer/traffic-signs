@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F15",
+  "image": {
+    "file": "direction-sign-detour-fi.svg",
+    "sha1": "ba2bdf3ccb638e91195b581accd042aa46472a16",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F15-1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

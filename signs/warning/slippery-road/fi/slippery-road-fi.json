@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A13",
+  "image": {
+    "file": "slippery-road-fi.svg",
+    "sha1": "84a216bcddaae63bfe2d51244e183d1d935d2125",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A13.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

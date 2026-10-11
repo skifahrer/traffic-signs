@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H25",
+  "image": {
+    "file": "additional-panel-with-text-driving-in-service-purposes-fi.svg",
+    "sha1": "a7d426e6123fc98c3170b5b8c0b73882b19ddb1a",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H25-FI_(except_for_access).svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

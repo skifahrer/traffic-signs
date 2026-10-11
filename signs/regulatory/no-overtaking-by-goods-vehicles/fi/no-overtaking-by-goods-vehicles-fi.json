@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C30",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-fi.svg",
+    "sha1": "2149f052322e69afedf7c59e7f1563f4deef6f9d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C30.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G8",
+  "image": {
+    "file": "services-information-centre-fi.svg",
+    "sha1": "89aacbbfa65095c0b1456daa7df849f5a8d864c2",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G8.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

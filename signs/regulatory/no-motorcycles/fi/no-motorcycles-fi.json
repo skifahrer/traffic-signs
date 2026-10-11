@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C6",
+  "image": {
+    "file": "no-motorcycles-fi.svg",
+    "sha1": "fbcace9e97f2eba1fcbd2102d060e332b504275a",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C6.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

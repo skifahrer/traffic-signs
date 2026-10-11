@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F25",
+  "image": {
+    "file": "recommended-speed-fi.svg",
+    "sha1": "74cdfa4ea0e176ec96cd73f387431a8591608456",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F25-70.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

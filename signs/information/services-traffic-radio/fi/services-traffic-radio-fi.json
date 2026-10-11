@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G6",
+  "image": {
+    "file": "services-traffic-radio-fi.svg",
+    "sha1": "dab28f46d239f640c8f7494f0fe11d6ae1ba6ae7",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G6.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

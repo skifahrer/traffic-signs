@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G39",
+  "image": {
+    "file": "farm-park-fi.svg",
+    "sha1": "b1d3d426bbf82ee62935abd97f60c46ef5f2261f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G39.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

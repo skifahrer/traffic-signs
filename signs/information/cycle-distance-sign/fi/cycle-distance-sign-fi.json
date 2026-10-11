@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F22",
+  "image": {
+    "file": "cycle-distance-sign-fi.png",
+    "sha1": "8c27672fb28a307c0e44fdb337373ad71b460aca",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F22.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

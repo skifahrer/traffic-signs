@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F34",
+  "image": {
+    "file": "motorway-junction-number-fi.png",
+    "sha1": "d9ee01e26b654b68ea8be1c5c814a0e4304157a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F34.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

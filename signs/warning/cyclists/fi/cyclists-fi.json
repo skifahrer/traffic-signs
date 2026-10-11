@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fi",
   "code": "A18",
+  "image": {
+    "file": "cyclists-fi.svg",
+    "sha1": "4185cfd051240d37fa0abbf7854f1c9c206c087c",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_A18.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",

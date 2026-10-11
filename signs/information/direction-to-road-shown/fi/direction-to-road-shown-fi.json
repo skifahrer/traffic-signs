@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F35",
+  "image": {
+    "file": "direction-to-road-shown-fi.svg",
+    "sha1": "786c3235ab67420a02e861b366e6f6854fa3813f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F35-2-2.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

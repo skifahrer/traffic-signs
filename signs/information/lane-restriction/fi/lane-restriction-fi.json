@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "C36",
+  "image": {
+    "file": "lane-restriction-fi.svg",
+    "sha1": "4a0c220f5e5742b4f81284e0a3c4f8cb93afa097",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C36-4.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

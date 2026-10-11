@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E26",
+  "image": {
+    "file": "pedestrian-zone-fi.svg",
+    "sha1": "30d90b7170e6490c3de60d33dd37b04ae9735138",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E26.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

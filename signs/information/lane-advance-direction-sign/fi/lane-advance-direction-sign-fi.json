@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F3",
+  "image": {
+    "file": "lane-advance-direction-sign-fi.png",
+    "sha1": "0f3c27465766fbae2cd1c499f51fb9631c31da61",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F3.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

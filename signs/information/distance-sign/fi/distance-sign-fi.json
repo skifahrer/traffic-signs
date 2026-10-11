@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F26",
+  "image": {
+    "file": "distance-sign-fi.png",
+    "sha1": "a5eb49658a9b040b9c0dc4d05fc1de10867e43b4",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F26.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

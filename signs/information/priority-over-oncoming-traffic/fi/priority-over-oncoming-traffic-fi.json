@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "B3",
+  "image": {
+    "file": "priority-over-oncoming-traffic-fi.svg",
+    "sha1": "49fe07bc3cb06af4d9f626beb8345ab3c751522d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_B3.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_etuajo-oikeus-_ja_v%C3%A4ist%C3%A4mismerkeist%C3%A4",

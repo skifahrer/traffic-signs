@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C41",
+  "image": {
+    "file": "taxi-rank-zone-fi.svg",
+    "sha1": "5bc37d6386c269e0b28411c686fba5ab88b4fe2d",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C41.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

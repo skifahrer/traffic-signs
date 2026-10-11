@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G13",
+  "image": {
+    "file": "services-restaurant-fi.svg",
+    "sha1": "e98074c2c8d3cb90531cc8bfcf3cd657db077e4c",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G13.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

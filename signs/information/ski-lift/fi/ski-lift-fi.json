@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G31",
+  "image": {
+    "file": "ski-lift-fi.svg",
+    "sha1": "cfe63e8a08f79e38dc8e2295434d15aecbbb5260",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G31.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

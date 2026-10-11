@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G35",
+  "image": {
+    "file": "cottage-accommodation-fi.svg",
+    "sha1": "20820d336f1b5fce68d13e83c1fe568d68193f8f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G35.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

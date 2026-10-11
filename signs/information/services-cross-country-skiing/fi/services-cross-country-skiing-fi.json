@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "G32",
+  "image": {
+    "file": "services-cross-country-skiing-fi.svg",
+    "sha1": "5e58e2e1694bb5dc230b83470560387eac7fc4c4",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_G32.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",

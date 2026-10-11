@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F10",
+  "image": {
+    "file": "direction-board-overhead-fi.png",
+    "sha1": "cf02b9759e776ad79ca3464fbb5fee77f45d38a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F10.png",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

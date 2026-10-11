@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E18",
+  "image": {
+    "file": "end-of-expressway-fi.svg",
+    "sha1": "cb1291a09b6fe3cd6122e08083e25908c9a5df52",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E18.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C29",
+  "image": {
+    "file": "end-of-no-overtaking-fi.svg",
+    "sha1": "5dfec9f2a19de725cc80039237897c3cfc0d7af7",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C29.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

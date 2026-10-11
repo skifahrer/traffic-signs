@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F37",
+  "image": {
+    "file": "symbol-of-motorway-fi.svg",
+    "sha1": "f033671730fd5c0ea1a82741c7b5edf564d6372c",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F37.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "F55",
+  "image": {
+    "file": "overpass-or-underpass-without-steps-fi.svg",
+    "sha1": "6241f902a86378df2a705f3ffcc97f1f90442212",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_F55.1.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",

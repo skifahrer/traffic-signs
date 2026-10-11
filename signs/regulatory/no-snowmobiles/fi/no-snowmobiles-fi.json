@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C7",
+  "image": {
+    "file": "no-snowmobiles-fi.svg",
+    "sha1": "fb5cc5145b4fd4557a04e90d9a6ee4a63c51d263",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C7.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",

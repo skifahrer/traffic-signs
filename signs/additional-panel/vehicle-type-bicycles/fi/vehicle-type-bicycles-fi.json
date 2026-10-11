@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "fi",
   "code": "H12.10",
+  "image": {
+    "file": "vehicle-type-bicycles-fi.svg",
+    "sha1": "a56c8c32f1881f57f97bbca70fd19563d297b2ce",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_H12.10-1-A.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",

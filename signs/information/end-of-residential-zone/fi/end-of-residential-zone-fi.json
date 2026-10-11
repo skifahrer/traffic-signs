@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E25",
+  "image": {
+    "file": "end-of-residential-zone-fi.svg",
+    "sha1": "0440f727793ea2a10b158c8631d3a74f9b34ab8f",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E25.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

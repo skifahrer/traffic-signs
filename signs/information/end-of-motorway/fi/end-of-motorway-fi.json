@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fi",
   "code": "E16",
+  "image": {
+    "file": "end-of-motorway-fi.svg",
+    "sha1": "3042a8fc109e04a9b7e9ff26e11f30c7263839dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_E16.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fi",
   "code": "C9",
+  "image": {
+    "file": "no-buses-fi.svg",
+    "sha1": "d317d6b4b117f9113764f62cff35cd36981c0576",
+    "source": "https://commons.wikimedia.org/wiki/File:Finland_road_sign_C9.svg",
+    "author": "Republic of Finland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fi-wikipedia",
     "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",
