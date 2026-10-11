@@ -138,7 +138,7 @@ _GALLERY_OPTIONS = re.compile(r"^(?:\s*(?:alt|alternativtext|link|page|lang|clas
 
 
 def between(parser: Parser, start: str | None = None, end: str | None = None) -> Parser:
-    """`parser`, reading only the part of the page from `start` up to `end`.
+    r"""`parser`, reading only the part of the page from `start` up to `end`.
 
     Both are regular expressions for a line, usually a heading: from the first
     line matching `start` (or the top of the page) up to the first line after

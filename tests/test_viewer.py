@@ -77,3 +77,35 @@ class ViewerTest(SandboxTestCase):
         self.assertTrue(os.path.exists(os.path.join(out, "signs", "warning", "danger", "danger.json")))
         with open(os.path.join(out, "data.json"), encoding="utf-8") as handle:
             self.assertEqual(len(json.load(handle)["signs"]), 3)
+
+
+class VariantTest(SandboxTestCase):
+    def test_a_variant_is_the_parent_name_plus_a_side_value_or_letter(self):
+        from viewer.index import variant_parent
+
+        signs = {"crosswind", "speed-limit", "no-parking", "level-crossing-countdown-marker-3-bars", "steep-descent", "farm-animals"}
+        for slug, parent in [
+            ("crosswind-from-left", "crosswind"),
+            ("speed-limit-50", "speed-limit"),
+            ("speed-limit-20mph", "speed-limit"),
+            ("steep-descent-10-percent", "steep-descent"),
+            ("farm-animals-b", "farm-animals"),
+            ("level-crossing-countdown-marker-3-bars-left-side", "level-crossing-countdown-marker-3-bars"),
+            ("level-crossing-countdown-marker-3-bars-with-distance-left-side", None),  # another sign, with a side
+            ("no-parking-zone", None),  # another sign
+            ("crosswind", None),
+        ]:
+            with self.subTest(slug=slug):
+                self.assertEqual(variant_parent(slug, signs), parent)
+
+    def test_index_links_variants_to_their_sign(self):
+        self.run_pipeline("--no-images")
+        names = {"en": "Bend"}
+        layout.write_json(layout.translations_path("warning", "bend"), names)
+        layout.write_json(layout.sign_path("warning", "bend", "cz", "json"), {"code": "A 1"})
+        index = build_index()
+        bend = next(s for s in index["signs"] if s["sign"] == "bend")
+        left = next(s for s in index["signs"] if s["sign"] == "bend-left")
+        self.assertEqual(bend["variants"], ["bend-left"])
+        self.assertEqual(left["variant_of"], "bend")
+        self.assertNotIn("variant_of", bend)

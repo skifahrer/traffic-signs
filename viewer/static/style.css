@@ -284,6 +284,27 @@ main {
   font-size: 1.5rem;
 }
 
+/* The country only has variants of this sign (other side, other value): the first one, faded. */
+.cell.variant img,
+.cell.variant .missing {
+  opacity: 0.7;
+}
+
+.badge.variant-badge {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.panel.variant {
+  border-style: dashed;
+}
+
+/* Countries without the sign, in one line: only on phones (see below). */
+.absent-list {
+  display: none;
+}
+
 /* Country code inside each cell; only shown on phones, where there is no header row. */
 .cell .country {
   display: none;
@@ -482,7 +503,7 @@ footer {
   font-size: 0.85rem;
 }
 
-/* Phones: each sign is a card, name on top and the countries side by side. */
+/* Phones: each sign is a card, name on top and the countries that have it wrapping below. */
 @media (max-width: 640px) {
   .top {
     padding: 0.5rem 0.75rem 0.25rem;
@@ -512,8 +533,9 @@ footer {
     display: none;
   }
 
+  /* As many countries per line as fit, so a card never needs sideways scrolling. */
   .row {
-    grid-template-columns: repeat(var(--columns), minmax(4.5rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(4.75rem, 1fr));
     align-items: start;
     gap: 0.4rem 0.5rem;
     padding: 0.65rem 0.75rem;
@@ -543,7 +565,14 @@ footer {
   }
 
   .cell.absent {
-    font-size: 1.1rem;
+    display: none;
+  }
+
+  .absent-list {
+    display: block;
+    grid-column: 1 / -1;
+    margin: 0;
+    font-size: 0.75rem;
   }
 
   /* Detail: full screen, close button always in reach, two countries per row. */
