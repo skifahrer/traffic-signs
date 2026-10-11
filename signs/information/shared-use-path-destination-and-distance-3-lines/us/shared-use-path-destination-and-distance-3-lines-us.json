@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D11-10f",
+  "image": {
+    "file": "shared-use-path-destination-and-distance-3-lines-us.svg",
+    "sha1": "4ffdc6ecc3a30964c4b1c8cfa632e1a961d5e546",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D11-10f.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D11-20aL",
+  "image": {
+    "file": "bicycle-left-turn-box-us.svg",
+    "sha1": "1377884caaf7e8b73121116756187657b30245fc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D11-20aL.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

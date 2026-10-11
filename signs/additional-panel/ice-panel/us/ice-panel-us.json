@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W8-5aP",
+  "image": {
+    "file": "ice-panel-us.svg",
+    "sha1": "e4cc11620a28f5fd536224606172b7d9a97dffe3",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-5aP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

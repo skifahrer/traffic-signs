@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-12b",
+  "image": {
+    "file": "hov-lane-ends-distance-post-mounted-us.svg",
+    "sha1": "fc2ed808cb82d505d7c6f0f59b1409f87f74acf1",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-12b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

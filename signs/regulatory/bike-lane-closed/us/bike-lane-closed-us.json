@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-12",
+  "image": {
+    "file": "bike-lane-closed-us.svg",
+    "sha1": "ecd20a8ccde26fc1e6c1045389204a023ef745d9",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-12.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

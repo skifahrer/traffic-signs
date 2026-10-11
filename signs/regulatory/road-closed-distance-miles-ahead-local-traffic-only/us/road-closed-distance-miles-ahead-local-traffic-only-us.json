@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R11-3",
+  "image": {
+    "file": "road-closed-distance-miles-ahead-local-traffic-only-us.svg",
+    "sha1": "5310a1e83a03b0aa9276b0e1174ccc55919e52d0",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R11-3.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

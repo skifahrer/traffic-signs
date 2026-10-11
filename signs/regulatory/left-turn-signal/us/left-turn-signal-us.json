@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-10L",
+  "image": {
+    "file": "left-turn-signal-us.svg",
+    "sha1": "e1c3cfb5b3e17a31977d8d6415025922ccf59bc2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-10L.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

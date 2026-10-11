@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-5R",
+  "image": {
+    "file": "turn-right-us.svg",
+    "sha1": "cb3f13e68a84bc81ec3cda456e9258d5bd9c51ef",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-5R.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-23",
+  "image": {
+    "file": "crosswalk-stop-on-red-us.svg",
+    "sha1": "25a8b726f4496b099e17f0c885a9ad298c8abf50",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-23.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

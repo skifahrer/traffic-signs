@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M1-8",
+  "image": {
+    "file": "state-or-local-bicycle-route-us.svg",
+    "sha1": "d15598156b410bb2a72a7ed2837eefdea270b0f2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M1-8.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "G20-4",
+  "image": {
+    "file": "pilot-car-follow-me-us.svg",
+    "sha1": "ed6680d0adc18374d7382cee0b15b8418fd0f532",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_G20-4.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

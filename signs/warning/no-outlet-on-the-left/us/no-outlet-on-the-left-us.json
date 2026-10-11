@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W14-2aL",
+  "image": {
+    "file": "no-outlet-on-the-left-us.svg",
+    "sha1": "7c2fb2bf46ebde2a958ca4e6b4402211ac0dda0c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W14-2aL.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

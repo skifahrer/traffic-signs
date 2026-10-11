@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-15b",
+  "image": {
+    "file": "hov-lane-ends-overhead-us.svg",
+    "sha1": "b0f6c3b29f749bbd74cbde2db11a00f50cca803a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-15b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

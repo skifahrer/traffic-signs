@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "E13-2a",
+  "image": {
+    "file": "exit-direction-advisory-speed-ramp-us.svg",
+    "sha1": "3a2cca956562cc44a7081cf498e874a4e08bbcff",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_E13-2a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

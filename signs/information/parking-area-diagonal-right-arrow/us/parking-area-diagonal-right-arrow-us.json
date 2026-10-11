@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D5-9a",
+  "image": {
+    "file": "parking-area-diagonal-right-arrow-us.svg",
+    "sha1": "1b979d8088ef41498a72628293d5eb4ad9dc23ed",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D5-9a.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R7-108",
+  "image": {
+    "file": "two-hour-parking-times-us.svg",
+    "sha1": "96d4c0190c2b62143de042794960751fb2736729",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R7-108.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

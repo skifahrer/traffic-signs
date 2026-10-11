@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R6-3",
+  "image": {
+    "file": "divided-highway-crossing-us.svg",
+    "sha1": "278abce47393c8fb6d922d31dc9fb846cfe1ba52",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R6-3.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

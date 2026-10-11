@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R10-20aP (2 lines)",
+  "image": {
+    "file": "days-and-times-for-use-with-r10-11-series-2-lines-us.svg",
+    "sha1": "0f1b2bbdd75f5a906851461d9525d54f14baf5b2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-20aP_(2_lines).svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

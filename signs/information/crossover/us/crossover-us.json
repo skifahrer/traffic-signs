@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D13-1",
+  "image": {
+    "file": "crossover-us.svg",
+    "sha1": "e339264b545ec8e5a29931ba464675889b562c54",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D13-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

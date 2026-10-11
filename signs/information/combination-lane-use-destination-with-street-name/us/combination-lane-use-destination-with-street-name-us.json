@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D15-1 (street name)",
+  "image": {
+    "file": "combination-lane-use-destination-with-street-name-us.svg",
+    "sha1": "c10546c80b508beccf30c94ff03b5573c1cfad95",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D15-1_(street_name).svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

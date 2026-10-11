@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W11-9",
+  "image": {
+    "file": "handicapped-us.svg",
+    "sha1": "e8cd01985b2d29654edfc82697bf260aa682a751",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W11-9.svg",
+    "author": "W9-2L-DE.svg: *W9-2R-DE.svg: *MDSHA_W9-2(2).svg: Overpush derivative work: Fry1989 derivative work: Fry1989 New Zealand road sign R6-55 (obsolete).svg: New Zealand Transport Agency derivative work: Fry1989",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

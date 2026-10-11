@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W9-1L",
+  "image": {
+    "file": "left-lane-ends-us.svg",
+    "sha1": "cae6ea227889abbc02fcbd01fc5fbda0a8ee6597",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W9-1L.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

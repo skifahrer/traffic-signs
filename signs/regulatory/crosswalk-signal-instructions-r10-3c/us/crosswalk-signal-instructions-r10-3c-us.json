@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-3c",
+  "image": {
+    "file": "crosswalk-signal-instructions-r10-3c-us.svg",
+    "sha1": "96eb196374ba89c1cd41438754064623d745a1e2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-3c.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

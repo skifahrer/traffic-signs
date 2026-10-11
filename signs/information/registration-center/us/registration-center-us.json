@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "EM3-1b",
+  "image": {
+    "file": "registration-center-us.svg",
+    "sha1": "c311773f95c6894ac84f8782dab42024fe38b7de",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_EM3-1b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W9-6hP",
+  "image": {
+    "file": "stop-ahead-take-ticket-plaque-us.svg",
+    "sha1": "1dbe5fcf52df986464a791a5df655317d3a301cc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W9-6hP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

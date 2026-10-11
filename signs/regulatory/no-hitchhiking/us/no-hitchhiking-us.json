@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-4a",
+  "image": {
+    "file": "no-hitchhiking-us.svg",
+    "sha1": "2f2f55535444b2965bdbc8a670669f633408dae4",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-4a.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W9-4",
+  "image": {
+    "file": "lanes-merge-us.svg",
+    "sha1": "5b67965c3de66b0dcbc0a3127736c12350b2f4f5",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W9-4.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

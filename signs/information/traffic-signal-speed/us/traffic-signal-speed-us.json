@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "I1-1",
+  "image": {
+    "file": "traffic-signal-speed-us.svg",
+    "sha1": "6ce3fdf35cddff97754cf1f37954ceca54a816a5",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_I1-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

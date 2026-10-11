@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R7-1",
+  "image": {
+    "file": "no-parking-us.svg",
+    "sha1": "551b9c860234fb43a336ab58b9fb8a70d17aaa34",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R7-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

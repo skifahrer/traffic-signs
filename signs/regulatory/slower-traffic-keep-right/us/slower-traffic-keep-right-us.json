@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R4-3",
+  "image": {
+    "file": "slower-traffic-keep-right-us.svg",
+    "sha1": "4aa14c7d293a4207ec56a51ac3ac213054048c97",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R4-3.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

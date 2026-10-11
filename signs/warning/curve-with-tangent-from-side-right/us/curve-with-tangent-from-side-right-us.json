@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W1-10cR",
+  "image": {
+    "file": "curve-with-tangent-from-side-right-us.svg",
+    "sha1": "6dce02637bedcba2210a65b253ce3e7ad3d42007",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W1-10cR.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

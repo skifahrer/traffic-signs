@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "M4-15",
+  "image": {
+    "file": "toll-plaque-us.svg",
+    "sha1": "8771571a4ce1bcf62204afdb3cfb96ac327d4bdf",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-17P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

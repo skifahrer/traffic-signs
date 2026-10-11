@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W6-3",
+  "image": {
+    "file": "two-way-traffic-us.svg",
+    "sha1": "491e9bff76833d6c6d6d33485c87ce82a56b1147",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W6-3.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

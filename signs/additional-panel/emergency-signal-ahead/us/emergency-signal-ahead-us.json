@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W11-12P",
+  "image": {
+    "file": "emergency-signal-ahead-us.svg",
+    "sha1": "0e9a7fabac34370e49169a18cf8abc0abd0291d9",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W11-12P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

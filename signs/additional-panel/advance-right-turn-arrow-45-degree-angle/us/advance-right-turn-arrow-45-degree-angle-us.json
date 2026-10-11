@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "M5-2PR",
+  "image": {
+    "file": "advance-right-turn-arrow-45-degree-angle-us.svg",
+    "sha1": "acb5d6a49f5c53242551d3140fedb59feef3ecf5",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M5-2PR.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

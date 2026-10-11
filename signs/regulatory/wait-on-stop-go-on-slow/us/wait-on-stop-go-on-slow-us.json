@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-7a",
+  "image": {
+    "file": "wait-on-stop-go-on-slow-us.svg",
+    "sha1": "de3e7ffcbacf1ef5c346c2439372029e5038e75c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-7a.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

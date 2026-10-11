@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W10-14P",
+  "image": {
+    "file": "next-crossing-us.svg",
+    "sha1": "6326cc626bff4c1cdebf11dd4b8174c7bfea3903",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-14P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

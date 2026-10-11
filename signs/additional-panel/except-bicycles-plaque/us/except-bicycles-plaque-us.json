@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W16-20P",
+  "image": {
+    "file": "except-bicycles-plaque-us.svg",
+    "sha1": "7aada12864c3ed4d05576422a7110c7814f3d2dd",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-20P.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

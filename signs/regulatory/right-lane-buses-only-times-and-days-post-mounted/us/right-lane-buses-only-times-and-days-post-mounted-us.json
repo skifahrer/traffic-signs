@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-11d",
+  "image": {
+    "file": "right-lane-buses-only-times-and-days-post-mounted-us.svg",
+    "sha1": "14b7bd26717ef99230e5a818d4c442c110de339d",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-11d.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-10",
+  "image": {
+    "file": "sidewalk-closed-use-other-side-us.svg",
+    "sha1": "f978b0eb19408e7ec9067297cac7da7ab266bdd8",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-10.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

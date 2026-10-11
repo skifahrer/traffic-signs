@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-5L",
+  "image": {
+    "file": "yield-here-to-pedestrians-left-us.svg",
+    "sha1": "54593038fcb099c16e276e92af5d29ab166052e3",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-5L.svg",
+    "author": "RTCNCA",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

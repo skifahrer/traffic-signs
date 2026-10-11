@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R7-20",
+  "image": {
+    "file": "parking-fee-station-us.svg",
+    "sha1": "1f36b50386c82b556ff81f109fbed48f29a91fb7",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R7-20.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

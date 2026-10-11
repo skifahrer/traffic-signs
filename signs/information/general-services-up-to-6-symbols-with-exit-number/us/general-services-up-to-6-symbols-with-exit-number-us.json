@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D9-18b (exit number)",
+  "image": {
+    "file": "general-services-up-to-6-symbols-with-exit-number-us.svg",
+    "sha1": "10f8f5abf742a9db262d6ab540973fa91e94d1fc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-18b_(exit_number).svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

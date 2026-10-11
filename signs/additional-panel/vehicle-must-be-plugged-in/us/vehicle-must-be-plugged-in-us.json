@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R7-113aP",
+  "image": {
+    "file": "vehicle-must-be-plugged-in-us.svg",
+    "sha1": "82c381271741bab0debc85d4755088abbe1d2a8c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R7-113aP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

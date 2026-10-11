@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "D9-11bP",
+  "image": {
+    "file": "electric-vehicle-charging-us.svg",
+    "sha1": "9e51d410aae910672db6675cb0c9f37644e573a6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-11bP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

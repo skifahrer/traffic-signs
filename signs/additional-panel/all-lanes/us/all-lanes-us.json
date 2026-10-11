@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "CW24-1cP",
+  "image": {
+    "file": "all-lanes-us.svg",
+    "sha1": "a08a210aec659d9b02e038920bf3da5b7beafef6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW24-1cP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

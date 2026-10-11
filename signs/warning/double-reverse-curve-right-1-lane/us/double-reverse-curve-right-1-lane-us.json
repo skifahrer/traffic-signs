@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW24-1R",
+  "image": {
+    "file": "double-reverse-curve-right-1-lane-us.svg",
+    "sha1": "4eb7c60406fd580205ab2b2f8b758a7ed4ff1219",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW24-1R.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W1-15L",
+  "image": {
+    "file": "270-degree-loop-curve-left-us.svg",
+    "sha1": "5494977519e7537865951934d16c4ec20cc83126",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W1-15L.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

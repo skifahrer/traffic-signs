@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W23-2a",
+  "image": {
+    "file": "new-signal-operation-ahead-us.svg",
+    "sha1": "71ddeb2185809c93342b7f73c11f076edfd86860",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W23-2a.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

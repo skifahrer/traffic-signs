@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "E5-3",
+  "image": {
+    "file": "exit-only-us.svg",
+    "sha1": "bcce3c6062aedfe508fc0f07add22533706ac77a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_E5-3.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

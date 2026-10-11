@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-20",
+  "image": {
+    "file": "bicycles-allowed-use-of-full-lane-us.svg",
+    "sha1": "d6b87c1009d69b9ae58c7af7991b53febfcc94c2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-20.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

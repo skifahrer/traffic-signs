@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D5-12b",
+  "image": {
+    "file": "interstate-oasis-d5-12b-us.svg",
+    "sha1": "b97865206bf4abf618787e21922182132d238308",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D5-12b.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

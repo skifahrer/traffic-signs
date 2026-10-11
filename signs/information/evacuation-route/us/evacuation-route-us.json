@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "EM1-1",
+  "image": {
+    "file": "evacuation-route-us.svg",
+    "sha1": "26258c434f2f4595a3cb5415fb8a630c8f306dde",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_EM1-1.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

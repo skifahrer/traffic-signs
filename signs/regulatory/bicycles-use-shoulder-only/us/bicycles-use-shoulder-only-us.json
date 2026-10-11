@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-21",
+  "image": {
+    "file": "bicycles-use-shoulder-only-us.svg",
+    "sha1": "b8bc54005982c0d074a9423e64d3a0338e01080f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-21.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

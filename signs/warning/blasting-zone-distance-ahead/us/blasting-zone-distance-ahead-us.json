@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW22-1",
+  "image": {
+    "file": "blasting-zone-distance-ahead-us.svg",
+    "sha1": "c206696873d1e262980890b2c7193060823fe251",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW22-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

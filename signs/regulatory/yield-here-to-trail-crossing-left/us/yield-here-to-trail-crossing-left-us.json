@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-5dL",
+  "image": {
+    "file": "yield-here-to-trail-crossing-left-us.svg",
+    "sha1": "84e56115f730a34f3fde4d32623ca5d15d3a784f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-5dL.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

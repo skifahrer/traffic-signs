@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W8-3",
+  "image": {
+    "file": "pavement-ends-us.svg",
+    "sha1": "f4f7ef40af65c23826c9bedeb84c04883be2906b",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-3.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

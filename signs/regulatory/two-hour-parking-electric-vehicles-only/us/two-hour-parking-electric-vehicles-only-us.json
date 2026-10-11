@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R7-112",
+  "image": {
+    "file": "two-hour-parking-electric-vehicles-only-us.svg",
+    "sha1": "7678f625ae7b282e816318b66b5156d6bf2ab0c3",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R7-112.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

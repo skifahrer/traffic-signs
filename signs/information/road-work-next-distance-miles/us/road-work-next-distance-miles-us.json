@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "G20-1",
+  "image": {
+    "file": "road-work-next-distance-miles-us.svg",
+    "sha1": "7c74eb79efca6697e978911efb05098eb75e2850",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_G20-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

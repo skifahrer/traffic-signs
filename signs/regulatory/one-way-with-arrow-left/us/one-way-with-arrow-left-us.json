@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R6-2L",
+  "image": {
+    "file": "one-way-with-arrow-left-us.svg",
+    "sha1": "d909dfb3c966e14d5665d5b419dd300414bb0654",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R6-2L.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

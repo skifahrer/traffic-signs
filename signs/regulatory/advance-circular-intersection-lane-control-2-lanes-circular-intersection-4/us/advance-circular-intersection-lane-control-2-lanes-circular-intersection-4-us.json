@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-8 (Circular Intersection 4)",
+  "image": {
+    "file": "advance-circular-intersection-lane-control-2-lanes-circular-intersection-4-us.svg",
+    "sha1": "7590c8b5fc7d6a226924a64bf9a8dcaf6ac979a8",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-8_(Circular_Intersection_4).svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

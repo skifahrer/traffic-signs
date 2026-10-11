@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W7-4b",
+  "image": {
+    "file": "runaway-truck-ramp-us.svg",
+    "sha1": "ab1c5f7e439a4dd123b82c42e84355f0382e6764",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W7-4b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R7-200a",
+  "image": {
+    "file": "no-parking-and-one-hour-parking-times-combined-r7-200a-us.svg",
+    "sha1": "5d4d2448c27010c50e259460860993e2d4e77374",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R7-200a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

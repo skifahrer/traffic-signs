@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "us",
   "code": "OM4-3",
+  "image": {
+    "file": "end-of-road-marker-om4-3-us.svg",
+    "sha1": "cbfa0b5cc766530d41a0d6a1f90e94ad13e120f3",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_OM4-3.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

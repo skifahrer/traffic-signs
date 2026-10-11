@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W16-21P",
+  "image": {
+    "file": "2-way-bicycle-cross-traffic-us.svg",
+    "sha1": "02f6bdd97bba4bec0e16281394134583abae087f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-21P.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

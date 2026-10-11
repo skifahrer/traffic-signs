@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-11b",
+  "image": {
+    "file": "no-turn-on-red-r10-11b-us.svg",
+    "sha1": "206b089b632984a191e20f59ecff8a20d464a55f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-11b.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

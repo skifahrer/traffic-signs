@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R15-2P",
+  "image": {
+    "file": "number-of-tracks-us.svg",
+    "sha1": "1271ebfb52cd262dbde3ccf4e40c00b8551b60e0",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R15-2P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "us",
   "code": "OM1-1",
+  "image": {
+    "file": "object-marker-us.svg",
+    "sha1": "deceb5bde332b7cf283a85e2a96e6be5d81292ae",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_OM1-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

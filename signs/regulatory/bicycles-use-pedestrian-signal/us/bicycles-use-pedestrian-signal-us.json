@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-5",
+  "image": {
+    "file": "bicycles-use-pedestrian-signal-us.svg",
+    "sha1": "3dfb1ede13382ee5d8fc4eb97b9b25226d23782e",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-5.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

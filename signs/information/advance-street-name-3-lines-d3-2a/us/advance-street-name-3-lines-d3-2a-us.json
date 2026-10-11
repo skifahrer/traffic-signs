@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D3-2a",
+  "image": {
+    "file": "advance-street-name-3-lines-d3-2a-us.svg",
+    "sha1": "104b292bc61d32483571dc21aacc794d4e8051c4",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D3-2a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

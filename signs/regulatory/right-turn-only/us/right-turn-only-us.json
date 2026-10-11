@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R4-21R",
+  "image": {
+    "file": "right-turn-only-us.svg",
+    "sha1": "1da0e25af7398f4e56576db2f9361cd5290f7372",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R4-21R.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

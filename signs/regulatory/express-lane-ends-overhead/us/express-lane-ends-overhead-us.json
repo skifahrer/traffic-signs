@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-45",
+  "image": {
+    "file": "express-lane-ends-overhead-us.svg",
+    "sha1": "f1d1c2a75b28cd607a14d3b2f3f7c03e6b87b4bf",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-45.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

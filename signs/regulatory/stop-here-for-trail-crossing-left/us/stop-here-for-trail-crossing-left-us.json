@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-5eL",
+  "image": {
+    "file": "stop-here-for-trail-crossing-left-us.svg",
+    "sha1": "a0bd4f932a4ce4d667e8abcb050d5df69bf24c50",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-5eL.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

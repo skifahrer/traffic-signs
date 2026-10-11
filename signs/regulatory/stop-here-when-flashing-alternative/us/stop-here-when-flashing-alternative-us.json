@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R8-10a",
+  "image": {
+    "file": "stop-here-when-flashing-alternative-us.svg",
+    "sha1": "d03996bcbe9837322771807f211ccef5596eb76a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R8-10a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

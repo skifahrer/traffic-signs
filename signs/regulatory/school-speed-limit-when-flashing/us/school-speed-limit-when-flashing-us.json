@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "S5-1",
+  "image": {
+    "file": "school-speed-limit-when-flashing-us.svg",
+    "sha1": "c5112be2a39bf93a57b8268f75019f13de24e776",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_S5-1.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

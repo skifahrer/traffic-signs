@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D9-6",
+  "image": {
+    "file": "handicapped-accessible-us.svg",
+    "sha1": "f6d83b603b21ea74a888f4c6ef03105513953a4a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-6.svg",
+    "author": "Ltljltlj (talk · contribs)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

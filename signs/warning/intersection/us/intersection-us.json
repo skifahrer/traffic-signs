@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W2-1",
+  "image": {
+    "file": "intersection-us.svg",
+    "sha1": "8f0edb000a8c8a6d26ded7768fdccc60bbb619c7",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W2-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

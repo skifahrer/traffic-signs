@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W25-1",
+  "image": {
+    "file": "oncoming-traffic-has-extended-green-us.svg",
+    "sha1": "82f575d10d4831a56336a748cd48e0514157ca25",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W25-1.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

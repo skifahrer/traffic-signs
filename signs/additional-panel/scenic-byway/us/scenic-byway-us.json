@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "M10-3bP",
+  "image": {
+    "file": "scenic-byway-us.svg",
+    "sha1": "79aeaf7c427d2602dc1e1d5d66e2d3249d64cfe7",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M10-3bP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

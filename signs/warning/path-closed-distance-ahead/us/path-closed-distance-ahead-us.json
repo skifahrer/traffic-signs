@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW20-3a",
+  "image": {
+    "file": "path-closed-distance-ahead-us.svg",
+    "sha1": "9b906c26f8cf345b5f4a4c1676055230a9c29791",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW20-3a.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

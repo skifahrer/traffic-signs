@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W16-16P",
+  "image": {
+    "file": "last-exit-before-toll-1-line-plaque-us.svg",
+    "sha1": "566e51736c6d2e37b819eedce67656267dfe9e2c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-16P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

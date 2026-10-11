@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W12-2b",
+  "image": {
+    "file": "low-clearance-overhead-w12-2b-us.svg",
+    "sha1": "5b349a5fd5448eb3e15668a5a8d280ce9f50fa82",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W12-2b.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

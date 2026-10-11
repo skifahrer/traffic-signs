@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-13",
+  "image": {
+    "file": "no-skates-skateboards-scooters-us.svg",
+    "sha1": "04f56ccc8ce8aac705941cc7bbffe4e74d89e84e",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-13.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

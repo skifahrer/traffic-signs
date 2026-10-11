@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W16-2P",
+  "image": {
+    "file": "distance-feet-us.svg",
+    "sha1": "b8fcf7f33f5fadba16860fde97838073d35a461a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-2P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

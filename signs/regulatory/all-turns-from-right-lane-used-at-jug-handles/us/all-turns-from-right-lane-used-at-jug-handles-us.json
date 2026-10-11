@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-23",
+  "image": {
+    "file": "all-turns-from-right-lane-used-at-jug-handles-us.svg",
+    "sha1": "5493dee554c48645d7c5ecadaa5f13cc622cc7d8",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-23.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

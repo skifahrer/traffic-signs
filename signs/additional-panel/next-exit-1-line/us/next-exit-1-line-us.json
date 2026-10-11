@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "E2-1P",
+  "image": {
+    "file": "next-exit-1-line-us.svg",
+    "sha1": "523f97a7ac31856ee53ce3f1de68e0c417b9af0c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_E2-1P.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

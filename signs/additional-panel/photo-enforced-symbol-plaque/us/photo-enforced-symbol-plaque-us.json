@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W16-10P",
+  "image": {
+    "file": "photo-enforced-symbol-plaque-us.svg",
+    "sha1": "bb8ecd01e5cae2e436b6b5c222c60e75fad007ad",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-10P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

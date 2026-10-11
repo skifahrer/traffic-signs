@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-27",
+  "image": {
+    "file": "bicycle-left-turn-diagonal-right-arrow-us.svg",
+    "sha1": "ee04f046dd47a525e2f9e1dc4bc37e2e7fa1ae98",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-27.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

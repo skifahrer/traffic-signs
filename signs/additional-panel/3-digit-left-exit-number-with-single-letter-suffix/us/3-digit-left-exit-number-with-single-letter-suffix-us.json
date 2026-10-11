@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "E1-5iP",
+  "image": {
+    "file": "3-digit-left-exit-number-with-single-letter-suffix-us.svg",
+    "sha1": "d9dcf698b8772f8cf36c484feddc53e4fa06c3fe",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_E1-5iP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

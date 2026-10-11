@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R4-10",
+  "image": {
+    "file": "runaway-vehicles-only-us.svg",
+    "sha1": "0f5e2586e33b6da77e0039ee5f867ac2ca08fc47",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R4-10.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

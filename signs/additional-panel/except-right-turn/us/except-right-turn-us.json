@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R1-10P",
+  "image": {
+    "file": "except-right-turn-us.svg",
+    "sha1": "73f4d8a7825b4a0207a7fa9e5c82215257cbf48a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-10P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

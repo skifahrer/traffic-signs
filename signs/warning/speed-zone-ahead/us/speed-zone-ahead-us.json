@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W3-5A",
+  "image": {
+    "file": "speed-zone-ahead-us.svg",
+    "sha1": "dc725f05b5e2be4dfdb09993e283bdab0dcc5d02",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W3-5A.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

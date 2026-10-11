@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D12-2",
+  "image": {
+    "file": "carpool-information-us.svg",
+    "sha1": "58894d6242bfc626e5e1088f8d62fc47bf4c1017",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D12-2.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

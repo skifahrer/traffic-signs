@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW20-5b",
+  "image": {
+    "file": "bike-lane-closed-distance-ahead-us.svg",
+    "sha1": "33cb7146843c3df69ae28ed28474604ba9c11e2f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW20-5b.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

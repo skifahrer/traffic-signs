@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M1-4 (3 digits)",
+  "image": {
+    "file": "us-route-marker-3-digits-us.svg",
+    "sha1": "ee0a727860b3f2cc7202b2b969397944e0654196",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M1-4_(3_digits).svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

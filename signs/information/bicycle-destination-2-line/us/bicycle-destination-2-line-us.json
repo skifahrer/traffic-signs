@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D1-2b",
+  "image": {
+    "file": "bicycle-destination-2-line-us.svg",
+    "sha1": "6c644f6bcae04c8b1cba53131587c90b946749cc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D1-2b.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D5-1a",
+  "image": {
+    "file": "rest-area-next-right-us.svg",
+    "sha1": "a1c9a3c82594a391c111609612bc697fcdadf464",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D5-1a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW1-4bL",
+  "image": {
+    "file": "double-lane-shift-left-us.svg",
+    "sha1": "9cf7b3c2ce11b03a8ea4996d1799a38f6109927f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW1-4bL.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

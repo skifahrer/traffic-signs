@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW21-1a",
+  "image": {
+    "file": "workers-text-sign-us.svg",
+    "sha1": "942b0fc175571c7d5c1711adb7d75aeeb868b234",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW21-1a.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

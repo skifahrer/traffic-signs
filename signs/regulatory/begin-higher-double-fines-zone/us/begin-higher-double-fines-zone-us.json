@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R2-10",
+  "image": {
+    "file": "begin-higher-double-fines-zone-us.svg",
+    "sha1": "ba64c7630a20fb06946c583e1d70510584cdee0c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R2-10.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "R6-1L",
+  "image": {
+    "file": "one-way-road-left-us.svg",
+    "sha1": "ac8e5d026666d906f5ecf00fb0518ca21da8c41c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R6-1L.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

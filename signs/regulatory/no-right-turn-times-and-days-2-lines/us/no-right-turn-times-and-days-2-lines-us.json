@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-1g",
+  "image": {
+    "file": "no-right-turn-times-and-days-2-lines-us.svg",
+    "sha1": "8dd406533cc2c37e5101bce1585b04f4e6b53899",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-1g.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

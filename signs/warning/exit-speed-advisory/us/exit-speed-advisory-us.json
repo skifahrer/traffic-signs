@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W13-2",
+  "image": {
+    "file": "exit-speed-advisory-us.svg",
+    "sha1": "b2a02cc84bb7e228b4e3fa0fdd2ebe275cdcead6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W13-2.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

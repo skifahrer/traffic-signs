@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W10-2L",
+  "image": {
+    "file": "crossroads-with-parallel-tracks-left-us.svg",
+    "sha1": "13b58a2c34eff8fd446c5a2672cfc09937793cac",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-2L.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

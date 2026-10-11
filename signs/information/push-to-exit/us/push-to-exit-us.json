@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "I13-2",
+  "image": {
+    "file": "push-to-exit-us.svg",
+    "sha1": "9a5ac6d650bb72e9630995036024b8031388f5e2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_I13-2.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

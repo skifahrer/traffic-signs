@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-12",
+  "image": {
+    "file": "left-turn-yield-on-green-us.svg",
+    "sha1": "02fe60235ba792a8efba41ff3f8483db56fe4367",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-12.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

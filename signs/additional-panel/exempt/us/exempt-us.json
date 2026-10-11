@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W10-1aP",
+  "image": {
+    "file": "exempt-us.svg",
+    "sha1": "939971afe03e645ef9114e019fe235cc7333c127",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-1aP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

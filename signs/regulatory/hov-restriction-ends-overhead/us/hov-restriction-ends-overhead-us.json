@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-15c",
+  "image": {
+    "file": "hov-restriction-ends-overhead-us.svg",
+    "sha1": "2a8580877eb13be226c1d46d8ef99737d13788bc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-15c.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

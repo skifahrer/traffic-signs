@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R4-8a",
+  "image": {
+    "file": "keep-left-us.svg",
+    "sha1": "c18e12b782556170d4bc839cca2a812487e62809",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R4-8a.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

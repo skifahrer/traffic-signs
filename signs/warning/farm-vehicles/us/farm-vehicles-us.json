@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W11-5",
+  "image": {
+    "file": "farm-vehicles-us.svg",
+    "sha1": "f5831d155d6208b5fe69e29a988ab474d14e28cb",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W11-5.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-28",
+  "image": {
+    "file": "toll-pricing-us.svg",
+    "sha1": "224a551ecc4fc5b8d00864a42b4afeb1d3820e3c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-28.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M4-9L",
+  "image": {
+    "file": "detour-left-arrow-us.svg",
+    "sha1": "ff41152aabe33331dd1bdfa8cb3c4cb84b828040",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M4-9L.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

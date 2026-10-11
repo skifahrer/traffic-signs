@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W1-5R",
+  "image": {
+    "file": "winding-road-right-us.svg",
+    "sha1": "e0d2c900b2a44241aabef1e5205f64b46d263255",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W1-5R.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

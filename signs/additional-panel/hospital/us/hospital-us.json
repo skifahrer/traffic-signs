@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "D9-13aP",
+  "image": {
+    "file": "hospital-us.svg",
+    "sha1": "4ee60806c47daa93ba87b5d799e862e23d5414b9",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-13aP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

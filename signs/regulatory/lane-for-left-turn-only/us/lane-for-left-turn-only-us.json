@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-19",
+  "image": {
+    "file": "lane-for-left-turn-only-us.svg",
+    "sha1": "c470d57d1435d9814b284216051f9d5dbb2baf04",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-19.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-5bR",
+  "image": {
+    "file": "stop-here-for-pedestrians-right-us.svg",
+    "sha1": "89126ce82d16c027ce5899abfddc9a8d14670f58",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-5bR.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

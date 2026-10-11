@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-11",
+  "image": {
+    "file": "sidewalk-closed-ahead-cross-here-us.svg",
+    "sha1": "cf3cf1f22d50811dbea0e7554248c153bdc7a39d",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-11.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

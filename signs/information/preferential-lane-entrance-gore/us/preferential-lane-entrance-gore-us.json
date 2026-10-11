@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "E8-1",
+  "image": {
+    "file": "preferential-lane-entrance-gore-us.svg",
+    "sha1": "fee3e182da36038e1b527cea90b7a54aa114f835",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_E8-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

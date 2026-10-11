@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W8-15",
+  "image": {
+    "file": "grooved-pavement-us.svg",
+    "sha1": "0100276d362efa394935b489b4dbfab98a296047",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-15.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

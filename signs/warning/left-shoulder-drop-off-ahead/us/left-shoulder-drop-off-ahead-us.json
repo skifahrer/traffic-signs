@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W8-17L",
+  "image": {
+    "file": "left-shoulder-drop-off-ahead-us.svg",
+    "sha1": "923d292be4fa470180d0960f29cc67185c62d080",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-17L.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

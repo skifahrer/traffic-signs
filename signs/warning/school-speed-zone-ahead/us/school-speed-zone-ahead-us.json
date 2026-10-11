@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "S4-5a",
+  "image": {
+    "file": "school-speed-zone-ahead-us.svg",
+    "sha1": "638aab68542af158dbd8932fea90c5f895e1bc07",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_S4-5a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

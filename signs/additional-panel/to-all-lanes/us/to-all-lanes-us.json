@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R1-2cP",
+  "image": {
+    "file": "to-all-lanes-us.svg",
+    "sha1": "89a3eaf9d88f4d287c089f2c3692bcb74bbd4cf2",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-2cP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

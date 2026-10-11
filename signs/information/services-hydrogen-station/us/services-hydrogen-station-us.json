@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D9-11f",
+  "image": {
+    "file": "services-hydrogen-station-us.svg",
+    "sha1": "48a8ca8e0ffacb97aa24c782b404c6ecf39a6234",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-11f.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

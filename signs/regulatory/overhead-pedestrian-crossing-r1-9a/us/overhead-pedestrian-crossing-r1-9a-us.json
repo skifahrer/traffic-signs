@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-9a",
+  "image": {
+    "file": "overhead-pedestrian-crossing-r1-9a-us.svg",
+    "sha1": "e0cbb05e3461a9731a81cb6b0533947b1409017f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-9a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W1-10aL",
+  "image": {
+    "file": "curve-with-crossroad-left-us.svg",
+    "sha1": "c597e160043d735b87535f55bd8ba19bd9411afa",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W1-10aL.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

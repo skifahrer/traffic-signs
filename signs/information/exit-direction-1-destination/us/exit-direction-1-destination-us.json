@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "E4-1",
+  "image": {
+    "file": "exit-direction-1-destination-us.svg",
+    "sha1": "2cad04020f7d346cebacdeba776b13efb1dd3644",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_E4-1.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W8-21",
+  "image": {
+    "file": "crosswind-us.svg",
+    "sha1": "b2ec613d8c3ecfd850ff0626b0d42c54c91ebddb",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-21.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

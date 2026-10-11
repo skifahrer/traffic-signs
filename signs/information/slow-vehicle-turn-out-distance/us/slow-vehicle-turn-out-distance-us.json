@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D17-7",
+  "image": {
+    "file": "slow-vehicle-turn-out-distance-us.svg",
+    "sha1": "a363d45518524434df0b2a6cb41e79f484271a4c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D17-7.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

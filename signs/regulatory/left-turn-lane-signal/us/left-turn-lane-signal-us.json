@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-10cL",
+  "image": {
+    "file": "left-turn-lane-signal-us.svg",
+    "sha1": "a394a10e40841e02f4249cb6803684db0b4fffe3",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-10cL.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

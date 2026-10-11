@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W16-3aP",
+  "image": {
+    "file": "distance-miles-plaque-us.svg",
+    "sha1": "3dde649d62012c09f0fcb964f29134a4e6ceca30",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W16-3aP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

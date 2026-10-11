@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W1-11R",
+  "image": {
+    "file": "hairpin-curve-right-us.svg",
+    "sha1": "466fe35a3d090e063c88e315355b70f39a9fa6d5",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W1-11R.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

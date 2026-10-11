@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R8-5",
+  "image": {
+    "file": "no-stopping-on-pavement-us.svg",
+    "sha1": "3f7f381aeac68c86be3e858b30e4825103772c48",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R8-5.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

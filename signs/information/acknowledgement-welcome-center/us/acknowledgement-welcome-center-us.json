@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "I20-4a",
+  "image": {
+    "file": "acknowledgement-welcome-center-us.svg",
+    "sha1": "d41765069146d4339cfdccfd18731130fd9dc44b",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_I20-4a.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

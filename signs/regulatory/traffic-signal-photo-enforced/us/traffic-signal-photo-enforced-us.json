@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-18a",
+  "image": {
+    "file": "traffic-signal-photo-enforced-us.svg",
+    "sha1": "3c84474c3af034125a89b498d977135c54cee2d9",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-18a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

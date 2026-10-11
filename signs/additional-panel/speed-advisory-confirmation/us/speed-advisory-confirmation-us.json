@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W13-1aP",
+  "image": {
+    "file": "speed-advisory-confirmation-us.svg",
+    "sha1": "cf301793639c754c86b180e6c8219a6a902456ff",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W13-1aP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

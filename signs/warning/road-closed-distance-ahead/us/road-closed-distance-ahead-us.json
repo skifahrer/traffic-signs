@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W20-3 (temporary)",
+  "image": {
+    "file": "road-closed-distance-ahead-us.svg",
+    "sha1": "6d4f243d3fedacc7e0bd9d07ba72571476a14c02",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W20-3_(temporary).svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

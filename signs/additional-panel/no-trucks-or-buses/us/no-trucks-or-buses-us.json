@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R3-51bP",
+  "image": {
+    "file": "no-trucks-or-buses-us.svg",
+    "sha1": "49fbfbd439bf4fba046c33800445a8e15504a93e",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-51bP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

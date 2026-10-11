@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M4-20",
+  "image": {
+    "file": "electronic-toll-collection-only-us.svg",
+    "sha1": "9ea0ffcef8411bd6d15cbc5afbc40ed38f4622b5",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-31.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

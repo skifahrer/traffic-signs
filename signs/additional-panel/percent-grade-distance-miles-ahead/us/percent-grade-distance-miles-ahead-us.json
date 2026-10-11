@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W7-3bP",
+  "image": {
+    "file": "percent-grade-distance-miles-ahead-us.svg",
+    "sha1": "2a861b606c1cfb36ec99b3a3c2f85cc358ad9edf",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W7-3bP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

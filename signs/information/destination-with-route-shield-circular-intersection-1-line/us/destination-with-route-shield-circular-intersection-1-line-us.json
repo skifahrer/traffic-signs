@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D1-1e",
+  "image": {
+    "file": "destination-with-route-shield-circular-intersection-1-line-us.svg",
+    "sha1": "7b62d9942c35432271d48b31695d479e24f8d39f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D1-1e.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

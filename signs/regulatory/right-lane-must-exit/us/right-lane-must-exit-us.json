@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-33R",
+  "image": {
+    "file": "right-lane-must-exit-us.svg",
+    "sha1": "77e2789b0b8159186454d235d7e640228f648a38",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-33R.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

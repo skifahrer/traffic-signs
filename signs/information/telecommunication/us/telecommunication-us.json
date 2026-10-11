@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D9-21",
+  "image": {
+    "file": "telecommunication-us.svg",
+    "sha1": "2b6934e6ebc8d73c3aa0eda2779a1ffd0c5dc488",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-21.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

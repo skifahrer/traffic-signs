@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R3-5gP",
+  "image": {
+    "file": "bus-lane-us.svg",
+    "sha1": "879f2928e978e02e7d8c829e7b1018587b5eca99",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-5gP.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

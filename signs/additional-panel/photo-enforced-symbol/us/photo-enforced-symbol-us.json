@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R10-19P",
+  "image": {
+    "file": "photo-enforced-symbol-us.svg",
+    "sha1": "d219aee30e5b3e2c2f3d096258710736c0bd7b9a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-19P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

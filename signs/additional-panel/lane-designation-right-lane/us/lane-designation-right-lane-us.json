@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "M5-6P",
+  "image": {
+    "file": "lane-designation-right-lane-us.svg",
+    "sha1": "8ddc4ce790307337ea83f605c47081affddddf81",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M5-6P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

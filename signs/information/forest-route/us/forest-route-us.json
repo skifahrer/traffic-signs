@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M1-7",
+  "image": {
+    "file": "forest-route-us.svg",
+    "sha1": "370a9975573219a944ee26058c3807f545a2603f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M1-7.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-3d",
+  "image": {
+    "file": "crosswalk-signal-instructions-r10-3d-us.svg",
+    "sha1": "b31240778941b5fc657199025f1eb10fef1bd3d3",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-3d.svg",
+    "author": "DelDot - State of Delaware",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-29",
+  "image": {
+    "file": "1-vehicle-per-green-each-lane-us.svg",
+    "sha1": "c778bb6005ca24a2d510ce39ef09d26d82075afc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-29.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

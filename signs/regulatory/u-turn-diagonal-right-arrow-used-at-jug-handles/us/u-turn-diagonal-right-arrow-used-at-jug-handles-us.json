@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-24b",
+  "image": {
+    "file": "u-turn-diagonal-right-arrow-used-at-jug-handles-us.svg",
+    "sha1": "052b4a4753fc061f13a86e8bf38ccf94fb185fb6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-24b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

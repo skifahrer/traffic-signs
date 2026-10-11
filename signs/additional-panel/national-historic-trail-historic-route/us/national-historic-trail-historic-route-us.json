@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "M11-1aP",
+  "image": {
+    "file": "national-historic-trail-historic-route-us.svg",
+    "sha1": "f029437c83ae12c6ed7e7b1c7e6aa5f867ac8686",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M11-1aP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

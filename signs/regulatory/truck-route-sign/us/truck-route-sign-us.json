@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R14-1",
+  "image": {
+    "file": "truck-route-sign-us.svg",
+    "sha1": "0fde05772f211a5a8204ae99acf5837bd3354c0b",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R14-1.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

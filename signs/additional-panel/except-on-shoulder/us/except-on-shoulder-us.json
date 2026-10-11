@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R9-19P",
+  "image": {
+    "file": "except-on-shoulder-us.svg",
+    "sha1": "6a005fd5eca3619193655fbdc67bc8848cbeb811",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-19P.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

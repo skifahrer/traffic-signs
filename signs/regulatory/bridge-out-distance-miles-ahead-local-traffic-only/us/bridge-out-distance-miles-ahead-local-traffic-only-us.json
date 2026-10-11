@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R11-3b",
+  "image": {
+    "file": "bridge-out-distance-miles-ahead-local-traffic-only-us.svg",
+    "sha1": "e5487abc2ba532231ed0c8590fc4817049e819e6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R11-3b.svg",
+    "author": "Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

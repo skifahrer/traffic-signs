@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-15L (fluorescent)",
+  "image": {
+    "file": "turning-vehicles-yield-to-pedestrians-left-fluorescent-us.svg",
+    "sha1": "e3d10a6cf1750e83919d97e9e00848d1345612d6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-15L_(fluorescent).svg",
+    "author": "MUTCD_R10-15R_(fluorescent).svg: derivative work: Fry1989",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

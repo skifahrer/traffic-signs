@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R10-22",
+  "image": {
+    "file": "bicycles-to-request-green-wait-on-line-us.svg",
+    "sha1": "045ad2af9b1b3616178eb04afe9c073094c0ec8e",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R10-22.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

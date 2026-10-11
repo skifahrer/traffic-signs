@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W8-11",
+  "image": {
+    "file": "uneven-lanes-us.svg",
+    "sha1": "9482243a465a208c4162e27bcfa54382504494c6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-11.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

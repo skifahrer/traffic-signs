@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W11-1",
+  "image": {
+    "file": "cyclists-us.svg",
+    "sha1": "812d142b66150958152c15c2a31c21a5d1ee5e01",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W11-1.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

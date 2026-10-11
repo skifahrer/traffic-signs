@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W9-6gP",
+  "image": {
+    "file": "take-ticket-distance-plaque-us.svg",
+    "sha1": "d5a5e65298417416935d8b07175ae992897d66b8",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W9-6gP.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

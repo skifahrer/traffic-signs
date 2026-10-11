@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R9-7",
+  "image": {
+    "file": "bicycles-left-pedestrians-right-us.svg",
+    "sha1": "b0dbf0dbb61279dedfe5d7c316afeb6af8339684",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R9-7.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

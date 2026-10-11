@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W7-1a",
+  "image": {
+    "file": "steep-grade-hill-percentage-us.svg",
+    "sha1": "a3eeddceaaa58a79a61a64fe07e231a5c7944a88",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W7-1a.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

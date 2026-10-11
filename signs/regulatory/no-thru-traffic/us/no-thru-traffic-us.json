@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R5-12",
+  "image": {
+    "file": "no-thru-traffic-us.svg",
+    "sha1": "d7a53147d3bcc14b4f37fee48b0efb3f3b6e6820",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R5-12.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R8-6",
+  "image": {
+    "file": "no-stopping-except-on-shoulder-us.svg",
+    "sha1": "01327d8225a9a20e384c60bdbbaef3ab589f93a4",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R8-6.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

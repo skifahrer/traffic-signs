@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R4-12",
+  "image": {
+    "file": "slow-vehicles-with-five-or-more-following-vehicles-must-use-us.svg",
+    "sha1": "360d7f792194a087c771baec9d2fe5454154922b",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R4-12.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

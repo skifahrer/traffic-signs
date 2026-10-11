@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W10-11b",
+  "image": {
+    "file": "xx-feet-between-highway-and-tracks-behind-you-us.svg",
+    "sha1": "75ce859e4c5b9b2ddeb07c96eaac402c92818198",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-11b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

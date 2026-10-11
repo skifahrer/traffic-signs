@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "EM4-1a",
+  "image": {
+    "file": "hurricane-shelter-us.svg",
+    "sha1": "fc09e51c2b79c7bd87a93bd521677f47e7e66156",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_EM4-1a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

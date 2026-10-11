@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D12-4",
+  "image": {
+    "file": "emergency-call-911-us.svg",
+    "sha1": "5e86ae99ad4ca7c28d298b2de71cfe79c38dbe86",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D12-4.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

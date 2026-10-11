@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-2",
+  "image": {
+    "file": "give-way-us.svg",
+    "sha1": "a3a982dac40e7959f7bc91d6be68a143e6307d8a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-2.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

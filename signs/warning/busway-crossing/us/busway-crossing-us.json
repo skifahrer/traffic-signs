@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W10-21",
+  "image": {
+    "file": "busway-crossing-us.svg",
+    "sha1": "44e3eb43d9e39f548f36f051bd963f03ad3b7210",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-21.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

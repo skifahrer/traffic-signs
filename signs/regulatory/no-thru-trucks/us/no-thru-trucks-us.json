@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R5-2b",
+  "image": {
+    "file": "no-thru-trucks-us.svg",
+    "sha1": "8b11e87585d37af2f8884a53886e1fe7e1c9714c",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R5-2b.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W8-22",
+  "image": {
+    "file": "fog-us.svg",
+    "sha1": "672f14f90b2fd39e64baa16f54367d30468491b4",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W8-22.svg",
+    "author": "United States Department of Transportation – Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

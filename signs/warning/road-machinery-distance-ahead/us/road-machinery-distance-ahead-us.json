@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "CW21-3",
+  "image": {
+    "file": "road-machinery-distance-ahead-us.svg",
+    "sha1": "8c0e021a1155d6e9ff91700bb66a2db03e58d027",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_CW21-3.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

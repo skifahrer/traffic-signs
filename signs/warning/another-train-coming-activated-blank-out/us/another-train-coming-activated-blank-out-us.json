@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W10-16",
+  "image": {
+    "file": "another-train-coming-activated-blank-out-us.svg",
+    "sha1": "ae4d246106f1545f7417fdb1772d7faab08e4c5f",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-16.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

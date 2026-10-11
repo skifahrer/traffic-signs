@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-14b",
+  "image": {
+    "file": "hov-2-plus-only-full-time-overhead-us.svg",
+    "sha1": "7a432ee27d1332f374c50276158e7053f75e7919",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-14b.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D10-2",
+  "image": {
+    "file": "reference-location-2-digit-us.svg",
+    "sha1": "e135cb5aac39143c7c24920a0389b7b8703aeba5",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D10-2.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

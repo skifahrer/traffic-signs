@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R3-48a",
+  "image": {
+    "file": "toll-costs-on-express-lane-or-hov-overhead-us.svg",
+    "sha1": "ee8cb0191602ea9238df0b9daa56112592b4e2a6",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-48a.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

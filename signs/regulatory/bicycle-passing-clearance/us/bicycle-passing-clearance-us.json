@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R4-19",
+  "image": {
+    "file": "bicycle-passing-clearance-us.svg",
+    "sha1": "cc01fad0766d3a9c7b127b7292dd1da7c64d939a",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R4-19.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

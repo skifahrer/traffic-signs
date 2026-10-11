@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W7-4c",
+  "image": {
+    "file": "truck-escape-ramp-us.svg",
+    "sha1": "0b1744b916d25cc692ae5b4e3b3e07b10b2ddcf7",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W7-4c.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

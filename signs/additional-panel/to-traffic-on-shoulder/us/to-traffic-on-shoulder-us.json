@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R3-57P",
+  "image": {
+    "file": "to-traffic-on-shoulder-us.svg",
+    "sha1": "8fb50ac32e96d58510770ab2ad235ce634c785ff",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R3-57P.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

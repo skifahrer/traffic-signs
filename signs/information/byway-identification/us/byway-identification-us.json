@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M10-2",
+  "image": {
+    "file": "byway-identification-us.svg",
+    "sha1": "536a032b5c19b809e1354b94cd9a2737f2c60964",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M10-2.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

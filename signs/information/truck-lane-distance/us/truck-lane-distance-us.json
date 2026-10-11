@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D17-2",
+  "image": {
+    "file": "truck-lane-distance-us.svg",
+    "sha1": "55cf037a67ea9484a4b30536f39a58aeeadb45b1",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D17-2.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

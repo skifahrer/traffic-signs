@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "R2-2",
+  "image": {
+    "file": "truck-speed-limit-us.svg",
+    "sha1": "025e3d5de7c32d84d2978b0f62d9e211894f40bf",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R2-2.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

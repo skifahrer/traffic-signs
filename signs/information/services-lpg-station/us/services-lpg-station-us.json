@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D9-11e",
+  "image": {
+    "file": "services-lpg-station-us.svg",
+    "sha1": "ddabf0092934a2f9cb4c1e221b6add798ef5f518",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-11e.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

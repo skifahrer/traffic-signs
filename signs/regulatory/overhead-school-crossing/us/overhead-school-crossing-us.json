@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-9b",
+  "image": {
+    "file": "overhead-school-crossing-us.svg",
+    "sha1": "01780f923685146589b458b374618a5dc3306e73",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-9b.svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

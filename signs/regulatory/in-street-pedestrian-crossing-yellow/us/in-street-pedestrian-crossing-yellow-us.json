@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R1-6a (yellow)",
+  "image": {
+    "file": "in-street-pedestrian-crossing-yellow-us.svg",
+    "sha1": "d3409e09045c0f6a2256489719e41d0185b01cfb",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R1-6a_(yellow).svg",
+    "author": "Fry1989",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

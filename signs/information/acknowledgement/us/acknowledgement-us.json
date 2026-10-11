@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "I20-1",
+  "image": {
+    "file": "acknowledgement-us.svg",
+    "sha1": "5774922c2c41632282edded899237962e5cb6ffc",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_I20-1.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

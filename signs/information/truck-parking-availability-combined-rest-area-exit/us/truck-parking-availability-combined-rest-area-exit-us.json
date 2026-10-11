@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "D9-16e (rest area, exit)",
+  "image": {
+    "file": "truck-parking-availability-combined-rest-area-exit-us.svg",
+    "sha1": "1fe9d05ceb240aa473b94e61ee92070de0d93d19",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_D9-16e_(rest_area,_exit).svg",
+    "author": "Federal Highway Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

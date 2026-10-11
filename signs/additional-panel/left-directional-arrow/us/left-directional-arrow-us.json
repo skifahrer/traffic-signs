@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "M6-1PL",
+  "image": {
+    "file": "left-directional-arrow-us.svg",
+    "sha1": "debc560080186bb2b4d78caa0749d66568847928",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M6-1PL.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

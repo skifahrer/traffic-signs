@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us",
   "code": "M4-9aR",
+  "image": {
+    "file": "bicycle-and-pedestrian-detour-right-arrow-us.svg",
+    "sha1": "af626f86e79df4b609e1688c1b7aef6631c72669",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M4-9aR.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

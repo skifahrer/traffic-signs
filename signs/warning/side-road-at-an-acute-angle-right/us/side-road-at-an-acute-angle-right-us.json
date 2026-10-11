@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "us",
   "code": "W2-3R",
+  "image": {
+    "file": "side-road-at-an-acute-angle-right-us.svg",
+    "sha1": "b176fcab45c3871799133e86d43d839d254786c7",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W2-3R.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W10-15P",
+  "image": {
+    "file": "rough-crossing-us.svg",
+    "sha1": "87a82112f9791b1285664ccad44ff5293acc2eee",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W10-15P.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

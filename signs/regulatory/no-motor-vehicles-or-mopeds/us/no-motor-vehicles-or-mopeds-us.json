@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "us",
   "code": "R5-3",
+  "image": {
+    "file": "no-motor-vehicles-or-mopeds-us.svg",
+    "sha1": "6f3ef958849acbf71ec931b08396b14128971201",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_R5-3.svg",
+    "author": "Federal Highway Administration – United States Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",

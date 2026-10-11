@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "us",
   "code": "W9-6cP",
+  "image": {
+    "file": "stop-ahead-pay-toll-us.svg",
+    "sha1": "d35d895c147ebcb6eb79884c701c143a6db1a882",
+    "source": "https://commons.wikimedia.org/wiki/File:MUTCD_W9-6cP.svg",
+    "author": "Federal Highway Administration - MUTCD",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
