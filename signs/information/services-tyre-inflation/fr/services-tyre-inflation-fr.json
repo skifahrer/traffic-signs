@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE26",
+  "image": {
+    "file": "services-tyre-inflation-fr.svg",
+    "sha1": "fb98dbba7839b83caef2db6e5c984df2717822cf",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE26.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

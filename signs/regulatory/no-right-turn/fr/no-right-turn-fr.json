@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B2b",
+  "image": {
+    "file": "no-right-turn-fr.svg",
+    "sha1": "b09f6fa56d62f9b9d254a9a687b9a46e83c6876f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B2b.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

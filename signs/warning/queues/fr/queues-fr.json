@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK30",
+  "image": {
+    "file": "queues-fr.svg",
+    "sha1": "9517303ae60210566003d5271c11b06c7adc4a28",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK30.svg",
+    "author": "Mathgb",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

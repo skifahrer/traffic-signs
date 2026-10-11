@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B4",
+  "image": {
+    "file": "customs-stop-fr.svg",
+    "sha1": "73a063d7ed22312aa1a7d5680325e4b47522302d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B4.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

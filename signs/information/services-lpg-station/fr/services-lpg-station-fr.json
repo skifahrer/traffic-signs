@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE15c",
+  "image": {
+    "file": "services-lpg-station-fr.svg",
+    "sha1": "89a7781041636c6050f1b3800a03a88a4691f0c2",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE15c.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

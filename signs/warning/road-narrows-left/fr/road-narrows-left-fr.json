@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A3b",
+  "image": {
+    "file": "road-narrows-left-fr.svg",
+    "sha1": "82222cb4a421aabc42d4063f78dd1ad0e8fecf95",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A3b.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

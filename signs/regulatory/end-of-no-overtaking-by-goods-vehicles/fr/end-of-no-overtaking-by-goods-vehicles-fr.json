@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B34a",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-fr.svg",
+    "sha1": "2a84fb5b0468dd6624b984ed5469e6e30ff84511",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B34a.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Liste_des_signaux_routiers_de_prescription_en_France",

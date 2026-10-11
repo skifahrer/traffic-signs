@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE4b",
+  "image": {
+    "file": "services-caravan-site-fr.svg",
+    "sha1": "62a63373f3a0b010b6ef44f66b61b58268b5e701",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE4b.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

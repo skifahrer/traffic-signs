@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE3b",
+  "image": {
+    "file": "services-information-relay-fr.svg",
+    "sha1": "cb9f19a704548c5a96f70e7ee6c519579360c1fa",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE3b.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

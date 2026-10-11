@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B58",
+  "image": {
+    "file": "winter-equipment-required-fr.svg",
+    "sha1": "d63f340cf56d8e69dfcd4c66a186e68984b7176f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B58.svg",
+    "author": "Kilyann Le Hen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

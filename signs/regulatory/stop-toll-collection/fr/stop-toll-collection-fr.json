@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B5c",
+  "image": {
+    "file": "stop-toll-collection-fr.svg",
+    "sha1": "f739f4e3c020ed6b91d1035117e3a4ea8b330f43",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B5c2.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C20b",
+  "image": {
+    "file": "public-transport-crossing-fr.png",
+    "sha1": "24e126aae03109db1309bf76e72140ea9887f4f4",
+    "source": "https://commons.wikimedia.org/wiki/File:France_Road_Sign_C20b.png",
+    "author": "Jean-Michel du 01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

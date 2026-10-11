@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE100",
+  "image": {
+    "file": "services-filling-station-brands-fr.svg",
+    "sha1": "20eda8c03833a8ec2937186e6bcd13a6d8994e46",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE100.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

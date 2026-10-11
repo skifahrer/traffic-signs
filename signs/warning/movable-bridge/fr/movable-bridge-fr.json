@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A6",
+  "image": {
+    "file": "movable-bridge-fr.svg",
+    "sha1": "c842f58185d050c2a92a115017d637a42070790d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A6.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Liste_des_signaux_routiers_de_danger_en_France",

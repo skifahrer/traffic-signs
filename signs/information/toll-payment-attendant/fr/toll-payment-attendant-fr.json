@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C64a",
+  "image": {
+    "file": "toll-payment-attendant-fr.svg",
+    "sha1": "170c70020e057795416f5d5b7dd662d6cb22fb81",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C64a.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C24a-4",
+  "image": {
+    "file": "lane-conditions-d-fr.svg",
+    "sha1": "d0fc3e942bd88d4d82998bec8ca2bf5183559e6d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C24a-4.svg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

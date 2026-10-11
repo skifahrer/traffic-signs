@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C207",
+  "image": {
+    "file": "motorway-fr.svg",
+    "sha1": "55e7b684bf4c8be2ab8d06703ab9a44ad9390930",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C207.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A13b",
+  "image": {
+    "file": "pedestrian-crossing-ahead-fr.svg",
+    "sha1": "a16533128552d970b17d5fcf9887dac5b7cc02b3",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A13b.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

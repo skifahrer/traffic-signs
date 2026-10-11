@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B2a",
+  "image": {
+    "file": "no-left-turn-fr.svg",
+    "sha1": "1a138115c5a3c2222c54b5030f456babf1836767",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B2a.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

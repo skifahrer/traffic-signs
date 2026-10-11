@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B1j",
+  "image": {
+    "file": "no-entry-dual-carriageway-fr.svg",
+    "sha1": "c85012c80d6723b384f0892beed999b94274892f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B1j.svg",
+    "author": "Roland45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

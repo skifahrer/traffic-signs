@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B34",
+  "image": {
+    "file": "end-of-no-overtaking-fr.svg",
+    "sha1": "5f9b2d8e85fff2bd6d5a222a81abf940a07cf137",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B34.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

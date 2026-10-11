@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A17",
+  "image": {
+    "file": "traffic-signals-fr.svg",
+    "sha1": "44b867341465e50678f10651cbd6690091e4eab3",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A17.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

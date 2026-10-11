@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C117-b21e",
+  "image": {
+    "file": "dangerous-goods-tunnel-diversion-left-or-right-fr.svg",
+    "sha1": "527a0332e3438f92e985d21e95d71852fcfef31f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C117-b21e.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

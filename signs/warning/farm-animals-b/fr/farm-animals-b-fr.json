@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A15a2",
+  "image": {
+    "file": "farm-animals-b-fr.svg",
+    "sha1": "0e9690d8266fdd5156e6713c2cf1cbaa69007a49",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A15a2.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

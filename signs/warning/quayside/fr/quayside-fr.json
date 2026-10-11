@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A20",
+  "image": {
+    "file": "quayside-fr.svg",
+    "sha1": "87da319a46d58882a525805e2596deba36eb1bba",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A20.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

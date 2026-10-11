@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B3a",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-fr.svg",
+    "sha1": "30bb04e09d4d7a2421205320938a5e2db742b9c3",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B3a.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

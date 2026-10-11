@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE12",
+  "image": {
+    "file": "services-toilets-fr.svg",
+    "sha1": "df6add9b59282df1f2049525053dd5c220ee1a0f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE12.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

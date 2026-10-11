@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "AB7",
+  "image": {
+    "file": "end-of-priority-road-fr.svg",
+    "sha1": "a9031d08f08f3471ce12e10ec118b8bae00b2bab",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AB7.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_priorit%C3%A9_en_France",

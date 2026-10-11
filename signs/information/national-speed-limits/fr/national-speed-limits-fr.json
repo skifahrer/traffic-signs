@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C25a",
+  "image": {
+    "file": "national-speed-limits-fr.svg",
+    "sha1": "3f602753cd86c0d12dd80a3c9bee912a07d1cad1",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C25a.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

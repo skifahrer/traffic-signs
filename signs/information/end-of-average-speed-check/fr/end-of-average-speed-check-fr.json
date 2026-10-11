@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C51b",
+  "image": {
+    "file": "end-of-average-speed-check-fr.svg",
+    "sha1": "6f571e0082df58898b8ba9097ce91ae4c5026e08",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C51b.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

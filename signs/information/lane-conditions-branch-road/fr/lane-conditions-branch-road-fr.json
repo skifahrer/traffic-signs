@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C24c",
+  "image": {
+    "file": "lane-conditions-branch-road-fr.svg",
+    "sha1": "1e9968a9f98499b85ebaec42213a02c13918433b",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C24c.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE17",
+  "image": {
+    "file": "services-hotel-or-motel-fr.svg",
+    "sha1": "2d9e9abaacc3d1311f239b67238047eebb8246b4",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE17.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

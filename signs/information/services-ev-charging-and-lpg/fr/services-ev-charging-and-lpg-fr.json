@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE15j",
+  "image": {
+    "file": "services-ev-charging-and-lpg-fr.svg",
+    "sha1": "69cbabfd7ce0b960107389a55938984ff82b2dd2",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE15j.svg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "AB4",
+  "image": {
+    "file": "stop-fr.svg",
+    "sha1": "86fffa77f461b0eb9420d4162ab2b131bc56f7ad",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AB4.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_priorit%C3%A9_en_France",

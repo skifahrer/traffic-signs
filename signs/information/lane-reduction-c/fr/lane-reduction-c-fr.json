@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C28-3",
+  "image": {
+    "file": "lane-reduction-c-fr.svg",
+    "sha1": "d74f537a794820ae145d2f42df53cfefd646e696",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C28-3.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AB25",
+  "image": {
+    "file": "roundabout-ahead-fr.svg",
+    "sha1": "ace0defc98409a173763204451d0c23c77e90e90",
+    "source": "https://commons.wikimedia.org/wiki/File:France_Road_Sign_AB25.svg",
+    "author": "Jean-Michel du 01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_priorit%C3%A9_en_France",

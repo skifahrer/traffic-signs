@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE1",
+  "image": {
+    "file": "services-first-aid-fr.svg",
+    "sha1": "98eb457305b99fc6ddf00e8c1a9b5508b276ce29",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE1.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

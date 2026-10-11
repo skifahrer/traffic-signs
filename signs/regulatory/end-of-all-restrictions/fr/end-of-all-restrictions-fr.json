@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B31",
+  "image": {
+    "file": "end-of-all-restrictions-fr.svg",
+    "sha1": "1f3e543f81078e1e710c8b1102bea4df39ed4c50",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B31.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

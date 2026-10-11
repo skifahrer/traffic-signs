@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C26a",
+  "image": {
+    "file": "emergency-escape-lane-right-fr.svg",
+    "sha1": "2ff9ef8e6b0a82d80b2e3ba29cef9f10d60f5fb4",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C26a.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B6b3",
+  "image": {
+    "file": "parking-zone-fr.svg",
+    "sha1": "e8984e173994ca0900e0605d7f87e0191c975a3d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B6b3.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

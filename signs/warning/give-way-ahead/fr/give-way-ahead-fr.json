@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AB3b",
+  "image": {
+    "file": "give-way-ahead-fr.svg",
+    "sha1": "64191bc87b950c456ecc0ecae34c4277e52ac20e",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AB3b.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_priorit%C3%A9_en_France",

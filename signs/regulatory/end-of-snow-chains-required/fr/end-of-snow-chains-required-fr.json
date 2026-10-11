@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B44",
+  "image": {
+    "file": "end-of-snow-chains-required-fr.svg",
+    "sha1": "6ba17fa31dfdf80b5f4ac91075764062b0fcb85a",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B44.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

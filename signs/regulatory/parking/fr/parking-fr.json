@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "C1a",
+  "image": {
+    "file": "parking-fr.svg",
+    "sha1": "1371eb6837181c3aafe2af5a50f24948805c1735",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C1a.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

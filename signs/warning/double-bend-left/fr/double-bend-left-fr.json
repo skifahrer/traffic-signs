@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A1d",
+  "image": {
+    "file": "double-bend-left-fr.svg",
+    "sha1": "ba1efc0e561b542e9ec5777e82e0334a2254a39d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A1d.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

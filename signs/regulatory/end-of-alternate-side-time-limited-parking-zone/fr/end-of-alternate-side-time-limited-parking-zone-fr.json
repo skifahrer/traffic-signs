@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B50e",
+  "image": {
+    "file": "end-of-alternate-side-time-limited-parking-zone-fr.svg",
+    "sha1": "5e72dffd939a29bc3c639b11dce348df5efdd558",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B50e.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

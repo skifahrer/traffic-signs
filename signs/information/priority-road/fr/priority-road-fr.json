@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "AB6",
+  "image": {
+    "file": "priority-road-fr.svg",
+    "sha1": "70623d241bedd0c6d5147f4636945521b881fa10",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AB6.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_priorit%C3%A9_en_France",

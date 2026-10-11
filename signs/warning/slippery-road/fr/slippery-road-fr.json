@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A4",
+  "image": {
+    "file": "slippery-road-fr.svg",
+    "sha1": "3bc30e9c5fc4b6c2064a6069bf6f1628768f259f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A4.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE3a",
+  "image": {
+    "file": "services-information-point-fr.svg",
+    "sha1": "5243a93d88b66b5bc7b7b54ebefc01b461155c6d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE3a.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

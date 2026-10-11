@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE25",
+  "image": {
+    "file": "services-cash-machine-fr.svg",
+    "sha1": "f010a11544b2bc5a434e5b34f24863a8d59b1e9c",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE25.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

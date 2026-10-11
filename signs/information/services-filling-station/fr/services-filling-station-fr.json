@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE15a",
+  "image": {
+    "file": "services-filling-station-fr.svg",
+    "sha1": "eb3aea8850471c73847adcfc39a651932dab22de",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE15a.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

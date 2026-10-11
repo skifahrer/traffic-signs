@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A14",
+  "image": {
+    "file": "danger-fr.svg",
+    "sha1": "31a9b267bbfe4e2adbca2acdbfd31878e4c7dcd6",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A14.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

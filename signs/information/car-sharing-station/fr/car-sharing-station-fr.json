@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C9",
+  "image": {
+    "file": "car-sharing-station-fr.svg",
+    "sha1": "1ed3213758ad0e5d0e2c27f64434a913ee31c700",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C9.svg",
+    "author": "KiwiNeko14",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B19",
+  "image": {
+    "file": "other-prohibition-fr.svg",
+    "sha1": "4f984c2ba021e4fe4fb11c0a68b43bd5f9295301",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B19.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

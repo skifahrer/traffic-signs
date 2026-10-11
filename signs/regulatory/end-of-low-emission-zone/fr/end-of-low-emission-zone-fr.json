@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B57",
+  "image": {
+    "file": "end-of-low-emission-zone-fr.svg",
+    "sha1": "e4278d34441560966abb0c011da3a1b68119c81f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B57.svg",
+    "author": "Roland45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE14",
+  "image": {
+    "file": "services-accessible-facilities-fr.svg",
+    "sha1": "275c8d07568aec732fdd523c0851e04eb3488bfa",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE14.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

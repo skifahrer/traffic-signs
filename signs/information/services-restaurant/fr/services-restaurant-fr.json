@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE16",
+  "image": {
+    "file": "services-restaurant-fr.svg",
+    "sha1": "3e683cdd0a6d3cc356dd97fd3fff8955ec351fdf",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE16.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

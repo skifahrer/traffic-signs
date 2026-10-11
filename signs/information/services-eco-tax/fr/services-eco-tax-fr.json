@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE51",
+  "image": {
+    "file": "services-eco-tax-fr.svg",
+    "sha1": "f36bad521815fc7ad5bb9e92ce8185799e9f06d1",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE51.svg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

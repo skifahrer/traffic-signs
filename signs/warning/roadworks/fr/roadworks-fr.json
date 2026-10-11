@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK5",
+  "image": {
+    "file": "roadworks-fr.svg",
+    "sha1": "6883c59d7cea5ac5de7ea294a29033de3d04aa89",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK5.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE18",
+  "image": {
+    "file": "services-cafe-fr.svg",
+    "sha1": "6f5ded560798d58b0d9b9b0d0873c468b1063ff8",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE18.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

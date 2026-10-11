@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B12",
+  "image": {
+    "file": "maximum-height-fr.svg",
+    "sha1": "e2e4bf7d71e831f93a64944a09708f691e6f5532",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B12.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A23",
+  "image": {
+    "file": "low-flying-aircraft-fr.svg",
+    "sha1": "6f0ba571a9bd1b44fd4a68c3e0abbf039c9a3fdf",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A23.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

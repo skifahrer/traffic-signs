@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C13c",
+  "image": {
+    "file": "dead-end-except-pedestrians-fr.svg",
+    "sha1": "0e5ab3ae1edd21c7ff82d030bc2b018c466661d5",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C13c.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

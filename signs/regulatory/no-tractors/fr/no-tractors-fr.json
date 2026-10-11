@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B9d",
+  "image": {
+    "file": "no-tractors-fr.svg",
+    "sha1": "2134cd48e9ad59f3fb8878b2821bc8a4fdf9010b",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B9d.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

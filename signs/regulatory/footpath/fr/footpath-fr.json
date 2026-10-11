@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B22b",
+  "image": {
+    "file": "footpath-fr.svg",
+    "sha1": "fc84f06f1676fe277a3fcc5eee9792eac5d456d9",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B22b.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

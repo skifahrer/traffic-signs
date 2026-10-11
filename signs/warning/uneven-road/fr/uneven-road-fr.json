@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A2a",
+  "image": {
+    "file": "uneven-road-fr.svg",
+    "sha1": "ae146934d4d8f942cefadac52a8690f8b135acd2",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A2a.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

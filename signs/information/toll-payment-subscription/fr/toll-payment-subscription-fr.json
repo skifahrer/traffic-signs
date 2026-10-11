@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C64d2",
+  "image": {
+    "file": "toll-payment-subscription-fr.svg",
+    "sha1": "4e48e50cf0701c8f516f286ba69dd5d2e028e055",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C64d2.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

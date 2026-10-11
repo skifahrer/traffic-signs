@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK2",
+  "image": {
+    "file": "uneven-road-temporary-fr.svg",
+    "sha1": "5bdbcb50b1fc1e0b94862089ca197243fdacbb14",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK2.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

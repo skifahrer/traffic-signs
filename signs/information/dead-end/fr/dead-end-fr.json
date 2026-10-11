@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C13a",
+  "image": {
+    "file": "dead-end-fr.svg",
+    "sha1": "1a90505a192dcca5c1d01b03eb562666e3408fe6",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C13a.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C65a",
+  "image": {
+    "file": "free-flow-toll-fr.svg",
+    "sha1": "7b7ee66cf5e430cf3e6f941a09d504ed1a4521e4",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C65a.svg",
+    "author": "Xfigpower",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

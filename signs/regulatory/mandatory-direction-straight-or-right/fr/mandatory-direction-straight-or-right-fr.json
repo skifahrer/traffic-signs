@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B21d1",
+  "image": {
+    "file": "mandatory-direction-straight-or-right-fr.svg",
+    "sha1": "d7fa23c2ec617868a13e13ad85babf469b46b1b8",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B21d1.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

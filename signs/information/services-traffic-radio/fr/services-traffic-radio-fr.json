@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE22",
+  "image": {
+    "file": "services-traffic-radio-fr.svg",
+    "sha1": "b1d649badb124ae4ffa8fba254ff2295c96b8b88",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE22.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

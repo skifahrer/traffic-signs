@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE4a",
+  "image": {
+    "file": "services-tent-camp-fr.svg",
+    "sha1": "70f36e0c6704c1a1849315a15f810e12e723afc9",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE4a.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

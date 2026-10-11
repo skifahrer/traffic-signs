@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A24",
+  "image": {
+    "file": "crosswind-fr.svg",
+    "sha1": "e4d85dd9087f0b711485e6fe96258cea051fd459",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_A24.svg",
+    "author": "Roulex_45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

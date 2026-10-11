@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C112",
+  "image": {
+    "file": "end-of-tunnel-fr.svg",
+    "sha1": "bc0c2513d0beb53570b01400e85076bb87dde6ac",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C112.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

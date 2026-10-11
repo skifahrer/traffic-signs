@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C115",
+  "image": {
+    "file": "greenway-fr.svg",
+    "sha1": "9f98af085358d400680adf716a4bae1fde2b7441",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C115.svg",
+    "author": "Gouvernement français, Bertrand GRONDIN, myself",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

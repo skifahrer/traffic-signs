@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE15i",
+  "image": {
+    "file": "services-ev-charging-station-fr.svg",
+    "sha1": "1b2ebd254ab8c00a182693dc534c957fbcf8c829",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE15i.svg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

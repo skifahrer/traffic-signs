@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B49",
+  "image": {
+    "file": "end-of-other-mandatory-instruction-fr.svg",
+    "sha1": "c905255c4137dd3d5d00fe0b02c049aeaf742b0e",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B49.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

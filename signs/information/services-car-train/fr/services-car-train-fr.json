@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE8",
+  "image": {
+    "file": "services-car-train-fr.svg",
+    "sha1": "27f5373c3eab5f1b0674024fb514825195d99492",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE8.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

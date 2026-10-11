@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK31",
+  "image": {
+    "file": "accident-fr.svg",
+    "sha1": "b09f2a5ceae05f67eeb5479050b48a01e022662d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK31.svg",
+    "author": "Naturals",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

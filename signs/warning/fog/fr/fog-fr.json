@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK32",
+  "image": {
+    "file": "fog-fr.svg",
+    "sha1": "7d98d041c5b8248f394ff827e2c35d877cca60f8",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK32.svg",
+    "author": "Mathgb",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

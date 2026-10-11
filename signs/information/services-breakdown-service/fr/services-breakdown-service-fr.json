@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE28",
+  "image": {
+    "file": "services-breakdown-service-fr.svg",
+    "sha1": "e5bcfd312c1a57c78831325f49fed1df3554fbc3",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE28.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

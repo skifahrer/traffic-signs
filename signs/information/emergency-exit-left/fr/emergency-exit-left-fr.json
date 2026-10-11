@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE30b",
+  "image": {
+    "file": "emergency-exit-left-fr.svg",
+    "sha1": "1afe58e7fa9086b99bf5ba7b630c8bf68a25a58c",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE30b.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

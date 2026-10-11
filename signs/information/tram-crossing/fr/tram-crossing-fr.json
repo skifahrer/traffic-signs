@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C20c",
+  "image": {
+    "file": "tram-crossing-fr.svg",
+    "sha1": "95d5277ae3374b7412b4aa128a7bd304c4c8425c",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C20c.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

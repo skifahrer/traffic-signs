@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C29c",
+  "image": {
+    "file": "three-lane-road-fr.svg",
+    "sha1": "cc64e1614789111fd8a55ffdedb9a38a47e9408e",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C29c.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

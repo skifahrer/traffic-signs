@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C107",
+  "image": {
+    "file": "expressway-fr.svg",
+    "sha1": "04fa7d31dacf8f6e1be301fa1f7bf3b533a62f94",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C107.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

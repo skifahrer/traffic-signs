@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE2a",
+  "image": {
+    "file": "services-emergency-telephone-fr.svg",
+    "sha1": "af6bcb01275c1021843c510cd4ee1e35cbe13d38",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE2a.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

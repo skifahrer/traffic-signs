@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B5a",
+  "image": {
+    "file": "police-check-stop-fr.svg",
+    "sha1": "2cd2a44b6621189b1c904446c6c9c4b3ce0d1e89",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B5a.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B42",
+  "image": {
+    "file": "end-of-bridleway-fr.svg",
+    "sha1": "b34b4fb1227d8edfb85d0207c8c45c7cba9e3827",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B42.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

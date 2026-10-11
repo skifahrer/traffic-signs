@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK3",
+  "image": {
+    "file": "road-narrows-temporary-fr.svg",
+    "sha1": "e776de9a97b0e65b0a47b9197c44b94141da6ada",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK3.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

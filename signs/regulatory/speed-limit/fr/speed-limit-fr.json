@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B14",
+  "image": {
+    "file": "speed-limit-fr.svg",
+    "sha1": "6bcf9f91b390179f87d74a31cd9eb50b43ee8861",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B14_(50).svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

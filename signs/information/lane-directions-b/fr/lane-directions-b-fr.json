@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C24b-2",
+  "image": {
+    "file": "lane-directions-b-fr.svg",
+    "sha1": "96110ec064f530f8a75a6bd2726b603bc5a3e9a3",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C24b-2.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

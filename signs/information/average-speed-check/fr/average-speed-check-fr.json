@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C51a",
+  "image": {
+    "file": "average-speed-check-fr.svg",
+    "sha1": "fcc9262a8c1da9bc080c4d4fe7c271385e62d5fb",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C51a.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

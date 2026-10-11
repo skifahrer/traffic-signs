@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE5b",
+  "image": {
+    "file": "services-guest-house-fr.svg",
+    "sha1": "7d5cffed743c6a14e4d3a04b58fed78ddf256e9c",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE5b.svg",
+    "author": "Original: Gouvernement français Vector: Roulex 45",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

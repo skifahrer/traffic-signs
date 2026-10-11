@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE27",
+  "image": {
+    "file": "services-fitness-trail-fr.svg",
+    "sha1": "79720d98be8abf2359a7ca49d7d0246e72af022d",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE27.svg",
+    "author": "Gouvernement français, Roulex 45 self-made from source above",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

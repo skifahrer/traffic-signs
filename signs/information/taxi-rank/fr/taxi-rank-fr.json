@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "C5",
+  "image": {
+    "file": "taxi-rank-fr.svg",
+    "sha1": "40d0158bb52ee68405b3d91079f5aecfa83e3c4f",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_C5.svg",
+    "author": "Roulex 45 self-made from source above",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_d%27indication_en_France",

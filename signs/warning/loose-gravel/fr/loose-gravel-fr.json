@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "AK22",
+  "image": {
+    "file": "loose-gravel-fr.svg",
+    "sha1": "f685ec4dd3927ee14384d9becc8424f8ac304602",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_AK22.svg",
+    "author": "Mathgb",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",

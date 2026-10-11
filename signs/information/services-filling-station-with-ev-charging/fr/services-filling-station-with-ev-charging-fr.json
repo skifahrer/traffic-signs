@@ -3,6 +3,14 @@
   "category": "information",
   "country": "fr",
   "code": "CE15g",
+  "image": {
+    "file": "services-filling-station-with-ev-charging-fr.svg",
+    "sha1": "bf46017c59398af8322fad5340f779a873abb02e",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_CE15g.svg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",

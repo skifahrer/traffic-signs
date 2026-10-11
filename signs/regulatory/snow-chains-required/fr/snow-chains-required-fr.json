@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B26",
+  "image": {
+    "file": "snow-chains-required-fr.svg",
+    "sha1": "ea2ffb6658b908ba04a12dc66f03c168537ca342",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B26.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

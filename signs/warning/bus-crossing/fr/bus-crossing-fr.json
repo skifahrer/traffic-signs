@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "fr",
   "code": "A9a",
+  "image": {
+    "file": "bus-crossing-fr.png",
+    "sha1": "9a1c64703f4ab71da7b683252b7b43544b4291ad",
+    "source": "https://commons.wikimedia.org/wiki/File:France_Road_Sign_A9a.png",
+    "author": "Jean-Michel du 01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",

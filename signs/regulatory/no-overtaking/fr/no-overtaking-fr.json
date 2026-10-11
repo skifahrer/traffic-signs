@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B3",
+  "image": {
+    "file": "no-overtaking-fr.svg",
+    "sha1": "c6a44f7c8afe04d95e69d1af9f6e54138cce1c39",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B3.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B6a2",
+  "image": {
+    "file": "no-parking-first-half-of-month-fr.svg",
+    "sha1": "d18d4a87ba0ba12c6e7f616a1239e1b0d512d778",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B6a2.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",

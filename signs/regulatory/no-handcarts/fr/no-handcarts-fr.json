@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "fr",
   "code": "B9e",
+  "image": {
+    "file": "no-handcarts-fr.svg",
+    "sha1": "a1fc95a2323c272bc388ff641953a3b6e0a34c26",
+    "source": "https://commons.wikimedia.org/wiki/File:France_road_sign_B9e.svg",
+    "author": "Roulex 45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "fr-wikipedia",
     "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",
