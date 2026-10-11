@@ -91,6 +91,22 @@ function writeUrl() {
   if (url !== location.pathname + location.search + location.hash) history.replaceState(history.state, "", url);
 }
 
+// The filters as a first visit has them; "Reset filters" goes back to these.
+const isDefault = () =>
+  !state.query && !state.category && !state.group && !state.shared && state.withdrawn && !state.sort && allCountries();
+
+function resetFilters() {
+  Object.assign(state, { query: "", category: "", group: "", countries: new Set(nationals()), shared: false, withdrawn: true, sort: "" });
+  $("search").value = "";
+  $("category").value = "";
+  $("sort").value = "";
+  $("group").value = "";
+  $("shared").checked = false;
+  $("withdrawn").checked = true;
+  for (const box of $("countries").querySelectorAll("input")) box.checked = state.countries.has(box.value);
+  render();
+}
+
 const groupById = (id) => (data.groups || []).find((g) => g.id === id);
 
 // The "Countries" menu: all countries, continents, then political and economic
@@ -156,21 +172,14 @@ const nationals = () => Object.keys(data.countries).filter((c) => !data.countrie
 const regions = () => Object.keys(data.countries).filter((c) => data.countries[c].region_of);
 const allCountries = () => state.countries.size === nationals().length && nationals().every((c) => state.countries.has(c));
 
-// The variants of a sign (crosswind-from-left, speed-limit-50, …) that a
-// country has: shown in the main sign's row when the country has no sign of
-// its own there.
-const variantsIn = (sign, country) =>
-  (sign.variants || []).map((slug) => signAt(sign.category, slug)).filter((v) => v && v.countries[country]);
-// Countries with the sign itself or only with variants of it.
-const countriesOf = (sign) =>
-  new Set([
-    ...Object.keys(sign.countries),
-    ...(sign.variants || []).flatMap((slug) => Object.keys(signAt(sign.category, slug)?.countries || {})),
-  ]);
+// Countries with the sign itself. Variants of a sign (crosswind-from-left,
+// speed-limit-50, …) have rows of their own and are not counted here, so a row
+// only ever compares the very same sign.
+const countriesOf = (sign) => Object.keys(sign.countries);
 
 function matches(sign) {
   if (state.category && sign.category !== state.category) return false;
-  const present = [...countriesOf(sign)].filter((c) => state.countries.has(c));
+  const present = countriesOf(sign).filter((c) => state.countries.has(c));
   if (!present.length) return false;
   if (state.shared && present.length < 2) return false;
   if (!state.withdrawn && isWithdrawn(sign)) return false;
@@ -188,8 +197,8 @@ function matches(sign) {
     .every((word) => haystack.includes(word));
 }
 
-// How many of the chosen countries have the sign (or only variants of it).
-const chosenCount = (sign) => [...countriesOf(sign)].filter((c) => state.countries.has(c)).length;
+// How many of the chosen countries have the sign.
+const chosenCount = (sign) => countriesOf(sign).filter((c) => state.countries.has(c)).length;
 
 // The signs in the order state.sort asks for; ties keep the default order.
 function sorted(signs) {
@@ -214,8 +223,6 @@ function cell(sign, country) {
   const entry = sign.countries[country];
   const label = el("span", { class: "country" }, country.toUpperCase());
   if (!entry) {
-    const variants = variantsIn(sign, country);
-    if (variants.length) return variantCell(variants, country, label);
     return el(
       "div",
       { class: "cell absent", title: `Not in ${countryName(country)}` },
@@ -235,28 +242,12 @@ function cell(sign, country) {
   );
 }
 
-// A country that only has variants of the sign: its first variant, marked as such.
-function variantCell(variants, country, label) {
-  const [first] = variants;
-  const entry = first.countries[country];
-  const local = localName(first, country);
-  const more = variants.length - 1;
-  return el(
-    "div",
-    { class: "cell variant", title: `Variant: ${englishName(first)}` + (more ? ` (and ${more} more)` : "") },
-    label,
-    image(entry.image, `${countryName(country)}: ${local || englishName(first)}`),
-    el("code", {}, entry.code),
-    local && el("span", { class: "local", title: local }, local),
-    el("span", { class: "badge variant-badge" }, more ? `variant +${more}` : "variant"),
-  );
-}
-
 const formatNumber = (n) => n.toLocaleString("en");
 
 // Start over for new filters: the first PAGE_SIZE matching signs.
 function render() {
   writeUrl();
+  $("reset").hidden = isDefault();
   view.columns = Object.keys(data.countries).filter((c) => state.countries.has(c));
   const matching = sorted(data.signs.filter(matches));
   // Display order: category by category, as listed in data.categories.
@@ -265,7 +256,9 @@ function render() {
   view.groups.clear();
   $("results").replaceChildren();
   if (!view.signs.length) {
-    $("results").append(el("p", { class: "empty muted" }, "No signs match these filters."));
+    const again = el("button", { type: "button", class: "reset" }, "Reset filters");
+    again.addEventListener("click", resetFilters);
+    $("results").append(el("p", { class: "empty muted" }, "No signs match these filters. ", again));
   }
   showMore();
 }
@@ -337,22 +330,13 @@ function updateStatus() {
 }
 
 function detail(sign) {
-  // Countries without the sign itself show their variants of it.
-  const shown = [
-    ...Object.entries(sign.countries).map(([country, entry]) => [country, entry, sign]),
-    ...Object.keys(data.countries)
-      .filter((country) => !sign.countries[country])
-      .flatMap((country) => variantsIn(sign, country).map((v) => [country, v.countries[country], v])),
-  ];
-  const panels = shown.map(([country, entry, owner]) => {
-    const local = localName(owner, country);
-    const variant = owner !== sign;
+  const panels = Object.entries(sign.countries).map(([country, entry]) => {
+    const local = localName(sign, country);
     return el(
       "section",
-      { class: variant ? "panel variant" : "panel" },
+      { class: "panel" },
       el("h3", {}, countryName(country), " ", entry.valid_until && el("span", { class: "badge" }, `valid until ${entry.valid_until}`)),
-      variant && el("p", { class: "muted" }, "Variant: ", el("a", { href: `#${owner.category}/${owner.sign}` }, englishName(owner))),
-      image(entry.image, `${countryName(country)}: ${local || englishName(owner)}`, "big"),
+      image(entry.image, `${countryName(country)}: ${local || englishName(sign)}`, "big"),
       el(
         "dl",
         {},
@@ -423,6 +407,7 @@ function setupControls() {
   $("shared").checked = state.shared;
   $("withdrawn").checked = state.withdrawn;
   $("share-view").addEventListener("click", () => share(viewLink(), document.title));
+  $("reset").addEventListener("click", resetFilters);
   category.addEventListener("change", () => {
     state.category = category.value;
     render();
