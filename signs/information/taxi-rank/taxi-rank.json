@@ -1,7 +1,9 @@
 {
   "en": "Taxi rank",
   "de": "Taxistand",
+  "de-AT": "Taxistandplatz",
   "fr": "Station de taxis",
+  "hu": "Taxiállomás",
   "pl": "postój taksówek",
   "sk": "Stanovište taxi"
 }

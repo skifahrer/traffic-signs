@@ -1,0 +1,11 @@
+{
+  "sign": "frogs",
+  "category": "additional-panel",
+  "country": "hu",
+  "code": "H-025",
+  "source": {
+    "pipeline": "hu-wikipedia",
+    "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",
+    "file": "Hungary road sign H-025.svg"
+  }
+}

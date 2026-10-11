@@ -1,0 +1,11 @@
+{
+  "sign": "segregated-footpath-cycle-path-recommended",
+  "category": "information",
+  "country": "at",
+  "code": "§53 Z28b",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Hinweiszeichen 28b.svg"
+  }
+}

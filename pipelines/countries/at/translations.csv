@@ -1,0 +1,202 @@
+code,category,slug,name_en,name_de-AT
+§50 Z1,warning,uneven-road,Uneven road,Querrinne oder Aufwölbung
+§50 Z2a,warning,bend-right,Bend (right),Gefährliche Kurve (Rechtskurve)
+§50 Z2b,warning,bend-left,Bend (left),Gefährliche Kurve (Linkskurve)
+§50 Z2c,warning,double-bend-right,Double bend (first to the right),Gefährliche Kurven (Doppelkurve rechts beginnend)
+§50 Z2d,warning,double-bend-left,Double bend (first to the left),Gefährliche Kurven (Doppelkurve links beginnend)
+§50 Z3,warning,intersection,Intersection,Kreuzung
+§50 Z3a,warning,roundabout-ahead,Roundabout ahead,Kreuzung mit Kreisverkehr
+§50 Z4,warning,crossroads-with-minor-road,Crossroads with a road without priority,Kreuzung mit Straße ohne Vorrang
+§50 Z6a,warning,level-crossing-with-barriers,Level crossing with barriers,Bahnübergang mit Schranken
+§50 Z6b,warning,level-crossing-without-barriers,Level crossing without barriers,Bahnübergang ohne Schranken
+§50 Z6c (III links),warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Bake links mit drei Balken – Entfernung zum Bahnübergang ca. 240 m
+§50 Z6c (III rechts),warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Bake rechts mit drei Balken – Entfernung zum Bahnübergang ca. 240 m
+§50 Z6c (II links),warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Bake links mit zwei Balken – Entfernung zum Bahnübergang ca. 160 m
+§50 Z6c (II rechts),warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Bake rechts mit zwei Balken – Entfernung zum Bahnübergang ca. 160 m
+§50 Z6c (I links),warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Bake links mit einem Balken – Entfernung zum Bahnübergang ca. 80 m
+§50 Z6c (I rechts),warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Bake rechts mit einem Balken – Entfernung zum Bahnübergang ca. 80 m
+§50 Z6d (Tafel),warning,level-crossing-cross-single-track-board,Level crossing cross on a board (single track),Andreaskreuz als Tafelschild (eingleisig)
+§50 Z6d (doppelt Tafel),warning,level-crossing-cross-multiple-tracks-board,Level crossing cross on a board (multiple tracks),Andreaskreuz als Doppeltafel (mehrgleisig)
+§50 Z6d,warning,level-crossing-cross-single-track,Level crossing cross (single track),Andreaskreuz (eingleisig)
+§50 Z6d (doppelt),warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Andreaskreuz doppelt (mehrgleisig)
+§50 Z6d (liegend),warning,level-crossing-cross-horizontal,Level crossing cross (horizontal),Andreaskreuz liegend (eingleisig)
+§50 Z6d (doppelt liegend),warning,level-crossing-cross-multiple-tracks-horizontal,"Level crossing cross (multiple tracks, horizontal)","Andreaskreuz doppelt, liegend (mehrgleisig)"
+§50 Z7,warning,steep-descent,Steep descent,Gefährliches Gefälle mit … %
+§50 Z7a,warning,steep-ascent,Steep ascent,Starke Steigung mit … %
+§50 Z8a,warning,road-narrows-both-sides,Road narrows (from both sides),Fahrbahnverengung (beidseitig)
+§50 Z8b,warning,road-narrows-left,Road narrows (from the left),Fahrbahnverengung (linksseitig)
+§50 Z8c,warning,road-narrows-right,Road narrows (from the right),Fahrbahnverengung (rechtsseitig)
+§50 Z9,warning,roadworks,Roadworks,Baustelle
+§50 Z10,warning,slippery-road,Slippery road,Schleudergefahr
+§50 Z10a,warning,crosswind,Crosswind,Seitenwind
+§50 Z10b,warning,fallen-rocks,Fallen rocks,Steinschlag
+§50 Z10c,warning,low-flying-aircraft,Low-flying aircraft,Flugbetrieb
+§50 Z11,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Fußgängerübergang
+§50 Z11a,warning,cycle-crossing-ahead,Cycle crossing ahead,Radfahrerüberfahrt
+§50 Z12,warning,children,Children,Achtung Kinder
+§50 Z13a,warning,farm-animals,Farm animals,Achtung Tiere
+§50 Z13b,warning,wild-animals,Wild animals,Achtung Wildwechsel
+§50 Z14,warning,two-way-traffic,Two-way traffic,Achtung Gegenverkehr
+§50 Z14a,warning,wrong-way-driver,Wrong-way driver,Achtung Falschfahrer
+§50 Z15,warning,traffic-signals,Traffic signals,Vorankündigung eines Lichtzeichens
+§50 Z16,warning,danger,Other danger,Andere Gefahren
+§52 Z1,regulatory,no-vehicles,No vehicles,Fahrverbot (in beiden Richtungen)
+§52 Z2,regulatory,no-entry,No entry,Einfahrt verboten
+§52 Z3a,regulatory,no-left-turn,No left turn,Einbiegen nach links verboten
+§52 Z3b,regulatory,no-right-turn,No right turn,Einbiegen nach rechts verboten
+§52 Z3c,regulatory,no-u-turn,No U-turn,Umkehren verboten
+§52 Z4a,regulatory,no-overtaking,No overtaking,Überholen von mehrspurigen KFZ verboten
+§52 Z4b,regulatory,end-of-no-overtaking,End of no overtaking,Ende des Überholverbotes
+§52 Z4c,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Überholen für Lastkraftfahrzeuge verboten
+§52 Z4d,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Ende des Überholverbotes für Lastkraftfahrzeuge
+§52 Z5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Wartepflicht bei Gegenverkehr
+§52 Z6a,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Fahrverbot für mehrspurige Kraftfahrzeuge
+§52 Z6b,regulatory,no-motorcycles,No entry for motorcycles,Fahrverbot für Motorräder
+§52 Z6c,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,Fahrverbot für alle Kraftfahrzeuge
+§52 Z6d,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Fahrverbot für Kraftfahrzeuge mit Anhänger
+§52 Z7a,regulatory,no-goods-vehicles,No entry for goods vehicles,Fahrverbot für Lastkraftfahrzeuge
+§52 Z7a (Gewicht),regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,Fahrverbot für Lastkraftfahrzeuge bzw. Anhänger mit mehr als … Tonnen höchstzulässigem Gesamtgewicht
+§52 Z7a (Länge),regulatory,no-goods-vehicles-over-length,No goods vehicles over the length shown,Fahrverbot für Lastkraftfahrzeuge (bzw. inklusive Anhänger) über … Meter Gesamtlänge
+§52 Z7b,regulatory,no-goods-vehicles-with-trailers,No goods vehicles with trailers,Fahrverbot für Lastkraftfahrzeuge mit Anhänger
+§52 Z7c,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Fahrverbot für Fuhrwerke
+§52 Z7e,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Fahrverbot für Kraftfahrzeuge mit gefährlichen Gütern
+§52 Z7f,regulatory,no-buses,No entry for buses and trolleybuses,Fahrverbot für Autobusse
+§52 Z8a,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,Fahrverbot für Fahrräder und Motorfahrräder
+§52 Z8b,regulatory,no-mopeds,No entry for mopeds,Fahrverbot für Motorfahrräder
+§52 Z8c,regulatory,no-bicycles,No entry for bicycles,Fahrverbot für Fahrräder
+§52 Z9a,regulatory,maximum-width,Maximum width,Fahrverbot für über … Meter breite Fahrzeuge
+§52 Z9b,regulatory,maximum-height,Maximum height,Fahrverbot für über … Meter hohe Fahrzeuge
+§52 Z9c,regulatory,maximum-weight,Maximum weight,Fahrverbot für Fahrzeuge mit über … Tonnen Gesamtgewicht
+§52 Z9d,regulatory,maximum-axle-weight,Maximum axle weight,Fahrverbot für alle Fahrzeuge mit über … Tonnen Achslast
+§52 Z10a,regulatory,speed-limit,Speed limit,Geschwindigkeits beschränkung (erlaubte Höchstgeschwindigkeit) von … km/h
+§52 Z10b,regulatory,end-of-speed-limit,End of speed limit,Ende der Geschwindigkeits- beschränkung von … km/h
+§52 Z11,regulatory,end-of-all-restrictions,End of all restrictions,Ende von Überholverboten und Geschwindigkeitsbeschränkungen
+§52 Z11a,regulatory,speed-limit-zone,Speed limit zone,Zonenbeschränkung von … km/h
+§52 Z11b,regulatory,end-of-speed-limit-zone,End of speed limit zone,Ende der Zonenbeschränkung von … km/h
+§52 Z12,regulatory,customs-stop,Customs stop,Halt Zoll
+§52 Z13a,regulatory,no-parking,No parking,Parken verboten
+§52 Z13b,regulatory,no-stopping,No stopping,Halten und Parken verboten
+§52 Z13c (a),regulatory,no-parking-odd-days,No parking on odd days,Wechselseitiges Parkverbot (ungerade Tage)
+§52 Z13c (b),regulatory,no-parking-even-days,No parking on even days,Wechselseitiges Parkverbot (gerade Tage)
+§52 Z13d,regulatory,short-term-parking-zone,Short-term parking zone,Beginn einer Kurzparkzone
+§52 Z13e,regulatory,end-of-short-term-parking-zone,End of short-term parking zone,Ende der Kurzparkzone
+§52 Z14,regulatory,no-horns,Use of horns prohibited,Hupverbot
+§52 Z14a,regulatory,no-riders,No entry for riders on animals,Reitverbot
+§52 Z14b,regulatory,no-pedestrians,No entry for pedestrians,Verbot für Fußgänger
+§52 Z15 (links),regulatory,turn-left,Turn left,Vorgeschriebene Fahrtrichtung: Links
+§52 Z15 (rechts),regulatory,turn-right,Turn right,Vorgeschriebene Fahrtrichtung: Rechts
+§52 Z15 (gerade),regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Vorgeschriebene Fahrtrichtung: Geradeaus
+§52 Z15 (links abb),regulatory,turn-left-here,Turn left here,Vorgeschriebene Fahrtrichtung: Links abbiegen
+§52 Z15 (rechts abb),regulatory,turn-right-here,Turn right here,Vorgeschriebene Fahrtrichtung: Rechts abbiegen
+§52 Z15 (gerade links),regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Vorgeschriebene Fahrtrichtung: Geradeaus fahren oder links abbiegen
+§52 Z15 (gerade rechts),regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Vorgeschriebene Fahrtrichtung: Geradeaus fahren oder rechts abbiegen
+§52 Z15 (links rechts),regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Vorgeschriebene Fahrtrichtung: Links oder rechts abbiegen
+§52 Z15 (links geneigt),regulatory,pass-on-left,Pass on the left,Den zu benützenden Fahrstreifen: Links
+§52 Z15 (rechts geneigt),regulatory,pass-on-right,Pass on the right,Den zu benützenden Fahrstreifen: Rechts
+§52 Z15a,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,Vorgeschriebene Fahrtrichtung für Kraftfahrzeuge mit gefährlichen Gütern: Rechts abbiegen
+§52 Z16,regulatory,cycle-path,Cycle path,Radweg
+§52 Z16a,regulatory,end-of-cycle-path,End of cycle path,Ende des Radweges
+§52 Z17,regulatory,footpath,Footpath,Gehweg
+§52 Z17a,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Geh- und Radweg (gemeinsam geführter Weg)
+§52 Z17a-b,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,Geh- und Radweg (getrennt geführter Weg)
+§52 Z17a-c,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Ende des Geh- und Radweges (gemeinsam geführter Weg)
+§52 Z17a-d,regulatory,end-of-segregated-footpath-cycle-path,End of segregated footpath and cycle path,Ende des Geh- und Radweges (getrennt geführter Weg)
+§52 Z17b,regulatory,bridleway,Bridleway,Reitweg
+§52 Z17c,regulatory,end-of-footpath,End of footpath,Ende des Gehweges
+§52 Z19,regulatory,minimum-speed,Minimum speed,Vorgeschriebene Mindestgeschwindigkeit von … km/h
+§52 Z19a,regulatory,end-of-minimum-speed,End of minimum speed,Ende der vorgeschriebenen Mindestgeschwindigkeit von … km/h
+§52 Z21,regulatory,mandatory-u-turn,Mandatory U-turn,Umkehrgebot
+§52 Z22,regulatory,snow-chains-required,Snow chains required,Schneeketten vorgeschrieben
+§52 Z22a,regulatory,end-of-snow-chains-required,End of snow chains required,Ende der Schneekettenpflicht
+§52 Z23,regulatory,give-way,Give way,Vorrang geben
+§52 Z24,regulatory,stop,"Stop, give way",Halt
+§52 Z25a,information,priority-road,Priority road,Beginn der Vorrangstraße
+§52 Z25b,information,end-of-priority-road,End of priority road,Ende der Vorrangstraße
+§53 Z1a,regulatory,parking,Parking,Parken / Parkplatz
+§53 Z1b,information,parking-direction,Direction to a parking place,Zum Parkplatz
+§53 Z1c,information,emergency-lay-by,Emergency lay-by,Pannenbucht in … Metern
+§53 Z2,information,services-hospital,Services (hospital),Spital
+§53 Z2a,information,pedestrian-crossing,Pedestrian crossing,Kennzeichnung eines Schutzweges
+§53 Z2b,information,cycle-crossing,Cycle crossing,Kennzeichnung einer Radfahrerüberfahrt
+§53 Z2c (b),information,pedestrian-and-cycle-crossing,Pedestrian and cycle crossing,Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt
+§53 Z2c (a),information,cycle-and-pedestrian-crossing,Cycle and pedestrian crossing,Kennzeichnung einer Radfahrerüberfahrt und eines Schutzweges
+§53 Z3,information,services-first-aid,Services (first aid),Erste Hilfe
+§53 Z3a,information,church-services,Church services,Gottesdienste
+§53 Z4,information,services-breakdown-service,Services (breakdown service),Pannenhilfe
+§53 Z4a,information,services-traffic-radio,Services (traffic information radio),"Verkehrsfunk (Sendername, UKW-Frequenz)"
+§53 Z5,information,services-telephone,Services (telephone),Telefonstelle
+§53 Z6,information,services-filling-station,Services (filling station),Tankstelle in … Metern
+§53 Z6a,information,taxi-rank,Taxi rank,Taxistandplatz
+§53 Z7,information,end-of-two-way-traffic,End of two-way traffic,Ende des Gegenverkehrs
+§53 Z7a,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Wartepflicht für Gegenverkehr
+§53 Z8a,information,motorway,Motorway,Autobahn
+§53 Z8b,information,end-of-motorway,End of motorway,Ende der Autobahn
+§53 Z8c,information,expressway,Expressway,Autostraße
+§53 Z8d,information,end-of-expressway,End of expressway,Ende der Autostraße
+§53 Z9a,information,pedestrian-zone,Pedestrian zone,Fußgängerzone
+§53 Z9b,information,end-of-pedestrian-zone,End of pedestrian zone,Ende einer Fußgängerzone
+§53 Z9c,information,residential-zone,Residential zone,Wohnstraße
+§53 Z9d,information,end-of-residential-zone,End of residential zone,Ende einer Wohnstraße
+§53 Z9e,information,shared-space-zone,Shared space (encounter zone),Begegnungszone
+§53 Z9f,information,end-of-shared-space-zone,End of shared space (encounter zone),Ende einer Begegnungszone
+§53 Z9g,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)","Tunnel (Tunnelname, Tunnellänge von … Metern)"
+§53 Z10 (links),information,one-way-road-left,One-way road (left here),Einbahnstraße (Fahrtrichtung links)
+§53 Z10 (rechts),information,one-way-road-right,One-way road (right here),Einbahnstraße (Fahrtrichtung rechts)
+§53 Z10a,information,trams-turn-on-red-or-amber,Trams turn on red or amber,Straßenbahn biegt bei gelb oder rot ein
+§53 Z11,information,dead-end,Dead end,Sackgasse
+§53 Z12,information,lamp-post-ring,Lamp post ring (street light not lit all night),"Laternen, die nicht die ganze Nacht über leuchten"
+§53 Z13a (groß),information,advance-direction-sign,Advance direction sign,Vorwegweiser
+§53 Z13a (klein),information,advance-direction-sign-small,Advance direction sign (small),Vorwegweiser
+§53 Z13b (mit Nr. geradeaus),information,direction-sign-straight-with-road-number,"Direction sign (straight ahead, with road number)",Wegweiser
+§53 Z13b (ohne Nr. geradeaus),information,direction-sign-straight,Direction sign (straight ahead),Wegweiser
+§53 Z13b (mit Nr. rechts),information,direction-sign-right-with-road-number,"Direction sign (to the right, with road number)",Wegweiser
+§53 Z13c,information,direction-sign-to-facilities,Direction sign to other facilities,Wegweiser zu anderen Verkehrseinrichtungen
+§53 Z13d,information,direction-sign-local-destinations,Direction sign to local destinations,Wegweiser zu Lokal- oder Bereichszielen
+§53 Z14a,information,advance-direction-sign-to-motorway,Advance direction sign before the motorway entrance,Vorwegweiser zur Autobahn oder Autostraße
+§53 Z14b (rechts),information,direction-sign-to-motorway-right,Direction sign to the motorway (right),Wegweiser zur Autobahn oder Autostraße (rechts)
+§53 Z14b (schräg rechts),information,direction-sign-to-motorway-half-right,Direction sign to the motorway (half right),Wegweiser zur Autobahn oder Autostraße (schräg rechts)
+§53 Z15a-a,information,advance-direction-sign-motorway,Advance direction sign on the motorway,Vorwegweiser – Autobahn oder Autostraße
+§53 Z15a-b,information,advance-direction-sign-motorway-b,Advance direction sign on the motorway (variant b),Vorwegweiser – Autobahn oder Autostraße
+§53 Z15a-c,information,advance-direction-sign-motorway-c,Advance direction sign on the motorway (variant c),Vorwegweiser – Autobahn oder Autostraße
+§53 Z15a-d,information,advance-direction-sign-motorway-d,Advance direction sign on the motorway (variant d),Vorwegweiser – Autobahn oder Autostraße
+§53 Z15b-a,information,exit-direction-sign-motorway,Exit direction sign on the motorway,Ausfahrtswegweiser – Autobahn oder Autostraße
+§53 Z15b-b (hoch),information,exit-direction-sign-motorway-portrait,Exit direction sign on the motorway (portrait),Ausfahrtswegweiser – Autobahn oder Autostraße
+§53 Z15b-b (quer),information,exit-direction-sign-motorway-landscape,Exit direction sign on the motorway (landscape),Ausfahrtswegweiser – Autobahn oder Autostraße
+§53 Z15c,information,motorway-orientation-board,Orientation board on the motorway,Orientierungstafel – Autobahn oder Autostraße
+§53 Z16a,information,detour-announcement,Detour announcement,Vorankündigung einer Umleitung
+§53 Z16b,information,detour-sign,Detour sign (without arrow),Umleitung
+§53 Z16c-a,information,carriageway-change-contraflow-starts,Change of carriageway (contraflow section begins),Wechsel der Richtungsfahrbahn – Gegenverkehrsbereich beginnt in 500 m
+§53 Z16c-b,information,carriageway-change-contraflow-ends,Change of carriageway (contraflow section ends),Wechsel der Richtungsfahrbahn – Gegenverkehrsbereich endet in 500 m
+§53 Z17a,information,place-name-sign,Place name,Ortstafel
+§53 Z17b,information,end-of-place-name-sign,End of place name,Ortsende
+§53 Z18,information,european-road-number,European road number,Internationaler Hauptverkehrsweg (Europastraße)
+§53 Z19,information,road-with-priority,Road with priority,Straße mit Vorrang
+§53 Z21,information,road-without-priority,Road without priority,Straße ohne Vorrang
+§53 Z22,information,national-speed-limits,National speed limits (at the border),Allgemeine Geschwindigkeitsbeschränkung
+§53 Z23,information,lane-directions,Directions of the lanes,Bodenmarkierungen / Voranzeiger für Einordnen
+§53 Z23a (rllg),information,lane-directions-before-turn,Lane directions before a turn,Voranzeiger für Einbiegen
+§53 Z23a (grrrg),information,lane-directions-before-turn-b,Lane directions before a turn (variant b),Voranzeiger für Einbiegen
+§53 Z23b (1+2-1),information,lane-layout-merge,Lane layout ahead (two lanes merge into one),Voranzeiger für Fahrstreifenverlauf
+§53 Z23b (1+2 in ... m),information,lane-layout-ahead,Lane layout ahead (two lanes in … m),Voranzeiger für Fahrstreifenverlauf
+§53 Z23c,information,lane-reduction,Lane reduction,Fahrstreifenverminderung
+§53 Z24,information,bus-road,Road for buses,Straße für Omnibusse
+§53 Z25,regulatory,public-transport-lane,Public transport lane,Fahrstreifen für Omnibusse
+§53 Z26,information,bicycle-road,Bicycle road,Fahrradstraße
+§53 Z26a,information,school-street,School street,Schulstraße
+§53 Z27,information,cycle-path-recommended,Recommended cycle path,Radweg ohne Benützungspflicht
+§53 Z28a,information,shared-footpath-cycle-path-recommended,Recommended shared footpath and cycle path,Geh- und Radweg ohne Benützungspflicht (gemeinsam)
+§53 Z28b,information,segregated-footpath-cycle-path-recommended,Recommended segregated footpath and cycle path,Geh- und Radweg ohne Benützungspflicht (getrennt)
+§54 a,additional-panel,distance,Distance,Entfernung
+§54 b,additional-panel,section-length,Length of section,Länge
+§54 c,additional-panel,stop-ahead-panel,Stop ahead,Ankündigung des Zeichens Stop (Halt)
+§54 d,additional-panel,side-road-has-priority,The crossing road has priority,Querstraße ist Vorrangstraße
+§54 e,additional-panel,priority-road-course,Course of the priority road,besonderer Verlauf der Straße mit Vorrang
+§54 f,additional-panel,snow-or-ice-panel,In snow or ice,bei Schneelage oder Eisbildung
+§54 g,additional-panel,when-wet,When wet,bei nasser Fahrbahn
+§54 h,additional-panel,except-vehicles-shown,Except the vehicles shown,außer dargestellte Fahrzeuge (hier: Behinderte)
+§54 i,additional-panel,slow-vehicles-may-be-overtaken,Slow vehicles (25 km/h or less) may be overtaken,"Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge dürfen überholt werden"
+§54 j,additional-panel,vehicles-will-be-towed,Vehicles will be towed away,Abschleppzone
+§54 k,additional-panel,only-this-lane,Applies only to this lane,Darüberlegendes Zeichen gilt nur für diesen Fahrstreifen
+§54 l,additional-panel,only-lane-left-of-median,Applies to the lane left of the median,"Darüber liegendes Zeichen gilt für den Fahrstreifen, der links an der Trennungseinrichtung vorbeiführt"
+§54 m,additional-panel,except-electric-vehicles-charging,Except electric vehicles while charging,ausgenommen Elektrofahrzeuge während des Ladevorgangs
+§54 n,additional-panel,cyclists-may-turn-right-on-red,Cyclists may turn right or go straight on red,rechtsabbiegen bzw. geradeausfahren (bei T-Kreuzungen) für Fahrräder trotz roter Ampel

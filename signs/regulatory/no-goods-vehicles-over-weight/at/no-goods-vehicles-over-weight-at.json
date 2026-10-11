@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles-over-weight",
+  "category": "regulatory",
+  "country": "at",
+  "code": "§52 Z7a (Gewicht)",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Vorschriftszeichen 7a Gewicht (2010).svg"
+  }
+}

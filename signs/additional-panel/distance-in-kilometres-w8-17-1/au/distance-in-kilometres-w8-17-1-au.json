@@ -1,0 +1,11 @@
+{
+  "sign": "distance-in-kilometres-w8-17-1",
+  "category": "additional-panel",
+  "country": "au",
+  "code": "W8-17-1",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W8-17-1.svg"
+  }
+}

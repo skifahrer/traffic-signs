@@ -1,0 +1,11 @@
+{
+  "sign": "give-way",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R1-2",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R1-2.svg"
+  }
+}

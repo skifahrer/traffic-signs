@@ -1,0 +1,11 @@
+{
+  "sign": "two-way-traffic-ahead-regulatory",
+  "category": "warning",
+  "country": "au",
+  "code": "R2-11",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R2-11.svg"
+  }
+}

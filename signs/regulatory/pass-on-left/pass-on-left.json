@@ -2,9 +2,12 @@
   "en": "Pass on the left",
   "cs": "Přikázaný směr objíždění vlevo",
   "de": "Vorgeschriebene Vorbeifahrt – links vorbei",
+  "de-AT": "Den zu benützenden Fahrstreifen: Links",
+  "en-AU": "Keep Left",
   "en-GB": "Keep left",
   "en-US": "Keep left",
   "fr": "Contournement obligatoire par la gauche",
+  "hu": "Kikerülési irány (balra)",
   "pl": "nakaz jazdy z lewej strony znaku",
   "sk": "Prikázaný smer obchádzania (vľavo)"
 }

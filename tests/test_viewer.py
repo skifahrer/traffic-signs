@@ -60,14 +60,14 @@ class ViewerTest(SandboxTestCase):
         )
 
     def test_a_country_without_a_pipeline_still_shows(self):
-        os.makedirs(self.path("warning", "danger", "at"))
+        os.makedirs(self.path("warning", "danger", "xx"))
         layout.write_json(
-            layout.sign_path("warning", "danger", "at", "json"),
-            {"sign": "danger", "category": "warning", "country": "at", "code": "A 1"},
+            layout.sign_path("warning", "danger", "xx", "json"),
+            {"sign": "danger", "category": "warning", "country": "xx", "code": "A 1"},
         )
         index = build_index()
-        self.assertEqual(index["countries"]["at"]["name"], "AT")
-        self.assertEqual(sorted(self.sign(index, "danger")["countries"]), ["at", "sk"])
+        self.assertEqual(index["countries"]["xx"]["name"], "XX")
+        self.assertEqual(sorted(self.sign(index, "danger")["countries"]), ["sk", "xx"])
 
     def test_build_writes_the_site(self):
         out = os.path.join(self.root, "_site")

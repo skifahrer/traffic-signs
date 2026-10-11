@@ -8,6 +8,8 @@ namespace.
     gallery(...)    <gallery> lines:  File:<image>|<code> <name>
     wikitable(...)  table rows:       | [[File:<image>|120px]] || <code> <name> || ...
     files(...)      any image whose file name holds the code: "UK traffic sign 501.svg"
+    named_files(...) <gallery> lines whose file name holds the code, named by their caption:
+                    File:MUTCD R1-1.svg|R1-1<br>Stop
     between(...)    another parser, run on part of the page only (from one heading to another)
 
 A page laid out some other way needs a new parser: add a factory here when
@@ -135,6 +137,62 @@ def files(file_pattern: str, ignore: Patterns = None) -> Parser:
 
 # Options before a gallery caption: `File:x.svg|alt=Text|Caption`.
 _GALLERY_OPTIONS = re.compile(r"^(?:\s*(?:alt|alternativtext|link|page|lang|class)\s*=[^|]*\|)+", re.IGNORECASE)
+
+
+def named_files(
+    file_pattern: str,
+    namespaces: tuple[str, ...] = (),
+    caption_code: str | None = None,
+    ignore: Patterns = None,
+    strip: str | None = None,
+) -> Parser:
+    """Entries from `<gallery>` lines whose image name holds the code, named by the caption.
+
+    For pages where variants of a sign (a yellow and a white version, a state
+    variant) share the code in their captions but not their file names. The
+    pattern must match the whole file name and capture the code in a group
+    named `code`; lines with other images are skipped. `caption_code`: a
+    regular expression for the code (or anything else) the caption starts
+    with, which is not part of the name. `ignore`: regular expression(s) for
+    the file name or caption of lines that are not signs. `strip`: removed
+    from names.
+
+        named_files(r"MUTCD (?P<code>[A-Z]+\d.*)\.svg", caption_code=r"[A-Z]+\d\S*\s+")
+    """
+    file_re = re.compile(file_pattern)
+    if "code" not in file_re.groupindex:
+        raise ValueError(f"named_files(): the pattern needs a (?P<code>...) group: {file_pattern}")
+    line_re = re.compile(rf"^\s*(?:{_alternatives(namespaces)})?\s*:?\s*([^|:\[\]]+\.[A-Za-z]{{3,4}})\s*\|(.*)$", re.IGNORECASE)
+    prefix_re = re.compile(rf"^(?:{caption_code})") if caption_code else None
+    ignore = [ignore] if isinstance(ignore, str) else list(ignore or [])
+    ignore_re = re.compile("|".join(f"(?:{p})" for p in ignore)) if ignore else None
+    strip_re = re.compile(strip) if strip else None
+
+    def parse(wikitext: str) -> tuple[list[Entry], list[Problem]]:
+        entries: list[Entry] = []
+        in_gallery = False
+        for line in wikitext.splitlines():
+            if re.match(r"\s*<gallery\b", line, re.IGNORECASE):
+                in_gallery = True
+            elif re.match(r"\s*</gallery>", line, re.IGNORECASE):
+                in_gallery = False
+            elif in_gallery and (match := line_re.match(line)):
+                file = " ".join(match.group(1).replace("_", " ").split())
+                found = file_re.fullmatch(file)
+                if not found:
+                    continue
+                name = strip_markup(_GALLERY_OPTIONS.sub("", match.group(2)))
+                if ignore_re and (ignore_re.search(file) or ignore_re.search(name)):
+                    continue
+                if prefix_re:
+                    name = prefix_re.sub("", name, count=1)
+                if strip_re:
+                    name = strip_re.sub("", name)
+                entries.append(Entry(file=file, code=found.group("code").strip(), name=name.strip()))
+        return entries, []
+
+    parse.label = f"named_files({file_pattern})"
+    return parse
 
 
 def between(parser: Parser, start: str | None = None, end: str | None = None) -> Parser:

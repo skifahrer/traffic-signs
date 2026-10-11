@@ -1,0 +1,380 @@
+code,category,slug,name_en,name_hu
+A-001,warning,bend-left,Bend (left),Veszélyes útkanyarulat balra
+A-002,warning,bend-right,Bend (right),Veszélyes útkanyarulat jobbra
+A-003,warning,double-bend-left,Double bend (first to the left),Egymás utáni veszélyes útkanyarulatok (az első balra)
+A-004,warning,double-bend-right,Double bend (first to the right),Egymás utáni veszélyes útkanyarulatok (az első jobbra)
+A-005,warning,steep-descent,Steep descent,Veszélyes lejtő
+A-006,warning,steep-ascent,Steep ascent,Veszélyes emelkedő
+A-007,warning,road-narrows-both-sides,Road narrows (from both sides),Útszűkület (két oldalról)
+A-008,warning,road-narrows-left,Road narrows (from the left),Útszűkület (balról)
+A-009,warning,road-narrows-right,Road narrows (from the right),Útszűkület (jobbról)
+A-010,warning,movable-bridge,Movable bridge,Nyitható híd
+A-011,warning,quayside,Quayside or river bank,Rakpart vagy meredek part (veszély a jobb oldalon)
+A-012,warning,quayside-left,Quayside or river bank (on the left),Rakpart vagy meredek part (veszély a bal oldalon)
+A-013,warning,uneven-road,Uneven road,Egyenetlen úttest
+A-014,warning,speed-bump,Speed bump,Bukkanó
+A-015,warning,road-closed-ahead,Road closed ahead,Útzár
+A-016,warning,slippery-road,Slippery road,Csúszós úttest
+A-017,warning,loose-gravel,Loose gravel,Kavicsfelverődés
+A-018,warning,fallen-rocks-left,Fallen rocks (from the left),Kőomlás (balról)
+A-019,warning,fallen-rocks-right,Fallen rocks (from the right),Kőomlás (jobbról)
+A-020,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Gyalogos átkelés
+A-021,warning,children,Children,Gyermekek
+A-021a,warning,children-b,Children (variant b),Gyermekek
+A-022,warning,cyclists,Cyclists,Kerékpárosok
+A-023,warning,farm-animals,Farm animals,Háziállatok
+A-024,warning,wild-animals,Wild animals,Szabadon élő állatok
+A-025,warning,roadworks,Roadworks,Úton folyó munkák
+A-026,warning,traffic-signals,Traffic signals,Forgalomirányító fényjelző készülék
+A-027,warning,intersection,Intersection,Egyenrangú utak kereszteződése
+A-028,warning,crossroads-with-minor-road,Crossroads with a road without priority,Útkereszteződés alárendelt úttal (1)
+A-029,warning,side-road-left-minor,Side road on the left (without priority),Útkereszteződés alárendelt úttal (2)
+A-030,warning,side-road-right-minor,Side road on the right (without priority),Útkereszteződés alárendelt úttal (3)
+A-031,warning,side-road-left-minor-b,"Side road on the left (without priority, variant b)",Útkereszteződés alárendelt úttal (4)
+A-032,warning,side-road-right-minor-b,"Side road on the right (without priority, variant b)",Útkereszteződés alárendelt úttal (5)
+A-033,warning,side-road-left-minor-c,"Side road on the left (without priority, variant c)",Útkereszteződés alárendelt úttal (6)
+A-034,warning,side-road-right-minor-c,"Side road on the right (without priority, variant c)",Útkereszteződés alárendelt úttal (7)
+A-035,warning,staggered-junction-left-right,Staggered junction (first on the left),Útkereszteződés alárendelt úttal (8)
+A-036,warning,staggered-junction-right-left,Staggered junction (first on the right),Útkereszteződés alárendelt úttal (9)
+A-037,warning,two-way-traffic,Two-way traffic,Szembejövő forgalom
+A-038,warning,level-crossing-with-barriers,Level crossing with barriers,Sorompós vasúti átjáró
+A-039,warning,level-crossing-without-barriers,Level crossing without barriers,Sorompó nélküli vasúti átjáró
+A-040,warning,trams,Trams,Villamos
+A-041,warning,level-crossing-cross-single-track,Level crossing cross (single track),Egyvágányú vasúti átjáró
+A-042,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Két- vagy többvágányú vasúti átjáró
+A-045,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)","Vasúti átjáró előjelző (háromsávos, bal)"
+A-046,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)","Vasúti átjáró előjelző (háromsávos, jobb)"
+A-047,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)","Vasúti átjáró előjelző (kétsávos, bal)"
+A-048,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)","Vasúti átjáró előjelző (kétsávos, jobb)"
+A-049,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)","Vasúti átjáró előjelző (egysávos, bal)"
+A-050,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)","Vasúti átjáró előjelző (háromsávos, jobb)"
+A-051,warning,low-flying-aircraft,Low-flying aircraft,Mélyrepülés
+A-052,warning,crosswind,Crosswind,Oldalszél
+A-053,warning,danger,Other danger,Egyéb veszély
+A-054,warning,pedestrians,Pedestrians,Gyalogosok
+A-055,warning,tunnel-ahead,Tunnel ahead,Alagút
+A-056,warning,roundabout-ahead,Roundabout ahead,Körforgalom előjelzése
+A-057,warning,queues,Queues likely,Torlódás
+B-001,regulatory,give-way,Give way,Elsőbbségadás kötelező
+B-002,regulatory,stop,"Stop, give way",Állj! Elsőbbségadás kötelező
+B-003,information,priority-road,Priority road,Főútvonal
+B-004,information,end-of-priority-road,End of priority road,Főútvonal vége
+B-005,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,A szembejövő forgalom elsőbbsége
+B-006,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Elsőbbség a szembejövő forgalommal szemben
+C-001,regulatory,no-entry,No entry,Behajtani tilos
+C-002,regulatory,no-vehicles,No vehicles,Mindkét irányból behajtani tilos
+C-003,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,"Gépjárművel, mezőgazdasági vontatóval és lassú járművel behajtani tilos"
+C-004,regulatory,no-motorcycles,No entry for motorcycles,Motorkerékpárral behajtani tilos
+C-005,regulatory,no-bicycles,No entry for bicycles,Kerékpárral behajtani tilos
+C-006,regulatory,no-mopeds,No entry for mopeds,Segédmotoros kerékpárral behajtani tilos
+C-007,regulatory,no-goods-vehicles,No entry for goods vehicles,Tehergépkocsival behajtani tilos
+C-008,regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,Tehergépkocsi össztömeg-korlátozás (1)
+C-009,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Járműszerelvénnyel behajtani tilos
+C-010,regulatory,no-trailers-over-weight,No trailers over the weight shown,Pótkocsi össztömeg-korlátozás
+C-011,regulatory,no-goods-vehicles-over-weight-b,No goods vehicles over the weight shown (variant b),Tehergépkocsi össztömeg-korlátozás (2)
+C-012,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Veszélyes anyagot szállító járművel behajtani tilos
+C-013,regulatory,no-pedestrians,No entry for pedestrians,Gyalogosok közlekedése tilos
+C-014,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Állati erővel vont járművel behajtani tilos
+C-015,regulatory,no-handcarts,No entry for handcarts,Kézikocsival bemenni tilos
+C-016,regulatory,no-tractors,No entry for tractors,Mezőgazdasági vontatóval behajtani tilos
+C-017,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Robbanó- vagy tűzveszélyes anyagot szállító járművel behajtani tilos
+C-018,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Vízszennyező anyagot szállító járművel behajtani tilos
+C-019,regulatory,no-vehicles-shown,No entry for the vehicles shown,Kettős behajtási tilalom
+C-020,regulatory,no-vehicles-shown-three,No entry for the vehicles shown (three types),Hármas behajtási tilalom
+C-021,regulatory,maximum-width,Maximum width,Szélességkorlátozás
+C-022,regulatory,maximum-height,Maximum height,Magasságkorlátozás
+C-023,regulatory,maximum-weight,Maximum weight,Össztömeg-korlátozás (Súlykorlátozás)
+C-024,regulatory,maximum-axle-weight,Maximum axle weight,Tengelyterhelés-korlátozás
+C-025,regulatory,maximum-length,Maximum length,Hosszúságkorlátozás
+C-026,regulatory,minimum-distance,Minimum distance between vehicles,Legkisebb követési távolság
+C-027,regulatory,minimum-distance-goods-vehicles,Minimum distance between goods vehicles,Tehergépkocsik legkisebb követési távolsága
+C-028,regulatory,no-left-turn,No left turn,Balra bekanyarodni tilos
+C-029,regulatory,no-right-turn,No right turn,Jobbra bekanyarodni tilos
+C-030,regulatory,no-u-turn,No U-turn,Megfordulni tilos
+C-031,regulatory,no-overtaking,No overtaking,Előzni tilos
+C-032,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Tehergépkocsival előzni tilos
+C-033,regulatory,speed-limit,Speed limit,Sebességkorlátozás
+C-034,regulatory,customs-stop,Customs stop,"Kötelező megállás (vám, általános)"
+C-035,regulatory,customs-stop-german,Customs stop (in German),"Kötelező megállás (vám, német)"
+C-036,regulatory,customs-stop-slovak,Customs stop (in Slovak),"Kötelező megállás (vám, szlovák)"
+C-037,regulatory,customs-stop-ukrainian,Customs stop (in Ukrainian),"Kötelező megállás (vám, ukrán)"
+C-038,regulatory,customs-stop-romanian,Customs stop (in Romanian),"Kötelező megállás (vám, román)"
+C-039,regulatory,customs-stop-serbian-croatian-slovenian,"Customs stop (in Serbian, Croatian and Slovenian)","Kötelező megállás (vám, szerb, horvát, szlovén)"
+C-040,regulatory,stop-ferry-boarding,Stop (ferry boarding),"Kötelező megállás (komp, általános)"
+C-041,regulatory,police-check-stop,Police check stop,"Kötelező megállás (Rendőrség, általános)"
+C-042,regulatory,no-buses,No entry for buses and trolleybuses,Autóbusszal behajtani tilos
+C-043,regulatory,end-of-all-restrictions,End of all restrictions,Mozgó járművekre vonatkozó tilalmak vége
+C-044,regulatory,end-of-speed-limit,End of speed limit,Sebességkorlátozás vége
+C-045,regulatory,end-of-no-overtaking,End of no overtaking,Előzési tilalom vége
+C-046,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Tehergépkocsikra vonatkozó előzési tilalom vége
+C-047,regulatory,no-parking,No parking,Várakozni tilos
+C-048,regulatory,no-stopping,No stopping,Megállni tilos
+C-049,regulatory,toll-road-sign,Toll road,Útdíj
+D-001,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Kötelező haladási irány (egyenesen)
+D-002,regulatory,mandatory-direction-left,Mandatory direction (left),Kötelező haladási irány (balra)
+D-003,regulatory,mandatory-direction-right,Mandatory direction (right),Kötelező haladási irány (jobbra)
+D-004,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Kötelező haladási irány (egyenesen és balra)
+D-005,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Kötelező haladási irány (egyenesen és jobbra)
+D-006,regulatory,mandatory-direction-shift-right,"Mandatory direction (shift to the right, then straight)",Kötelező haladási irány (Z alakban megtört)
+D-007,regulatory,mandatory-direction-shift-left,"Mandatory direction (shift to the left, then straight)",Kötelező haladási irány (S alakban megtört)
+D-008,regulatory,turn-right,Turn right,Kötelező haladási irány (megtört jobb)
+D-009,regulatory,turn-left,Turn left,Kötelező haladási irány (megtört bal)
+D-010,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Kötelező haladási irány (balra és jobbra)
+D-011,regulatory,mandatory-direction-all,"Mandatory direction (straight ahead, left or right)",Kötelező haladási irány (balra + egyenesen + jobbra)
+D-012,regulatory,mandatory-u-turn,Mandatory U-turn,Kötelező haladási irány (megfordulás)
+D-013,regulatory,mandatory-direction-left-or-u-turn,Mandatory direction (left or U-turn),Kötelező haladási irány (balra és megfordulás)
+D-015,regulatory,pass-on-right,Pass on the right,Kikerülési irány (jobbra)
+D-014,regulatory,pass-on-left,Pass on the left,Kikerülési irány (balra)
+D-016,regulatory,pass-on-either-side,Pass on either side,Kikerülési irány (balra és jobbra)
+D-017,regulatory,roundabout,Roundabout,Körforgalom
+D-020,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,Kötelező haladási irány veszélyes anyagot szállító jármű részére (megtört jobb)
+D-019,regulatory,dangerous-goods-mandatory-direction-left,Mandatory direction for vehicles carrying dangerous goods (left),Kötelező haladási irány veszélyes anyagot szállító jármű részére (megtört bal)
+D-018,regulatory,dangerous-goods-mandatory-direction-straight,Mandatory direction for vehicles carrying dangerous goods (straight ahead),Kötelező haladási irány veszélyes anyagot szállító jármű részére (egyenesen)
+D-021,regulatory,minimum-speed,Minimum speed,Kötelező legkisebb sebesség
+D-022,regulatory,end-of-minimum-speed,End of minimum speed,Kötelező legkisebb sebesség vége
+D-023,regulatory,cycle-path,Cycle path,Kerékpárút
+D-024,regulatory,end-of-cycle-path,End of cycle path,Kerékpárút vége
+D-025,regulatory,footpath,Footpath,Gyalogút
+D-026,regulatory,end-of-footpath,End of footpath,Gyalogút vége
+D-027,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Gyalog- és kerékpárút (közös)
+D-028,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Gyalog- és kerékpárút vége (közös)
+D-029,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),"Gyalog- és kerékpárút (osztott, a gyalogos balról)"
+D-030,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),"Gyalog- és kerékpárút vége (osztott, a gyalogos balról)"
+D-031,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),"Gyalog- és kerékpárút (osztott, a gyalogos jobbról)"
+D-032,regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),"Gyalog- és kerékpárút vége (osztott, a gyalogos jobbról)"
+D-033,regulatory,snow-chains-required,Snow chains required,Hólánc használata kötelező
+D-034,regulatory,end-of-snow-chains-required,End of snow chains required,Hólánc használata kötelező vége
+D-037,regulatory,cyclists-mandatory-direction,Mandatory direction for cyclists,Kötelező haladási irány kerékpárosoknak
+D-038,regulatory,buses-mandatory-direction,Mandatory direction for buses,Kötelező haladási irány autóbuszoknak
+E-001,information,minimum-speed-limit-on-the-lane,Minimum speed limit on the lane,Kiegészítő sáv kezdete és legkisebb sebesség
+E-002,information,end-of-minimum-speed-limit-on-the-lane,End of minimum speed limit on the lane,Kiegészítő sáv kezdete és legkisebb sebesség vége
+E-003,information,minimum-speed-limit-on-lanes,Minimum speed limit on lanes,Különböző forgalmi sávokra érvényes kötelező legkisebb sebesség
+E-004,information,minimum-speed-limit-on-lanes-e-004,Minimum speed limit on lanes,Egy forgalmi sávra érvényes kötelező legkisebb sebesség
+E-005,information,bus-and-bicycle-lane,Bus and bicycle lane,Autóbusz és kerékpár forgalmi sáv kezdete
+E-006,regulatory,public-transport-lane,Public transport lane,Autóbusz forgalmi sáv kezdete
+E-007,regulatory,end-of-public-transport-lane,End of public transport lane,Autóbusz forgalmi sáv vége
+E-008,information,bicycle-lane,Bicycle lane,Kerékpársáv kezdete
+E-009,information,end-of-bicycle-lane,End of bicycle lane,Kerékpársáv vége
+E-010,information,separate-bicycle-lane,Separate bicycle lane,Kerékpárút kezdetének előjelzése
+E-011,information,end-of-separate-bicycle-lane,End of separate bicycle lane,Kerékpárút végének előjelzése
+E-012,information,one-way-road,One-way road,Egyirányú forgalmi út (1)
+E-013,information,one-way-traffic-on-side-street,One-way traffic on side street,Egyirányú forgalmi út (2)
+E-014,information,mandatory-direction-of-lanes,Mandatory direction of lanes,Besorolási rend (1)
+E-015,information,mandatory-direction-of-lanes-e-015,Mandatory direction of lanes,Besorolási rend (2)
+E-016,information,motorway,Motorway,Autópálya
+E-017,information,end-of-motorway,End of motorway,Autópálya vége
+E-018,information,expressway,Expressway,Autóút
+E-019,information,end-of-expressway,End of expressway,Autóút vége
+E-020,information,built-up-area,Built-up area,Lakott terület kezdete (1)
+E-021,information,end-of-built-up-area,End of built-up area,Lakott terület vége (1)
+E-022,information,built-up-area-b,Built-up area (variant b),Lakott terület kezdete (2)
+E-023,information,end-of-built-up-area-b,End of built-up area (variant b),Lakott terület vége (2)
+E-024,information,built-up-area-c,Built-up area (variant c),Lakott terület kezdete (3)
+E-025,information,end-of-built-up-area-c,End of built-up area (variant c),Lakott terület vége (3)
+E-026,regulatory,no-parking-zone,No parking zone,Korlátozott várakozási övezet
+E-027,regulatory,end-of-no-parking-zone,End of no parking zone,Korlátozott várakozási övezet vége
+E-028,regulatory,speed-limit-zone,Speed limit zone,Korlátozott sebességű övezet
+E-029,regulatory,end-of-speed-limit-zone,End of speed limit zone,Korlátozott sebességű övezet vége
+E-030,information,no-trucks-over-7-5-tons-zone,No trucks over 7.5 tons zone,Korlátozott forgalmú övezet
+E-031,information,end-of-no-trucks-over-7-5-tons-zone,End of no trucks over 7.5 tons zone,Korlátozott forgalmú övezet vége
+E-032,information,pedestrian-zone,Pedestrian zone,Gyalogos övezet
+E-033,information,end-of-pedestrian-zone,End of pedestrian zone,Gyalogos övezet vége
+E-034,regulatory,parking-zone,Parking zone,Várakozási övezet
+E-035,regulatory,end-of-parking-zone,End of parking zone,Várakozási övezet vége
+E-036,information,pedestrian-and-cycle-zone,Pedestrian and cycle zone,Gyalogos-kerékpáros övezet
+E-037,information,end-of-pedestrian-and-cycle-zone,End of pedestrian and cycle zone,Gyalogos-kerékpáros övezet vége
+E-038,information,pedestrian-crossing,Pedestrian crossing,Kijelölt gyalogos-átkelőhely
+E-039,information,bus-stop,"Bus, trolleybus or electric bus stop",Autóbusz-megállóhely
+E-040,information,trolleybus-stop,Trolleybus stop,Trolibusz-megállóhely
+E-041,information,tram-stop,Tram stop,Villamos-megállóhely
+E-042,information,taxi-rank,Taxi rank,Taxiállomás
+E-043,information,residential-zone,Residential zone,Lakó-pihenő övezet
+E-044,information,end-of-residential-zone,End of residential zone,Lakó-pihenő övezet vége
+E-045,information,services-hospital,Services (hospital),Kórház
+E-046,regulatory,parking,Parking,Várakozóhely
+E-047,information,parking-distance,Parking distance,Várakozóhely előjelzése
+E-048,information,parking-for-trucks,Parking for trucks,Várakozóhely (időleges)
+E-049,regulatory,parking-garage,Parking (car park building),Parkolóház
+E-050,information,roadside-cycle-path-begins,Roadside cycle path begins,Út melletti kerékpárút kezdete
+E-051,information,bicycle-path-next-to-the-road,Bicycle path next to the road,Út melletti kerékpárút
+E-052,information,end-of-roadside-cycle-path,End of roadside cycle path,Út melletti kerékpárút vége
+E-053,regulatory,park-and-ride,Park and ride,Parkolj és utazz
+E-054,regulatory,disabled-parking-place,Parking for disabled badge holders only,Mozgáskorlátozottak várakozóhelye
+E-060,information,lane-movement-ahead,Lane movement ahead,"Besorolási rend (3, kétsoros)"
+F-001,information,services-first-aid,Services (first aid),Elsősegély
+F-002,information,services-breakdown-service,Services (breakdown service),Műszaki segélyhely
+F-003,information,services-telephone,Services (telephone),Távbeszélő állomás
+F-004,information,services-filling-station,Services (filling station),Üzemanyagtöltő állomás
+F-005,information,services-hotel-or-motel,Services (hotel or motel),"Szálloda, motel"
+F-006,information,services-restaurant,Services (roadside restaurant),Étterem
+F-007,information,refreshment,Refreshment,Büfé
+F-008,information,hiking,Hiking,Gyalogutak (turistautak) kiindulási pontja
+F-009,information,services-tent-camp,Services (tent camp),Táborozásra kijelölt hely
+F-010,information,services-caravan-site,Services (caravan site),Lakókocsik számára kijelölt hely
+F-011,information,services-campsite,Services (campsite),Táborozásra és lakókocsik részére kijelölt hely
+F-012,information,services-youth-hostel,Services (youth hostel),Ifjúsági szállás
+F-013,information,services-traffic-radio,Services (traffic information radio),Közlekedési információkat adó rádióállomás
+F-014,information,services-toilets,Services (toilets),Nyilvános illemhely
+F-015,information,swimming-place,Swimming place,Fürdőhely
+F-016,information,filling-station-with-unleaded-fuel,Filling station with unleaded fuel,Ólmozatlan benzint is árusító üzemanyagtöltő állomás
+F-017,information,a-filling-station-selling-unleaded-gasoline-and-autogas,A filling station selling unleaded gasoline and autogas,Ólmozatlan benzint és autógázt is árusító üzemanyagtöltő állomás
+F-018,information,ship-station,Ship station,Hajóállomás
+F-019,information,railway-station,Railway station,Vasútállomás
+F-020,information,airport,Airport,Repülőtér
+F-021,information,services-information-point,Services (information point),Idegenforgalmi tájékoztatás
+F-022,information,chevron-left,Chevron (left),Iránytábla (balra)
+F-023,information,chevron-right,Chevron (right),Iránytábla (jobbra)
+F-024,information,chevron-left-f-024,Chevron (left),Négyzet alakú iránytábla (balra)
+F-025,information,chevron-right-f-025,Chevron (right),Négyzet alakú iránytábla (jobbra)
+F-026,information,vertical-chevron,Vertical chevron,Sávozott kettős iránytábla
+F-027,information,vertical-chevron-f-027,Vertical chevron,Sávozott terelőtábla (balra kerülendő)
+F-028,information,vertical-chevron-f-028,Vertical chevron,Sávozott terelőtábla (jobbra kerülendő)
+F-029,information,movable-bridge-or-ferry,Movable bridge or ferry,Nyitható híd
+F-030,information,police,Police,Rendőrség
+F-031,information,traffic-control,Traffic control,Közúti ellenőrzés
+F-035,information,narrow-chevron-left,Narrow chevron (left),Álló iránytábla (balra kerülendő)
+F-036,information,narrow-chevron-right,Narrow chevron (right),Álló iránytábla (jobbra kerülendő)
+F-037,information,social-internet-access-point,Social Internet access point,Közösségi internet hozzáférési pont
+G-001,information,left-lane-merges,Left lane merges,Bal oldali forgalmi sáv vége
+G-002,information,tunnel,Tunnel,Alagút
+G-003,information,recommended-speed,Recommended speed,Ajánlott sebesség
+G-004,information,end-of-recommended-speed,End of recommended speed,Ajánlott sebesség vége
+G-076,information,tabular-road-sign-on-a-local-road,Tabular road sign on a local road,"Táblázatos útirányjelző helyi úton, közvetett úti céllal, gyorsforgalmi útra való utalással"
+G-106,information,route-confirmation-sign-with-an-indirect-destination,Route confirmation sign with an indirect destination,Útvonal-megerősítő tábla közvetett úti céllal
+G-202,information,county-border-megye-obsolete,County border (Megye - obsolete),Megyehatár
+G-205,information,european-union-country-border,European Union country border,Európai Úniós országhatár (H)
+G-301,information,dead-end,Dead end,Zsákutca
+G-302,information,dead-end-except-cyclists,Dead end (passable for cyclists),Zsákutca kerékpáros továbbhaladással
+G-305,information,pedestrian-underpass-with-stairs,Pedestrian underpass (with stairs),Gyalogos aluljáró (lépcsővel)
+G-306,information,pedestrian-overpass-with-stairs,Pedestrian overpass (with stairs),Gyalogos felüljáró (lépcsővel)
+G-307,information,pedestrian-underpass-with-ramp,Pedestrian underpass (with ramp),Gyalogos aluljáró (rámpával)
+G-308,information,pedestrian-overpass-with-ramp,Pedestrian overpass (with ramp),Gyalogos felüljáró (rámpával)
+G-312,information,dead-end-on-side-street,Dead end on side street,Zsákutca előjelzése (1)
+G-313,information,dead-end-on-side-street-g-313,Dead end on side street,Zsákutca előjelzése (2)
+G-351,information,motorway-exit,Motorway exit,Autópálya-kijárat
+G-401,information,national-speed-limits,National speed limits (at the border),Általános sebességkorlátozás
+G-653,information,distance-till-cities-with-special-signs-for-border-crossings,Distance till cities (with special signs for border crossings or separate countries),Határátkelőhelyhez vezető út útvonal-megerősítő jelzése
+H-001,additional-panel,curved-main-road-90-left,Curved main road (90° left),Főútvonal vonalvezetése (1)
+H-002,additional-panel,curved-main-road-45-right,Curved main road (45° right),Főútvonal vonalvezetése (2)
+H-003,additional-panel,curved-main-road-90-right,Curved main road (90° right),Főútvonal vonalvezetése (3)
+H-004,additional-panel,curved-main-road-45-right-h-004,Curved main road (45° right),Főútvonal vonalvezetése (4)
+H-005,additional-panel,curved-main-road-90-left-h-005,Curved main road (90° left),Főútvonal vonalvezetése (5)
+H-006,additional-panel,curved-main-road-90-left-h-006,Curved main road (90° left),Főútvonal vonalvezetése (6)
+H-007,additional-panel,yield-to-curved-main-road,Yield to curved main road,Elsőbbséggel rendelkező út vonalvezetése (1)
+H-008,additional-panel,yield-to-curved-main-road-h-008,Yield to curved main road,Elsőbbséggel rendelkező út vonalvezetése (2)
+H-009,additional-panel,yield-to-curved-main-road-h-009,Yield to curved main road,Elsőbbséggel rendelkező út vonalvezetése (3)
+H-010,additional-panel,yield-to-curved-main-road-h-010,Yield to curved main road,Elsőbbséggel rendelkező út vonalvezetése (4)
+H-011,additional-panel,stop-right-of-way-is-mandatory-in-300m,"""Stop! Right of way is mandatory,"" in 300m","Állj Elsőbbségadás kötelező"" előjelzése"
+H-012,additional-panel,period-of-time,Period of time,Időszak
+H-013,additional-panel,two-periods-of-time,Two periods of time,Két Időszak
+H-014,additional-panel,days-of-the-week-and-period-of-time,Days of the week and period of time,Nap és időszak
+H-015,additional-panel,days-of-the-week-with-periods,Days of the week with periods,Napok időszakokkal
+H-016,additional-panel,period-of-time-in-hours,Period of time in hours,Időtartam
+H-017,additional-panel,distance-until-road-sign-enforced,Distance until road sign enforced,Távolság
+H-018,additional-panel,length-while-sign-is-enforced,Length while sign is enforced,Hosszúság
+H-019,additional-panel,length-and-distance,Length and distance,Hossz és távolság
+H-020,additional-panel,distance-and-direction,Distance and direction,Távolság és irány
+H-021,additional-panel,controlled-by-officer,Controlled by officer,Jelzőőr
+H-022,additional-panel,light-barrier,Light barrier,Fénysorompó
+H-023,additional-panel,prepare-to-stop-for-tram-passengers-crossing,Prepare to stop for tram passengers crossing,Járdasziget nélküli villamosmegálló
+H-024,additional-panel,a-tree-extending-into-a-hollow-section,A tree extending into a hollow section,Űrszelvénybe nyúló fa
+H-025,additional-panel,frogs,Frogs,Békák
+H-026,additional-panel,in-case-of-snowfall,In case of snowfall,Hóesés esetén
+H-027,additional-panel,in-case-of-rain,In case of rain,Eső esetén
+H-028,additional-panel,road-closure,Road closure,Útzár
+H-029,additional-panel,transverse-traffic,Transverse traffic,Keresztirányú közlekedés
+H-030,additional-panel,loose-shoulder-ditch,Loose shoulder / ditch,Veszélyes padka
+H-031,additional-panel,tracked-road-section,Tracked road section,Nyomvályús útszakasz
+H-032,additional-panel,multiplication,Multiplication,Többszöröződés
+H-033,additional-panel,traffic-order-change,Traffic order change,Forgalmi rend változás
+H-034,additional-panel,risk-of-accident,Risk of accident,Balesetveszély
+H-035,additional-panel,arrow-pointing-to-a-traffic-lane,Arrow pointing to a traffic lane,Forgalmi sávra mutató nyíl
+H-036,additional-panel,traffic-calming-central-island,Traffic calming central island,Forgalomcsillapító középsziget
+H-037,additional-panel,vertical-alignment,Vertical alignment,Merőleges felállás
+H-038,additional-panel,diagonal-alignment,Diagonal alignment,Ferde felállás
+H-039,additional-panel,parking-on-the-sidewalk-in-full-formation-left,Parking on the sidewalk in full formation (left),Járdán várakozás teljes felállással (bal)
+H-040,additional-panel,parking-on-the-sidewalk-in-full-formation-right,Parking on the sidewalk in full formation (right),Járdán várakozás teljes felállással (jobb)
+H-041,additional-panel,parking-on-the-sidewalk-with-a-half-wheel-left,Parking on the sidewalk with a half-wheel (left),Járdán várakozás félkerekkel (bal)
+H-042,additional-panel,parking-on-the-sidewalk-with-a-half-wheel-right,Parking on the sidewalk with a half-wheel (right),Járdán várakozás félkerekkel (jobb)
+H-043,additional-panel,parking-crosswise-on-the-sidewalk-in-full-formation-left,"Parking crosswise on the sidewalk, in full formation (left)","Járdán várakozás keresztben, teljes felállással (bal)"
+H-044,additional-panel,parking-crosswise-on-the-sidewalk-in-full-formation-right,"Parking crosswise on the sidewalk, in full formation (right)","Járdán várakozás keresztben, teljes felállással (jobb)"
+H-045,additional-panel,parking-crosswise-on-the-sidewalk-half-standing-left,"Parking crosswise on the sidewalk, half standing (left)","Járdán várakozás keresztben, félig felállással (bal)"
+H-046,additional-panel,parking-crosswise-on-the-sidewalk-half-standing-right,"Parking crosswise on the sidewalk, half standing (right)","Járdán várakozás keresztben, félig felállással (jobb)"
+H-047,additional-panel,number-of-taxis,… taxis,Taxik száma
+H-048,additional-panel,offending-vehicle-will-be-towed,Offending vehicle will be towed,Elszállítás
+H-049,additional-panel,for-disabled-people,For disabled people,Mozgáskorlátozottak részére
+H-050,additional-panel,parking-meter,Parking meter,Parkolóóra
+H-051,additional-panel,place-clock-in-dashboard-in-case-you-can-only-park-for-one,Place clock in dashboard (in case you can only park for one hour),Parkolótárcsa
+H-052,additional-panel,a-barrier-that-can-be-kept-closed-for-more-than-ten-minutes,A barrier that can be kept closed for more than ten minutes,10 percen túl is zárva tartható sorompó
+H-053,additional-panel,fee-payment-obligation,Fee payment obligation,Díjfizetési kötelezettség
+H-054,additional-panel,ticket-exchange-location,Ticket exchange location,Jegyváltás helye
+H-055,additional-panel,beginning-of-prohibition,Beginning of prohibition,Tilalom kezdete
+H-056,additional-panel,end-of-prohibition,End of prohibition,Tilalom vége
+H-057,additional-panel,the-centre-of-prohibition,The centre of prohibition,Tilalom közepe
+H-058,additional-panel,loading-area,Loading area,Rakodóterület
+H-059,additional-panel,diesel,Diesel,DIESEL
+H-060,additional-panel,car-gas,Car gas,Autógáz
+H-061,additional-panel,for-passenger-cars,For passenger cars,Személygépkocsik részére
+H-062,additional-panel,for-trucks,For trucks,Tehergépkocsik részére
+H-063,additional-panel,for-buses,For buses,Autóbuszok részére
+H-064,additional-panel,for-motorcycles,For motorcycles,Motorkerékpárok részére
+H-065,additional-panel,for-mopeds,For mopeds,Segédmotoros kerékpárok részére
+H-066,additional-panel,for-bicycles,For bicycles,Kerékpárok részére
+H-067,additional-panel,for-agricultural-tractors,For agricultural tractors,Mezőgazdasági vontatók részére
+H-068,additional-panel,for-tramways,For tramways,Villamosok részére
+H-069,additional-panel,for-trucks-with-trailers,For trucks with trailers,Pótkocsis tehergépkocsik részére
+H-070,additional-panel,for-off-road-passenger-cars,For off-road passenger cars,Utánfutós személygépkocsik részére
+H-071,additional-panel,for-semi-trailer-trucks,For semi-trailer trucks,Nyerges vontatók részére
+H-072,additional-panel,for-cars-with-caravans,For cars with caravans,Lakókocsis személygépkocsik részére
+H-073,additional-panel,for-caravans,For caravans,Lakókocsik részére
+H-074,additional-panel,for-camper-vans,For camper vans,Lakóautók részére
+H-075,additional-panel,for-heavy-trailers,For heavy trailers,Nehéz pótkocsik részére
+H-076,additional-panel,for-trolleybuses,For trolleybuses,Trolibuszok részére
+H-077,additional-panel,ro-la-transportation-of-trucks-by-rail,Ro-La (transportation of trucks by rail),Ro-La (tehergépkocsik vasúti szállítása)
+H-078,additional-panel,a-private-road,A private road,Magánút (1)
+H-079,additional-panel,except-for-delivery-of-goods,Except for delivery of goods,Kivéve áruszállítás
+H-080,additional-panel,except-for-destination-traffic,Except for destination traffic,Kivéve célforgalom
+H-081,additional-panel,except-for-public-transport-company,Except for [public transport company],Kivéve [tömegközlekedési vállalat]
+H-082,additional-panel,except-police,Except police,Kivéve rendőrség
+H-083,additional-panel,except-with-permission,Except with permission,Kivéve engedéllyel
+H-084,additional-panel,except-for-passenger-vehicles,Except for passenger vehicles,Kivéve személygépkocsi
+H-085,additional-panel,except-for-trucks,Except for trucks,Kivéve tehergépkocsi
+H-086,additional-panel,except-for-buses,Except for buses,Kivéve autóbusz
+H-087,additional-panel,except-for-motorcycles,Except for motorcycles,Kivéve motorkerékpár
+H-088,additional-panel,except-for-mopeds,Except for mopeds,Kivéve segédmotoros kerékpár
+H-089,additional-panel,except-for-bicycles,Except for bicycles,Kivéve kerékpár
+H-090,additional-panel,except-for-agricultural-vehicles,Except for agricultural vehicles,Kivéve mezőgazdasági vontató
+H-091,additional-panel,except-for-trams-tramway,Except for trams (tramway),Kivéve villamos
+H-092,additional-panel,except-for-trucks-with-trailers,Except for trucks with trailers,Kivéve pótkocsis tehergépkocsi
+H-093,additional-panel,except-for-personal-vehicles-with-trailers,Except for personal vehicles with trailers,Kivéve utánfutós személygépkocsi
+H-094,additional-panel,except-for-semi-trailer-trucks,Except for semi-trailer trucks,Kivéve nyerges vontató
+H-095,additional-panel,except-for-cars-with-caravans,Except for cars with caravans,Kivéve lakókocsis személygépkocsi
+H-096,additional-panel,except-for-caravans-trailers,Except for caravans (trailers),Kivéve lakókocsi
+H-097,additional-panel,except-for-caravans-vehicles,Except for caravans (vehicles),Kivéve lakóautó
+H-098,additional-panel,except-for-heavy-trailers,Except for heavy trailers,Kivéve nehéz pótkocsi
+H-099,additional-panel,except-for-disabled-people,Except for disabled people,Kivéve mozgáskorlátozottak
+H-100,additional-panel,except-for-trolleybuses,Except for trolleybuses,Kivéve trolibusz
+H-101,additional-panel,except-for-taxi,Except for taxi,Kivéve taxi
+H-102,additional-panel,direction-of-movement-of-pedestrians-left,Direction of movement of pedestrians (left),Gyalogosok haladási iránya (bal)
+H-103,additional-panel,direction-of-movement-of-pedestrians-right,Direction of movement of pedestrians (right),Gyalogosok haladási iránya (jobb)
+H-104,additional-panel,speed-reduction-rib,Speed reduction rib,Sebességcsökkentő borda
+H-105,additional-panel,tourist-destination-name,Tourist destination name,Idegenforgalmi úti cél
+H-106,additional-panel,branded-board,Branded board,Cégjeles tábla
+H-107,additional-panel,the-provision-of-the-railway-crossing-has-changed,The provision of the railway crossing has changed,A vasúti átjáró biztosítása megváltozott
+H-108,additional-panel,offending-vehicles-will-be-clamped,Offending vehicles will be clamped,Kerékbilincs
+H-109,additional-panel,stopping-waiting-on-the-bench-is-prohibited,Stopping (waiting) on the bench is prohibited,Padkán megállni (várakozni) tilos (1)
+H-110,additional-panel,stopping-waiting-on-the-bench-is-prohibited-h-110,Stopping (waiting) on the bench is prohibited,Padkán megállni (várakozni) tilos (2)
+H-111,additional-panel,priority-for-cyclists-crossing-the-road,Priority for cyclists crossing the road,Utat keresztező kerékpárosok elsőbbsége (1)
+H-112,additional-panel,priority-for-cyclists-crossing-the-road-h-112,Priority for cyclists crossing the road,Utat keresztező kerékpárosok elsőbbsége (2)
+H-113,additional-panel,priority-for-cyclists-crossing-the-road-h-113,Priority for cyclists crossing the road,Utat keresztező kerékpárosok elsőbbsége (3)
+H-114,additional-panel,covered-bicycle-storage,Covered bicycle storage,Fedett kerékpártároló
+H-115,additional-panel,two-way-bicycle-traffic,Two-way bicycle traffic,Kétirányú kerékpáros-forgalom
+H-116,additional-panel,two-way-bus-traffic,Two-way bus traffic,Kétirányú autóbuszforgalom
+H-118,additional-panel,two-way-bus-traffic-in-the-transverse-direction,Two-way bus traffic in the transverse direction,Keresztirányban kétirányú autóbuszforgalom
+H-119,additional-panel,crossing-bus-traffic-from-the-right,Crossing bus traffic from the right,Keresztirányban autóbuszforgalom jobbról
+H-120,additional-panel,crossing-bus-traffic-from-the-left,Crossing bus traffic from the left,Keresztirányban autóbuszforgalom balról
+H-121,additional-panel,two-way-bicycle-traffic-in-the-transverse-direction,Two-way bicycle traffic in the transverse direction,Keresztirányban kétirányú kerékpáros-forgalom
+H-122,additional-panel,crossing-bicycle-traffic-from-the-right,Crossing bicycle traffic from the right,Keresztirányban kerékpáros-forgalom jobbról
+H-123,additional-panel,bicycling-traffic-from-the-left-in-a-diagonal-direction,Bicycling traffic from the left in a diagonal direction,Keresztirányban kerékpáros-forgalom balról
+H-124,additional-panel,two-way-bus-and-bicycle-traffic-in-the-transverse-direction,Two-way bus and bicycle traffic in the transverse direction,Keresztirányban kétirányú autóbusz- és kerékpárosforgalom
+H-125,additional-panel,crossing-bus-and-bicycle-traffic-from-the-left,Crossing bus and bicycle traffic from the left,Keresztirányban autóbusz- és kerékpárosforgalom jobbról

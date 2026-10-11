@@ -232,6 +232,26 @@ class BetweenTest(unittest.TestCase):
         self.assertIn("between", parse.label)
 
 
+class NamedFilesTest(unittest.TestCase):
+    def test_code_from_the_file_name_and_name_from_the_caption(self):
+        page = """<gallery>
+File:MUTCD R1-6 (yellow).svg|R1-6<br>In-street [[pedestrian crossing]]{{efn|name="StateLaw"}}
+File:MUTCD R1-6.svg|R1-6<br>In-street pedestrian crossing
+File:MUTCD W16-11P.svg|W16-11P<br>{{abbr|HOV|High-occupancy vehicle}}
+File:MUTCD S3-2 (old).svg|School bus turn ahead
+File:Speed Limit 55 Minimum 30 sign.svg|Not a MUTCD file
+</gallery>"""
+        parse = parsers.named_files(r"MUTCD (?P<code>[A-Z]+\d.*)\.svg", caption_code=r"[A-Z]+\d\S*\s+", ignore=r"\(old\)")
+        entries, problems = parse(page)
+        self.assertEqual(problems, [])
+        self.assertEqual(
+            [(e.code, e.name) for e in entries],
+            [("R1-6 (yellow)", "In-street pedestrian crossing"), ("R1-6", "In-street pedestrian crossing"), ("W16-11P", "HOV")],
+        )
+        with self.assertRaises(ValueError):
+            parsers.named_files(r"MUTCD (.+)\.svg")
+
+
 class CorrectionsTest(unittest.TestCase):
     def test_a_correction_can_add_a_row_the_parser_could_not_read(self):
         with tempfile.TemporaryDirectory() as folder:

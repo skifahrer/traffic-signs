@@ -1,0 +1,11 @@
+{
+  "sign": "no-pedestrians",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R6-15",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R6-15.svg"
+  }
+}

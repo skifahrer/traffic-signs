@@ -2,10 +2,13 @@
   "en": "Stop, give way",
   "cs": "Stůj, dej přednost v jízdě!",
   "de": "Halt. Vorfahrt gewähren",
+  "de-AT": "Halt",
+  "en-AU": "Stop",
   "en-CA": "Stop",
   "en-GB": "Stop",
   "en-US": "Stop",
   "fr": "Stop",
+  "hu": "Állj! Elsőbbségadás kötelező",
   "pl": "stop",
   "sk": "Stoj, daj prednosť v jazde!"
 }

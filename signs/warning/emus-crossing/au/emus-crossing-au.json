@@ -1,0 +1,11 @@
+{
+  "sign": "emus-crossing",
+  "category": "warning",
+  "country": "au",
+  "code": "W5-45",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W5-45.svg"
+  }
+}

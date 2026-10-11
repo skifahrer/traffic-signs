@@ -1,0 +1,11 @@
+{
+  "sign": "lane-layout-merge",
+  "category": "information",
+  "country": "at",
+  "code": "§53 Z23b (1+2-1)",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Hinweiszeichen 23b 1+2-1.svg"
+  }
+}

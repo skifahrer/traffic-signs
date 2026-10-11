@@ -2,8 +2,11 @@
   "en": "No entry for buses and trolleybuses",
   "cs": "Zákaz vjezdu autobusů",
   "de": "Verbot für Kraftomnibusse",
+  "de-AT": "Fahrverbot für Autobusse",
+  "en-AU": "No Buses",
   "en-GB": "No buses",
   "fr": "Accès interdit aux véhicules de transport en commun de personnes",
+  "hu": "Autóbusszal behajtani tilos",
   "pl": "zakaz wjazdu autobusów",
   "sk": "Zákaz vjazdu pre (autobusy a trolejbusy)"
 }

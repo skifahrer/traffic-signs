@@ -1,0 +1,11 @@
+{
+  "sign": "modified-crossroad-intersection-left",
+  "category": "warning",
+  "country": "au",
+  "code": "W9-3-L",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W9-3-L.svg"
+  }
+}

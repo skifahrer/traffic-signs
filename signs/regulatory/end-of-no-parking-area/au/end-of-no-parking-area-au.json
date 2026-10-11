@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-parking-area",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R5-83",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R5-83.svg"
+  }
+}

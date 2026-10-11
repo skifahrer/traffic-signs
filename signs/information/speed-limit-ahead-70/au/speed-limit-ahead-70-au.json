@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit-ahead-70",
+  "category": "information",
+  "country": "au",
+  "code": "G9-79 (70)",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign G9-79 (70).svg"
+  }
+}

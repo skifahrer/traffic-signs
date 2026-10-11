@@ -1,0 +1,11 @@
+{
+  "sign": "side-road-intersection-from-left",
+  "category": "warning",
+  "country": "au",
+  "code": "W2-4-L",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W2-4-L.svg"
+  }
+}

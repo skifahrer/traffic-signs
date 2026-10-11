@@ -2,9 +2,12 @@
   "en": "Turn right",
   "cs": "Přikázaný směr jízdy zde vpravo",
   "de": "Vorgeschriebene Fahrtrichtung – rechts",
+  "de-AT": "Vorgeschriebene Fahrtrichtung: Rechts",
+  "en-AU": "Turn Right",
   "en-CA": "Right turn required",
   "en-US": "Right turn only",
   "fr": "Obligation de tourner à droite avant le panneau",
+  "hu": "Kötelező haladási irány (megtört jobb)",
   "pl": "nakaz jazdy w prawo przed znakiem",
   "sk": "Prikázaný smer odbočenia (tu vpravo)"
 }

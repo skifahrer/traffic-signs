@@ -1,8 +1,10 @@
 {
   "en": "No entry for motor vehicles or mopeds",
   "de": "Verbot für Kraftfahrzeuge",
+  "de-AT": "Fahrverbot für alle Kraftfahrzeuge",
   "en-GB": "No motor vehicles",
   "en-US": "No motorized vehicles",
   "fr": "Accès interdit à tous les véhicules à moteur",
+  "hu": "Gépjárművel, mezőgazdasági vontatóval és lassú járművel behajtani tilos",
   "pl": "zakaz wjazdu pojazdów silnikowych i motorowerów"
 }

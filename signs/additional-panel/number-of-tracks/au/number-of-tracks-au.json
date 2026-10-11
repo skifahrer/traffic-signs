@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-tracks",
+  "category": "additional-panel",
+  "country": "au",
+  "code": "W7-2-1",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W7-2-1.svg"
+  }
+}

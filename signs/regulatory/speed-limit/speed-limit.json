@@ -1,7 +1,9 @@
 {
   "en": "Speed limit",
   "cs": "Nejvyšší dovolená rychlost",
+  "de-AT": "Geschwindigkeits beschränkung (erlaubte Höchstgeschwindigkeit) von … km/h",
   "en-CA": "Maximum speed limit",
   "en-US": "Speed limit",
-  "fr": "Limitation de vitesse"
+  "fr": "Limitation de vitesse",
+  "hu": "Sebességkorlátozás"
 }

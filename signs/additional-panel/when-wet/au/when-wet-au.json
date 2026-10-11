@@ -1,0 +1,11 @@
+{
+  "sign": "when-wet",
+  "category": "additional-panel",
+  "country": "au",
+  "code": "W8-7",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign W8-7.svg"
+  }
+}
