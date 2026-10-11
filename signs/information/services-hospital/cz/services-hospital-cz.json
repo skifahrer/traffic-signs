@@ -4,9 +4,9 @@
   "country": "cz",
   "code": "IJ 2",
   "image": {
-    "file": "services-hospital-cz.jpg",
-    "sha1": "65d79f502eb92835454871628d66902e71ae43e0",
-    "source": "https://commons.wikimedia.org/wiki/File:IJ02cr.jpg",
+    "file": "services-hospital-cz.svg",
+    "sha1": "2affec32c30335ce47ebd0dda6e9357b1d5c4e97",
+    "source": "https://commons.wikimedia.org/wiki/File:IJ02cr.svg",
     "author": "Frisky007",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
@@ -14,6 +14,6 @@
   "source": {
     "pipeline": "cz-wikipedia",
     "page": "https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku",
-    "file": "IJ02cr.jpg"
+    "file": "IJ02cr.svg"
   }
 }

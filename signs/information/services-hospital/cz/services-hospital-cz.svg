@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="274.56" height="384" version="1.1" viewBox="0 0 274.56 384" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="275" height="385" ry="20" fill="#c4cccf" stroke-linecap="round"/>
+ <rect x="4" y="4" width="267" height="376" ry="23" fill="#fffefe" stroke="#014a8f" stroke-linecap="round" stroke-width="2.5"/>
+ <rect x="16" y="16" width="243" height="352" ry="13" fill="#014a8f"/>
+ <g fill="#fff">
+  <path d="m55 60h55v58h55v-58h55v156h-56v-59l-53-1v59h-57z" stroke-linecap="round"/>
+  <path id="path2827" d="m38 272v38h6v-21l8 21h5v-39h-6v21l-8-21h-5z" fill="#fff"/>
+  <path id="path2930" d="m80 310h-17v-39h17v6h-10v11h9v6h-9v10h10z" fill="#fff"/>
+  <path d="m85 310v-39h5l8 20 7-20h5l1 39h-7v-21l-5 14h-3l-4-14v21z"/>
+  <path d="m125 271c-5.54 0-10 4.46-10 10v19c0 5.54 4.46 10 10 10s10-4.46 10-10v-19c0-5.54-4.46-10-10-10zm0 6c1.662 0 3 1.561 3 3.5v20c0 1.939-1.338 3.5-3 3.5s-3-1.561-3-3.5v-20c0-1.939 1.338-3.5 3-3.5z"/>
+ </g>
+ <use transform="translate(124)" xlink:href="#path2827"/>
+ <use transform="translate(158)" xlink:href="#path2930"/>
+ <rect x="187" y="271" width="7" height="39" ry="0" fill="#fff"/>
+ <path id="rect3152" d="m208 271c-5.54 0-10 4.2424-10 9.5122v19.976c0 5.2698 4.46 9.5122 10 9.5122s10-4.2424 10-9.5122v-1.9024h-7v2.8537c0 3.0621-6 3.2804-6 0v-20.927c0-4.7561 6-4.7561 6 0v2.8537h7v-2.8537c0-5.2698-4.46-9.5122-10-9.5122z" fill="#fff"/>
+ <use transform="translate(-60 .5)" xlink:href="#rect3152"/>
+</svg>
