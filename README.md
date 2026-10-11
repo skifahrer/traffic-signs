@@ -111,6 +111,8 @@ python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
 | Slovakia (`sk`) | 837 | [Zoznam dopravných značiek na Slovensku](https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku) (Slovak Wikipedia, VL 6.1 / 6.3 / 6.4) | [`pipelines/countries/sk`](pipelines/countries/sk) |
 | United States (`us`) | 1,132 | [Road signs in the United States](https://en.wikipedia.org/wiki/Road_signs_in_the_United_States) (English Wikipedia, MUTCD) | [`pipelines/countries/us`](pipelines/countries/us) |
 
+Countries still to add, and in which order, are listed in [COUNTRIES.md](COUNTRIES.md).
+
 ## Pipelines
 
 Each country's signs come from a list on Wikipedia. One command syncs every
