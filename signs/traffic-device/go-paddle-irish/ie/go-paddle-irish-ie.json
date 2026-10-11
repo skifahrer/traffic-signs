@@ -1,0 +1,11 @@
+{
+  "sign": "go-paddle-irish",
+  "category": "traffic-device",
+  "country": "ie",
+  "code": "RUS 061 (Irish)",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-061T.svg"
+  }
+}

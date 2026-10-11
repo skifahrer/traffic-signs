@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit-20",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 065",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-065.svg"
+  }
+}

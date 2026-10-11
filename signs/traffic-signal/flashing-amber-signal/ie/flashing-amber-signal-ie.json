@@ -1,0 +1,11 @@
+{
+  "sign": "flashing-amber-signal",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "S 102",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal S 102 flashing amber signal.png"
+  }
+}

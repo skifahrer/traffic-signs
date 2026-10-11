@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-signal-head-3-aspects",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RPC 004",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RPC 004 3 aspect pedestrian signal.png"
+  }
+}

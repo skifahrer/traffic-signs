@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles-over-weight",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 015",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "Ireland road sign RUS 015.svg"
+  }
+}

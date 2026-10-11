@@ -1,0 +1,11 @@
+{
+  "sign": "directional-signal-head-straight",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 002 (straight)",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 002 straight.png"
+  }
+}

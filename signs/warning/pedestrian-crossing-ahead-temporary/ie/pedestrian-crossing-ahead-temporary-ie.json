@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-crossing-ahead-temporary",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 082",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-082.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-rejoin-at-crossover",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 021",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-021.svg"
+  }
+}

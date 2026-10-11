@@ -1,0 +1,11 @@
+{
+  "sign": "police-vehicles-only",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "F 261",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-261.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "lane-2-of-2-narrow-ahead",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 100",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-100.svg"
+  }
+}

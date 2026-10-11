@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-bicycle-road",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 068A",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-068A.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "another-train-coming",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 061",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-061.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "direction-and-distance-to-hazard",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 070",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-070 (flooding risk).svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "ice-panel",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 066",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-066.svg"
+  }
+}

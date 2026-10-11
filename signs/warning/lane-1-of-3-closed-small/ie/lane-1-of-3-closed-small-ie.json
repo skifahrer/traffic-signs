@@ -1,0 +1,11 @@
+{
+  "sign": "lane-1-of-3-closed-small",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 043A",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-043A.svg"
+  }
+}

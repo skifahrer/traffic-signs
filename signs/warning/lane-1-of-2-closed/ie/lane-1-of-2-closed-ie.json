@@ -1,0 +1,11 @@
+{
+  "sign": "lane-1-of-2-closed",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 041",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-041.svg"
+  }
+}

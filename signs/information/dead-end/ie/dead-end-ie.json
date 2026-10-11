@@ -1,0 +1,11 @@
+{
+  "sign": "dead-end",
+  "category": "information",
+  "country": "ie",
+  "code": "F 350",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-350.svg"
+  }
+}

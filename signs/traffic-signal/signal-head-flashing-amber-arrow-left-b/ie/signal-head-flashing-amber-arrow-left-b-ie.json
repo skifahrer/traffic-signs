@@ -1,0 +1,11 @@
+{
+  "sign": "signal-head-flashing-amber-arrow-left-b",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 004 (left turn alternative)",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 002 flashing amber left turn.png"
+  }
+}

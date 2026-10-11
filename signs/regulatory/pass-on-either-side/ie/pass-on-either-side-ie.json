@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-either-side",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 003",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-003.svg"
+  }
+}

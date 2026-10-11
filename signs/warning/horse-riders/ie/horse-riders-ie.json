@@ -1,0 +1,11 @@
+{
+  "sign": "horse-riders",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 150",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-150.svg"
+  }
+}

@@ -1,0 +1,438 @@
+code,category,slug,name_en,name_en-IE
+F 200,regulatory,parking,Parking,Parking
+F 202L,information,parking-direction,Direction to a parking place,Parking Direction
+F 203A,information,parking-direction-advance,Direction to a parking place (advance sign),Parking Advance Direction
+F 204,regulatory,disabled-parking-place,Parking for disabled badge holders only,Disabled Persons' Parking
+F 204a,information,parking-ev-charging,Parking with electric vehicle charging,e-Charging
+F 205,regulatory,bus-parking,Bus parking (during the times shown),Bus Parking
+F 206,information,bicycle-parking,Bicycle parking,Cycle Parking
+F 207R,information,direction-sign-showing-park-and-ride-facilities,Direction sign showing park-and-ride facilities,Park and Ride Direction
+F 208L,information,park-and-ride-direction-advance,Direction to park and ride (advance sign),Park and Ride Advance Direction
+F 210,information,services-hospital,Services (hospital),Hospital
+F 212,information,hospital-direction,Direction to a hospital,Hospital Direction Sign
+F 213,information,hospital-direction-advance,Direction to a hospital (advance sign),Hospital Advance Direction
+F 220,information,airport,Airport,Airport Repeater Sign
+F 221L,information,direction-to-airport,Direction to the airport,Airport Direction
+F 222A,information,airport-direction-advance,Direction to the airport (advance sign),Airport Advance Direction
+F 230L,information,railway-station-direction,Direction to a railway station,Station Direction
+F 231R,information,railway-station-direction-advance,Direction to a railway station (advance sign),Station Advance Direction
+F 260,information,police,Police,Garda Station
+F 261,regulatory,police-vehicles-only,Police vehicles only,Garda Only
+F 400,information,speed-limits-in-km-h,Speed limits are in kilometres per hour,Metric Speed Limit Information
+F 401,information,speed-limit-ahead-60,60 km/h Speed Limit Ahead,60 km/h Speed Limit Ahead
+F 402,information,speed-camera,Speed camera,Speed Camera Ahead
+F 402a,information,average-speed-check,Average speed check,Average Speed Zone
+F 402b,information,variable-speed-limit-zone,Variable speed limit zone,Variable Speed Limit Zone (motorway)
+F 403,regulatory,speed-limit-zone-30,Speed limit zone (30 km/h),Slow Zone
+F 300L,information,lane-gain-from-left,Additional lane joining from the left,Additional Lane Joining From Left (One to Two Lanes)
+F 301R,information,lane-gain-from-right,Additional lanes joining from the right,Additional Lanes Joining From Right (Two to Three Lanes)
+F 302L,information,lane-gain-from-left-left-lane-continues,Additional lanes joining from the left (left joining lane continues),Additional Lanes Joining From Left - Left Joining Lane Continues (Three to Four Lanes)
+F 303R,information,lane-gain-from-right-left-lane-continues,Additional lanes joining from the right (left joining lane continues),Additional Lanes Joining From Right - Left Joining Lane Continues (Two to Three Lanes)
+F 304L,information,lane-gain-from-left-left-lane-continues-b,"Additional lanes joining from the left (left joining lane continues, variant b)",Additional Lanes Joining From Left - Left Joining Lane Continues (Three to Four Lanes)
+F 305R,information,lane-gain-from-right-right-lane-continues,Additional lanes joining from the right (right joining lane continues),Additional Lanes Joining From Right - Right Joining Lane Continues (Two to Three Lanes)
+F 306L,information,lane-gain-from-left-right-lane-continues,Additional lanes joining from the left (right joining lane continues),Additional Lanes Joining From Left - Right Joining Lane Continues (Three to Four Lanes)
+F 308,information,lane-gain-in-200m,Lane gain in 200 m,"Lane Gain (Three to Four Lanes, 200 m)"
+F 324,information,lane-diverge,Lane diverge,Lane Diverge (Four Lanes)
+F 330,information,motorway,Motorway,Start of Motorway
+F 331,information,motorway-prohibitions,Motorway prohibitions,Motorway Prohibitions (English)
+F 331 (Irish),information,motorway-prohibitions-irish,Motorway prohibitions (in Irish),Motorway Prohibitions (Irish)
+F 332,information,motorway-ahead,Motorway ahead (with distance),Start of Motorway Ahead
+F 333,information,end-of-motorway,End of motorway,End of Motorway
+F 334,information,end-of-motorway-ahead,End of motorway ahead (with distance),End of Motorway Ahead
+F 340.1,information,exit-countdown-motorway-100m,Exit countdown on the motorway (100 m),"Countdown Marker (motorway, 100 m)"
+F 340.2,information,exit-countdown-motorway-200m,Exit countdown on the motorway (200 m),"Countdown Marker (motorway, 200 m)"
+F 340.3,information,exit-countdown-motorway-300m,Exit countdown on the motorway (300 m),"Countdown Marker (motorway, 300 m)"
+F 350,information,dead-end,Dead end,Cul-de-sac
+F 360,information,bus-lane-start,Start of bus lane,Start of Nearside With-Flow Bus Lane
+F 361,information,bus-lane-start-offside,Start of bus lane (offside),Start of Offside With-Flow Bus Lane
+F 362,information,bus-lane-continuous-two-lanes,Continuous bus lane (two lanes),Continuous Bus Lane (Two Lanes)
+F 500,information,high-vehicle-route-advance,Route for high vehicles (advance sign),High Vehicle Advance
+F 502L,information,high-vehicle-route-direction,Route for high vehicles (direction),High Vehicle Direction
+F 511L,information,heavy-vehicle-route-advance,Route for heavy vehicles (advance sign),Heavy Vehicle Advance Direction
+F 512R,information,heavy-vehicle-route-direction,Route for heavy vehicles (direction),Heavy Vehicle Direction
+F 700,information,toll-road,Toll road,Toll Road Ahead
+F 701,information,toll,Toll,Toll Plaza Ahead
+F 800,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)",Tunnel Information Sign
+F 801,regulatory,headlights-on,Switch on headlights,Turn Headlights On
+F 802,information,services-tunnel-traffic-radio,Services (tunnel traffic radio),Tunnel Radio Stations
+F 803,information,emergency-lay-by,Emergency lay-by,Emergency (Tunnel) Lay-by
+F 804,information,emergency-telephone-and-fire-extinguisher,Emergency telephone and fire extinguisher,Fire Extinguisher and Telephone
+F 805,information,emergency-telephone-fire-extinguisher-and-lay-by,"Emergency telephone, fire extinguisher and lay-by","Fire Extinguisher, Telephone and Lay-by"
+F 806,information,emergency-station,Emergency station,Emergency Station
+F 807,information,emergency-exit-right,Emergency exit (to the right),Pedestrian Exit
+F 901,information,tram-information-sign,Tram information sign,Tram Information Sign
+F 902,traffic-device,junction-definition-post,Junction definition post,Junction Definition Post
+F 903,regulatory,turn-back,Turn back (wrong way),Turn Back
+F 904,regulatory,authorised-vehicles-only,Authorised vehicles only,Authorised Vehicles Only
+F 905,information,location-reference-marker,Location reference marker,Location Reference Indicator Sign
+C 100,information,two-stage-right-turn-cyclists,Two-stage right turn for cyclists,Two-Stage Right Turn
+RUS 001,regulatory,pass-on-left,Pass on the left,Keep Left
+RUS 002,regulatory,pass-on-right,Pass on the right,Keep Right
+RUS 003,regulatory,pass-on-either-side,Pass on either side,Pass Either Side
+RUS 004,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Keep Straight Ahead
+RUS 005,regulatory,turn-right,Turn right,Turn Right
+RUS 006,regulatory,turn-left,Turn left,Turn Left
+RUS 007,regulatory,turn-left-ahead,Turn left ahead,Turn Left Ahead
+RUS 008,regulatory,turn-right-ahead,Turn right ahead,Turn Right Ahead
+RUS 009,regulatory,cycle-path,Cycle path,Pedal Cycles Only
+RUS 010,regulatory,no-stopping,No stopping,Clearway
+RUS 011,regulatory,no-straight-through,No straight through,No Straight Ahead
+RUS 012,regulatory,no-right-turn,No right turn,No Right Turn
+RUS 013,regulatory,no-left-turn,No left turn,No Left Turn
+RUS 014,regulatory,no-overtaking,No overtaking,No Overtaking
+RUS 015,regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,Maximum Gross Weight (Traffic Management)
+RUS 016,regulatory,maximum-height,Maximum height,Height Restriction
+RUS 017,regulatory,no-u-turn,No U-turn,No U-Turn
+RUS 018,regulatory,parking-permitted-times,Parking permitted (during the times shown),Parking Permitted
+RUS 019,regulatory,no-parking,No parking,No Parking
+RUS 020,information,taxi-rank,Taxi rank,Taxi Stand
+RUS 020a,regulatory,electric-vehicle-parking,Parking for electric vehicles,Electric Vehicle Parking Permitted
+RUS 021,regulatory,no-vehicles,No vehicles,Pedestrianised Street
+RUS 026,regulatory,give-way,Give way,Yield
+RUS 026 (Irish),regulatory,give-way-irish,Give way (in Irish),Géill Slí (Yield in Irish)
+RUS 026A,regulatory,give-way-cyclists,Give way (for cyclists),Yield Sign for Cyclists
+RUS 027,regulatory,stop,"Stop, give way",Stop
+RUS 028,regulatory,public-transport-lane,Public transport lane,Nearside With-flow Bus Lane
+RUS 029,regulatory,public-transport-lane-offside,Public transport lane (offside),Offside With-flow Bus Lane
+RUS 030,information,contraflow-bus-lane,Contraflow bus lane,Contra-Flow Bus Lane
+RUS 031,information,bus-stop,"Bus, trolleybus or electric bus stop",Bus Stop
+RUS 031 (circle),information,bus-stop-round,Bus stop (round sign),Bus Stop
+RUS 032,traffic-device,stop-paddle-children,"Stop, children (school crossing patrol sign)",School Warden
+RUS 032A,information,school-street,School street,School Street
+RUS 033,regulatory,tram-speed-limit,Speed limit (for trams),LRT Speed Limit
+RUS 034,regulatory,tram-stop-sign,Stop (for trams),LRT Stop
+RUS 035,regulatory,tram-give-way,Give way (for trams),LRT Yield
+RUS 036,regulatory,tram-lane,Tram lane,Nearside Tram Lane
+RUS 037,regulatory,tram-lane-offside,Tram lane (offside),Offside Tram Lane
+RUS 038,regulatory,no-pedestrians,No entry for pedestrians,No Pedestrians
+RUS 039,regulatory,speed-limit-120,Speed limit (120 km/h),Speed Limit (120 km/h)
+RUS 040,regulatory,speed-limit-100,Speed limit (100 km/h),Speed Limit (100 km/h)
+RUS 041,regulatory,speed-limit-80,Speed limit (80 km/h),Speed Limit (80 km/h)
+RUS 042,regulatory,speed-limit-60,Speed limit (60 km/h),Speed Limit (60 km/h)
+RUS 042A,regulatory,national-speed-limit,National speed limit applies,Rural Speed Limit
+RUS 043,regulatory,speed-limit-50,Speed limit (50 km/h),Speed Limit (50 km/h)
+RUS 044,regulatory,speed-limit-30,Speed limit (30 km/h),Speed Limit (30 km/h)
+RUS 046,regulatory,no-vehicles-over-number-of-axles,No vehicles with more than the number of axles shown,Prohibited Number of Axles
+RUS 047,regulatory,no-vehicles-over-number-of-axles-in-right-lane,No vehicles with more than the number of axles shown in the right-hand lane,Prohibited Axles in Right Hand Lane
+RUS 049,regulatory,mini-roundabout,Mini-roundabout,Mini Roundabout
+RUS 050,regulatory,no-entry,No entry,No Entry
+RUS 051,regulatory,no-goods-vehicles-over-length,No goods vehicles over the length shown,Maximum Vehicle Length
+RUS 052,regulatory,maximum-width,Maximum width,Maximum Vehicle Width
+RUS 053,regulatory,maximum-weight,Maximum weight,Maximum Gross Weight
+RUS 054,regulatory,maximum-axle-weight,Maximum axle weight,Maximum Axle Weight
+RUS 055,regulatory,no-bicycles,No entry for bicycles,No Cycles
+RUS 056,regulatory,no-riders,No entry for riders on animals,No Ridden or Accompanied Horses
+RUS 057,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,No Horse and Carts
+RUS 058,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Shared Route for Pedal Cycles and Pedestrians
+RUS 058CL,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Segregated Route for Pedal Cycles and Pedestrians (Cycle on Left)
+RUS 058CR,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Segregated Route for Pedal Cycles and Pedestrians (Cycle on Right)
+RUS 059,information,contraflow-bicycle-lane,Contraflow bicycle lane,Contra-flow Cycle Track
+RUS 059A,regulatory,contraflow-cycling-one-way-street,Contraflow cycling on a one-way street,Contra-flow Cycling on One Way Street
+RUS 059B,regulatory,contraflow-cycling-one-way-street-b,Contraflow cycling on a one-way street (variant b),Contra-flow Cycling on One Way Street
+RUS 060,traffic-device,stop-go-paddle,Stop paddle for alternating traffic,Stop (Manual Control)
+RUS 061,traffic-device,go-paddle,Go paddle (manual traffic control),Go (Manual Control)
+RUS 061 (Irish),traffic-device,go-paddle-irish,"Go paddle (manual traffic control, in Irish)",Téigh (Go in Irish; Manual Control)
+RUS 062,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,No Vehicles Carrying Explosives
+RUS 063,regulatory,no-parking-specified-events,No parking during specified events,Restriction on Parking – Specified Events
+RUS 064,regulatory,speed-limit-40,Speed limit (40 km/h),Speed Limit (40 km/h)
+RUS 065,regulatory,speed-limit-20,Speed limit (20 km/h),Speed Limit (20 km/h)
+RUS 066,information,pedestrian-crossing,Pedestrian crossing,Pedestrian Crossing
+RUS 067,information,pedestrian-and-cycle-crossing,Pedestrian and cycle crossing,Parallel/Combined Zebra Crossing
+RUS 068,information,bicycle-road,Bicycle road,Cycle Street
+RUS 068A,information,end-of-bicycle-road,End of bicycle road,End of Cycle Street
+RUS 070,information,shared-zone,Shared zone,Shared Zone
+RUS 070A,information,end-of-shared-zone,End of shared zone,End of Shared Zone
+W 001,warning,crossroads-with-minor-road,Crossroads with a road without priority,Crossroads
+W 002L,warning,side-road-left-minor,Side road on the left (without priority),Side Road - Left
+W 002R,warning,side-road-right-minor,Side road on the right (without priority),Side Road - Right
+W 003L,warning,t-junction-type-1-left,"T-junction, type 1 (left)",T-Junction (Type 1) - Left
+W 003R,warning,t-junction-type-1-right,"T-junction, type 1 (right)",T-Junction (Type 1) - Right
+W 004L,warning,t-junction-type-2-left,"T-junction, type 2 (left)",T-Junction (Type 2) - Left
+W 004R,warning,t-junction-type-2-right,"T-junction, type 2 (right)",T-Junction (Type 2) - Right
+W 005L,warning,y-junction-left,Y-junction (left),Y-Junction - Left
+W 005R,warning,y-junction-right,Y-junction (right),Y-Junction- Right
+W 006L,warning,crossroads-at-sharp-corner-left,Crossroads at a sharp corner (left),Crossroads at Sharp Corner - Left
+W 006R,warning,crossroads-at-sharp-corner-right,Crossroads at a sharp corner (right),Crossroads at Sharp Corner - Right
+W 007LR,warning,staggered-junction-left-right,Staggered junction (first on the left),Staggered Junctions - Left/Right
+W 007RL,warning,staggered-junction-right-left,Staggered junction (first on the right),Staggered Junctions - Right/Left
+W 008L,warning,double-side-roads-left,Double side roads (left),Two Junctions on Left
+W 008R,warning,double-side-roads-right,Double side roads (right),Two Junctions on Right
+W 009L,warning,side-road-intersection-from-right-on-a-curve-to-left,Side road intersection from right on a curve to left,Side Road on Outside of Bend - Left
+W 009R,warning,side-road-intersection-from-left-on-a-curve-to-right,Side road intersection from left on a curve to right,Side Road on Outside of Bend - Right
+W 010L,warning,side-road-intersection-from-left-on-a-curve-to-left,Side road intersection from left on a curve to left,Side Road on Inside of Bend - Left
+W 010R,warning,side-road-intersection-from-right-on-a-curve-to-right,Side road intersection from right on a curve to right,Side Road on Inside of Bend - Right
+W 011L,warning,curve-with-crossroad-left,Curve with crossroad (left),Crossroads on Bend - Left
+W 011R,warning,curve-with-crossroad-right,Curve with crossroad (right),Crossroads on Bend - Right
+W 012L,warning,side-road-on-dual-carriageway-with-gap-left,"Side road on a dual carriageway, with a gap in the central reserve (left)",Side Road on Dual C'way - Left (with CR Break)
+W 012R,warning,side-road-on-dual-carriageway-with-gap-right,"Side road on a dual carriageway, with a gap in the central reserve (right)",Side Road on Dual C'way - Right (with CR Break)
+W 013,warning,side-road-on-dual-carriageway,Side road on a dual carriageway (no gap in the central reserve),Side Road on Dual C'way - (No CR Break)
+W 014,warning,crossroads-on-dual-carriageway,Crossroads on a dual carriageway,Crossroads on Dual C'way
+W 015,warning,crossroads-major-road-ahead,Crossroads with a major road ahead,Crossroads (Major Road) Ahead
+W 016,warning,t-junction,T-junction,T Junction (Major Road) Ahead
+W 017L,warning,staggered-crossroads-major-road-ahead-left,Staggered crossroads with a major road ahead (left),Staggered Crossroads Ahead - Left
+W 017R,warning,staggered-crossroads-major-road-ahead-right,Staggered crossroads with a major road ahead (right),Staggered Crossroads Ahead - Right
+W 018L,warning,junction-with-major-road-at-sharp-corner-left,Junction with a major road at a sharp corner (left),Junction With Major Road at Sharp Corner - Left
+W 018R,warning,junction-with-major-road-at-sharp-corner-right,Junction with a major road at a sharp corner (right),Junction With Major Road at Sharp Corner - Right
+W 019,warning,crossroads-dual-carriageway-ahead,Crossroads with a dual carriageway ahead,Crossroads Ahead at Dual C'way
+W 020,warning,t-junction-dual-carriageway-ahead-with-gap,T-junction with a dual carriageway ahead (with a gap in the central reserve),T Junction Ahead at Dual C'way (With CR Break)
+W 021L,warning,staggered-crossroads-dual-carriageway-ahead-left,Staggered crossroads with a dual carriageway ahead (left),Staggered Crossroads Ahead at Dual C'way - Left
+W 021R,warning,staggered-crossroads-dual-carriageway-ahead-right,Staggered crossroads with a dual carriageway ahead (right),Staggered Crossroads Ahead at Dual C'way - Right
+W 022,warning,t-junction-dual-carriageway-ahead,T-junction with a dual carriageway ahead (no gap in the central reserve),T Junction Ahead at Dual C'way (No CR Break)
+W 030,warning,merging-traffic-from-left,Traffic merging from the left,Merging Traffic From Left
+W 031,warning,merging-with-traffic-on-right,Merging with traffic on the right,Merging with Traffic on Right
+W 032,warning,merging-and-diverging-traffic,Merging and diverging traffic,Merging and Diverging Traffic
+W 033,warning,loop-junction,Loop junction,Loop
+W 034,warning,compact-junction,Compact junction,Compact Junction
+W 040,warning,stop-ahead,Stop ahead,Stop Ahead
+W 041,warning,give-way-ahead,Give way ahead,Yield Ahead
+W 042,warning,traffic-signals,Traffic signals,Traffic Signals
+W 043,warning,roundabout-ahead,Roundabout ahead,Roundabout Ahead
+W 044,warning,mini-roundabout-ahead,Mini-roundabout ahead,Mini Roundabout Ahead
+W 050L,warning,sharp-bend-left,Turn (left),Sharp Corner - Left
+W 050R,warning,sharp-bend-right,Turn (right),Sharp Corner - Right
+W 051L,warning,bend-left,Bend (left),Sharp Bend - Left
+W 051R,warning,bend-right,Bend (right),Sharp Bend - Right
+W 052L,warning,double-sharp-bend-left,Reverse turn (left),Series of Sharp Corners - Left
+W 052R,warning,double-sharp-bend-right,Reverse turn (right),Series of Sharp Corners - Right
+W 053L,warning,winding-road-left,Winding road (left),Series of Sharp Bends - Left
+W 053R,warning,winding-road-right,Winding road (right),Series of Sharp Bends - Right
+W 061L,traffic-device,chevron-board-1-arrow-left,Chevron (left),Single Chevron - Left
+W 061R,traffic-device,chevron-board-1-arrow-right,Chevron (right),Single Chevron - Right
+W 062L,traffic-device,chevron-board-2-arrows-left,"Chevron board (2 arrows, left-pointing)",Multiple Chevrons (Two) - Left
+W 062R,traffic-device,chevron-board-2-arrows-right,"Chevron board (2 arrows, right-pointing)",Multiple Chevrons (Two) - Right
+W 063L,traffic-device,chevron-board-3-arrows-left,"Chevron board (3 arrows, left-pointing)",Multiple Chevrons (Three) - Left
+W 063R,traffic-device,chevron-board-3-arrows-right,"Chevron board (3 arrows, right-pointing)",Multiple Chevrons (Three) - Right
+W 070L,warning,road-narrows-left,Road narrows (from the left),Road Narrows on Left
+W 070R,warning,road-narrows-right,Road narrows (from the right),Road Narrows on Right
+W 071,warning,road-narrows-both-sides,Road narrows (from both sides),Road Narrows on Both Sides
+W 080,warning,two-way-traffic,Two-way traffic,Two-way Traffic
+W 081,warning,two-way-traffic-crossing,Two-way traffic on the route crossing ahead,Two-way Traffic Crossing
+W 082,warning,two-way-traffic-3-lane-one-lane-in-the-opposing-direction,"Two-way traffic (3-Lane, one lane in the opposing direction)","Three Lanes of Traffic (Two With, One Against)"
+W 083,warning,two-way-traffic-3-lane-two-lanes-in-the-opposing-direction,"Two-way traffic (3-Lane, two lanes in the opposing direction)","Three Lanes of Traffic (One With, Two Against)"
+W 091L,warning,left-lane-ends,Left lane ends,Lane Loss (Two to One Lane) - Left
+W 091R,warning,right-lane-ends,Right lane ends,Lane Loss (Two to One Lane) - Right
+W 092L,warning,lane-loss-3-to-2-lanes-left,"Lane loss, three to two lanes (left)",Lane Loss (Three to Two Lanes) - Left
+W 092R,warning,lane-loss-3-to-2-lanes-right,"Lane loss, three to two lanes (right)",Lane Loss (Three to Two Lanes) - Right (with 200m panel)
+W 093L,warning,lane-loss-4-to-3-lanes-left,"Lane loss, four to three lanes (left)",Lane Loss (Four to Three Lanes) - Left (with 400m panel)
+W 093R,warning,lane-loss-4-to-3-lanes-right,"Lane loss, four to three lanes (right)",Lane Loss (Four to Three Lanes) - Right
+W 094,warning,road-divides,Road divides,Road Divides
+W 095,warning,end-of-dual-carriageway,End of dual carriageway,Dual Carriageway Ends
+W 100,warning,passing-lane-start,Start of passing lane,Start of Passing Lane
+W 101,warning,one-lane-section,One-lane section (2+1 road),One-Lane Section
+W 102,warning,two-lane-section,Two-lane section (2+1 road),Two-Lane Section
+W 103,warning,climbing-lane-start,Start of climbing lane,Start of Climbing Lane
+W 105,warning,steep-descent,Steep descent,Steep Descent
+W 106,warning,steep-ascent,Steep ascent,Steep Ascent
+W 110,warning,low-bridge-ahead,Low headroom ahead,Restricted Headroom
+W 111,warning,overhead-power-lines,Overhead power lines,Overhead Electrical Cables
+W 112,warning,maximum-length-ahead,Maximum vehicle length ahead,Maximum Vehicle Length
+W 113,warning,maximum-width-ahead,Maximum width ahead,Maximum Vehicle Width
+W 114,warning,no-goods-vehicles-over-weight-ahead,No goods vehicles over the weight shown ahead,Maximum Gross Weight (Traffic Management)
+W 115,warning,maximum-weight-ahead,Maximum weight ahead,Maximum Gross Weight
+W 116,warning,maximum-axle-weight-ahead,Maximum axle weight ahead,Maximum Axle Weight
+W 117,warning,no-vehicles-over-number-of-axles-ahead,No vehicles with more than the number of axles shown ahead,Prohibited Number of Axles
+W 120,warning,level-crossing-signals,Light signals at a level crossing ahead,Level Crossing With Flashing Red Signals
+W 121,warning,level-crossing-with-barriers,Level crossing with barriers,Level Crossing With No Flashing Red Signals
+W 122.1L,warning,level-crossing-countdown-marker-1-bar,Level crossing countdown marker (1 bar),Level Crossing Countdown Marker (100 m)
+W 122.2L,warning,level-crossing-countdown-marker-2-bars,Level crossing countdown marker (2 bars),Level Crossing Countdown Marker (200 m)
+W 122.3L,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Level Crossing Countdown Marker (300 m)
+W 123,warning,level-crossing-grounding-risk,Risk of grounding at the level crossing,Risk of Grounding
+W 124,warning,trams,Trams,Tram Crossing
+W 125,warning,tram-speed,Tram Speed,Tram Advisory Speed
+W 126,warning,level-crossing-user-operated,Level crossing without signals (user-operated gates),Level Crossing with No Flashing Red Signal – User Operated
+W 130,warning,speed-bump,Speed bump,Road Hump
+W 131,warning,dip,Dip,Road Depression
+W 132,warning,hump-bridge,Hump bridge,Humpback Bridge
+W 133,warning,uneven-road,Uneven road,Uneven Road
+W 134,warning,slippery-road,Slippery road,Slippery Road
+W 135,warning,soft-verges,Soft verges,Soft Verge
+W 140,warning,pedestrians,Pedestrians,Pedestrians
+W 140A,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Pedestrians Crossing
+W 141,warning,school-ahead,School,School Ahead
+W 142,warning,children,Children,Children Crossing
+W 143,warning,cyclists,Cyclists,Cyclists
+W 144,warning,bicycle-slippery-when-wet-ahead,Bicycle slippery when wet ahead,Slippery for Cyclists
+W 145,warning,cyclists-dismount-ahead,Cyclists dismount ahead,Cyclists Dismount
+W 146,warning,pedestrians-and-cyclists,Pedestrians and Cyclists,Pedestrian/Cycle Crossing
+W 150,warning,horse-riders,Horse riders,Accompanied Horses
+W 151,warning,farm-animals,Farm animals,Cattle or Farm Animals
+W 152,warning,sheep,Sheep,Sheep
+W 153,warning,wild-animals,Wild animals,Deer or Wild Animals
+W 154,warning,horse-drawn-vehicles,Horse-drawn vehicles,Jaunting Cars
+W 160,warning,quayside,Quayside or river bank,Unprotected Water
+W 161,warning,ford,Ford,Ford
+W 162,information,tunnel,Tunnel,Tunnel
+W 163,warning,queues,Queues likely,Queues Likely
+W 164,warning,fallen-rocks,Fallen rocks,Falling Rocks
+W 165,warning,low-flying-aircraft,Low-flying aircraft,Low-flying Aircraft
+W 166,warning,crosswind,Crosswind,Crosswind
+W 167,warning,movable-bridge,Movable bridge,Opening Bridge
+W 168,warning,agricultural-vehicles,Agricultural vehicles,Tractors
+W 169,warning,drive-on-left,Drive on the left (entry point),Drive on Left (Entry Point)
+W 169A,warning,drive-on-left-repeater,Drive on the left (repeater),Drive on Left (Repeater)
+W 170,warning,danger,Other danger,Other Hazard
+W 183,traffic-device,closure-barrier-3-bars,Closure barrier (3 red bars),Barrier Board - 3 Bars
+W 184,traffic-device,closure-barrier-4-bars,Closure barrier (4 red bars),Barrier Board - 4 Bars
+W 185,traffic-device,closure-barrier-5-bars,Closure barrier (5 red bars),Barrier Board - 5 Bars
+WK 001,warning,roadworks,Roadworks,Roadworks Ahead
+WK 010,warning,one-lane-crossover-out,One-lane crossover (out),One-lane Crossover (Out)
+WK 011,warning,one-lane-crossover-back,One-lane crossover (back),One-lane Crossover (Back)
+WK 012,warning,single-lane-shift-left,Single lane shift (left),Move to Left (One Lane)
+WK 013,warning,single-lane-shift-right,Single lane shift (right),Move to Right (One Lane)
+WK 014,warning,double-lane-shift-left,Double lane shift (left),Move to Left (Two Lanes)
+WK 014A,warning,triple-lane-shift-left,Triple lane shift (left),Move to Left (Three Lanes)
+WK 015,warning,double-lane-shift-right,Double lane shift (right),Move to Right (Two Lanes)
+WK 015A,warning,triple-lane-shift-right,Triple lane shift (right),Move to Right (Three Lanes)
+WK 016,warning,obstruction-between-lanes,Obstruction between lanes,Obstruction Between Lanes
+WK 017,warning,end-of-obstruction-between-lanes,End of obstruction between lanes,End of Obstruction Between Lanes
+WK 018,warning,central-reserve-or-obstruction-start,Start of central reserve or obstruction,Start of Central Reserve or Obstruction
+WK 019,warning,central-reserve-or-obstruction-end,End of central reserve or obstruction,End of Central Reserve or Obstruction
+WK 020,warning,lanes-diverge-at-crossover,Lanes diverge at a crossover,Lanes Diverge at Crossover
+WK 021,warning,lanes-rejoin-at-crossover,Lanes rejoin at a crossover,Lanes Rejoin at Crossover
+WK 022,warning,two-lane-crossover-out,Two-lane crossover (out),Two-lane Crossover (Out)
+WK 023,warning,two-lane-crossover-back,Two-lane crossover (back),Two-lane Crossover (Back)
+WK 024,warning,merge-to-the-right,Merge to the right (left lane ends),Merge to the Right
+WK 030,warning,single-lane-shuttle-working,Single lane (shuttle working),Single Lane (for Shuttle Working)
+WK 031,warning,two-way-traffic-temporary,Two-way traffic (temporary),Two-way Traffic
+WK 032,warning,road-narrows-left-temporary,Road narrows from the left (temporary),Road Narrows on Left
+WK 033,warning,road-narrows-right-temporary,Road narrows from the right (temporary),Road Narrows on Right
+WK 034,warning,road-narrows-temporary,Road narrows (temporary),Road Narrows on Both Sides
+WK 035,warning,merging-traffic-from-left-temporary,Traffic merging from the left (temporary),Merging Traffic from Left
+WK 040,warning,lane-2-of-2-closed,Lane 2 of 2 closed,Lane 2 of 2 Closed (Level 3)
+WK 040A,warning,lane-2-of-2-closed-small,Lane 2 of 2 closed (small sign),Lane 2 of 2 Closed (Level 1)
+WK 041,warning,lane-1-of-2-closed,Lane 1 of 2 closed,Lane 1 of 2 Closed (Level 3)
+WK 041A,warning,lane-1-of-2-closed-small,Lane 1 of 2 closed (small sign),Lane 1 of 2 Closed (Level 1)
+WK 042,warning,lane-3-of-3-closed,Lane 3 of 3 closed,Lane 3 of 3 Closed (Level 3)
+WK 042A,warning,lane-3-of-3-closed-small,Lane 3 of 3 closed (small sign),Lane 3 of 3 Closed (Level 1)
+WK 043,warning,lane-1-of-3-closed,Lane 1 of 3 closed,Lane 1 of 3 Closed (Level 3)
+WK 043A,warning,lane-1-of-3-closed-small,Lane 1 of 3 closed (small sign),Lane 1 of 3 Closed (Level 1)
+WK 044,warning,lanes-2-and-3-of-3-closed,Lanes 2 and 3 of 3 closed,Lanes 2 & 3 of 3 Closed (Level 3)
+WK 044A,warning,lanes-2-and-3-of-3-closed-small,Lanes 2 and 3 of 3 closed (small sign),Lanes 2 & 3 of 3 Closed (Level 1)
+WK 045,warning,lanes-1-and-2-of-3-closed,Lanes 1 and 2 of 3 closed,Lanes 1 & 2 of 3 Closed (Level 3)
+WK 045A,warning,lanes-1-and-2-of-3-closed-small,Lanes 1 and 2 of 3 closed (small sign),Lanes 1 & 2 of 3 Closed (Level 1)
+WK 046,warning,lane-4-of-4-closed,Lane 4 of 4 closed,Lane 4 of 4 Closed (Level 3)
+WK 047,warning,lane-1-of-4-closed,Lane 1 of 4 closed,Lane 1 of 4 Closed (Level 3)
+WK 048,warning,lanes-3-and-4-of-4-closed,Lanes 3 and 4 of 4 closed,Lanes 3 & 4 of 4 Closed (Level 3)
+WK 049,warning,lanes-1-and-2-of-4-closed,Lanes 1 and 2 of 4 closed,Lanes 1 & 2 of 4 Closed (Level 3)
+WK 050,warning,side-road-left-temporary,Side road on the left (temporary),Side Road on Left
+WK 051,warning,side-road-right-temporary,Side road on the right (temporary),Side Road on Right
+WK 052,information,works-site-access,Works site access,Site Access
+WK 060,warning,traffic-signals-temporary,Traffic signals (temporary),Temporary Traffic Signals
+WK 061,warning,flagger-ahead-symbol-sign,Flagger ahead (symbol sign),Flagman Ahead
+WK 062,warning,queues-temporary,Queues likely (temporary),Queues Likely
+WK 070,warning,speed-bump-temporary,Hump or ramp (temporary),Hump or Ramp
+WK 071,warning,uneven-road-temporary,Uneven road (temporary),Uneven Surface
+WK 072,warning,slippery-road-temporary,Slippery road (temporary),Slippery Road
+WK 073,warning,loose-gravel,Loose gravel,Loose Chippings
+WK 074,warning,soft-verges-temporary,Soft verges (temporary),Soft Verge
+WK 080,warning,pedestrians-cross-to-left,Pedestrians cross to the left,Pedestrians Cross to Left
+WK 081,warning,pedestrians-cross-to-right,Pedestrians cross to the right,Pedestrians Cross to Right
+WK 082,warning,pedestrian-crossing-ahead-temporary,Pedestrian crossing ahead (temporary),Temporary Pedestrian Crossing
+WK 084,warning,cyclists-keep-left,Cyclists keep left,Cyclists Keep Left
+WK 085,warning,cyclists-keep-right,Cyclists keep right,Cyclists Keep Right
+WK 086,warning,cyclists-temporary,Cyclists (temporary),Cyclists
+WK 087,warning,bicycle-slippery-temporary,Slippery for cyclists (temporary),Slippery for Cyclists
+WK 090,information,detour-announcement,Detour announcement,Detour
+WK 091 (left),information,detour-arrow-left,Detour arrow (to the left),Diverted Traffic (Left)
+WK 091 (right),information,detour-arrow-right,Detour arrow (to the right),Diverted Traffic (Right)
+WK 091 (upper left),information,detour-arrow-upper-left,Detour arrow (ahead to the left),Diverted Traffic (Upper Left)
+WK 091 (upper right),information,detour-arrow-upper-right,Detour arrow (ahead to the right),Diverted Traffic (Upper Right)
+WK 091 (straight),information,detour-arrow-straight,Detour arrow (straight ahead),Diverted Traffic (Straight)
+WK 092,information,end-of-detour,End of detour,End of Detour
+WK 093,information,diversion-destination,Diversion for traffic to a destination,Detour Destination
+WK 094,regulatory,road-closed,Road closed,Road Closed
+WK 095,regulatory,stop-here-on-red,Stop here on red,Stop Here On Red
+WK 096,information,free-recovery,Free recovery service,Free Recovery
+WK 097,information,end-of-free-recovery,End of free recovery service,Free Recovery End
+WK 098,information,convoy-system-in-operation,Convoy system in operation,Convoy System in Operation
+WK 099,information,follow-me,Follow me (pilot vehicle),Follow Me
+WK 100,warning,lane-2-of-2-narrow-ahead,Lane 2 of 2 narrow ahead,Lane 2 of 2 Narrow (advance)
+WK 101,warning,lane-3-of-3-narrow-ahead,Lane 3 of 3 narrow ahead,Lane 3 of 3 Narrow (advance)
+WK 102,warning,lanes-2-and-3-of-3-narrow-ahead,Lanes 2 and 3 of 3 narrow ahead,Lanes 2 & 3 of 3 Narrow (advance)
+WK 105,warning,lane-2-of-2-narrow,Lane 2 of 2 narrow,Lane 2 of 2 Narrow
+WK 106,warning,lane-3-of-3-narrow,Lane 3 of 3 narrow,Lane 3 of 3 Narrow
+WK 107,warning,lanes-2-and-3-of-3-narrow,Lanes 2 and 3 of 3 narrow,Lanes 2 & 3 of 3 Narrow
+WK 110,warning,mobile-lane-closure-lane-2-of-2,Mobile lane closure (lane 2 of 2),Lane 2 of 2 Closed MLC
+WK 111,warning,mobile-lane-closure-lane-1-of-2,Mobile lane closure (lane 1 of 2),Lane 1 of 2 Closed MLC
+WK 112,warning,mobile-lane-closure-lane-3-of-3,Mobile lane closure (lane 3 of 3),Lane 3 of 3 Closed MLC
+WK 113,warning,mobile-lane-closure-lane-1-of-3,Mobile lane closure (lane 1 of 3),Lane 1 of 3 Closed MLC
+WK 114,warning,mobile-lane-closure-lanes-1-and-2-of-3,Mobile lane closure (lanes 1 and 2 of 3),Lanes 1 & 2 of 3 Closed MLC
+WK 115,warning,mobile-lane-closure-lanes-2-and-3-of-3,Mobile lane closure (lanes 2 and 3 of 3),Lanes 2 & 3 of 3 Closed MLC
+WK 116,warning,mobile-lane-closure-lane-4-of-4,Mobile lane closure (lane 4 of 4),Lane 4 of 4 Closed MLC
+WK 117,warning,mobile-lane-closure-lane-1-of-4,Mobile lane closure (lane 1 of 4),Lane 1 of 4 Closed MLC
+WK 118,warning,mobile-lane-closure-lanes-1-and-2-of-4,Mobile lane closure (lanes 1 and 2 of 4),Lanes 1 & 2 of 4 Closed MLC
+WK 119,warning,mobile-lane-closure-lanes-3-and-4-of-4,Mobile lane closure (lanes 3 and 4 of 4),Lanes 3 & 4 of 4 Closed MLC
+P 001,additional-panel,distance,Distance,Distance
+P 002,additional-panel,section-length,Length of section,Length
+P 003L,additional-panel,direction-arrow-left,Direction (pointing left),Direction - Left
+P 003R,additional-panel,direction-arrow-right,Direction (pointing right),Direction - Right
+P 004L,additional-panel,distance-and-direction,Distance and direction,Direction and Distance - Left
+P 004R,additional-panel,distance-and-direction-right,Distance and direction (right),Direction and Distance - Right
+P 005,additional-panel,both-directions-horizontal,Both directions (horizontal arrows),Both Ways
+P 010,additional-panel,end,End (plaque),End
+P 011,additional-panel,advisory-speed,Advisory Speed,Cautionary Speed
+P 040,additional-panel,reduce-speed-now,Reduce speed now,Reduce Speed Now
+P 041,additional-panel,light-rail-information-plate,Light rail information plate,LRT Information
+P 042,additional-panel,cycle-network-arrow,Cycle network arrow,Cycle Network Arrow
+P 050,additional-panel,except-buses,Except buses,Exceptions
+P 051,additional-panel,days-and-times,Days and times,Periods of Operation
+P 052,additional-panel,pedestrian-zone-times,Pedestrian zone (times and exceptions),Pedestrian Zone
+P 053,additional-panel,parking-disc-panel,Parking disc required,Parking
+P 054,additional-panel,km-h,Kilometres per hour,km/h
+P 055,additional-panel,24-hour-operation,24-hour operation,24-Hour Operation
+P 056,regulatory,no-parking-zone,No parking zone,Zonal No Parking
+P 057,additional-panel,time-limit,Time limit,Time Limit
+P 060,warning,oncoming-traffic-in-middle,Oncoming vehicles in the middle of the road,Oncoming Traffic
+P 061,additional-panel,another-train-coming,Another train coming (multiple track level crossing),Another Train Coming
+P 062,additional-panel,long-low-vehicles-phone-before-crossing,Long low vehicle drivers phone before crossing,Long Low Vehicles
+P 063,additional-panel,traffic-calming-ahead,Traffic calming ahead,Traffic Calming Ahead
+P 064,additional-panel,tram-track,Tram track,Tram Track
+P 065,additional-panel,oil-spill,Oil on road,Oil Spill
+P 066,additional-panel,ice-panel,Ice,Ice
+P 067,additional-panel,safe-headroom,Safe headroom,Safe Headroom
+P 068,additional-panel,turn-off-engine-when-stopped,Turn off engine when stopped,Turn Off Engine When Stopped
+P 069,additional-panel,flooding,Flooding,Hazard
+P 070,additional-panel,direction-and-distance-to-hazard,Direction and distance to the hazard,Hazard - Direction and Distance
+P 071,additional-panel,safe-overtaking-of-cyclists-1-5m,Safe overtaking distance for cyclists (1.5 m),Safe Overtaking of Cyclists 1.5m
+P 071a,additional-panel,safe-overtaking-of-cyclists-1m,Safe overtaking distance for cyclists (1.0 m),Safe Overtaking of Cyclists 1.0m
+P 072,additional-panel,distance-to-level-crossing,Distance to the level crossing,Train Level Crossing
+P 080,additional-panel,slow,Slow,Slow
+P 081,additional-panel,concealed-entrance,Concealed entrance,Concealed Entrance
+P 082,additional-panel,type-of-works,Type of works,Type of Works (used for sign WK 001)
+P 083,additional-panel,use-shoulder,Use the shoulder,Use Shoulder
+P 084,additional-panel,shoulder-closed,Shoulder closed,Shoulder Closed
+P 085,additional-panel,unfinished-road-surface,Unfinished road surface,Unfinished Road Surface
+P 086,additional-panel,on-slip-road,On the slip road,On Slip Road
+RTS 001,traffic-signal,signal-head,Signal head for vehicles,3 aspect standard traffic signal
+RTS 002 (green left turn),traffic-signal,signal-head-green-arrow-left,Signal head with a green arrow (left),Green left turn 3 aspect traffic signal
+RTS 002 (green straight),traffic-signal,signal-head-green-arrow-straight,Signal head with a green arrow (straight ahead),Green go straight 3 aspect traffic signal
+RTS 002 (green right turn),traffic-signal,signal-head-green-arrow-right,Signal head with a green arrow (right),Green right turn 3 aspect traffic signal
+RTS 002 (bus),traffic-signal,bus-signal-head,Signal head for buses,3 aspect bus traffic signal
+RTS 002 (U-turn),traffic-signal,directional-signal-head-u-turn,Directional signal head (U-turn),3 aspect U-turn traffic signal
+RTS 002 (left turn),traffic-signal,directional-signal-head-left,Directional signal head (left),3 aspect left turn traffic signal
+RTS 002 (straight),traffic-signal,directional-signal-head-straight,Directional signal head (straight ahead),3 aspect go straight traffic signal
+RTS 002 (right turn),traffic-signal,directional-signal-head-right,Directional signal head (right),3 aspect right turn traffic signal
+RTS 004 (left turn),traffic-signal,signal-head-flashing-amber-arrow-left,Signal head with a flashing amber arrow (left),3 aspect flashing amber left turn traffic signal (preferred)
+RTS 004 (right turn),traffic-signal,signal-head-flashing-amber-arrow-right,Signal head with a flashing amber arrow (right),3 aspect flashing amber right turn traffic signal (preferred)
+RTS 004 (left turn alternative),traffic-signal,signal-head-flashing-amber-arrow-left-b,"Signal head with a flashing amber arrow (left, variant b)",3 aspect flashing amber left turn traffic signal (alternative)
+RTS 004 (right turn alternative),traffic-signal,signal-head-flashing-amber-arrow-right-b,"Signal head with a flashing amber arrow (right, variant b)",3 aspect flashing amber right turn traffic signal (alternative)
+RTS 003 (green left turn 1),traffic-signal,signal-head-with-green-arrow-left,Signal head with green arrow (left),4 aspect traffic signal with green left turn
+RTS 003 (green left turn 2),traffic-signal,signal-head-with-green-arrow-left-b,"Signal head with green arrow (left, variant b)",4 aspect traffic signal with green left turn
+RTS 003 (green straight 1),traffic-signal,signal-head-with-green-arrow-straight,Signal head with green arrow (straight ahead),4 aspect traffic signal with green go straight
+RTS 003 (green straight 2),traffic-signal,signal-head-with-green-arrow-straight-b,"Signal head with green arrow (straight ahead, variant b)",4 aspect traffic signal with green go straight
+RTS 003 (green straight 3),traffic-signal,signal-head-with-green-arrow-straight-c,"Signal head with green arrow (straight ahead, variant c)",4 aspect traffic signal with green go straight
+RTS 003 (green right turn 1),traffic-signal,signal-head-with-green-arrow-right,Signal head with green arrow (right),4 aspect traffic signal with green right turn
+RTS 003 (green right turn 2),traffic-signal,signal-head-with-green-arrow-right-b,"Signal head with green arrow (right, variant b)",4 aspect traffic signal with green right turn
+RTS 003 (green straight and left turn 1),traffic-signal,signal-head-with-green-arrow-straight-and-left,Signal head with green arrow (straight ahead and left),4 aspect traffic signal with green left turn and go straight
+RTS 003 (green straight and left turn 2),traffic-signal,signal-head-with-green-arrow-straight-and-left-b,"Signal head with green arrow (straight ahead and left, variant b)",4 aspect traffic signal with green left turn and go straight
+RTS 003 (green straight and right turn 1),traffic-signal,signal-head-with-green-arrow-straight-and-right,Signal head with green arrow (straight ahead and right),4 aspect traffic signal with green right turn and go straight
+RTS 003 (green straight and right turn 2),traffic-signal,signal-head-with-green-arrow-straight-and-right-b,"Signal head with green arrow (straight ahead and right, variant b)",4 aspect traffic signal with green right turn and go straight
+RTS 003 (green bus 1),traffic-signal,signal-head-with-green-bus-aspect,Signal head with a green bus aspect,4 aspect traffic signal with green bus
+RTS 003 (green bus 2),traffic-signal,signal-head-with-green-bus-aspect-b,Signal head with a green bus aspect (variant b),4 aspect traffic signal with green bus
+RTS 013,traffic-signal,signal-head-with-bus-and-arrow-aspects,Signal head with bus and arrow aspects (5 aspects),5 aspect traffic signal with bus and arrow
+RPC 003,traffic-signal,pedestrian-signal-head,Pedestrian signal head,2 aspect pedestrian signal
+RPC 004,traffic-signal,pedestrian-signal-head-3-aspects,Pedestrian signal head (3 aspects),3 aspect pedestrian signal
+RTS 006,traffic-signal,cyclist-signal-head-2-aspects,Cyclist signal head (2 aspects),2 aspect cycle signal
+RTS 007,traffic-signal,cyclist-signal-head,Cyclist signal head,3 aspect cycle signal
+RTS 005,traffic-signal,level-crossing-light-signal,Level crossing light signal,Railway crossing signal
+S 102,traffic-signal,flashing-amber-signal,Flashing amber signal,Flashing amber signal

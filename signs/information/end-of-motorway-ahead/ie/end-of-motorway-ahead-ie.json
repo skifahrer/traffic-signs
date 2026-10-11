@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-motorway-ahead",
+  "category": "information",
+  "country": "ie",
+  "code": "F 334",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-334 (2km).svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-left-turn",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 013",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-013.svg"
+  }
+}

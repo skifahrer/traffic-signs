@@ -1,0 +1,11 @@
+{
+  "sign": "soft-verges",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 135",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-135.svg"
+  }
+}

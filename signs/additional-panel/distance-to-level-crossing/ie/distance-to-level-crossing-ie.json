@@ -1,0 +1,11 @@
+{
+  "sign": "distance-to-level-crossing",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 072",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-072-1.svg"
+  }
+}

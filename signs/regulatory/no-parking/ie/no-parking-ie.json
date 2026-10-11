@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 019",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-019-L-R.svg"
+  }
+}

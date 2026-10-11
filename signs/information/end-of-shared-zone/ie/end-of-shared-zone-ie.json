@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-shared-zone",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 070A",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-070A.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-3-arrows-right",
+  "category": "traffic-device",
+  "country": "ie",
+  "code": "W 063R",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-063-R.svg"
+  }
+}

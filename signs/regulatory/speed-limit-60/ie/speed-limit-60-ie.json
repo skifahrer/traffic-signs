@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit-60",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 042",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-042.svg"
+  }
+}
