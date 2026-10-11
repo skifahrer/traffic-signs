@@ -117,3 +117,32 @@ class VariantTest(SandboxTestCase):
         self.assertEqual(bend["variants"], ["bend-left"])
         self.assertEqual(left["variant_of"], "bend")
         self.assertNotIn("variant_of", bend)
+
+
+class SharePagesTest(SandboxTestCase):
+    def test_a_page_per_sign_and_category_with_preview_tags(self):
+        self.run_pipeline("--no-images")
+        meta_path = layout.sign_path("warning", "danger", "sk", "json")
+        with open(meta_path, encoding="utf-8") as handle:
+            meta = json.load(handle)
+        meta["image"] = {"file": "danger-sk.svg", "source": "https://commons.wikimedia.org/wiki/File:101_Nebezpe%C4%8Denstvo.svg"}
+        layout.write_json(meta_path, meta)
+        out = os.path.join(self.root, "_site")
+        build(out, "https://example.org/signs")
+
+        with open(os.path.join(out, "share", "warning", "danger", "index.html"), encoding="utf-8") as handle:
+            page = handle.read()
+        self.assertIn('<meta property="og:title" content="Other danger – Traffic signs" />', page)
+        self.assertIn('content="https://example.org/signs/share/warning/danger/"', page)
+        self.assertIn("Slovakia 101", page)
+        # A PNG that Commons renders from the SVG, linked directly.
+        self.assertRegex(page, r'og:image" content="https://upload\.wikimedia\.org/wikipedia/commons/thumb/\w/\w\w/101_Nebezpe%C4%8Denstvo\.svg/500px-101_Nebezpe%C4%8Denstvo\.svg\.png"')
+        self.assertIn('url=../../../#warning/danger"', page)
+
+        with open(os.path.join(out, "share", "warning", "index.html"), encoding="utf-8") as handle:
+            category = handle.read()
+        self.assertIn("Warning signs – Traffic signs", category)
+        self.assertIn('url=../../?type=warning"', category)
+        # A sign without an image on Commons has a preview without a picture.
+        with open(os.path.join(out, "share", "warning", "bend-left", "index.html"), encoding="utf-8") as handle:
+            self.assertNotIn("og:image", handle.read())
