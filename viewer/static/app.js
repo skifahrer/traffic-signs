@@ -11,6 +11,77 @@ const view = { signs: [], columns: [], shown: 0, groups: new Map() };
 
 const $ = (id) => document.getElementById(id);
 
+// Sharing: links point at share/… pages (built by `python3 -m viewer`), which
+// carry the title, description and picture that link previews show, and send
+// the visitor on to the sign or category here.
+const SITE = new URL(".", location.href);
+const signLink = (sign) => new URL(`share/${sign.category}/${sign.sign}/`, SITE).href;
+const categoryLink = (category) => new URL(`share/${category}/`, SITE).href;
+
+async function share(url, title) {
+  try {
+    if (navigator.share) {
+      await navigator.share({ title, url });
+      return;
+    }
+    await navigator.clipboard.writeText(url);
+    toast("Link copied");
+  } catch (error) {
+    if (error?.name === "AbortError") return; // the share sheet was closed
+    window.prompt("Copy this link:", url);
+  }
+}
+
+function toast(text) {
+  const note = $("toast");
+  note.textContent = text;
+  note.hidden = false;
+  clearTimeout(toast.timer);
+  toast.timer = setTimeout(() => (note.hidden = true), 2000);
+}
+
+function shareButton(label, url, title) {
+  const button = el("button", { type: "button", class: "share", title: label, "aria-label": label }, "Share");
+  button.addEventListener("click", (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    share(url, title);
+  });
+  return button;
+}
+
+// The filters live in the URL (?type=warning&q=bend&countries=sk,cz&shared=1),
+// so a filtered list can be bookmarked or shared as it is.
+function readUrl() {
+  const params = new URLSearchParams(location.search);
+  if (params.get("type") in data.categories) state.category = params.get("type");
+  state.query = (params.get("q") || "").trim();
+  state.shared = params.get("shared") === "1";
+  state.withdrawn = params.get("withdrawn") !== "0";
+  const wanted = (params.get("countries") || "").split(",").filter((c) => c in data.countries);
+  state.countries = new Set(wanted.length ? wanted : Object.keys(data.countries));
+}
+
+function writeUrl() {
+  const params = new URLSearchParams();
+  if (state.category) params.set("type", state.category);
+  if (state.query) params.set("q", state.query);
+  if (state.countries.size !== Object.keys(data.countries).length) params.set("countries", [...state.countries].join(","));
+  if (state.shared) params.set("shared", "1");
+  if (!state.withdrawn) params.set("withdrawn", "0");
+  const search = params.toString().replace(/%2C/g, ",");
+  const url = location.pathname + (search ? `?${search}` : "") + location.hash;
+  if (url !== location.pathname + location.search + location.hash) history.replaceState(history.state, "", url);
+}
+
+// What the share button in the header shares: a category's page when only
+// the type is chosen, else this page with its filters.
+function viewLink() {
+  const onlyCategory =
+    state.category && !state.query && !state.shared && state.withdrawn && state.countries.size === Object.keys(data.countries).length;
+  return onlyCategory ? categoryLink(state.category) : location.href.split("#")[0];
+}
+
 // Build DOM without innerHTML, so names from the data are never parsed as HTML.
 function el(tag, props = {}, ...children) {
   const node = document.createElement(tag);
@@ -115,6 +186,7 @@ const formatNumber = (n) => n.toLocaleString("en");
 
 // Start over for new filters: the first PAGE_SIZE matching signs.
 function render() {
+  writeUrl();
   view.columns = Object.keys(data.countries).filter((c) => state.countries.has(c));
   const matching = data.signs.filter(matches);
   // Display order: category by category, as listed in data.categories.
@@ -154,7 +226,15 @@ function groupFor(category) {
       el(
         "section",
         { class: "group" },
-        el("h2", {}, data.categories[category] || category, " ", el("small", {}, `(${formatNumber(total)})`)),
+        el(
+          "h2",
+          {},
+          data.categories[category] || category,
+          " ",
+          el("small", {}, `(${formatNumber(total)})`),
+          " ",
+          shareButton(`Share ${data.categories[category] || category}`, categoryLink(category), data.categories[category] || category),
+        ),
         table,
       ),
     );
@@ -227,7 +307,7 @@ function detail(sign) {
   const link = (s) => el("a", { href: `#${s.category}/${s.sign}` }, englishName(s));
   const variants = (sign.variants || []).map((slug) => signAt(sign.category, slug)).filter(Boolean);
   return [
-    el("h2", { id: "detail-title" }, englishName(sign)),
+    el("div", { class: "detail-head" }, el("h2", { id: "detail-title" }, englishName(sign)), shareButton(`Share ${englishName(sign)}`, signLink(sign), englishName(sign))),
     el("p", { class: "muted" }, `${data.categories[sign.category] || sign.category} · `, el("code", {}, sign.sign)),
     parent && el("p", { class: "muted" }, "Variant of ", link(parent)),
     variants.length > 0 && el("p", { class: "muted variants" }, "Variants: ", variants.flatMap((v, i) => (i ? [", ", link(v)] : [link(v)]))),
@@ -259,8 +339,13 @@ function setupControls() {
   const category = $("category");
   category.append(
     el("option", { value: "" }, "All types"),
-    Object.entries(data.categories).map(([value, label]) => el("option", { value }, label)),
+    ...Object.entries(data.categories).map(([value, label]) => el("option", { value }, label)),
   );
+  category.value = state.category;
+  $("search").value = state.query;
+  $("shared").checked = state.shared;
+  $("withdrawn").checked = state.withdrawn;
+  $("share-view").addEventListener("click", () => share(viewLink(), document.title));
   category.addEventListener("change", () => {
     state.category = category.value;
     render();
@@ -268,8 +353,7 @@ function setupControls() {
 
   const chips = $("countries");
   for (const code of Object.keys(data.countries)) {
-    state.countries.add(code);
-    const box = el("input", { type: "checkbox", checked: true, value: code });
+    const box = el("input", { type: "checkbox", checked: state.countries.has(code), value: code });
     box.addEventListener("change", () => {
       box.checked ? state.countries.add(code) : state.countries.delete(code);
       render();
@@ -376,6 +460,7 @@ async function start() {
   }
   for (const sign of data.signs) signsByKey.set(`${sign.category}/${sign.sign}`, sign);
   $("loading").hidden = true;
+  readUrl();
   setupControls();
   setupInfiniteScroll();
   render();

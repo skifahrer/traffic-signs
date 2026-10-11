@@ -124,7 +124,7 @@ def _natural(slug: str) -> list:
 THUMBNAIL_WIDTH = 320  # px; the detail view shows images up to about 11rem high
 
 
-def thumbnail_url(source: str | None) -> str | None:
+def thumbnail_url(source: str | None, width: int = THUMBNAIL_WIDTH) -> str | None:
     """The wiki's rendering of a file as a web image, from its description page URL.
 
     https://commons.wikimedia.org/wiki/File:X.tif → …/wiki/Special:FilePath/X.tif?width=320
@@ -132,7 +132,7 @@ def thumbnail_url(source: str | None) -> str | None:
     if not source or "/wiki/File:" not in source:
         return None
     site, name = source.split("/wiki/File:", 1)
-    return f"{site}/wiki/Special:FilePath/{quote(name, safe='%')}?width={THUMBNAIL_WIDTH}"
+    return f"{site}/wiki/Special:FilePath/{quote(name, safe='%')}?width={width}"
 
 
 def _country_entry(category: str, slug: str, country: str, meta: dict) -> dict:

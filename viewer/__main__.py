@@ -3,8 +3,9 @@
     python3 -m viewer                 # build into _site/
     python3 -m viewer --serve         # build, then serve on http://localhost:8000
 
-_site/ gets the static page (viewer/static), data.json (see index.py) and a
-copy of signs/ for the images.
+_site/ gets the static page (viewer/static), data.json (see index.py), a
+copy of signs/ for the images, and share/, a page per sign and per category
+for link previews (see share.py).
 
 Each build stamps its files with a version (a hash of their content):
 index.html asks for `app.js?v=…` and `style.css?v=…`, and app.js for
@@ -25,11 +26,12 @@ import shutil
 from pipelines.core import layout
 
 from .index import build_index
+from .share import DEFAULT_SITE_URL, write_share_pages
 
 STATIC = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static")
 
 
-def build(out: str) -> dict:
+def build(out: str, site_url: str = DEFAULT_SITE_URL) -> dict:
     if os.path.isdir(out):
         shutil.rmtree(out)
     shutil.copytree(STATIC, out)
@@ -37,6 +39,7 @@ def build(out: str) -> dict:
     index = build_index()
     with open(os.path.join(out, "data.json"), "w", encoding="utf-8") as handle:
         json.dump(index, handle, ensure_ascii=False, separators=(",", ":"))
+    write_share_pages(index, out, site_url)
     # data.json first, so the version of app.js covers the data it asks for.
     _stamp(out, "app.js", 'fetch("data.json")', f'fetch("data.json?v={_version(out, "data.json")}")')
     _stamp(out, "index.html", 'href="style.css"', f'href="style.css?v={_version(out, "style.css")}"')
@@ -64,9 +67,14 @@ def main(argv: list[str] | None = None) -> None:
     parser.add_argument("--out", default=os.path.join(layout.REPO_ROOT, "_site"), help="output folder (default: _site)")
     parser.add_argument("--serve", action="store_true", help="serve the result on http://localhost:8000")
     parser.add_argument("--port", type=int, default=8000)
+    parser.add_argument(
+        "--site-url",
+        default=os.environ.get("SITE_URL") or DEFAULT_SITE_URL,
+        help=f"where the site is published, for the links in share pages (default: $SITE_URL or {DEFAULT_SITE_URL})",
+    )
     args = parser.parse_args(argv)
 
-    index = build(args.out)
+    index = build(args.out, args.site_url)
     print(f"Built {args.out}: {len(index['signs'])} signs, countries {', '.join(index['countries']) or 'none'}")
     if args.serve:
         handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=args.out)
