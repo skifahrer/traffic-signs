@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-6-2",
+  "image": {
+    "file": "distance-in-metres-plaque-au.svg",
+    "sha1": "45ba6b58e2eeb3ba16076f854d43454b8b221952",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-6-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

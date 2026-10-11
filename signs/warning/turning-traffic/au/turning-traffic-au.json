@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-25N",
+  "image": {
+    "file": "turning-traffic-au.svg",
+    "sha1": "a9fe15ddf8d207641ae05952d4de45c2eb7a69c7",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-25N.svg",
+    "author": "FOX 52",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

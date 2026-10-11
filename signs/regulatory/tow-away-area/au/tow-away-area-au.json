@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-39",
+  "image": {
+    "file": "tow-away-area-au.svg",
+    "sha1": "540a00233887d4c385396aedf0a20b9a53a17e46",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-39.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

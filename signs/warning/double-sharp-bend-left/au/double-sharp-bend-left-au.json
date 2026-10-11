@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-2-L",
+  "image": {
+    "file": "double-sharp-bend-left-au.svg",
+    "sha1": "d4eb0f4842c98bbeaa13bbd5192b182de1b9fde4",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-2-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

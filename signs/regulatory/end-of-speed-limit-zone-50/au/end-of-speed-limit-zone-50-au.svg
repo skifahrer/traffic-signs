@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="606mm"
+   height="1006mm"
+   viewBox="0 0 606 1006"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Australia_road_sign_R4-11_(40).svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1509.2857"
+     inkscape:cy="1733.6349"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text25"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,709)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:157.30535889;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="604"
+       height="1004"
+       x="1"
+       y="-708"
+       rx="77"
+       ry="77" />
+    <rect
+       ry="75"
+       rx="75"
+       y="-706"
+       x="3"
+       height="1000"
+       width="600"
+       id="rect12"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:156.47099304;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:66.86671448;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path831"
+       cx="303"
+       cy="-188"
+       r="213" />
+    <circle
+       r="171"
+       cy="-188"
+       cx="303"
+       id="circle833"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:53.68172836;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       aria-label="AREA"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:201.49253845px;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.03731346"
+       id="text890"
+       transform="translate(-266.11905,81.666668)">
+      <path
+         d="m 431.49665,145.33333 -13.2985,-37.8806 h -42.112 l -13.2985,37.8806 h -22.7686 l 46.5447,-134.999992 h 21.1567 l 46.5448,134.999992 z m -34.0523,-97.522382 -13.903,37.8806 h 27 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.03731346"
+         id="path892"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 543.40055,145.33333 -21.7612,-58.835812 h -25.5896 v 58.835812 h -21.3582 V 10.333338 h 44.5299 q 7.8582,0 13.5,1.00746 5.6418,0.80597 10.6791,3.22388 4.4328,2.21642 8.0597,5.84329 3.8283,3.42537 6.4477,8.0597 2.8209,4.43283 4.2314,9.67164 1.6119,5.03731 1.6119,10.07463 0,5.4403 -1.6119,10.6791 -1.4105,5.03731 -4.2314,9.67164 -2.6194,4.43284 -6.6492,8.0597 -3.8284,3.62687 -8.4627,5.6418 l 23.7761,63.067152 z m -1.0075,-97.119392 q 0,-4.23135 -2.2164,-8.05971 -2.2164,-3.82835 -6.2463,-6.04477 -2.6194,-1.41045 -4.8358,-1.81343 -2.2164,-0.60448 -7.4552,-0.60448 h -25.5896 v 33.04477 h 25.5896 q 5.0373,0 7.2537,-0.40298 2.4179,-0.40299 5.0373,-1.81343 4.0299,-2.21642 6.2463,-6.04478 2.2164,-4.02985 2.2164,-8.26119 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.03731346"
+         id="path894"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 589.21175,145.33333 V 10.333338 h 79.5896 v 21.35821 h -58.2314 v 33.04477 h 39.2911 v 21.7612 h -39.2911 v 37.074622 h 62.4627 v 21.76119 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.03731346"
+         id="path896"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 775.45065,145.33333 -13.2985,-37.8806 h -42.1119 l -13.2985,37.8806 h -22.7687 l 46.5448,-134.999992 h 21.1567 l 46.5448,134.999992 z m -34.0522,-97.522382 -13.903,37.8806 h 27 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.03731346"
+         id="path898"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="END"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.80596924px;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.97014904"
+       id="text903"
+       transform="translate(3,-3.000002)">
+      <path
+         d="m 108.9,-469.99994 v -160 h 94.32835 v 25.31343 h -69.01492 v 39.16418 h 46.56716 v 25.79105 h -46.56716 v 43.9403 h 74.02985 v 25.79104 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;stroke:none;stroke-width:5.97014904"
+         id="path905"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 321.74702,-469.99994 -61.13433,-108.41791 v 108.41791 h -25.31344 v -160 h 25.31344 l 58.26865,102.20896 v -102.20896 h 25.31344 v 160 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;stroke:none;stroke-width:5.97014904"
+         id="path907"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 491.10045,-550.23875 q 0,24.11941 -7.403,42.50747 -7.1642,18.14925 -20.7761,28.65671 -4.5374,4.29851 -10.7463,6.44776 -5.9702,2.14926 -12.1791,2.62687 h -9.0746 -48.71646 v -160 h 51.58206 q 5.9702,0 10.2687,0.47761 4.5373,0.23881 8.1194,1.19403 3.5821,0.95523 6.4477,2.62687 2.8657,1.67164 6.209,4.0597 12.6567,10.98507 19.3433,29.37313 6.9254,18.14926 6.9254,42.02985 z m -25.7911,0 q 0,-16.2388 -3.5821,-28.89552 -3.3433,-12.65671 -9.3134,-18.86567 -3.1045,-2.86567 -7.1642,-4.77612 -4.0597,-1.91045 -9.0746,-1.91045 h -28.65672 v 108.89553 h 25.31342 q 6.209,0 10.2687,-1.43284 4.2985,-1.43284 7.6418,-4.77612 7.1641,-7.16418 10.7462,-19.58209 3.8209,-12.65672 3.8209,-28.65672 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;stroke:none;stroke-width:5.97014904"
+         id="path909"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="50"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:259.36599731px;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:6.48414993"
+       id="text25"
+       transform="translate(0,-32.166667)">
+      <path
+         d="m 283.47089,-133.00913 q 0,14.5245 -5.70605,26.7147 -5.44668,12.190197 -15.56195,21.268007 -10.11528,9.07781 -24.12104,14.26513 -13.7464,4.92796 -30.34582,4.92796 -11.41211,0 -22.56485,-2.59366 -10.89337,-2.59366 -19.97118,-7.26225 l 13.48703,-24.380407 q 5.44669,2.853027 14.26513,4.668587 8.81845,1.5562 18.41499,1.5562 9.33718,0 17.37752,-2.85303 8.29971,-3.11239 14.26513,-8.299707 6.22479,-5.18732 9.59654,-12.1902 3.37176,-7.26225 3.37176,-15.82133 0,-6.48415 -2.59366,-11.93083 -2.33429,-5.44669 -6.74351,-9.59655 -4.14986,-4.14985 -9.85591,-6.48415 -5.44669,-2.33429 -11.93084,-2.33429 -4.66859,0 -8.29971,0.7781 -3.37176,0.7781 -6.48415,2.85302 -3.11239,2.07493 -6.22478,5.70606 -3.1124,3.37175 -7.00289,8.81844 l -27.49279,-7.78098 4.40922,-89.74063 h 99.85591 v 27.49279 h -73.14121 l -1.81556,28.53026 q 9.59654,-2.85302 15.04322,-3.89049 5.44669,-1.03746 11.93084,-1.03746 11.93084,0 22.30548,4.66858 10.634,4.66859 18.41498,12.70894 8.04034,8.04034 12.44957,18.67435 4.66858,10.63401 4.66858,22.56484 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;stroke:none;stroke-width:6.48414993"
+         id="path27"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 440.79968,-155.57397 q 0,20.74928 -4.92795,39.683 -4.92795,18.933717 -14.00576,30.605187 -14.5245,19.45245 -42.0173,19.45245 -18.41498,0 -30.34582,-7.52162 -11.93083,-7.52161 -19.71181,-23.6023 -5.44669,-11.152737 -8.81845,-26.974067 -3.37175,-16.08069 -3.37175,-31.64265 0,-21.52738 4.92795,-39.94236 5.18732,-18.41499 14.00576,-30.86456 7.78098,-9.8559 18.41499,-14.52449 10.89337,-4.92796 25.9366,-4.92796 16.59942,0 28.27089,7.52162 11.67147,7.52161 19.97118,23.6023 5.44669,11.67147 8.55908,27.23343 3.11239,15.56196 3.11239,31.90202 z m -27.49279,0 q 0,-14.78386 -2.59366,-27.23343 -2.59366,-12.70893 -7.78098,-21.52738 -4.14986,-6.74351 -9.59654,-9.8559 -5.18732,-3.1124 -12.9683,-3.63113 -10.11528,-0.51873 -16.85879,4.66859 -6.74352,5.18732 -11.15274,16.85879 -3.37176,7.78098 -5.18732,18.93372 -1.5562,10.89337 -1.5562,21.78674 0,14.00576 2.59366,26.97406 2.59366,12.9683 7.78098,21.26802 4.14986,6.74351 9.85591,10.115267 5.70605,3.37176 14.00576,3.37176 9.59655,0 15.82133,-5.18732 6.48415,-5.187317 10.89337,-16.858787 1.29683,-3.37176 2.59366,-8.04035 1.29683,-4.92795 2.07493,-10.11527 1.03746,-5.44669 1.5562,-10.89337 0.51873,-5.44669 0.51873,-10.63401 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';fill:#000000;stroke:none;stroke-width:6.48414993"
+         id="path29"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-9-2-L",
+  "image": {
+    "file": "exit-advisory-speed-with-curve-to-left-au.svg",
+    "sha1": "11839350abf28238c9e9fc0e14f43f19d602f8da",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-9-2-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

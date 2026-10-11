@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-51",
+  "image": {
+    "file": "end-clearway-au.svg",
+    "sha1": "247813ae99f23807c1981ccecbe8d1fac7729397",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-51.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

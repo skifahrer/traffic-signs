@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R3-5-R",
+  "image": {
+    "file": "pedestrians-may-cross-diagonally-left-au.svg",
+    "sha1": "84880c1fe67d2cf6af72ee50711ab5e1f8d4b4b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R3-5-R.svg",
+    "author": "Standards Australia",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

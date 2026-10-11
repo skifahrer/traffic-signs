@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-5",
+  "image": {
+    "file": "island-au.svg",
+    "sha1": "de61c2f2fdfffeb619526d5b1b66c57400d76387",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W4-5.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

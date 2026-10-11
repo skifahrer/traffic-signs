@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-21",
+  "image": {
+    "file": "taxi-zone-au.svg",
+    "sha1": "acab7b3a3640ee775953e4e9cbc87adeee6f8532",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-21.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-9",
+  "image": {
+    "file": "left-lane-ends-au.svg",
+    "sha1": "d2a6ce0961cb3de4848cf5fe27068d4c64a0cc28",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W4-9.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

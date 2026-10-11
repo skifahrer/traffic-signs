@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-11-L",
+  "image": {
+    "file": "staggered-side-road-intersection-first-from-right-on-a-curve-au.svg",
+    "sha1": "10456cb96fa40489457f7e8634b7efe346fbb437",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W2-11-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

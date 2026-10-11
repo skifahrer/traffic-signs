@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W6-8",
+  "image": {
+    "file": "road-ahead-au.svg",
+    "sha1": "649705164aa7e7d64c02580082523d47cb38ff30",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W6-8.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

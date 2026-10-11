@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-16-R",
+  "image": {
+    "file": "side-road-intersection-entering-straight-ahead-on-a-curve-to-w2-16-r-au.svg",
+    "sha1": "089195bca156eb03943ae4434d82df7a67cb74fc",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W2-16-R.svg",
+    "author": "Standards Australia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R7-2",
+  "image": {
+    "file": "ahead-au.svg",
+    "sha1": "829b1a77696dc9fc0cfc90b60d5b751e11620ceb",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

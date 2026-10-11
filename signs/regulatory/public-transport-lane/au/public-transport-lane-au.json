@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R7-1-1",
+  "image": {
+    "file": "public-transport-lane-au.svg",
+    "sha1": "ef01e96e99420c90df31fd5926121a8d0f0295fe",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-1-1.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

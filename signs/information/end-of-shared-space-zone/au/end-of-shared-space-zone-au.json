@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R4-5",
+  "image": {
+    "file": "end-of-shared-space-zone-au.svg",
+    "sha1": "e611eb9a254a4f401043eb388513b3e43b1ac95b",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-5.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

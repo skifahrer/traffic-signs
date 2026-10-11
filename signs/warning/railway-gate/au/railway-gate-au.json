@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W7-15",
+  "image": {
+    "file": "railway-gate-au.svg",
+    "sha1": "1c502e850d05d749c1ea6c98e9bbb44af9a79b3b",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W7-15.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

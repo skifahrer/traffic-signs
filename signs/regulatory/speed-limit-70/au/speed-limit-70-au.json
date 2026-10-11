@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-1 (70)",
+  "image": {
+    "file": "speed-limit-70-au.svg",
+    "sha1": "271a875d614dc77f86725262f328394ea476a53a",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-1_(70).svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-14",
+  "image": {
+    "file": "stop-here-on-red-arrow-au.svg",
+    "sha1": "1240f02f8faec694823168a77ed262d91d53f50f",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-14.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-24",
+  "image": {
+    "file": "truck-zone-au.svg",
+    "sha1": "34140ad0dcc74768e9c53ceeac9af71eb2230646",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-24.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

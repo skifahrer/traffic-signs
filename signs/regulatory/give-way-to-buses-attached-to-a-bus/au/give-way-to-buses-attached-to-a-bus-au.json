@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-31",
+  "image": {
+    "file": "give-way-to-buses-attached-to-a-bus-au.svg",
+    "sha1": "f7ab914fdcfb20e1b7446aec508d0cb6fb869f98",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-31.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

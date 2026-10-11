@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-44",
+  "image": {
+    "file": "camels-crossing-au.svg",
+    "sha1": "b82e44b968401176a7a6b99e6c5f302dfe7b62b7",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-44.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

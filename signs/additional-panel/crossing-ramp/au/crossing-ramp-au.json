@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-28",
+  "image": {
+    "file": "crossing-ramp-au.svg",
+    "sha1": "c39fae4809b6c2f0bbcb130db54d1c7c5d05a4ce",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-28.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

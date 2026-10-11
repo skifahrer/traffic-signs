@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R2-2-L",
+  "image": {
+    "file": "one-way-road-left-au.svg",
+    "sha1": "127dbfb434f3809400e5c26bfa1c1fbcf2323301",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-2-L.svg",
+    "author": "Cassowary",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

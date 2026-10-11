@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-8",
+  "image": {
+    "file": "low-bridge-ahead-au.svg",
+    "sha1": "9b3d2b11d1ee65112b4c826ab0be1fbc01d5d2dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W4-8.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

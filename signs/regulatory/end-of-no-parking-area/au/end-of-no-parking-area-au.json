@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-83",
+  "image": {
+    "file": "end-of-no-parking-area-au.svg",
+    "sha1": "51bbc4b0120d6b7f44d297a17e272068e501e81e",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-83.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

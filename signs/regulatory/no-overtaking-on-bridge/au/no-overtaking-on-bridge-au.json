@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-2",
+  "image": {
+    "file": "no-overtaking-on-bridge-au.svg",
+    "sha1": "64406de076401a5481e60777f57349e2619e38e3",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

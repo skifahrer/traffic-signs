@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-9-R",
+  "image": {
+    "file": "right-lane-must-turn-right-au.svg",
+    "sha1": "8b56b02e236b616befbec5c340f941f90881a6dc",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-9-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

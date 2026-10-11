@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-31",
+  "image": {
+    "file": "safety-ramp-crossing-au.svg",
+    "sha1": "adb49089f7c29b71c0a9a9f90156fb7a3463ab85",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-31.svg",
+    "author": "FOX 52",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W9-2-L",
+  "image": {
+    "file": "modified-t-junction-left-au.svg",
+    "sha1": "6007e2e6d2b94c4841e1c9ff64b262441d58cd1c",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W9-2-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

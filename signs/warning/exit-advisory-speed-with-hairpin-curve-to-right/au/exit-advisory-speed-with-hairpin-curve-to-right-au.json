@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-9-5-R",
+  "image": {
+    "file": "exit-advisory-speed-with-hairpin-curve-to-right-au.svg",
+    "sha1": "31881e0cd38de5ba888b0791c2b8f6eca53cf12e",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-9-5-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

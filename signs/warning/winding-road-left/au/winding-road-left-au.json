@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-5-L",
+  "image": {
+    "file": "winding-road-left-au.svg",
+    "sha1": "6271e8c056b646562244a295b64ecbc3a60ad589",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-5-L.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

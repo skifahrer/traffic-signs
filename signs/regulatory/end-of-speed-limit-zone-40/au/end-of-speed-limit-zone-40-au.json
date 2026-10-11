@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-11 (40)",
+  "image": {
+    "file": "end-of-speed-limit-zone-40-au.svg",
+    "sha1": "fb65725262c354e1f14e6566513f24e1e6201c69",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-11_(40).svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

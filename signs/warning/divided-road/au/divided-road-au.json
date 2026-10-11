@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W4-4",
+  "image": {
+    "file": "divided-road-au.svg",
+    "sha1": "7b2ce8eebd3b94eb97a50e4b9b6022538bc0170e",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W4-4.svg",
+    "author": "Government of Queensland",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

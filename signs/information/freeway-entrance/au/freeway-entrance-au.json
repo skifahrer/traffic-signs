@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R6-20",
+  "image": {
+    "file": "freeway-entrance-au.svg",
+    "sha1": "41854adb7a3560724da7592f549ac65f4fcf0a13",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-20.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

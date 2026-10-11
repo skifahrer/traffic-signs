@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-38",
+  "image": {
+    "file": "farm-animals-au.svg",
+    "sha1": "c8657bbce95eda033d8ba3a766c73b56426a6604",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-38.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

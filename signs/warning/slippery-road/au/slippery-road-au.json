@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-20",
+  "image": {
+    "file": "slippery-road-au.svg",
+    "sha1": "559e7ae99dd4c95bd05a200eb503793a446d34a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-20.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

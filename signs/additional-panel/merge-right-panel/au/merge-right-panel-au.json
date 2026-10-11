@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "W8-15",
+  "image": {
+    "file": "merge-right-panel-au.svg",
+    "sha1": "910734455837c1367684eab46d59db7ac3d23ff4",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W8-15.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

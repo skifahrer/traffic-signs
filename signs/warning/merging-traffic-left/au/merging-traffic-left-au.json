@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-34-L",
+  "image": {
+    "file": "merging-traffic-left-au.svg",
+    "sha1": "09ab5628e69929ae17c9bf005c51f3f28e68c4d9",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W5-34-L.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

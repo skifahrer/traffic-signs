@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R3-4",
+  "image": {
+    "file": "children-crossing-speed-limit-when-lights-flashing-au.svg",
+    "sha1": "cc1dc988809a5d57a946a7509a9158d4c80d050d",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R3-4.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

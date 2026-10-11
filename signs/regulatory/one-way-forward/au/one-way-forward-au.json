@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-17",
+  "image": {
+    "file": "one-way-forward-au.svg",
+    "sha1": "879ad69122322da9ff2d88154e2ac4d8de3c7904",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-17.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

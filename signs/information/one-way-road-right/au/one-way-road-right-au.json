@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R2-2-R",
+  "image": {
+    "file": "one-way-road-right-au.svg",
+    "sha1": "58fb8975cf2ae7b9c9d4cbc574e2f6b3ef1c2c80",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-2-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

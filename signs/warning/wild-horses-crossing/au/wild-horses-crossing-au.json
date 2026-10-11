@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-46",
+  "image": {
+    "file": "wild-horses-crossing-au.svg",
+    "sha1": "8f3a6666e697311c4705faab883cf0670cd6a98e",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-46.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-73",
+  "image": {
+    "file": "end-of-no-stopping-area-au.svg",
+    "sha1": "65b1ef0e0ebb25e0b3a123e3a06e3af9b564b6f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-73.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

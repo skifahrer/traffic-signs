@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W1-9-4-R",
+  "image": {
+    "file": "exit-advisory-speed-with-reverse-curve-first-to-right-au.svg",
+    "sha1": "064c62801e2093796c4ec2dd2b778fa4b2067840",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W1-9-4-R.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

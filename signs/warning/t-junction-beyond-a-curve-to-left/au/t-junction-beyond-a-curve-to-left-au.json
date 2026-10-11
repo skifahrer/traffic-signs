@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W2-14-L",
+  "image": {
+    "file": "t-junction-beyond-a-curve-to-left-au.svg",
+    "sha1": "7a6a528fd58d7d5aef79818b09905d6ab6b127fc",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W2-14-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

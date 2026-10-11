@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-235-1N",
+  "image": {
+    "file": "school-zone-r4-235-1n-au.svg",
+    "sha1": "43cba314ae60ae57eb48082ec0e2371001111ff6",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-235-1N.svg",
+    "author": "Government of New South Wales",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

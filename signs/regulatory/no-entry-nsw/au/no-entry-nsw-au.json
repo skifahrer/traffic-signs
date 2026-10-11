@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-4N",
+  "image": {
+    "file": "no-entry-nsw-au.svg",
+    "sha1": "b425b9e7e7765b1e690f4c30aacb8098e39b8edc",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-4N.svg",
+    "author": "Transport for NSW – Government of New South Wales",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

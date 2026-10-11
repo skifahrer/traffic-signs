@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W5-33",
+  "image": {
+    "file": "slow-point-au.svg",
+    "sha1": "e577d10bb5247983652efdb4d0ad99137d581b06",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W5-33.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

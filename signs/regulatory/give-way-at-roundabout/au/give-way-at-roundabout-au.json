@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R1-3",
+  "image": {
+    "file": "give-way-at-roundabout-au.svg",
+    "sha1": "20f9309873d8bfc2d56f7c682015bca78bfe893f",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R1-3.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

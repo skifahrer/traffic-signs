@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W3-1",
+  "image": {
+    "file": "stop-ahead-au.svg",
+    "sha1": "2cd63b1f4f25611bd121b2618302cbb8b243a806",
+    "source": "https://commons.wikimedia.org/wiki/File:AU_road_sign_W3-1.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

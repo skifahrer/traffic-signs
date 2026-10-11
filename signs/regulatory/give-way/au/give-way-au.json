@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R1-2",
+  "image": {
+    "file": "give-way-au.svg",
+    "sha1": "94c75b128ec68d17b3d90d2bb45cbf7bb59379f4",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R1-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

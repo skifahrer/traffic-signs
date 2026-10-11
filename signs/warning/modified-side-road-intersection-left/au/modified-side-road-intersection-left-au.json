@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W9-1-L",
+  "image": {
+    "file": "modified-side-road-intersection-left-au.svg",
+    "sha1": "87bafbc0928dcdc3e620d751e060b8c169bdc7d3",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W9-1-L.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

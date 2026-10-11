@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "G9-79 (10)",
+  "image": {
+    "file": "speed-limit-ahead-10-au.svg",
+    "sha1": "c3e1f8372098f6e01b8a71362b65083d5f22084d",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_G9-79_(10).svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

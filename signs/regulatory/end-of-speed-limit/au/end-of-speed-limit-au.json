@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-2",
+  "image": {
+    "file": "end-of-speed-limit-au.svg",
+    "sha1": "583a1cce08fc81750465f5054ab08f1335266629",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R6-21 (motorway)",
+  "image": {
+    "file": "end-of-motorway-au.svg",
+    "sha1": "dff17829f4d2d661840be1c11a3dec5d806ca7cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-21_(motorway).svg",
+    "author": "NSW Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

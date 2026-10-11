@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-32",
+  "image": {
+    "file": "end-keep-left-unless-overtaking-au.svg",
+    "sha1": "1766d5c2fea6bf4886d99e36dae354a44357ab1b",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-32.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

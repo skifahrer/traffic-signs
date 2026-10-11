@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-1-2",
+  "image": {
+    "file": "time-of-operation-double-times-au.svg",
+    "sha1": "7db76dec204013133f05e2ea1ee7dcf14aac7dfb",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-1-2.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

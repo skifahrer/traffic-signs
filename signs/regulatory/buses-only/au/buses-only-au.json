@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R7-8",
+  "image": {
+    "file": "buses-only-au.svg",
+    "sha1": "b015a493efdf4df6714340f31f582d6bd0ab032f",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R7-8.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

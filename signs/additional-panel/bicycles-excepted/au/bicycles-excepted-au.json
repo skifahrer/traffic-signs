@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "au",
   "code": "R9-3",
+  "image": {
+    "file": "bicycles-excepted-au.svg",
+    "sha1": "cd9e24bd63ce54485e53ae37746f1c66f5d52b87",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R9-3.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

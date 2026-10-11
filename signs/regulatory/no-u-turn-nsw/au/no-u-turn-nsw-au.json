@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-5N",
+  "image": {
+    "file": "no-u-turn-nsw-au.svg",
+    "sha1": "87914b34a68c91d745e9f503afb3379ea841f9f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-5N.svg",
+    "author": "Transport for NSW – Government of New South Wales",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

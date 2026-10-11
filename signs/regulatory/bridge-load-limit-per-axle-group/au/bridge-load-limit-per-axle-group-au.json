@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-17",
+  "image": {
+    "file": "bridge-load-limit-per-axle-group-au.svg",
+    "sha1": "27c5df696059cd480a874049a0a8b09641fc460d",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-17.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

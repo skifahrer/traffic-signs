@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "au",
   "code": "D4-V110 (L)",
+  "image": {
+    "file": "curve-marker-with-advisory-speed-au.svg",
+    "sha1": "04c327bb877abc929c704ab7c24e455128f9680a",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_D4-V110_(L).svg",
+    "author": "Government of Victoria derivative work Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

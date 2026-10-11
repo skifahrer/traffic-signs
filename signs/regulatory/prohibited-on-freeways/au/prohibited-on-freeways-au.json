@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-13",
+  "image": {
+    "file": "prohibited-on-freeways-au.svg",
+    "sha1": "61ef17dc45afcb3a44b13e4187559238c0fd34c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-13.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

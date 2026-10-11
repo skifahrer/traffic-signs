@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-6",
+  "image": {
+    "file": "local-traffic-area-au.svg",
+    "sha1": "411af554f5fb178e1cef6f2f468051f565221da8",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-6.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

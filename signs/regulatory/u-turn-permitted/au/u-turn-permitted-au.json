@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-15",
+  "image": {
+    "file": "u-turn-permitted-au.svg",
+    "sha1": "52f7121236c74b5eacde6cde36dc5868c3e49e8a",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-15.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

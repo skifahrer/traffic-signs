@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R4-1 (80)",
+  "image": {
+    "file": "speed-limit-80-au.svg",
+    "sha1": "4daa54d87650332818021acd27b1a172b8dd2be4",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R4-1_(80).svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

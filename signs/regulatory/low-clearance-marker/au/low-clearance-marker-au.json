@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-11",
+  "image": {
+    "file": "low-clearance-marker-au.svg",
+    "sha1": "b1c8cd07df407916aedf01547bde0e4026690294",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-11.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

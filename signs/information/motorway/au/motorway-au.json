@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R6-19 (motorway)",
+  "image": {
+    "file": "motorway-au.svg",
+    "sha1": "b18dabc6620ea72e1f0d657a399427896e31441c",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-19_(motorway).svg",
+    "author": "NSW Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

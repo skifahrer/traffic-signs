@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R6-3",
+  "image": {
+    "file": "bridge-load-limit-au.svg",
+    "sha1": "334fceb0ce8788c1d83bd5c785d5f6e2694b40c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-3.svg",
+    "author": "Standards Australia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R5-63-5",
+  "image": {
+    "file": "end-of-2-hour-parking-area-au.svg",
+    "sha1": "bb2f3c958a5ea380e941c414076fc73ed3941cdc",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R5-63-5.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

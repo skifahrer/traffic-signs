@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "au",
   "code": "W7-7-R",
+  "image": {
+    "file": "railway-level-crossing-ahead-right-au.svg",
+    "sha1": "92a3b3b3c4114b7446143e4d2fefd3a038a2cf46",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_W7-7-R.svg",
+    "author": "Standards Australia",
+    "license": "CC BY 3.0 au",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/au/deed.en"
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "au",
   "code": "R6-19",
+  "image": {
+    "file": "expressway-au.svg",
+    "sha1": "0eb5577e82f193d57215889f3cfa74a448343ca4",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R6-19.svg",
+    "author": "Government of Queensland",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",

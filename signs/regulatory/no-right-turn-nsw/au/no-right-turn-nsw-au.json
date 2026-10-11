@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "au",
   "code": "R2-6N-R",
+  "image": {
+    "file": "no-right-turn-nsw-au.svg",
+    "sha1": "ffcf6f2ebfedb7b1565b982f9b08f8830fbc088e",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_road_sign_R2-6N-R.svg",
+    "author": "Transport for NSW – Government of New South Wales",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "au-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
