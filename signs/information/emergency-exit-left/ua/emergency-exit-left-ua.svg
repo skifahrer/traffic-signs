@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   width="1500"
+   height="1500"
+   viewBox="0 0 1500 1500"
+   version="1.1"
+   sodipodi:docname="UA_road_sign_5.79.2.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.53866667"
+     inkscape:cx="749.07178"
+     inkscape:cy="749.07178"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #3aaa35;
+      }
+    </style>
+  </defs>
+  <g
+     id="g10">
+    <rect
+       class="cls-1"
+       x="0.5"
+       y="0.5"
+       width="1499"
+       height="1499"
+       rx="44.5"
+       id="rect6" />
+    <path
+       d="M1455,1a44.0499,44.0499,0,0,1,44,44V1455a44.0499,44.0499,0,0,1-44,44H45a44.04987,44.04987,0,0,1-44-44V45A44.04987,44.04987,0,0,1,45,1H1455m0-1H45A45,45,0,0,0,0,45V1455a45,45,0,0,0,45,45H1455a45,45,0,0,0,45-45V45a45,45,0,0,0-45-45Z"
+       id="path8" />
+  </g>
+  <rect
+     class="cls-2"
+     x="10"
+     y="10"
+     width="1480"
+     height="1480"
+     rx="35"
+     transform="translate(1500 1500) rotate(180)"
+     id="rect12"
+     style="fill:#04ae67;fill-opacity:1" />
+  <rect
+     class="cls-1"
+     x="990"
+     y="140"
+     width="420"
+     height="1220"
+     transform="translate(2400 1500) rotate(180)"
+     id="rect14" />
+  <path
+     class="cls-1"
+     d="M657.97,743.49l71.57,138.12c8.33,16.16,26.73,21.71,41.15,12.39L919,798.05c21.64-13.99,29.11-44.98,16.62-69.21-12.5-24.24-40.21-32.5-61.85-18.5L772.18,776.02,706.73,648.96Z"
+     id="path16" />
+  <path
+     class="cls-1"
+     d="M623.41,392.01c0,57.56,49.23,160.85,93.2,160.85,28.76,0,86.3-37.02,86.3-106.76,0-70.14-65.43-133.5-116.48-133.5C648.91,312.6,624.52,344.3,623.41,392.01Z"
+     id="path18" />
+  <path
+     class="cls-1"
+     d="M121.89,1008.67l250.68006,161.79c14.42993,9.33,32.8999,3.86005,41.23-12.3L509.51,972.3,425.95,918.3l-62.71,121.57L170.17993,915a44.32861,44.32861,0,0,0-25.24-7.21c-16.29993.41-32.02,10-40.76,26.97C90.85,960.61,98.81006,993.75,121.89,1008.67Z"
+     id="path20" />
+  <path
+     class="cls-1"
+     d="M229.2,723.19c17.67005,19.79,46.37012,19.79,64.04,0L401.81006,601.54H532.63L428.68994,802.99c-16.65991,32.32-6.82995,73.6,22.03,92.26l211.96,136.94v282.19c0,29.86,21.55,54.09,48.21,54.09,26.65,0,48.28-24.23,48.28-54.09V993.23c0-14.48-6.91-27.95-18.11-35.19L572.22,848.92,684,632.03a44.7417,44.7417,0,0,0,0-40.53l-33.16-64.27c-6.06-11.76-16.93006-19.41-28.92-20.31-.8-.06-1.62,0-2.43,0H370.85a28.713,28.713,0,0,0-21.4,9.88L229.2,651.47C211.53,671.26,211.53,703.4,229.2,723.19Z"
+     id="path22" />
+</svg>

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ua",
   "code": "5.94.2",
+  "image": {
+    "file": "end-of-contraflow-bicycle-lane-ua.svg",
+    "sha1": "fa83de41b05a114ef2ab14b95a1e7070298c97b6",
+    "source": "https://commons.wikimedia.org/wiki/File:UA_road_sign_5.94.2.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ua-wikipedia",
     "page": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%96_%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8",

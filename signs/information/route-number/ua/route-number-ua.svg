@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="339.04776"
+   height="176.125"
+   id="svg3752">
+  <title
+     id="title4147">E40</title>
+  <defs
+     id="defs3754" />
+  <g
+     transform="translate(683.10718,-248.30861)"
+     id="layer1">
+    <rect
+       width="339.04776"
+       height="176.125"
+       rx="32.526913"
+       ry="32.526913"
+       x="-683.10718"
+       y="248.30861"
+       id="rect2834"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       width="322.0625"
+       height="158"
+       rx="23.026913"
+       ry="23.026913"
+       x="-674.60718"
+       y="257.80859"
+       id="rect3608"
+       style="fill:#3aaa35;fill-opacity:1;stroke:none" />
+    <g
+       id="text2830"
+       style="font-size:133.7205658px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Road UA;-inkscape-font-specification:Road UA Bold">
+      <path
+         d="m -568.42245,366.7261 -46.133,0 0,-23.53452 37.97615,0 0,-15.91254 -37.97615,0 0,-22.33105 45.46441,0 0,-15.91254 -63.38274,0 0,93.60319 64.05133,0 z"
+         id="path4140" />
+    </g>
+    <g
+       id="text2898"
+       style="font-size:133.7205658px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Road UA;-inkscape-font-specification:Road UA Bold">
+      <path
+         d="m -498.30572,382.63864 16.98229,0 0,-21.92989 12.0347,0 0,-14.44163 -12.0347,0 0,-57.23167 -20.86014,0 -38.77846,57.23167 0,14.44163 42.65631,0 z m 0,-75.41743 0,39.04591 -26.61005,0 z"
+         id="path4143" />
+      <path
+         d="m -458.6111,335.70333 c -0.0167,16.10479 2.65765,28.15619 8.02313,36.15423 5.36544,7.99806 13.52229,11.99291 24.47055,11.98455 10.94818,0.008 19.10502,-3.98649 24.47054,-11.98455 5.3654,-7.99804 8.03978,-20.04944 8.02313,-36.15423 0.0166,-16.16878 -2.65773,-28.25918 -8.02313,-36.27124 -5.36552,-8.0119 -13.52237,-12.01232 -24.47054,-12.00127 -10.94826,-0.011 -19.1051,3.98938 -24.47055,12.00127 -5.36548,8.01207 -8.03986,20.10247 -8.02313,36.27124 z m 32.49368,-33.296 c 5.03391,0.0502 8.87275,2.92518 11.51653,8.62487 2.64368,5.69983 3.9753,13.92353 3.99485,24.67113 -0.0195,10.68361 -1.35117,18.86831 -3.99485,24.55412 -2.64378,5.68585 -6.48262,8.55523 -11.51653,8.60815 -5.034,-0.0529 -8.87284,-2.9223 -11.51654,-8.60815 -2.64376,-5.68581 -3.97537,-13.87051 -3.99485,-24.55412 0.0195,-10.7476 1.35109,-18.9713 3.99485,-24.67113 2.6437,-5.69969 6.48254,-8.57464 11.51654,-8.62487 z"
+         id="path4145" />
+    </g>
+  </g>
+</svg>

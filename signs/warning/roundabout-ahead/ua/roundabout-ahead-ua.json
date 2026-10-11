@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ua",
   "code": "1.19",
+  "image": {
+    "file": "roundabout-ahead-ua.svg",
+    "sha1": "2128cb7a193679e9b620c0139ade1f3c58c40544",
+    "source": "https://commons.wikimedia.org/wiki/File:UA_road_sign_1.19.svg",
+    "author": "Government of Ukraine",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ua-wikipedia",
     "page": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%96_%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8",

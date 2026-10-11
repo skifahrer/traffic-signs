@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ua",
   "code": "3.29",
+  "image": {
+    "file": "speed-limit-ua.svg",
+    "sha1": "b5d8c00c451477d0ffd03cdf5c2387187e8165c3",
+    "source": "https://commons.wikimedia.org/wiki/File:UA_road_sign_3.29-050.svg",
+    "author": "Government of Ukraine",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ua-wikipedia",
     "page": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%96_%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8",
