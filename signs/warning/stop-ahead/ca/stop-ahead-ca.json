@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WB-1",
+  "image": {
+    "file": "stop-ahead-ca.svg",
+    "sha1": "2a079ba19de5a63f32717fc8accff168cc9f9ff8",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WB-001.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ca",
   "code": "RA-4",
+  "image": {
+    "file": "pedestrian-crossing-ca.svg",
+    "sha1": "4b5ba8d7932e6fbba21212edfbaedd3d66267d55",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RA-004-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

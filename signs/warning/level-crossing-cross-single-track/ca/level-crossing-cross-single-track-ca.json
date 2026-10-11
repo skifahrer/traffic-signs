@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "RA-6",
+  "image": {
+    "file": "level-crossing-cross-single-track-ca.svg",
+    "sha1": "3e1ad1104b8ac8224fc737c6b535c11f6140935e",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RA-006.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

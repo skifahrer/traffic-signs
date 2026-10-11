@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-055A",
+  "image": {
+    "file": "no-stopping-ca.svg",
+    "sha1": "3b52939d2afe3e9f462c40d4e8197b4b3c598741",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Rb-055A-L-R_(B).svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-80",
+  "image": {
+    "file": "advanced-green-when-flashing-ca.svg",
+    "sha1": "4a62f5e507fc721f211690946fc30548670335d0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_road_sign_Rb-80_(B).svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

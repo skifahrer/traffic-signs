@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-21",
+  "image": {
+    "file": "steep-descent-ca.svg",
+    "sha1": "ecebab4da83bdb737c29cbb2e99e00fbc25db233",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wa-21.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

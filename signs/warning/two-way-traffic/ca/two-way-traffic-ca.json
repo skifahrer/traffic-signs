@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WB-3",
+  "image": {
+    "file": "two-way-traffic-ca.svg",
+    "sha1": "e3c363acf105b417f9ded16b0d8c2e9face0edee",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-QC_road_sign_D-080-1.svg",
+    "author": "Transports Québec",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

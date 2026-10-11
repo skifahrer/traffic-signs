@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ca",
   "code": "WA-10",
+  "image": {
+    "file": "advisory-speed-limit-ca.svg",
+    "sha1": "df1866e2fa77c5b42467788ce8d04ecf68af50d2",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-010-50.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

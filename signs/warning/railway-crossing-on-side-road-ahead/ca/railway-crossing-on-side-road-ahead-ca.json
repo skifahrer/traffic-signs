@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-19",
+  "image": {
+    "file": "railway-crossing-on-side-road-ahead-ca.svg",
+    "sha1": "61a4eb44aaf64ac2bda45625cce976d60f1809f9",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-019-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-23",
+  "image": {
+    "file": "no-entry-ca.svg",
+    "sha1": "cf98e41ca71a14f8101bdb521dbb4e9302c5f8ff",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RB-023.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

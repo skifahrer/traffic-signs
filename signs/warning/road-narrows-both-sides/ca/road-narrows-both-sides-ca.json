@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-23",
+  "image": {
+    "file": "road-narrows-both-sides-ca.svg",
+    "sha1": "e5b0ffee25fe03cdd5ec77b4431cbb8d9f8b7de9",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wa-28.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WC-22",
+  "image": {
+    "file": "horse-drawn-vehicles-ca.svg",
+    "sha1": "dd3523ae0ed192d333a982459d35d5c8813c2859",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wc-23.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

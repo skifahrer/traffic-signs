@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WC-8R",
+  "image": {
+    "file": "heavy-vehicles-entering-from-right-ca.svg",
+    "sha1": "6d8e29821ab64b8214fd010d92baebe41591cbdd",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WC-008-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

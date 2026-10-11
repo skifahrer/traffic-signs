@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RA-2",
+  "image": {
+    "file": "give-way-ca.svg",
+    "sha1": "ab9b1b4dcf5b78dad2686cca56fdcd00311e3af9",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RA-002.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

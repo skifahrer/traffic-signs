@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-62",
+  "image": {
+    "file": "no-goods-vehicles-ca.svg",
+    "sha1": "52384b56cbcd2ccb699c9871bc0db14a029b6362",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Rb-062.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

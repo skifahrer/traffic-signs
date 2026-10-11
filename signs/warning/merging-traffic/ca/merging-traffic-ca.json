@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-16",
+  "image": {
+    "file": "merging-traffic-ca.svg",
+    "sha1": "8b946568eed86cb81d99239ddcd58eba60a1a968",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-016-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WB-2",
+  "image": {
+    "file": "give-way-ahead-ca.svg",
+    "sha1": "f262258481e57a56310ab5d59ebcb3c8bd23d322",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WB-002.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

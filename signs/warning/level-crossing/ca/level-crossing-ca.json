@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-18",
+  "image": {
+    "file": "level-crossing-ca.svg",
+    "sha1": "af27f5a41d071cb4e0d5213a204fb8e2bd7199ff",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-018.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

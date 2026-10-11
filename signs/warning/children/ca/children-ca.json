@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WC-1",
+  "image": {
+    "file": "children-ca.svg",
+    "sha1": "b6e9c79ba8b8761ed274522a4c028725f318a25b",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WC-001.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

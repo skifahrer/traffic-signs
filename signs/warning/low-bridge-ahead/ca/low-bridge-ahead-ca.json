@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-26",
+  "image": {
+    "file": "low-bridge-ahead-ca.svg",
+    "sha1": "93f94938ee5d4b04305a13a06e4e41436435f74d",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-026.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

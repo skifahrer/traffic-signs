@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RA-3",
+  "image": {
+    "file": "school-crossing-ca.svg",
+    "sha1": "5907a21969007dac2568621f9cde680c97438878",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RA-003-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

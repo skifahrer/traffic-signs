@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-35",
+  "image": {
+    "file": "added-lane-ca.svg",
+    "sha1": "818d1e2dc48bbcb3d38b4e216c5d8f5eb6c20ff6",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-035-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

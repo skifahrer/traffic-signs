@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-33R",
+  "image": {
+    "file": "right-lane-ends-ca.svg",
+    "sha1": "4c25da4fd88ea9d372c8f4feba9f64110aacf411",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wa-23R.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

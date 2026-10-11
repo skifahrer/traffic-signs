@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ca",
   "code": "RB-22",
+  "image": {
+    "file": "wrong-way-ca.svg",
+    "sha1": "002b41f2417f4009d469764a2c4ccbb9c500a1e1",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RB-022-EN.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

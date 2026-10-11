@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-30",
+  "image": {
+    "file": "movable-bridge-ca.svg",
+    "sha1": "61f0b5be421bd2a00d1d8765ad0439277b5dcffb",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_road_sign_Wa-30_%2B_Wa-30t_(B).svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-8",
+  "image": {
+    "file": "end-of-road-ca.svg",
+    "sha1": "d03354fcf3d0e8fcf8fef05266b2b2a72ca97538",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-008.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

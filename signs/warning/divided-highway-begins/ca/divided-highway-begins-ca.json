@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-31",
+  "image": {
+    "file": "divided-highway-begins-ca.svg",
+    "sha1": "9a9771686a7e1a09de2550ba1e468131f19c6a42",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-031.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

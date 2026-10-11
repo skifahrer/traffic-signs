@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WC-8L",
+  "image": {
+    "file": "heavy-vehicles-entering-from-left-ca.svg",
+    "sha1": "3891ad78602d4e54313f2aead2ce552c8470dbd5",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WC-008-L.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-6R",
+  "image": {
+    "file": "winding-road-right-ca.svg",
+    "sha1": "87ba4e6e7e6bacacb00f6201ea07875809b71c1a",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-006-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

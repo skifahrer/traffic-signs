@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-11R",
+  "image": {
+    "file": "no-left-turn-ca.svg",
+    "sha1": "1da2272ab0e8eae7438d4ea802930a20a5cd22d2",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Rb-012.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

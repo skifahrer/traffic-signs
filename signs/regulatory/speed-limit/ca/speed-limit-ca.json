@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-1",
+  "image": {
+    "file": "speed-limit-ca.svg",
+    "sha1": "1b62e6af72807b400c1523f8a267ccc3f92c169a",
+    "source": "https://commons.wikimedia.org/wiki/File:Generic_Canadian_Speed_Limit_Sign.svg",
+    "author": "Davidbt2000",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

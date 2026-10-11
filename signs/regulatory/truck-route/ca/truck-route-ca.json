@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-61",
+  "image": {
+    "file": "truck-route-ca.svg",
+    "sha1": "698b0c88164e7ce12632ec069095fcc7a860fea2",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Rb-061.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

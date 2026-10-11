@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-13",
+  "image": {
+    "file": "side-road-intersection-ca.svg",
+    "sha1": "d7dafd3b5b0124a2fc3110eb4553af2e82330cb3",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-013-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-27",
+  "image": {
+    "file": "height-restriction-marker-ca.svg",
+    "sha1": "b092251d11c23770820e3057bc87a5272c9005e7",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-027.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

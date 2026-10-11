@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-18L",
+  "image": {
+    "file": "skewed-railway-crossing-ahead-ca.svg",
+    "sha1": "64edfeb6e5aca79b8984caae954bae7ff9ca5168",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-018-L.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

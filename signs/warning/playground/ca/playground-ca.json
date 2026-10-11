@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WC-3",
+  "image": {
+    "file": "playground-ca.svg",
+    "sha1": "ae47caea9ff56c870059a83819091a53d565c9e5",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Wc-003.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

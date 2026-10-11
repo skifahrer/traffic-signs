@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-8R",
+  "image": {
+    "file": "sharp-curve-marker-ca.svg",
+    "sha1": "668bbfa679350230a832aa256e21d29e76aa7dc6",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-008-R.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

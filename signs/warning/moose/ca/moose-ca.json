@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WC-14",
+  "image": {
+    "file": "moose-ca.svg",
+    "sha1": "134d937b79ec7b446b0b3b3d423a070299e56c30",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wc-12.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

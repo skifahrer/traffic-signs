@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-040",
+  "image": {
+    "file": "no-trucks-over-6-5m-ca.svg",
+    "sha1": "ae8e2c915ebb848e377ac676a4c4f015fee9c1c9",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Rb-040_(B).svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-14",
+  "image": {
+    "file": "t-junction-ca.svg",
+    "sha1": "f50d71b2a2654168bd64e2d8fab741739ec1261e",
+    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_WA-014.svg",
+    "author": "Transportation Association of Canada",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

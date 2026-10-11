@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ca",
   "code": "WA-5R",
+  "image": {
+    "file": "double-bend-right-ca.svg",
+    "sha1": "968ef723b47b3784ce3052648195e5a8df5ac5f7",
+    "source": "https://commons.wikimedia.org/wiki/File:Ontario_Wa-5R.svg",
+    "author": "Government of Ontario – Ministry of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
