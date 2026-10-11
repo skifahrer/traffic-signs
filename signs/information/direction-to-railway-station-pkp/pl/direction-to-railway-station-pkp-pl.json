@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "E-6a (wariant)",
+  "image": {
+    "file": "direction-to-railway-station-pkp-pl.svg",
+    "sha1": "212c9bf214d2e423e0b6e21e4b73063576f58e40",
+    "source": "https://commons.wikimedia.org/wiki/File:Znak_E-6a.PKP.svg",
+    "author": "Szczepan1990",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pl-wikipedia",
     "page": "https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce",
