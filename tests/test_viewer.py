@@ -77,6 +77,14 @@ class ViewerTest(SandboxTestCase):
         self.assertTrue(os.path.exists(os.path.join(out, "signs", "warning", "danger", "danger.json")))
         with open(os.path.join(out, "data.json"), encoding="utf-8") as handle:
             self.assertEqual(len(json.load(handle)["signs"]), 3)
+        # Every build asks for its own files, so a cached app.js never reads an older data.json.
+        with open(os.path.join(out, "index.html"), encoding="utf-8") as handle:
+            html = handle.read()
+        with open(os.path.join(out, "app.js"), encoding="utf-8") as handle:
+            app = handle.read()
+        self.assertRegex(html, r'src="app\.js\?v=[0-9a-f]{10}"')
+        self.assertRegex(html, r'href="style\.css\?v=[0-9a-f]{10}"')
+        self.assertRegex(app, r'fetch\("data\.json\?v=[0-9a-f]{10}"\)')
 
 
 class VariantTest(SandboxTestCase):

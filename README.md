@@ -87,9 +87,9 @@ The site is built from `signs/` by `python3 -m viewer` (static page in
 [`.github/workflows/pages.yml`](.github/workflows/pages.yml) from master: on
 every change to `signs/` or the viewer, after every run of the sync workflow
 (which commits its changes to master), and on demand. On phones the filters fold
-under *Filters* and each sign is a card: the countries that have it wrap onto
-as many lines as needed, so nothing scrolls sideways, and the ones that do not
-are listed in one line (*Not in CA, US*). One-time setup: *Settings → Pages → Build and
+under *Filters* and each sign is a card: the countries wrap onto as many lines
+as needed, so nothing scrolls sideways, and a country without the sign keeps
+its place as an empty slot, so each country is in the same spot on every card. One-time setup: *Settings → Pages → Build and
 deployment → Source: GitHub Actions*.
 
 To preview it locally:
