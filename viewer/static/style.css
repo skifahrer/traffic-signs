@@ -328,6 +328,61 @@ main {
   white-space: nowrap;
 }
 
+/* Sharing: a small pill button, and a note when a link was copied */
+
+button.share {
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  cursor: pointer;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+button.share::before {
+  content: "↗ ";
+}
+
+button.share:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+.detail-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  margin-right: 2rem;
+}
+
+.detail-head h2 {
+  margin: 0;
+}
+
+.toast {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  margin: 0;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 0.9rem;
+}
+
+.toast[hidden] {
+  display: none;
+}
+
 .empty {
   padding: 3rem 1rem;
   text-align: center;

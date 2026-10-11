@@ -74,7 +74,17 @@ by type, by country, by text (English or local name, national code, folder
 name), or show only signs that 2+ countries have. Click a sign to see each
 country's image large, with all its names, the national code, author, licence
 and earlier (archived) images. Every sign has its own link, e.g.
-`#warning/bend-left`.
+`#warning/bend-left`, and the filters are kept in the URL
+(`?type=warning&q=bend&countries=sk,cz`), so a filtered list can be bookmarked.
+
+**Share** (in the header, next to each category and in a sign's detail)
+opens the phone's share sheet, or copies the link on a computer. Links point
+at small pages under `share/`, one per sign (`share/warning/bend-left/`) and
+per category (`share/warning/`), whose title, description and picture are
+what messengers and social networks show as the link preview; they send the
+visitor on to the sign or category. The builder writes them with absolute
+links for `--site-url` (default `$SITE_URL`, else
+`https://skifahrer.github.io/traffic-signs/`).
 While `data.json` downloads, a progress bar shows how much has arrived. The
 list then shows the first 100 matching signs and adds the next 100 as you scroll
 (or with *Show more*); the header counts how many are shown, e.g.
