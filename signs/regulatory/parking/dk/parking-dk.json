@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "E33.1",
+  "image": {
+    "file": "parking-dk.svg",
+    "sha1": "ef524b358f458cbaa5b198ef6ca2a4b9c0026a16",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E33.1.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

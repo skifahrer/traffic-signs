@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A96",
+  "image": {
+    "file": "low-flying-aircraft-dk.svg",
+    "sha1": "23668b0343542d38ae5ee0ca2833e774ec26a4d8",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A96.svg",
+    "author": "Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

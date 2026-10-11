@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A91",
+  "image": {
+    "file": "movable-bridge-dk.svg",
+    "sha1": "d4fac355715820b3336322840984f4b2bf42329f",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A91.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

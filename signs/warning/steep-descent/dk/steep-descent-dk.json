@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A46.1",
+  "image": {
+    "file": "steep-descent-dk.svg",
+    "sha1": "7d3437649d8acf4228e3d71c80797ca9a3acee00",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A46.1.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

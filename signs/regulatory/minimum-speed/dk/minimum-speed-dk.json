@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "D55",
+  "image": {
+    "file": "minimum-speed-dk.svg",
+    "sha1": "ab131125ff766244f88b643e548e4500cd895040",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_D55.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

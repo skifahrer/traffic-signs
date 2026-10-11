@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A43.2",
+  "image": {
+    "file": "road-narrows-left-dk.svg",
+    "sha1": "34baf4710af9de1c8e286fb6c99b9ed3b4c27521",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A43.2.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

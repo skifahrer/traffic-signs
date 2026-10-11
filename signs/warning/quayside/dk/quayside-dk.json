@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A92",
+  "image": {
+    "file": "quayside-dk.svg",
+    "sha1": "d38f18d0743c45fabebe86a7ad9e1957dcc26496",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A92.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

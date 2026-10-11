@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C56",
+  "image": {
+    "file": "end-of-speed-limit-dk.svg",
+    "sha1": "b2747e95ec2069201dfaa4d6c0920a60fc0d12ab",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C56.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

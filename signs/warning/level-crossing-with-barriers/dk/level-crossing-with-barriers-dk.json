@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A73",
+  "image": {
+    "file": "level-crossing-with-barriers-dk.svg",
+    "sha1": "f3495a0e21c6f4c1c5a6b72cdaaa074b88843068",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A73.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

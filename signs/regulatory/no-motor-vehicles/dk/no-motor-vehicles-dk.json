@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C22.1",
+  "image": {
+    "file": "no-motor-vehicles-dk.svg",
+    "sha1": "df5c9690df0b5b5efa5f8b1e9ccc02af7715fafd",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C22.1.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

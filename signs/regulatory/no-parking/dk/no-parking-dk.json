@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C62",
+  "image": {
+    "file": "no-parking-dk.svg",
+    "sha1": "e420859e903d961a6d121d9754d8e0741828035a",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C62.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A74.2",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-dk.svg",
+    "sha1": "171ad3e692b86fbbb9e1ef0871610563293cdc45",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A74.2.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

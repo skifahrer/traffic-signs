@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "D11.6",
+  "image": {
+    "file": "mandatory-direction-straight-or-left-dk.svg",
+    "sha1": "c5bef9f24cce50bc0eda093c5879c0d318155190",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_D11.6.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

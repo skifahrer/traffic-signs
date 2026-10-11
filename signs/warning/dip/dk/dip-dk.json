@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A38",
+  "image": {
+    "file": "dip-dk.svg",
+    "sha1": "f5bae2f2a2a8afaac7e1876260cbf2888204d9dd",
+    "source": "https://commons.wikimedia.org/wiki/File:A38_dip.svg",
+    "author": "Bewitchedroutine",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

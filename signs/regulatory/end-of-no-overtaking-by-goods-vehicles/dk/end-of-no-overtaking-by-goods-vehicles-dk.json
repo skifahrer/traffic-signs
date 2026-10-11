@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C54",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-dk.svg",
+    "sha1": "70c79c2a84c3e13a489a5812e0b894bad6326198",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C54.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

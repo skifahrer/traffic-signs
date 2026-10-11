@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E22.1",
+  "image": {
+    "file": "truck-route-recommended-dk.svg",
+    "sha1": "dd79862d18a51876fbd0c7230918edfbe018141d",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E22.1.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

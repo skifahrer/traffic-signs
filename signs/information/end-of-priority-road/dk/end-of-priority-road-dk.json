@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "B17",
+  "image": {
+    "file": "end-of-priority-road-dk.svg",
+    "sha1": "66544b9c3a835ca84fe86d8b09e9a12bf31c7f77",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_B17.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

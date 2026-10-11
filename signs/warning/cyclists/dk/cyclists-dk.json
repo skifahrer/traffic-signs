@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A21",
+  "image": {
+    "file": "cyclists-dk.svg",
+    "sha1": "27ece22a60bfc288db9d9732196d6548cf4f5324",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A21.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E40",
+  "image": {
+    "file": "end-of-recommended-speed-dk.svg",
+    "sha1": "e57ba653a8b121fe426c1f3a7286ccdf8e4e82e7",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E40.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C23.3",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-dk.svg",
+    "sha1": "554a62a90680adc1460ad422870672967f191577",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C23.3.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

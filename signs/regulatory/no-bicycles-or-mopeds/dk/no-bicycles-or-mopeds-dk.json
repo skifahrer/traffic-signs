@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C25.1",
+  "image": {
+    "file": "no-bicycles-or-mopeds-dk.svg",
+    "sha1": "0943d486f41fcca58c56934a85094c62144ed0aa",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C25.1.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

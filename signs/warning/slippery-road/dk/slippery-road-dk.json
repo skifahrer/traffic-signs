@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A31",
+  "image": {
+    "file": "slippery-road-dk.svg",
+    "sha1": "4097c8a189c04ee20624b3067cf69cc5428cb1bb",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A31.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

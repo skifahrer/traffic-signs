@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E24",
+  "image": {
+    "file": "instructions-for-visually-impaired-dk.svg",
+    "sha1": "1e76eb50c9d223cbffa0168545e730b1578f268d",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E24.svg",
+    "author": "Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

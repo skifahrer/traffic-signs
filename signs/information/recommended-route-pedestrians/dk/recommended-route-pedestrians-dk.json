@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E21.2",
+  "image": {
+    "file": "recommended-route-pedestrians-dk.svg",
+    "sha1": "944208e210a7a45ee92f416bbafaa435f484e560",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E21.2.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

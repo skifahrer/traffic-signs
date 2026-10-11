@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C59",
+  "image": {
+    "file": "end-of-all-restrictions-dk.svg",
+    "sha1": "fc9931d1a45dc3a3b72f33ada2d6e7109da8f7ca",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C59.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "B11",
+  "image": {
+    "file": "give-way-dk.svg",
+    "sha1": "e18471166b4ba1ac8fe359a71678309bf30bb93c",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_B11.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

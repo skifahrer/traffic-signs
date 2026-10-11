@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "B16",
+  "image": {
+    "file": "priority-road-dk.svg",
+    "sha1": "872670a1d24978acf039373045819c30b6d4aa87",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_B16.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

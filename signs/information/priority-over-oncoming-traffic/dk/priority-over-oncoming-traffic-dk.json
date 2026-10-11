@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "B19",
+  "image": {
+    "file": "priority-over-oncoming-traffic-dk.svg",
+    "sha1": "da40536357375f82b9ce694abcc3fed25fac2555",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_B19.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

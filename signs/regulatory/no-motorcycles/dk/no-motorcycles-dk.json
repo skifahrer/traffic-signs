@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C22.2",
+  "image": {
+    "file": "no-motorcycles-dk.svg",
+    "sha1": "afc989dfb05ec4dc65e4fec1bce366e49a2551be",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C22.2.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

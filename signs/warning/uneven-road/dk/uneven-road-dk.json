@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A37",
+  "image": {
+    "file": "uneven-road-dk.svg",
+    "sha1": "a572b49f0b34d292b26704f2af7bc1023a07041b",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A37.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

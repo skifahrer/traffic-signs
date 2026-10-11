@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A26",
+  "image": {
+    "file": "wild-animals-dk.svg",
+    "sha1": "4fca09f198acab40199af5ce7d56697adec7dec7",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A26.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

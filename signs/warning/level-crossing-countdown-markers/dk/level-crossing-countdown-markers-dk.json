@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A75",
+  "image": {
+    "file": "level-crossing-countdown-markers-dk.svg",
+    "sha1": "f922c419e7ad0f36a1bbe26fbce8d5926bf0568c",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A75.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

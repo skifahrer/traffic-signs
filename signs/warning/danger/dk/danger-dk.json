@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A99",
+  "image": {
+    "file": "danger-dk.svg",
+    "sha1": "577a56eae64248d8be2b943058709b295ca09dc3",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A99.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

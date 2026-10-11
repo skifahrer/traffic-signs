@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C32",
+  "image": {
+    "file": "maximum-weight-combination-dk.svg",
+    "sha1": "5db2fc383e61a026fc9e276ec1a8ebe344b5ea82",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C32.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

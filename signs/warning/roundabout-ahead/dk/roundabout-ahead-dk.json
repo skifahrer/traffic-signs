@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A16",
+  "image": {
+    "file": "roundabout-ahead-dk.svg",
+    "sha1": "6986a5b52f6c20cf0e25c0e3440073637b52829c",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A16.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A95",
+  "image": {
+    "file": "crosswind-dk.svg",
+    "sha1": "1cc48c35b44a93ea512ba9c4c7ec97421599c87f",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A95.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

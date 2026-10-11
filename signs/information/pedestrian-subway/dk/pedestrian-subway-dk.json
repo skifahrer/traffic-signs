@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E26.2",
+  "image": {
+    "file": "pedestrian-subway-dk.svg",
+    "sha1": "91d438b188f613040667546494a87a1023a273b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E26.2.svg",
+    "author": "Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

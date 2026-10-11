@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E51",
+  "image": {
+    "file": "residential-zone-dk.svg",
+    "sha1": "949c73eb9e82fd178cc66c7425fc58efb1edcbef",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E51.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

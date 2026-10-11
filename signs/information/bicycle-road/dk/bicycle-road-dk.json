@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E47",
+  "image": {
+    "file": "bicycle-road-dk.svg",
+    "sha1": "8b77933dc71d4a74852da602bf5b2c1cc342a7de",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E47.svg",
+    "author": "Westnordost",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

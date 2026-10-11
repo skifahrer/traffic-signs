@@ -3,6 +3,14 @@
   "category": "information",
   "country": "dk",
   "code": "E30",
+  "image": {
+    "file": "tram-stop-dk.svg",
+    "sha1": "d1b14c53c0d5a364ec101c654d9d9dcfc7c13d8a",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_E30.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

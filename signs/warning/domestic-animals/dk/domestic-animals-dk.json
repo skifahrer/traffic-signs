@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "dk",
   "code": "A27",
+  "image": {
+    "file": "domestic-animals-dk.svg",
+    "sha1": "2c91905f6c8a21388b701ed8e8fc4ad8b8f19672",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_A27.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

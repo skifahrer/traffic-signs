@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "C43",
+  "image": {
+    "file": "maximum-length-dk.svg",
+    "sha1": "fe2afc1c6096ef2c19309f022deb3f23f9e4db24",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_C43.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",

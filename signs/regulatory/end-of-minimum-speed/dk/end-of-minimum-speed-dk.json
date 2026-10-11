@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "dk",
   "code": "D56",
+  "image": {
+    "file": "end-of-minimum-speed-dk.svg",
+    "sha1": "11f445a6714cc7b2bd7e221ee331b6f29fc09d5a",
+    "source": "https://commons.wikimedia.org/wiki/File:Denmark_road_sign_D56.svg",
+    "author": "Gigillo83, drawn by original of Vejdirektoratet",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "dk-wikipedia",
     "page": "https://da.wikipedia.org/wiki/Vejtavler_i_Danmark",
