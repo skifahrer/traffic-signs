@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-tn",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-tn.svg",
+    "sha1": "88cebe48760ff3597b2740aa26eac67c07800f22",
+    "source": "https://commons.wikimedia.org/wiki/File:Tennessee_1.svg",
+    "author": "Fredddie",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-tn-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/TN",

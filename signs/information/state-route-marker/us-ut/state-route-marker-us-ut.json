@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ut",
   "code": "UT",
+  "image": {
+    "file": "state-route-marker-us-ut.svg",
+    "sha1": "978620bb21a0718c9d7b8c7af83d14c2aef6911e",
+    "source": "https://commons.wikimedia.org/wiki/File:Utah_9.svg",
+    "author": "Design: Utah Department of Transportation Template: User:Fredddie",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ut-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/UT",

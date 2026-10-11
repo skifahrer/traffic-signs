@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-sc",
   "code": "SC",
+  "image": {
+    "file": "state-route-marker-us-sc.svg",
+    "sha1": "41f0e7799e9f658f3a88891b91cc65dbb5f4d0b6",
+    "source": "https://commons.wikimedia.org/wiki/File:South_Carolina_2.svg",
+    "author": "Mr. Matté",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-sc-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/SC",

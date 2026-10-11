@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-wa",
   "code": "WA",
+  "image": {
+    "file": "state-route-marker-us-wa.svg",
+    "sha1": "b94ccb22b38165715dcd128cb97cefced29c20ee",
+    "source": "https://commons.wikimedia.org/wiki/File:WA-9.svg",
+    "author": "Fredddie, originally by PHenry, et al",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wa-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WA",

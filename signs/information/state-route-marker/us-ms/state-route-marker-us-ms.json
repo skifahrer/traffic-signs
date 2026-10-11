@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ms",
   "code": "MS",
+  "image": {
+    "file": "state-route-marker-us-ms.svg",
+    "sha1": "0afa99c233b0927dae92c462c1475a1dd241535e",
+    "source": "https://commons.wikimedia.org/wiki/File:Ellipse_sign_1.svg",
+    "author": "O",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ms-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MS",

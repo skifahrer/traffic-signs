@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-fl",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-fl.svg",
+    "sha1": "04a8af82a557df296a9fef09a91722d2e480d709",
+    "source": "https://commons.wikimedia.org/wiki/File:Florida_60.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-fl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/FL",

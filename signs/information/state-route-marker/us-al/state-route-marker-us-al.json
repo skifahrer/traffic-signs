@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-al",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-al.svg",
+    "sha1": "cdc0712e4885398ca23b7475c6904ff589c8a94f",
+    "source": "https://commons.wikimedia.org/wiki/File:Alabama_1.svg",
+    "author": "Ltljltlj",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-al-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AL",

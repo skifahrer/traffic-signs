@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ct",
   "code": "CT",
+  "image": {
+    "file": "state-route-marker-us-ct.svg",
+    "sha1": "fd179d03168c58735843e5ce340ac46ec9fd6866",
+    "source": "https://commons.wikimedia.org/wiki/File:Connecticut_Highway_2.svg",
+    "author": "Mr. Matté",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ct-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/CT",

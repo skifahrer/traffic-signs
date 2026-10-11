@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ak",
   "code": "AK",
+  "image": {
+    "file": "state-route-marker-us-ak.svg",
+    "sha1": "15b1c66bdb5dde286c22a58993de168d94d7716b",
+    "source": "https://commons.wikimedia.org/wiki/File:Alaska_1_shield.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ak-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AK",

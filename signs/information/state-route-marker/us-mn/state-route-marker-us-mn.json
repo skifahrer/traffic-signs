@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-mn",
   "code": "MN",
+  "image": {
+    "file": "state-route-marker-us-mn.svg",
+    "sha1": "fb1361c8f542538dd9ab203706a334bb6747d24b",
+    "source": "https://commons.wikimedia.org/wiki/File:MN-1.svg",
+    "author": "Minnesota Department of Transportation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-mn-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MN",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-nm",
   "code": "NM",
+  "image": {
+    "file": "state-route-marker-us-nm.svg",
+    "sha1": "5f9076d6e3a91ad894dcc03c82954b401b6baae6",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Mexico_1.svg",
+    "author": "O",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-nm-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NM",

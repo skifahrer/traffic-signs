@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ar",
   "code": "AR",
+  "image": {
+    "file": "state-route-marker-us-ar.svg",
+    "sha1": "297256dd64301aa040c9525d110c1a955f32e3c1",
+    "source": "https://commons.wikimedia.org/wiki/File:Arkansas_1.svg",
+    "author": "Ltljltlj",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ar-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AR",

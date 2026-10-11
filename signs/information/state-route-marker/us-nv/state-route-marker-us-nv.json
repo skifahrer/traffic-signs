@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-nv",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-nv.svg",
+    "sha1": "35c6127dd628b1d72cb445adee336b67e7e3107d",
+    "source": "https://commons.wikimedia.org/wiki/File:Nevada_28.svg",
+    "author": "Geopgeop; NevadaDOT",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-nv-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NV",

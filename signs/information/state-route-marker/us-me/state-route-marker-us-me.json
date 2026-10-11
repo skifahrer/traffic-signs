@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-me",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-me.svg",
+    "sha1": "3fe09edb27a15941e07ed9d7da28a27cdbe43fc1",
+    "source": "https://commons.wikimedia.org/wiki/File:Maine_3.svg",
+    "author": "Maine Department of Transportation Template: Fredddie (talk · contribs) File created & uploaded by HWY Shield Bot (talk · contribs)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-me-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/ME",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-id",
   "code": "SH",
+  "image": {
+    "file": "state-route-marker-us-id.svg",
+    "sha1": "985ad977b04530cd78737f67e6f365f693220e66",
+    "source": "https://commons.wikimedia.org/wiki/File:Idaho_1.svg",
+    "author": "Design: Idaho Transportation Department This image: Fredddie",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-id-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/ID",

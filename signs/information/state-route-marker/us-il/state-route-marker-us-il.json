@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-il",
   "code": "IL",
+  "image": {
+    "file": "state-route-marker-us-il.svg",
+    "sha1": "84220eb4564b1b21707c45452c4675f987bb9ba2",
+    "source": "https://commons.wikimedia.org/wiki/File:Illinois_1.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-il-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/IL",

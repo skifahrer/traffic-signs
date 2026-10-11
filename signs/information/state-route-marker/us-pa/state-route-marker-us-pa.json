@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-pa",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-pa.svg",
+    "sha1": "6f98cabe5bc5895b23828524609605926bce999f",
+    "source": "https://commons.wikimedia.org/wiki/File:PA-3.svg",
+    "author": "TwinsMetsFan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-pa-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/PA",

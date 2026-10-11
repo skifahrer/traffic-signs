@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-mi",
   "code": "M",
+  "image": {
+    "file": "state-route-marker-us-mi.svg",
+    "sha1": "66ede26d729c9544482f2d697dca6e26e12cc3b3",
+    "source": "https://commons.wikimedia.org/wiki/File:M-1.svg",
+    "author": "IW4",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-mi-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MI",

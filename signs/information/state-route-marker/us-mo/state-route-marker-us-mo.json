@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-mo",
   "code": "Route",
+  "image": {
+    "file": "state-route-marker-us-mo.svg",
+    "sha1": "786550725fbb2f438c0c471a2f2ef7a3eab193a7",
+    "source": "https://commons.wikimedia.org/wiki/File:MO-1.svg",
+    "author": "Fredddie, originally O",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-mo-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MO",

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="200"
+   height="200"
+   version="1.0"
+   sodipodi:docbase="C:\Users\Emil\Desktop\Matté's Work\Pix\svg\CT"
+   sodipodi:docname="Connecticut_Highway_2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="575"
+     inkscape:window-width="765"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="2160px"
+     height="2160px"
+     units="px"
+     inkscape:zoom="1.885"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="584"
+     inkscape:window-y="283"
+     inkscape:current-layer="g6057" />
+  <g
+     id="g6057"
+     transform="matrix(9.2592593e-2,0,0,9.2592593e-2,0,5.6514033e-6)">
+    <rect
+       rx="135"
+       ry="135"
+       y="-6.1035156e-005"
+       x="0"
+       height="2160"
+       width="2160"
+       id="rect2161"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3134"
+       width="1890"
+       height="1890"
+       x="135"
+       y="134.99994" />
+    <path
+       style="font-size:1611.90795898px;font-style:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       d="M 712.4901,1629.666 C 714.62162,1566.2746 722.67263,1508.2451 736.64314,1455.5772 C 750.61338,1402.9097 772.65117,1350.7995 802.75655,1299.2466 C 825.31884,1258.3852 853.2514,1220.4913 886.55431,1185.5649 C 919.85666,1150.6394 955.31552,1119.2061 992.93099,1091.2648 C 1002.6049,1085.9198 1011.2052,1080.2874 1018.7319,1074.3675 C 1026.2578,1068.4487 1033.7759,1062.7998 1041.2863,1057.421 L 1099.3323,1026.8239 L 1152.5083,996.17759 L 1204.1102,967.15459 C 1225.5899,953.18487 1243.0447,935.7219 1256.4746,914.76561 C 1269.9032,893.81076 1276.6179,872.05173 1276.6185,849.48846 C 1276.6179,829.09117 1271.2478,810.02128 1260.5083,792.27871 C 1249.7675,774.53782 1235.5348,759.22288 1217.8101,746.33383 C 1200.0841,733.44654 1179.3991,723.23931 1155.7549,715.7121 C 1132.1097,708.18672 1106.8581,704.42357 1080,704.42265 C 1025.2002,704.42357 980.87049,717.31994 947.0107,743.11178 C 913.15023,768.9054 891.9241,806.51228 883.33227,855.93255 L 712.4901,818.89133 C 730.75642,728.60938 772.65937,657.94582 838.19904,606.90044 C 903.73826,555.85711 984.33849,530.33493 1080,530.33383 C 1131.585,530.33493 1179.6697,538.93524 1224.2541,556.13479 C 1268.8374,573.33648 1307.5183,596.44008 1340.297,625.44565 C 1373.0741,654.45323 1399.1374,688.56752 1418.4869,727.78862 C 1437.8347,767.01153 1447.5091,808.66031 1447.5099,852.7351 C 1447.5091,894.64702 1438.1053,935.7465 1419.2986,976.03366 C 1400.4902,1016.3221 1373.3611,1052.0597 1337.9112,1083.2466 C 1329.3183,1089.6748 1321.5297,1095.5778 1314.5452,1100.9555 C 1307.5593,1106.3343 1300.2954,1110.6304 1292.7533,1113.8437 L 1239.5773,1147.6875 L 1181.5313,1178.3338 L 1128.3553,1208.9801 C 1102.5456,1224.0003 1079.7044,1239.84 1059.8315,1256.4991 C 1039.9577,1273.159 1021.6912,1291.1631 1005.0321,1310.5114 C 988.37219,1329.8604 972.78669,1351.3571 958.27556,1375.0015 C 943.76372,1398.6465 930.0639,1425.505 917.17604,1455.5772 L 1447.5099,1455.5772 L 1447.5099,1629.666 L 712.4901,1629.666 z "
+       id="text4105" />
+  </g>
+</svg>

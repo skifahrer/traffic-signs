@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ga",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-ga.svg",
+    "sha1": "3e7edd1ce2b98c50bedbeb54663383d02135ffb2",
+    "source": "https://commons.wikimedia.org/wiki/File:Georgia_1.svg",
+    "author": "Fredddie, originally created by Pedriana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ga-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/GA",

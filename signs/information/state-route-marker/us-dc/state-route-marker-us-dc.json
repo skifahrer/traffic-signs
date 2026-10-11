@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-dc",
   "code": "DC",
+  "image": {
+    "file": "state-route-marker-us-dc.svg",
+    "sha1": "d3f4315b59a9c2c0a6a806d27c9f112bc103306d",
+    "source": "https://commons.wikimedia.org/wiki/File:DC-295.svg",
+    "author": "TwinsMetsFan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-dc-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/DC",

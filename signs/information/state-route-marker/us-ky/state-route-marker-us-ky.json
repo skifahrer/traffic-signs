@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ky",
   "code": "KY",
+  "image": {
+    "file": "state-route-marker-us-ky.svg",
+    "sha1": "1605c47cdcadb46d8d5e58575ef98f0806be8c2e",
+    "source": "https://commons.wikimedia.org/wiki/File:Elongated_circle_1.svg",
+    "author": "Northenglish",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ky-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/KY",

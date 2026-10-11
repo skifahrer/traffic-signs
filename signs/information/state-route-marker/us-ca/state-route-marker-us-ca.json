@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ca",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-ca.svg",
+    "sha1": "9458aa40a87b295a37085595a86461cfcd939ab3",
+    "source": "https://commons.wikimedia.org/wiki/File:California_1.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/CA",

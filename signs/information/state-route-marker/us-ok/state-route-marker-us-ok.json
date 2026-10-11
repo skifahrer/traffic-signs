@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ok",
   "code": "SH",
+  "image": {
+    "file": "state-route-marker-us-ok.svg",
+    "sha1": "5225e235086a75a53904266bee7e814fab125966",
+    "source": "https://commons.wikimedia.org/wiki/File:Oklahoma_State_Highway_1.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ok-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/OK",

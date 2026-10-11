@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192" overflow="visible">
+  <path d="M0 12C0 5.3725586 5.3725586 0 12 0h168c6.6269531 0 12 5.3725586 12 12v168c0 6.6269531-5.3730469 12-12 12H12c-6.6274414 0-12-5.3730469-12-12V12z"/>
+  <circle cx="96" cy="96" r="92" fill="#FFF"/>
+  <path fill-rule="evenodd" d="M108.1679688 144.3232422H92.6162109V66.1313477h-8.7841797V54.0351563h1.0078125c4.512207 0 8.2080078-2.0639648 11.0878906-6.1918945h12.2402344v96.4799804z" clip-rule="evenodd"/>
+</svg>

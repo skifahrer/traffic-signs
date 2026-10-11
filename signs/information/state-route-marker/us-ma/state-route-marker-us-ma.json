@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ma",
   "code": "Route",
+  "image": {
+    "file": "state-route-marker-us-ma.svg",
+    "sha1": "46069dac6d8f9ab4007bd3a9bb72a04ea5c40122",
+    "source": "https://commons.wikimedia.org/wiki/File:MA_Route_2.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ma-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MA",

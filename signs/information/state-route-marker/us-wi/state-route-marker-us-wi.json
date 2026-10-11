@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-wi",
   "code": "WI",
+  "image": {
+    "file": "state-route-marker-us-wi.svg",
+    "sha1": "7071dd888fe5c5a89d385d49c468164194c9f39b",
+    "source": "https://commons.wikimedia.org/wiki/File:WIS_13.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wi-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WI",

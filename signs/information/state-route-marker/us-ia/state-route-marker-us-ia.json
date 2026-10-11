@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ia",
   "code": "IA",
+  "image": {
+    "file": "state-route-marker-us-ia.svg",
+    "sha1": "a5756414046cfc5ab4c28aedbe56dbd8158e9d05",
+    "source": "https://commons.wikimedia.org/wiki/File:Circle_sign_1.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ia-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/IA",

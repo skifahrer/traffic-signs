@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-or",
   "code": "OR",
+  "image": {
+    "file": "state-route-marker-us-or.svg",
+    "sha1": "c0a2196f9fbd658f8d47335fa9a285607087c377",
+    "source": "https://commons.wikimedia.org/wiki/File:OR_8.svg",
+    "author": "Fredddie, originally by User:Northenglish and User:Luokuo",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-or-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/OR",

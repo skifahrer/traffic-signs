@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ks",
   "code": "K",
+  "image": {
+    "file": "state-route-marker-us-ks.svg",
+    "sha1": "5e2a9b6e5739c0072fb2f82128781590278ddf85",
+    "source": "https://commons.wikimedia.org/wiki/File:K-10.svg",
+    "author": "No machine-readable author provided. Scott5114 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ks-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/KS",

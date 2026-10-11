@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-pr",
   "code": "PR",
+  "image": {
+    "file": "state-route-marker-us-pr.svg",
+    "sha1": "a7ee67cb0480d7f17fc5cc751babf1166ea5f29b",
+    "source": "https://commons.wikimedia.org/wiki/File:PR_primary_1.svg",
+    "author": "Fredddie",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-pr-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/PR",

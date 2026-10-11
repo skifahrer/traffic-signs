@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-la",
   "code": "LA",
+  "image": {
+    "file": "state-route-marker-us-la.svg",
+    "sha1": "9ef5bcac408eb6254a2285e0b0dd57dc38420888",
+    "source": "https://commons.wikimedia.org/wiki/File:Louisiana_1_(2008).svg",
+    "author": "Own creation",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-la-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/LA",

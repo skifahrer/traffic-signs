@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-md",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-md.svg",
+    "sha1": "95eb4ffaf8dff851d2a48d3e7a6a7fed1328d1f4",
+    "source": "https://commons.wikimedia.org/wiki/File:MD_Route_2.svg",
+    "author": "Jeff02",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-md-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MD",

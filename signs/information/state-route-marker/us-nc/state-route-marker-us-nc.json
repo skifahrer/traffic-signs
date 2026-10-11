@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-nc",
   "code": "NC",
+  "image": {
+    "file": "state-route-marker-us-nc.svg",
+    "sha1": "da796c9f9cbdf813b4a20738468ca3f23e52d3ac",
+    "source": "https://commons.wikimedia.org/wiki/File:NC_12.svg",
+    "author": "TwinsMetsFan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-nc-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NC",

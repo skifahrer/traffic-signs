@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-az",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-az.svg",
+    "sha1": "3bbd2d69b0af0aaed798a6dbd267c3a4288142c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arizona_87.svg",
+    "author": "Fredddie, originally Ltljltlj",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-az-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AZ",

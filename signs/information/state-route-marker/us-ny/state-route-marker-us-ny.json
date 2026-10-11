@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ny",
   "code": "NY",
+  "image": {
+    "file": "state-route-marker-us-ny.svg",
+    "sha1": "2af3822899126457259dd61361d15d572bb3b5fb",
+    "source": "https://commons.wikimedia.org/wiki/File:NY-2.svg",
+    "author": "TwinsMetsFan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ny-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NY",

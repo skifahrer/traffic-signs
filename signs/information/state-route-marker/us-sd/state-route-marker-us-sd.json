@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-sd",
   "code": "SD",
+  "image": {
+    "file": "state-route-marker-us-sd.svg",
+    "sha1": "7138cb28738607c61166e8f22b6f25d95abe85f7",
+    "source": "https://commons.wikimedia.org/wiki/File:SD_10.svg",
+    "author": "Fredddie",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-sd-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/SD",

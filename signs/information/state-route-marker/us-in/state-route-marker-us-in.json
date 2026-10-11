@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-in",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-in.svg",
+    "sha1": "8d872d0328313018386351089461b845ca324c71",
+    "source": "https://commons.wikimedia.org/wiki/File:Indiana_1.svg",
+    "author": "Fredddie, originally by Holderca1",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-in-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/IN",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-wv",
   "code": "WV",
+  "image": {
+    "file": "state-route-marker-us-wv.svg",
+    "sha1": "b86a983424cb888642032b417f5cd0f6eac6fc20",
+    "source": "https://commons.wikimedia.org/wiki/File:WV-2.svg",
+    "author": "TwinsMetsFan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-wv-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WV",

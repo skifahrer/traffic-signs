@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-hi",
   "code": "HI",
+  "image": {
+    "file": "state-route-marker-us-hi.svg",
+    "sha1": "2869f5cea93394d3acab5caa0b41b743dae4e9bc",
+    "source": "https://commons.wikimedia.org/wiki/File:HI-11.svg",
+    "author": "TwinsMetsFan",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-hi-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/HI",

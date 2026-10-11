@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-mt",
   "code": "MT",
+  "image": {
+    "file": "state-route-marker-us-mt.svg",
+    "sha1": "9ac2c21b53d26fa306ac4f150a751a383e070445",
+    "source": "https://commons.wikimedia.org/wiki/File:MT-1.svg",
+    "author": "Fredddie, originally created by Master son",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-mt-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MT",

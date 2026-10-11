@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ne",
   "code": "N",
+  "image": {
+    "file": "state-route-marker-us-ne.svg",
+    "sha1": "10cccfcb91554378a9c1f038699ea2875a72b595",
+    "source": "https://commons.wikimedia.org/wiki/File:N-2.svg",
+    "author": "Fredddie, originally by Scott Onson",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ne-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NE",

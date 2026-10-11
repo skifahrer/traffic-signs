@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-nd",
   "code": "ND",
+  "image": {
+    "file": "state-route-marker-us-nd.svg",
+    "sha1": "c6321bcbcfd4c0e0353d9ffc38d9705547e3afdc",
+    "source": "https://commons.wikimedia.org/wiki/File:ND-1_(2015).svg",
+    "author": "North Dakota Department of Transportation (Template: User:Fredddie)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-nd-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/ND",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-oh",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-oh.svg",
+    "sha1": "819ed8f4a3f65fa2e3dd97d6b87647b507df12c4",
+    "source": "https://commons.wikimedia.org/wiki/File:OH-2.svg",
+    "author": "Homefryes",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-oh-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/OH",

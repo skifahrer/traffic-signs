@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-tx",
   "code": "SH",
+  "image": {
+    "file": "state-route-marker-us-tx.svg",
+    "sha1": "e3c0caa06be8b904156cd9e3dffd8f96992f5f92",
+    "source": "https://commons.wikimedia.org/wiki/File:Texas_6.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-tx-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/TX",

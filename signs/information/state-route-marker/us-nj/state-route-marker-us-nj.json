@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-nj",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-nj.svg",
+    "sha1": "2c9c971da6a748508b5ba4f2296aad86a72d15c8",
+    "source": "https://commons.wikimedia.org/wiki/File:Ellipse_sign_3.svg",
+    "author": "O",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-nj-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NJ",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-co",
   "code": "SH",
+  "image": {
+    "file": "state-route-marker-us-co.svg",
+    "sha1": "cfa088cd768facad91658dea134d65fe5202360f",
+    "source": "https://commons.wikimedia.org/wiki/File:Colorado_1.svg",
+    "author": "Fredddie, originally by User:Atanamir, User:TwinsMetsFan, or User:Pzoxicuvybtnrm among others",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-co-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/CO",

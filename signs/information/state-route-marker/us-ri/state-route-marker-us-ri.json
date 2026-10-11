@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-ri",
   "code": "RI",
+  "image": {
+    "file": "state-route-marker-us-ri.svg",
+    "sha1": "748128879810277297d078cf2cac45878ebff82b",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhode_Island_2.svg",
+    "author": "Fredddie, originally created by Atanamir",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-ri-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/RI",

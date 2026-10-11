@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-va",
   "code": "SR",
+  "image": {
+    "file": "state-route-marker-us-va.svg",
+    "sha1": "b41cefe6df4a9d4f154ae965ac9aa6b87c64fe35",
+    "source": "https://commons.wikimedia.org/wiki/File:Virginia_7.svg",
+    "author": "No machine-readable author provided. Atanamir~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-va-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/VA",

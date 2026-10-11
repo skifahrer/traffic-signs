@@ -3,6 +3,14 @@
   "category": "information",
   "country": "us-nh",
   "code": "NH",
+  "image": {
+    "file": "state-route-marker-us-nh.svg",
+    "sha1": "f3c6abf6193fa5826cea3b9b698c63ffb97663ae",
+    "source": "https://commons.wikimedia.org/wiki/File:NH_Route_9.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-nh-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NH",
