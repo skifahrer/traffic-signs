@@ -1,0 +1,11 @@
+{
+  "sign": "cyclists-dismount",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1012-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1012-32 - Radfahrer absteigen (420x231), StVO 1992.svg"
+  }
+}

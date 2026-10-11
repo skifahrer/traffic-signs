@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-paid-parking-zone",
+  "category": "regulatory",
+  "country": "gb",
+  "code": "664",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 664.svg"
+  }
+}

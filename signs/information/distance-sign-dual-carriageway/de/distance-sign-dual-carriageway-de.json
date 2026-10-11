@@ -1,0 +1,11 @@
+{
+  "sign": "distance-sign-dual-carriageway",
+  "category": "information",
+  "country": "de",
+  "code": "453-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 453-50 - Entfernungstafel auf autobahnähnlich ausgebauten, zweibahnigen Straßen, StVO 2013.svg"
+  }
+}

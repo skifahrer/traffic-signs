@@ -1,0 +1,11 @@
+{
+  "sign": "time-periods",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1040-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1040-31 - Zeitliche Beschränkung (8 - 11 h, 16 - 18 h), 330x600, StVO 1992.svg"
+  }
+}

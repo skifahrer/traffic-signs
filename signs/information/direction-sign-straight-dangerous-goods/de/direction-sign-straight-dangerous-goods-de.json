@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-straight-dangerous-goods",
+  "category": "information",
+  "country": "de",
+  "code": "422-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 422-31 - Wegweiser für bestimmte Verkehrsarten „kennzeichnungspflichtige Fahrzeuge mit gefährlichen Gütern“ - geradeaus; StVO 2013.svg"
+  }
+}

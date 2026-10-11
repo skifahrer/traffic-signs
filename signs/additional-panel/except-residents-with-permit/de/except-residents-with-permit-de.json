@@ -1,0 +1,11 @@
+{
+  "sign": "except-residents-with-permit",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1020-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1020-32 - Bewohner mit Parkausweis Nr. ... frei, StVO 2002.svg"
+  }
+}

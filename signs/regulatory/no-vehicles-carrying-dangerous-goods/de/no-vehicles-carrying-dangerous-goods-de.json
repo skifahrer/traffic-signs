@@ -1,0 +1,11 @@
+{
+  "sign": "no-vehicles-carrying-dangerous-goods",
+  "category": "regulatory",
+  "country": "de",
+  "code": "261",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 261 - Verbot für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern, StVO 1988.svg"
+  }
+}

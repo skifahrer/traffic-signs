@@ -1,0 +1,11 @@
+{
+  "sign": "national-historic-trail-identification",
+  "category": "information",
+  "country": "us",
+  "code": "M11-1",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD M11-1.svg"
+  }
+}

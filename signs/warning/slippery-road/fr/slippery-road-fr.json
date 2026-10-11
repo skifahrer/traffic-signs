@@ -1,0 +1,11 @@
+{
+  "sign": "slippery-road",
+  "category": "warning",
+  "country": "fr",
+  "code": "A4",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France",
+    "file": "France road sign A4.svg"
+  }
+}

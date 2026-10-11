@@ -1,0 +1,281 @@
+code,category,slug,name_en,name_en-GB
+501,warning,stop-or-give-way-ahead,Stop or give way ahead,Stop or give way ahead
+502,additional-panel,distance-to-stop-line,Distance to the stop line,Distance to the stop line
+503,additional-panel,distance-to-give-way-line,Distance to the give way line,Distance to the give way line
+504.1 (variant 1),warning,intersection,Intersection,Crossroads
+505.1 (left),warning,t-junction,T-junction,T-junction
+"506.1 (variant 1, right)",warning,side-road-right,Side road on the right,Side road on the right
+"507.1 (variant 1, right)",warning,staggered-junction,Staggered junction,Staggered junction
+508.1,warning,merging-traffic-from-left,Traffic merging from the left,Traffic merging from the left
+509.1,warning,merging-traffic-onto-main-carriageway,Traffic merging onto the main carriageway from the left,Traffic merging onto the main carriageway from the left
+510,warning,roundabout-ahead,Roundabout ahead,Roundabout ahead
+511–V1,additional-panel,reduce-speed-now,Reduce speed now,Reduce speed now
+512 (right),warning,bend-right,Bend (right),Bend (right)
+512.1 (right),warning,junction-on-bend,Junction on a bend,Junction on a bend
+512.2 (right),warning,junction-on-bend-b,Junction on a bend (variant b),Junction on a bend (variant b)
+512.3 (right),warning,crossroads-on-bend,Crossroads on a bend,Crossroads on a bend
+513 (left),warning,double-bend-left,Double bend (first to the left),Double bend (first to the left)
+513.1,additional-panel,reduce-speed-now-roundabout-or-bend,Reduce speed now (with roundabout or bend signs),Reduce speed now (with roundabout or bend signs)
+513.2–V30,additional-panel,advisory-speed-limit,Advisory speed limit,Advisory speed limit
+515 (left),traffic-device,chevron-board-sharp-deviation-left,Sharp deviation of route to the left (chevrons),Sharp deviation of route to the left (chevrons)
+516,warning,road-narrows-both-sides,Road narrows (from both sides),Road narrows on both sides
+517 (right),warning,road-narrows-right,Road narrows (from the right),Road narrows on the right
+518,warning,single-file-traffic,Single file traffic in each direction,Single file traffic in each direction
+519,warning,single-lane-road,Road wide enough for only one line of vehicles,Road wide enough for only one line of vehicles
+520,warning,end-of-dual-carriageway,End of dual carriageway,End of dual carriageway
+521,warning,two-way-traffic,Two-way traffic,Two-way traffic
+522,warning,two-way-traffic-crossing,Two-way traffic on the route crossing ahead,Two-way traffic on the route crossing ahead
+523.1,warning,steep-descent,Steep descent,Steep descent
+524.1,warning,steep-ascent,Steep ascent,Steep ascent
+525,additional-panel,low-gear-for-descent,Use low gear (for the steep descent),Use low gear (for the steep descent)
+526,additional-panel,low-gear-for-climb,Use low gear (for the long climb),Use low gear (for the long climb)
+527,additional-panel,escape-lane-ahead,Escape lane ahead,Escape lane ahead
+528,warning,hump-bridge,Hump bridge,Hump bridge
+529,warning,movable-bridge,Movable bridge,Opening or swing bridge
+529.1,warning,tunnel-ahead,Tunnel ahead,Tunnel ahead
+543,warning,traffic-signals,Traffic signals,Traffic signals
+543.1,additional-panel,signals-not-in-use,Traffic signals not in use,Traffic signals not in use
+543 + 543.1,warning,part-time-traffic-signals,Part-time traffic signals ahead,Part-time traffic signals ahead
+544,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Zebra crossing ahead
+544.1,warning,pedestrians,Pedestrians,Pedestrians
+544.2,warning,elderly-or-disabled-pedestrians,Frail pedestrians likely to cross,Frail pedestrians likely to cross
+545,warning,children,Children,Children
+546,additional-panel,school,School,School
+547.1,additional-panel,school-crossing-patrol-panel,School crossing patrol,School crossing patrol
+547.2,additional-panel,playground-panel,Playground,Playground
+547.3,additional-panel,pedestrians-in-road,Pedestrians in the road,Pedestrians in the road
+547.4 (variant 1),warning,disabled-pedestrians,Disabled pedestrians,Disabled pedestrians
+547.7 (variant 1),additional-panel,disabled-children,Disabled children,Disabled children
+548,warning,farm-animals,Farm animals,Cattle
+548.1,additional-panel,cattle-crossing,Cattle crossing,Cattle crossing
+549,warning,sheep,Sheep,Sheep
+550,warning,wild-horses-or-ponies,Wild horses or ponies,Wild horses or ponies
+550.1,warning,horse-riders,Horse riders,Accompanied horses or ponies
+550.2,warning,horse-drawn-vehicles,Horse-drawn vehicles,Horse-drawn vehicles
+551,warning,wild-animals,Wild animals,Wild animals
+551.1,warning,amphibians,Migratory toads,Migratory toads
+551.2,warning,wildfowl,Wildfowl,Wildfowl
+551.3,warning,small-wild-animals,Small wild animals,Small wild animals
+552,warning,cattle-grid,Cattle grid,Cattle grid
+553,additional-panel,cattle-grid-bypass,Cattle grid bypass for horse-drawn vehicles and animals,Cattle grid bypass for horse-drawn vehicles and animals
+553.1,warning,agricultural-vehicles,Agricultural vehicles,Agricultural vehicles
+553.2,additional-panel,farm-traffic,Farm traffic,Farm traffic
+554,warning,other-danger-text,"Other danger (worded, e.g. ford)","Other danger (worded, e.g. ford)"
+554.1,additional-panel,try-your-brakes,Try your brakes,Try your brakes
+554.2,warning,snow-or-ice,Snow or ice,Ice or snowdrifts
+554.3,additional-panel,ice-panel,Ice,Ice
+555,warning,quayside,Quayside or river bank,Quayside or river bank
+555.1,warning,water-course-alongside-road,Water course alongside the road,Water course alongside the road
+556,warning,uneven-road,Uneven road,Uneven road
+556.1,warning,soft-verges,Soft verges,Soft verges
+556.2,additional-panel,soft-verges-distance,Soft verges for the distance shown,Soft verges for the distance shown
+557,warning,slippery-road,Slippery road,Slippery road
+557.1,warning,speed-bump,Speed bump,Hump or series of humps
+557.2,additional-panel,humps-distance,Humps for the distance shown,Humps for the distance shown
+557.3,additional-panel,humps-direction-and-distance,Humps (direction and distance),Humps (direction and distance)
+557.4,additional-panel,hump-direction-and-distance,Hump ahead (direction and distance),Hump ahead (direction and distance)
+558,warning,low-flying-aircraft,Low-flying aircraft,Low-flying aircraft or sudden aircraft noise
+558.1,warning,low-flying-helicopters,Low-flying helicopters or sudden helicopter noise,Low-flying helicopters or sudden helicopter noise
+558.2,warning,gliders,Gliders,Gliders
+559 (left),warning,fallen-rocks-left,Fallen rocks (from the left),Falling or fallen rocks (from the left)
+562,warning,danger,Other danger,Other danger
+563.1,warning,fire-station,Fire station ahead (stop when lights show),Fire station ahead (stop when lights show)
+570,additional-panel,distance-over-which-hazard-extends,Distance over which the hazard extends,Distance over which the hazard extends
+572,additional-panel,distance-to-hazard,Distance to the hazard,Distance to the hazard
+573,additional-panel,direction-and-distance-to-hazard,Direction and distance to the hazard,Direction and distance to the hazard
+574,information,animal-disease-area,Area infected by animal disease,Area infected by animal disease
+575,warning,oncoming-traffic-in-middle,Oncoming vehicles in the middle of the road,Oncoming vehicles in the middle of the road
+581,warning,crosswind,Crosswind,Side winds
+582,warning,military-vehicles,Slow-moving military vehicles,Slow-moving military vehicles
+583,warning,slow-moving-vehicles,Slow-moving vehicles,Slow-moving vehicles
+583.1,additional-panel,slow-moving-vehicles-distance,Slow-moving vehicles for the distance shown,Slow-moving vehicles for the distance shown
+584,warning,queues,Queues likely,Queues likely
+584.1,additional-panel,queues-likely,Queues likely,Queues likely
+563,additional-panel,accident-panel,Accident,Accident
+563V2,additional-panel,blasting,Blasting,Blasting
+563V3,additional-panel,hilltop,Hilltop (blind summit),Blind summit
+563V5,additional-panel,dust-cloud,Dust cloud,Dust cloud
+563V6,additional-panel,fallen-tree,Fallen tree,Fallen tree
+563V8,additional-panel,frost-damage,Frost damage,Frost damage
+563V9,additional-panel,hidden-dip,Hidden dip,Hidden dip
+563V10,additional-panel,overhead-cable-repairs,Overhead cable repairs,Overhead cable repairs
+563V12,additional-panel,flooding,Flooding,Road liable to flooding
+563V14,additional-panel,smoke,Smoke,Smoke
+601.1,regulatory,stop,"Stop, give way",Stop
+602,regulatory,give-way,Give way,Give way
+602–WLS,regulatory,give-way-bilingual,Give way (English and Welsh),Give way (English and Welsh)
+616,regulatory,no-entry,No entry,No entry
+617,regulatory,no-vehicles,No vehicles,No vehicles except bicycles being pushed
+618.1B,additional-panel,play-street-times,Play street (times),Play street (times)
+618,regulatory,play-street,Play street,Play street
+619,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,No motor vehicles
+619.1,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,No motor vehicles except solo motorcycles
+619.2,regulatory,no-motorcycles,No entry for motorcycles,No solo motorcycles
+622.7,regulatory,no-caravans,No entry for caravans,No towed caravans
+625.1,regulatory,no-pedestrians,No entry for pedestrians,No entry for pedestrians
+622.6,regulatory,no-riders,No entry for riders on animals,No ridden or accompanied horses
+622.5,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,No horse-drawn vehicles
+622.4–V1,regulatory,no-articulated-vehicles,No articulated vehicles,No articulated vehicles
+622.4–V2,regulatory,no-tracked-vehicles,No track-laying vehicles,No track-laying vehicles
+622.1A,regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,No goods vehicles over the unladen weight shown
+622.2,regulatory,end-of-no-goods-vehicles-over-weight,End of no goods vehicles over the unladen weight shown,End of no goods vehicles over the unladen weight shown
+629.1 (variant 2),regulatory,maximum-length,Maximum length,Maximum length (metric)
+629.1 (variant 1),regulatory,maximum-length-imperial,Maximum length (imperial),Maximum length (imperial)
+622.8,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,No vehicles carrying explosives
+622.9 (variant 1),additional-panel,explosives-explanation,Explosives (explanatory plate),Explosives (explanatory plate)
+629A,regulatory,maximum-width,Maximum width,Maximum width
+629.2A,regulatory,maximum-height,Maximum height,Maximum height
+"626.2A (variant 1b, 33t)",regulatory,maximum-weight-on-bridge,Maximum gross weight on the bridge or structure,Maximum gross weight on the bridge or structure
+620,additional-panel,except-for-access,Except for access,Except for access
+620.1,additional-panel,except-for-loading,Except for loading by goods vehicles,Except for loading by goods vehicles
+632,regulatory,no-overtaking,No overtaking,No overtaking
+615,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Give way to oncoming traffic
+615.1,additional-panel,give-way-to-oncoming-vehicles,Give way to oncoming vehicles,Give way to oncoming vehicles
+614,regulatory,no-u-turn,No U-turn,No U-turn
+612,regulatory,no-right-turn,No right turn,No right turn
+613,regulatory,no-left-turn,No left turn,No left turn
+605.2,traffic-device,stop-paddle-children,"Stop, children (school crossing patrol sign)","Stop, children (school crossing patrol sign)"
+633,regulatory,police-check-stop,Police check stop,"Stop, police"
+651,regulatory,prohibitions-on-private-area,Prohibitions on a decorative area off the highway,Prohibitions on a decorative area off the highway
+606 (left),regulatory,turn-left,Turn left,Turn left
+609 (left),regulatory,turn-left-ahead,Turn left ahead,Turn left ahead
+610 (left),regulatory,pass-on-left,Pass on the left,Keep left
+608,additional-panel,dual-carriageway,Dual carriageway,Dual carriageway
+607,additional-panel,one-way,One way,One way
+611.1,regulatory,mini-roundabout,Mini-roundabout,Mini-roundabout
+636,regulatory,no-parking,No parking,No waiting
+642,regulatory,no-stopping,No stopping,Clearway (no stopping)
+652,information,one-way-road,One-way road,One-way traffic
+663,regulatory,paid-parking-zone,Paid parking zone,Controlled parking zone
+664,regulatory,end-of-paid-parking-zone,End of paid parking zone,End of controlled parking zone
+671,regulatory,national-speed-limit,National speed limit applies,National speed limit applies
+672,regulatory,minimum-speed-30mph,Minimum speed (30 mph),Minimum speed (30 mph)
+673,regulatory,end-of-minimum-speed-30mph,End of minimum speed (30 mph),End of minimum speed (30 mph)
+674,regulatory,speed-limit-zone-20mph,20 mph zone,20 mph zone
+675,regulatory,end-of-speed-limit-zone-20mph,End of 20 mph zone,End of 20 mph zone
+878,information,speed-camera-area,Speed cameras in use,Speed cameras in use
+878.1 (v2),information,average-speed-check,Average speed check,Average speed check
+879,information,speed-camera,Speed camera,Speed camera
+880,information,speed-camera-with-limit,Speed camera with speed limit reminder,Speed camera with speed limit reminder
+670V20,regulatory,speed-limit-20mph,Speed limit (20 mph),Speed limit (20 mph)
+670V30,regulatory,speed-limit-30mph,Speed limit (30 mph),Speed limit (30 mph)
+670V40,regulatory,speed-limit-40mph,Speed limit (40 mph),Speed limit (40 mph)
+670V50,regulatory,speed-limit-50mph,Speed limit (50 mph),Speed limit (50 mph)
+670V60,regulatory,speed-limit-60mph,Speed limit (60 mph),Speed limit (60 mph)
+530A,warning,low-bridge-ahead,Low headroom ahead,Low headroom ahead
+530.1,additional-panel,overhanging-building,Overhanging building,Overhanging building
+531.1 (variant 2),warning,arch-bridge-headroom,Arch bridge headroom (metric),Arch bridge headroom (metric)
+531.1 (variant 1),warning,arch-bridge-headroom-imperial,Arch bridge headroom (imperial),Arch bridge headroom (imperial)
+531.2,additional-panel,arch-bridge-headroom-panel,Arch bridge headroom (supplementary plate),Arch bridge headroom (supplementary plate)
+770,warning,level-crossing-with-barriers,Level crossing with barriers,Level crossing with barriers
+771,warning,level-crossing-without-barriers,Level crossing without barriers,Level crossing without barriers
+772,warning,trams,Trams,Trams crossing ahead
+773,warning,level-crossing-signals,Light signals at a level crossing ahead,Light signals at a level crossing ahead
+779,warning,overhead-power-lines,Overhead power lines,Overhead electric cables
+780A,additional-panel,overhead-cables-height,Height of overhead cables at the level crossing,Height of overhead cables at the level crossing
+782,warning,level-crossing-grounding-risk,Risk of grounding at the level crossing,Risk of grounding at the level crossing
+783 (variant 1),information,level-crossing-phone-large-vehicles,Large vehicles phone before crossing (automatic level crossing),Large vehicles phone before crossing (automatic level crossing)
+784.1 (variant 1),information,level-crossing-phone-very-large-vehicles,Very large vehicles phone before crossing,Very large vehicles phone before crossing
+787 (variant 1),information,level-crossing-telephone,Telephone at the level crossing,Telephone at the level crossing
+788 (variant 1),information,level-crossing-telephone-direction,Direction to the telephone at the level crossing,Direction to the telephone at the level crossing
+789,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Level crossing countdown marker (3 bars)
+789.1,warning,level-crossing-countdown-marker-2-bars,Level crossing countdown marker (2 bars),Level crossing countdown marker (2 bars)
+789.2,warning,level-crossing-countdown-marker-1-bar,Level crossing countdown marker (1 bar),Level crossing countdown marker (1 bar)
+775,additional-panel,keep-crossing-clear,Keep the crossing clear,Keep the crossing clear
+777 (variant 1),additional-panel,another-train-coming,Another train coming (multiple track level crossing),Another train coming (multiple track level crossing)
+774,warning,level-crossing-cross-single-track,Level crossing cross (single track),"Level crossing cross (single track, without barriers)"
+952,regulatory,no-buses,No entry for buses and trolleybuses,No buses
+951,regulatory,no-bicycles,No entry for bicycles,No cycling
+950,warning,cyclists,Cyclists,Cyclists
+956,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Shared route for cyclists and pedestrians
+957,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,Segregated route for cyclists and pedestrians
+955,regulatory,cycle-path,Cycle path,Route for cyclists only
+953.1,regulatory,tram-only-route,Route for trams only,Route for trams only
+953.1V,regulatory,bus-and-tram-only-route,Route for buses and trams only,Route for buses and trams only
+960,information,contraflow-bus-lane,Contraflow bus lane,Contraflow bus lane
+967,information,recommended-cycle-route-on-carriageway,Recommended route for cyclists on the main carriageway,Recommended route for cyclists on the main carriageway
+964,regulatory,end-of-public-transport-lane,End of public transport lane,End of bus lane
+2603,information,cycle-parking-junction-ahead,Cycle parking at the junction ahead,Cycle parking at the junction ahead
+959.1,information,with-flow-cycle-lane,With-flow cycle lane,With-flow cycle lane
+963T,information,bus-lane-both-ways,Bus lane with traffic from both ways (for pedestrians),Bus lane with traffic from both ways (for pedestrians)
+958.1,information,with-flow-cycle-lane-ahead,With-flow cycle lane ahead,With-flow cycle lane ahead
+661.1VB,regulatory,bus-parking,Bus parking (during the times shown),Bus parking (during the times shown)
+963.2,information,contraflow-bus-and-cycle-lane,Contraflow bus and cycle lane,Contraflow bus and cycle lane
+618.3,information,pedestrian-zone,Pedestrian zone,Pedestrian zone (except loading at the times shown)
+618.4,information,end-of-pedestrian-zone,End of pedestrian zone,End of pedestrian zone
+637.2V,regulatory,pedestrian-zone-waiting-restriction,Waiting restriction in the pedestrian zone,Waiting restriction in the pedestrian zone
+639,regulatory,no-waiting-except-loading,No waiting except for loading,No waiting except for loading
+639R,regulatory,no-waiting-except-loading-direction,No waiting except for loading (in the direction shown),No waiting except for loading (in the direction shown)
+640.4,regulatory,no-waiting-in-loading-area,No waiting in the loading area,No waiting in the loading area
+638,regulatory,no-loading,No loading or unloading,No loading or unloading
+660.4,regulatory,loading-bay,Loading bay,Loading bay
+640 directions,regulatory,no-waiting-and-no-loading-direction,No waiting and no loading (in the directions shown),No waiting and no loading (in the directions shown)
+801,regulatory,parking,Parking,Parking
+661A,regulatory,disabled-parking-place,Parking for disabled badge holders only,Parking for disabled badge holders only
+661.1,regulatory,parking-time-limited,Parking with limited waiting time,Parking with limited waiting time
+660.5,regulatory,voucher-parking,Voucher parking,Voucher parking
+2507,information,parking-direction-day,Direction to a parking place (on the day specified),Direction to a parking place (on the day specified)
+667,regulatory,pavement-parking-partial,Parking partially on the verge or footway,Parking partially on the verge or footway
+668,regulatory,pavement-parking-full,Parking wholly on the verge or footway,Parking wholly on the verge or footway
+667.2,regulatory,end-of-pavement-parking-partial,End of parking partially on the verge or footway,End of parking partially on the verge or footway
+668.2,regulatory,end-of-pavement-parking-full,End of parking wholly on the verge or footway,End of parking wholly on the verge or footway
+2930,information,end-of-motorway-in-1-mile,End of motorway in 1 mile,End of motorway in 1 mile
+2901,information,motorway,Motorway,Motorway
+2910,information,motorway-exit-route-number,Route number reached from the motorway exit,Route number reached from the motorway exit
+2918,information,next-services-distance,Distance to the next motorway services,Distance to the next motorway services
+2912,information,motorway-junction-with-motorway,Junction ahead with another motorway,Junction ahead with another motorway
+2932,information,services-entrance-motorway,Entrance to motorway services,Entrance to motorway services
+2903,information,advance-direction-sign-motorway,Advance direction sign on the motorway,Advance direction sign on the motorway
+2911,information,distance-sign-motorway,Route confirmation and distance sign on the motorway,Route confirmation and distance sign on the motorway
+2902,information,advance-direction-sign-to-motorway,Advance direction sign before the motorway entrance,Advance direction sign to the motorway
+2921,information,services-entrance,Entrance to the services,Entrance to the services
+2917V,information,services-ahead,Motorway services ahead (with distances),Motorway services ahead (with distances)
+2917,information,services-ahead-operators,Motorway services ahead (with distances and operators),Motorway services ahead (with distances and operators)
+2919.3 (Unbranded),information,services-approach-sign,Motorway services approach sign (operator and facilities),Motorway services approach sign (operator and facilities)
+2919.3 (Branded),information,services-approach-sign-branded,Motorway services approach sign (with brand logos),Motorway services approach sign (with brand logos)
+2906,information,exit-direction-sign-motorway,Exit direction sign on the motorway,Exit direction sign on the motorway
+868M,information,lane-gain-from-left,Additional lane joining from the left,Additional lane joining from the left
+823-G-L,information,exit-countdown-300-yards,Countdown marker (300 yards to a junction),Countdown marker (300 yards to a junction)
+824-G-L,information,exit-countdown-200-yards,Countdown marker (200 yards to a junction),Countdown marker (200 yards to a junction)
+825-G-L,information,exit-countdown-100-yards,Countdown marker (100 yards to a junction),Countdown marker (100 yards to a junction)
+2025,information,advance-direction-sign-primary-route,Advance direction sign (primary route through a town),Advance direction sign (primary route through a town)
+874P,information,lane-gain-from-right,Additional lanes joining from the right,Additional lanes joining from the right
+873+876P,information,lane-gain-from-left-in-200-yards,Additional lane joining from the left in 200 yards,Additional lane joining from the left in 200 yards
+2205,information,tourist-information-point,Tourist information,Tourist information
+2301,information,tourist-campsite-ahead,Camping and caravan site ahead,Camping and caravan site ahead
+2201,information,tourist-attraction-ahead,Tourist attraction ahead,Tourist attraction ahead
+2305,information,picnic-area-ahead,Picnic area ahead,Picnic area ahead
+2208,information,tourist-destination-direction-sign,Tourist destination direction sign,Direction to a tourist attraction
+2212,information,tourist-route,Tourist route,Tourist route
+2306,information,picnic-area-direction,Direction and distance to a picnic area,Direction and distance to a picnic area
+2204,information,tourist-information-direction,Direction and distance to tourist information,Direction and distance to tourist information
+2926,information,tourist-attractions-junction-motorway-slip-road,Tourist attractions at the junction ahead (from a motorway slip road),Tourist attractions at the junction ahead (from a motorway slip road)
+2608,information,tourist-attraction-pedestrian-direction,Direction to a tourist attraction for pedestrians,Direction to a tourist attraction for pedestrians
+2202,information,tourist-attraction-junction-ahead,Tourist attraction at the junction ahead,Tourist attraction at the junction ahead
+2304,information,youth-hostel-ahead,Youth hostel ahead,Youth hostel ahead
+2924,information,tourist-attractions-junction-motorway-slip-road-b,"Tourist attractions at the junction ahead (from a motorway slip road, variant b)","Tourist attractions at the junction ahead (from a motorway slip road, variant b)"
+2209,information,tourist-attraction-distance,Tourist attraction ahead (with distance),Tourist attraction ahead (with distance)
+2925,information,tourist-information-motorway,Tourist information (motorway),Tourist information (motorway)
+972,information,tourist-bus-photo-stop,Stopping place for tourist buses (photographs),Stopping place for tourist buses (photographs)
+2927,information,tourist-area-motorway-junction,Tourist area at the motorway junction ahead,Tourist area at the motorway junction ahead
+2307,information,parking-with-facilities-ahead,Parking with tourist information and facilities ahead,Parking with tourist information and facilities ahead
+2716,information,diversion-trigger-sign,Diversion trigger sign (main road closed),Diversion trigger sign (main road closed)
+2704V,information,triangle-diversion-right,"Diversion (triangle symbol, turn right)","Diversion (triangle symbol, turn right)"
+2702L,information,diversion-left,Diversion (to the left),Diversion (to the left)
+810-L,information,one-way-road-left,One-way road (left here),One-way traffic (pointing left)
+611,regulatory,pass-on-either-side,Pass on either side,Pass on either side
+811,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Priority over oncoming traffic
+816,information,dead-end,Dead end,No through road
+820V2,information,unsuitable-for-heavy-goods-vehicles,Unsuitable for heavy goods vehicles,Unsuitable for heavy goods vehicles
+820V4,information,unsuitable-for-long-vehicles,Unsuitable for long vehicles,Unsuitable for long vehicles
+820.1,information,no-hard-shoulder,No hard shoulder for the distance shown,No hard shoulder for the distance shown
+818.4,information,weight-restriction-ahead-alternative-route,Weight restriction ahead (with alternative route),Weight restriction ahead (with alternative route)
+822,information,passing-place,Passing place,Passing place
+7001,warning,roadworks,Roadworks,Road works
+7009,warning,loose-gravel,Loose gravel,Loose chippings
+7221,information,lanes-bend-ahead,Lanes bend ahead (temporary),Lanes bend ahead (temporary)
+7292,information,width-restriction-temporary,Restriction: no vehicles over the width shown (temporary),Restriction: no vehicles over the width shown (temporary)
+2706,information,diversion-destination,Diversion for traffic to a destination,Diversion for traffic to a destination
+7294–V30,additional-panel,temporary-advisory-speed-limit,Temporary advisory speed limit,Temporary advisory speed limit
+832.6,information,lane-selection-goods-vehicles,Get in lane (goods vehicles use the left lane),Get in lane (goods vehicles use the left lane)
+829.2,information,police-accident,Police accident,Police accident

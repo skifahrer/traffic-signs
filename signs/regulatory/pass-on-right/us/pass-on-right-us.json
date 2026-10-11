@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-right",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R4-7",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R4-7.svg"
+  }
+}

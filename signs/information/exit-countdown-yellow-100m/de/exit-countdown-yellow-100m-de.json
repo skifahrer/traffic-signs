@@ -1,0 +1,11 @@
+{
+  "sign": "exit-countdown-yellow-100m",
+  "category": "information",
+  "country": "de",
+  "code": "450-53",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 450-53 - Ankündigungsbake einstreifig (100 m, gelb), StVO 2013.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "steep-descent",
+  "category": "warning",
+  "country": "gb",
+  "code": "523.1",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 523.1.svg"
+  }
+}

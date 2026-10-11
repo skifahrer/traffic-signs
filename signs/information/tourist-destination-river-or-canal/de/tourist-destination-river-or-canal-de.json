@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-destination-river-or-canal",
+  "category": "information",
+  "country": "de",
+  "code": "386.1-53",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 386.1-53 - Touristischer Hinweis Fluss oder Kanal, 600x900; StVO 2017.svg"
+  }
+}

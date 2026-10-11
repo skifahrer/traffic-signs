@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-except-solo-motorcycles",
+  "category": "regulatory",
+  "country": "de",
+  "code": "251",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 251 - Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge, StVO 1992.svg"
+  }
+}

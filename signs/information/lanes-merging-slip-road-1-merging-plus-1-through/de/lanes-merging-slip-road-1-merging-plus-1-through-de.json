@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-merging-slip-road-1-merging-plus-1-through",
+  "category": "information",
+  "country": "de",
+  "code": "551-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 551-20 - Zusammenführungstafel; Darstellung ohne Gegenverkehr - eins plus eins Fahrstreifen, StVO 1992.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "stop-ahead-pay-toll-cars-price",
+  "category": "warning",
+  "country": "us",
+  "code": "W9-6a",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W9-6a.svg"
+  }
+}

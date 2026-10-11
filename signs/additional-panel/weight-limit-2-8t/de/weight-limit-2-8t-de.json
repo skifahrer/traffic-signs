@@ -1,0 +1,11 @@
+{
+  "sign": "weight-limit-2-8t",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1060-33",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1060-33 - Massenangabe - 2,8 t, StVO 2017.svg"
+  }
+}

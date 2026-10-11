@@ -1,0 +1,11 @@
+{
+  "sign": "arrow-direction-sign-federal-road-left",
+  "category": "information",
+  "country": "de",
+  "code": "415-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 415-10 - Wegweiser auf Bundesstraßen (linksweisend), StVO 1992.svg"
+  }
+}

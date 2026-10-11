@@ -1,0 +1,11 @@
+{
+  "sign": "vehicle-type-buses",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1010-57",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1010-57 - Kraftomnibus, StVO 2017.svg"
+  }
+}

@@ -33,6 +33,8 @@ ISO 639-1 language codes, `en` first; when a country is added, its language is
 added to the same file, e.g. `"cs": "Jiné nebezpečí"` for Czechia. If two
 countries name a sign differently in the same language, add a region to the
 key for the second one, e.g. `de` for Germany and `de-AT` for Austria.
+English-speaking countries keep their own wording under such a key next to the
+shared `en`: `{"en": "Give way", "en-GB": "Give way", "en-US": "Yield"}`.
 
 ### Categories
 
@@ -90,9 +92,14 @@ python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
 
 | Country | Signs | Source | Pipeline |
 | --- | --- | --- | --- |
+| Canada (`ca`) | 65 | [Road signs in Canada](https://en.wikipedia.org/wiki/Road_signs_in_Canada) (English Wikipedia, national MUTCDC examples only) | [`pipelines/countries/ca`](pipelines/countries/ca) |
 | Czechia (`cz`) | 368 | [Seznam dopravních značek v Česku](https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku) (Czech Wikipedia, vyhláška 294/2015 Sb.) | [`pipelines/countries/cz`](pipelines/countries/cz) |
-| Poland (`pl`) | 403 | [Wzory znaków i sygnałów drogowych w Polsce](https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce) (Polish Wikipedia) | [`pipelines/countries/pl`](pipelines/countries/pl) |
+| France (`fr`) | 252 | [Panneau de signalisation routière de danger en France](https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France) and the other family articles and lists (French Wikipedia) | [`pipelines/countries/fr`](pipelines/countries/fr) |
+| Germany (`de`) | 969 | [Bildtafel der Verkehrszeichen in der Bundesrepublik Deutschland seit 2017](https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017) (German Wikipedia, VwV-StVO) | [`pipelines/countries/de`](pipelines/countries/de) |
+| Great Britain (`gb`) | 280 | [Road signs in the United Kingdom](https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom) (English Wikipedia, TSRGD diagram numbers) | [`pipelines/countries/gb`](pipelines/countries/gb) |
+| Poland (`pl`) | 404 | [Wzory znaków i sygnałów drogowych w Polsce](https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce) (Polish Wikipedia) | [`pipelines/countries/pl`](pipelines/countries/pl) |
 | Slovakia (`sk`) | 837 | [Zoznam dopravných značiek na Slovensku](https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku) (Slovak Wikipedia, VL 6.1 / 6.3 / 6.4) | [`pipelines/countries/sk`](pipelines/countries/sk) |
+| United States (`us`) | 1,132 | [Road signs in the United States](https://en.wikipedia.org/wiki/Road_signs_in_the_United_States) (English Wikipedia, MUTCD) | [`pipelines/countries/us`](pipelines/countries/us) |
 
 ## Pipelines
 
@@ -101,7 +108,7 @@ country, or the ones you name:
 
 ```sh
 python3 -m pipelines                  # every country
-python3 -m pipelines sk               # only Slovakia (several: sk cz pl)
+python3 -m pipelines sk               # only Slovakia (several: sk cz de)
 python3 -m pipelines --list           # available countries
 python3 -m pipelines sk --no-images   # names and metadata only
 python3 -m pipelines sk --check       # report what would change, write nothing
@@ -227,16 +234,20 @@ pipelines/
    | Signs spread over several pages | `page=["Panneau … de danger en France", "Panneau … de prescription en France"]`; every parser reads every page, and a sign listed twice counts once |
    | Signs missing from the local page | `"en:Road signs in France"` reads a page from the English (or any other) Wikipedia |
    | Every caption starts with a word that is not part of the code | `code_prefix=r"(?:Zusatzzeichen\|Zeichen) "` on `gallery()`/`wikitable()` stores `Zeichen 101` as `101` |
+   | Captions with a dot, dash or slash after the code | read as they are: `A1a - Virage à droite`, `B0. Circulation interdite`, `RA-9A/Cross other side` |
+   | The page also shows older or regional signs | `parsers.between(parser, start=r"^==\s*Categorisation", end=r"^===\s*Obsolete")` reads only that part of the page |
    | Captions without codes, but files named after the sign | `parsers.files(r"UK traffic sign (?P<code>.+)\.svg")` takes the code from every matching image on the page |
    | Captions without (usable) local names | `local_names="translations"`: names come from the `name_<language>` column of `translations.csv` |
-   | An English-speaking country | `language="en"`: `translations.csv` has only `name_en`, which is both the English and the local name |
+   | An English-speaking country | `language="en", names_key="en-GB"`: `translations.csv` has `name_en`, the English name every country with the sign shares, and `name_en-GB`, the country's own wording |
 
    Images: when the page uses a `.png`, `.jpg` or `.tif` and Commons has an
    `.svg` of the same name, the SVG is downloaded instead (`prefer_svg=True`,
    the default).
 2. Add `translations.csv` with the columns `code,category,slug,name_en,name_<language>`.
    Reuse an existing sign folder (`slug`) when the sign means the same, so the
-   countries line up. Run `python3 -m pipelines <code> --check` to see which
+   countries line up. The names file is shared, so use the English name and
+   category that folder already has; `tests/test_countries.py` fails when two
+   countries disagree. Run `python3 -m pipelines <code> --check` to see which
    codes on the page still need a row.
 3. Optionally add `corrections.csv` (`file,code,name_<language>,note`).
 

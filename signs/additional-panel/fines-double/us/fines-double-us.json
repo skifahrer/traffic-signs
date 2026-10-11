@@ -1,0 +1,11 @@
+{
+  "sign": "fines-double",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "R2-6aP",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R2-6aP.svg"
+  }
+}

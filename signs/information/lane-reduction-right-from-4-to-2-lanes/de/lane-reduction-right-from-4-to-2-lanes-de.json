@@ -1,0 +1,11 @@
+{
+  "sign": "lane-reduction-right-from-4-to-2-lanes",
+  "category": "information",
+  "country": "de",
+  "code": "531-15",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 531-15 Einengungstafel - ohne Gegenverkehr.svg"
+  }
+}

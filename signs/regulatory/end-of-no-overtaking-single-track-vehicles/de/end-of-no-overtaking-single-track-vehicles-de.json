@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking-single-track-vehicles",
+  "category": "regulatory",
+  "country": "de",
+  "code": "281.1",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 281.1 - Ende des Verbots des Überholens von einspurigen Fahrzeugen für mehrspurige Kraftfahrzeuge und Krafträdern mit Beiwagen; StVO 2020.svg"
+  }
+}

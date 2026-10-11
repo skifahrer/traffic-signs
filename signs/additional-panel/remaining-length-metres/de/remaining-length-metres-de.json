@@ -1,0 +1,11 @@
+{
+  "sign": "remaining-length-metres",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1001-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1001-32 - noch ... m, StVO 2017.svg"
+  }
+}

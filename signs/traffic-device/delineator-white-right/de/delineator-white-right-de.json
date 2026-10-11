@@ -1,0 +1,11 @@
+{
+  "sign": "delineator-white-right",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "620-40",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 620-40 - Leitpfosten (rechts), StVO 1992.svg"
+  }
+}

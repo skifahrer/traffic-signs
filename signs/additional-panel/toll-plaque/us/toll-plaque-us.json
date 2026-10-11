@@ -1,0 +1,11 @@
+{
+  "sign": "toll-plaque",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "M4-15",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD M4-15.svg"
+  }
+}

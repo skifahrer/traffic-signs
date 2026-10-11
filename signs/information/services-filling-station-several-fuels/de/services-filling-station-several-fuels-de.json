@@ -1,0 +1,11 @@
+{
+  "sign": "services-filling-station-several-fuels",
+  "category": "information",
+  "country": "de",
+  "code": "365-70",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 365-70 Tankstelle mit Tankmöglichkeit verschiedener Kraftstoffarten.svg"
+  }
+}

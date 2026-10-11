@@ -1,0 +1,11 @@
+{
+  "sign": "winter-sports-permitted-time",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1040-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1040-10 - Wintersport erlaubt, zeitlich beschränkt 10 - 16 h, StVO 1992.svg"
+  }
+}

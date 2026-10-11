@@ -1,0 +1,11 @@
+{
+  "sign": "stop-in-100m",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1004-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1004-32 - Stop in 100 m, StVO 2017.svg"
+  }
+}

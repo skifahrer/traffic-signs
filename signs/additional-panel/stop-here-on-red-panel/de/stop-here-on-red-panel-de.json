@@ -1,0 +1,11 @@
+{
+  "sign": "stop-here-on-red-panel",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1012-35",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1012-35 - bei Rot hier halten (330x600), StVO 1992.svg"
+  }
+}

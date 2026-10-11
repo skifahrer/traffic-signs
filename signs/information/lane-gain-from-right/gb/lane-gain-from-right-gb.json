@@ -1,0 +1,11 @@
+{
+  "sign": "lane-gain-from-right",
+  "category": "information",
+  "country": "gb",
+  "code": "874P",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 874P.svg"
+  }
+}

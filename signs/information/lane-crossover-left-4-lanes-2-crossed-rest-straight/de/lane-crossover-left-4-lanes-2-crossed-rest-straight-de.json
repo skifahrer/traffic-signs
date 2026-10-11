@@ -1,0 +1,11 @@
+{
+  "sign": "lane-crossover-left-4-lanes-2-crossed-rest-straight",
+  "category": "information",
+  "country": "de",
+  "code": "501-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 501-50 Überleitungstafel - ohne Gegenverkehr.svg"
+  }
+}

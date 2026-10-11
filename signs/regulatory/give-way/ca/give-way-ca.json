@@ -1,0 +1,11 @@
+{
+  "sign": "give-way",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RA-2",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC RA-002.svg"
+  }
+}

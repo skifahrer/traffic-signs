@@ -1,0 +1,11 @@
+{
+  "sign": "customs",
+  "category": "information",
+  "country": "de",
+  "code": "392",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 392 - Zollstelle, StVO 1970.svg"
+  }
+}

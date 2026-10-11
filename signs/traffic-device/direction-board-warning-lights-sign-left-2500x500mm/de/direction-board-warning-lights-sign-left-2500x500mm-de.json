@@ -1,0 +1,11 @@
+{
+  "sign": "direction-board-warning-lights-sign-left-2500x500mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "605-24",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 605-24 - Warnlichtbake mit integriertem Zeichen 222, Aufstellung links mit Zeichen 222; StVO 2013.svg"
+  }
+}

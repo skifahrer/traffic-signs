@@ -1,0 +1,11 @@
+{
+  "sign": "disabled-with-permit-only",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1044-11",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1044-11 - nur Schwerbehinderte mit Parkausweis Nr ... (600x330); StVO 1992.svg"
+  }
+}

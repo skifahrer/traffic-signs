@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "country": "fr",
+  "code": "B34a",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Liste_des_signaux_routiers_de_prescription_en_France",
+    "file": "France road sign B34a.svg"
+  }
+}

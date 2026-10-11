@@ -1,0 +1,11 @@
+{
+  "sign": "depth-gauge",
+  "category": "warning",
+  "country": "us",
+  "code": "W8-19",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W8-19.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "motorway-number",
+  "category": "information",
+  "country": "de",
+  "code": "405",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 405 - Nummernschild für Autobahnen, StVO 1992.svg"
+  }
+}

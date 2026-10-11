@@ -1,0 +1,11 @@
+{
+  "sign": "advance-intersection-lane-control-two-lanes-left",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R3-8L",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R3-8L.svg"
+  }
+}

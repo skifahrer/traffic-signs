@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-straight-goods-vehicles",
+  "category": "information",
+  "country": "de",
+  "code": "422-30",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 422-30 - Wegweiser für bestimmte Verkehrsarten „KFZ mit einer zulässigen Gesamtmasse über 3,5 t“ - geradeaus; StVO 2013.svg"
+  }
+}

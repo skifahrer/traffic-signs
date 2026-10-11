@@ -1,0 +1,11 @@
+{
+  "sign": "truck-route",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RB-61",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-ON road sign Rb-061.svg"
+  }
+}

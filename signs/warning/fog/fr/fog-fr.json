@@ -1,0 +1,11 @@
+{
+  "sign": "fog",
+  "category": "warning",
+  "country": "fr",
+  "code": "AK32",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_temporaire_en_France",
+    "file": "France road sign AK32.svg"
+  }
+}

@@ -1,6 +1,11 @@
 {
   "en": "No entry",
   "cs": "Zákaz vjezdu všech vozidel",
+  "de": "Verbot der Einfahrt",
+  "en-CA": "No entry",
+  "en-GB": "No entry",
+  "en-US": "Do not enter",
+  "fr": "Sens interdit à tout véhicule",
   "pl": "zakaz wjazdu",
   "sk": "Zákaz vjazdu"
 }

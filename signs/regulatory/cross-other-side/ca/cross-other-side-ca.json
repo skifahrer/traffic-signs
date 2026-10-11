@@ -1,0 +1,11 @@
+{
+  "sign": "cross-other-side",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RA-009A",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-ON road sign Ra-009A (B).svg"
+  }
+}

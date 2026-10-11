@@ -1,0 +1,11 @@
+{
+  "sign": "lane-reduction-right-to-1-lane-plus-1-oncoming",
+  "category": "information",
+  "country": "de",
+  "code": "532-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 532-10 - Einengungstafel, Darstellung mit Gegenverkehr - noch ein Fahrstreifen links in Fahrtrichtung und ein Fahrstreifen im Gegenverkehr, StVO 1992.svg"
+  }
+}

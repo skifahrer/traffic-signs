@@ -1,0 +1,11 @@
+{
+  "sign": "traffic-cone",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "610-40",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 610-40 bis 43 - Leitkegel, StVO 2013.svg"
+  }
+}

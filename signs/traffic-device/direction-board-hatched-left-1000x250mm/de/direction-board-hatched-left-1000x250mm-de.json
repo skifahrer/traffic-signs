@@ -1,0 +1,11 @@
+{
+  "sign": "direction-board-hatched-left-1000x250mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "605-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 605-20 - Leitbake (Aufstellung links), 1000x250; StVO 1992.svg"
+  }
+}

@@ -1,6 +1,10 @@
 {
   "en": "No entry for pedestrians",
   "cs": "Zákaz vstupu chodců",
+  "de": "Verbot für Fußgänger",
+  "en-GB": "No entry for pedestrians",
+  "en-US": "No pedestrians",
+  "fr": "Accès interdit aux piétons",
   "pl": "zakaz ruchu pieszych",
   "sk": "Zákaz vstupu pre (chodcov)"
 }

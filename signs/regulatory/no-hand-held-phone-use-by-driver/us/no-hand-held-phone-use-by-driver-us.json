@@ -1,0 +1,11 @@
+{
+  "sign": "no-hand-held-phone-use-by-driver",
+  "category": "regulatory",
+  "country": "us",
+  "code": "R16-15",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD R16-15.svg"
+  }
+}

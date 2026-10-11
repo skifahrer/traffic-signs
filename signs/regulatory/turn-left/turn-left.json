@@ -1,6 +1,11 @@
 {
   "en": "Turn left",
   "cs": "Přikázaný směr jízdy zde vlevo",
+  "de": "Vorgeschriebene Fahrtrichtung – links",
+  "en-CA": "Left turn required",
+  "en-GB": "Turn left",
+  "en-US": "Left turn only",
+  "fr": "Obligation de tourner à gauche avant le panneau",
   "pl": "nakaz jazdy w lewo przed znakiem",
   "sk": "Prikázaný smer odbočenia (tu vľavo)"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-zone-30",
+  "category": "regulatory",
+  "country": "fr",
+  "code": "B51",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",
+    "file": "France road sign B51 (30).svg"
+  }
+}

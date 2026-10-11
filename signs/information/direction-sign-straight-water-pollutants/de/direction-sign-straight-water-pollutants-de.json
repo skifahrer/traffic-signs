@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-straight-water-pollutants",
+  "category": "information",
+  "country": "de",
+  "code": "422-34",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 422-34 - Wegweiser für bestimmte Verkehrsarten „Fahrzeuge mit wassergefährdender Ladung“ - geradeaus; StVO 2017.svg"
+  }
+}

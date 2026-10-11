@@ -1,0 +1,11 @@
+{
+  "sign": "direction-board-arrow-right-1000x250mm",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "605-11",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 605-11 - Leitbake, Pfeilbake (Aufstellung rechts), 1000x250, StVO 2009.svg"
+  }
+}

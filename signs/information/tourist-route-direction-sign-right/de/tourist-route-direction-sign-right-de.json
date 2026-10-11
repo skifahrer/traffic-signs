@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-route-direction-sign-right",
+  "category": "information",
+  "country": "de",
+  "code": "386.2-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 386.2-20 - Touristische Route, Wegweiser rechtsweisend; StVO 2017.svg"
+  }
+}

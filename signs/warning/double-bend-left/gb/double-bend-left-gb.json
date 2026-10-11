@@ -1,0 +1,11 @@
+{
+  "sign": "double-bend-left",
+  "category": "warning",
+  "country": "gb",
+  "code": "513 (left)",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 513 (left).svg"
+  }
+}

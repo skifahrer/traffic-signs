@@ -1,0 +1,11 @@
+{
+  "sign": "saturdays-sundays-and-holidays",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1042-52",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1042-52 - Sa, So und an Feiertagen (450 x 600), StVO 2017.svg"
+  }
+}

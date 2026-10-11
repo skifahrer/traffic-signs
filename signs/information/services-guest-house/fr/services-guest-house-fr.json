@@ -1,0 +1,11 @@
+{
+  "sign": "services-guest-house",
+  "category": "information",
+  "country": "fr",
+  "code": "CE5b",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_services_en_France",
+    "file": "France road sign CE5b.svg"
+  }
+}

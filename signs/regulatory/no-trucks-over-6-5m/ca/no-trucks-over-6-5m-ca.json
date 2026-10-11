@@ -1,0 +1,11 @@
+{
+  "sign": "no-trucks-over-6-5m",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RB-040",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-ON road sign Rb-040 (B).svg"
+  }
+}

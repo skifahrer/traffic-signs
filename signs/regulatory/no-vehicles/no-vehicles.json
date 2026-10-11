@@ -1,6 +1,9 @@
 {
   "en": "No vehicles",
   "cs": "Zákaz vjezdu všech vozidel (v obou směrech)",
+  "de": "Verbot für Fahrzeuge aller Art",
+  "en-GB": "No vehicles except bicycles being pushed",
+  "fr": "Circulation interdite à tout véhicule dans les deux sens",
   "pl": "zakaz ruchu w obu kierunkach",
   "sk": "Zákaz vjazdu pre všetky vozidlá"
 }

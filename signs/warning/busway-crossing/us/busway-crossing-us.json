@@ -1,0 +1,11 @@
+{
+  "sign": "busway-crossing",
+  "category": "warning",
+  "country": "us",
+  "code": "W10-21",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W10-21.svg"
+  }
+}

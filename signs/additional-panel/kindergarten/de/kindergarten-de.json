@@ -1,0 +1,11 @@
+{
+  "sign": "kindergarten",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1012-51",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1012-51 - Kindergarten (600x330), StVO 2017.svg"
+  }
+}

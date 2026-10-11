@@ -1,0 +1,11 @@
+{
+  "sign": "except-cargo-bikes",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1022-17",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1022-17 „Fahrrad zum Transport von Gütern oder Personen - Lastenfahrrad“ frei.svg"
+  }
+}

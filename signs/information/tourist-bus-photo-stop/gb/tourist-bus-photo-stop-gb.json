@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-bus-photo-stop",
+  "category": "information",
+  "country": "gb",
+  "code": "972",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 972.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "animal-disease-area",
+  "category": "information",
+  "country": "gb",
+  "code": "574",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 574.svg"
+  }
+}

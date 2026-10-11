@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-right",
+  "category": "warning",
+  "country": "de",
+  "code": "121-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 121-10 - einseitig (rechts) verengte Fahrbahn, StVO 1992.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "advance-left-turn-arrow-circular-intersection",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "M5-3PL",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD M5-3PL.svg"
+  }
+}

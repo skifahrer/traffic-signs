@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-bicycle-road",
+  "category": "information",
+  "country": "de",
+  "code": "244.2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 244.2 - Ende einer Fahrradstraße, StVO 2013.svg"
+  }
+}

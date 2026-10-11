@@ -1,0 +1,11 @@
+{
+  "sign": "except-animal-drawn-vehicles",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1024-18",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1024-18 - Gespannfuhrwerke frei (450x600), StVO 2017.svg"
+  }
+}

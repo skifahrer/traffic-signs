@@ -1,0 +1,11 @@
+{
+  "sign": "no-tractors",
+  "category": "regulatory",
+  "country": "de",
+  "code": "257-58",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 257-58 - Verbot für Kraftfahrzeuge und Züge, die nicht schneller als 25 km-h fahren können oder dürfen, StVO 2017.svg"
+  }
+}

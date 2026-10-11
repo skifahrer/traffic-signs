@@ -1,0 +1,11 @@
+{
+  "sign": "recommended-route-arrow-left",
+  "category": "information",
+  "country": "de",
+  "code": "467.1-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 467.1-10 - Umlenkungspfeil (Streckenempfehlung) linksweisend, StVO 2013.svg"
+  }
+}

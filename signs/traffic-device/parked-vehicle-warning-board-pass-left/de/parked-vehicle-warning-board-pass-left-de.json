@@ -1,0 +1,11 @@
+{
+  "sign": "parked-vehicle-warning-board-pass-left",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "630-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 630-10 - Park-Warntafel links vorbei (423x423), StVO 2013.svg"
+  }
+}

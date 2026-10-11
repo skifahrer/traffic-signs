@@ -1,0 +1,11 @@
+{
+  "sign": "school-route-working-days",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1042-53",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1042-53 - Schulweg i. V. m. zeitlicher Begrenzung an Werktagen (zu Z 101 oder 274), 600x450; StVO 2017.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "alternate-side-parking-zone",
+  "category": "regulatory",
+  "country": "fr",
+  "code": "B6b2",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_prescription_en_France",
+    "file": "France road sign B6b2.svg"
+  }
+}

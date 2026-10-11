@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-merging-main-carriageway-2-through-plus-1-from-right",
+  "category": "information",
+  "country": "de",
+  "code": "550-21",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 550-21 - Zusammenführungstafel – an durchgehender Strecke – zweistreifig plus 1 Fahrstreifen von rechts (1600x1250), StVO 2017.svg"
+  }
+}

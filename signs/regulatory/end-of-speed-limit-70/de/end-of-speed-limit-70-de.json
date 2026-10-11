@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-70",
+  "category": "regulatory",
+  "country": "de",
+  "code": "278-70",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 278-70 - Ende der zulässigen Höchstgeschwindigkeit, StVO 2017.svg"
+  }
+}

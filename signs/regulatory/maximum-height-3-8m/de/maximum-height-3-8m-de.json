@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-height-3-8m",
+  "category": "regulatory",
+  "country": "de",
+  "code": "265-3,8",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 265-3,8 - Verbot für Fahrzeuge über angegebene tatsächliche Höhe, StVO 2017.svg"
+  }
+}

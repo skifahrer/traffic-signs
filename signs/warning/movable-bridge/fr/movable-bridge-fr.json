@@ -1,0 +1,11 @@
+{
+  "sign": "movable-bridge",
+  "category": "warning",
+  "country": "fr",
+  "code": "A6",
+  "source": {
+    "pipeline": "fr-wikipedia",
+    "page": "https://fr.wikipedia.org/wiki/Liste_des_signaux_routiers_de_danger_en_France",
+    "file": "France road sign A6.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "lane-crossover-left-1-plus-1-straight",
+  "category": "information",
+  "country": "de",
+  "code": "501-16",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 501-16 - Überleitungstafel - ohne Gegenverkehr - einstreifig nach links und einstreifig geradeaus (1600x1250); StVO 2017.svg"
+  }
+}

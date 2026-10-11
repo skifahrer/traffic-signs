@@ -1,0 +1,11 @@
+{
+  "sign": "mobile-closure-board-flashing-arrow-small",
+  "category": "traffic-device",
+  "country": "de",
+  "code": "616-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 616-31 - fahrbahre Absperrtafel mit Blinkpfeil (kleine Ausführung), StVO 1992.svg"
+  }
+}

@@ -1,4 +1,6 @@
 {
   "en": "Maximum axle weight",
-  "cs": "Zákaz vjezdu vozidel, jejichž okamžitá hmotnost připadající na nápravu přesahuje vyznačenou mez"
+  "cs": "Zákaz vjezdu vozidel, jejichž okamžitá hmotnost připadající na nápravu přesahuje vyznačenou mez",
+  "en-US": "Axle weight limit",
+  "fr": "Accès interdit aux véhicules pesant sur un essieu plus que le nombre indiqué"
 }

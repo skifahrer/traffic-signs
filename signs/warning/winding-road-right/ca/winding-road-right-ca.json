@@ -1,0 +1,11 @@
+{
+  "sign": "winding-road-right",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-6R",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC WA-006-R.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "exit-advance-sign",
+  "category": "information",
+  "country": "de",
+  "code": "448-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 448-50 - Ankündigungstafel auf anderen Straßen außerhalb von Autobahnen, StVO 2013.svg"
+  }
+}

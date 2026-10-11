@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-5",
+  "category": "information",
+  "country": "de",
+  "code": "521-33",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 521-33 - Fahrstreifentafel; Darstellung ohne Gegenverkehr - fünf Fahrstreifen in Fahrtrichtung (1600x1250); StVO 1992.svg"
+  }
+}

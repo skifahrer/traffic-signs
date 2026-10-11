@@ -1,0 +1,11 @@
+{
+  "sign": "direction-and-distance-to-hazard",
+  "category": "additional-panel",
+  "country": "gb",
+  "code": "573",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 573.svg"
+  }
+}

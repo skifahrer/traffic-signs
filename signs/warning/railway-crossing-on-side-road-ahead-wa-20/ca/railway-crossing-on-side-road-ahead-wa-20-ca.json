@@ -1,0 +1,11 @@
+{
+  "sign": "railway-crossing-on-side-road-ahead-wa-20",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-20",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-MUTCDC WA-020-R.svg"
+  }
+}

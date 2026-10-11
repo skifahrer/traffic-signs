@@ -1,0 +1,11 @@
+{
+  "sign": "movable-bridge",
+  "category": "warning",
+  "country": "ca",
+  "code": "WA-30",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "Ontario road sign Wa-30 + Wa-30t (B).svg"
+  }
+}

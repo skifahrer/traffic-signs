@@ -1,0 +1,11 @@
+{
+  "sign": "taxi-rank-left-end",
+  "category": "regulatory",
+  "country": "de",
+  "code": "229-11",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 229-11 - Taxenstand (Ende), Aufstellung links, StVO 2013.svg"
+  }
+}

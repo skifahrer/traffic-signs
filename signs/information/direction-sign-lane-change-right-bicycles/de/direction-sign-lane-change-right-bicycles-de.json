@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-lane-change-right-bicycles",
+  "category": "information",
+  "country": "de",
+  "code": "422-27",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 422-27 - Wegweiser für bestimmte Verkehrsarten „Radverkehr“ - rechts einordnen; StVO 2017.svg"
+  }
+}

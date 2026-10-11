@@ -1,0 +1,11 @@
+{
+  "sign": "hump-bridge",
+  "category": "warning",
+  "country": "gb",
+  "code": "528",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 528.svg"
+  }
+}

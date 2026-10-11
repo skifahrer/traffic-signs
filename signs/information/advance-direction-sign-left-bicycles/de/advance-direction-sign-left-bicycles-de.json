@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-left-bicycles",
+  "category": "information",
+  "country": "de",
+  "code": "442-13",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 442-13 - Wegweiser für bestimmte Verkehrsarten „Radverkehr“ - linksweisend; StVO 2017.svg"
+  }
+}

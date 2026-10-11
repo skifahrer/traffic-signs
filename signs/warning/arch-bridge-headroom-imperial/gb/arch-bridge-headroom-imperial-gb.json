@@ -1,0 +1,11 @@
+{
+  "sign": "arch-bridge-headroom-imperial",
+  "category": "warning",
+  "country": "gb",
+  "code": "531.1 (variant 1)",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 531.1 (variant 1).svg"
+  }
+}

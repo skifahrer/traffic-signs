@@ -1,0 +1,11 @@
+{
+  "sign": "except-e-bikes-and-mopeds",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1022-15",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1022-15 - E-Bikes und Mofas frei (600x600), StVO 2017.svg"
+  }
+}

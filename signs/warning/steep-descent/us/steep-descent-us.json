@@ -1,0 +1,11 @@
+{
+  "sign": "steep-descent",
+  "category": "warning",
+  "country": "us",
+  "code": "W7-1",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W7-1.svg"
+  }
+}

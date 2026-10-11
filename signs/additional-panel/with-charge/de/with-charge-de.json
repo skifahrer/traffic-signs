@@ -1,0 +1,11 @@
+{
+  "sign": "with-charge",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1053-32",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1053-32 - Gebührenpflichtig (420x231), StVO 2017.svg"
+  }
+}

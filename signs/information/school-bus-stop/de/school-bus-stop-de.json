@@ -1,0 +1,11 @@
+{
+  "sign": "school-bus-stop",
+  "category": "information",
+  "country": "de",
+  "code": "224-51",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 224-51 - Schulbushaltestelle (mit Zusatzzeichen 1042-36), StVO 2017.svg"
+  }
+}

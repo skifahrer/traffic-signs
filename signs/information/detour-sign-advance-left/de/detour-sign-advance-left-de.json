@@ -1,0 +1,11 @@
+{
+  "sign": "detour-sign-advance-left",
+  "category": "information",
+  "country": "de",
+  "code": "455.1-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 455.1-10 - Ankündigung oder Fortsetzung der Umleitung - Vorankündigung links, StVO 2017.svg"
+  }
+}

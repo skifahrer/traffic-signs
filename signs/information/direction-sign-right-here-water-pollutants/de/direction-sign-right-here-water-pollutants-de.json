@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-right-here-water-pollutants",
+  "category": "information",
+  "country": "de",
+  "code": "422-24",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 422-24 - Wegweiser für bestimmte Verkehrsarten \"Fahrzeuge mit wassergefährdender Ladung - hier rechts; StVO 2013.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-3-with-height-limit",
+  "category": "information",
+  "country": "de",
+  "code": "529-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 529-31 Fahrstreifentafel - ohne Gegenverkehr mit integriertem Zeichen 265.svg"
+  }
+}

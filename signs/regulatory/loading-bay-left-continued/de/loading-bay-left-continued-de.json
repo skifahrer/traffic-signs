@@ -1,0 +1,11 @@
+{
+  "sign": "loading-bay-left-continued",
+  "category": "regulatory",
+  "country": "de",
+  "code": "230-31",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 230-31 - Ladebereich (Mitte, Aufstellung links), StVO 57. StVRÄndV BGBl.2024 Teil 1 Nr.299 Seite 5.svg"
+  }
+}

@@ -199,6 +199,39 @@ class CodePrefixTest(unittest.TestCase):
         self.assertEqual([p.file for p in problems], ["RAL-Gütesiegel, 2014.svg"])  # no "Zeichen": not a code
 
 
+class SeparatorTest(unittest.TestCase):
+    """Captions that put a dot, a dash or a slash after the code, as in France and Canada."""
+
+    def test_dot_dash_slash_and_gallery_options(self):
+        page = """<gallery>
+Fichier:France road sign A1a.svg|[[Virage|A1a - Virage à droite]]
+Signal B0.svg|[[Circulation interdite|B0. Circulation interdite]]
+File:CA-ON road sign Ra-009A (B).svg|RA-009A/Cross other side
+Zeichen 108-4 - Gefälle.svg|alt=Zeichen 108-4Gefälle 4 %|Zeichen 108-4 Gefälle 4 %
+</gallery>"""
+        parse = parsers.gallery(r"[A-Z]{1,2}-?\d+[A-Z]?[a-z]?\d?", namespaces=("Fichier",), ignore=r"^Zeichen")
+        entries, problems = parse(page)
+        self.assertEqual(problems, [])
+        self.assertEqual(
+            [(e.code, e.name) for e in entries],
+            [("A1a", "Virage à droite"), ("B0", "Circulation interdite"), ("RA-009A", "Cross other side")],
+        )
+        entries, _ = parsers.gallery(r"\d{3}(?:-\d+)?", code_prefix=r"Zeichen ")(page)
+        self.assertEqual([(e.code, e.name) for e in entries], [("108-4", "Gefälle 4 %")])  # the alt text is not the caption
+
+
+class BetweenTest(unittest.TestCase):
+    def test_reads_only_from_the_start_heading_to_the_end_heading(self):
+        page = UK_PAGE + "===Obsolete===\n<gallery>\nFile:UK traffic sign 504 (1965–1975).svg|Crossroads\n</gallery>\n"
+        parse = parsers.between(
+            parsers.files(r"UK traffic sign (?P<code>.+)\.svg"), start=r"^==Warning signs==", end=r"^===Obsolete==="
+        )
+        self.assertEqual([e.code for e in parse(page)[0]], ["501", "512 (right)", "601.1", "616"])
+        # Without a start the page is read from the top, without an end to the bottom.
+        self.assertEqual(len(parsers.between(parsers.files(r"UK traffic sign (?P<code>.+)\.svg"))(page)[0]), 5)
+        self.assertIn("between", parse.label)
+
+
 class CorrectionsTest(unittest.TestCase):
     def test_a_correction_can_add_a_row_the_parser_could_not_read(self):
         with tempfile.TemporaryDirectory() as folder:

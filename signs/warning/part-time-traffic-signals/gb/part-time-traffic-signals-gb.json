@@ -1,0 +1,11 @@
+{
+  "sign": "part-time-traffic-signals",
+  "category": "warning",
+  "country": "gb",
+  "code": "543 + 543.1",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 543 + 543.1.svg"
+  }
+}

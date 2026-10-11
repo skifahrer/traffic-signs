@@ -1,0 +1,11 @@
+{
+  "sign": "moose",
+  "category": "warning",
+  "country": "ca",
+  "code": "WC-14",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "Ontario Wc-12.svg"
+  }
+}

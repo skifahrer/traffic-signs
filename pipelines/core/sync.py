@@ -256,7 +256,7 @@ def _write_sign(
         **({"archived": archived} if archived else {}),
         "source": {"pipeline": source.pipeline, "page": entry.page or source.page_url, "file": entry.file},
     }
-    names = {"en": t.name_en, source.language: entry.name}
+    names = {"en": t.name_en, source.name_key: entry.name}
     old_names = layout.read_translations(t.category, t.slug)
 
     if key not in previous:
@@ -325,7 +325,7 @@ def _delete_sign(source: Source, options: Options, result: Result, key: str) -> 
     _remove_dir(layout.sign_dir(category, slug, source.country))
     sign_folder = os.path.dirname(layout.translations_path(category, slug))
     if layout.country_dirs(category, slug):
-        layout.remove_translation(category, slug, source.language)
+        layout.remove_translation(category, slug, source.name_key)
         log.info(f"Deleted {key}/{source.country}; other countries keep the sign")
     elif os.path.isdir(sign_folder):
         _remove_dir(sign_folder)  # no other country has this sign: drop it with its names file

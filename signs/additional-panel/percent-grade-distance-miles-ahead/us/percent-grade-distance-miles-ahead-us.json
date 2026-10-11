@@ -1,0 +1,11 @@
+{
+  "sign": "percent-grade-distance-miles-ahead",
+  "category": "additional-panel",
+  "country": "us",
+  "code": "W7-3bP",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD W7-3bP.svg"
+  }
+}

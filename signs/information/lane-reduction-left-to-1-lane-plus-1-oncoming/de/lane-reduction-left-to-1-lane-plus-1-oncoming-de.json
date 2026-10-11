@@ -1,0 +1,11 @@
+{
+  "sign": "lane-reduction-left-to-1-lane-plus-1-oncoming",
+  "category": "information",
+  "country": "de",
+  "code": "532-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 532-20 - Einengungstafel − mit Gegenverkehr − Einzug links, noch 1 Fahrstreifen und 1 Fahrstreifen in Gegenrichtung (1600x1250), StVO 2017.svg"
+  }
+}

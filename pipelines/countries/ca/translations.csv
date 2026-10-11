@@ -1,0 +1,66 @@
+code,category,slug,name_en,name_en-CA
+RA-2,regulatory,give-way,Give way,Yield
+RA-3,regulatory,school-crossing,School crossing,School crossing
+RA-4,information,pedestrian-crossing,Pedestrian crossing,Pedestrian crossing
+RA-5,regulatory,overhead-pedestrian-crossing,Overhead pedestrian crossing,Overhead pedestrian crossing
+RA-6,warning,level-crossing-cross-single-track,Level crossing cross (single track),Railway crossing
+RB-1,regulatory,speed-limit,Speed limit,Maximum speed limit
+RB-11L,regulatory,no-right-turn,No right turn,No right turn
+RB-11R,regulatory,no-left-turn,No left turn,No left turn
+RB-14L,regulatory,turn-left,Turn left,Left turn required
+RB-14R,regulatory,turn-right,Turn right,Right turn required
+RB-15,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),"Must proceed straight only, turns prohibited"
+RB-22,information,wrong-way,Wrong way,Wrong way
+RB-23,regulatory,no-entry,No entry,No entry
+RB-61,regulatory,truck-route,Truck route,Truck route
+RB-62,regulatory,no-goods-vehicles,No entry for goods vehicles,No trucks
+WA-1L,warning,sharp-bend-left,Turn (left),Turn to left
+WA-1R,warning,sharp-bend-right,Turn (right),Turn to right
+WA-3L,warning,bend-left,Bend (left),Curve to left
+WA-3R,warning,bend-right,Bend (right),Curve to right
+WA-4L,warning,double-sharp-bend-left,Reverse turn (left),Reverse turn to left
+WA-4R,warning,double-sharp-bend-right,Reverse turn (right),Reverse turn to right
+WA-5L,warning,double-bend-left,Double bend (first to the left),Reverse curve to left
+WA-5R,warning,double-bend-right,Double bend (first to the right),Reverse curve to right
+WA-6L,warning,winding-road-left,Winding road (left),Multiple curves to left
+WA-6R,warning,winding-road-right,Winding road (right),Multiple curves to right
+WA-8,warning,end-of-road,End of road,End of road
+WA-8R,warning,sharp-curve-marker,Sharp curve marker,Sharp curve marker
+WA-8LR,warning,t-junction-marker,T-junction marker,T-junction marker
+WA-10,additional-panel,advisory-speed-limit,Advisory speed limit,Advisory speed limit
+WA-11,warning,intersection,Intersection,Crossroad
+WA-13,warning,side-road-intersection,Side road intersection,Side road intersection
+WA-14,warning,t-junction,T-junction,T-junction
+WA-15,warning,y-junction,Y-junction,Y-junction
+WA-16,warning,merging-traffic,Merging traffic,Merging traffic
+WA-18,warning,level-crossing,Level crossing,Railway crossing ahead
+WA-18L,warning,skewed-railway-crossing-ahead,Skewed railway crossing ahead,Skewed railway crossing ahead
+WA-18R,warning,skewed-railway-crossing-ahead-wa-18r,Skewed railway crossing ahead,Skewed railway crossing ahead
+WA-19,warning,railway-crossing-on-side-road-ahead,Railway crossing on side road ahead,Railway crossing on side road ahead
+WA-20,warning,railway-crossing-on-side-road-ahead-wa-20,Railway crossing on side road ahead,Railway crossing on side road ahead
+WA-21,warning,steep-descent,Steep descent,Steep descent
+WA-23,warning,road-narrows-both-sides,Road narrows (from both sides),Road narrows ahead
+WA-24,warning,narrow-bridge-ahead,Narrow bridge ahead,Narrow bridge ahead
+WA-26,warning,low-bridge-ahead,Low headroom ahead,Height restriction ahead
+WA-27,warning,height-restriction-marker,Height restriction marker,Height restriction marker
+WA-31,warning,divided-highway-begins,Divided highway begins,Divided highway begins
+WA-32,warning,divided-highway-ends,Divided highway ends,Divided highway ends
+WA-33L,warning,left-lane-ends,Left lane ends,Left lane ends
+WA-33R,warning,right-lane-ends,Right lane ends,Right lane ends
+WA-35,warning,added-lane,Added lane,Added lane
+WB-1,warning,stop-ahead,Stop ahead,Stop sign ahead
+WB-2,warning,give-way-ahead,Give way ahead,Yield sign ahead
+WB-3,warning,two-way-traffic,Two-way traffic,Two-way traffic ahead
+WC-1,warning,children,Children,School zone
+WC-2,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Pedestrian crossing ahead
+WC-3,warning,playground,Playground,Playground
+WC-8L,warning,heavy-vehicles-entering-from-left,Heavy vehicles entering from left,Heavy vehicles entering from left
+WC-8R,warning,heavy-vehicles-entering-from-right,Heavy vehicles entering from right,Heavy vehicles entering from right
+WC-14,warning,moose,Moose,Moose crossing
+WC-22,warning,horse-drawn-vehicles,Horse-drawn vehicles,Animal-drawn vehicle crossing
+RA-009A,regulatory,cross-other-side,Cross other side,Cross other side
+RB-055A,regulatory,no-stopping,No stopping,No stopping
+RB-040,regulatory,no-trucks-over-6-5m,No trucks over 6.5 m,No trucks over 6.5 m
+RB-80,regulatory,advanced-green-when-flashing,Advanced green when flashing,Advanced green when flashing
+WA-30,warning,movable-bridge,Movable bridge,Opening bridge
+RA-1,regulatory,stop,"Stop, give way",Stop

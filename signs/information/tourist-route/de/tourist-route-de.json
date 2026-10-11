@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-route",
+  "category": "information",
+  "country": "de",
+  "code": "386.2",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 386.2 - touristische Unterrichtungstafel, StVO 2009.svg"
+  }
+}

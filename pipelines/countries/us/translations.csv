@@ -1,0 +1,1133 @@
+code,category,slug,name_en,name_en-US
+R1-1,regulatory,stop,"Stop, give way",Stop
+R1-2,regulatory,give-way,Give way,Yield
+R1-2aP,additional-panel,to-oncoming-traffic,To oncoming traffic (plaque),To oncoming traffic (plaque)
+R1-2bP,additional-panel,to-traffic-in-circle,To traffic in circle (plaque),To traffic in circle (plaque)
+R1-2cP,additional-panel,to-all-lanes,To all lanes (plaque),To all lanes (plaque)
+R1-3P,additional-panel,all-way,All way (plaque),All way (plaque)
+R1-5R,regulatory,yield-here-to-pedestrians-right,Yield here to pedestrians (right),Yield here to pedestrians (right)
+R1-5L,regulatory,yield-here-to-pedestrians-left,Yield here to pedestrians (left),Yield here to pedestrians (left)
+R1-5aR,regulatory,yield-here-to-school-crossing-right,Yield here to school crossing (right),Yield here to school crossing (right)
+R1-5aL,regulatory,yield-here-to-school-crossing-left,Yield here to school crossing (left),Yield here to school crossing (left)
+R1-5bR,regulatory,stop-here-for-pedestrians-right,Stop here for pedestrians (right),Stop here for pedestrians (right)
+R1-5bL,regulatory,stop-here-for-pedestrians-left,Stop here for pedestrians (left),Stop here for pedestrians (left)
+R1-5cR,regulatory,stop-here-for-school-crossing-right,Stop here for school crossing (right),Stop here for school crossing (right)
+R1-5cL,regulatory,stop-here-for-school-crossing-left,Stop here for school crossing (left),Stop here for school crossing (left)
+R1-5dR,regulatory,yield-here-to-trail-crossing-right,Yield here to trail crossing (right),Yield here to trail crossing (right)
+R1-5dL,regulatory,yield-here-to-trail-crossing-left,Yield here to trail crossing (left),Yield here to trail crossing (left)
+R1-5eR,regulatory,stop-here-for-trail-crossing-right,Stop here for trail crossing (right),Stop here for trail crossing (right)
+R1-5eL,regulatory,stop-here-for-trail-crossing-left,Stop here for trail crossing (left),Stop here for trail crossing (left)
+R1-6 (yellow),regulatory,in-street-pedestrian-crossing,In-street pedestrian crossing,In-street pedestrian crossing
+R1-6,regulatory,in-street-pedestrian-crossing-r1-6,In-street pedestrian crossing,In-street pedestrian crossing
+R1-6a (yellow),regulatory,in-street-pedestrian-crossing-yellow,In-street pedestrian crossing,In-street pedestrian crossing
+R1-6a,regulatory,in-street-pedestrian-crossing-r1-6a,In-street pedestrian crossing,In-street pedestrian crossing
+R1-6b,regulatory,in-street-school-crossing,In-street school crossing,In-street school crossing
+R1-6c,regulatory,in-street-school-crossing-r1-6c,In-street school crossing,In-street school crossing
+R1-6d,regulatory,in-street-trail-crossing,In-street trail crossing,In-street trail crossing
+R1-6e,regulatory,in-street-trail-crossing-r1-6e,In-street trail crossing,In-street trail crossing
+R1-7,regulatory,wait-on-stop,Wait on stop,Wait on stop
+R1-7a,regulatory,wait-on-stop-go-on-slow,Wait on stop - Go on slow,Wait on stop - Go on slow
+R1-8,regulatory,go-on-slow,Go on slow,Go on slow
+R1-9,regulatory,overhead-pedestrian-crossing,Overhead pedestrian crossing,Overhead pedestrian crossing
+R1-9 (fluorescent),regulatory,overhead-pedestrian-crossing-fluorescent,Overhead pedestrian crossing,Overhead pedestrian crossing
+R1-9a,regulatory,overhead-pedestrian-crossing-r1-9a,Overhead pedestrian crossing,Overhead pedestrian crossing
+R1-9a (fluorescent),regulatory,overhead-pedestrian-crossing-r1-9a-fluorescent,Overhead pedestrian crossing,Overhead pedestrian crossing
+R1-9b,regulatory,overhead-school-crossing,Overhead school crossing,Overhead school crossing
+R1-9c,regulatory,overhead-school-crossing-r1-9c,Overhead school crossing,Overhead school crossing
+R1-10P,additional-panel,except-right-turn,Except right turn (plaque),Except right turn (plaque)
+R2-1,regulatory,speed-limit,Speed limit,Speed limit
+R2-2,additional-panel,truck-speed-limit,Truck speed limit (plaque),Truck speed limit (plaque)
+R2-2aP,additional-panel,buses-speed-limit,Buses speed limit (plaque),Buses speed limit (plaque)
+R2-2bP,additional-panel,trucks-and-buses-speed-limit,Trucks and buses speed limit (plaque),Trucks and buses speed limit (plaque)
+R2-2cP,additional-panel,vehicles-over-5-tons-speed-limit,Vehicles over 5 tons speed limit (plaque),Vehicles over 5 tons speed limit (plaque)
+R2-3,additional-panel,night-speed-limit,Night speed limit (plaque),Night speed limit (plaque)
+R2-4,additional-panel,minimum-speed-limit,Minimum speed limit (plaque),Minimum speed limit (plaque)
+R2-5P,additional-panel,unless-otherwise-posted,Unless otherwise posted (plaque),Unless otherwise posted (plaque)
+R2-5aP,additional-panel,citywide,Citywide (plaque),Citywide (plaque)
+R2-5bP,additional-panel,neighborhood,Neighborhood (plaque),Neighborhood (plaque)
+R2-5cP,additional-panel,residential,Residential (plaque),Residential (plaque)
+R2-6P,additional-panel,fines-higher,Fines higher (plaque),Fines higher (plaque)
+R2-6aP,additional-panel,fines-double,Fines double (plaque),Fines double (plaque)
+R2-6bP,additional-panel,speeding-fine,Speeding fine (plaque),Speeding fine (plaque)
+R2-10,regulatory,begin-higher-double-fines-zone,Begin higher/double fines zone,Begin higher/double fines zone
+R2-11,regulatory,end-higher-double-fines-zone,End higher/double fines zone,End higher/double fines zone
+R2-12,regulatory,end-work-zone-speed-limit,End work zone speed limit,End work zone speed limit
+R2-13,regulatory,end-variable-speed-limit,End variable speed limit,End variable speed limit
+R2-14,regulatory,end-truck-speed-limit,End truck speed limit,End truck speed limit
+R3-1,regulatory,no-right-turn,No right turn,No right turn
+R3-1a,regulatory,no-right-turn-for-train-activated-blank-out,"No right turn for train (Activated, Blank-Out)","No right turn for train (Activated, Blank-Out)"
+R3-1b,regulatory,no-right-turn-for-trucks,No right turn for trucks,No right turn for trucks
+R3-1c,regulatory,no-right-turn-for-trucks-and-buses,No right turn for trucks and buses,No right turn for trucks and buses
+R3-1d,regulatory,no-right-turn-for-trucks-over-4-tons,No right turn for trucks over 4 tons,No right turn for trucks over 4 tons
+R3-1e,regulatory,no-right-turn-except-buses,No right turn except buses,No right turn except buses
+R3-1f,regulatory,no-right-turn-except-buses-and-taxis,No right turn except buses and taxis,No right turn except buses and taxis
+R3-1g,regulatory,no-right-turn-times-and-days-2-lines,No right turn (times and days) (2-lines),No right turn (times and days) (2-lines)
+R3-1h,regulatory,no-right-turn-times-and-days-3-lines,No right turn (times and days) (3-lines),No right turn (times and days) (3-lines)
+R3-1h (1 time span),regulatory,no-right-turn-times-and-days-3-lines-1-time-span,No right turn (times and days) (3-lines),No right turn (times and days) (3-lines)
+R3-2,regulatory,no-left-turn,No left turn,No left turn
+R3-2a,regulatory,no-left-turn-for-train-activated-blank-out,"No left turn for train (Activated, Blank-Out)","No left turn for train (Activated, Blank-Out)"
+R3-3,regulatory,no-turns,No turns,No turns
+R3-4,regulatory,no-u-turn,No U-turn,No U-turn
+R3-5R,regulatory,turn-right,Turn right,Right turn only
+R3-5L,regulatory,turn-left,Turn left,Left turn only
+R3-5a,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Straight through only
+R3-5bP,additional-panel,left-lane,Left lane (plaque),Left lane (plaque)
+R3-5cP,additional-panel,hov-2-plus,Hov 2+ (plaque),Hov 2+ (plaque)
+R3-5dP,additional-panel,taxi-lane,Taxi lane (plaque),Taxi lane (plaque)
+R3-5fP,additional-panel,right-lane,Right lane (plaque),Right lane (plaque)
+R3-5gP,additional-panel,bus-lane,Bus lane (plaque),Bus lane (plaque)
+R3-5hP,additional-panel,bike-lane,Bike lane (plaque),Bike lane (plaque)
+R3-6R,regulatory,optional-movement-lane-control-straight-through-and-right,"Optional movement lane control, straight through and right turn","Optional movement lane control, straight through and right turn"
+R3-6L,regulatory,optional-movement-lane-control-straight-through-and-left,"Optional movement lane control, straight through and left turn","Optional movement lane control, straight through and left turn"
+R3-6a,regulatory,optional-movement-lane-control-u-or-left-turn,"Optional movement lane control, U or left turn","Optional movement lane control, U or left turn"
+R3-6b,regulatory,optional-movement-lane-control-double-left-turns,"Optional movement lane control, double left turns","Optional movement lane control, double left turns"
+R3-7R,regulatory,right-lane-must-turn-right,Right lane must turn right,Right lane must turn right
+R3-7L,regulatory,left-lane-must-turn-left,Left lane must turn left,Left lane must turn left
+R3-7aP,additional-panel,except-buses,Except buses,Except buses (plaque)
+R3-7bP,additional-panel,except-bicycles,Except bicycles,Except bicycles (plaque)
+R3-8R,regulatory,advance-intersection-lane-control-two-lanes-right,Advance intersection lane control (two lanes) (right),Advance intersection lane control (two lanes) (right)
+R3-8L,regulatory,advance-intersection-lane-control-two-lanes-left,Advance intersection lane control (two lanes) (left),Advance intersection lane control (two lanes) (left)
+R3-8aR,regulatory,advance-intersection-lane-control-three-lanes-right,Advance intersection lane control (three lanes) (right),Advance intersection lane control (three lanes) (right)
+R3-8aL,regulatory,advance-intersection-lane-control-three-lanes-left,Advance intersection lane control (three lanes) (left),Advance intersection lane control (three lanes) (left)
+R3-8b,regulatory,advance-intersection-lane-control-three-lanes,Advance intersection lane control (three lanes),Advance intersection lane control (three lanes)
+R3-8xa,regulatory,advance-intersection-lane-control-with-bike-lane,Advance intersection lane control with bike lane,Advance intersection lane control with bike lane
+R3-8xb,regulatory,advance-intersection-lane-control-with-bike-lane-r3-8xb,Advance intersection lane control with bike lane,Advance intersection lane control with bike lane
+R3-8xc,regulatory,advance-intersection-lane-control-with-bike-lane-r3-8xc,Advance intersection lane control with bike lane,Advance intersection lane control with bike lane
+R3-8 (Circular Intersection 1),regulatory,advance-circular-intersection-lane-control-2-lanes,Advance circular intersection lane control (2 lanes),Advance circular intersection lane control (2 lanes)
+R3-8 (Circular Intersection 3),regulatory,advance-circular-intersection-lane-control-2-lanes-circular-intersection-3,Advance circular intersection lane control (2 lanes),Advance circular intersection lane control (2 lanes)
+R3-8 (Circular Intersection 2),regulatory,advance-circular-intersection-lane-control-2-lanes-circular-intersection-2,Advance circular intersection lane control (2 lanes),Advance circular intersection lane control (2 lanes)
+R3-8 (Circular Intersection 4),regulatory,advance-circular-intersection-lane-control-2-lanes-circular-intersection-4,Advance circular intersection lane control (2 lanes),Advance circular intersection lane control (2 lanes)
+R3-9a,regulatory,two-way-left-turn-only-overhead,Two-way left turn only (overhead),Two-way left turn only (overhead)
+R3-9b,regulatory,two-way-left-turn-only-post-mounted,Two-way left turn only (post-mounted),Two-way left turn only (post-mounted)
+R3-9cP,additional-panel,begin,Begin (plaque),Begin (plaque)
+R3-9dP,additional-panel,end,End (plaque),End (plaque)
+R3-9e,regulatory,reversible-lane-control-overhead,Reversible lane control (overhead),Reversible lane control (overhead)
+R3-9f,regulatory,reversible-lane-control-post-mounted,Reversible lane control (post-mounted),Reversible lane control (post-mounted)
+R3-9h,regulatory,advance-reversible-lane-control-transition,Advance reversible lane control transition,Advance reversible lane control transition
+R3-9g,regulatory,advance-reversible-lane-control-transition-r3-9g,Advance reversible lane control transition,Advance reversible lane control transition
+R3-9i,regulatory,end-reverse-lane,End reverse lane,End reverse lane
+R3-10,regulatory,hov-2-plus-only-2-or-more-persons-per-vehicle-post-mounted,"HOV 2+ only, 2 or more persons per vehicle (post-mounted)","HOV 2+ only, 2 or more persons per vehicle (post-mounted)"
+R3-10a,regulatory,ilev-allowed-post-mounted,ILEV allowed (post-mounted),ILEV allowed (post-mounted)
+R3-11,regulatory,hov-2-plus-only-times-and-days-post-mounted,HOV 2+ only (times and days) (post-mounted),HOV 2+ only (times and days) (post-mounted)
+R3-11a,regulatory,2-right-lanes-hov-2-plus-only-times-and-days-post-mounted,"2 right lanes, HOV 2+ only (times and days) (post-mounted)","2 right lanes, HOV 2+ only (times and days) (post-mounted)"
+R3-11b,regulatory,hov-2-plus-only-full-time-post-mounted,HOV 2+ only (full-time) (post-mounted),HOV 2+ only (full-time) (post-mounted)
+R3-11c,regulatory,2-right-lanes-hov-2-plus-only-full-time-post-mounted,"2 right lanes, HOV 2+ only (full-time) (post-mounted)","2 right lanes, HOV 2+ only (full-time) (post-mounted)"
+R3-11d,regulatory,right-lane-buses-only-times-and-days-post-mounted,"Right lane, buses only (times and days) (post-mounted)","Right lane, buses only (times and days) (post-mounted)"
+R3-11e,regulatory,right-lane-buses-only-full-time-post-mounted,"Right lane, buses only (full-time) (post-mounted)","Right lane, buses only (full-time) (post-mounted)"
+R3-11f,regulatory,shoulder-buses-only-times-and-days-post-mounted,"Shoulder, buses only (times and days) (post-mounted)","Shoulder, buses only (times and days) (post-mounted)"
+R3-11g,regulatory,shoulder-buses-and-right-turns-only-times-and-days-post,"Shoulder, buses and right turns only (times and days) (post-mounted)","Shoulder, buses and right turns only (times and days) (post-mounted)"
+R3-11hP,additional-panel,motorcycles-allowed,Motorcycles allowed (plaque),Motorcycles allowed (plaque)
+R3-12,regulatory,hov-2-plus-lane-ahead-post-mounted,HOV 2+ lane ahead (post-mounted),HOV 2+ lane ahead (post-mounted)
+R3-12a,regulatory,hov-lane-ends-post-mounted,HOV lane ends (post-mounted),HOV lane ends (post-mounted)
+R3-12b,regulatory,hov-lane-ends-distance-post-mounted,HOV lane ends (distance) (post-mounted),HOV lane ends (distance) (post-mounted)
+R3-12c,regulatory,hov-restriction-ends-post-mounted,HOV restriction ends (post-mounted),HOV restriction ends (post-mounted)
+R3-12d,regulatory,hov-restriction-ends-distance-post-mounted,HOV restriction ends (distance) (post-mounted),HOV restriction ends (distance) (post-mounted)
+R3-12e,regulatory,left-lane-hov-2-plus-only-distance-post-mounted,"Left lane, HOV 2+ only (distance) (post-mounted)","Left lane, HOV 2+ only (distance) (post-mounted)"
+R3-12f,regulatory,bus-lane-ahead-post-mounted,Bus lane ahead (post-mounted),Bus lane ahead (post-mounted)
+R3-12g,regulatory,bus-lane-ends-post-mounted,Bus lane ends (post-mounted),Bus lane ends (post-mounted)
+R3-12h,regulatory,bus-lane-ends-distance-post-mounted,Bus lane ends (distance) (post-mounted),Bus lane ends (distance) (post-mounted)
+R3-13,regulatory,hov-2-plus-only-2-or-more-persons-per-vehicle-overhead,"HOV 2+ only, 2 or more persons per vehicle (overhead)","HOV 2+ only, 2 or more persons per vehicle (overhead)"
+R3-13a,regulatory,hov-2-plus-only-2-or-more-persons-per-vehicle-times-and-days,"HOV 2+ only, 2 or more persons per vehicle (times and days) (overhead)","HOV 2+ only, 2 or more persons per vehicle (times and days) (overhead)"
+R3-14,regulatory,hov-2-plus-only-times-and-days-1-line-overhead,HOV 2+ only (times and days) (1-line) (overhead),HOV 2+ only (times and days) (1-line) (overhead)
+R3-14a,regulatory,hov-2-plus-only-times-and-days-2-lines-overhead,HOV 2+ only (times and days) (2-lines) (overhead),HOV 2+ only (times and days) (2-lines) (overhead)
+R3-14b,regulatory,hov-2-plus-only-full-time-overhead,HOV 2+ only (full-time) (overhead),HOV 2+ only (full-time) (overhead)
+R3-14c,regulatory,buses-and-taxis-only-times-and-days-overhead,Buses and taxis only (times and days) (overhead),Buses and taxis only (times and days) (overhead)
+R3-15,regulatory,hov-2-plus-lane-ahead-overhead,HOV 2+ lane ahead (overhead),HOV 2+ lane ahead (overhead)
+R3-15a,regulatory,hov-2-plus-only-begins-distance-overhead,HOV 2+ only begins (distance) (overhead),HOV 2+ only begins (distance) (overhead)
+R3-15b,regulatory,hov-lane-ends-overhead,HOV lane ends (overhead),HOV lane ends (overhead)
+R3-15c,regulatory,hov-restriction-ends-overhead,HOV restriction ends (overhead),HOV restriction ends (overhead)
+R3-15d,regulatory,bus-lane-ahead-overhead,Bus lane ahead (overhead),Bus lane ahead (overhead)
+R3-15e,regulatory,bus-lane-ends-overhead,Bus lane ends (overhead),Bus lane ends (overhead)
+R3-17,regulatory,bike-lane-r3-17,Bike lane,Bike lane
+R3-17aP,additional-panel,ahead,Ahead (plaque),Ahead (plaque)
+R3-17bP,additional-panel,ends,Ends (plaque),Ends (plaque)
+R3-18,regulatory,no-u-or-left-turn,No U or left turn,No U or left turn
+R3-19,regulatory,lane-for-left-turn-only,Lane for left turn only,Lane for left turn only
+R3-19a,regulatory,lane-for-u-turn-only,Lane for U turn only,Lane for U turn only
+R3-19b,regulatory,lane-for-u-and-left-turns-only,Lane for U and left turns only,Lane for U and left turns only
+R3-20R,regulatory,begin-right-turn-lane,Begin right turn lane,Begin right turn lane
+R3-20L,regulatory,begin-left-turn-lane,Begin left turn lane,Begin left turn lane
+R3-23,regulatory,all-turns-from-right-lane-used-at-jug-handles,All turns from right lane (used at jug handles),All turns from right lane (used at jug handles)
+R3-23a,regulatory,u-turn-from-right-lane-used-at-jug-handles,U turn from right lane (used at jug handles),U turn from right lane (used at jug handles)
+R3-24,regulatory,all-turns-diagonal-right-arrow-used-at-jug-handles,All turns (diagonal right arrow) (used at jug handles),All turns (diagonal right arrow) (used at jug handles)
+R3-24a,regulatory,u-and-left-turns-diagonal-right-arrow-used-at-jug-handles,U and left turns (diagonal right arrow) (used at jug handles),U and left turns (diagonal right arrow) (used at jug handles)
+R3-24b,regulatory,u-turn-diagonal-right-arrow-used-at-jug-handles,U turn (diagonal right arrow) (used at jug handles),U turn (diagonal right arrow) (used at jug handles)
+R3-25,regulatory,all-turns-right-arrow-used-at-jug-handles,All turns (right arrow) (used at jug handles),All turns (right arrow) (used at jug handles)
+R3-25a,regulatory,u-and-left-turns-right-arrow-used-at-jug-handles,U and left turns (right arrow) (used at jug handles),U and left turns (right arrow) (used at jug handles)
+R3-25b,regulatory,u-turn-right-arrow-used-at-jug-handles,U turn (right arrow) (used at jug handles),U turn (right arrow) (used at jug handles)
+R3-26,regulatory,u-and-left-turns-straight-arrow-used-at-jug-handles,U and left turns (straight arrow) (used at jug handles),U and left turns (straight arrow) (used at jug handles)
+R3-26a,regulatory,u-turn-straight-arrow-used-at-jug-handles,U turn (straight arrow) (used at jug handles),U turn (straight arrow) (used at jug handles)
+R3-27,regulatory,no-straight-through,No straight through,No straight through
+R3-28,regulatory,toll-pricing,Toll pricing,Toll pricing
+R3-29P,additional-panel,pay-toll,Pay Toll (plaque),Pay Toll (plaque)
+R3-30P,additional-panel,take-ticket,Take Ticket (plaque),Take Ticket (plaque)
+R3-31,regulatory,electronic-toll-collection-pass-only,Electronic Toll Collection Pass Only,Electronic Toll Collection Pass Only
+R3-32P,additional-panel,no-cash,No Cash (plaque),No Cash (plaque)
+R3-33R,regulatory,right-lane-must-exit,Right lane must exit,Right lane must exit
+R3-33L,regulatory,left-lane-must-exit,Left lane must exit,Left lane must exit
+R3-33aR,regulatory,right-lane-must-exit-r3-33ar,Right lane must exit,Right lane must exit
+R3-33aL,regulatory,left-lane-must-exit-r3-33al,Left lane must exit,Left lane must exit
+R3-40,regulatory,hov-2-plus-2-or-more-persons-per-vehicle-post-mounted,"HOV 2+, 2 or more persons per vehicle (post-mounted)","HOV 2+, 2 or more persons per vehicle (post-mounted)"
+R3-42,regulatory,express-lane-ends-post-mounted,Express lane ends (post-mounted),Express lane ends (post-mounted)
+R3-42a,regulatory,express-lane-ends-distance-post-mounted,Express lane ends (distance) (post-mounted),Express lane ends (distance) (post-mounted)
+R3-42b,regulatory,express-restriction-ends-post-mounted,Express restriction ends (post-mounted),Express restriction ends (post-mounted)
+R3-42c,regulatory,express-restriction-ends-distance-post-mounted,Express restriction ends (distance) (post-mounted),Express restriction ends (distance) (post-mounted)
+R3-43,regulatory,hov-2-plus-2-or-more-persons-per-vehicle-overhead,"HOV 2+, 2 or more persons per vehicle (overhead)","HOV 2+, 2 or more persons per vehicle (overhead)"
+R3-44,regulatory,toll-road-pass-only-overhead,Toll Road Pass Only (Overhead),Toll Road Pass Only (Overhead)
+R3-44a,regulatory,toll-road-pass-or-high-occupancy-vehicle-hov-overhead,Toll Road Pass or High Occupancy Vehicle (HOV) (Overhead),Toll Road Pass or High Occupancy Vehicle (HOV) (Overhead)
+R3-44b,regulatory,express-lane-only-overhead,Express lane only (Overhead),Express lane only (Overhead)
+R3-45,regulatory,express-lane-ends-overhead,Express lane ends (Overhead),Express lane ends (Overhead)
+R3-45a,regulatory,express-restriction-ends-overhead,Express restriction ends (Overhead),Express restriction ends (Overhead)
+R3-48,regulatory,toll-costs-on-express-lane-overhead,Toll Costs on Express Lane (Overhead),Toll Costs on Express Lane (Overhead)
+R3-48a,regulatory,toll-costs-on-express-lane-or-hov-overhead,Toll Costs on Express Lane or HOV (Overhead),Toll Costs on Express Lane or HOV (Overhead)
+R3-51,regulatory,travel-on-shoulder-allowed-times-and-days,Travel on shoulder allowed (times and days),Travel on shoulder allowed (times and days)
+R3-51aP,additional-panel,no-trucks,No trucks (plaque),No trucks (plaque)
+R3-51bP,additional-panel,no-trucks-or-buses,No trucks or buses (plaque),No trucks or buses (plaque)
+R3-51cP,additional-panel,emergency-stopping-only-other-times,Emergency stopping only other times (plaque),Emergency stopping only other times (plaque)
+R3-51d,regulatory,travel-on-shoulder-allowed-when-flashing,Travel on shoulder allowed when flashing,Travel on shoulder allowed when flashing
+R3-51e,regulatory,travel-on-shoulder-on-green-arrow-only,Travel on shoulder on green arrow only,Travel on shoulder on green arrow only
+R3-52,regulatory,end-travel-on-shoulder,End travel on shoulder,End travel on shoulder
+R3-52a,regulatory,travel-on-shoulder-ends-distance,Travel on shoulder ends (distance),Travel on shoulder ends (distance)
+R3-52b,regulatory,shoulder-must-exit-distance,Shoulder must exit (distance),Shoulder must exit (distance)
+R3-52c,regulatory,travel-on-shoulder-begins-distance,Travel on shoulder begins (distance),Travel on shoulder begins (distance)
+R3-56,regulatory,begin-exit-lane,Begin exit lane,Begin exit lane
+R3-57P,additional-panel,to-traffic-on-shoulder,To traffic on shoulder (plaque),To traffic on shoulder (plaque)
+R4-1,regulatory,no-overtaking,No overtaking,Do not pass
+R4-2,regulatory,pass-with-care,Pass with care,Pass with care
+R4-3,regulatory,slower-traffic-keep-right,Slower traffic keep right,Slower traffic keep right
+R4-4,regulatory,begin-right-turn-lane-yield-to-bikes,Begin right turn lane yield to bikes,Begin right turn lane yield to bikes
+R4-5,regulatory,trucks-use-right-lane,Trucks use right lane,Trucks use right lane
+R4-7,regulatory,pass-on-right,Pass on the right,Keep right
+R4-7a,regulatory,keep-right,Keep right,Keep right
+R4-7b,regulatory,keep-right-r4-7b,Keep right,Keep right
+R4-7c,regulatory,keep-right-of-obstacle,Keep right of obstacle,Keep right of obstacle
+R4-8,regulatory,pass-on-left,Pass on the left,Keep left
+R4-8a,regulatory,keep-left,Keep left,Keep left
+R4-8b,regulatory,keep-left-r4-8b,Keep left,Keep left
+R4-8c,regulatory,keep-left-of-obstacle,Keep left of obstacle,Keep left of obstacle
+R4-9,regulatory,stay-in-lane,Stay in lane,Stay in lane
+R4-9a,regulatory,stay-in-lane-to-merge-point,Stay in lane to merge point,Stay in lane to merge point
+R4-10,regulatory,runaway-vehicles-only,Runaway vehicles only,Runaway vehicles only
+R4-12,regulatory,slow-vehicles-with-five-or-more-following-vehicles-must-use,Slow vehicles with five or more following vehicles must use turn-out,Slow vehicles with five or more following vehicles must use turn-out
+R4-13,regulatory,slow-vehicles-must-use-turn-out-ahead,Slow vehicles must use turn-out ahead,Slow vehicles must use turn-out ahead
+R4-14,regulatory,slow-vehicles-must-turn-out,Slow vehicles must turn out,Slow vehicles must turn out
+R4-16,regulatory,keep-right-except-to-pass,Keep right except to pass,Keep right except to pass
+R4-17,regulatory,do-not-drive-on-shoulder,Do not drive on shoulder,Do not drive on shoulder
+R4-18,regulatory,do-not-pass-on-shoulder,Do not pass on shoulder,Do not pass on shoulder
+R4-19,regulatory,bicycle-passing-clearance,Bicycle passing clearance,Bicycle passing clearance
+R4-20R,regulatory,all-traffic-must-turn-right,All traffic must turn right,All traffic must turn right
+R4-20L,regulatory,all-traffic-must-turn-left,All traffic must turn left,All traffic must turn left
+R4-21R,regulatory,right-turn-only,Right turn only,Right turn only
+R4-21L,regulatory,left-turn-only,Left turn only,Left turn only
+R5-1,regulatory,no-entry,No entry,Do not enter
+R5-1a,information,wrong-way,Wrong way,Wrong way
+R5-1b,regulatory,wrong-way-for-bicycles,Wrong way for bicycles,Wrong way for bicycles
+R5-2,regulatory,no-goods-vehicles,No entry for goods vehicles,No trucks
+R5-2aP,additional-panel,except-local-delivery,Except local delivery (plaque),Except local delivery (plaque)
+R5-2b,regulatory,no-thru-trucks,No thru trucks,No thru trucks
+R5-3,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,No motorized vehicles
+R5-4,regulatory,no-commercial-vehicles,No commercial vehicles,No commercial vehicles
+R5-5,regulatory,no-lugged-vehicles,No lugged vehicles,No lugged vehicles
+R5-6,regulatory,no-bicycles,No entry for bicycles,No bicycles
+R5-7,regulatory,no-non-motorized-traffic,No non-motorized traffic,No non-motorized traffic
+R5-8,regulatory,no-motorcycles,No entry for motorcycles,No motor-driven cycles
+R5-10,regulatory,no-pedestrians-bicycles-or-motor-driven-cycles,"No pedestrians, bicycles or motor-driven cycles","No pedestrians, bicycles or motor-driven cycles"
+R5-10a,regulatory,no-pedestrians-bicycles-or-motor-driven-cycles-on-freeway,"No pedestrians, bicycles or motor-driven cycles on freeway","No pedestrians, bicycles or motor-driven cycles on freeway"
+R5-10b,regulatory,no-pedestrians-or-bicycles,No pedestrians or bicycles,No pedestrians or bicycles
+R5-10c,regulatory,no-pedestrians,No entry for pedestrians,No pedestrians
+R5-10dP,additional-panel,on-freeway,On freeway (plaque),On freeway (plaque)
+R5-11,regulatory,no-unauthorized-vehicles,No unauthorized vehicles,No unauthorized vehicles
+R5-12,regulatory,no-thru-traffic,No thru traffic,No thru traffic
+R6-1R,information,one-way-road-right,One-way road (right here),One way (right)
+R6-1L,information,one-way-road-left,One-way road (left here),One way (left)
+R6-2R,regulatory,one-way-with-arrow-right,One way (with arrow) (right),One way (with arrow) (right)
+R6-2L,regulatory,one-way-with-arrow-left,One way (with arrow) (left),One way (with arrow) (left)
+R6-3,regulatory,divided-highway-crossing,Divided highway crossing,Divided highway crossing
+R6-3a,regulatory,divided-highway-crossing-t-intersection,"Divided highway crossing, T-intersection","Divided highway crossing, T-intersection"
+R6-5P,additional-panel,roundabout-circulation,Roundabout circulation (plaque),Roundabout circulation (plaque)
+R6-6,regulatory,begin-one-way,Begin one way,Begin one way
+R6-7,regulatory,end-one-way,End one way,End one way
+R7-1,regulatory,no-parking,No parking,No parking any time
+R7-2,regulatory,no-parking-times,No parking (times),No parking (times)
+R7-2a,regulatory,no-parking-times-alternative,No parking (times) (alternative),No parking (times) (alternative)
+R7-3,regulatory,no-parking-except-sundays-and-holidays,No parking except Sundays and Holidays,No parking except Sundays and Holidays
+R7-4,regulatory,no-standing-any-time,No standing any time,No standing any time
+R7-4a,regulatory,no-stopping,No stopping,No stopping any time
+R7-5,regulatory,one-hour-parking,One hour parking,One hour parking
+R7-6,regulatory,no-parking-loading-zone,"No parking, loading zone","No parking, loading zone"
+R7-8,regulatory,disabled-parking-place,Parking for disabled badge holders only,Reserved parking (wheelchair)
+R7-8aP,additional-panel,van-accessible,Van accessible (plaque),Van accessible (plaque)
+R7-9,regulatory,no-parking-bike-lane,"No parking, bike lane","No parking, bike lane"
+R7-9a,regulatory,no-parking-bike-lane-r7-9a,"No parking, bike lane","No parking, bike lane"
+R7-10,regulatory,back-in-parking-only,Back-in parking only,Back-in parking only
+R7-20,regulatory,parking-fee-station,Parking fee station,Parking fee station
+R7-21,regulatory,two-hour-metered-parking-times-and-days,Two hour metered parking (times and days),Two hour metered parking (times and days)
+R7-21aP,additional-panel,parking-payments,Parking payments (plaque),Parking payments (plaque)
+R7-22,regulatory,metered-parking-times-and-days,Metered parking (times and days),Metered parking (times and days)
+R7-107,regulatory,no-parking-bus-stop,"No parking, bus stop","No parking, bus stop"
+R7-107a,regulatory,no-parking-bus-stop-r7-107a,"No parking, bus stop","No parking, bus stop"
+R7-107b,regulatory,no-parking-bus-stop-with-transit-pictograph,"No parking, bus stop with transit pictograph","No parking, bus stop with transit pictograph"
+R7-108,regulatory,two-hour-parking-times,Two hour parking (times),Two hour parking (times)
+R7-111,regulatory,no-parking-except-electric-vehicles,"No parking, except electric vehicles","No parking, except electric vehicles"
+R7-111a,regulatory,no-parking-times-except-electric-vehicles,"No parking, (times) except electric vehicles","No parking, (times) except electric vehicles"
+R7-112,regulatory,two-hour-parking-electric-vehicles-only,"Two hour parking, electric vehicles only","Two hour parking, electric vehicles only"
+R7-112a,regulatory,two-hour-parking-electric-vehicles-only-times,"Two hour parking, electric vehicles only (times)","Two hour parking, electric vehicles only (times)"
+R7-112b,regulatory,two-hour-parking-electric-vehicles-only-times-and-days,"Two hour parking, electric vehicles only (times and days)","Two hour parking, electric vehicles only (times and days)"
+R7-113,regulatory,no-parking-except-while-charging,"No parking, except while charging","No parking, except while charging"
+R7-113aP,additional-panel,vehicle-must-be-plugged-in,Vehicle must be plugged in (plaque),Vehicle must be plugged in (plaque)
+R7-113bP,additional-panel,vacate-stall-when-charging-completed,Vacate stall when charging completed (plaque),Vacate stall when charging completed (plaque)
+R7-114,regulatory,two-hour-vehicle-charging-only,"Two hour, vehicle charging only","Two hour, vehicle charging only"
+R7-114a,regulatory,45-minute-vehicle-charging-only-times,"45 minute, vehicle charging only (times)","45 minute, vehicle charging only (times)"
+R7-114b,regulatory,45-minute-vehicle-charging-only-times-and-days,"45 minute, vehicle charging only (times and days)","45 minute, vehicle charging only (times and days)"
+R7-200,regulatory,no-parking-and-one-hour-parking-times-combined,No parking and one hour parking (times) (combined),No parking and one hour parking (times) (combined)
+R7-200a,regulatory,no-parking-and-one-hour-parking-times-combined-r7-200a,No parking and one hour parking (times) (combined),No parking and one hour parking (times) (combined)
+R7-201P,additional-panel,tow-away-zone,Tow away zone,Tow away zone
+R7-201aP,additional-panel,tow-away-zone-plaque,Tow away zone (plaque),Tow away zone (plaque)
+R7-202P,additional-panel,this-side-of-sign,This side of sign (plaque),This side of sign (plaque)
+R7-203,regulatory,snow-emergency-route-no-parking-during-snow-emergency-tow,"Snow emergency route, no parking during snow emergency, tow-away zone","Snow emergency route, no parking during snow emergency, tow-away zone"
+R8-1,regulatory,no-parking-on-pavement,No parking on pavement,No parking on pavement
+R8-2,regulatory,no-parking-except-on-shoulder,No parking except on shoulder,No parking except on shoulder
+R8-3,regulatory,no-parking-r8-3,No parking,No parking
+R8-3a,regulatory,no-parking-text,No parking (text),No parking (text)
+R8-3c,regulatory,no-parking-on-pavement-r8-3c,No parking on pavement,No parking on pavement
+R8-3d,regulatory,no-parking-on-bridge,No parking on bridge,No parking on bridge
+R8-3e,regulatory,no-parking-on-tracks,No parking on tracks,No parking on tracks
+R8-3f,regulatory,no-parking-except-on-shoulder-r8-3f,No parking except on shoulder,No parking except on shoulder
+R8-4,regulatory,emergency-parking-only,Emergency parking only,Emergency parking only
+R8-5,regulatory,no-stopping-on-pavement,No stopping on pavement,No stopping on pavement
+R8-6,regulatory,no-stopping-except-on-shoulder,No stopping except on shoulder,No stopping except on shoulder
+R8-7,regulatory,emergency-stopping-only,Emergency stopping only,Emergency stopping only
+R8-8,regulatory,do-not-stop-on-tracks,Do not stop on tracks,Do not stop on tracks
+R8-9,regulatory,tracks-out-of-service,Tracks out of service,Tracks out of service
+R8-10,regulatory,stop-here-when-flashing,Stop here when flashing,Stop here when flashing
+R8-10a,regulatory,stop-here-when-flashing-alternative,Stop here when flashing (alternative),Stop here when flashing (alternative)
+R9-1,regulatory,walk-on-left-facing-traffic,Walk on left facing traffic,Walk on left facing traffic
+R9-2,regulatory,cross-only-at-cross-walks,Cross only at cross walks,Cross only at cross walks
+R9-3,regulatory,no-pedestrians-crossing-symbol,No pedestrians crossing (symbol),No pedestrians crossing (symbol)
+R9-3a,regulatory,no-pedestrians-crossing,No pedestrians crossing,No pedestrians crossing
+R9-3b,additional-panel,use-crosswalk,Use crosswalk (plaque),Use crosswalk (plaque)
+R9-3c,additional-panel,ride-with-traffic,Ride with traffic (plaque),Ride with traffic (plaque)
+R9-4,regulatory,no-hitchhiking-symbol,No hitchhiking (symbol),No hitchhiking (symbol)
+R9-4a,regulatory,no-hitchhiking,No hitchhiking,No hitchhiking
+R9-5,regulatory,bicycles-use-pedestrian-signal,Bicycles use pedestrian signal,Bicycles use pedestrian signal
+R9-6,regulatory,bicycles-yield-to-pedestrians,Bicycles yield to pedestrians,Bicycles yield to pedestrians
+R9-7,regulatory,bicycles-left-pedestrians-right,"Bicycles left, Pedestrians right","Bicycles left, Pedestrians right"
+R9-8,regulatory,pedestrian-crosswalk,Pedestrian Crosswalk,Pedestrian Crosswalk
+R9-9,regulatory,sidewalk-closed,Sidewalk Closed,Sidewalk Closed
+R9-10,regulatory,sidewalk-closed-use-other-side,Sidewalk Closed Use Other Side,Sidewalk Closed Use Other Side
+R9-11,regulatory,sidewalk-closed-ahead-cross-here,Sidewalk Closed Ahead Cross Here,Sidewalk Closed Ahead Cross Here
+R9-11a,regulatory,sidewalk-closed-cross-here,Sidewalk Closed Cross Here,Sidewalk Closed Cross Here
+R9-12,regulatory,bike-lane-closed,Bike lane closed,Bike lane closed
+R9-13,regulatory,no-skates-skateboards-scooters,"No entry for skates, skateboards, scooters or similar sports equipment",No skaters
+R9-14,regulatory,no-riders,No entry for riders on animals,No equestrians
+R9-15,regulatory,no-snowmobiles,No snowmobiles,No snowmobiles
+R9-16,regulatory,no-all-terrain-vehicles,No all-terrain vehicles,No all-terrain vehicles
+R9-19P,additional-panel,except-on-shoulder,Except on shoulder (plaque),Except on shoulder (plaque)
+R9-20,regulatory,bicycles-allowed-use-of-full-lane,Bicycles allowed use of full lane,Bicycles allowed use of full lane
+R9-21,regulatory,bicycles-use-shoulder-only,Bicycles use shoulder only,Bicycles use shoulder only
+R9-22,regulatory,bicycles-must-exit,Bicycles must exit,Bicycles must exit
+R9-23,regulatory,bicycle-all-turns-from-bike-lane,Bicycle all turns from bike lane,Bicycle all turns from bike lane
+R9-23a,regulatory,bicycle-left-turn-from-bike-lane,Bicycle left turn from bike lane,Bicycle left turn from bike lane
+R9-23bL,regulatory,bicycle-left-turn-must-use-turn-box,Bicycle left turn must use turn box,Bicycle left turn must use turn box
+R9-23cL,regulatory,bicycle-left-turn-must-use-turn-box-r9-23cl,Bicycle left turn must use turn box,Bicycle left turn must use turn box
+R9-24,regulatory,bicycle-all-turns-diagonal-right-arrow,Bicycle all turns (diagonal right arrow),Bicycle all turns (diagonal right arrow)
+R9-24a,regulatory,bicycle-all-turns-right-arrow,Bicycle all turns (right arrow),Bicycle all turns (right arrow)
+R9-25,regulatory,bicycle-u-and-left-turns-diagonal-right-arrow,Bicycle U and left turns (diagonal right arrow),Bicycle U and left turns (diagonal right arrow)
+R9-25a,regulatory,bicycle-u-and-left-turns-right-arrow,Bicycle U and left turns (right arrow),Bicycle U and left turns (right arrow)
+R9-25b,regulatory,bicycle-u-and-left-turns-straight-arrow,Bicycle U and left turns (straight arrow),Bicycle U and left turns (straight arrow)
+R9-26,regulatory,bicycle-u-turn-diagonal-right-arrow,Bicycle U turn (diagonal right arrow),Bicycle U turn (diagonal right arrow)
+R9-26a,regulatory,bicycle-u-turn-right-arrow,Bicycle U turn (right arrow),Bicycle U turn (right arrow)
+R9-26b,regulatory,bicycle-u-turn-straight-arrow,Bicycle U turn (straight arrow),Bicycle U turn (straight arrow)
+R9-27,regulatory,bicycle-left-turn-diagonal-right-arrow,Bicycle left turn (diagonal right arrow),Bicycle left turn (diagonal right arrow)
+R9-27a,regulatory,bicycle-left-turn-right-arrow,Bicycle left turn (right arrow),Bicycle left turn (right arrow)
+R9-27b,regulatory,bicycle-left-turn-straight-arrow,Bicycle left turn (straight arrow),Bicycle left turn (straight arrow)
+R10-1,regulatory,cross-only-on-green,Cross only on green,Cross only on green
+R10-2,regulatory,cross-only-on-pedestrian-signal,Cross only on pedestrian signal,Cross only on pedestrian signal
+R10-3,regulatory,push-button-for-pedestrian-signal,Push button for pedestrian signal,Push button for pedestrian signal
+R10-3a,regulatory,push-button-to-cross-street-wait-for-pedestrian-signal,"Push button to cross street, wait for pedestrian signal","Push button to cross street, wait for pedestrian signal"
+R10-3b,regulatory,crosswalk-signal-instructions,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3c,regulatory,crosswalk-signal-instructions-r10-3c,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3d,regulatory,crosswalk-signal-instructions-r10-3d,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3e,regulatory,crosswalk-signal-instructions-r10-3e,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3f,regulatory,crosswalk-signal-instructions-r10-3f,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3g,regulatory,crosswalk-signal-instructions-r10-3g,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3h,regulatory,crosswalk-signal-instructions-r10-3h,Crosswalk signal instructions,Crosswalk signal instructions
+R10-3i,regulatory,crosswalk-signal-instructions-r10-3i,Crosswalk signal instructions,Crosswalk signal instructions
+R10-4,regulatory,push-button-for-green,Push button for green,Push button for green
+R10-4a,regulatory,push-button-to-cross-street-wait-for-green,"Push button to cross street, wait for green","Push button to cross street, wait for green"
+R10-5,regulatory,left-on-green-arrow-only,Left on green arrow only,Left on green arrow only
+R10-6,regulatory,stop-here-on-red,Stop here on red,Stop here on red
+R10-6aR,regulatory,stop-here-on-red-alternative-right,Stop here on red (alternative) (right),Stop here on red (alternative) (right)
+R10-6a,regulatory,stop-here-on-red-alternative-left,Stop here on red (alternative) (left),Stop here on red (alternative) (left)
+R10-7,regulatory,do-not-block-intersection,Do not block intersection,Do not block intersection
+R10-8,regulatory,use-lane-with-green-arrow,Use lane with green arrow,Use lane with green arrow
+R10-10R,regulatory,right-turn-signal,Right turn signal,Right turn signal
+R10-10L,regulatory,left-turn-signal,Left turn signal,Left turn signal
+R10-10a,regulatory,u-turn-signal,U turn Signal,U turn Signal
+R10-10bR,regulatory,right-lane-signal,Right lane signal,Right lane signal
+R10-10bL,regulatory,left-lane-signal,Left lane Signal,Left lane Signal
+R10-10cR,regulatory,right-turn-lane-signal,Right turn lane signal,Right turn lane signal
+R10-10cL,regulatory,left-turn-lane-signal,Left turn lane signal,Left turn lane signal
+R10-11a,regulatory,no-turn-on-red,No turn on red,No turn on red
+R10-11,regulatory,no-turn-on-circular-red,No turn on circular red,No turn on circular red
+R10-11b,regulatory,no-turn-on-red-r10-11b,No turn on red,No turn on red
+R10-11c,regulatory,no-turn-on-red-except-from-right-lane,No turn on red except from right lane,No turn on red except from right lane
+R10-11d,regulatory,no-turn-on-red-from-this-lane,No turn on red from this lane,No turn on red from this lane
+R10-12,regulatory,left-turn-yield-on-green,Left turn yield on green,Left turn yield on green
+R10-12a,regulatory,left-turn-yield-on-flashing-yellow-arrow,Left turn yield on flashing yellow arrow,Left turn yield on flashing yellow arrow
+R10-12b,regulatory,left-turn-yield-to-bicycle,Left turn yield to bicycle,Left turn yield to bicycle
+R10-13,regulatory,emergency-signal,Emergency signal,Emergency signal
+R10-14,regulatory,emergency-signal-stop-on-flashing-red,Emergency signal - stop on flashing red,Emergency signal - stop on flashing red
+R10-14a,regulatory,emergency-signal-stop-on-flashing-red-overhead,Emergency signal - stop on flashing red (overhead),Emergency signal - stop on flashing red (overhead)
+R10-14b,regulatory,stop-here-on-flashing-red,Stop here on flashing red,Stop here on flashing red
+R10-15R,regulatory,turning-vehicles-yield-to-pedestrians-right,Turning vehicles yield to pedestrians (right),Turning vehicles yield to pedestrians (right)
+R10-15R (fluorescent),regulatory,turning-vehicles-yield-to-pedestrians-right-fluorescent,Turning vehicles yield to pedestrians (right),Turning vehicles yield to pedestrians (right)
+R10-15L,regulatory,turning-vehicles-yield-to-pedestrians-left,Turning vehicles yield to pedestrians (left),Turning vehicles yield to pedestrians (left)
+R10-15L (fluorescent),regulatory,turning-vehicles-yield-to-pedestrians-left-fluorescent,Turning vehicles yield to pedestrians (left),Turning vehicles yield to pedestrians (left)
+R10-15a,regulatory,turning-vehicles-stop-for-pedestrians,Turning vehicles stop for pedestrians,Turning vehicles stop for pedestrians
+R10-16,regulatory,u-turn-yield-to-right-turn,U-turn yield to right turn,U-turn yield to right turn
+R10-17a,regulatory,right-on-red-arrow-after-stop,Right on red arrow after stop,Right on red arrow after stop
+R10-18,regulatory,traffic-laws-photo-enforced,Traffic laws photo enforced,Traffic laws photo enforced
+R10-18a,regulatory,traffic-signal-photo-enforced,Traffic signal photo enforced,Traffic signal photo enforced
+R10-19P,additional-panel,photo-enforced-symbol,Photo enforced (symbol) (plaque),Photo enforced (symbol) (plaque)
+R10-19aP,additional-panel,photo-enforced,Photo enforced (plaque),Photo enforced (plaque)
+R10-20aP (3 lines),additional-panel,days-and-times-for-use-with-r10-11-series-3-lines,Days & times (plaque) (for use with R10-11 series) (3 lines),Days & times (plaque) (for use with R10-11 series) (3 lines)
+R10-20aP (2 lines),additional-panel,days-and-times-for-use-with-r10-11-series-2-lines,Days & times (plaque) (for use with R10-11 series) (2 lines),Days & times (plaque) (for use with R10-11 series) (2 lines)
+R10-22,regulatory,bicycles-to-request-green-wait-on-line,Bicycles to request green wait on line,Bicycles to request green wait on line
+R10-23,regulatory,crosswalk-stop-on-red,Crosswalk - stop on red,Crosswalk - stop on red
+R10-23a,regulatory,stop-on-red-yield-on-flashing-red-after-stop,Stop on red - yield on flashing red after stop,Stop on red - yield on flashing red after stop
+R10-24,regulatory,bicycle-push-button-for-green-light,Bicycle push button for green light,Bicycle push button for green light
+R10-25,regulatory,push-button-for-warning-lights-wait-for-gap-in-traffic,Push button for warning lights - wait for gap in traffic,Push button for warning lights - wait for gap in traffic
+R10-26,regulatory,bicycle-push-button-for-green-light-with-arrow,Bicycle push button for green light with arrow,Bicycle push button for green light with arrow
+R10-27,regulatory,left-turn-yield-on-flashing-red-arrow-after-stop,Left turn yield on flashing red arrow after stop,Left turn yield on flashing red arrow after stop
+R10-28,regulatory,one-vehicle-per-green,One vehicle per green,One vehicle per green
+R10-29,regulatory,1-vehicle-per-green-each-lane,1 vehicle per green each lane,1 vehicle per green each lane
+R10-30,regulatory,right-turn-on-red-must-yield-to-u-turn,Right turn on red must yield to U-turn,Right turn on red must yield to U-turn
+R10-31P,additional-panel,at-signal,At signal (plaque),At signal (plaque)
+R10-32P,additional-panel,push-button-for-2-seconds-for-extra-crossing-time,Push button for 2 seconds for extra crossing time,Push button for 2 seconds for extra crossing time
+R10-40,regulatory,bicycle-signal-mandatory-movement-turn,Bicycle signal mandatory movement (turn),Bicycle signal mandatory movement (turn)
+R10-40a,regulatory,bicycle-signal-mandatory-movement-thru,Bicycle signal mandatory movement (thru),Bicycle signal mandatory movement (thru)
+R10-41,regulatory,bicycle-signal-optional-movement-thru-and-turn,Bicycle signal optional movement (thru and turn),Bicycle signal optional movement (thru and turn)
+R10-41a,regulatory,bicycle-signal-optional-movement-left-and-right-turns,Bicycle signal optional movement (left and right turns),Bicycle signal optional movement (left and right turns)
+R10-41b,regulatory,bicycle-signal-optional-movement-all,Bicycle signal optional movement (all),Bicycle signal optional movement (all)
+R10-41c,regulatory,bicycle-signal-optional-movement-left-and-thru,Bicycle signal optional movement (left and thru),Bicycle signal optional movement (left and thru)
+R11-1,regulatory,keep-off-median,Keep off median,Keep off median
+R11-2,regulatory,road-closed,Road closed,Road closed
+R11-2a,regulatory,street-closed,Street closed,Street closed
+R11-2b,regulatory,bridge-out,Bridge out,Bridge out
+R11-2c,regulatory,path-closed,Path closed,Path closed
+R11-3,regulatory,road-closed-distance-miles-ahead-local-traffic-only,"Road closed (distance) miles ahead, local traffic only","Road closed (distance) miles ahead, local traffic only"
+R11-3a,regulatory,street-closed-distance-miles-ahead-local-traffic-only,"Street closed (distance) miles ahead, local traffic only","Street closed (distance) miles ahead, local traffic only"
+R11-3b,regulatory,bridge-out-distance-miles-ahead-local-traffic-only,"Bridge out (distance) miles ahead, local traffic only","Bridge out (distance) miles ahead, local traffic only"
+R11-4,regulatory,road-closed-to-thru-traffic,Road closed to thru traffic,Road closed to thru traffic
+R12-1,regulatory,maximum-weight,Maximum weight,Weight limit
+R12-2,regulatory,maximum-axle-weight,Maximum axle weight,Axle weight limit
+R12-4,regulatory,weight-limit-with-per-axle-and-gross,Weight limit with per axle and gross,Weight limit with per axle and gross
+R12-5,regulatory,weight-limit-with-truck-symbols,Weight limit with truck symbols,Weight limit with truck symbols
+R12-6,regulatory,weight-limit-with-special-hauling-vehicles,Weight limit with special hauling vehicles,Weight limit with special hauling vehicles
+R12-7,regulatory,emergency-vehicle-weight-limit,Emergency vehicle weight limit,Emergency vehicle weight limit
+R12-7aP,additional-panel,emergency-vehicle-weight-limit-plaque,Emergency vehicle weight limit (plaque),Emergency vehicle weight limit (plaque)
+R13-1,regulatory,trucks-over-10-tons-must-enter-weigh-station-next-right,Trucks over 10 tons must enter weigh station next right,Trucks over 10 tons must enter weigh station next right
+R14-1,regulatory,truck-route-sign,Truck route sign,Truck route sign
+R14-2,regulatory,hazardous-material-route,Hazardous material route,Hazardous material route
+R14-3,regulatory,hazardous-material-prohibited,Hazardous material prohibited,Hazardous material prohibited
+R14-4,regulatory,national-network-route,National Network Route,National Network Route
+R14-5,regulatory,national-network-prohibited,National Network prohibited,National Network prohibited
+R15-1,warning,level-crossing-cross-single-track,Level crossing cross (single track),Railroad crossing (crossbuck)
+R15-2P,additional-panel,number-of-tracks,Number of tracks,Number of tracks
+R15-3P,additional-panel,vehicles-required-to-stop-are-exempt-from-this-regulation,Vehicles required to stop are exempt from this regulation,Vehicles required to stop are exempt from this regulation
+R15-4a,regulatory,light-rail-only-in-right-lane,Light rail only in right lane,Light rail only in right lane
+R15-4b,regulatory,light-rail-only-in-left-lane,Light rail only in left lane,Light rail only in left lane
+R15-4c,regulatory,light-rail-only-in-center-lane,Light rail only in center lane,Light rail only in center lane
+R15-5,regulatory,do-not-pass-stopped-trains,Do not pass stopped trains,Do not pass stopped trains
+R15-5a,regulatory,do-not-pass-stopped-train,Do not pass stopped train,Do not pass stopped train
+R15-6,regulatory,do-not-drive-on-tracks,Do not drive on tracks,Do not drive on tracks
+R15-6a,regulatory,do-not-drive-on-tracks-r15-6a,Do not drive on tracks,Do not drive on tracks
+R15-7,regulatory,divided-highway-transit-rail-crossing,Divided highway transit rail crossing,Divided highway transit rail crossing
+R15-7a,regulatory,divided-highway-transit-rail-crossing-t-intersection,Divided highway transit rail crossing (T-intersection),Divided highway transit rail crossing (T-intersection)
+R15-8,regulatory,look-both-ways-at-track,Look both ways at track,Look both ways at track
+R16-3,regulatory,move-over-or-reduce-speed-for-vehicles-stopped-on-shoulder,Move over or reduce speed for vehicles stopped on shoulder,Move over or reduce speed for vehicles stopped on shoulder
+R16-4,regulatory,minor-crashes-move-vehicles-from-travel-lanes,"Minor crashes, move vehicles from travel lanes","Minor crashes, move vehicles from travel lanes"
+R16-5,regulatory,lights-on-when-using-wipers,Lights on when using wipers,Lights on when using wipers
+R16-6,regulatory,lights-on-when-raining,Lights on when raining,Lights on when raining
+R16-7,regulatory,turn-on-headlights-next-distance-miles,Turn on headlights next (distance) miles,Turn on headlights next (distance) miles
+R16-8,regulatory,headlights-on,Switch on headlights,Turn on headlights
+R16-9,regulatory,check-headlights,Check headlights,Check headlights
+R16-10,regulatory,begin-daytime-headlight-section,Begin daytime headlight section,Begin daytime headlight section
+R16-11,regulatory,end-daytime-headlight-section,End daytime headlight section,End daytime headlight section
+R16-15,regulatory,no-hand-held-phone-use-by-driver,No hand-held phone use by driver,No hand-held phone use by driver
+R16-15a,regulatory,no-hand-held-phone-use-by-driver-r16-15a,No hand-held phone use by driver,No hand-held phone use by driver
+R22-2,regulatory,turn-off-2-way-radios-and-cell-phones,Turn off 2-way radios and cell phones,Turn off 2-way radios and cell phones
+S1-1,warning,children,Children,School zone
+S3-1 (new),warning,school-bus-stop-ahead,School bus stop ahead,School bus stop ahead
+S3-2,warning,school-bus-turn-ahead,School bus turn ahead,School bus turn ahead
+S4-1P,additional-panel,times-of-day,Times of day (plaque),Times of day (plaque)
+S4-2P,additional-panel,when-children-are-present,When children are present (plaque),When children are present (plaque)
+S4-3P,additional-panel,school,School,School (plaque)
+S4-4P,additional-panel,when-flashing,When flashing (plaque),When flashing (plaque)
+S4-5,regulatory,school-speed-limit-ahead,School speed limit ahead,School speed limit ahead
+S4-5a,warning,school-speed-zone-ahead,School speed zone ahead,School speed zone ahead
+S4-6P,additional-panel,days-of-week,Days of week (plaque),Days of week (plaque)
+S4-7P,additional-panel,all-year,All year (plaque),All year (plaque)
+S5-1,regulatory,school-speed-limit-when-flashing,School speed limit when flashing,School speed limit when flashing
+S5-2,regulatory,end-school-zone,End school zone,End school zone
+S5-3,regulatory,end-school-speed-limit,End school speed limit,End school speed limit
+W1-1R,warning,sharp-bend-right,Turn (right),Turn (right)
+W1-1L,warning,sharp-bend-left,Turn (left),Turn (left)
+W1-2R,warning,bend-right,Bend (right),Curve (right)
+W1-2L,warning,bend-left,Bend (left),Curve (left)
+W1-3R,warning,double-sharp-bend-right,Reverse turn (right),Reverse turn (right)
+W1-3L,warning,double-sharp-bend-left,Reverse turn (left),Reverse turn (left)
+W1-4R,warning,double-bend-right,Double bend (first to the right),Reverse curve (right)
+W1-4L,warning,double-bend-left,Double bend (first to the left),Reverse curve (left)
+CW1-4R,warning,single-lane-shift-right,Single lane shift (right),Single lane shift (right)
+CW1-4L,warning,single-lane-shift-left,Single lane shift (left),Single lane shift (left)
+CW1-4bR,warning,double-lane-shift-right,Double lane shift (right),Double lane shift (right)
+CW1-4bL,warning,double-lane-shift-left,Double lane shift (left),Double lane shift (left)
+CW1-4cR,warning,triple-lane-shift-right,Triple lane shift (right),Triple lane shift (right)
+CW1-4cL,warning,triple-lane-shift-left,Triple lane shift (left),Triple lane shift (left)
+W1-5R,warning,winding-road-right,Winding road (right),Winding road (right)
+W1-5L,warning,winding-road-left,Winding road (left),Winding road (left)
+W1-6R,warning,arrow-right,Arrow (right),Arrow (right)
+W1-6L,warning,arrow-left,Arrow (left),Arrow (left)
+W1-7,warning,two-direction-large-arrow,Two-direction large arrow,Two-direction large arrow
+W1-8R,traffic-device,chevron-board-1-arrow-right,Chevron (right),Chevron (right)
+W1-8L,traffic-device,chevron-board-1-arrow-left,Chevron (left),Chevron (left)
+W1-10R,warning,curve-with-side-road-right,Curve with side road (right),Curve with side road (right)
+W1-10L,warning,curve-with-side-road-left,Curve with side road (left),Curve with side road (left)
+W1-10aR,warning,curve-with-crossroad-right,Curve with crossroad (right),Curve with crossroad (right)
+W1-10aL,warning,curve-with-crossroad-left,Curve with crossroad (left),Curve with crossroad (left)
+W1-10bR,warning,curve-with-tangent-right,Curve with tangent (right),Curve with tangent (right)
+W1-10bL,warning,curve-with-tangent-left,Curve with tangent (left),Curve with tangent (left)
+W1-10cR,warning,curve-with-tangent-from-side-right,Curve with tangent from side (right),Curve with tangent from side (right)
+W1-10cL,warning,curve-with-tangent-from-side-left,Curve with tangent from side (left),Curve with tangent from side (left)
+W1-10dR,warning,reverse-curve-with-side-road-right,Reverse curve with side road (right),Reverse curve with side road (right)
+W1-10dL,warning,reverse-curve-with-side-road-left,Reverse curve with side road (left),Reverse curve with side road (left)
+W1-10eR,warning,reverse-curve-with-crossroad-right,Reverse curve with crossroad (right),Reverse curve with crossroad (right)
+W1-10eL,warning,reverse-curve-with-crossroad-left,Reverse curve with crossroad (left),Reverse curve with crossroad (left)
+W1-11R,warning,hairpin-curve-right,Hairpin curve (right),Hairpin curve (right)
+W1-11L,warning,hairpin-curve-left,Hairpin curve (left),Hairpin curve (left)
+W1-13R,warning,truck-rollover-warning-right,Truck rollover warning (right),Truck rollover warning (right)
+W1-13L,warning,truck-rollover-warning-left,Truck rollover warning (left),Truck rollover warning (left)
+W1-15R,warning,270-degree-loop-curve-right,270 degree loop curve (right),270 degree loop curve (right)
+W1-15L,warning,270-degree-loop-curve-left,270 degree loop curve (left),270 degree loop curve (left)
+W2-1,warning,intersection,Intersection,Crossroad
+W2-2R,warning,side-road-right,Side road on the right,Side road (right)
+W2-2L,warning,side-road-left,Side road (left),Side road (left)
+W2-3R,warning,side-road-at-an-acute-angle-right,Side road at an acute angle (right),Side road at an acute angle (right)
+W2-3L,warning,side-road-at-an-acute-angle-left,Side road at an acute angle (left),Side road at an acute angle (left)
+W2-3aR,warning,side-road-at-an-obtuse-angle-right,Side road at an obtuse angle (right),Side road at an obtuse angle (right)
+W2-3aL,warning,side-road-at-an-obtuse-angle-left,Side road at an obtuse angle (left),Side road at an obtuse angle (left)
+W2-4,warning,t-junction,T-junction,T-intersection
+W2-5,warning,y-intersection,Y-intersection,Y-intersection
+W2-6,warning,roundabout-ahead,Roundabout ahead,Roundabout
+W2-7R,warning,offset-side-roads-right-and-left,Offset side roads (right and left),Offset side roads (right and left)
+W2-7L,warning,offset-side-roads-left-and-right,Offset side roads (left and right),Offset side roads (left and right)
+W2-8R,warning,double-side-roads-right,Double side roads (right),Double side roads (right)
+W2-8L,warning,double-side-roads-left,Double side roads (left),Double side roads (left)
+W2-10,warning,traffic-entering-when-flashing,Traffic Entering When Flashing,Traffic Entering When Flashing
+W2-11,warning,traffic-approaching-when-flashing,Traffic Approaching When Flashing,Traffic Approaching When Flashing
+W3-1,warning,stop-ahead,Stop ahead,Stop sign ahead
+W3-2,warning,give-way-ahead,Give way ahead,Yield sign ahead
+W3-3,warning,traffic-signals,Traffic signals,Traffic light ahead
+W3-4,warning,be-prepared-to-stop,Be prepared to stop,Be prepared to stop
+W3-5,warning,speed-limit-ahead,Speed limit ahead,Speed limit ahead
+W3-5A,warning,speed-zone-ahead,Speed zone ahead,Speed zone ahead
+W3-5b,warning,variable-speed-zone-ahead,Variable Speed Zone Ahead,Variable Speed Zone Ahead
+W3-5c,warning,truck-speed-zone-ahead,Truck Speed Zone Ahead,Truck Speed Zone Ahead
+W3-6,warning,movable-bridge,Movable bridge,Draw bridge ahead
+W3-7,warning,ramp-meter-ahead,Ramp meter ahead,Ramp meter ahead
+W3-8,warning,ramp-metered-when-flashing,Ramp metered when flashing,Ramp metered when flashing
+W3-9,warning,traffic-using-shoulder-times-and-days,Traffic Using Shoulder (times and days),Traffic Using Shoulder (times and days)
+W4-1R,warning,merge-right,Merge (right),Merge (right)
+W4-1L,warning,merge-left,Merge (left),Merge (left)
+W4-2R,warning,road-narrows-right,Road narrows (from the right),Lane ends (right)
+W4-2L,warning,road-narrows-left,Road narrows (from the left),Lane ends (left)
+W4-3R,warning,added-right-lane,Added right lane,Added right lane
+W4-3L,warning,added-left-lane,Added left lane,Added left lane
+W4-4P,additional-panel,cross-traffic-does-not-stop,Cross traffic does not stop (plaque),Cross traffic does not stop (plaque)
+W4-4aPR,additional-panel,traffic-from-right-does-not-stop,Traffic from right does not stop (plaque),Traffic from right does not stop (plaque)
+W4-4aP,additional-panel,traffic-from-left-does-not-stop,Traffic from left does not stop (plaque),Traffic from left does not stop (plaque)
+W4-4bP,additional-panel,oncoming-traffic-does-not-stop,Oncoming traffic does not stop (plaque),Oncoming traffic does not stop (plaque)
+W4-5R,warning,merge-right-entering-roadway,Merge right (entering roadway),Merge right (entering roadway)
+W4-5L,warning,merge-left-entering-roadway,Merge left (entering roadway),Merge left (entering roadway)
+W4-5aP,additional-panel,no-merge-area,No merge area (plaque),No merge area (plaque)
+W4-6R,warning,added-right-lane-entering-roadway,Added right lane (entering roadway),Added right lane (entering roadway)
+W4-6L,warning,added-left-lane-entering-roadway,Added left lane (entering roadway),Added left lane (entering roadway)
+W4-7R,warning,heavy-merge-from-right,Heavy merge from right,Heavy merge from right
+W4-7L,warning,heavy-merge-from-left,Heavy merge from left,Heavy merge from left
+W4-8,warning,single-lane-transition,Single lane transition,Single lane transition
+W5-1,warning,road-narrows-both-sides,Road narrows (from both sides),Road narrows
+W5-2,warning,narrow-bridge,Narrow bridge,Narrow bridge
+W5-3,warning,one-lane-bridge,One lane bridge,One lane bridge
+W5-3a,warning,one-lane-underpass,One lane underpass,One lane underpass
+W5-4,warning,ramp-narrows,Ramp narrows,Ramp narrows
+W5-4a,warning,path-narrows,Path narrows,Path narrows
+W6-1,warning,divided-highway-begins,Divided highway begins,Divided highway begins
+W6-2,warning,divided-highway-ends,Divided highway ends,Divided highway ends
+W6-3,warning,two-way-traffic,Two-way traffic,Two-way traffic
+W6-5,warning,two-way-traffic-3-lane-two-lanes-in-the-opposing-direction,"Two-way traffic (3-Lane, two lanes in the opposing direction)","Two-way traffic (3-Lane, two lanes in the opposing direction)"
+W6-5a,warning,two-way-traffic-3-lane-one-lane-in-the-opposing-direction,"Two-way traffic (3-Lane, one lane in the opposing direction)","Two-way traffic (3-Lane, one lane in the opposing direction)"
+W7-1,warning,steep-descent,Steep descent,Steep grade/hill
+W7-1A,warning,hill,Hill,Hill
+W7-1a,warning,steep-grade-hill-percentage,Steep grade/hill percentage,Steep grade/hill percentage
+W7-2P,additional-panel,use-low-gear,Use low gear,Use low gear
+W7-2bP,additional-panel,trucks-use-lower-gear,Trucks use lower gear,Trucks use lower gear
+W7-3P,additional-panel,percent-grade-ahead,(percent) grade ahead,(percent) grade ahead
+W7-3aP,additional-panel,next-distance-miles-ahead,Next (distance) miles ahead,Next (distance) miles ahead
+W7-3bP,additional-panel,percent-grade-distance-miles-ahead,(percent) grade (distance) miles ahead,(percent) grade (distance) miles ahead
+W7-4,warning,runaway-truck-ramp-distance,Runaway truck ramp (distance),Runaway truck ramp (distance)
+W7-4b,warning,runaway-truck-ramp,Runaway truck ramp,Runaway truck ramp
+W7-4c,warning,truck-escape-ramp,Truck escape ramp,Truck escape ramp
+W7-4dP,additional-panel,sand,Sand,Sand
+W7-4eP,additional-panel,gravel,Gravel,Gravel
+W7-4fP,additional-panel,paved,Paved,Paved
+W7-5,warning,hill-bicycle,Hill (bicycle),Hill (bicycle)
+W7-6,warning,hill-blocks-view,Hill blocks view,Hill blocks view
+W8-1,warning,speed-bump,Speed bump,Bump
+W8-2,warning,dip,Dip,Dip
+W8-3,warning,pavement-ends,Pavement ends,Pavement ends
+W8-4,warning,soft-shoulder,Soft shoulder,Soft shoulder
+W8-5,warning,slippery-road,Slippery road,Slippery when wet ahead
+W8-5P,additional-panel,when-wet,When wet,When wet (plaque)
+W8-5aP,additional-panel,ice-panel,Ice,Ice (plaque)
+W8-5bP,additional-panel,steel-deck,Steel deck (plaque),Steel deck (plaque)
+W8-5cP,additional-panel,excess-oil,Excess oil (plaque),Excess oil (plaque)
+W8-6,warning,truck-crossing,Truck crossing,Truck crossing
+W8-7,warning,loose-gravel,Loose gravel,Loose gravel
+W8-8,warning,uneven-road,Uneven road,Rough road
+W8-9,warning,low-shoulder,Low shoulder,Low shoulder
+W8-10,warning,bicycle-slippery-when-wet-ahead,Bicycle slippery when wet ahead,Bicycle slippery when wet ahead
+W8-10P,additional-panel,slippery-when-wet,Slippery when wet (plaque),Slippery when wet (plaque)
+W8-11,warning,uneven-lanes,Uneven lanes,Uneven lanes
+W8-12,warning,no-center-line,No center line,No center line
+W8-13,warning,bridge-ices-before-road,Bridge ices before road,Bridge ices before road
+W8-14,warning,fallen-rocks,Fallen rocks,Fallen rocks
+W8-15,warning,grooved-pavement,Grooved pavement,Grooved pavement
+W8-15aP,additional-panel,motorcycle,Motorcycle (plaque),Motorcycle (plaque)
+W8-16,warning,metal-bridge-deck,Metal bridge deck,Metal bridge deck
+W8-17R,warning,right-shoulder-drop-off-ahead,Right shoulder drop-off ahead,Right shoulder drop-off ahead
+W8-17L,warning,left-shoulder-drop-off-ahead,Left shoulder drop-off ahead,Left shoulder drop-off ahead
+W8-17P,additional-panel,shoulder-drop-off,Shoulder drop-off (plaque),Shoulder drop-off (plaque)
+W8-18,warning,road-may-flood,Road may flood,Road may flood
+W8-19,warning,depth-gauge,Depth gauge,Depth gauge
+W8-21,warning,crosswind,Crosswind,Gusty Winds Area
+W8-22,warning,fog,Fog,Fog area
+W8-23,warning,no-shoulder-ahead,No shoulder ahead,No shoulder ahead
+W8-25,warning,shoulder-ends,Shoulder ends,Shoulder ends
+W8-26,warning,road-ends-distance,Road Ends (distance),Road Ends (distance)
+W8-26a,warning,street-ends-distance,Street Ends (distance),Street Ends (distance)
+W9-1,warning,right-lane-ends,Right lane ends,Right lane ends
+W9-1L,warning,left-lane-ends,Left lane ends,Left lane ends
+W9-4,warning,lanes-merge,Lanes Merge,Lanes Merge
+W9-2R,warning,lane-ends-merge-right,Lane Ends Merge Right,Lane Ends Merge Right
+W9-2L,warning,lane-ends-merge-left,Lane Ends Merge Left,Lane Ends Merge Left
+W9-5,warning,bicycle-lane-ends,Bicycle Lane Ends,Bicycle Lane Ends
+W9-5a,warning,bicycles-merging,Bicycles Merging,Bicycles Merging
+W9-6,warning,pay-toll-distance-cars-price,Pay toll (distance) cars (price),Pay toll (distance) cars (price)
+W9-6a,warning,stop-ahead-pay-toll-cars-price,Stop Ahead Pay Toll Cars (price),Stop Ahead Pay Toll Cars (price)
+W9-6bP,additional-panel,pay-toll-distance-cars-price-plaque,Pay toll (distance) cars (price) (plaque),Pay toll (distance) cars (price) (plaque)
+W9-6cP,additional-panel,stop-ahead-pay-toll,Stop Ahead Pay Toll (Plaque),Stop Ahead Pay Toll (Plaque)
+W9-6dP,additional-panel,stop-ahead-pay-toll-plaque,Stop Ahead Pay Toll (plaque),Stop Ahead Pay Toll (plaque)
+W9-6e,warning,take-ticket-distance,Take Ticket (distance),Take Ticket (distance)
+W9-6f,warning,stop-ahead-take-ticket,Stop Ahead Take Ticket,Stop Ahead Take Ticket
+W9-6gP,additional-panel,take-ticket-distance-plaque,Take Ticket (distance) (plaque),Take Ticket (distance) (plaque)
+W9-6hP,additional-panel,stop-ahead-take-ticket-plaque,Stop Ahead Take Ticket (plaque),Stop Ahead Take Ticket (plaque)
+W9-7R,warning,right-lane-for-exit-only,Right lane for exit only,Right lane for exit only
+W9-7L,warning,left-lane-for-exit-only,Left lane for exit only,Left lane for exit only
+W10-1,warning,level-crossing,Level crossing,Railroad crossing ahead
+W10-1aP,additional-panel,exempt,Exempt (plaque),Exempt (plaque)
+W10-2R,warning,crossroads-with-parallel-tracks-right,Crossroads with parallel tracks (right),Crossroads with parallel tracks (right)
+W10-2L,warning,crossroads-with-parallel-tracks-left,Crossroads with parallel tracks (left),Crossroads with parallel tracks (left)
+W10-3R,warning,side-road-with-parallel-tracks-right,Side road with parallel tracks (right),Side road with parallel tracks (right)
+W10-3L,warning,side-road-with-parallel-tracks-left,Side road with parallel tracks (left),Side road with parallel tracks (left)
+W10-4R,warning,t-intersection-with-parallel-tracks-right,T intersection with parallel tracks (right),T intersection with parallel tracks (right)
+W10-4L,warning,t-intersection-with-parallel-tracks-left,T intersection with parallel tracks (left),T intersection with parallel tracks (left)
+W10-5,warning,low-ground-clearance-railroad-crossing,Low ground clearance railroad crossing,Low ground clearance railroad crossing
+W10-5P,additional-panel,low-ground-clearance-plaque,Low ground clearance plaque,Low ground clearance plaque
+W10-7,warning,light-rail-transit-approaching-sign-activated-blank-out,"Light rail transit approaching sign (Activated, blank-out)","Light rail transit approaching sign (Activated, blank-out)"
+W10-8,warning,trains-may-exceed-speed,Trains may exceed (speed),Trains may exceed (speed)
+W10-9,warning,no-train-horn-warning,No train horn warning,No train horn warning
+W10-9P,additional-panel,no-train-horn-plaque,No train horn plaque,No train horn plaque
+W10-11,warning,storage-space-symbol,Storage space symbol,Storage space symbol
+W10-11a,warning,xx-feet-between-tracks-and-highway,XX feet between tracks and highway,XX feet between tracks and highway
+W10-11b,warning,xx-feet-between-highway-and-tracks-behind-you,XX feet between highway and tracks behind you,XX feet between highway and tracks behind you
+W10-12L,warning,skewed-crossing-ahead-right-this-supplements-the-w10-1-sign,Skewed crossing ahead (right) (this supplements the W10-1 sign but does not replace it),Skewed crossing ahead (right) (this supplements the W10-1 sign but does not replace it)
+W10-12R,warning,skewed-crossing-ahead-left-this-supplements-the-w10-1-sign,Skewed crossing ahead (left) (this supplements the W10-1 sign but does not replace it),Skewed crossing ahead (left) (this supplements the W10-1 sign but does not replace it)
+W10-13P,additional-panel,no-gates-or-lights,No gates or lights (plaque),No gates or lights (plaque)
+W10-14P,additional-panel,next-crossing,Next crossing (plaque),Next crossing (plaque)
+W10-14aP,additional-panel,use-next-crossing,Use next crossing (plaque),Use next crossing (plaque)
+W10-15P,additional-panel,rough-crossing,Rough crossing (plaque),Rough crossing (plaque)
+W10-16,warning,another-train-coming-activated-blank-out,"Another train coming (Activated, Blank-Out)","Another train coming (Activated, Blank-Out)"
+W10-21,warning,busway-crossing,Busway Crossing,Busway Crossing
+W10-21aP,additional-panel,signal-ahead,Signal Ahead (plaque),Signal Ahead (plaque)
+W11-1,warning,cyclists,Cyclists,Bicycle
+W11-2,warning,pedestrians,Pedestrians,Pedestrians
+W11-3,warning,wild-animals,Wild animals,Deer
+W11-4,warning,farm-animals,Farm animals,Cattle
+W11-5,warning,farm-vehicles,Farm vehicles,Farm vehicles
+W11-6,warning,snowmobile,Snowmobile,Snowmobile
+W11-7,warning,horse-riders,Horse riders,Equestrian
+W11-8,warning,emergency-vehicle,Emergency vehicle,Emergency vehicle
+W11-9,warning,handicapped,Handicapped,Handicapped
+W11-10,warning,truck,Truck,Truck
+W11-11,warning,golf-cart,Golf cart,Golf cart
+W11-12P,additional-panel,emergency-signal-ahead,Emergency signal ahead (plaque),Emergency signal ahead (plaque)
+W11-14,warning,horse-drawn-vehicles,Horse-drawn vehicles,Horse-drawn vehicles
+W11-15,warning,bicycle-and-pedestrians,Bicycle and pedestrians,Bicycle and pedestrians
+W11-15P,additional-panel,trail-x-ing,Trail x-ing (plaque),Trail x-ing (plaque)
+W11-15a,warning,trail-crossing,Trail crossing,Trail crossing
+W11-16,warning,bear,Bear,Bear
+W11-17,warning,sheep,Sheep,Sheep
+W11-18,warning,ram,Ram,Ram
+W11-19,warning,donkey,Donkey,Donkey
+W11-20,warning,elk,Elk,Elk
+W11-21,warning,moose,Moose,Moose
+W11-22,warning,wild-horse,Wild horse,Wild horse
+W12-1,warning,double-arrow,Double arrow,Double arrow
+W12-2,warning,low-bridge-ahead,Low headroom ahead,Low clearance
+W12-2a,warning,low-clearance-overhead,Low Clearance (Overhead),Low Clearance (Overhead)
+W12-2b,warning,low-clearance-overhead-w12-2b,Low Clearance (Overhead),Low Clearance (Overhead)
+W13-1P,additional-panel,speed-advisory,Speed advisory,Speed advisory
+W13-1aP,additional-panel,speed-advisory-confirmation,Speed advisory Confirmation (plaque),Speed advisory Confirmation (plaque)
+W13-2,warning,exit-speed-advisory,Exit speed advisory,Exit speed advisory
+W13-3,warning,ramp-speed-advisory,Ramp speed advisory,Ramp speed advisory
+W13-6,warning,exit-speed-advisory-270-degree-loop-curve,Exit speed advisory (270 degree loop curve),Exit speed advisory (270 degree loop curve)
+W13-7,warning,ramp-speed-advisory-270-degree-loop-curve,Ramp speed advisory (270 degree loop curve),Ramp speed advisory (270 degree loop curve)
+W13-8,warning,exit-speed-advisory-hairpin-curve,Exit speed advisory (hairpin curve),Exit speed advisory (hairpin curve)
+W13-9,warning,ramp-speed-advisory-hairpin-curve,Ramp speed advisory (hairpin curve),Ramp speed advisory (hairpin curve)
+W13-10,warning,exit-speed-advisory-turn,Exit speed advisory (turn),Exit speed advisory (turn)
+W13-11,warning,ramp-speed-advisory-turn,Ramp speed advisory (turn),Ramp speed advisory (turn)
+W13-12,warning,exit-speed-advisory-truck-rollover,Exit speed advisory (truck rollover),Exit speed advisory (truck rollover)
+W13-13,warning,ramp-speed-advisory-truck-rollover,Ramp speed advisory (truck rollover),Ramp speed advisory (truck rollover)
+W13-20,warning,variable-speed-feedback,Variable Speed Feedback,Variable Speed Feedback
+W13-20aP,additional-panel,variable-speed-feedback-plaque,Variable Speed Feedback (plaque),Variable Speed Feedback (plaque)
+W14-1,information,dead-end,Dead end,Dead end
+W14-1aR,warning,dead-end-on-the-right,Dead end on the right,Dead end on the right
+W14-1aL,warning,dead-end-on-the-left,Dead end on the left,Dead end on the left
+W14-2,warning,no-outlet,No outlet,No outlet
+W14-2aR,warning,no-outlet-on-the-right,No outlet on the right,No outlet on the right
+W14-2aL,warning,no-outlet-on-the-left,No outlet on the left,No outlet on the left
+W14-3,warning,no-passing-zone,No passing zone,No passing zone
+W15-1,warning,playground,Playground,Playground
+W16-1P,additional-panel,in-road,In Road (plaque),In Road (plaque)
+W16-1aP,additional-panel,in-street,In Street (plaque),In Street (plaque)
+W16-2P,additional-panel,distance-feet,(distance) feet,(distance) feet
+W16-2aP,additional-panel,distance-feet-plaque,(distance) feet,(distance) feet
+W16-3P,additional-panel,distance-miles,(distance) miles,(distance) miles
+W16-3aP,additional-panel,distance-miles-plaque,(distance) miles,(distance) miles
+W16-4P,additional-panel,next-distance-feet,Next (distance) feet,Next (distance) feet
+W16-5PR,additional-panel,supplemental-arrow-to-the-right,Supplemental arrow to the right (plaque),Supplemental arrow to the right (plaque)
+W16-5PL,additional-panel,supplemental-arrow-to-the-left,Supplemental arrow to the left (plaque),Supplemental arrow to the left (plaque)
+W16-6PR,additional-panel,supplemental-arrow-to-the-right-plaque,Supplemental arrow to the right (plaque),Supplemental arrow to the right (plaque)
+W16-6PL,additional-panel,supplemental-arrow-to-the-left-plaque,Supplemental arrow to the left (plaque),Supplemental arrow to the left (plaque)
+W16-7PR,additional-panel,downward-diagonal-arrow-to-the-right,Downward diagonal arrow to the right (plaque),Downward diagonal arrow to the right (plaque)
+W16-7PL,additional-panel,downward-diagonal-arrow-to-the-left,Downward diagonal arrow to the left (plaque),Downward diagonal arrow to the left (plaque)
+W16-7aP,additional-panel,dual-downward-diagonal-arrow,Dual Downward Diagonal Arrow (plaque),Dual Downward Diagonal Arrow (plaque)
+W16-8P,additional-panel,advance-street-name-plaque,Advance Street Name Plaque,Advance Street Name Plaque
+W16-8aP,additional-panel,advance-street-name-plaque-double-arrow,Advance Street Name Plaque (double arrow),Advance Street Name Plaque (double arrow)
+W16-9P,additional-panel,ahead-plaque,Ahead,Ahead
+W16-10P,additional-panel,photo-enforced-symbol-plaque,Photo enforced (symbol),Photo enforced (symbol)
+W16-10aP,additional-panel,photo-enforced-plaque,Photo enforced,Photo enforced
+W16-11P,additional-panel,hov,HOV,HOV
+W16-12P,additional-panel,traffic-circle-plaque,Traffic circle plaque,Traffic circle plaque
+W16-12aP,additional-panel,roundabout-junction-plaque,Roundabout junction plaque,Roundabout junction plaque
+W16-13P,additional-panel,when-flashing-plaque,When flashing,When flashing
+W16-15P,additional-panel,new,New,New
+W16-16P,additional-panel,last-exit-before-toll-1-line-plaque,Last Exit Before Toll (1-line plaque),Last Exit Before Toll (1-line plaque)
+W16-16aP,additional-panel,last-exit-before-toll-2-line-plaque,Last Exit Before Toll (2-line plaque),Last Exit Before Toll (2-line plaque)
+W16-17P,additional-panel,toll-ahead-plaque,Toll (plaque),Toll (plaque)
+W16-18P,additional-panel,notice,Notice,Notice
+W16-19P,additional-panel,last-in-corridor,Last In Corridor (plaque),Last In Corridor (plaque)
+W16-20P,additional-panel,except-bicycles-plaque,Except Bicycles (plaque),Except Bicycles (plaque)
+W16-21P,additional-panel,2-way-bicycle-cross-traffic,2-Way Bicycle Cross Traffic (plaque),2-Way Bicycle Cross Traffic (plaque)
+W17-1,warning,speed-bump-hump,Speed hump,Speed hump
+W18-1,warning,no-traffic-signs,No traffic signs,No traffic signs
+W19-1,warning,freeway-ends-distance,Freeway ends (distance),Freeway ends (distance)
+W19-2,warning,expressway-ends-distance,Expressway ends (distance),Expressway ends (distance)
+W19-3,warning,freeway-ends,Freeway ends,Freeway ends
+W19-4,warning,expressway-ends,Expressway ends,Expressway ends
+W19-5,warning,all-traffic-must-exit,All traffic must exit,All traffic must exit
+CW20-1,warning,roadworks,Roadworks,Road work (distance) ahead
+CW20-1b,warning,path-work-distance-ahead,Path work (distance) ahead,Path work (distance) ahead
+CW20-2,warning,detour-distance-ahead,Detour (distance) ahead,Detour (distance) ahead
+CW20-2a,warning,bicycle-detour-distance-ahead,Bicycle detour (distance) ahead,Bicycle detour (distance) ahead
+W20-3 (temporary),warning,road-closed-distance-ahead,Road closed (distance) ahead,Road closed (distance) ahead
+CW20-3a,warning,path-closed-distance-ahead,Path closed (distance) ahead,Path closed (distance) ahead
+CW20-4,warning,one-lane-road-distance-ahead,One lane road (distance) ahead,One lane road (distance) ahead
+CW20-5R,warning,right-lane-closed-distance-ahead,Right lane closed (distance) ahead,Right lane closed (distance) ahead
+CW20-5aR,warning,2-right-lanes-closed-distance-ahead,2 right lanes closed (distance) ahead,2 right lanes closed (distance) ahead
+CW20-5b,warning,bike-lane-closed-distance-ahead,Bike lane closed (distance) ahead,Bike lane closed (distance) ahead
+CW20-7,warning,flagger-ahead-symbol-sign,Flagger ahead (symbol sign),Flagger ahead (symbol sign)
+CW20-7a,warning,flagger-ahead-text-sign,Flagger ahead (text sign),Flagger ahead (text sign)
+CW21-1,warning,workers-symbol-sign,Workers (symbol sign),Workers (symbol sign)
+CW21-1a,warning,workers-text-sign,Workers (text sign),Workers (text sign)
+CW21-2,warning,fresh-oil-tar,Fresh oil (tar),Fresh oil (tar)
+CW21-3,warning,road-machinery-distance-ahead,Road machinery (distance) ahead,Road machinery (distance) ahead
+CW21-4,warning,slow-moving-vehicle,Slow moving vehicle,Slow moving vehicle
+CW21-5,warning,shoulder-work,Shoulder work,Shoulder work
+CW21-5aR,warning,right-shoulder-closed,Right Shoulder Closed,Right Shoulder Closed
+CW21-5bR,warning,right-shoulder-closed-distance-ahead,Right Shoulder Closed (distance) ahead,Right Shoulder Closed (distance) ahead
+CW21-6,warning,survey-crew,Survey crew,Survey crew
+CW21-7,warning,utility-work-distance-ahead,Utility work (distance) ahead,Utility work (distance) ahead
+CW21-8,warning,mowing-distance-ahead,Mowing (distance) ahead,Mowing (distance) ahead
+CW22-1,warning,blasting-zone-distance-ahead,Blasting zone (distance) ahead,Blasting zone (distance) ahead
+CW22-3,warning,end-blasting-zone,End blasting zone,End blasting zone
+W23-2,warning,new-traffic-pattern-ahead,New traffic pattern ahead,New traffic pattern ahead
+W23-2a,warning,new-signal-operation-ahead,New Signal Operation Ahead,New Signal Operation Ahead
+CW24-1R,warning,double-reverse-curve-right-1-lane,Double reverse curve (right) (1 lane),Double reverse curve (right) (1 lane)
+CW24-1L,warning,double-reverse-curve-left-1-lane,Double reverse curve (left) (1 lane),Double reverse curve (left) (1 lane)
+CW24-1aR,warning,double-reverse-curve-right-2-lanes,Double reverse curve (right) (2 lanes),Double reverse curve (right) (2 lanes)
+CW24-1aL,warning,double-reverse-curve-left-2-lanes,Double reverse curve (left) (2 lanes),Double reverse curve (left) (2 lanes)
+CW24-1bR,warning,double-reverse-curve-right-3-lanes,Double reverse curve (right) (3 lanes),Double reverse curve (right) (3 lanes)
+CW24-1bL,warning,double-reverse-curve-left-3-lanes,Double reverse curve (left) (3 lanes),Double reverse curve (left) (3 lanes)
+CW24-1cP,additional-panel,all-lanes,All lanes,All lanes
+W25-1,warning,oncoming-traffic-has-extended-green,Oncoming traffic has extended green,Oncoming traffic has extended green
+W25-2,warning,oncoming-traffic-may-have-extended-green,Oncoming traffic may have extended green,Oncoming traffic may have extended green
+W26-1,warning,watch-for-stopped-traffic,Watch For Stopped Traffic,Watch For Stopped Traffic
+OM1-1,traffic-device,object-marker,Object Marker,Object Marker
+OM1-2,traffic-device,object-marker-om1-2,Object Marker,Object Marker
+OM1-3,traffic-device,object-marker-om1-3,Object Marker,Object Marker
+OM2-1V,traffic-device,vertical-culvert-marker,Vertical Culvert Marker,Vertical Culvert Marker
+OM2-1H,traffic-device,horizontal-culvert-marker,Horizontal Culvert Marker,Horizontal Culvert Marker
+OM2-2V,traffic-device,vertical-culvert-marker-om2-2v,Vertical Culvert Marker,Vertical Culvert Marker
+OM2-2H,traffic-device,horizontal-culvert-marker-om2-2h,Horizontal Culvert Marker,Horizontal Culvert Marker
+OM3-R,traffic-device,right-object-marker,Right Object Marker,Right Object Marker
+OM3-C,traffic-device,chevron-object-marker,Chevron Object Marker,Chevron Object Marker
+OM3-L,traffic-device,left-object-marker,Left Object Marker,Left Object Marker
+OM4-1,traffic-device,end-of-road-marker,End Of Road Marker,End Of Road Marker
+OM4-2,traffic-device,end-of-road-marker-om4-2,End Of Road Marker,End Of Road Marker
+OM4-3,traffic-device,end-of-road-marker-om4-3,End Of Road Marker,End Of Road Marker
+M1-1 (2 digits),information,interstate-route-marker-2-digits,Interstate Route Marker (2 digits),Interstate Route Marker (2 digits)
+M1-1 (3 digits),information,interstate-route-marker-3-digits,Interstate Route Marker (3 digits),Interstate Route Marker (3 digits)
+M1-2,information,off-interstate-business-route-marker-loop-2-digits,Off interstate business route marker (loop) (2 digits),Off interstate business route marker (loop) (2 digits)
+M1-3,information,off-interstate-business-route-marker-spur-2-digits,Off interstate business route marker (spur) (2 digits),Off interstate business route marker (spur) (2 digits)
+M1-4 (2 digits),information,us-route-marker-2-digits,US route marker (2 digits),US route marker (2 digits)
+M1-4 (3 digits),information,us-route-marker-3-digits,US route marker (3 digits),US route marker (3 digits)
+M1-5,information,state-route-marker-2-digits,State Route Marker (2 digits),State Route Marker (2 digits)
+M1-7,information,forest-route,Forest Route,Forest Route
+M1-8,information,state-or-local-bicycle-route,State or local Bicycle Route,State or local Bicycle Route
+M1-8a,information,state-or-local-bicycle-route-m1-8a,State or local Bicycle route,State or local Bicycle route
+M1-8b,information,non-numbered-bicycle-route-2-lines,Non-numbered bicycle route (2 lines),Non-numbered bicycle route (2 lines)
+M1-8c,information,non-numbered-bicycle-route-3-lines,Non-numbered bicycle route (3 lines),Non-numbered bicycle route (3 lines)
+M1-9,information,us-bicycle-route,U.S. bicycle route,U.S. bicycle route
+M1-10,information,eisenhower-interstate-system,Eisenhower interstate system,Eisenhower interstate system
+M1-10a,information,eisenhower-interstate-system-m1-10a,Eisenhower interstate system,Eisenhower interstate system
+M2-2,information,combination-junction-2-route-signs,Combination junction (2 route signs),Combination junction (2 route signs)
+M4-8P,additional-panel,detour,Detour (plaque),Detour (plaque)
+M4-8a,information,end-detour,End detour,End detour
+M4-8b,additional-panel,end-if-a-road-work-blocked-road,End (plaque) (if a road work blocked road),End (plaque) (if a road work blocked road)
+M4-9R,information,detour-right-arrow,Detour Right Arrow,Detour Right Arrow
+M4-9L,information,detour-left-arrow,Detour Left Arrow,Detour Left Arrow
+M4-9aR,information,bicycle-and-pedestrian-detour-right-arrow,Bicycle and Pedestrian Detour Right Arrow,Bicycle and Pedestrian Detour Right Arrow
+M4-9aL,information,bicycle-and-pedestrian-detour-left-arrow,Bicycle and Pedestrian Detour Left Arrow,Bicycle and Pedestrian Detour Left Arrow
+M4-9bR,information,pedestrian-detour-right-arrow,Pedestrian Detour Right Arrow,Pedestrian Detour Right Arrow
+M4-9bL,information,pedestrian-detour-left-arrow,Pedestrian Detour Left Arrow,Pedestrian Detour Left Arrow
+M4-9cR,information,bicycle-detour-right-arrow,Bicycle Detour Right Arrow,Bicycle Detour Right Arrow
+M4-9cL,information,bicycle-detour-left-arrow,Bicycle Detour Left Arrow,Bicycle Detour Left Arrow
+M4-10R,information,detour-right-arrow-m4-10r,Detour Right Arrow,Detour Right Arrow
+M4-10L,information,detour-left-arrow-m4-10l,Detour Left Arrow,Detour Left Arrow
+M4-11,information,emergency-route,Emergency Route,Emergency Route
+M4-11a,information,emergency-route-m4-11a,Emergency Route,Emergency Route
+M4-11bP,additional-panel,emergency-route-to,Emergency Route To (Plaque),Emergency Route To (Plaque)
+M4-11cP,additional-panel,emergency-route-to-plaque,Emergency Route To (Plaque),Emergency Route To (Plaque)
+M4-12,information,end-emergency-route,End Emergency Route,End Emergency Route
+M4-14P,additional-panel,begin-plaque,Begin (Plaque),Begin (Plaque)
+M4-15,additional-panel,toll-plaque,Toll (Plaque),Toll (Plaque)
+M4-16,additional-panel,no-cash-plaque,No Cash (Plaque),No Cash (Plaque)
+M4-20,information,electronic-toll-collection-only,Electronic Toll Collection Only,Electronic Toll Collection Only
+M5-1PR,additional-panel,advance-right-turn-arrow-90-degree-angle,Advance Right Turn Arrow (90 Degree Angle),Advance Right Turn Arrow (90 Degree Angle)
+M5-1PL,additional-panel,advance-left-turn-arrow-90-degree-angle,Advance Left Turn Arrow (90 Degree Angle),Advance Left Turn Arrow (90 Degree Angle)
+M5-2PR,additional-panel,advance-right-turn-arrow-45-degree-angle,Advance Right Turn Arrow (45 Degree Angle),Advance Right Turn Arrow (45 Degree Angle)
+M5-2PL,additional-panel,advance-left-turn-arrow-45-degree-angle,Advance Left Turn Arrow (45 Degree Angle),Advance Left Turn Arrow (45 Degree Angle)
+M5-3PR,additional-panel,advance-right-turn-arrow-circular-intersection,Advance Right Turn Arrow (Circular Intersection),Advance Right Turn Arrow (Circular Intersection)
+M5-3PL,additional-panel,advance-left-turn-arrow-circular-intersection,Advance Left Turn Arrow (Circular Intersection),Advance Left Turn Arrow (Circular Intersection)
+M5-4P,additional-panel,lane-designation-left-lane,Lane Designation - Left Lane (Plaque),Lane Designation - Left Lane (Plaque)
+M5-5P,additional-panel,lane-designation-center-lane,Lane Designation - Center Lane (Plaque),Lane Designation - Center Lane (Plaque)
+M5-6P,additional-panel,lane-designation-right-lane,Lane Designation - Right Lane (Plaque),Lane Designation - Right Lane (Plaque)
+M6-1PR,additional-panel,right-directional-arrow,Right Directional Arrow,Right Directional Arrow
+M6-1PL,additional-panel,left-directional-arrow,Left Directional Arrow,Left Directional Arrow
+M6-2PR,additional-panel,diagonal-right-directional-arrow,Diagonal Right Directional Arrow,Diagonal Right Directional Arrow
+M6-2PL,additional-panel,diagonal-left-directional-arrow,Diagonal Left Directional Arrow,Diagonal Left Directional Arrow
+M6-2aPR,additional-panel,downward-diagonal-right-directional-arrow,Downward Diagonal Right Directional Arrow,Downward Diagonal Right Directional Arrow
+M6-2aPL,additional-panel,downward-diagonal-left-directional-arrow,Downward Diagonal Left Directional Arrow,Downward Diagonal Left Directional Arrow
+M6-3P,additional-panel,straight-directional-arrow,Straight Directional Arrow,Straight Directional Arrow
+M6-4P,additional-panel,double-directional-arrow,Double Directional Arrow,Double Directional Arrow
+M6-5PR,additional-panel,double-diagonal-right-directional-arrow,Double Diagonal Right Directional Arrow,Double Diagonal Right Directional Arrow
+M6-5PL,additional-panel,double-diagonal-left-directional-arrow,Double Diagonal Left Directional Arrow,Double Diagonal Left Directional Arrow
+M6-6PR,additional-panel,straight-and-right-directional-arrow,Straight And Right Directional Arrow,Straight And Right Directional Arrow
+M6-6PL,additional-panel,left-and-straight-directional-arrow,Left And Straight Directional Arrow,Left And Straight Directional Arrow
+M6-7PR,additional-panel,straight-and-diagonal-right-directional-arrow,Straight And Diagonal Right Directional Arrow,Straight And Diagonal Right Directional Arrow
+M6-7PL,additional-panel,diagonal-left-and-straight-directional-arrow,Diagonal Left And Straight Directional Arrow,Diagonal Left And Straight Directional Arrow
+M10-1,information,national-scenic-byway,National Scenic Byway,National Scenic Byway
+M10-1aP,additional-panel,national-scenic-byway-plaque,National Scenic Byway (plaque),National Scenic Byway (plaque)
+M10-2,information,byway-identification,Byway identification,Byway identification
+M10-2aP,additional-panel,byway-identification-plaque,Byway identification (plaque),Byway identification (plaque)
+M10-3,information,state-scenic-byway-system,State scenic byway system,State scenic byway system
+M10-3a,information,state-scenic-byway-system-simple-graphic-and-byway,State scenic byway system - simple graphic and byway identification,State scenic byway system - simple graphic and byway identification
+M10-3bP,additional-panel,scenic-byway,Scenic byway (plaque),Scenic byway (plaque)
+M11-1,information,national-historic-trail-identification,National Historic Trail - Identification,National Historic Trail - Identification
+M11-1aP,additional-panel,national-historic-trail-historic-route,National Historic Trail - Historic Route (plaque),National Historic Trail - Historic Route (plaque)
+M11-1bP,additional-panel,national-historic-trail-crossing,National Historic Trail - Crossing (plaque),National Historic Trail - Crossing (plaque)
+M11-1cP,additional-panel,national-historic-trail-auto-tour-route,National Historic Trail - Auto Tour Route (Plaque),National Historic Trail - Auto Tour Route (Plaque)
+M11-1dP,additional-panel,national-historic-trail-distance,National Historic Trail - Distance (plaque),National Historic Trail - Distance (plaque)
+D1-1,information,destination-1-line,Destination (1-line),Destination (1-line)
+D1-1a,information,destination-and-distance-1-line,Destination and Distance (1-line),Destination and Distance (1-line)
+D1-1b,information,bicycle-destination-1-line,Bicycle Destination (1-line),Bicycle Destination (1-line)
+D1-1c,information,bicycle-destination-and-distance-1-line,Bicycle Destination and Distance (1-line),Bicycle Destination and Distance (1-line)
+D1-1d,information,destination-circular-intersection-1-line,Destination (Circular Intersection) (1-line),Destination (Circular Intersection) (1-line)
+D1-1e,information,destination-with-route-shield-circular-intersection-1-line,Destination with route shield (Circular Intersection) (1-line),Destination with route shield (Circular Intersection) (1-line)
+D1-2,information,destination-2-lines,Destination (2-lines),Destination (2-lines)
+D1-2a,information,destination-and-distance-2-line,Destination and Distance (2-line),Destination and Distance (2-line)
+D1-2b,information,bicycle-destination-2-line,Bicycle Destination (2-line),Bicycle Destination (2-line)
+D1-2c,information,bicycle-destination-and-distance-2-line,Bicycle Destination and Distance (2-line),Bicycle Destination and Distance (2-line)
+D1-2d,information,destination-circular-intersection-2-lines,Destination (Circular Intersection) (2-lines),Destination (Circular Intersection) (2-lines)
+D1-3,information,destination-3-lines,Destination (3-lines),Destination (3-lines)
+D1-3a,information,destination-and-distance-3-lines,Destination and Distance (3-lines),Destination and Distance (3-lines)
+D1-3b,information,bicycle-destination-3-line,Bicycle Destination (3-line),Bicycle Destination (3-line)
+D1-3c,information,bicycle-destination-and-distance-3-lines,Bicycle Destination and Distance (3-lines),Bicycle Destination and Distance (3-lines)
+D1-3d,information,destination-circular-intersection-3-lines,Destination (Circular Intersection) (3-lines),Destination (Circular Intersection) (3-lines)
+D1-5,information,circular-intersection-destination-diagrammatic,Circular Intersection Destination (Diagrammatic),Circular Intersection Destination (Diagrammatic)
+D1-5a,information,circular-intersection-destination-diagrammatic-d1-5a,Circular Intersection Destination (Diagrammatic),Circular Intersection Destination (Diagrammatic)
+D2-1,information,distance-1-line,Distance (1-line),Distance (1-line)
+D2-1a,information,bicycle-distance-1-line,Bicycle Distance (1-line),Bicycle Distance (1-line)
+D2-2,information,distance-2-lines,Distance (2-lines),Distance (2-lines)
+D2-2a,information,bicycle-distance-2-lines,Bicycle Distance (2-lines),Bicycle Distance (2-lines)
+D2-3,information,distance-3-lines,Distance (3-lines),Distance (3-lines)
+D2-3a,information,bicycle-distance-3-lines,Bicycle Distance (3-lines),Bicycle Distance (3-lines)
+D3-1,information,street-name,Street name sign,Street Name
+D3-1a,information,street-name-with-route-shield,Street Name with route shield,Street Name with route shield
+D3-2,information,advance-street-name-2-lines,Advance street name (2-lines),Advance street name (2-lines)
+D3-2c,information,advance-street-name-3-lines,Advance street name (3-lines),Advance street name (3-lines)
+D3-2a,information,advance-street-name-3-lines-d3-2a,Advance street name (3-lines),Advance street name (3-lines)
+D3-2b,information,advance-street-name-4-lines,Advance street name (4-lines),Advance street name (4-lines)
+D4-1,regulatory,parking,Parking,Parking area
+D4-2,regulatory,park-and-ride,Park and ride,Park - Ride
+D4-3,information,bicycle-parking-area,Bicycle parking area,Bicycle parking area
+D4-4,information,bicycle-sharing-station,Bicycle-sharing station,Bicycle-sharing station
+D4-4a,information,bicycle-lockers,Bicycle lockers,Bicycle lockers
+D5-1,information,rest-area-distance,Rest area (distance),Rest area (distance)
+D5-1a,information,rest-area-next-right,Rest area next right,Rest area next right
+D5-2,information,rest-area-diagonal-right-arrow,Rest area (diagonal right arrow),Rest area (diagonal right arrow)
+D5-2a,information,rest-area-gore,Rest area gore,Rest area gore
+D5-5,information,rest-area,Rest area,Rest area
+D5-6,information,next-rest-area-distance-miles,Next rest area (distance) miles,Next rest area (distance) miles
+D5-7,information,rest-area-tourist-info-center-distance,Rest area - tourist info center (distance),Rest area - tourist info center (distance)
+D5-7a,information,rest-area-tourist-info-center-next-right,Rest area - tourist info center next right,Rest area - tourist info center next right
+D5-8,information,rest-area-tourist-info-center-diagonal-right-arrow,Rest area - tourist info center (diagonal right arrow),Rest area - tourist info center (diagonal right arrow)
+D5-9,information,parking-area-distance,Parking area (distance),Parking area (distance)
+D5-9a,information,parking-area-diagonal-right-arrow,Parking area (diagonal right arrow),Parking area (diagonal right arrow)
+D5-9b,information,parking-area-gore,Parking area gore,Parking area gore
+D5-10,information,picnic-area-distance,Picnic area (distance),Picnic area (distance)
+D5-10a,information,picnic-area-diagonal-right-arrow,Picnic area (diagonal right arrow),Picnic area (diagonal right arrow)
+D5-10b,information,picnic-area-gore,Picnic area gore,Picnic area gore
+D5-11,information,scenic-area-distance,Scenic area (distance),Scenic area (distance)
+D5-11a,information,scenic-area-diagonal-right-arrow,Scenic area (diagonal right arrow),Scenic area (diagonal right arrow)
+D5-11b,information,scenic-area-gore,Scenic area gore,Scenic area gore
+D5-12,information,interstate-oasis,Interstate oasis,Interstate oasis
+D5-12aP,additional-panel,interstate-oasis-plaque,Interstate oasis (plaque),Interstate oasis (plaque)
+D5-12b,information,interstate-oasis-d5-12b,Interstate oasis,Interstate oasis
+D5-13,information,brake-check-area-distance,Brake check area (distance),Brake check area (distance)
+D5-14,information,brake-check-area-diagonal-right-arrow,Brake check area (diagonal right arrow),Brake check area (diagonal right arrow)
+D5-15,information,chain-up-area-distance,Chain-up area (distance),Chain-up area (distance)
+D5-16,information,chain-up-area-diagonal-right-arrow,Chain-up area (diagonal right arrow),Chain-up area (diagonal right arrow)
+D8-1,information,weigh-station-distance,Weigh station (distance),Weigh station (distance)
+D8-1a,information,weigh-station-ahead,Weigh station ahead,Weigh station ahead
+D8-2,information,weigh-station-next-right,Weigh station next right,Weigh station next right
+D8-3,information,weigh-station-diagonal-right-arrow,Weigh station (diagonal right arrow),Weigh station (diagonal right arrow)
+D10-1,information,reference-location-1-digit,Reference location (1 digit),Reference location (1 digit)
+D10-1a,information,intermediate-reference-location-1-digit,Intermediate reference location (1 digit),Intermediate reference location (1 digit)
+D10-2,information,reference-location-2-digit,Reference location (2 digit),Reference location (2 digit)
+D10-2a,information,intermediate-reference-location-2-digit,Intermediate reference location (2 digit),Intermediate reference location (2 digit)
+D10-3,information,reference-location-3-digit,Reference location (3 digit),Reference location (3 digit)
+D10-3a,information,intermediate-reference-location-3-digit,Intermediate reference location (3 digit),Intermediate reference location (3 digit)
+D10-4,information,enhanced-reference-location,Enhanced reference location,Enhanced reference location
+D10-5,information,intermediate-enhanced-reference-location,Intermediate enhanced reference location,Intermediate enhanced reference location
+D11-1,information,bike-route,Bike route,Bike route
+D11-1bP,additional-panel,bike-route-plaque,Bike route (plaque),Bike route (plaque)
+D11-1c,information,bike-route-with-destination,Bike route with destination,Bike route with destination
+D11-10a,information,shared-use-path-destination-1-line,Shared-use path destination (1-line),Shared-use path destination (1-line)
+D11-10b,information,shared-use-path-destination-2-lines,Shared-use path destination (2-lines),Shared-use path destination (2-lines)
+D11-10c,information,shared-use-path-destination-3-lines,Shared-use path destination (3-lines),Shared-use path destination (3-lines)
+D11-10d,information,shared-use-path-destination-and-distance-1-line,Shared-use path destination and distance (1-line),Shared-use path destination and distance (1-line)
+D11-10e,information,shared-use-path-destination-and-distance-2-lines,Shared-use path destination and distance (2-lines),Shared-use path destination and distance (2-lines)
+D11-10f,information,shared-use-path-destination-and-distance-3-lines,Shared-use path destination and distance (3-lines),Shared-use path destination and distance (3-lines)
+D11-11,information,bicycles-permitted,Bicycles permitted,Bicycles permitted
+D11-12,information,pedestrians-permitted,Pedestrians permitted,Pedestrians permitted
+D11-13,information,skaters-permitted,Skaters permitted,Skaters permitted
+D11-14,information,equestrians-permitted,Equestrians permitted,Equestrians permitted
+D11-20L,information,bicycle-left-turn-may-use-turn-box,Bicycle left turn may use turn box,Bicycle left turn may use turn box
+D11-20aL,information,bicycle-left-turn-box,Bicycle left turn box,Bicycle left turn box
+D12-1,information,radio-weather-information,Radio-Weather information,Radio-Weather information
+D12-1a,information,radio-traffic-information,Radio-Traffic information,Radio-Traffic information
+D12-1bP,additional-panel,urgent-message-when-flashing,Urgent message when flashing (plaque),Urgent message when flashing (plaque)
+D12-2,information,carpool-information,Carpool information,Carpool information
+D12-3,information,channel-9-monitored,Channel 9 monitored,Channel 9 monitored
+D12-4,information,emergency-call-911,Emergency call 911,Emergency call 911
+D12-5,information,travel-info-call-511-pictograph,Travel info call 511 (pictograph),Travel info call 511 (pictograph)
+D12-5a,information,travel-info-call-511,Travel info call 511,Travel info call 511
+D12-6,information,roadside-assistance,Roadside assistance,Roadside assistance
+D13-1,information,crossover,Crossover,Crossover
+D13-2,information,crossover-distance,Crossover (Distance),Crossover (Distance)
+D13-3,information,freeway-entrance,Freeway entrance,Freeway entrance
+D13-3a,information,freeway-entrance-d13-3a,Freeway entrance,Freeway entrance
+D15-1 (route shield),information,combination-lane-use-destination-with-route-shield,Combination lane use/destination with route shield,Combination lane use/destination with route shield
+D15-1 (street name),information,combination-lane-use-destination-with-street-name,Combination lane use/destination with street name,Combination lane use/destination with street name
+D17-1,information,next-truck-lane-distance,Next truck lane (distance),Next truck lane (distance)
+D17-2,information,truck-lane-distance,Truck lane (distance),Truck lane (distance)
+D17-3,information,next-passing-lane-distance,Next passing lane (distance),Next passing lane (distance)
+D17-4,information,passing-lane-distance,Passing lane (distance),Passing lane (distance)
+D17-5,information,emergency-turn-out-distance,Emergency turn-out (distance),Emergency turn-out (distance)
+D17-6,information,emergency-turn-out-diagonal-right-arrow,Emergency turn-out (diagonal right arrow),Emergency turn-out (diagonal right arrow)
+D17-7,information,slow-vehicle-turn-out-distance,Slow vehicle turn-out (distance),Slow vehicle turn-out (distance)
+G20-1,information,road-work-next-distance-miles,Road work next (distance) miles,Road work next (distance) miles
+G20-2,information,road-work-ends,Road work ends,Road work ends
+G20-4,information,pilot-car-follow-me,Pilot car follow me,Pilot car follow me
+G20-5aP,additional-panel,work-zone,Work zone (plaque),Work zone (plaque)
+D9-1,information,services-telephone,Services (telephone),Telephone
+D9-2,information,services-hospital,Services (hospital),Hospital
+D9-3,information,services-campsite,Services (campsite),Camping
+D9-4,information,litter-container,Litter container,Litter container
+D9-6,information,handicapped-accessible,Handicapped accessible,Handicapped accessible
+D9-6P,additional-panel,van-accessible-plaque,Van accessible (plaque),Van accessible (plaque)
+D9-7,information,services-filling-station,Services (filling station),Gasoline
+D9-8,information,services-restaurant,Services (roadside restaurant),Food
+D9-9,information,services-hotel-or-motel,Services (hotel or motel),Lodging
+D9-10,information,services-information-point,Services (information point),Tourist information
+D9-11,information,diesel-fuel,Diesel fuel,Diesel fuel
+D9-11a,information,services-cng-station,Services (CNG station),Alternative fuel (compressed natural gas)
+D9-11b,information,services-ev-charging-station,Services (EV charging station),Electric vehicle charging
+D9-11bP,additional-panel,electric-vehicle-charging,Electric vehicle charging (plaque),Electric vehicle charging (plaque)
+D9-11c,information,alternative-fuel-ethanol,Alternative fuel (ethanol),Alternative fuel (ethanol)
+D9-11d,information,services-lng-station,Services (LNG station),Alternative fuel (liquefied natural gas)
+D9-11e,information,services-lpg-station,Services (LPG station),Alternative fuel (liquefied petroleum gas)
+D9-11f,information,services-hydrogen-station,Services (liquid hydrogen station),Alternative fuel (hydrogen)
+D9-11g,information,alternative-fuel-biofuel,Alternative fuel (biofuel),Alternative fuel (biofuel)
+D9-12,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),RV sanitary station
+D9-13,information,emergency-medical-services,Emergency medical services,Emergency medical services
+D9-13aP,additional-panel,hospital,Hospital,Hospital (plaque)
+D9-13bP,additional-panel,ambulance-station,Ambulance station (plaque),Ambulance station (plaque)
+D9-13cP,additional-panel,emergency-medical-care,Emergency medical care (plaque),Emergency medical care (plaque)
+D9-13dP,additional-panel,trauma-center,Trauma center (plaque),Trauma center (plaque)
+D9-14,information,police,Police,Police
+D9-16,information,truck-parking,Truck parking,Truck parking
+D9-16aP,additional-panel,truck-external-power,Truck external power (plaque),Truck external power (plaque)
+D9-16b,information,truck-parking-availability-exit-number,Truck parking availability - exit number,Truck parking availability - exit number
+D9-16c,information,truck-parking-availability-distance,Truck parking availability - distance,Truck parking availability - distance
+D9-16c (full),information,truck-parking-availability-distance-full,Truck parking availability - distance,Truck parking availability - distance
+D9-16d,information,truck-parking-availability-rest-area,Truck parking availability - rest area,Truck parking availability - rest area
+D9-16d (3 facilities),information,truck-parking-availability-rest-area-3-facilities,Truck parking availability - rest area,Truck parking availability - rest area
+D9-16e,information,truck-parking-availability-combined,Truck parking availability - combined,Truck parking availability - combined
+"D9-16e (rest area, exit)",information,truck-parking-availability-combined-rest-area-exit,Truck parking availability - combined,Truck parking availability - combined
+"D9-16e (rest area, weigh station)",information,truck-parking-availability-combined-rest-area-weigh-station,Truck parking availability - combined,Truck parking availability - combined
+D9-16e (3 exits),information,truck-parking-availability-combined-3-exits,Truck parking availability - combined,Truck parking availability - combined
+D9-17P,additional-panel,next-services-distance-plaque,Next services (distance) (plaque),Next services (distance) (plaque)
+D9-17a,information,next-ev-charging-distance,Next EV charging (distance),Next EV charging (distance)
+D9-18b (exit number),information,general-services-up-to-6-symbols-with-exit-number,General services (up to 6 symbols) with exit number,General services (up to 6 symbols) with exit number
+D9-18a,information,general-services-with-exit-number,General services with exit number,General services with exit number
+D9-18b,information,general-services-up-to-6-symbols-with-action-message,General services (up to 6 symbols) with action message,General services (up to 6 symbols) with action message
+D9-18c,information,general-services-with-action-message,General services with action message,General services with action message
+D9-18dP,additional-panel,rural-interchange-general-services-up-to-3-symbols,Rural interchange general services (up to 3 symbols) (plaque),Rural interchange general services (up to 3 symbols) (plaque)
+D9-18eP,additional-panel,rural-interchange-general-services-1-line,Rural interchange general services (1 line) (plaque),Rural interchange general services (1 line) (plaque)
+D9-18fP,additional-panel,rural-interchange-general-services-2-lines,Rural interchange general services (2 lines) (plaque),Rural interchange general services (2 lines) (plaque)
+D9-19,information,alternative-fuels-corridor,Alternative fuels corridor,Alternative fuels corridor
+D9-19aP,additional-panel,alternative-fuels-corridor-1-line,Alternative fuels corridor (1 line) (plaque),Alternative fuels corridor (1 line) (plaque)
+D9-19bP,additional-panel,alternative-fuels-corridor-2-lines,Alternative fuels corridor (2 lines) (plaque),Alternative fuels corridor (2 lines) (plaque)
+D9-20,information,pharmacy,Pharmacy,Pharmacy
+D9-20aP,additional-panel,24-hr,24 HR (plaque),24 HR (plaque)
+D9-21,information,telecommunication,Telecommunication,Telecommunication
+D9-22,information,wireless-internet,Wireless internet,Wireless internet
+I1-1,information,traffic-signal-speed,Traffic signal speed,Traffic signal speed
+I2-1,information,state-line,State line,State line
+I2-2,information,river,River,River
+I2-3,information,grade-separation-identification-1-line,Grade separation identification (1-line),Grade separation identification (1-line)
+I2-3 (numbered and named),information,grade-separation-identification-1-line-numbered-and-named,Grade separation identification (1-line),Grade separation identification (1-line)
+I2-3a,information,grade-separation-identification-2-line,Grade separation identification (2-line),Grade separation identification (2-line)
+I2-3a (numbered and named),information,grade-separation-identification-2-line-numbered-and-named,Grade separation identification (2-line),Grade separation identification (2-line)
+I2-4,information,future-interstate-corridor,Future interstate corridor,Future interstate corridor
+I2-4a,information,future-i-xx-corridor,Future I-XX Corridor,Future I-XX Corridor
+I2-5,information,project-information,Project information,Project information
+I2-5 (state),information,project-information-state,Project information,Project information
+I3-5,information,airport,Airport,Airport
+I3-6,information,bus-station,Bus station,Bus station
+I3-7,information,train-station,Train station,Train station
+I3-8,information,light-rail-station,Light rail station,Light rail station
+I3-9,information,vehicle-ferry-terminal,Vehicle Ferry Terminal,Vehicle Ferry Terminal
+I3-10,information,passenger-only-ferry-terminal,Passenger Only Ferry Terminal,Passenger Only Ferry Terminal
+I3-10P,additional-panel,ferry,Ferry (plaque),Ferry (plaque)
+I4-1,information,library,Library,Library
+I13-2,information,push-to-exit,Push to Exit,Push to Exit
+I20-1,information,acknowledgement,Acknowledgement,Acknowledgement
+I20-2,information,acknowledgement-i20-2,Acknowledgement,Acknowledgement
+I20-3,information,acknowledgement-i20-3,Acknowledgement,Acknowledgement
+I20-4,information,acknowledgement-rest-area,Acknowledgement - Rest area,Acknowledgement - Rest area
+I20-4a,information,acknowledgement-welcome-center,Acknowledgement - Welcome Center,Acknowledgement - Welcome Center
+I20-5P,additional-panel,acknowledgement-plaque,Acknowledgement (plaque),Acknowledgement (plaque)
+E1-1,information,interchange-advance-guide-1-destination,Interchange Advance Guide (1 Destination),Interchange Advance Guide (1 Destination)
+E1-2,information,interchange-advance-guide-2-destinations,Interchange Advance Guide (2 Destinations),Interchange Advance Guide (2 Destinations)
+E1-3,information,interchange-advance-guide-3-destinations,Interchange Advance Guide (3 Destinations),Interchange Advance Guide (3 Destinations)
+E1-5P,additional-panel,1-or-2-digit-exit-number,1 or 2 Digit Exit Number (plaque),1 or 2 Digit Exit Number (plaque)
+E1-5aP,additional-panel,3-digit-exit-number,3 Digit Exit Number (plaque),3 Digit Exit Number (plaque)
+E1-5bP,additional-panel,1-or-2-digit-exit-number-with-single-letter-suffix,1 or 2 Digit Exit Number with single letter suffix (plaque),1 or 2 Digit Exit Number with single letter suffix (plaque)
+E1-5cP,additional-panel,3-digit-exit-number-with-single-letter-suffix,3 Digit Exit Number with single letter suffix (plaque),3 Digit Exit Number with single letter suffix (plaque)
+E1-5dP,additional-panel,1-or-2-digit-exit-number-with-dual-letter-suffix,1 or 2 Digit Exit Number with dual letter suffix (plaque),1 or 2 Digit Exit Number with dual letter suffix (plaque)
+E1-5eP,additional-panel,3-digit-exit-number-with-dual-letter-suffix,3 Digit Exit Number with dual letter suffix (plaque),3 Digit Exit Number with dual letter suffix (plaque)
+E1-5fP,additional-panel,1-or-2-digit-left-exit-number,1 or 2 Digit Left Exit Number (plaque),1 or 2 Digit Left Exit Number (plaque)
+E1-5gP,additional-panel,3-digit-left-exit-number,3 Digit Left Exit Number (plaque),3 Digit Left Exit Number (plaque)
+E1-5hP,additional-panel,1-or-2-digit-left-exit-number-with-single-letter-suffix,1 or 2 Digit Left Exit Number with single letter suffix (plaque),1 or 2 Digit Left Exit Number with single letter suffix (plaque)
+E1-5iP,additional-panel,3-digit-left-exit-number-with-single-letter-suffix,3 Digit Left Exit Number with single letter suffix (plaque),3 Digit Left Exit Number with single letter suffix (plaque)
+E1-5jP,additional-panel,1-or-2-digit-left-exit-number-with-dual-letter-suffix,1 or 2 Digit Left Exit Number with dual letter suffix (plaque),1 or 2 Digit Left Exit Number with dual letter suffix (plaque)
+E1-5kP,additional-panel,3-digit-left-exit-number-with-dual-letter-suffix,3 Digit Left Exit Number with dual letter suffix (plaque),3 Digit Left Exit Number with dual letter suffix (plaque)
+E1-5mP,additional-panel,left,Left (plaque),Left (plaque)
+E2-1P,additional-panel,next-exit-1-line,Next Exit (1 Line) (Plaque),Next Exit (1 Line) (Plaque)
+E2-1aP,additional-panel,next-exit-2-lines,Next Exit (2 Lines) (Plaques),Next Exit (2 Lines) (Plaques)
+E4-1,information,exit-direction-1-destination,Exit Direction (1 Destination),Exit Direction (1 Destination)
+E4-2,information,exit-direction-2-destinations,Exit Direction (2 Destinations),Exit Direction (2 Destinations)
+E4-3,information,exit-direction-3-destinations,Exit Direction (3 Destinations),Exit Direction (3 Destinations)
+E5-1,information,exit-gore-no-exit-number,Exit Gore (No Exit Number,Exit Gore (No Exit Number
+E5-1a,information,exit-gore-1-or-2-digits,Exit Gore (1 or 2 Digits),Exit Gore (1 or 2 Digits)
+E5-1bP,additional-panel,exit-number,Exit Number (plaque),Exit Number (plaque)
+E5-1c,information,narrow-exit-gore,Narrow Exit Gore,Narrow Exit Gore
+E5-2,information,exit-open,Exit Open,Exit Open
+E5-2a,information,exit-closed,Exit Closed,Exit Closed
+E5-3,information,exit-only,Exit Only,Exit Only
+E6-1,information,pull-through,Pull-Through,Pull-Through
+E6-1a,information,pull-through-destination,Pull-Through (Destination),Pull-Through (Destination)
+E7-3,information,post-interchange-distance-3-lines,Post-Interchange Distance (3 lines),Post-Interchange Distance (3 lines)
+E7-4,information,post-interchange-travel-time,Post-Interchange Travel Time,Post-Interchange Travel Time
+E7-5,information,distance-and-travel-time,Distance and Travel Time,Distance and Travel Time
+E7-5 (destination),information,distance-and-travel-time-destination,Distance and Travel Time,Distance and Travel Time
+E7-6,information,comparative-travel-time,Comparative Travel Time,Comparative Travel Time
+E8-1,information,preferential-lane-entrance-gore,Preferential Lane Entrance Gore,Preferential Lane Entrance Gore
+E8-1a,information,preferantial-lane-intermediate-entrance-gore,Preferantial Lane Intermediate Entrance Gore,Preferantial Lane Intermediate Entrance Gore
+E8-2,information,preferential-lane-entrance-direction-overhead,Preferential Lane Entrance Direction (Overhead),Preferential Lane Entrance Direction (Overhead)
+E8-2a,information,preferential-lane-entrance-direction-post-mounted,Preferential Lane Entrance Direction (Post-Mounted),Preferential Lane Entrance Direction (Post-Mounted)
+E8-3,information,preferential-lane-entrance-advance,Preferential Lane Entrance Advance,Preferential Lane Entrance Advance
+E8-4,information,preferential-lane-direct-exit-gore,Preferential Lane Direct Exit Gore,Preferential Lane Direct Exit Gore
+E8-5,information,preferential-lane-intermediate-egress-direction,Preferential Lane Intermediate Egress Direction,Preferential Lane Intermediate Egress Direction
+E8-6,information,preferential-lane-intermediate-egress-advance,Preferential Lane Intermediate Egress Advance,Preferential Lane Intermediate Egress Advance
+E11-1,information,exit-only-with-arrow,Exit Only (With Arrow),Exit Only (With Arrow)
+E11-1a,information,exit,Exit (other roads),Exit
+E11-1b,information,only,Only,Only
+E11-1c,information,exit-only-e11-1c,Exit Only,Exit Only
+E11-1d,information,exit-only-with-arrow-e11-1d,Exit Only (With Arrow),Exit Only (With Arrow)
+E11-1e,information,exit-only-with-2-arrows,Exit Only (With 2 Arrows),Exit Only (With 2 Arrows)
+E11-1f,information,exit-only-with-2-arrows-e11-1f,Exit Only (With 2 Arrows),Exit Only (With 2 Arrows)
+E11-2,information,left-e11-2,Left (Panel),Left (Panel)
+E13-2b,information,exit-direction-advisory-speed-exit,Exit Direction Advisory Speed - Exit (Panel),Exit Direction Advisory Speed - Exit (Panel)
+E13-2a,information,exit-direction-advisory-speed-ramp,Exit Direction Advisory Speed - Ramp (Panel),Exit Direction Advisory Speed - Ramp (Panel)
+EM1-1,information,evacuation-route,Evacuation route,Evacuation route
+EM1-1a,information,hurricane-evacuation-route,Hurricane evacuation route,Hurricane evacuation route
+EM1-2,information,tsunami-evacuation-route,Tsunami evacuation route,Tsunami evacuation route
+EM2-1,information,area-closed,Area Closed,Area Closed
+EM2-2,information,traffic-control-point,Traffic Control Point,Traffic Control Point
+EM2-3,information,maintain-top-safe-speed,Maintain Top Safe Speed,Maintain Top Safe Speed
+EM2-4,information,road-use-permit-required-for-thru-traffic,Road Use Permit Required For Thru Traffic,Road Use Permit Required For Thru Traffic
+EM3-1,information,medical-center,Medical Center,Medical Center
+EM3-1a,information,welfare-center,Welfare Center,Welfare Center
+EM3-1b,information,registration-center,Registration Center,Registration Center
+EM3-1c,information,decontamination-center,Decontamination Center,Decontamination Center
+EM4-1,information,emergency-shelter,Emergency Shelter,Emergency Shelter
+EM4-1a,information,hurricane-shelter,Hurricane Shelter,Hurricane Shelter
+EM4-1b,information,fallout-shelter,Fallout Shelter,Fallout Shelter
+EM4-1c,information,chemical-shelter,Chemical Shelter,Chemical Shelter

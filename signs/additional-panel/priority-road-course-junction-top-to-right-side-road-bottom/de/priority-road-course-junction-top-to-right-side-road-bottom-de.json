@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course-junction-top-to-right-side-road-bottom",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1002-24",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1002-24 - Verlauf der Vorfahrtsstraße an Einmündungen (von oben nach rechts), StVO 1992.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "arrow-direction-sign-major-destination-right",
+  "category": "information",
+  "country": "de",
+  "code": "432-20",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 432-20 - Wegweiser zu innerörtlichen Zielen und zu Einrichtungen mit erheblicher Verkehrsbedeutung (rechtsweisend, nach RWB), StVO 1992.svg"
+  }
+}

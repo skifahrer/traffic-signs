@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping",
+  "category": "regulatory",
+  "country": "ca",
+  "code": "RB-055A",
+  "source": {
+    "pipeline": "ca-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
+    "file": "CA-ON road sign Rb-055A-L-R (B).svg"
+  }
+}

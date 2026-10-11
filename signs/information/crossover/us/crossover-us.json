@@ -1,0 +1,11 @@
+{
+  "sign": "crossover",
+  "category": "information",
+  "country": "us",
+  "code": "D13-1",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD D13-1.svg"
+  }
+}

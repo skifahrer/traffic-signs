@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-without-arrow-goods-vehicles",
+  "category": "information",
+  "country": "de",
+  "code": "442-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 442-50 - Wegweiser für bestimmte Verkehrsarten „KFZ mit einer zulässigen Gesamtmasse über 3,5 t“ - ohne Pfeilsymbol; StVO 2017.svg"
+  }
+}

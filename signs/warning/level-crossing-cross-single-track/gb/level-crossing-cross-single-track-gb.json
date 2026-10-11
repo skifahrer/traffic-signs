@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-single-track",
+  "category": "warning",
+  "country": "gb",
+  "code": "774",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 774.svg"
+  }
+}

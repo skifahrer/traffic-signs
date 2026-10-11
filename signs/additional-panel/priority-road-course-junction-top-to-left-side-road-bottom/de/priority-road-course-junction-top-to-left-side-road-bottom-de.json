@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course-junction-top-to-left-side-road-bottom",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1002-14",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1002-14.svg"
+  }
+}

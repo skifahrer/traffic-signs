@@ -1,0 +1,11 @@
+{
+  "sign": "lanes-merging-main-carriageway-5-through-plus-2-from-right",
+  "category": "information",
+  "country": "de",
+  "code": "550-29",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 550-29 Zusammenführungstafel - an durchgehender Strecke.svg"
+  }
+}

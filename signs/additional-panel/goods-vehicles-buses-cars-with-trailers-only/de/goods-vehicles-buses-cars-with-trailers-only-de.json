@@ -1,0 +1,11 @@
+{
+  "sign": "goods-vehicles-buses-cars-with-trailers-only",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1049-13",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1049-13 - nur Lkw (Zeichen 1048-12), Kraftomnibus (Zeichen 1048-16) und Pkw mit Anhänger (Zeichen 1048-11), StVO 1992.svg"
+  }
+}

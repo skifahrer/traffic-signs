@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-beside-road",
+  "category": "warning",
+  "country": "de",
+  "code": "201-50",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 201-50 – Andreaskreuz - Dem Schienenverkehr Vorrang gewähren! StVO 1992.svg"
+  }
+}

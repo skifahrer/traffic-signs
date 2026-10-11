@@ -134,3 +134,38 @@ class PreferSvgTest(SandboxTestCase):
             meta = json.load(handle)
         self.assertEqual(meta["image"]["file"], "danger-sk.svg")
         self.assertEqual(meta["source"]["file"], "101 Nebezpečenstvo.svg")
+
+
+class EnglishSpeakingCountryTest(SandboxTestCase):
+    """Great Britain: the shared English name, and its own wording under en-GB."""
+
+    def setUp(self):
+        super().setUp()
+        data_dir = os.path.join(self.root, "gb")
+        os.makedirs(data_dir)
+        with open(os.path.join(data_dir, "translations.csv"), "w", encoding="utf-8") as handle:
+            handle.write("code,category,slug,name_en,name_en-GB\n602,regulatory,give-way,Give way,Give way to traffic on the major road\n")
+        self.source = Source(
+            country="gb",
+            language="en",
+            country_name="Great Britain",
+            language_name="English",
+            wiki="en.wikipedia.org",
+            page="Road signs in the United Kingdom",
+            parser=parsers.files(r"UK traffic sign (?P<code>\d.*)\.svg"),
+            data_dir=data_dir,
+            local_names="translations",
+            names_key="en-GB",
+        )
+        patch = mock.patch.object(Client, "page_wikitext", return_value="[[File:UK traffic sign 602.svg|60px]]")
+        patch.start()
+        self.addCleanup(patch.stop)
+
+    def test_writes_the_shared_name_and_the_local_one_next_to_it(self):
+        self.assertEqual((self.source.name_key, self.source.local_name_column), ("en-GB", "name_en-GB"))
+        result = sync(self.source, Client(delay=0), Options(no_images=True))
+        self.assertEqual((result.errors, result.synced), ([], 1))
+        self.assertEqual(
+            layout.read_translations("regulatory", "give-way"),
+            {"en": "Give way", "en-GB": "Give way to traffic on the major road"},
+        )

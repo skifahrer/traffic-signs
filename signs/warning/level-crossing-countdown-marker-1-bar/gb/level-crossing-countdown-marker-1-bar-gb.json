@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-countdown-marker-1-bar",
+  "category": "warning",
+  "country": "gb",
+  "code": "789.2",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 789.2.svg"
+  }
+}

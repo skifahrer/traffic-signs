@@ -1,0 +1,11 @@
+{
+  "sign": "roadside-assistance",
+  "category": "information",
+  "country": "us",
+  "code": "D12-6",
+  "source": {
+    "pipeline": "us-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+    "file": "MUTCD D12-6.svg"
+  }
+}

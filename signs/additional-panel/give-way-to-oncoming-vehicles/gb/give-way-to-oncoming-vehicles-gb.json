@@ -1,0 +1,11 @@
+{
+  "sign": "give-way-to-oncoming-vehicles",
+  "category": "additional-panel",
+  "country": "gb",
+  "code": "615.1",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 615.1.svg"
+  }
+}

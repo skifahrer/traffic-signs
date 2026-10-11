@@ -1,0 +1,11 @@
+{
+  "sign": "bend-right",
+  "category": "warning",
+  "country": "gb",
+  "code": "512 (right)",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 512 (right).svg"
+  }
+}

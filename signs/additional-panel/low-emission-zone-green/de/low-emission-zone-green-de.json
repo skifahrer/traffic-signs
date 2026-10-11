@@ -1,0 +1,11 @@
+{
+  "sign": "low-emission-zone-green",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1031-52",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1031-52 - Freistellung vom Verkehrsverbot nach § 40 Abs. 1 BlmSchG – grüne Plakette, StVO 2017.svg"
+  }
+}

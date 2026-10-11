@@ -1,0 +1,11 @@
+{
+  "sign": "park-and-ride",
+  "category": "regulatory",
+  "country": "de",
+  "code": "316",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 316 - Parken und Reisen, StVO 1992.svg"
+  }
+}

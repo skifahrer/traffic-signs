@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-all-restrictions",
+  "category": "regulatory",
+  "country": "de",
+  "code": "282",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 282.svg"
+  }
+}

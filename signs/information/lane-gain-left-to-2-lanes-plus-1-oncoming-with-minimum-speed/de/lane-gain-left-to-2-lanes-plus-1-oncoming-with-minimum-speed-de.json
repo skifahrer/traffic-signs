@@ -1,0 +1,11 @@
+{
+  "sign": "lane-gain-left-to-2-lanes-plus-1-oncoming-with-minimum-speed",
+  "category": "information",
+  "country": "de",
+  "code": "546-10",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 546-10 - Aufweitungstafel − mit Gegenverkehr mit integriertem Zeichen 275 − einstreifig plus Fahrstreifen links und 1 Fahrstreifen in Gegenrichtung (1600x1250), StVO 2017.svg"
+  }
+}

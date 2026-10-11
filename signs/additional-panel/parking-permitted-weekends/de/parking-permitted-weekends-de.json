@@ -1,0 +1,11 @@
+{
+  "sign": "parking-permitted-weekends",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1042-37",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1042-37 - Parken Samstag und Sonntag erlaubt (600x450); StVO 1992.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "pavement-parking-partial-left-continued",
+  "category": "regulatory",
+  "country": "de",
+  "code": "315-53",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 315-53 - Parken halb auf Gehwegen in Fahrtrichtung links (Mitte), StVO 1992.svg"
+  }
+}

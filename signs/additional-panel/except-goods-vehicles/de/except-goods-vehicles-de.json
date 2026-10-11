@@ -1,0 +1,11 @@
+{
+  "sign": "except-goods-vehicles",
+  "category": "additional-panel",
+  "country": "de",
+  "code": "1024-12",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zusatzzeichen 1024-12 - Kraftfahrzeuge mit einem zulässigen Gesamtgewicht über 3,5 t, einschließlich ihrer Anhänger und Zugmaschinen, ausgenommen Personenkraftwagen und Kraftomnibusse frei, StVO 1992.svg"
+  }
+}

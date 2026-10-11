@@ -1,0 +1,11 @@
+{
+  "sign": "lane-selection-goods-vehicles",
+  "category": "information",
+  "country": "gb",
+  "code": "832.6",
+  "source": {
+    "pipeline": "gb-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
+    "file": "UK traffic sign 832.6.svg"
+  }
+}

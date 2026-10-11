@@ -1,0 +1,11 @@
+{
+  "sign": "pavement-parking-perpendicular-full-left",
+  "category": "regulatory",
+  "country": "de",
+  "code": "315-80",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 315-80 - Parken ganz auf Gehwegen quer zur Fahrtrichtung links, StVO 1992.svg"
+  }
+}

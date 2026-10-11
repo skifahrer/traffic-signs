@@ -1,0 +1,11 @@
+{
+  "sign": "no-personal-transporters",
+  "category": "regulatory",
+  "country": "de",
+  "code": "257-59",
+  "source": {
+    "pipeline": "de-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+    "file": "Zeichen 257-59 - Verbot für Elektrokleinstfahrzeuge im Sinne der Elektrokleinstfahrzeuge-Verordnung (eKFV).svg"
+  }
+}
