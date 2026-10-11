@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "B4",
+  "image": {
+    "file": "end-of-priority-road-pt.svg",
+    "sha1": "be32accaffc094201e4e3429fb398978e4ac3e2a",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_B4.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

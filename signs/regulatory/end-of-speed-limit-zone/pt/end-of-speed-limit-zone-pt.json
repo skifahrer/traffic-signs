@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "G8",
+  "image": {
+    "file": "end-of-speed-limit-zone-pt.svg",
+    "sha1": "0186b1a9ef49bffb42cde84b0258349bc0fc16c6",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_G8-40.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

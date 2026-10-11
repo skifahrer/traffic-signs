@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pt",
   "code": "M13a",
+  "image": {
+    "file": "priority-road-course-pt.svg",
+    "sha1": "d811a72a8e1cfdae7f73a96d257cbafa0f2705dc",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_M13a.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

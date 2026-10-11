@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "D8",
+  "image": {
+    "file": "minimum-speed-pt.svg",
+    "sha1": "6f6a71e20353bfdaa82b1b68c0f5c59225b6c4d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_D8-30.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

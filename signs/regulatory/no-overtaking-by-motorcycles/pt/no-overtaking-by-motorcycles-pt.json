@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C14c",
+  "image": {
+    "file": "no-overtaking-by-motorcycles-pt.svg",
+    "sha1": "dbe642c08de62430140981ac5ac97cce9c9f5fcb",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C14c.svg",
+    "author": "Fry1989 eh?",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "I2e",
+  "image": {
+    "file": "advance-direction-sign-motorway-pt.svg",
+    "sha1": "5b996088a44fdfa46dd95eef2852630e3d09d2cd",
+    "source": "https://commons.wikimedia.org/wiki/File:SP_I2e.svg",
+    "author": "Mortadelo2005",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

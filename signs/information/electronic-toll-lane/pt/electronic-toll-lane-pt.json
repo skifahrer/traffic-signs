@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H33",
+  "image": {
+    "file": "electronic-toll-lane-pt.svg",
+    "sha1": "f994936c5da67c218f3a3e58e580e4c248c84ba5",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H33.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

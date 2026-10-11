@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A20",
+  "image": {
+    "file": "tunnel-ahead-pt.svg",
+    "sha1": "398e67bacfca375dd2eb09ee50d038e0a0e625d4",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A20.svg",
+    "author": "Fry1989 eh?",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

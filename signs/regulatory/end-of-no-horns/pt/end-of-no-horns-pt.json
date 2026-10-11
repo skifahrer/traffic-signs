@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C22",
+  "image": {
+    "file": "end-of-no-horns-pt.svg",
+    "sha1": "7469825b909ce204c4d256399ecce8f81a836ba6",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C22.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

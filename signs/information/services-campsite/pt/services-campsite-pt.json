@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H14a",
+  "image": {
+    "file": "services-campsite-pt.svg",
+    "sha1": "176a991e6bdeb4d8f0af5f0b3a7a655634e558ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H14a.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

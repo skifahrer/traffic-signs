@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "B8",
+  "image": {
+    "file": "crossroads-with-priority-pt.svg",
+    "sha1": "fd3151134e997840299349984ef653122fde6d7b",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_B8.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

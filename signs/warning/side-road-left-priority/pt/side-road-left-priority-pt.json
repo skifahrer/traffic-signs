@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "B9a",
+  "image": {
+    "file": "side-road-left-priority-pt.svg",
+    "sha1": "99c0e96f684f40d0fb8c9579acb3e2a6f73391b4",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_B9a.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

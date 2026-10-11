@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "H1a",
+  "image": {
+    "file": "parking-pt.svg",
+    "sha1": "d646007310013cb69e9331e99e6ce6e43383dfa5",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H1a.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

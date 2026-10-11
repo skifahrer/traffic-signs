@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C20a",
+  "image": {
+    "file": "end-of-all-restrictions-pt.svg",
+    "sha1": "3f2a8a77792819f22416d44f4bc0776cb572d30c",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C20a.svg",
+    "author": "Fry1989 eh?",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

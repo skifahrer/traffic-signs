@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H31b",
+  "image": {
+    "file": "number-of-lanes-b-pt.svg",
+    "sha1": "41645a77a64bdb30639312df92f1fa14f636dd5e",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H31b.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

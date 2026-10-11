@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "I2d",
+  "image": {
+    "file": "advance-direction-sign-grade-separated-pt.svg",
+    "sha1": "3964c448bd3fe52b20eb8c1d13dffdef60ee3705",
+    "source": "https://commons.wikimedia.org/wiki/File:SP_I2d.svg",
+    "author": "Mortadelo2005",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

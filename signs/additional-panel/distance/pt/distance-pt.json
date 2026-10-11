@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "pt",
   "code": "M1a",
+  "image": {
+    "file": "distance-pt.svg",
+    "sha1": "098bc447ad230535cb705fac653c4f4aeb92052d",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_M1.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C3a",
+  "image": {
+    "file": "no-motor-vehicles-pt.svg",
+    "sha1": "f8603f355cbe2a95db917390ee931fc0caf1282e",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C3a.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

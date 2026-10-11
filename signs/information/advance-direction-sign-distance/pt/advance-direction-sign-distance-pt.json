@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "I2a",
+  "image": {
+    "file": "advance-direction-sign-distance-pt.svg",
+    "sha1": "769484eed69538be3bb53787d0e20d554ac54b5a",
+    "source": "https://commons.wikimedia.org/wiki/File:SP_I2a.svg",
+    "author": "Mortadelo2005",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

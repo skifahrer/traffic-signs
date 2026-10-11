@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "D13f",
+  "image": {
+    "file": "end-of-segregated-footpath-cycle-path-pt.svg",
+    "sha1": "8562ad5c98316a925a95b2248c8036b1664130af",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_D13f.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

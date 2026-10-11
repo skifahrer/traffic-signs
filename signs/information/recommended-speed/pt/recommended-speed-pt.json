@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H6",
+  "image": {
+    "file": "recommended-speed-pt.svg",
+    "sha1": "e6d2f22f295c10a95b4d53850a4601934fa63ba1",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H6-60.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

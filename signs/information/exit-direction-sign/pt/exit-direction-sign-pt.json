@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "E2",
+  "image": {
+    "file": "exit-direction-sign-pt.svg",
+    "sha1": "a3a16c250cfe1a070fc27f10ee755dc3f5e2af3b",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_E2.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

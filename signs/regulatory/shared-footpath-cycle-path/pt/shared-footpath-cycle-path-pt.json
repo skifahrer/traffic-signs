@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "D7e",
+  "image": {
+    "file": "shared-footpath-cycle-path-pt.svg",
+    "sha1": "ece1d659afc9a5c60c4742cb4dfcdfb21d7aafc9",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_D7e.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H9",
+  "image": {
+    "file": "services-hospital-emergency-pt.svg",
+    "sha1": "897b0b9ff328b6935483e6ab7436242d37deb520",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H9.svg",
+    "author": "Reneman",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

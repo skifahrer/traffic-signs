@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H3",
+  "image": {
+    "file": "one-way-road-pt.svg",
+    "sha1": "2809c95e93e9e7300671982a6fe476ae450dc44b",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H3.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

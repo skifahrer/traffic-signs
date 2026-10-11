@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "B5",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-pt.svg",
+    "sha1": "f12f970dc4b9daa460890ed49febec6af19a790a",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_B5.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

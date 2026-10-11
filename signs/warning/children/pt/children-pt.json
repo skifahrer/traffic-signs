@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A14",
+  "image": {
+    "file": "children-pt.svg",
+    "sha1": "b012f2dac77451476a9db4096c7f0f8486039900",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A14.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

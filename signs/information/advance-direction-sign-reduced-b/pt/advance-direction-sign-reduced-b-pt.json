@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "I3b",
+  "image": {
+    "file": "advance-direction-sign-reduced-b-pt.svg",
+    "sha1": "4b474c82b69ace85b44ce245580b758d3fa08622",
+    "source": "https://commons.wikimedia.org/wiki/File:SP_I3b.svg",
+    "author": "Mortadelo2005",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

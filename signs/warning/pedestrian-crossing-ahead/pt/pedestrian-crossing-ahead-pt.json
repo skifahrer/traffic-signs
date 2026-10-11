@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A16a",
+  "image": {
+    "file": "pedestrian-crossing-ahead-pt.svg",
+    "sha1": "1fd3520f15a685a55e20f1401d18785d3a1683d2",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A16a.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

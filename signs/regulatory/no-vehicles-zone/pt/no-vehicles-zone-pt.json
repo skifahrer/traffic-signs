@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "G5a",
+  "image": {
+    "file": "no-vehicles-zone-pt.svg",
+    "sha1": "92adc037b78f945cec9d273412c8d764ab0914eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_G5a.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

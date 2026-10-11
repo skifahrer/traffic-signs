@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "D2b",
+  "image": {
+    "file": "mandatory-direction-straight-or-right-pt.svg",
+    "sha1": "86c5b3efca6b13ebc4c0f350b541d576bf0dd065",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_D2b.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

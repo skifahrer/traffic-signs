@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A3b",
+  "image": {
+    "file": "steep-ascent-pt.svg",
+    "sha1": "641decd79dc415b25886ac6d96c660364d917e6b",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A3b.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

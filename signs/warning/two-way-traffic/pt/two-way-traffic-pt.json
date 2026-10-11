@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A25",
+  "image": {
+    "file": "two-way-traffic-pt.svg",
+    "sha1": "6cf0f3bbf043661c4a840b27bbae6114068384c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A25.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

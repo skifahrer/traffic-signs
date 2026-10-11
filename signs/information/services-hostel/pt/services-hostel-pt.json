@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H16b",
+  "image": {
+    "file": "services-hostel-pt.svg",
+    "sha1": "dce0414e537f85462f7fb0c92d2472af5e6a087d",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H16b.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

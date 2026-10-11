@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "D7b",
+  "image": {
+    "file": "footpath-pt.svg",
+    "sha1": "2637460f43dd39eb692e911365dd377d99235ed9",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_D7b.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

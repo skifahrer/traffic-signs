@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C1",
+  "image": {
+    "file": "no-entry-pt.svg",
+    "sha1": "b59af52bd02782ac10ecac49ed2f69f297b95c63",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C1.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

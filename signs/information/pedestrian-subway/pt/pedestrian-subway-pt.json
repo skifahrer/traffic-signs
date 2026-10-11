@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H8a",
+  "image": {
+    "file": "pedestrian-subway-pt.svg",
+    "sha1": "553b46440b3f0f8ec1f54c1828f41a4fed500a5f",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H8a.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

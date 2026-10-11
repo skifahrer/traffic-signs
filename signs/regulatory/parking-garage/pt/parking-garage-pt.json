@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "H1b",
+  "image": {
+    "file": "parking-garage-pt.svg",
+    "sha1": "8f224ad91186e64722e3d4ee4192692c52e9405a",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H1b.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "F2",
+  "image": {
+    "file": "public-transport-lane-advance-pt.svg",
+    "sha1": "ba0f794dca1da271af1dad5100692e4a2fb3bfd2",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_F2.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

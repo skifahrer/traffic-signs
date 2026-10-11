@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H14c",
+  "image": {
+    "file": "services-camping-and-caravan-site-pt.svg",
+    "sha1": "860a1fc7a5cece49cb89594c114548ce17720a62",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H14c.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

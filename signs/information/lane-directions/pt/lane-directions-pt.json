@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "E3",
+  "image": {
+    "file": "lane-directions-pt.svg",
+    "sha1": "2e63b09bb175797b1d13b9d41c72a51f82e8e95e",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_E3.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

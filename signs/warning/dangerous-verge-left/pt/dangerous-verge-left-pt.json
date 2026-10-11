@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A7b",
+  "image": {
+    "file": "dangerous-verge-left-pt.svg",
+    "sha1": "0c32cfcfdcea778b92b93198d8e846d0e8d0ca41",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A7b.svg",
+    "author": "Fry1989 eh?",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

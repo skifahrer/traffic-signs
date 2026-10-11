@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "G5b",
+  "image": {
+    "file": "no-goods-vehicles-zone-pt.svg",
+    "sha1": "3d4c885c28884b0f2a4b2567c2d367f11695d286",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_G5b.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

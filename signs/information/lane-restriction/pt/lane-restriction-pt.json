@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "F1a",
+  "image": {
+    "file": "lane-restriction-pt.svg",
+    "sha1": "c8d10314d1691423b7e397557a0695ebf28b7e55",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_F1c.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C4f",
+  "image": {
+    "file": "no-bicycles-mopeds-or-motorcycles-pt.svg",
+    "sha1": "4a42e39cd438b8e7c9666074056ef62cee637da6",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C4f.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "B9c",
+  "image": {
+    "file": "merging-traffic-from-left-pt.svg",
+    "sha1": "bcdae86e32167b4977eb35f9b2212ba838625df8",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_B9c.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

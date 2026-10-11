@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "pt",
   "code": "A8",
+  "image": {
+    "file": "quayside-pt.svg",
+    "sha1": "fa6506fd4de7e61192816faf2287ace841608777",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_A8.svg",
+    "author": "Fer1997",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

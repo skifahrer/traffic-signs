@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "C2",
+  "image": {
+    "file": "no-vehicles-pt.svg",
+    "sha1": "e976f3b24c26bbd487b0d05d65faf1c2e2ddf812",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_C2.svg",
+    "author": "Fry1989 eh?",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

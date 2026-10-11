@@ -3,6 +3,14 @@
   "category": "information",
   "country": "pt",
   "code": "H46",
+  "image": {
+    "file": "residential-zone-pt.svg",
+    "sha1": "a9053defd3fe52b968e0b9c27b6ce3591ef2a9fe",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_H46.svg",
+    "author": "Westnordost",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "G3",
+  "image": {
+    "file": "no-stopping-zone-pt.svg",
+    "sha1": "3f6ee8e9798de15f8136d534c2e5fb8e3f80d393",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_G3.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",

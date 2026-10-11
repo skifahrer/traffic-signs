@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "pt",
   "code": "G9",
+  "image": {
+    "file": "end-of-no-vehicles-zone-pt.svg",
+    "sha1": "1bfb4eb292b89f4d33a69a9488ea3452ecbe8ff8",
+    "source": "https://commons.wikimedia.org/wiki/File:Portugal_road_sign_G9.svg",
+    "author": "Republic of Portugal",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "pt-wikipedia",
     "page": "https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal",
