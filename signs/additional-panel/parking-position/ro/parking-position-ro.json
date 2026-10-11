@@ -1,0 +1,11 @@
+{
+  "sign": "parking-position",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P38",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign P38.svg"
+  }
+}

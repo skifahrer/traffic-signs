@@ -1,9 +1,12 @@
 {
   "en": "Trams",
   "cs": "Tramvaj",
+  "el": "Διάβαση τροχιοδρόμου (Τραμ)",
   "en-AU": "Tram Crossing",
   "en-GB": "Trams crossing ahead",
+  "fi": "Raitiovaunu",
   "fr": "Traversée de voies de tramways",
   "hu": "Villamos",
-  "pl": "tramwaj"
+  "pl": "tramwaj",
+  "ro": "Trecere la nivel cu șinele de tramvai"
 }

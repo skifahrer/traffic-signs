@@ -1,0 +1,11 @@
+{
+  "sign": "u-turn-to-opposite-carriageway",
+  "category": "warning",
+  "country": "ro",
+  "code": "A54",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign A54.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "double-bend-right",
+  "category": "warning",
+  "country": "ro",
+  "code": "Curbă dublă dreapta",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Curbă dublă dreapta.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-right",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "D05",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign D05.svg"
+  }
+}

@@ -1,0 +1,303 @@
+code,category,slug,name_en,name_el
+Κ-1α,warning,bend-left,Bend (left),Επικίνδυνη στροφή (αριστερή)
+Κ-1δ,warning,bend-right,Bend (right),Επικίνδυνη στροφή (δεξιά)
+Κ-2α,warning,double-bend-left,Double bend (first to the left),"Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη αριστερά"
+Κ-2δ,warning,double-bend-right,Double bend (first to the right),"Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη δεξιά"
+Κ-3,warning,steep-descent,Steep descent,Επικίνδυνη κατωφέρεια (κατηφόρα)
+Κ-4,warning,steep-ascent,Steep ascent,Επικίνδυνη ανωφέρεια (ανηφόρα)
+Κ-5,warning,road-narrows-both-sides,Road narrows (from both sides),Επικίνδυνη στένωση οδοστρώματος
+Κ-6α,warning,road-narrows-left,Road narrows (from the left),Επικίνδυνη στένωση οδοστρώματος στην αριστερή πλευρά
+Κ-6δ,warning,road-narrows-right,Road narrows (from the right),Επικίνδυνη στένωση οδοστρώματος στην δεξιά πλευρά
+Κ-7,warning,movable-bridge,Movable bridge,Κινητή γέφυρα
+Κ-8,warning,quayside,Quayside or river bank,Η οδός οδηγεί σε αποβάθρα ή όχθη ποταμού
+Κ-9,warning,uneven-road,Uneven road,Ανώμαλο οδόστρωμα
+Κ-10,warning,speed-bump,Speed bump,Επικίνδυνο υπερυψωμένο οδόστρωμα ή απότομη κυρτή
+Κ-11,warning,dip,Dip,Επικίνδυνο κάθετο ρείθρο (αυλάκι) ή απότομη κοίλη
+Κ-12,warning,slippery-road,Slippery road,Ολισθηρό οδόστρωμα
+Κ-13,warning,loose-gravel,Loose gravel,Εκτίναξη χαλικιών
+Κ-14,warning,fallen-rocks-right,Fallen rocks (from the right),Κίνδυνος από πτώση βράχων (δεξιά)
+Κ-14 (αριστερά),warning,fallen-rocks-left,Fallen rocks (from the left),Κίνδυνος από πτώση βράχων (αριστερά)
+Κ-15,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Κίνδυνος λόγω διάβασης πεζών
+Κ-16,warning,children,Children,Κίνδυνος λόγω συχνής κίνησης παιδιών (Σχολείο)
+Κ-17,warning,cyclists,Cyclists,Κίνδυνος λόγω συχνής εισόδου ή διάβασης ποδηλατιστών
+Κ-18,warning,farm-animals,Farm animals,Κίνδυνος από διέλευση οικιακών ζώων
+Κ-19,warning,wild-animals,Wild animals,Κίνδυνος από διέλευση άγριων ζώων
+Κ-20,warning,roadworks,Roadworks,Κίνδυνος λόγω εκτέλεσης έργων στο οδόστρωμα
+Κ-21,warning,traffic-signals,Traffic signals,"Προσοχή, κόμβος ή θέση όπου η κυκλοφορία ρυθμίζεται με φωτεινούς σηματοδότες"
+Κ-22,warning,low-flying-aircraft,Low-flying aircraft,Κίνδυνος λόγω χαμηλής πτήσης αεροσκαφών
+Κ-23,warning,crosswind,Crosswind,Κίνδυνος λόγω συχνού ισχυρού ανέμου (πλευρικός άνεμος)
+Κ-24,warning,two-way-traffic,Two-way traffic,"Προσοχή, διπλή κυκλοφορία (από μονόδρομο σε διπλής)"
+Κ-25,warning,danger,Other danger,Άλλοι κίνδυνοι (μη δηλούμενοι στις πινακίδες Κ-1 έως Κ-24)
+Κ-26,warning,intersection,Intersection,Διασταύρωση όπου ισχύει η προτεραιότητα από δεξιά
+Κ-27,warning,crossroads-with-minor-road,Crossroads with a road without priority,Διασταύρωση με δρόμο χωρίς προτεραιότητα
+Κ-28α,warning,side-road-left-minor,Side road on the left (without priority),Συμβολή με δρόμο χωρίς προτεραιότητα από αριστερά
+Κ-28δ,warning,side-road-right-minor,Side road on the right (without priority),Συμβολή με δρόμο χωρίς προτεραιότητα από δεξιά
+Κ-29α,warning,merging-traffic-from-left,Traffic merging from the left,Συμβολή με δρόμο χωρίς προτεραιότητα (είσοδος) από αριστερά
+Κ-29δ,warning,merging-traffic-from-right,Traffic merging from the right,Συμβολή με δρόμο χωρίς προτεραιότητα (είσοδος) από δεξιά
+Κ-30,warning,roundabout-ahead,Roundabout ahead,Προσέγγιση σε κυκλική υποχρεωτική πορεία (πλατεία)
+Κ-31,warning,level-crossing-with-barriers,Level crossing with barriers,Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης με κινητά φράγματα
+Κ-32,warning,level-crossing-without-barriers,Level crossing without barriers,Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης χωρίς κινητά φράγματα
+Κ-33,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Πρόσθετη επαναληπτική πινακίδα (απόσταση 150μ) από σιδηροδρομική διάβαση
+Κ-34,warning,level-crossing-countdown-marker-2-bars,Level crossing countdown marker (2 bars),Πρόσθετη επαναληπτική πινακίδα (απόσταση 100μ) από σιδηροδρομική διάβαση
+Κ-35,warning,level-crossing-countdown-marker-1-bar,Level crossing countdown marker (1 bar),Πρόσθετη επαναληπτική πινακίδα (απόσταση 50μ) από σιδηροδρομική διάβαση
+Κ-36,warning,level-crossing-cross-single-track,Level crossing cross (single track),Κίνδυνος άμεσης γειτνίασης με σιδηροδρομική διάβαση (μονή γραμμή)
+Κ-37,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Κίνδυνος άμεσης γειτνίασης με σιδηροδρομική διάβαση (διπλή ή πολλαπλή γραμμή)
+Κ-38α,warning,dangerous-verge-left,Dangerous verge (on the left),Επικίνδυνο έρεισμα στα αριστερά
+Κ-38δ,warning,dangerous-verge,Dangerous verge,Επικίνδυνο έρεισμα στα δεξιά
+Κ-39,warning,queues,Queues likely,Συχνή κυκλοφοριακή συμφόρηση
+Κ-40,warning,tunnel-ahead,Tunnel ahead,Σήραγγα
+Κ-41,warning,trams,Trams,Διάβαση τροχιοδρόμου (Τραμ)
+Κ-42,warning,fog,Fog,Κίνδυνος λόγω ομίχλης
+Κ-42α,warning,fog-b,Fog (variant b),Κίνδυνος λόγω ομίχλης
+Κ-43,warning,parallel-pedestrian-and-cyclist-crossing,Parallel pedestrian and cyclist crossing,Παράλληλη διάβαση πεζών και ποδηλατιστών
+Κ-44,warning,common-pedestrian-and-cyclist-crossing,Common pedestrian and cyclist crossing,Κοινή διάβαση πεζών και ποδηλατιστών
+Κ-45α,warning,steep-hill-downwards-for-cyclist,Steep hill downwards for cyclist,Επικίνδυνη κατωφέρεια για ποδηλάτες
+Κ-45δ,warning,steep-hill-upwards-for-cyclist,Steep hill upwards for cyclist,Επικίνδυνη ανωφέρεια για ποδηλάτες
+Ρ-1,regulatory,give-way,Give way,Υποχρεωτική παραχώρηση προτεραιότητας
+Ρ-2,regulatory,stop,"Stop, give way",Υποχρεωτική διακοπή πορείας (STOP)
+Ρ-3,information,priority-road,Priority road,Οδός προτεραιότητας
+Ρ-4,information,end-of-priority-road,End of priority road,Τέλος οδού προτεραιότητας
+Ρ-5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Υποχρεωτική παραχώρηση προτεραιότητας στην αντίθετα ερχόμενη κυκλοφορία (λόγω στενότητας)
+Ρ-6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Προτεραιότητα έναντι της επερχόμενης κυκλοφορίας (σε στενότητα οδού)
+Ρ-7,regulatory,no-entry,No entry,Απαγορεύεται η είσοδος σε όλα τα οχήματα
+Ρ-8,regulatory,no-vehicles,No vehicles,Κλειστή οδός για όλα τα οχήματα (και προς τις δύο κατευθύνσεις)
+Ρ-9,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Απαγορεύεται η είσοδος σε μηχανοκίνητα οχήματα (εκτός δίτροχων μοτοσυκλετών χωρίς κάνιστρο)
+Ρ-10,regulatory,no-motorcycles,No entry for motorcycles,Απαγορεύεται η είσοδος στις μοτοσυκλέτες
+Ρ-11,regulatory,no-bicycles,No entry for bicycles,Απαγορεύεται η είσοδος στα ποδήλατα
+Ρ-12,regulatory,no-mopeds,No entry for mopeds,Απαγορεύεται η είσοδος στα μοτοποδήλατα
+Ρ-13,regulatory,no-goods-vehicles,No entry for goods vehicles,Απαγορεύεται η είσοδος στα φορτηγά αυτοκίνητα
+Ρ-14,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Απαγορεύεται η είσοδος σε μηχανοκίνητο όχημα που ρυμουλκεί άλλο όχημα (πλην ημιρυμουλκούμενου)
+Ρ-15,regulatory,no-pedestrians,No entry for pedestrians,Απαγορεύεται η είσοδος στους πεζούς
+Ρ-16,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Απαγορεύεται η είσοδος στα ζωήλατα οχήματα
+Ρ-17,regulatory,no-handcarts,No entry for handcarts,Απαγορεύεται η είσοδος στις χειράμαξες
+Ρ-18,regulatory,no-tractors,No entry for tractors,Απαγορεύεται η είσοδος στα αγροτικά μηχανήματα
+Ρ-19,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,Απαγορεύεται η είσοδος σε όλα τα μηχανοκίνητα οχήματα
+Ρ-20,regulatory,no-motor-vehicles-or-animal-drawn-vehicles,No motor vehicles or animal-drawn vehicles,Απαγορεύεται η είσοδος σε μηχανοκίνητα και ζωήλατα οχήματα
+Ρ-21,regulatory,maximum-width,Maximum width,Απαγορεύεται η είσοδος σε οχήματα πλάτους μεγαλύτερου του αναγραφόμενου (π.χ. 2μ)
+Ρ-22,regulatory,maximum-height,Maximum height,Απαγορεύεται η είσοδος σε οχήματα ύψους μεγαλύτερου του αναγραφόμενου (π.χ. 3.5μ)
+Ρ-23,regulatory,maximum-weight,Maximum weight,Απαγορεύεται η είσοδος σε οχήματα βάρους μεγαλύτερου του αναγραφόμενου (π.χ. 5τ)
+Ρ-24,regulatory,maximum-axle-weight,Maximum axle weight,Απαγορεύεται η είσοδος σε οχήματα βάρους ανά άξονα μεγαλύτερου του αναγραφόμενου (π.χ. 2τ)
+Ρ-25,regulatory,maximum-length,Maximum length,Απαγορεύεται η είσοδος σε οχήματα ή συνδυασμούς οχημάτων μήκους μεγαλύτερου του αναγραφόμενου (π.χ. 10μ)
+Ρ-26,regulatory,minimum-distance,Minimum distance between vehicles,Απαγορεύεται η οδήγηση σε απόσταση μικρότερη της αναγραφόμενης από το προπορευόμενο όχημα (π.χ. 70μ)
+Ρ-27,regulatory,no-left-turn,No left turn,Απαγορεύεται η αριστερή στροφή
+Ρ-28,regulatory,no-right-turn,No right turn,Απαγορεύεται η δεξιά στροφή
+Ρ-29,regulatory,no-u-turn,No U-turn,Απαγορεύεται η αναστροφή (πορεία προς την αντίθετη κατεύθυνση)
+Ρ-30,regulatory,no-overtaking,No overtaking,Απαγορεύεται το προσπέρασμα
+Ρ-31,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,"Απαγορεύεται το προσπέρασμα για φορτηγά οχήματα άνω των 3,5 τόνων"
+Ρ-32α,regulatory,speed-limit-10,Speed limit (10 km/h),Μέγιστο όριο ταχύτητας (10 χλμ/ώρα)
+Ρ-32β,regulatory,speed-limit-20,Speed limit (20 km/h),Μέγιστο όριο ταχύτητας (20 χλμ/ώρα)
+Ρ-32γ,regulatory,speed-limit-30,Speed limit (30 km/h),Μέγιστο όριο ταχύτητας (30 χλμ/ώρα)
+Ρ-32δ,regulatory,speed-limit-40,Speed limit (40 km/h),Μέγιστο όριο ταχύτητας (40 χλμ/ώρα)
+Ρ-32ε,regulatory,speed-limit-50,Speed limit (50 km/h),Μέγιστο όριο ταχύτητας (50 χλμ/ώρα)
+Ρ-32στ,regulatory,speed-limit-60,Speed limit (60 km/h),Μέγιστο όριο ταχύτητας (60 χλμ/ώρα)
+Ρ-32ζ,regulatory,speed-limit-70,Speed limit (70 km/h),Μέγιστο όριο ταχύτητας (70 χλμ/ώρα)
+Ρ-32η,regulatory,speed-limit-80,Speed limit (80 km/h),Μέγιστο όριο ταχύτητας (80 χλμ/ώρα)
+Ρ-32θ,regulatory,speed-limit-90,Speed limit (90 km/h),Μέγιστο όριο ταχύτητας (90 χλμ/ώρα)
+Ρ-32ι,regulatory,speed-limit-100,Speed limit (100 km/h),Μέγιστο όριο ταχύτητας (100 χλμ/ώρα)
+Ρ-32κ,regulatory,speed-limit-110,Speed limit (110 km/h),Μέγιστο όριο ταχύτητας (110 χλμ/ώρα)
+Ρ-32λ,regulatory,speed-limit-120,Speed limit (120 km/h),Μέγιστο όριο ταχύτητας (120 χλμ/ώρα)
+Ρ-32μ,regulatory,speed-limit-130,Speed limit (130 km/h),Μέγιστο όριο ταχύτητας (130 χλμ/ώρα)
+Ρ-33,regulatory,no-horns,Use of horns prohibited,Απαγορεύεται η χρήση ηχητικών οργάνων προειδοποίησης (κόρνα)
+Ρ-34,regulatory,customs-stop,Customs stop,Τελωνείο
+Ρ-35,regulatory,stop-toll-collection,Stop (toll collection),Διόδια
+Ρ-36,regulatory,end-of-all-restrictions,End of all restrictions,Τέλος όλων των τοπικών απαγορεύσεων (που έχουν τεθεί με πινακίδες)
+Ρ-37,regulatory,end-of-speed-limit,End of speed limit,Τέλος ορίου ταχύτητας (π.χ. 60 χλμ/ώρα)
+Ρ-38,regulatory,end-of-no-overtaking,End of no overtaking,Τέλος απαγόρευσης προσπεράσματος
+Ρ-39,regulatory,no-parking,No parking,Απαγορεύεται η στάθμευση
+Ρ-40,regulatory,no-stopping,No stopping,Απαγορεύεται η στάση και η στάθμευση
+Ρ-41,regulatory,no-parking-odd-months,No parking in odd months,Απαγορεύεται η στάθμευση κατά τους μονούς μήνες
+Ρ-42,regulatory,no-parking-even-months,No parking in even months,Απαγορεύεται η στάθμευση κατά τους ζυγούς μήνες
+Ρ-43,regulatory,no-parking-zone,No parking zone,Περιοχή απαγόρευσης στάθμευσης
+Ρ-44,regulatory,end-of-no-parking-zone,End of no parking zone,Τέλος περιοχής απαγόρευσης στάθμευσης
+Ρ-45,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν εκρηκτικές ή εύφλεκτες ύλες
+Ρ-46,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν ύλες που μπορούν να προκαλέσουν μόλυνση υδάτων
+Ρ-47,regulatory,turn-left,Turn left,Υποχρεωτική κατεύθυνση πορείας προς τα αριστερά
+Ρ-48,regulatory,turn-right,Turn right,Υποχρεωτική κατεύθυνση πορείας προς τα δεξιά
+Ρ-49,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Υποχρεωτική κατεύθυνση πορείας ευθεία
+Ρ-50,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Υποχρεωτική κατεύθυνση πορείας με στροφή αριστερά ή δεξιά
+Ρ-50α,regulatory,mandatory-direction-left,Mandatory direction (left),Υποχρεωτική κατεύθυνση πορείας με στροφή αριστερά
+Ρ-50δ,regulatory,mandatory-direction-right,Mandatory direction (right),Υποχρεωτική κατεύθυνση πορείας με στροφή δεξιά
+Ρ-51α,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Υποχρεωτική κατεύθυνση πορείας εμπρός ή αριστερά
+Ρ-51δ,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Υποχρεωτική κατεύθυνση πορείας εμπρός ή δεξιά
+Ρ-52,regulatory,pass-on-either-side,Pass on either side,Υποχρεωτική διέλευση είτε από αριστερά είτε από δεξιά
+Ρ-52α,regulatory,pass-on-left,Pass on the left,Υποχρεωτική διέλευση μόνο από αριστερά της νησίδας
+Ρ-52δ,regulatory,pass-on-right,Pass on the right,Υποχρεωτική διέλευση μόνο από δεξιά της νησίδας
+Ρ-53,regulatory,roundabout,Roundabout,Κυκλική υποχρεωτική διαδρομή (πλατεία)
+Ρ-54,regulatory,cycle-path,Cycle path,Οδός αποκλειστικής κυκλοφορίας ποδηλάτων
+Ρ-55,regulatory,footpath,Footpath,Οδός αποκλειστικής κυκλοφορίας πεζών (πεζόδρομος)
+Ρ-56,regulatory,bridleway,Bridleway,Οδός αποκλειστικής κυκλοφορίας εφίππων
+Ρ-57,regulatory,minimum-speed,Minimum speed,Υποχρεωτική ελάχιστη ταχύτητα (π.χ. 30 χλμ/ώρα)
+Ρ-58,regulatory,end-of-minimum-speed,End of minimum speed,Τέλος υποχρεωτικής ελάχιστης ταχύτητας (π.χ. 30 χλμ/ώρα)
+Ρ-59,regulatory,snow-chains-required,Snow chains required,Υποχρεωτική χρήση αντιολισθητικών αλυσίδων (ή χιονολάστιχων)
+Ρ-60,regulatory,speed-limit-zone,Speed limit zone,Περιοχή ορίου ταχύτητας (π.χ. 50 χλμ/ώρα)
+Ρ-61,regulatory,end-of-speed-limit-zone,End of speed limit zone,Τέλος περιοχής ορίου ταχύτητας
+Ρ-62,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,"Τέλος απαγόρευσης προσπεράσματος από φορτηγά άνω των 3,5 τόνων"
+Ρ-63,regulatory,no-trailers-over-weight,No trailers over the weight shown,Απαγορεύεται το ρυμούλκηση οχήματος βάρους άνω του αναγραφόμενου (π.χ. 3τ)
+Ρ-64,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν επικίνδυνα υλικά
+Ρ-65,regulatory,segregated-footpath-cycle-path,Segregated footpath and cycle path,Διάδρομος παράλληλης πορείας πεζών και ποδηλάτων (διαχωρισμένος)
+Ρ-66,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Οδός μεικτής χρήσης από πεζούς και ποδήλατα
+Ρ-66α,regulatory,shared-path-from-bicycles-and-vehicles,Shared path from bicycles and vehicles,Οδός μεικτής χρήσης από ποδήλατα και οχήματα
+Ρ-67,regulatory,public-transport-lane,Public transport lane,Αποκλειστική διέλευση λεωφορείων ή τρόλεϊ
+Ρ-67α,regulatory,exclusive-passage-of-buses-trolleybuses-and-bicycles,"Exclusive passage of buses, trolleybuses and bicycles","Αποκλειστική διέλευση λεωφορείων, τρόλεϊ και ποδηλάτων"
+Ρ-68,regulatory,end-of-public-transport-lane,End of public transport lane,Τέλος αποκλειστικής διέλευσης λεωφορείων ή τρόλεϊ
+Ρ-68α,regulatory,end-of-exclusive-passage-of-buses-trolleybuses-and-bicycles,"End of exclusive passage of buses, trolleybuses and bicycles","Τέλος αποκλειστικής διέλευσης λεωφορείων, τρόλεϊ και ποδηλάτων"
+Ρ-69,regulatory,controlled-parking,Controlled parking,Ελεγχόμενη στάθμευση
+Ρ-70,regulatory,parking-of-a-certain-category-of-vehicles,Parking of a certain category of vehicles,Χώρος στάθμευσης συγκεκριμένης κατηγορίας οχημάτων (π.χ. TAXI)
+Ρ-71,regulatory,disabled-parking-place,Parking for disabled badge holders only,Αποκλειστική στάθμευση για οχήματα ατόμων με αναπηρία (ΑμεΑ)
+Ρ-72,regulatory,parking-exclusively-for-vehicles-of-people-with-disabilities,"Parking exclusively for vehicles of people with disabilities, with a special license",Αποκλειστική στάθμευση για οχήματα ατόμων με αναπηρία (με ειδική άδεια)
+Ρ-73α,regulatory,dangerous-goods-mandatory-direction-left,Mandatory direction for vehicles carrying dangerous goods (left),Υποχρεωτική στροφή αριστερά για οχήματα που μεταφέρουν επικίνδυνα φορτία
+Ρ-73δ,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,Υποχρεωτική στροφή δεξιά για οχήματα που μεταφέρουν επικίνδυνα φορτία
+Ρ-74α,regulatory,vehicles-carrying-hazardous-goods-should-turn-left,Vehicles carrying hazardous goods should turn left,Υποχρεωτική στροφή αριστερά για οχήματα που μεταφέρουν επικίνδυνα φορτία
+Ρ-74δ,regulatory,vehicles-carrying-hazardous-goods-should-turn-right,Vehicles carrying hazardous goods should turn right,Υποχρεωτική στροφή δεξιά για οχήματα που μεταφέρουν επικίνδυνα φορτία
+Ρ-75,regulatory,attention-to-vehicles-carrying-goods-which-could-pollute,Attention to vehicles carrying goods which could pollute water,Προσοχή οχήματα που μεταφέρουν ύλες που μολύνουν τα ύδατα
+Ρ-76,regulatory,tram-lane,Tram lane,Αποκλειστική λωρίδα τραμ
+Ρ-77,regulatory,end-of-exclusive-tram-crossing,End of exclusive tram crossing,Τέλος αποκλειστικής λωρίδας τραμ
+Π-1,information,directions-on-an-expressway,Directions on an expressway,Προειδοποιητική κατεύθυνσης σε οδό ταχείας κυκλοφορίας
+Π-2,information,directions-on-an-expressway-2,Directions on an expressway,Κατεύθυνση σε οδό ταχείας κυκλοφορίας
+Π-3,information,primary-or-secondary-road-direction,Primary or secondary road direction,Κατεύθυνση κύριας ή δευτερεύουσας οδού
+Π-3α,information,direction-to-urban-area,Direction to urban area,Κατεύθυνση προς αστική περιοχή
+Π-3β,information,direction-to-tourist-attraction,Direction to tourist attraction,Κατεύθυνση προς τουριστικό αξιοθέατο
+Π-4,information,dead-end-side-road-right,Dead-end side road (to the right),Αδιέξοδο δεξιά
+Π-5,information,dead-end-side-road-left,Dead-end side road (to the left),Αδιέξοδο αριστερά
+Π-6,information,alternative-direction,Alternative direction,Εναλλακτική διαδρομή
+Π-7,information,multi-lane-lane-warning-sign-at-an-intersection,Multi-lane lane warning sign at an intersection,Προειδοποιητική διακλάδωσης
+Π-8α,information,primary-or-secondary-road-direction-8,Primary or secondary road direction,Κατεύθυνση κύριας ή δευτερεύουσας οδού
+Π-10,information,direction-to-the-airport,Direction to the airport,Κατεύθυνση προς αεροδρόμιο
+Π-13,information,national-road-number,National road number,Αρίθμηση Εθνικής Οδού
+Π-14,information,european-road-number,European road number,Αρίθμηση Ευρωπαϊκής Οδού
+Π-17,information,built-up-area,Built-up area,Αρχή κατοικημένης περιοχής
+Π-18,information,end-of-built-up-area,End of built-up area,Τέλος κατοικημένης περιοχής
+Π-19,information,place-name-sign,Place name,Τοπωνύμιο
+Π-20,information,route-confirmation-sign,Route confirmation sign,Π-20 Eπιβεβαιωτική πινακίδα.
+Π-21,information,pedestrian-crossing,Pedestrian crossing,Διάβαση πεζών
+Π-22,information,services-hospital,Services (hospital),Νοσοκομείο
+Π-23,information,one-way-road,One-way road,Μονόδρομος
+Π-24,information,one-way-road-right,One-way road (right here),Μονόδρομος (δεξιά)
+Π-24 (αριστερά),information,one-way-road-left,One-way road (left here),Μονόδρομος (αριστερά)
+Π-25,information,dead-end,Dead end,Αδιέξοδο
+Π-26,information,expressway,Expressway,Οδός ταχείας κυκλοφορίας
+Π-26α,information,end-of-expressway,End of expressway,Τέλος οδού ταχείας κυκλοφορίας
+Π-27,information,motorway,Motorway,Αυτοκινητόδρομος
+Π-27α,information,end-of-motorway,End of motorway,Τέλος αυτοκινητόδρομου
+Π-28,information,bus-stop,"Bus, trolleybus or electric bus stop",Στάση λεωφορείου ή τρόλεϊ
+Π-28α,information,railway-station,Railway station,Σιδηροδρομικός σταθμός
+Π-31,regulatory,parking,Parking,Χώρος στάθμευσης
+Π-31α,regulatory,parking-zone,Parking zone,Περιοχή επιτρεπόμενης στάθμευσης
+Π-31β,regulatory,end-of-parking-zone,End of parking zone,Έξοδος από περιοχή επιτρεπόμενης στάθμευσης
+Π-31γ,information,parking-direction,Direction to a parking place,Κατεύθυνση προς χώρο επιτρεπόμενης στάθμευσης
+Π-31δ,information,bicycle-parking,Bicycle parking,Χώρος επιτρεπόμενης στάθμευσης ποδηλάτων
+Π-32,information,services-first-aid,Services (first aid),Πρώτες βοήθειες
+Π-33,information,services-breakdown-service,Services (breakdown service),Συνεργείο επισκευής οχημάτων
+Π-34,information,services-telephone,Services (telephone),Τηλέφωνο
+Π-35,information,services-filling-station,Services (filling station),Πρατήριο καυσίμων
+Π-35α,information,services-ev-charging-station,Services (EV charging station),Σημείο επαναφόρτισης ηλεκτροκίνητων οχημάτων
+Π-36,information,services-hotel-or-motel,Services (hotel or motel),Ξενοδοχείο ή Μοτέλ
+Π-37,information,services-restaurant,Services (roadside restaurant),Εστιατόριο
+Π-38,information,services-cafe,Services (café or snack bar open every day),Αναψυκτήριο (Καφενείο)
+Π-39,information,services-picnic-site,Services (picnic site),Θέση για εκδρομείς
+Π-40,information,services-hiking-trail,Services (hiking trail),Σημείο έναρξης περιπάτου
+Π-41,information,services-tent-camp,Services (tent camp),Θέση κατασκήνωσης (Κάμπινγκ)
+Π-42,information,services-caravan-site,Services (caravan site),Θέση για τροχόσπιτα
+Π-45,information,services-information-point,Services (information point),Πληροφορίες
+Π-46,information,bathing,Bathing,Περιοχή κολύμβησης
+Π-47,information,services-toilets,Services (toilets),Τουαλέτες
+Π-49,information,tunnel,Tunnel,Σήραγγα
+Π-50,information,airport,Airport,Αεροδρόμιο
+Π-53,information,seaport,Seaport,Λιμάνι
+Π-57,information,police,Police,Αστυνομία
+Π-60,information,disabled-people,Disabled people,Άτομα με ειδικές ανάγκες
+Π-64,information,recommended-speed,Recommended speed,Συνιστώμενη ταχύτητα
+Π-65,information,national-speed-limits,National speed limits (at the border),Γενικά όρια ταχύτητας
+Π-66,information,lane-for-vehicles-shown,Lane for the vehicles shown,"Λωρίδα αποκλειστικής κυκλοφορίας (λεωφορείων, τρόλεϊ, δικύκλων)"
+Π-67,information,speed-limits-per-lane,Speed limits per lane,Ανώτατα όρια ταχύτητας ανά λωρίδα κυκλοφορίας
+Π-68α,information,minimum-speeds-per-lane,Minimum speeds per lane,Κατώτατα όρια ταχύτητας ανά λωρίδα κυκλοφορίας
+Π-68δ,information,minimum-speeds-per-lane-b,Minimum speeds per lane (variant b),Κατώτατα όρια ταχύτητας ανά λωρίδα κυκλοφορίας
+Π-69α,information,lane-directions-b,Lanes at the approach to a junction (variant b),Αριθμός και κατευθύνσεις κυκλοφοριακών λωρίδων
+Π-69δ,information,lane-directions-c,Directions of the lanes (variant c),Αριθμός και κατευθύνσεις κυκλοφοριακών λωρίδων
+Π-69,information,lane-directions,Directions of the lanes,Αριθμός και κατευθύνσεις κυκλοφοριακών λωρίδων
+Π-70,information,lane-reduction,Lane reduction,Περιορισμός αριθμού κυκλοφοριακών λωρίδων
+Π-70α,information,lane-reduction-b,Lane reduction (variant b),Περιορισμός αριθμού κυκλοφοριακών λωρίδων
+Π-71,information,lavatory-for-people-with-disabilities,Lavatory for people with disabilities,Τουαλέτα για άτομα με ειδικές ανάγκες (ΑμεΑ)
+Π-72,information,parking-direction-vehicles-shown,Direction to parking for the vehicles shown,Κατεύθυνση προς χώρο στάθμευσης συγκεκριμένου μεταφορικού μέσου (Park & Ride)
+Π-73,information,parking-advance-vehicles-shown,Advance notice of parking for the vehicles shown,Προειδοποίηση κατεύθυνσης οχημάτων για στάθμευση σε συγκεκριμένο στεγασμένο χώρο
+Π-74,traffic-device,chevron-board-1-arrow-left,Chevron (left),Κατεύθυνση - επισήμανσης επικίνδυνων καμπυλών (αριστερά)
+Π-74 (δεξιά),traffic-device,chevron-board-1-arrow-right,Chevron (right),Κατεύθυνση - επισήμανσης επικίνδυνων καμπυλών (δεξιά)
+Π-75,traffic-device,chevron-board-sharp-deviation-left,Sharp deviation of route to the left (chevrons),Επικίνδυνη στροφή (αριστερά)
+Π-75 (δεξιά),traffic-device,chevron-board-sharp-deviation-right,"Chevron board (sharp deviation, right)",Επικίνδυνη στροφή (δεξιά)
+Π-76,information,barrier-marker,Barrier marker,Σήμανση στηθαίου ασφαλείας
+Π-76 (αριστερά),information,barrier-marker-76,Barrier marker,Σήμανση στηθαίου ασφαλείας
+Π-77,information,obstacle-marker-keep-right,Obstacle marker (keep right),"Σήμανση εμποδίου (υποχρεωτική διέλευση δεξιά, χρησιμοποιέιται με 20px)"
+Π-78,information,obstacle-marker-keep-left,Obstacle marker (keep left),"Σήμανση εμποδίου (υποχρεωτική διέλευση αριστερά, χρησιμοποιέιται με 20px)"
+Π-79,information,cross-either-on-left-or-right,Cross either on left or right,Διέλευση είτε από αριστερά είτε από δεξιά(χρησιμοποιέιται με 20px)
+Π-80,information,interchange,Interchange,Προειδοποιητική κατευθύνσεων προ ανισόπεδου κόμβου
+Π-81,information,advance-direction-sign-interchange,Advance direction sign before an interchange,Προειδοποιητική κατευθύνσεων προ ανισόπεδου κόμβου (σε αυτοκινητόδρομο)
+Π-82,information,advance-direction-sign-to-motorway,Advance direction sign before the motorway entrance,Προειδοποιητική κατευθύνσεων εισόδου σε αυτοκινητόδρομο από δευτερεύουσα οδό
+Π-83,information,direction-board-overhead-motorway,Direction board above the road (motorway),Γέφυρα σήμανσης με αναγραφή κατευθύνσεων προ ανισόπεδου κόμβου
+Π-84,information,direction-board-overhead-lane-drop,Direction board above the road (lane drop),Γέφυρα σήμανσης προ ανισόπεδου κόμβου με αφαίρεση λωρίδας
+Π-85,information,direction-board-overhead-exit,Direction board above the road (at the exit),Γέφυρα σήμανσης στην αρχή εξόδου από τον αυτοκινητόδρομο
+Π-86,information,exit,Exit (other roads),Κατεύθυνση εξόδου από τον αυτοκινητόδρομο
+Π-89,information,direction-sign-motorway-entrance-straight,Direction sign at the motorway entrance (straight ahead),Κατεύθυνση εισόδου στον αυτοκινητόδρομο
+Π-90α,information,exit-countdown-motorway-300m,Exit countdown on the motorway (300 m),Προειδοποιητική πινακίδα εξόδου (300 μ)
+Π-90β,information,exit-countdown-motorway-200m,Exit countdown on the motorway (200 m),Προειδοποιητική πινακίδα εξόδου (200 μ)
+Π-90γ,information,exit-countdown-motorway-100m,Exit countdown on the motorway (100 m),Προειδοποιητική πινακίδα εξόδου (100 μ)
+Π-92,information,traffic-calming-zone,Traffic calming zone,Περιοχή ήπιας κυκλοφορίας
+Π-92α,information,end-of-traffic-calming-zone,End of traffic calming zone,Τέλος περιοχής ήπιας κυκλοφορίας
+Π-93,information,school-crossing-patrol,School crossing patrol,Σχολικός τροχονόμος
+Π-94,information,stopping-and-parking-is-prohibited-owners-vehicle-will-be,"Stopping and parking is prohibited, owner's vehicle will be towed","Απαγορεύεται η στάση και η στάθμευση, το όχημα θα ρυμουλκηθεί"
+Π-95,information,tram-on-road,Tram on road,Διέλευση τραμ επί του οδοστρώματος
+Π-95α,information,bus-and-cycle-lane-crossing-ahead,Crossing with a bus and cycle lane ahead,Προειδοποιητική διασταύρωσης με αποκλειστική λωρίδα ΜΜΜ και ποδηλάτων
+Π-96,information,bus-lane-repeater,Bus lane (repeater),Τοποθετείται σε θέσεις κατά μήκος της Ειδικής Λωρίδας Λεωφορείων όπου επιτρέπεται η στάση των ταξί για επιβίβαση/αποβίβαση
+Π-97,information,bus-lane-start,Start of bus lane,Τοποθετείται στην περιοχή αρχής της Ειδικής Λωρίδας Λεωφορείων παράλληλης ροής κι επαναλαμβάνεται μετά από σημεία διακοπής της.
+Π-98,information,shared-bus-lane-start,Start of a shared bus lane,Τοποθετείται στο σημείο αρχής τμήματος μικτής χρήσης της Ειδικής Λωρίδας Λεωφορείων για δεξιά στροφή εξόδου
+Π-100,information,contraflow-bus-lane,Contraflow bus lane,"Τοποθετείται κατά την πορεία της λωρίδας αντίθετης ροής Μ.Μ.Μ., ώστε να πληροφορεί τους οδηγούς των οχημάτων που δεν επιτρέπεται να κυκλοφορούν σε αυτήν για την απαγόρευση της εισόδου τους"
+Π-103,information,contraflow-bus-lane-side-road,Contraflow bus lane (on side roads),Τοποθετείται στις παρόδους των οδών όπου υφίσταται Ειδική Λωρίδα Λεωφορείων και πληροφορεί τους χρήστες της παρόδου για τη διασταύρωση τους με αυτήν
+Π-124,information,numbered-cycle-route,Numbered cycle route,Διαδρομή ποδηλάτων που είναι αριθμημένη και αποτελεί μέρος δικτύου ποδηλάτων
+Π-125,information,cycle-direction-sign,Direction sign for cyclists,Κατεύθυνσης ποδηλάτου μιας τοπωνυμίας με μορφή βέλους
+Π-130,information,bus-lane-crossing-ahead,Crossing with a bus lane ahead,Προειδοποιητική διασταύρωσης με αποκλειστική λωρίδα ποδηλάτων
+Π-132,information,services-emergency-telephone,Services (emergency telephone),Τηλέφωνο έκτακτης ανάγκης
+Π-133,information,fire-extinguisher,Fire extinguisher,Πυροσβεστήρας
+Π-134α,information,emergency-lay-by,Emergency lay-by,Χώρος στάθμευσης εκτάκτου ανάγκης
+Π-134β,information,emergency-lay-by-b,Emergency lay-by (variant b),Χώρος στάθμευσης εκτάκτου ανάγκης
+Π-135α,information,emergency-exit-right,Emergency exit (to the right),Έξοδοι Κινδύνου
+Π-135β,information,emergency-exit-left,Emergency exit (to the left),Έξοδοι Κινδύνου
+Π-136α,information,emergency-exit-distance-a,"Emergency exit (distance, variant a)",Έξοδοι Κινδύνου
+Π-136β,information,emergency-exit-distance-b,"Emergency exit (distance, variant b)",Έξοδοι Κινδύνου
+Π-136γ,information,emergency-exit-distance-c,"Emergency exit (distance, variant c)",Έξοδοι Κινδύνου
+Πρ-1,additional-panel,100m-ahead,100 m ahead,Σε απόσταση 100 μ. από την πινακίδα
+Πρ-2,additional-panel,section-length,Length of section,Μήκος κινδύνου ή περιορισμού
+Πρ-4α,additional-panel,section-start,Start of section,Αρχή ισχύος της πινακίδας
+Πρ-4β,additional-panel,section-continues,Section continues,Συνέχεια ισχύος της πινακίδας
+Πρ-4γ,additional-panel,section-end,End of section,Τέλος ισχύος της πινακίδας
+Πρ-4δ,additional-panel,disabled-parking,Parking for disabled persons,Ισχύει για οχήματα ΑμεΑ
+Πρ-4ε,additional-panel,except-disabled-vehicles,Except vehicles of disabled persons,Δεν ισχύει για οχήματα ΑμεΑ
+Πρ-5,additional-panel,snow-or-ice-panel,In snow or ice,Κίνδυνος λόγω χιονιού ή πάγου
+Πρ-6,additional-panel,when-wet,When wet,Κίνδυνος λόγω βροχής
+Πρ-7,additional-panel,direction-of-priority-road,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-8,additional-panel,direction-of-priority-road-8,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-9,additional-panel,direction-of-priority-road-9,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-10,additional-panel,direction-of-priority-road-10,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-11,additional-panel,direction-of-priority-road-11,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-12,additional-panel,direction-of-priority-road-12,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-13,additional-panel,direction-of-priority-road-13,Direction of priority road,Κατεύθυνση οδού προτεραιότητας
+Πρ-14α,additional-panel,hard-curve-left,Hard curve (left),Απότομη στροφή (αριστερή)
+Πρ-14δ,additional-panel,hard-curve-right,Hard curve (right),Απότομη στροφή (δεξιά)
+Πρ-15α,additional-panel,turning-manoeuvre-left,Turning manoeuvre (left),Ανακάμπτων ελιγμός αριστερά
+Πρ-15δ,additional-panel,turning-manoeuvre-right,Turning manoeuvre (right),Ανακάμπτων ελιγμός δεξιά
+Πρ-16α,additional-panel,vehicle-type-animal-drawn,Type of vehicle (animal-drawn vehicles),Ζωήλατο όχημα
+Πρ-16β,additional-panel,handcart,Handcart,Χειράμαξα
+Πρ-16γ,additional-panel,vehicle-type-bicycles,Type of vehicle (bicycles),Ποδήλατο
+Πρ-16δ,additional-panel,vehicle-type-mopeds,Type of vehicle (mopeds),Μοτοποδήλατο
+Πρ-16ε,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Μοτοσυκλέτα
+Πρ-16στ,additional-panel,vehicle-type-cars,Type of vehicle (cars),Επιβατηγό όχημα
+Πρ-16ζ,additional-panel,vehicle-type-cars-with-trailers,Type of vehicle (cars with trailers),Επιβατηγό όχημα με ρυμουλκούμενο
+Πρ-16η,additional-panel,vehicle-type-tractors,Type of vehicle (tractors),Αγροτικό μηχάνημα
+Πρ-16θ,additional-panel,vehicle-type-buses,Type of vehicle (buses),Λεωφορείο ή τρόλεϊ
+Πρ-16ι,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Φορτηγό
+Πρ-16ια,additional-panel,semi-trailer-truck,Semi-trailer truck,Αρθρωτό όχημα (νταλίκα)
+Πρ-16ιβ,additional-panel,semi-trailer-truck-with-a-trailer,Semi-trailer truck with a trailer,Αρθρωτό όχημα με ρυμουλκούμενο
+Πρ-16ιγ,additional-panel,vehicle-type-goods-vehicles-with-trailers,Type of vehicle (goods vehicles with trailers),Φορτηγό με ρυμουλκούμενο
+Πρ-16ιδ,additional-panel,vehicle-type-explosives,Type of vehicle (carrying explosive or flammable goods),Όχημα που μεταφέρει εκρηκτικά ή εύφλεκτα υλικά
+Πρ-16ιε,additional-panel,vehicle-type-trams,Type of vehicle (trams),Τραμ
+Πρ-17,additional-panel,except-buses,Except buses,(α-ιδ) Εξαιρούνται λεωφορεία και τρόλεϊ
+Πρ-18α,additional-panel,taxis-only,Taxis,TAXI
+Πρ-18β,additional-panel,except-taxis,Except taxis,Εξαιρούνται τα TAXI

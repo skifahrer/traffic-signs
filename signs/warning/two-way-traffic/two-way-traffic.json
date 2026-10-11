@@ -3,12 +3,15 @@
   "cs": "Provoz v obou směrech",
   "de": "Gegenverkehr",
   "de-AT": "Achtung Gegenverkehr",
+  "el": "Προσοχή, διπλή κυκλοφορία (από μονόδρομο σε διπλής)",
   "en-AU": "Two-way Traffic ahead",
   "en-CA": "Two-way traffic ahead",
   "en-GB": "Two-way traffic",
   "en-US": "Two-way traffic",
+  "fi": "Kaksisuuntainen liikenne",
   "fr": "Circulation dans les deux sens",
   "hu": "Szembejövő forgalom",
   "pl": "odcinek jezdni o ruchu dwukierunkowym",
+  "ro": "Circulație în ambele sensuri",
   "sk": "Obojsmerná premávka"
 }

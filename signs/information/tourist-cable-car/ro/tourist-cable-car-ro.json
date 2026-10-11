@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-cable-car",
+  "category": "information",
+  "country": "ro",
+  "code": "T11",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign T11.svg"
+  }
+}

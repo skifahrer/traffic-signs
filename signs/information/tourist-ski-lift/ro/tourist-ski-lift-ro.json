@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-ski-lift",
+  "category": "information",
+  "country": "ro",
+  "code": "T10",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign T10.svg"
+  }
+}

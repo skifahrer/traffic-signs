@@ -1,0 +1,11 @@
+{
+  "sign": "priority-over-oncoming-traffic",
+  "category": "information",
+  "country": "ro",
+  "code": "B6",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign B6-PriorityOverOncomingTraffic 2011.svg"
+  }
+}

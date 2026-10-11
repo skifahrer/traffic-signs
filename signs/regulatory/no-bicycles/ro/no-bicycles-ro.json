@@ -1,0 +1,11 @@
+{
+  "sign": "no-bicycles",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C05",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C05-NoBicycles 2011.svg"
+  }
+}

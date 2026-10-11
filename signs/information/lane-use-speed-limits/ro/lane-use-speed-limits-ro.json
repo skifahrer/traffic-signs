@@ -1,0 +1,11 @@
+{
+  "sign": "lane-use-speed-limits",
+  "category": "information",
+  "country": "ro",
+  "code": "F27",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign F27.svg"
+  }
+}

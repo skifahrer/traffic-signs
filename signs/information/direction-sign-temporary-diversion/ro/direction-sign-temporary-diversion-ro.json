@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-temporary-diversion",
+  "category": "information",
+  "country": "ro",
+  "code": "F38",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign F38.svg"
+  }
+}

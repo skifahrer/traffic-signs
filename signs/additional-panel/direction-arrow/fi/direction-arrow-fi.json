@@ -1,0 +1,11 @@
+{
+  "sign": "direction-arrow",
+  "category": "additional-panel",
+  "country": "fi",
+  "code": "H2.1",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",
+    "file": "Finland road sign H2.1-1-A.svg"
+  }
+}

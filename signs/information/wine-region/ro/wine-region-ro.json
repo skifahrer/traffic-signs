@@ -1,0 +1,11 @@
+{
+  "sign": "wine-region",
+  "category": "information",
+  "country": "ro",
+  "code": "G53",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign G53.svg"
+  }
+}

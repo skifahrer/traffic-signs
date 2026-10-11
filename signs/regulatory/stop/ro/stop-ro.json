@@ -1,0 +1,11 @@
+{
+  "sign": "stop",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "B02",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign B02.svg"
+  }
+}

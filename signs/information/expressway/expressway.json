@@ -2,7 +2,10 @@
   "en": "Expressway",
   "de": "Kraftfahrstraße",
   "de-AT": "Autostraße",
+  "el": "Οδός ταχείας κυκλοφορίας",
   "en-AU": "Start Freeway",
+  "fi": "Moottoriliikennetie",
   "fr": "Route à accès réglementé",
-  "hu": "Autóút"
+  "hu": "Autóút",
+  "ro": "Drum rapid / Drum expres"
 }

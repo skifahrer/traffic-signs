@@ -3,9 +3,12 @@
   "cs": "Přednost protijedoucích vozidel",
   "de": "Vorrang des Gegenverkehrs",
   "de-AT": "Wartepflicht bei Gegenverkehr",
+  "el": "Υποχρεωτική παραχώρηση προτεραιότητας στην αντίθετα ερχόμενη κυκλοφορία (λόγω στενότητας)",
   "en-GB": "Give way to oncoming traffic",
+  "fi": "Väistämisvelvollisuus kohdattaessa",
   "fr": "Cédez le passage à la circulation venant en sens inverse",
   "hu": "A szembejövő forgalom elsőbbsége",
   "pl": "pierwszeństwo dla nadjeżdżających z przeciwka",
+  "ro": "Prioritate pentru vehiculele din sens invers",
   "sk": "Prednosť protiidúcich vozidiel"
 }

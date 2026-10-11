@@ -1,0 +1,328 @@
+code,category,slug,name_en,name_fi
+A1.1,warning,bend-right,Bend (right),Mutka
+A1.2,warning,bend-left,Bend (left),Mutka
+A2.1,warning,double-bend-right,Double bend (first to the right),Mutkia
+A2.2,warning,double-bend-left,Double bend (first to the left),Mutkia
+A3.1,warning,steep-ascent,Steep ascent,Jyrkkä mäki
+A3.2,warning,steep-descent,Steep descent,Jyrkkä mäki
+A4,warning,road-narrows-both-sides,Road narrows (from both sides),Kapeneva tie
+A5,warning,two-way-traffic,Two-way traffic,Kaksisuuntainen liikenne
+A6,warning,movable-bridge,Movable bridge,Avattava silta
+A7,warning,quayside,Quayside or river bank,"Lautta, laituri tai ranta"
+A8,warning,queues,Queues likely,Liikenneruuhka
+A9,warning,uneven-road,Uneven road,Epätasainen tie
+A10,warning,speed-bump,Speed bump,Töyssyjä
+A11,warning,roadworks,Roadworks,Tietyö
+A12,warning,loose-gravel,Loose gravel,Irtokiviä
+A13,warning,slippery-road,Slippery road,Liukas ajorata
+A14,warning,dangerous-verge,Dangerous verge,Vaarallinen tienreuna
+A15,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Suojatien ennakkovaroitus
+A16,warning,pedestrians,Pedestrians,Jalankulkijoita
+A17,warning,children,Children,Lapsia
+A18,warning,cyclists,Cyclists,Pyöräilijöitä
+A19,warning,skiers-crossing,Skiers crossing,Hiihtolatu
+A20.1,warning,elk,Elk,Hirvi
+A20.2,warning,reindeer,Reindeer,Poro
+A20.3,warning,wild-animals,Wild animals,Kauriseläin
+A21,warning,intersection,Intersection,Tienristeys
+A22.1,warning,crossroads-with-minor-road,Crossroads with a road without priority,Sivutien risteys
+A22.2,warning,side-road-right-minor,Side road on the right (without priority),Sivutien risteys
+A22.3,warning,side-road-left-minor,Side road on the left (without priority),Sivutien risteys
+A22.4,warning,t-junction-minor,T-junction with a road without priority,Sivutien risteys
+A23,warning,traffic-signals,Traffic signals,Liikennevalot
+A24,warning,roundabout-ahead,Roundabout ahead,Liikenneympyrä
+A25,warning,trams,Trams,Raitiovaunu
+A26,warning,level-crossing-without-barriers,Level crossing without barriers,Rautatien tasoristeys ilman puomeja
+A27,warning,level-crossing-with-barriers,Level crossing with barriers,"Rautatien tasoristeys, jossa on puomit"
+A29.1,warning,level-crossing-cross-single-track,Level crossing cross (single track),Tasoristeys
+A29.2,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Tasoristeys
+A30,warning,fallen-rocks,Fallen rocks,Putoavia kiviä
+A31,warning,low-flying-aircraft,Low-flying aircraft,Matalalla lentäviä lentokoneita
+A32,warning,crosswind,Crosswind,Sivutuuli
+A33,warning,danger,Other danger,Muu vaara
+A28.1,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Rautatien tasoristeyksen lähestymismerkit
+B1,information,priority-road,Priority road,Etuajo-oikeutettu tie
+B2,information,end-of-priority-road,End of priority road,Etuajo-oikeuden päättyminen
+B3,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Etuajo-oikeus kohdattaessa
+B4,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Väistämisvelvollisuus kohdattaessa
+B5,regulatory,give-way,Give way,Väistämisvelvollisuus risteyksessä
+B6,regulatory,stop,"Stop, give way",Pakollinen pysäyttäminen
+B7,regulatory,give-way-to-cyclists-crossing,Give way to cyclists crossing,Väistämisvelvollisuus pyöräilijän ylityspaikassa
+C1,regulatory,no-vehicles,No vehicles,Ajoneuvolla ajo kielletty
+C2,regulatory,no-motor-vehicles-or-mopeds,No entry for motor vehicles or mopeds,Moottorikäyttöisellä ajoneuvolla ajo kielletty
+C3,regulatory,no-goods-vehicles,No entry for goods vehicles,Kuorma- ja pakettiautolla ajo kielletty
+C4,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Ajoneuvoyhdistelmällä ajo kielletty
+C5,regulatory,no-tractors,No entry for tractors,Traktorilla ajo kielletty
+C6,regulatory,no-motorcycles,No entry for motorcycles,Moottoripyörällä ajo kielletty
+C7,regulatory,no-snowmobiles,No snowmobiles,Moottorikelkalla ajo kielletty
+C8,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Vaarallisten aineiden kuljetus kielletty
+C9,regulatory,no-buses,No entry for buses and trolleybuses,Linja-autolla ajo kielletty
+C10,regulatory,no-mopeds,No entry for mopeds,Mopolla ajo kielletty
+C11,regulatory,no-bicycles,No entry for bicycles,Polkupyörällä ajo kielletty
+C12,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,Polkupyörällä ja mopolla ajo kielletty
+C13,regulatory,no-pedestrians,No entry for pedestrians,Jalankulku kielletty
+C14,regulatory,no-pedestrians-or-bicycles,No pedestrians or bicycles,Jalankulku ja polkupyörällä ajo kielletty
+C15,regulatory,no-pedestrians-bicycles-or-mopeds,"No pedestrians, bicycles or mopeds",Jalankulku ja polkupyörällä ja mopolla ajo kielletty
+C16,regulatory,no-riders,No entry for riders on animals,Ratsastus kielletty
+C17,regulatory,no-entry,No entry,Kielletty ajosuunta
+C18,regulatory,no-left-turn,No left turn,Vasemmalle kääntyminen kielletty
+C19,regulatory,no-right-turn,No right turn,Oikealle kääntyminen kielletty
+C20,regulatory,no-u-turn,No U-turn,U-käännös kielletty
+C21,regulatory,maximum-width,Maximum width,Ajoneuvon suurin sallittu leveys
+C22,regulatory,maximum-height,Maximum height,Ajoneuvon suurin sallittu korkeus
+C23,regulatory,maximum-length,Maximum length,Ajoneuvon tai ajoneuvoyhdistelmän suurin sallittu pituus
+C24,regulatory,maximum-weight,Maximum weight,Ajoneuvon suurin sallittu massa
+C25,regulatory,maximum-weight-combination,Maximum weight of a vehicle combination,Ajoneuvoyhdistelmän suurin sallittu massa
+C26,regulatory,maximum-axle-weight,Maximum axle weight,Ajoneuvon suurin sallittu akselille kohdistuva massa
+C27,regulatory,maximum-bogie-weight,Maximum bogie weight,Ajoneuvon suurin sallittu telille kohdistuva massa
+C28,regulatory,no-overtaking,No overtaking,Ohituskielto
+C29,regulatory,end-of-no-overtaking,End of no overtaking,Ohituskielto päättyy
+C30,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Ohituskielto kuorma-autolla
+C31,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Ohituskielto kuorma-autolla päättyy
+C32,regulatory,speed-limit,Speed limit,Nopeusrajoitus
+C33,regulatory,end-of-speed-limit,End of speed limit,Nopeusrajoitus päättyy
+C34,regulatory,speed-limit-zone,Speed limit zone,Nopeusrajoitusalue
+C35,regulatory,end-of-speed-limit-zone,End of speed limit zone,Nopeusrajoitusalue päättyy
+C36,information,lane-restriction,Restriction in the lane,"Ajokaistakohtainen kielto, rajoitus tai määräys"
+C37,regulatory,no-stopping,No stopping,Pysäyttäminen kielletty
+C38,regulatory,no-parking,No parking,Pysäköinti kielletty
+C39,regulatory,no-parking-zone,No parking zone,Pysäköintikieltoalue
+C40,regulatory,end-of-no-parking-zone,End of no parking zone,Pysäköintikieltoalue päättyy
+C41,regulatory,taxi-rank-zone,Taxi rank zone,Taksiasema-alue
+C42,regulatory,taxi-stopping-place,Taxi stopping place,Taksin pysäyttämispaikka
+C43,regulatory,loading-bay,Loading bay,Kuormauspaikka
+C44.1,regulatory,no-parking-odd-days,No parking on odd days,Vuoropysäköinti
+C44.2,regulatory,no-parking-even-days,No parking on even days,Vuoropysäköinti
+C45,regulatory,customs-stop,Customs stop,Pakollinen pysäyttäminen tullitarkastusta varten
+C46,regulatory,police-check-stop,Police check stop,Pakollinen pysäyttäminen tarkastusta varten
+C47,regulatory,minimum-distance,Minimum distance between vehicles,Moottorikäyttöisten ajoneuvojen vähimmäisetäisyys
+C48,regulatory,no-studded-tyres,No vehicles with studded tyres,Nastarenkailla varustetulla moottorikäyttöisellä ajoneuvolla ajo kielletty
+D1.1,regulatory,turn-right,Turn right,Pakollinen ajosuunta
+D1.2,regulatory,turn-left,Turn left,Pakollinen ajosuunta
+D1.3,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Pakollinen ajosuunta
+D1.4,regulatory,turn-right-here,Turn right here,Pakollinen ajosuunta
+D1.5,regulatory,turn-left-here,Turn left here,Pakollinen ajosuunta
+D1.6,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Pakollinen ajosuunta
+D1.7,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Pakollinen ajosuunta
+D1.8,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Pakollinen ajosuunta
+D1.9,regulatory,mandatory-direction-all,"Mandatory direction (straight ahead, left or right)",Pakollinen ajosuunta
+D2,regulatory,roundabout,Roundabout,Pakollinen kiertosuunta
+D3.1,regulatory,pass-on-right,Pass on the right,Liikenteenjakaja
+D3.2,regulatory,pass-on-left,Pass on the left,Liikenteenjakaja
+D3.3,regulatory,pass-on-either-side,Pass on either side,Liikenteenjakaja
+D4,regulatory,footpath,Footpath,Jalkakäytävä
+D5,regulatory,cycle-path,Cycle path,Pyörätie
+D6,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Yhdistetty pyörätie ja jalkakäytävä
+D7.1,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Pyörätie ja jalkakäytävä rinnakkain
+D7.2,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Pyörätie ja jalkakäytävä rinnakkain
+D8,regulatory,snowmobile-route,Snowmobile route,Moottorikelkkailureitti
+D9,regulatory,bridleway,Bridleway,Ratsastustie
+D10,regulatory,minimum-speed,Minimum speed,Vähimmäisnopeus
+D11,regulatory,end-of-minimum-speed,End of minimum speed,Vähimmäisnopeus päättyy
+E1,information,pedestrian-crossing,Pedestrian crossing,Suojatie
+E2,regulatory,parking,Parking,Pysäköintipaikka
+E3.1,regulatory,park-and-ride,Park and ride,Liityntäpysäköintipaikka
+E3.2,regulatory,park-and-ride-b,Park and ride (variant b),Liityntäpysäköintipaikka
+E3.3,regulatory,park-and-ride-c,Park and ride (variant c),Liityntäpysäköintipaikka
+E3.4,regulatory,park-and-ride-d,Park and ride (variant d),Liityntäpysäköintipaikka
+E3.5,regulatory,park-and-ride-e,Park and ride (variant e),Liityntäpysäköintipaikka
+E4.1,regulatory,parking-parallel,Parking (parallel),Ajoneuvojen sijoitus pysäköintipaikalla
+E4.2,regulatory,parking-perpendicular,Parking (perpendicular),Ajoneuvojen sijoitus pysäköintipaikalla
+E4.3,regulatory,parking-angled,Parking (angled),Ajoneuvojen sijoitus pysäköintipaikalla
+E5,information,passing-place,Passing place,Kohtaamispaikka
+E6,information,bus-stop,"Bus, trolleybus or electric bus stop",Linja-autopysäkki
+E7,information,tram-stop,Tram stop,Raitiovaunupysäkki
+E8,information,taxi-rank,Taxi rank,Taksiasema
+E9.1,regulatory,public-transport-lane,Public transport lane,Linja-autokaista
+E9.2,regulatory,bus-and-taxi-lane,Bus and taxi lane,Linja-autokaista
+E10.1,regulatory,end-of-public-transport-lane,End of public transport lane,Linja-autokaista päättyy
+E10.2,regulatory,end-of-bus-and-taxi-lane,End of bus and taxi lane,Linja-autokaista päättyy
+E11.1,regulatory,tram-lane,Tram lane,Raitiovaunukaista
+E11.2,regulatory,tram-and-taxi-lane,Tram and taxi lane,Raitiovaunukaista
+E12.1,regulatory,end-of-tram-lane,End of tram lane,Raitiovaunukaista päättyy
+E12.2,regulatory,end-of-tram-and-taxi-lane,End of tram and taxi lane,Raitiovaunukaista päättyy
+E13.1,information,bicycle-lane,Bicycle lane,Pyöräkaista
+E13.2,information,bicycle-lane-b,Bicycle lane (variant b),Pyöräkaista
+E14.1,information,one-way-road,One-way road,Yksisuuntainen tie
+E14.2,information,one-way-road-b,One-way road (variant b),Yksisuuntainen tie
+E15,information,motorway,Motorway,Moottoritie
+E16,information,end-of-motorway,End of motorway,Moottoritie päättyy
+E17,information,expressway,Expressway,Moottoriliikennetie
+E18,information,end-of-expressway,End of expressway,Moottoriliikennetie päättyy
+E19,information,tunnel,Tunnel,Tunneli
+E20,information,end-of-tunnel,End of tunnel,Tunneli päättyy
+E21,information,emergency-lay-by,Emergency lay-by,Hätäpysäyttämispaikka
+E22,information,built-up-area,Built-up area,Taajama
+E23,information,end-of-built-up-area,End of built-up area,Taajama päättyy
+E24,information,residential-zone,Residential zone,Pihakatu
+E25,information,end-of-residential-zone,End of residential zone,Pihakatu päättyy
+E26,information,pedestrian-zone,Pedestrian zone,Kävelykatu
+E27,information,end-of-pedestrian-zone,End of pedestrian zone,Kävelykatu päättyy
+E28,information,bicycle-road,Bicycle road,Pyöräkatu
+E29,information,end-of-bicycle-road,End of bicycle road,Pyöräkatu päättyy
+E30,information,zip-merge,Zip merge,Ajokaistojen yhdistyminen
+F1.1,information,advance-direction-sign-type-a,Advance direction sign (type A),Suunnistustaulu
+F1.2,information,advance-direction-sign-type-a-b,"Advance direction sign (type A, variant b)",Suunnistustaulu
+F1.3,information,advance-direction-sign-type-a-c,"Advance direction sign (type A, variant c)",Suunnistustaulu
+F2.1,information,advance-direction-sign-type-b,Advance direction sign (type B),Suunnistustaulu
+F2.2,information,advance-direction-sign-type-b-b,"Advance direction sign (type B, variant b)",Suunnistustaulu
+F2.3,information,advance-direction-sign-type-b-c,"Advance direction sign (type B, variant c)",Suunnistustaulu
+F3,information,lane-advance-direction-sign,Advance direction sign by lane,Ajokaistakohtainen suunnistustaulu
+F4.1,information,advisory-sign-for-detour,Advisory sign for detour,Kiertotien suunnistustaulu
+F4.2,information,advisory-sign-for-detour-f4-2,Advisory sign for detour,Kiertotien suunnistustaulu
+F5,information,detour-route,Detour route,Kiertotieopastus
+F6,information,route-to-be-followed-in-order-to-turn-left,Route to be followed (in order to turn left),Ajoreittiopastus
+F7.1,information,information-on-traffic-lanes,Information on traffic lanes,Ajokaistaopastus
+F7.2,information,information-on-traffic-lanes-f7-2,Information on traffic lanes,Ajokaistaopastus
+F7.3,information,information-on-traffic-lanes-f7-3,Information on traffic lanes,Ajokaistaopastus
+F7.4,information,information-on-traffic-lanes-f7-4,Information on traffic lanes,Ajokaistaopastus
+F7.5,information,information-on-traffic-lanes-f7-5,Information on traffic lanes,Ajokaistaopastus
+F7.6,information,information-on-traffic-lanes-f7-6,Information on traffic lanes,Ajokaistaopastus
+F8.1,information,end-of-lane,End of lane,Ajokaistan päättyminen
+F8.2,information,end-of-lane-f8-2,End of lane,Ajokaistan päättyminen
+F9,information,direction-sign-summary,Directions,Viitoituksen koontimerkki
+F10,information,direction-board-overhead,Direction board above the road,Ajokaistan yläpuolinen viitta
+F11,information,direction-board-overhead-b,Direction board above the lane (variant b),Ajokaistan yläpuolinen viitta
+F12,information,direction-board-overhead-exit,Direction board above the road (at the exit),Ajokaistan yläpuolinen erkanemisviitta
+F13,information,direction-sign,Direction sign,Tienviitta
+F14,information,exit-direction-sign,Exit direction sign,Erkanemisviitta
+F15,information,direction-sign-for-detour,Direction sign for detour,Kiertotien viitta
+F16,information,address-direction-sign,Address direction sign,Osoiteviitta
+F17,information,address-direction-sign-advance,Address direction sign (advance),Osoiteviitan ennakkomerkki
+F18,information,direction-sign-showing-park-and-ride-facilities,Direction sign showing park-and-ride facilities,Liityntäpysäköintiviitta
+F19,information,pedestrian-direction-sign,Direction sign for pedestrians,Jalankulun viitta
+F20.1,information,cycle-direction-sign,Direction sign for cyclists,Pyöräilyn viitta
+F20.2,information,direction-sign-for-light-traffic-pedestrian-and-cycle,Direction sign for light traffic (pedestrian and cycle traffic),Pyöräilyn viitta
+F21.1,information,cycle-advance-direction-sign,Advance direction sign for cyclists,Pyöräilyn suunnistustaulu
+F21.2,information,cycle-advance-direction-sign-b,Advance direction sign for cyclists (variant b),Pyöräilyn suunnistustaulu
+F22,information,cycle-distance-sign,Distance sign for cyclists,Pyöräilyn etäisyystaulu
+F23,information,cycle-place-name,Place name for cyclists,Pyöräilyn paikannimi
+F24.1,information,dead-end,Dead end,Umpitie
+F24.2,information,dead-end-side-road-right,Dead-end side road (to the right),Umpitie
+F24.3,information,dead-end-side-road-left,Dead-end side road (to the left),Umpitie
+F25,information,recommended-speed,Recommended speed,Enimmäisnopeussuositus
+F26,information,distance-sign,Distance sign,Etäisyystaulu
+F27.1,information,place-name-sign,Place name,Paikannimi
+F27.2,information,place-name-waterway,Place name (waterway),Paikannimi
+F28,information,european-road-number,European road number,Kansainvälisen pääliikenneväylän numero
+F29,information,main-road-number-class-1,"Road number (main road, class I)",Valtatien numero
+F30,information,main-road-number-class-2,"Road number (main road, class II)",Kantatien numero
+F31,information,regional-road-number,Road number (regional road),Seututien numero
+F32,information,road-number-ordinary-road-connecting-road-1000-9999,Road number (ordinary road; connecting road; 1000–9999),Muun maantien numero
+F33,information,road-number-ring-road,Road number (ring road),Kehätien numero
+F34,information,motorway-junction-number,Motorway junction number,Eritasoliittymän numero
+F35,information,direction-to-road-shown,Direction to the road shown,Opastus merkin tarkoittamalle tielle
+F37,information,symbol-of-motorway,Symbol of motorway,Moottoritien tunnus
+F38,information,symbol-of-road-for-motor-vehicles,Symbol of road for motor vehicles,Moottoriliikennetien tunnus
+F39,information,airport,Airport,Lentoasema
+F40,information,ferry-terminal,Ferry,Autolautta
+F41,information,passenger-terminal,Passenger terminal,Matkustajasatama
+F42,information,cargo-terminal,Cargo terminal,Tavarasatama
+F43,information,freight-terminal,Freight terminal,Tavaraterminaali
+F44,information,industrial-area,Industrial area,Teollisuusalue tai yritysalue
+F45,information,retail-park,Retail park,Vähittäiskaupan suuryksikkö
+F46.1,information,parking-direction,Direction to a parking place,Pysäköinti
+F46.2,regulatory,parking-garage,Parking (car park building),Pysäköinti
+F47,information,railway-station,Railway station,Rautatieasema
+F48,information,bus-station,Bus station,Linja-autoasema
+F49,information,city-centre-symbol,City Centre symbol,Keskusta
+F50,information,itinerary-for-indicated-vehicle-category,Itinerary for indicated vehicle category,Tietylle ajoneuvolle tarkoitettu reitti
+F51,information,itinerary-for-transport-of-dangerous-goods,Itinerary for transport of dangerous goods,Vaarallisten aineiden kuljetukselle tarkoitettu reitti
+F52,information,itinerary-for-pedestrians,Itinerary for pedestrians,Jalankulkijalle tarkoitettu reitti
+F53,information,itinerary-for-handicapped,Itinerary for handicapped,Esteetön reitti
+F54,information,overpass-or-underpass-with-steps,Overpass or underpass with steps,"Reitti, jolla on portaat"
+F55,information,overpass-or-underpass-without-steps,Overpass or underpass without steps,Reitti ilman portaita
+F56,information,emergency-exit,Emergency exit,Hätäuloskäynti
+F57,information,direction-to-emergency-exit,Direction to emergency exit,Poistumisreitti
+G1,information,services-direction-board,Services direction board,Palvelukohteen opastustaulu
+G2,information,services-direction-board-b,Services direction board (variant b),Palvelukohteen opastustaulu
+G3,information,services-exit-direction-sign,Services exit direction sign,Palvelukohteen erkanemisviitta
+G4,information,services-address-sign,Services address sign,Palvelukohteen osoiteviitta
+G5,information,services-address-sign-advance,Services address sign (advance),Palvelukohteen osoiteviitan ennakkomerkki
+G6,information,services-traffic-radio,Services (traffic information radio),Radioaseman taajuus
+G7,information,services-information-point,Services (information point),Opastuspiste
+G8,information,information-centre,Information centre,Opastustoimisto
+G9,information,services-first-aid,Services (first aid),Ensiapu
+G10,information,services-breakdown-service,Services (breakdown service),Autokorjaamo
+G11.1,information,services-filling-station,Services (filling station),Polttoaineen jakelu
+G11.2,information,services-cng-station,Services (CNG station),Polttoaineen jakelu
+G11.3,information,services-ev-charging-station,Services (EV charging station),Polttoaineen jakelu
+G11.4,information,services-hydrogen-station,Services (liquid hydrogen station),Polttoaineen jakelu
+G12,information,services-hotel-or-motel,Services (hotel or motel),Hotelli tai motelli
+G13,information,services-restaurant,Services (roadside restaurant),Ruokailupaikka
+G14,information,services-cafe,Services (café or snack bar open every day),Kahvila tai pikaruokapaikka
+G15,information,services-toilets,Services (toilets),Käymälä
+G16,information,services-youth-hostel,Services (youth hostel),Retkeilymaja
+G17,information,services-campsite,Services (campsite),Leirintäalue
+G18,information,services-caravan-site,Services (caravan site),Matkailuajoneuvoalue
+G19,information,services-picnic-site,Services (picnic site),Levähdysalue
+G20,information,recreational-area,Recreational area,Ulkoilualue
+G21,information,services-emergency-telephone,Services (emergency telephone),Hätäpuhelin
+G22,information,services-fire-extinguisher,Services (firefighting equipment),Sammutin
+G23,information,museum-or-historic-building,Museum or historic building,Museo tai historiallinen rakennus
+G24,information,world-heritage-site,World Heritage Site,Maailmanperintökohde
+G25,information,nature-site,Nature site,Luontokohde
+G26,information,services-viewpoint,Services (viewpoint),Näköalapaikka
+G27,information,zoo,Zoo,Eläintarha tai -puisto
+G28,information,other-tourist-attraction,Other tourist attraction,Muu nähtävyys
+G29,information,swimming-place,Swimming place,Uintipaikka
+G30,information,fishing-place,Fishing place,Kalastuspaikka
+G31,information,ski-lift,Ski lift,Hiihtohissi
+G32,information,cross-country-skiing-centre,Cross-country skiing centre,Maastohiihtokeskus
+G33,information,golf-course,Golf course,Golfkenttä
+G34,information,pleasure-or-theme-park,Pleasure or theme park,Huvi- ja teemapuisto
+G35,information,cottage-accommodation,Cottage accommodation,Mökkimajoitus
+G36,information,bed-and-breakfast,Bed and breakfast,Aamiaismajoitus
+G37,information,direct-sale,Direct sale,Suoramyyntipaikka
+G38,information,handicrafts,Handicrafts,Käsityöpaja
+G39,information,farm-park,Farm park,Kotieläinpiha
+G40,information,horseback-riding,Horseback riding,Ratsastuspaikka
+G41.1,information,tourist-route,Tourist route,Matkailutie
+G41.2,information,tourist-route-g41-2,Tourist route,Matkailutie
+H1,additional-panel,applies-to-crossing-road,Applies to the crossing road,Kohde risteävässä suunnassa
+H2.1,additional-panel,direction-arrow,Direction (to the place shown),Kohde nuolen suunnassa
+H2.2,additional-panel,sign-applies-km-in-the-direction-of-the-arrow,Sign applies [...] km in the direction of the arrow,Kohde nuolen suunnassa
+H2.3,additional-panel,sign-applies-km-in-the-direction-of-the-arrow-h2-3,Sign applies [...] km in the direction of the arrow,Kohde nuolen suunnassa
+H3,additional-panel,section-length,Length of section,Vaikutusalueen pituus
+H4,additional-panel,distance,Distance,Etäisyys kohteeseen
+H5,additional-panel,distance-to-stop-line,Distance to the stop line,Etäisyys pakolliseen pysäyttämiseen
+H6,additional-panel,clearance-width,Clearance width,Vapaa leveys
+H7,additional-panel,clearance-height-panel,Clearance height,Vapaa korkeus
+H8,additional-panel,overhead-power-line-height,Height of overhead power line,Sähköjohdon korkeus
+H9.1,additional-panel,sign-applies-to-both-directions,Sign applies to both directions,Vaikutusalue molempiin suuntiin
+H9.2,additional-panel,sign-applies-to-both-directions-h9-2,Sign applies to both directions,Vaikutusalue molempiin suuntiin
+H10,additional-panel,sign-applies-in-the-direction-of-the-arrow,Sign applies in the direction of the arrow,Vaikutusalue nuolen suuntaan
+H11,additional-panel,section-end,End of section,Vaikutusalue päättyy
+H12.1,additional-panel,vehicle-type-cars,Type of vehicle (cars),Henkilöauto
+H12.2,additional-panel,vehicle-type-buses,Type of vehicle (buses),Linja-auto
+H12.3,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Kuorma-auto
+H12.4,additional-panel,vehicle-type-vans,Type of vehicle (vans),Pakettiauto
+H12.5,additional-panel,vehicle-type-caravans,Type of vehicle (with caravans),Matkailuperävaunu
+H12.6,additional-panel,vehicle-type-motorhomes,Type of vehicle (motorhomes),Matkailuauto
+H12.7,additional-panel,disabled-parking,Parking for disabled persons,Invalidin ajoneuvo
+H12.8,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Moottoripyörä
+H12.9,additional-panel,vehicle-type-mopeds,Type of vehicle (mopeds),Mopo
+H12.10,additional-panel,vehicle-type-bicycles,Type of vehicle (bicycles),Polkupyörä
+H12.11,additional-panel,vehicle-type-snowmobiles,Type of vehicle (snowmobiles),Moottorikelkka
+H12.12,additional-panel,vehicle-type-tractors,Type of vehicle (tractors),Traktori
+H12.13,additional-panel,vehicle-type-low-emission,Type of vehicle (low-emission vehicles),Vähäpäästöinen ajoneuvo
+H13.1,additional-panel,parking-position,Parking position,Pysäköintitapa
+H13.2,additional-panel,parking-position-b,Parking position (variant b),Pysäköintitapa
+H14,additional-panel,no-entry-for-vehicles-carrying-dangerous-goods-of-group-a,No entry for vehicles carrying dangerous goods of group A,Kielto ryhmän A vaarallisten aineiden kuljetukselle
+H15,additional-panel,no-entry-for-vehicles-carrying-dangerous-goods-of-group-b,No entry for vehicles carrying dangerous goods of group B,Kielto ryhmän B vaarallisten aineiden kuljetukselle
+H16,additional-panel,tunnel-category,Tunnel category,Tunneliluokka
+H17.1,additional-panel,sign-applies-between-08-00-and-17-00-hours-mo-fr,"Sign applies between 08.00 and 17.00 hours, Mo-Fr",Voimassaoloaika arkisin
+H17.2,additional-panel,sign-applies-between-08-00-and-13-00-hours-on-saturdays,"Sign applies between 08.00 and 13.00 hours, on Saturdays",Voimassaoloaika lauantaisin
+H17.3,additional-panel,sign-applies-between-08-00-and-14-00-hours-on-sundays-and,"Sign applies between 08.00 and 14.00 hours, on Sundays and holidays",Voimassaoloaika sunnuntaisin ja pyhinä
+H18,additional-panel,time-limit,Time limit,Aikarajoitus
+H19.1,additional-panel,parking-disc-panel,Parking disc required,Pysäköintiajan alkamisen osoittamisvelvollisuus
+H19.2,additional-panel,parking-disc-panel-b,Parking disc required (variant b),Pysäköintiajan alkamisen osoittamisvelvollisuus
+H20,additional-panel,with-charge,Subject to a charge,Maksullinen pysäköinti
+H21,additional-panel,electric-vehicles-charging-only,Electric vehicles while charging,Sähköajoneuvojen latauspaikka
+H22.1,additional-panel,priority-road-course,Course of the priority road,Etuajo-oikeutetun liikenteen suunta
+H22.2,additional-panel,priority-road-course-b,Course of the priority road (variant b),Etuajo-oikeutetun liikenteen suunta
+H23.1,additional-panel,two-way-cycle-track,Two-way cycle track,Kaksisuuntainen pyörätie
+H23.2,additional-panel,two-way-path,Two-way path,Kaksisuuntainen pyörätie
+H24,additional-panel,text-panel,Text panel,Tekstillinen lisäkilpi
+H25,additional-panel,additional-panel-with-text-driving-in-service-purposes,"Additional panel with text ""Driving in service purposes allowed""",Tekstillinen lisäkilpi
+H26,additional-panel,emergency-phone-and-extinguisher,Emergency phone and fire extinguisher,Hätäpuhelin ja sammutin

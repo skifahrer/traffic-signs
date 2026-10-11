@@ -1,8 +1,11 @@
 {
   "en": "Maximum length",
   "cs": "Zákaz vjezdu vozidel nebo souprav vozidel, jejichž délka přesahuje vyznačenou mez",
+  "el": "Απαγορεύεται η είσοδος σε οχήματα ή συνδυασμούς οχημάτων μήκους μεγαλύτερου του αναγραφόμενου (π.χ. 10μ)",
   "en-AU": "Overall Length Limit",
   "en-GB": "Maximum length (metric)",
+  "fi": "Ajoneuvon tai ajoneuvoyhdistelmän suurin sallittu pituus",
   "fr": "Accès interdit aux véhicules dont la longueur est supérieure au nombre indiqué",
-  "hu": "Hosszúságkorlátozás"
+  "hu": "Hosszúságkorlátozás",
+  "ro": "Lungimea maximă"
 }

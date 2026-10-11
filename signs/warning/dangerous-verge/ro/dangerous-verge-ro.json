@@ -1,0 +1,11 @@
+{
+  "sign": "dangerous-verge",
+  "category": "warning",
+  "country": "ro",
+  "code": "A12",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign A12.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "vehicle-type-goods-vehicles",
+  "category": "additional-panel",
+  "country": "fi",
+  "code": "H12.3",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",
+    "file": "Finland road sign H12.3-1-A.svg"
+  }
+}

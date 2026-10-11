@@ -1,0 +1,11 @@
+{
+  "sign": "sign-applies-between-08-00-and-13-00-hours-on-saturdays",
+  "category": "additional-panel",
+  "country": "fi",
+  "code": "H17.2",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",
+    "file": "Finland road sign H17.2-A.svg"
+  }
+}

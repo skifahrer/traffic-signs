@@ -1,0 +1,11 @@
+{
+  "sign": "side-road-left-minor",
+  "category": "warning",
+  "country": "ro",
+  "code": "A37",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign A37.svg"
+  }
+}

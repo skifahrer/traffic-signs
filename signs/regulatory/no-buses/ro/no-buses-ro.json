@@ -1,0 +1,11 @@
+{
+  "sign": "no-buses",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C09",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C09-NoBuses 2011.svg"
+  }
+}

@@ -2,10 +2,13 @@
   "en": "Movable bridge",
   "cs": "Pohyblivý most",
   "de": "Bewegliche Brücke",
+  "el": "Κινητή γέφυρα",
   "en-CA": "Opening bridge",
   "en-GB": "Opening or swing bridge",
   "en-US": "Draw bridge ahead",
+  "fi": "Avattava silta",
   "fr": "Pont mobile",
   "hu": "Nyitható híd",
-  "pl": "ruchomy most"
+  "pl": "ruchomy most",
+  "ro": "Pod mobil"
 }

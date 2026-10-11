@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-tandem-axle-weight",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C20",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign C20.svg"
+  }
+}

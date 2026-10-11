@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-historic-site",
+  "category": "information",
+  "country": "ro",
+  "code": "T02",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign T02.svg"
+  }
+}

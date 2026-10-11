@@ -1,0 +1,11 @@
+{
+  "sign": "residential-zone",
+  "category": "information",
+  "country": "fi",
+  "code": "E24",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",
+    "file": "Finland road sign E24.svg"
+  }
+}

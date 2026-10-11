@@ -1,0 +1,11 @@
+{
+  "sign": "vehicles-carrying-dangerous-goods",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P31",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign P31.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "parking-disc-panel-b",
+  "category": "additional-panel",
+  "country": "fi",
+  "code": "H19.2",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",
+    "file": "Finland road sign H19.2.svg"
+  }
+}

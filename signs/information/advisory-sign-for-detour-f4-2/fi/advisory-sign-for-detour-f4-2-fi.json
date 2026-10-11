@@ -1,0 +1,11 @@
+{
+  "sign": "advisory-sign-for-detour-f4-2",
+  "category": "information",
+  "country": "fi",
+  "code": "F4.2",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",
+    "file": "Finland road sign F4.2.svg"
+  }
+}

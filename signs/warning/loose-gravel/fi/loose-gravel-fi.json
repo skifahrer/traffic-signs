@@ -1,0 +1,11 @@
+{
+  "sign": "loose-gravel",
+  "category": "warning",
+  "country": "fi",
+  "code": "A12",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",
+    "file": "Finland road sign A12.svg"
+  }
+}

@@ -3,8 +3,10 @@
   "cs": "Konec všech zákazů",
   "de": "Ende sämtlicher streckenbezogener Geschwindigkeitsbeschränkungen und Überholverbote",
   "de-AT": "Ende von Überholverboten und Geschwindigkeitsbeschränkungen",
+  "el": "Τέλος όλων των τοπικών απαγορεύσεων (που έχουν τεθεί με πινακίδες)",
   "fr": "Fin de toutes les interdictions précédemment signalées",
   "hu": "Mozgó járművekre vonatkozó tilalmak vége",
   "pl": "koniec zakazów",
+  "ro": "Sfârșitul tuturor restricților",
   "sk": "Koniec viacerých zákazov"
 }

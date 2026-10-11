@@ -1,0 +1,279 @@
+code,category,slug,name_en,name_ro
+A1,warning,bend-left,Bend (left),Curbă la stânga
+A2,warning,bend-right,Bend (right),Curbă la dreapta
+A06,warning,very-dangerous-bend-successive-panels,Very dangerous bend (successive panels),Curbă deosebit de periculoasă (versiunea panouri succesive)
+A05,warning,very-dangerous-bend-single-panel,Very dangerous bend (single panel),Curbă deosebit de periculoasă (versiunea panou simplu)
+A7,warning,steep-descent,Steep descent,Drum în coborâre periculoasă (Pantă)
+A8,warning,steep-ascent,Steep ascent,Drum în urcare periculoasă (Rampă)
+A9,warning,road-narrows-both-sides,Road narrows (from both sides),Îngustarea șoselei din ambele sensuri
+A10,warning,road-narrows-right,Road narrows (from the right),Îngustarea șoselei din dreapta
+A11,warning,road-narrows-left,Road narrows (from the left),Îngustarea șoselei din stânga
+A12,warning,dangerous-verge,Dangerous verge,Acostament periculos
+A13,warning,queues,Queues likely,Drum aglomerat
+A14,warning,tunnel-ahead,Tunnel ahead,Tunel
+A15,warning,movable-bridge,Movable bridge,Pod mobil
+A16,warning,quayside,Quayside or river bank,Cădere în chei sau în mal abrupt
+A17,warning,uneven-road,Uneven road,Drum denivelat
+A18,warning,speed-bump,Speed bump,Denivelare
+A19,warning,slippery-road,Slippery road,Drum alunecos
+A20,warning,loose-gravel,Loose gravel,Împroșcare cu pietriș
+A21,warning,fallen-rocks,Fallen rocks,Căderi de pietre
+A3,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Trecere de pietoni
+A23,warning,children,Children,Copii
+A24,warning,cyclists,Cyclists,Bicicliști
+A25,warning,domestic-animals,Domestic animals,Animale (varianta 1)
+A26,warning,wild-animals,Wild animals,Animale (varianta 2)
+A27,warning,roadworks,Roadworks,Lucrări
+A28,warning,traffic-signals,Traffic signals,Semafor
+A29,warning,low-flying-aircraft,Low-flying aircraft,Zonă aeroportuară
+A30,warning,crosswind,Crosswind,Vânturi laterale
+A31,warning,two-way-traffic,Two-way traffic,Circulație în ambele sensuri
+A32,warning,danger,Other danger,Alte pericole
+A33,warning,accident,Accident,Accident
+A34,warning,intersection,Intersection,Intersecție
+A35,warning,crossroads-with-minor-road,Crossroads with a road without priority,Intersecție cu un drum fără prioritate
+A36,warning,side-road-right-minor,Side road on the right (without priority),Intersecție cu un drum fără prioritate (dreapta)
+A37,warning,side-road-left-minor,Side road on the left (without priority),Intersecție cu un drum fără prioritate (stânga)
+A38,warning,staggered-junction-minor,Staggered junction (roads without priority),Intersecție cu un drum fără prioritate (decalare)
+A40,warning,roundabout-ahead,Roundabout ahead,Giratoriu
+A41,warning,level-crossing-with-barriers,Level crossing with barriers,"Trecere la nivel cu calea ferată, cu bariere"
+A42,warning,level-crossing-without-barriers,Level crossing without barriers,"Trecere la nivel cu calea ferată, fără bariere"
+A43,warning,trams,Trams,Trecere la nivel cu șinele de tramvai
+A53,warning,agricultural-vehicles,Agricultural vehicles,Trecerea utilajelor agricole
+A54,warning,u-turn-to-opposite-carriageway,U-turn to the opposite carriageway,Întoarcere din drum spre sens opus
+A55,warning,accident-blackspot,Accident blackspot,Risc ridicat de accidente
+A44,warning,level-crossing-countdown-markers,Level crossing countdown markers,Panouri de distanță pentru trecerea la nivel cu calea ferată
+A45,warning,motorway-exit-countdown-markers,Motorway exit countdown markers,Panouri de distanță pentru ieșirea de pe autostradă
+A46-47,warning,chevron-markers,Chevron markers,Balize direcționale
+A49,warning,level-crossing-cross,Level crossing cross (single and multiple tracks),Trecere la nivel cu calea ferată (simplă și dublă)
+A51,warning,level-crossing-cross-with-signals,Level crossing cross with light signals,"Trecere la nivel cu calea ferată (simplă și dublă, cu semnale luminoase)"
+B1,regulatory,give-way,Give way,Cedează trecerea
+B02,regulatory,stop,"Stop, give way",STOP
+B05,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Prioritate pentru vehiculele din sens invers
+B6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Prioritate față de vehiculele din sens invers
+C01,regulatory,no-entry,No entry,Acces interzis
+C02,regulatory,no-vehicles,No vehicles,Circulație interzisă pentru autovehiculele neautorizate
+C03,regulatory,no-motor-vehicles,No motor vehicles,Circulație interzisă pentru autovehicule
+C04,regulatory,no-motorcycles,No entry for motorcycles,Circulație interzisă pentru motociclete
+C05,regulatory,no-bicycles,No entry for bicycles,Circulație interzisă pentru biciclete
+C06,regulatory,no-mopeds,No entry for mopeds,Circulație interzisă pentru ciclomotoare
+C07,regulatory,no-goods-vehicles,No entry for goods vehicles,Circulație interzisă vehiculelor pentru transportul de marfă
+C08,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Circulație interzisă pentru vehicule cu remorcă
+C09,regulatory,no-buses,No entry for buses and trolleybuses,Circulație interzisă pentru autobuze
+C10,regulatory,no-pedestrians,No entry for pedestrians,Circulație interzisă pietonilor
+C11,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Circulație interzisă vehiculelor cu tracțiune animală
+C12,regulatory,no-handcarts,No entry for handcarts,Circulație interzisă vehiculelor cu tracțiune umană
+C13,regulatory,no-tractors,No entry for tractors,Circulație interzisă utilajelor agricole
+C14,regulatory,no-motorcycles-or-motor-vehicles,No motorcycles or motor vehicles,"Circulație interzisă motocicletelor, și a vehiculelor motorizate"
+C15,regulatory,no-motor-vehicles-or-animal-drawn-vehicles,No motor vehicles or animal-drawn vehicles,"Circulația interzisă motocicletelor, vehiculelor motorizate și a vehiculelor cu tracțiune animală"
+C16,regulatory,maximum-width,Maximum width,Lățimea maximă
+C17,regulatory,maximum-height,Maximum height,Înălțimea maximă
+C18,regulatory,maximum-weight,Maximum weight,Greutatea maximă
+C19,regulatory,maximum-axle-weight,Maximum axle weight,Greutatea maximă pe osie simplă
+C20,regulatory,maximum-tandem-axle-weight,Maximum tandem axle weight,Greutatea maximă pe osie dublă
+C21,regulatory,maximum-triple-axle-weight,Maximum triple axle weight,Greutatea maximă pe osie triplă
+C22,regulatory,maximum-length,Maximum length,Lungimea maximă
+C23,regulatory,minimum-distance,Minimum distance between vehicles,Distanța minimă
+C24-1,regulatory,no-left-turn,No left turn,Virajul la stânga interzis
+C24-2,regulatory,no-right-turn,No right turn,Virajul la dreapta interzis
+C26,regulatory,no-u-turn,No U-turn,Întoarcerea interzisă
+C27,regulatory,no-overtaking,No overtaking,Depășirea interzisă
+C28,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Depășirea interzisă pentru vehicule mari
+C29,regulatory,speed-limit,Speed limit,Viteză maximă
+C30a,regulatory,speed-limit-by-vehicle-category,Speed limit by vehicle category,Viteza maximă pe categorii de vehicule
+C31,regulatory,no-horns,Use of horns prohibited,Claxonatul interzis
+C32,regulatory,customs-stop,Customs stop,Vamă
+C33,regulatory,toll-stop,Toll,Taxa rutieră
+C34,regulatory,police-check-stop,Police check stop,Controlul poliției
+C35,regulatory,end-of-all-restrictions,End of all restrictions,Sfârșitul tuturor restricților
+C36,regulatory,end-of-speed-limit,End of speed limit,Sfârșitul limitei de viteze
+C37,regulatory,end-of-no-overtaking,End of no overtaking,Sfârșitul restricției de depășire
+C38,regulatory,no-parking,No parking,Staționarea interzisă
+C39,regulatory,no-stopping,No stopping,Oprirea interzisă
+C40,regulatory,no-parking-odd-even-days,No parking on alternate days,Staționarea interzisă (alternativă)
+C42,regulatory,no-parking-zone,No parking zone,Zonă cu staționare interzisă
+C43,regulatory,end-of-no-parking-zone,End of no parking zone,Sfârșitul zonei cu staționare interzisă
+C44,regulatory,speed-limit-zone,Speed limit zone,Zonă cu viteză limitată
+C45,regulatory,end-of-speed-limit-zone,End of speed limit zone,Sfârșitul zonei cu viteză limitată
+C46,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Circulație interzisă vehiculelor cu material exploziv/inflamabil
+C47,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Circulație interzisă vehiculelor cu mărfuri periculoase
+C48,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Circulație interzisă vehiculelor cu mărfuri care poluează apă
+D01,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Înainte
+D02,regulatory,turn-right-here,Turn right here,La dreapta/stânga
+D03,regulatory,turn-right,Turn right,Avertizare pentru direcția obligatorie (dreapta/stânga)
+D04,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Înainte și/sau la dreapta/stânga
+D05,regulatory,pass-on-right,Pass on the right,Ocolire pe la dreapta/stânga
+D06,regulatory,pass-on-either-side,Pass on either side,Ocolire pe la dreapta și stânga
+D07,regulatory,roundabout,Roundabout,Giratoriu
+D11,regulatory,cycle-path,Cycle path,Pistă de bicicliști
+D09,regulatory,public-transport-lane,Public transport lane,Circulație pentru autobuz
+D8,regulatory,footpath,Footpath,Pistă pietonală
+D9,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Delimitarea pistei pietonale și pistei de bicicliști
+D12,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Pistă combinată
+D14-40,regulatory,minimum-speed,Minimum speed,Viteză minimă
+D15-40,regulatory,end-of-minimum-speed,End of minimum speed,Sfârșitul vitezei minime
+D16,regulatory,snow-chains,Snow chains compulsory,Lanțuri de iarnă
+D17,regulatory,mandatory-direction-for-vehicle-category,Mandatory direction for a category of vehicles,Direcția pentru categoria de vehicule
+F01,information,advance-direction-sign,Advance direction sign,Intersecție de drumuri
+F02,information,advance-direction-sign-grade-separated,Advance direction sign (grade-separated junction),"Intersecție de drumuri, denivelată"
+F03,information,direction-sign-summary,Directions,Direcții indicate
+F04,information,advance-direction-sign-bypass,Advance direction sign (bypass),Șosea de ocolire
+F05,information,advance-direction-sign-roundabout,Advance direction sign (roundabout),Direcții indicate cu un giratoriu
+F06,information,road-closed-advance,Road closed ahead,Drum închis
+F07,information,restricted-road-detour,Restricted road and its detour,Drum cu limitări și varianta sa ocolitoare
+F08,information,motorway-exit-advance,Motorway exit,Ieșire de pe autostradă
+F52,information,distance-sign,Distance sign,Distanța până la localități
+F09,information,advance-direction-sign-service-area,Advance direction sign (service area),Direcția indicată cu complex de servicii
+F10,information,distance-to-place,Distance to a place,Distanța până la localitate
+F11,information,distance-sign-motorway,Route confirmation and distance sign on the motorway,Distanța până la localități (autostradă)
+F12,information,junction-with-level-crossing,Junction with a level crossing,Intersecție cu trecere la nivel cu calea ferată
+F13,information,alternative-route-for-banned-turn,Alternative route for a banned turn,Alternativă la viraj interzis
+F14,information,public-transport-lane-advance,Lane reserved for public transport,Bandă rezervată transportului public
+F15,information,dead-end,Dead end,Fundătură
+F16,information,goods-vehicle-route,Route for goods vehicles,Rută de camion
+F19,information,lane-directions,Directions of the lanes,Direcții de mers
+F21,information,lane-use,Use of lanes,Utilizarea benzilor
+F22,information,slow-vehicle-lane,Lane for slow vehicles,Bandă pentru vehicule lente
+F23,information,end-of-lane,End of lane,Sfârșitul benzii
+F27,information,lane-use-speed-limits,Use of lanes (speed limits),Utilizarea benzilor
+F29,information,direction-sign,Direction sign,Săgeată indicatoare pentru destinație
+F30,information,direction-sign-motorway,Direction sign (motorway),Săgeată indicatoare pentru intrarea în autostradă
+F33,information,direction-sign-vehicle-category,Direction sign (category of vehicles),Săgeată indicatoare pentru categorie de vehicule
+F34,information,direction-sign-tourist,Direction sign (tourist destination),Săgeată indicatoare pentru obiectiv turistic
+F35,information,direction-sign-local,Direction sign (destination in town),Săgeată indicatoare pentru destinație din oraș
+F36,information,direction-sign-airport,Direction sign (airport),Săgeată indicatoare pentru aeroport
+F37,information,direction-sign-detour,Direction sign (detour),Săgeată indicatoare pentru ocolire
+F38,information,direction-sign-temporary-diversion,Direction sign (temporary diversion),Săgeată indicatoare în cazul devierii temporare a circulației
+F43,information,road-open,Road open,Drum deschis
+F44,information,european-transit-route,European transit route,Traseu de tranzit european
+F46,information,place-name-sign,Place name,Intrare în localitate (varianta 1)
+F47,information,place-name-sign-b,Place name (variant b),Intrare în localitate (varianta 2)
+F48,information,end-of-place,End of place,Ieșire din localitate (varianta 1)
+F49,information,end-of-place-b,End of place (variant b),Ieșire din localitate (varianta 2)
+F50,information,county-boundary,County boundary,Intrare în județ
+F51,information,river-name,River or valley name,Apă curgătoare/vale
+F53,information,lane-use-b,Use of lanes (variant b),Utilizarea benzilor
+F54,information,emergency-lay-by,Emergency lay-by,Spațiu de urgență
+G01,information,pedestrian-crossing,Pedestrian crossing,Trecere de pietoni
+G03,information,national-speed-limits,National speed limits (at the border),Limite de viteză generale
+G4,information,one-way-road,One-way road,Sens unic
+G5,information,one-way-road-b,One-way road (variant b),Sens unic
+G06,information,motorway,Motorway,Autostradă
+G7,information,end-of-motorway,End of motorway,Sfârșitul autostrăzii
+G08,information,motorway-speed-limits,Motorway speed limits reminder,Limite de viteză din autostradă
+G9,information,services-hospital,Services (hospital),Spital
+G10,information,services-first-aid,Services (first aid),Prim-ajutor
+G11,information,services-police,Services (police),Poliția
+G12,information,pedestrian-underpass,Pedestrian underpass,Subpasaj pietonal
+G14,information,bus-stop,"Bus, trolleybus or electric bus stop",Stație de autobuz
+G15,information,tram-stop,Tram stop,Stație de tramvai
+G16,information,taxi-rank,Taxi rank,Stație de taxi
+G17,information,expressway,Expressway,Drum rapid / Drum expres
+G18,information,end-of-expressway,End of expressway,Terminare Drum rapid / Drum expres
+G19,information,services-tyre-repair,Services (tyre repair),Vulcanizare
+G20,information,services-telephone,Services (telephone),Telefon
+G21,information,services-filling-station,Services (filling station),Benzinărie
+G22,information,services-filling-station-unleaded,Services (filling station with unleaded petrol),Benzinărie cu pompe pentru carburant benzina fără plumb
+G23,information,services-filling-station-lpg,Services (filling station with LPG),Benzinărie cu pompe pentru GPL și benzină cu plumb
+G24,information,services-hotel-or-motel,Services (hotel or motel),Hotel
+G25,information,services-restaurant,Services (roadside restaurant),Restaurant
+G26,information,services-cafe,Services (café or snack bar open every day),Bufet/Cofetărie
+G27,information,services-campsite,Services (campsite),Teren pentru camping
+G28,information,services-caravan-site,Services (caravan site),Teren pentru caravane (rulote)
+G29,information,services-campsite-and-caravan-site,Services (campsite and caravan site),Tabără turistică
+G30,information,services-picnic-site,Services (picnic site),Popas (picnic)
+G31,information,services-mountain-hut,Services (mountain hut),Cabană
+G32,information,services-toilets,Services (toilets),Toalete publice
+G33,information,services-breakdown-service,Services (breakdown service),Service auto
+G34,regulatory,parking,Parking,Parcare
+G35,information,parking-on-pavement,Parking on the pavement,Parcarea pe trotuare
+G36,regulatory,parking-garage,Parking (car park building),Parcare acoperită/în garaj
+G37,information,services-service-area,Services (service area),Complex de servicii
+G38,information,residential-zone,Residential zone,Zonă rezidențială
+G39,information,end-of-residential-zone,End of residential zone,Sfârșitul zonei rezidențiale
+G40,information,recommended-speed-zone,Recommended speed zone,Zonă cu viteză recomandată
+G41,information,end-of-recommended-speed-zone,End of recommended speed zone,Sfârșitul zonei cu viteză recomandată
+G42,information,tunnel,Tunnel,Tunel
+G43,information,end-of-tunnel,End of tunnel,Sfârșitul tunelului
+G44,information,motorail,Motorail,Vagoane platformei de cale ferată
+G45,information,ferry-terminal,Ferry,Feribot
+G46,information,port,Port,Port
+G47,information,railway-station,Railway station,Gară
+G48,information,bus-station,Bus station,Autogară
+G49,information,car-rental,Car rental,Închirieri auto
+G50,information,beach,Beach,Plajă
+G51,information,hunting-area,Hunting area,Zonă de vânătoare
+G52,information,fishing-area,Fishing area,Zonă de pescuit
+G53,information,wine-region,Wine region,Centru viticol
+G54,information,industrial-zone,Industrial zone,Zonă industrială
+G55,information,post-office,Post office,Poștă
+G56,information,drinking-water,Drinking water,Apă potabilă
+G57,information,services-playground,Services (playground),Loc de joacă
+G58,information,stadium,Stadium,Stadion
+G59,information,supermarket,Supermarket,Supermarket
+G60,information,internet,Internet access,Internet
+G61,information,theatre,Theatre,Teatru
+G62,information,museum,Museum,Muzeu
+G63,information,weighbridge,Weighbridge,Cântar pentru autovehicule
+G64,information,speed-camera,Speed camera,Radar
+G65,information,services-traffic-radio,Services (traffic information radio),Post de radio
+G66,information,recommended-speed,Recommended speed,Viteză recomandată
+G67,information,services-information-point,Services (information point),Punct de informații
+G68,information,street-name,Street name sign,Numele străzii
+G70,information,house-number,House number,Numărul imobilului
+G71,information,pedestrian-zone,Pedestrian zone,Zonă pietonală
+G72,information,end-of-pedestrian-zone,End of pedestrian zone,Sfârșitul zonei pietonale
+G73,information,traffic-monitoring,Traffic monitoring,Monitorizarea traficului
+G74,information,emergency-bay,Emergency bay,Refugiu pentru depanare
+G75,information,motorway-police,Motorway police,Poliția Autostrăzilor
+G76,information,keep-distance,Keep your distance,Distanțe de siguranțe
+G78,information,ticket-point,Ticket point,Bază de tichet
+G79,information,services-emergency-telephone,Services (emergency telephone),Telefon de urgență
+G80,information,road-vignette,Road vignette,Rovignetă
+T01,information,tourist-castle,Tourist destination (castle),Castel
+T02,information,tourist-historic-site,Tourist destination (historic site),Vestigii istorice
+T03,information,tourist-monument,Tourist destination (monument),Monument
+T04,information,tourist-church,Tourist destination (church),Biserică
+T05,information,tourist-monastery,Tourist destination (monastery),Mănăstire
+T06,information,tourist-nature-reserve,Tourist destination (nature reserve),Rezervație naturală
+T07,information,tourist-waterfall,Tourist destination (waterfall),Cascadă
+T08,information,tourist-cave,Tourist destination (cave),Peșteră
+T09,information,tourist-ski-slope,Tourist destination (ski slope),Pârtie schi
+T10,information,tourist-ski-lift,Tourist destination (ski lift),Teleschi
+T11,information,tourist-cable-car,Tourist destination (cable car),Telecabină
+T12,information,tourist-farm-stay,Tourist destination (farm stay),Pensiune agroturistică
+P1,additional-panel,distance,Distance,Distanța
+P02,additional-panel,distance-b,Distance (variant b),Distanța până la kilometri pe oră
+P03,additional-panel,time-period,Time period (e.g. 16–18 h),Timpul
+P05,additional-panel,vehicle-type,Type of vehicle,Categoria vehiculului
+P07,additional-panel,distance-to-level-crossing,Distance to the level crossing,Trecere la nivel cu calea ferată până la pericol
+P08,additional-panel,section-length,Length of section,Lungimea
+P10,additional-panel,section-start-repetition-end,"Start, repetition and end of section","Începere, Confirmare, Ieșire"
+P13,additional-panel,disabled-persons,Disabled persons,Persoane cu dizabilități
+P14,additional-panel,vehicle-types,Types of vehicle,Categoriile de vehicule
+P15,additional-panel,with-charge,Subject to a charge,Parcare cu plată
+P17,additional-panel,distance-to-stop-line,Distance to the stop line,Distanța până la stop
+P18,additional-panel,except-vehicles,Except vehicles,Exceptarea pentru autovehicule
+P19,additional-panel,vehicle-parking,Parking of vehicles,Staționarea vehiculelor
+P20,additional-panel,priority-road-course,Course of the priority road,Intersecția cu drumul cu prioritate
+P22,additional-panel,synchronised-traffic-lights,Synchronised traffic lights,Semafor sincronizat
+P23,additional-panel,direction-of-traffic,Direction of traffic,Sensul de trafic
+P24,additional-panel,level-crossing-with-lights,Level crossing with light signals,Trecere la nivel cu calea ferată luminoasă
+P25,additional-panel,tow-away-zone,Tow away zone,Ridicarea vehiculelor parcate neregulamentar
+P26,additional-panel,use-headlights,Use headlights,Folosirea luminilor
+P27,additional-panel,ice-or-snow,Ice or snow,Gheață și ninsoare
+P28,additional-panel,shower,Shower,Duș
+P29,additional-panel,rain,Rain,Ploaie
+P30,additional-panel,vehicles-carrying-explosives,Vehicles carrying explosive or flammable goods,Vehicule cu material exploziv/inflamabil
+P31,additional-panel,vehicles-carrying-dangerous-goods,Vehicles carrying dangerous goods,Vehicule cu mărfuri periculoase
+P32,additional-panel,vehicles-carrying-water-pollutants,Vehicles carrying water pollutants,Vehicule cu mărfuri care poluează apă
+P33,additional-panel,road-closed-to-public-traffic,Road closed to public traffic,Drum închis circulației publice
+P34,additional-panel,pedestrian-crossing-abolished,Pedestrian crossing abolished,Trecere de pietoni desființată
+P37,additional-panel,tow-away-zone-b,Tow-away zone (variant b),Ridicarea autovehicului
+P38,additional-panel,parking-position,Parking position,Executarea parcării
+P44,additional-panel,ramp,Ramp,Rampă
+P46,additional-panel,exit-number,Exit Number (plaque),Numărul ieșirii de pe autostradă
+Curbă dublă stânga,warning,double-bend-left,Double bend (first to the left),Curbă dublă la stânga
+Curbă dublă dreapta,warning,double-bend-right,Double bend (first to the right),Curbă dublă la dreapta
+Prioritate,information,priority-road,Priority road,Drum cu prioritate
+Terminare prioritate,information,end-of-priority-road,End of priority road,Sfârșitul drumului cu prioritate

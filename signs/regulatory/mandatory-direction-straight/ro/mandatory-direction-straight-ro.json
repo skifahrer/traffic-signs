@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "D01",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign D01.svg"
+  }
+}

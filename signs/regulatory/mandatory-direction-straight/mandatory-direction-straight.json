@@ -3,10 +3,13 @@
   "cs": "Přikázaný směr jízdy přímo",
   "de": "Vorgeschriebene Fahrtrichtung – geradeaus",
   "de-AT": "Vorgeschriebene Fahrtrichtung: Geradeaus",
+  "el": "Υποχρεωτική κατεύθυνση πορείας ευθεία",
   "en-CA": "Must proceed straight only, turns prohibited",
   "en-US": "Straight through only",
+  "fi": "Pakollinen ajosuunta",
   "fr": "Direction obligatoire à la prochaine intersection : tout droit",
   "hu": "Kötelező haladási irány (egyenesen)",
   "pl": "nakaz jazdy prosto",
+  "ro": "Înainte",
   "sk": "Prikázaný smer jazdy (priamo)"
 }

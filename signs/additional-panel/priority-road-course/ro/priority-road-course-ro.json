@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P20",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign P20.svg"
+  }
+}

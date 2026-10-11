@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-tram-lane",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "E12.1",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_s%C3%A4%C3%A4nt%C3%B6merkeist%C3%A4",
+    "file": "Finland road sign E12.1.svg"
+  }
+}

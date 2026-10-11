@@ -1,0 +1,11 @@
+{
+  "sign": "wild-animals",
+  "category": "warning",
+  "country": "ro",
+  "code": "A26",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO A26.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-type-a-b",
+  "category": "information",
+  "country": "fi",
+  "code": "F1.2",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",
+    "file": "Finland road sign F1.2.png"
+  }
+}

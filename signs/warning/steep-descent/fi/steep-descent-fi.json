@@ -1,0 +1,11 @@
+{
+  "sign": "steep-descent",
+  "category": "warning",
+  "country": "fi",
+  "code": "A3.2",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",
+    "file": "Finland road sign A3.2.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "ice-or-snow",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P27",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign P27.svg"
+  }
+}

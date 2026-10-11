@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-all-restrictions",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C35",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C35-EndOfAllLimits 2011.svg"
+  }
+}

@@ -3,10 +3,13 @@
   "cs": "Světelné signály",
   "de": "Lichtzeichenanlage",
   "de-AT": "Vorankündigung eines Lichtzeichens",
+  "el": "Προσοχή, κόμβος ή θέση όπου η κυκλοφορία ρυθμίζεται με φωτεινούς σηματοδότες",
   "en-GB": "Traffic signals",
   "en-US": "Traffic light ahead",
+  "fi": "Liikennevalot",
   "fr": "Feux tricolores",
   "hu": "Forgalomirányító fényjelző készülék",
   "pl": "sygnały świetlne",
+  "ro": "Semafor",
   "sk": "Svetelné signály"
 }
