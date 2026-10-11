@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gr",
   "code": "Ρ-32κ",
+  "image": {
+    "file": "speed-limit-110-gr.svg",
+    "sha1": "1201901ba9ad1ab733e58f7d6ad1c049b45708c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_R-32_-_110_kph.svg",
+    "author": "Christaras A",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "gr-wikipedia",
     "page": "https://el.wikipedia.org/wiki/%CE%A0%CE%B9%CE%BD%CE%B1%CE%BA%CE%AF%CE%B4%CE%B5%CF%82_%CE%BF%CE%B4%CE%BF%CF%83%CE%AE%CE%BC%CE%B1%CE%BD%CF%83%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",

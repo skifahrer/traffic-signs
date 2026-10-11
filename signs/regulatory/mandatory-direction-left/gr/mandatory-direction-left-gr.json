@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gr",
   "code": "Ρ-50α",
+  "image": {
+    "file": "mandatory-direction-left-gr.svg",
+    "sha1": "4a9d4bf0c39efb16c5649f336086b6de10fa2f0f",
+    "source": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_R-50a.svg",
+    "author": "Peeperman",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gr-wikipedia",
     "page": "https://el.wikipedia.org/wiki/%CE%A0%CE%B9%CE%BD%CE%B1%CE%BA%CE%AF%CE%B4%CE%B5%CF%82_%CE%BF%CE%B4%CE%BF%CF%83%CE%AE%CE%BC%CE%B1%CE%BD%CF%83%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",

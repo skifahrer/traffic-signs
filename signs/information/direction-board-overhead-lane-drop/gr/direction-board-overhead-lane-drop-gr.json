@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gr",
   "code": "Π-84",
+  "image": {
+    "file": "direction-board-overhead-lane-drop-gr.svg",
+    "sha1": "5b9446a736d5c1ff0076942f65b3c1be89b60eb8",
+    "source": "https://commons.wikimedia.org/wiki/File:GR_KOK_-_Sign_PI84_-_new_-_sample_01_-_BIL_VCT.svg",
+    "author": "Christaras A",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "gr-wikipedia",
     "page": "https://el.wikipedia.org/wiki/%CE%A0%CE%B9%CE%BD%CE%B1%CE%BA%CE%AF%CE%B4%CE%B5%CF%82_%CE%BF%CE%B4%CE%BF%CF%83%CE%AE%CE%BC%CE%B1%CE%BD%CF%83%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",

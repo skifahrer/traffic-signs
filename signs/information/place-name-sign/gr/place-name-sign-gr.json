@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gr",
   "code": "Π-19",
+  "image": {
+    "file": "place-name-sign-gr.svg",
+    "sha1": "501d54ad72488621073c6db2b9b4e49ada692a34",
+    "source": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-19.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "gr-wikipedia",
     "page": "https://el.wikipedia.org/wiki/%CE%A0%CE%B9%CE%BD%CE%B1%CE%BA%CE%AF%CE%B4%CE%B5%CF%82_%CE%BF%CE%B4%CE%BF%CF%83%CE%AE%CE%BC%CE%B1%CE%BD%CF%83%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",
