@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-fl",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-fl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/FL",
+    "file": "Florida 60.svg"
+  }
+}

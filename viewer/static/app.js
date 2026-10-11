@@ -73,7 +73,7 @@ function readUrl() {
     state.group = group.id;
     state.countries = new Set(group.countries);
   } else {
-    state.countries = new Set(wanted.length ? wanted : Object.keys(data.countries));
+    state.countries = new Set(wanted.length ? wanted : nationals());
   }
 }
 
@@ -82,7 +82,7 @@ function writeUrl() {
   if (state.category) params.set("type", state.category);
   if (state.query) params.set("q", state.query);
   if (state.group) params.set("group", state.group);
-  else if (state.countries.size !== Object.keys(data.countries).length) params.set("countries", [...state.countries].join(","));
+  else if (!allCountries()) params.set("countries", [...state.countries].join(","));
   if (state.shared) params.set("shared", "1");
   if (!state.withdrawn) params.set("withdrawn", "0");
   if (state.sort) params.set("sort", state.sort);
@@ -105,17 +105,18 @@ function setupGroups() {
   const kinds = [
     ["continent", "Continents"],
     ["group", "Groups"],
+    ["region", "Within a country"],
   ];
   select.append(
-    el("option", { value: "" }, `All countries (${Object.keys(data.countries).length})`),
+    el("option", { value: "" }, `All countries (${nationals().length})`),
     el("option", { value: "custom", hidden: true }, "Chosen countries"),
     ...kinds.map(([kind, label]) => el("optgroup", { label }, ...(data.groups || []).filter((g) => g.kind === kind).map(option))),
   );
-  select.value = state.group || (state.countries.size === Object.keys(data.countries).length ? "" : "custom");
+  select.value = state.group || (allCountries() ? "" : "custom");
   select.addEventListener("change", () => {
     const group = groupById(select.value);
     state.group = group ? group.id : "";
-    state.countries = new Set(group ? group.countries : Object.keys(data.countries));
+    state.countries = new Set(group ? group.countries : nationals());
     for (const box of $("countries").querySelectorAll("input")) box.checked = state.countries.has(box.value);
     render();
   });
@@ -125,7 +126,7 @@ function setupGroups() {
 // the type is chosen, else this page with its filters.
 function viewLink() {
   const onlyCategory =
-    state.category && !state.sort && !state.query && !state.shared && state.withdrawn && state.countries.size === Object.keys(data.countries).length;
+    state.category && !state.sort && !state.query && !state.shared && state.withdrawn && allCountries();
   return onlyCategory ? categoryLink(state.category) : location.href.split("#")[0];
 }
 
@@ -148,6 +149,12 @@ const localName = (sign, country) => sign.names[data.countries[country]?.languag
 const countryName = (code) => data.countries[code]?.name || code.toUpperCase();
 const isWithdrawn = (sign) => Object.values(sign.countries).every((c) => c.valid_until);
 const signAt = (category, slug) => signsByKey.get(`${category}/${slug}`);
+
+// Countries, without regions of a country (US states, "us-ca"): what "All
+// countries" shows. Regions are compared by choosing their group or ticking them.
+const nationals = () => Object.keys(data.countries).filter((c) => !data.countries[c].region_of);
+const regions = () => Object.keys(data.countries).filter((c) => data.countries[c].region_of);
+const allCountries = () => state.countries.size === nationals().length && nationals().every((c) => state.countries.has(c));
 
 // The variants of a sign (crosswind-from-left, speed-limit-50, …) that a
 // country has: shown in the main sign's row when the country has no sign of
@@ -317,7 +324,7 @@ function row(sign) {
 
 function updateStatus() {
   const total = data.signs.length;
-  const countries = Object.keys(data.countries).length;
+  const countries = nationals().length;
   const matching = view.signs.length;
   const scope = matching === total ? `${formatNumber(total)} signs` : `${formatNumber(matching)} matching (${formatNumber(total)} in all)`;
   $("summary").textContent =
@@ -422,16 +429,30 @@ function setupControls() {
   });
 
   const chips = $("countries");
-  for (const code of Object.keys(data.countries)) {
+  const chip = (code) => {
     const box = el("input", { type: "checkbox", checked: state.countries.has(code), value: code });
     box.addEventListener("change", () => {
       box.checked ? state.countries.add(code) : state.countries.delete(code);
       // Ticking a country by hand leaves the group: the menu shows "Chosen countries".
       state.group = "";
-      $("group").value = state.countries.size === Object.keys(data.countries).length ? "" : "custom";
+      $("group").value = allCountries() ? "" : "custom";
       render();
     });
-    chips.append(el("label", { title: countryName(code) }, box, code.toUpperCase()));
+    return el("label", { title: countryName(code) }, box, code.toUpperCase());
+  };
+  chips.append(...nationals().map(chip));
+  // Regions (US states, …) fold away behind one chip per country, so the row stays short.
+  const byCountry = new Map();
+  for (const code of regions()) {
+    const country = data.countries[code].region_of;
+    byCountry.set(country, [...(byCountry.get(country) || []), code]);
+  }
+  for (const [country, codes] of byCountry) {
+    const label = data.countries[codes[0]].region_label || `${country.toUpperCase()} regions`;
+    const open = codes.some((c) => state.countries.has(c));
+    chips.append(
+      el("details", { class: "regions", open }, el("summary", {}, `${label} (${codes.length})`), el("div", { class: "chips" }, ...codes.map(chip))),
+    );
   }
   // Comparing needs at least two countries.
   $("shared").disabled = Object.keys(data.countries).length < 2;

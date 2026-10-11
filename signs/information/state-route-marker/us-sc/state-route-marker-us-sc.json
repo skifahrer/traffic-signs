@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-sc",
+  "code": "SC",
+  "source": {
+    "pipeline": "us-sc-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/SC",
+    "file": "South Carolina 2.svg"
+  }
+}

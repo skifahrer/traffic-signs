@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-oh",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-oh-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/OH",
+    "file": "OH-2.svg"
+  }
+}

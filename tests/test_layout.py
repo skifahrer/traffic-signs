@@ -8,7 +8,7 @@ import unittest
 from pipelines.core import layout
 from pipelines.core.images import IMAGE_EXTS
 
-LANG_RE = re.compile(r"^[a-z]{2,3}(?:-[A-Z]{2})?$")  # ISO 639, optionally with a region: de, de-AT
+LANG_RE = re.compile(r"^[a-z]{2,3}(?:-[A-Z]{2}(?:-[A-Z0-9]{1,3})?)?$")  # ISO 639, optionally with a region: de, de-AT, en-US-CA
 
 
 class LayoutTest(unittest.TestCase):

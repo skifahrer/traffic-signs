@@ -103,6 +103,9 @@ class Source:
     # countries use one ("en-GB", "en-US") to keep their own wording next to
     # the shared English name, which every country with the sign must agree on.
     names_key: str | None = None
+    # Regions of a country (ISO 3166-2 codes, "us-ca") are run together, as
+    # one choice of this name ("us-states"); None for a country.
+    bundle: str | None = None
 
     def __post_init__(self):
         if self.local_names not in ("page", "translations"):

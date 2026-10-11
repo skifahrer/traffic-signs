@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ar",
+  "code": "AR",
+  "source": {
+    "pipeline": "us-ar-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/AR",
+    "file": "Arkansas 1.svg"
+  }
+}

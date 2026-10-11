@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-hi",
+  "code": "HI",
+  "source": {
+    "pipeline": "us-hi-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/HI",
+    "file": "HI-11.svg"
+  }
+}

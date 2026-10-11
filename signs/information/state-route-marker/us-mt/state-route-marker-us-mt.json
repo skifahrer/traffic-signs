@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-mt",
+  "code": "MT",
+  "source": {
+    "pipeline": "us-mt-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MT",
+    "file": "MT-1.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-de",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-de-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/DE",
+    "file": "Elongated circle 1.svg"
+  }
+}

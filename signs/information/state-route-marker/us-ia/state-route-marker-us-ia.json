@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ia",
+  "code": "IA",
+  "source": {
+    "pipeline": "us-ia-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/IA",
+    "file": "Circle sign 1.svg"
+  }
+}

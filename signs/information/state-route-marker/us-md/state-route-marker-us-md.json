@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-md",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-md-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/MD",
+    "file": "MD Route 2.svg"
+  }
+}

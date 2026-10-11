@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ky",
+  "code": "KY",
+  "source": {
+    "pipeline": "us-ky-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/KY",
+    "file": "Elongated circle 1.svg"
+  }
+}

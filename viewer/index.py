@@ -2,7 +2,8 @@
 
     {
       "categories": {"warning": "Warning signs", ...},
-      "countries": {"sk": {"name": "Slovakia", "language": "sk", "language_name": "Slovak"}, ...},
+      "countries": {"sk": {"name": "Slovakia", "language": "sk", "language_name": "Slovak"}, ...,
+                    "us-ca": {"name": "California", ..., "region_of": "us", "region_label": "US states"}},
       "groups": [{"id": "eu", "label": "European Union", "kind": "group", "countries": ["sk", ...], "members": 27}, ...],
       "signs": [
         {"category": "warning", "sign": "danger",
@@ -40,6 +41,10 @@ from pipelines.countries import all_sources
 from .groups import groups_for
 
 
+# What the regions of a country are called in the viewer.
+REGION_LABELS = {"us": "US states"}
+
+
 def build_index() -> dict:
     sources = all_sources()
     countries: dict[str, dict] = {}
@@ -63,6 +68,9 @@ def build_index() -> dict:
                         if source
                         else {"name": country.upper(), "language": None, "language_name": None}
                     )
+                    if "-" in country:  # a region of a country (ISO 3166-2): "us-ca"
+                        countries[country]["region_of"] = country.split("-")[0]
+                        countries[country]["region_label"] = REGION_LABELS.get(country.split("-")[0])
             if per_country:
                 signs.append(
                     {

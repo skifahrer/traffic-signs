@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-wv",
+  "code": "WV",
+  "source": {
+    "pipeline": "us-wv-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/WV",
+    "file": "WV-2.svg"
+  }
+}

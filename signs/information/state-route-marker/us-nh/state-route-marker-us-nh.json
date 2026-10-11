@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-nh",
+  "code": "NH",
+  "source": {
+    "pipeline": "us-nh-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NH",
+    "file": "NH Route 9.svg"
+  }
+}

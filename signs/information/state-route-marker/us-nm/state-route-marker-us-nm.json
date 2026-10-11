@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-nm",
+  "code": "NM",
+  "source": {
+    "pipeline": "us-nm-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NM",
+    "file": "New Mexico 1.svg"
+  }
+}

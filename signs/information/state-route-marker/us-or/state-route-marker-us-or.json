@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-or",
+  "code": "OR",
+  "source": {
+    "pipeline": "us-or-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/OR",
+    "file": "OR 8.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ne",
+  "code": "N",
+  "source": {
+    "pipeline": "us-ne-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NE",
+    "file": "N-2.svg"
+  }
+}

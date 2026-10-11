@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ut",
+  "code": "UT",
+  "source": {
+    "pipeline": "us-ut-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/UT",
+    "file": "Utah 9.svg"
+  }
+}

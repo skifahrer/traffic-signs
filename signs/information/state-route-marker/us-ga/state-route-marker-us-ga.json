@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ga",
+  "code": "SR",
+  "source": {
+    "pipeline": "us-ga-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/GA",
+    "file": "Georgia 1.svg"
+  }
+}

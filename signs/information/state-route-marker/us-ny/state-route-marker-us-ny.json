@@ -1,0 +1,11 @@
+{
+  "sign": "state-route-marker",
+  "category": "information",
+  "country": "us-ny",
+  "code": "NY",
+  "source": {
+    "pipeline": "us-ny-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/NY",
+    "file": "NY-2.svg"
+  }
+}

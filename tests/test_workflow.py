@@ -1,4 +1,4 @@
-"""The sync workflow's country dropdown must list every country pipeline."""
+"""The sync workflow's country dropdown must list every country pipeline (and bundle of regions)."""
 
 import json
 import os
@@ -8,7 +8,7 @@ from unittest import mock
 
 from pipelines.__main__ import main
 from pipelines.core import layout
-from pipelines.countries import all_sources
+from pipelines.countries import all_sources, choices
 
 WORKFLOW = os.path.join(layout.REPO_ROOT, ".github", "workflows", "sync.yml")
 
@@ -25,7 +25,7 @@ def dropdown_options() -> list[str]:
 
 class WorkflowTest(unittest.TestCase):
     def test_dropdown_lists_all_and_every_country(self):
-        expected = ["all", *sorted(all_sources())]
+        expected = ["all", *choices(all_sources())]
         self.assertEqual(
             dropdown_options(),
             expected,
@@ -33,7 +33,7 @@ class WorkflowTest(unittest.TestCase):
         )
 
     def test_matrix_lists_the_countries_to_run(self):
-        for choice, countries in (("all", sorted(all_sources())), ("sk", ["sk"])):
+        for choice, countries in (("all", choices(all_sources())), ("sk", ["sk"])):
             with self.subTest(choice=choice), mock.patch("builtins.print") as printed:
                 self.assertEqual(main([choice, "--matrix"]), 0)
                 self.assertEqual(json.loads(printed.call_args.args[0]), countries)

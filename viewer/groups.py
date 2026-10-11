@@ -8,11 +8,19 @@ Russia: Europe; Kazakhstan: Asia). Memberships as of 2026.
 
 tests/test_viewer.py checks that every country with a pipeline is on a
 continent, so a new country cannot be left out of the continent filters.
+Regions of a country (US states, "us-ca") are in their own group instead.
 """
 
 from __future__ import annotations
 
-CONTINENT, GROUP = "continent", "group"
+CONTINENT, GROUP, REGION = "continent", "group", "region"
+
+# ISO 3166-2 codes of the US states, the District of Columbia and Puerto Rico.
+US_STATES = " ".join(
+    f"us-{s}"
+    for s in "al ak az ar ca co ct de dc fl ga hi id il in ia ks ky la me md ma mi mn ms mo mt ne nv nh nj nm ny nc nd"
+    " oh ok or pa pr ri sc sd tn tx ut vt va wa wv wi wy".split()
+)
 
 _EU = "at be bg cy cz de dk ee es fi fr gr hr hu ie it lt lu lv mt nl pl pt ro se si sk"
 
@@ -48,6 +56,8 @@ GROUPS: list[dict] = [
     {"id": "arab-league", "label": "Arab League", "kind": GROUP, "members":
         "ae bh dj dz eg iq jo km kw lb ly ma mr om ps qa sa sd so sy tn ye"},
     {"id": "asean", "label": "ASEAN", "kind": GROUP, "members": "bn id kh la mm my ph sg th tl vn"},
+    # Regions of a country, compared with each other
+    {"id": "us-states", "label": "US states", "kind": REGION, "members": US_STATES},
 ]
 
 for _group in GROUPS:
