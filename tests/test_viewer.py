@@ -146,3 +146,28 @@ class SharePagesTest(SandboxTestCase):
         # A sign without an image on Commons has a preview without a picture.
         with open(os.path.join(out, "share", "warning", "bend-left", "index.html"), encoding="utf-8") as handle:
             self.assertNotIn("og:image", handle.read())
+
+
+class GroupTest(SandboxTestCase):
+    def test_every_country_with_a_pipeline_is_on_a_continent(self):
+        from pipelines.countries import all_sources
+        from viewer.groups import CONTINENT, GROUPS
+
+        on_a_continent = {c for g in GROUPS if g["kind"] == CONTINENT for c in g["members"]}
+        for country in all_sources():
+            with self.subTest(country=country):
+                self.assertIn(country, on_a_continent, "add it to its continent in viewer/groups.py")
+        for group in GROUPS:
+            with self.subTest(group=group["id"]):
+                self.assertTrue(all(len(c) == 2 and c.islower() for c in group["members"]), group["members"])
+        sizes = {g["id"]: len(g["members"]) for g in GROUPS}
+        self.assertEqual((sizes["eu"], sizes["eu-us"], sizes["nato"], sizes["five-eyes"], sizes["g7"]), (27, 28, 32, 5, 7))
+
+    def test_data_lists_each_group_with_the_countries_that_have_signs(self):
+        self.run_pipeline("--no-images")
+        groups = {g["id"]: g for g in build_index()["groups"]}
+        self.assertEqual(groups["eu"]["countries"], ["sk"])
+        self.assertEqual(groups["eu"]["members"], 27)
+        self.assertEqual(groups["visegrad"]["countries"], ["sk"])
+        self.assertEqual(groups["mercosur"]["countries"], [])  # listed, but cannot be chosen yet
+        self.assertEqual(groups["europe"]["kind"], "continent")
