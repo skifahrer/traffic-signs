@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking-odd-days",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "C44.1",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",
+    "file": "Finland road sign C44.1.svg"
+  }
+}

@@ -3,8 +3,10 @@
   "cs": "Telefon",
   "de": "Fernsprecher",
   "de-AT": "Telefonstelle",
+  "el": "Τηλέφωνο",
   "en-US": "Telephone",
   "fr": "Cabine téléphonique publique",
   "hu": "Távbeszélő állomás",
-  "pl": "telefon"
+  "pl": "telefon",
+  "ro": "Telefon"
 }

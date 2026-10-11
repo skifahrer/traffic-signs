@@ -3,8 +3,11 @@
   "cs": "Přednost před protijedoucími vozidly",
   "de": "Vorrang vor dem Gegenverkehr",
   "de-AT": "Wartepflicht für Gegenverkehr",
+  "el": "Προτεραιότητα έναντι της επερχόμενης κυκλοφορίας (σε στενότητα οδού)",
   "en-GB": "Priority over oncoming traffic",
+  "fi": "Etuajo-oikeus kohdattaessa",
   "hu": "Elsőbbség a szembejövő forgalommal szemben",
   "pl": "pierwszeństwo na zwężonym odcinku drogi",
+  "ro": "Prioritate față de vehiculele din sens invers",
   "sk": "Prednosť pred protiidúcimi vozidlami"
 }

@@ -3,12 +3,15 @@
   "cs": "Křižovatka",
   "de": "Kreuzung oder Einmündung",
   "de-AT": "Kreuzung",
+  "el": "Διασταύρωση όπου ισχύει η προτεραιότητα από δεξιά",
   "en-AU": "Crossroad intersection",
   "en-CA": "Crossroad",
   "en-GB": "Crossroads",
   "en-US": "Crossroad",
+  "fi": "Tienristeys",
   "fr": "Intersection où le conducteur est tenu de céder le passage aux véhicules débouchant de droite",
   "hu": "Egyenrangú utak kereszteződése",
   "pl": "skrzyżowanie dróg — skrzyżowanie równorzędne",
+  "ro": "Intersecție",
   "sk": "Križovatka"
 }

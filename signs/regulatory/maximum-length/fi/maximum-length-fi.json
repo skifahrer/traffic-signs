@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-length",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "C23",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",
+    "file": "Finland road sign C23-20.svg"
+  }
+}

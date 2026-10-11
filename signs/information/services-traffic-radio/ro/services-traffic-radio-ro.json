@@ -1,0 +1,11 @@
+{
+  "sign": "services-traffic-radio",
+  "category": "information",
+  "country": "ro",
+  "code": "G65",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign G65.svg"
+  }
+}

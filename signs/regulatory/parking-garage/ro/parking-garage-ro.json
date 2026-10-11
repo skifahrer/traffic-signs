@@ -1,0 +1,11 @@
+{
+  "sign": "parking-garage",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "G36",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign G36.svg"
+  }
+}

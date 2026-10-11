@@ -1,0 +1,11 @@
+{
+  "sign": "main-road-number-class-1",
+  "category": "information",
+  "country": "fi",
+  "code": "F29",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",
+    "file": "Finland road sign F29-7.svg"
+  }
+}

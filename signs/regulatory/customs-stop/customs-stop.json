@@ -1,8 +1,11 @@
 {
   "en": "Customs stop",
   "de-AT": "Halt Zoll",
+  "el": "Τελωνείο",
+  "fi": "Pakollinen pysäyttäminen tullitarkastusta varten",
   "fr": "Arrêt au poste de douane",
   "hu": "Kötelező megállás (vám, általános)",
   "pl": "stój — kontrola celna",
+  "ro": "Vamă",
   "sk": "Povinné zastavenie vozidla (CLO - ZOLL)"
 }

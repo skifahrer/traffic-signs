@@ -1,0 +1,11 @@
+{
+  "sign": "segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "D7.1",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_m%C3%A4%C3%A4r%C3%A4ysmerkeist%C3%A4",
+    "file": "Finland road sign D7.1.png"
+  }
+}

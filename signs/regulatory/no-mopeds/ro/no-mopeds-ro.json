@@ -1,0 +1,11 @@
+{
+  "sign": "no-mopeds",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C06",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C06-NoMopeds 2011.svg"
+  }
+}

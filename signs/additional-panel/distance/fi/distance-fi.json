@@ -1,0 +1,11 @@
+{
+  "sign": "distance",
+  "category": "additional-panel",
+  "country": "fi",
+  "code": "H4",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",
+    "file": "Finland road sign H4-A.svg"
+  }
+}

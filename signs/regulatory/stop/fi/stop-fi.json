@@ -1,0 +1,11 @@
+{
+  "sign": "stop",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "B6",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_etuajo-oikeus-_ja_v%C3%A4ist%C3%A4mismerkeist%C3%A4",
+    "file": "Finland road sign B6.svg"
+  }
+}

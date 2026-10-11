@@ -2,7 +2,10 @@
   "en": "End of expressway",
   "de": "Ende der Kraftfahrstraße",
   "de-AT": "Ende der Autostraße",
+  "el": "Τέλος οδού ταχείας κυκλοφορίας",
   "en-AU": "End Freeway",
+  "fi": "Moottoriliikennetie päättyy",
   "fr": "Fin de route à accès réglementé",
-  "hu": "Autóút vége"
+  "hu": "Autóút vége",
+  "ro": "Terminare Drum rapid / Drum expres"
 }

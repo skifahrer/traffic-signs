@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-zone",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C45",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C45-EndOfSpeedLimitZone-030 2011.svg"
+  }
+}

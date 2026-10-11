@@ -1,6 +1,8 @@
 {
   "en": "Services (traffic information radio)",
   "de-AT": "Verkehrsfunk (Sendername, UKW-Frequenz)",
+  "fi": "Radioaseman taajuus",
   "fr": "Informations routières",
-  "hu": "Közlekedési információkat adó rádióállomás"
+  "hu": "Közlekedési információkat adó rádióállomás",
+  "ro": "Post de radio"
 }

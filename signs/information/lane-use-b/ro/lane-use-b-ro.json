@@ -1,0 +1,11 @@
+{
+  "sign": "lane-use-b",
+  "category": "information",
+  "country": "ro",
+  "code": "F53",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign F53.svg"
+  }
+}

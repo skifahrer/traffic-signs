@@ -1,0 +1,11 @@
+{
+  "sign": "section-length",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P08",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign P08.svg"
+  }
+}

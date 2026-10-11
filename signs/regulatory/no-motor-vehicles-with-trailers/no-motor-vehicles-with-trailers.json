@@ -2,6 +2,9 @@
   "en": "No motor vehicles with trailers",
   "cs": "Zákaz vjezdu motorových vozidel s přípojným vozidlem",
   "de-AT": "Fahrverbot für Kraftfahrzeuge mit Anhänger",
+  "el": "Απαγορεύεται η είσοδος σε μηχανοκίνητο όχημα που ρυμουλκεί άλλο όχημα (πλην ημιρυμουλκούμενου)",
+  "fi": "Ajoneuvoyhdistelmällä ajo kielletty",
   "hu": "Járműszerelvénnyel behajtani tilos",
-  "pl": "zakaz wjazdu pojazdów silnikowych z przyczepą"
+  "pl": "zakaz wjazdu pojazdów silnikowych z przyczepą",
+  "ro": "Circulație interzisă pentru vehicule cu remorcă"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking-odd-even-days",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C40",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign C40.svg"
+  }
+}

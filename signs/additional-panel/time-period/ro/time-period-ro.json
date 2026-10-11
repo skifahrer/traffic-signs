@@ -1,0 +1,11 @@
+{
+  "sign": "time-period",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P03",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign P03.svg"
+  }
+}

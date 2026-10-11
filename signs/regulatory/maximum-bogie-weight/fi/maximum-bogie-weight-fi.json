@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-bogie-weight",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "C27",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",
+    "file": "Finland road sign C27-14.svg"
+  }
+}

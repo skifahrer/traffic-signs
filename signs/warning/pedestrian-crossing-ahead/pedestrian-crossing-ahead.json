@@ -2,9 +2,12 @@
   "en": "Pedestrian crossing ahead",
   "cs": "Přechod pro chodce",
   "de-AT": "Fußgängerübergang",
+  "el": "Κίνδυνος λόγω διάβασης πεζών",
   "en-CA": "Pedestrian crossing ahead",
   "en-GB": "Zebra crossing ahead",
+  "fi": "Suojatien ennakkovaroitus",
   "fr": "Passage pour piétons",
   "hu": "Gyalogos átkelés",
-  "pl": "przejście dla pieszych"
+  "pl": "przejście dla pieszych",
+  "ro": "Trecere de pietoni"
 }

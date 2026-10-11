@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C36",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign C36 (50).svg"
+  }
+}

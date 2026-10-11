@@ -1,0 +1,11 @@
+{
+  "sign": "services-first-aid",
+  "category": "information",
+  "country": "ro",
+  "code": "G10",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign G10.svg"
+  }
+}

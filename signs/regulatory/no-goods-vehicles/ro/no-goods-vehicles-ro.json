@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C07",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C07-NoTrucks 2011.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-priority-road",
+  "category": "information",
+  "country": "ro",
+  "code": "Terminare prioritate",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Terminare prioritate.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-minimum-speed",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "D15-40",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "Romania road sign D15-40.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-both-sides",
+  "category": "warning",
+  "country": "fi",
+  "code": "A4",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",
+    "file": "Finland road sign A4.svg"
+  }
+}

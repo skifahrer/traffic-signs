@@ -1,0 +1,11 @@
+{
+  "sign": "give-way",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "B1",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign B1-GiveWay 2011.svg"
+  }
+}

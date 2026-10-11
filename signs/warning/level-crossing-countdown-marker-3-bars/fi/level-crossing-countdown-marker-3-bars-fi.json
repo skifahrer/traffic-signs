@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-countdown-marker-3-bars",
+  "category": "warning",
+  "country": "fi",
+  "code": "A28.1",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_varoitusmerkeist%C3%A4",
+    "file": "Finland road sign A28.1–3.svg"
+  }
+}

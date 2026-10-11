@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), France (`fr`), Germany (`de`), Hungary (`hu`), Poland (`pl`), Slovakia (`sk`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Poland (`pl`), Romania (`ro`), Slovakia (`sk`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -29,7 +29,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), France (
 
 ## Order of pull requests
 
-1. Greece (`gr`), Romania (`ro`), Finland (`fi`)
+1. ~~Greece (`gr`), Romania (`ro`), Finland (`fi`)~~ added
 2. Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)
 3. Ireland (`ie`), Netherlands (`nl`), Belgium (`be`)
 4. Sweden (`se`), Norway (`no`), Iceland (`is`)
@@ -63,9 +63,9 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), France (
 
 | # | Country | Code | Signs on the page | Ready | Notes |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [Greece](https://en.wikipedia.org/wiki/Road_signs_in_Greece) | `gr` | 517 | ✅ ready | codes in image names |
-| 2 | [Romania](https://en.wikipedia.org/wiki/Road_signs_in_Romania) | `ro` | 488 | ✅ ready | codes in image names |
-| 3 | [Finland](https://en.wikipedia.org/wiki/Road_signs_in_Finland) | `fi` | 481 | ✅ ready | codes in image names |
+| 1 | [Greece](https://en.wikipedia.org/wiki/Road_signs_in_Greece) | `gr` | 517 | ✅ added | codes in image names |
+| 2 | [Romania](https://en.wikipedia.org/wiki/Road_signs_in_Romania) | `ro` | 488 | ✅ added | codes in image names |
+| 3 | [Finland](https://en.wikipedia.org/wiki/Road_signs_in_Finland) | `fi` | 481 | ✅ added | codes in image names |
 | 4 | [Portugal](https://en.wikipedia.org/wiki/Road_signs_in_Portugal) | `pt` | 478 | ✅ ready | codes in image names |
 | 5 | [Ukraine](https://en.wikipedia.org/wiki/Road_signs_in_Ukraine) | `ua` | 475 | ✅ ready | codes in image names |
 | 6 | [Denmark](https://en.wikipedia.org/wiki/Road_signs_in_Denmark) | `dk` | 474 | ✅ ready | codes in image names |

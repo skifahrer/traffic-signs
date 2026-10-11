@@ -1,0 +1,11 @@
+{
+  "sign": "tow-away-zone-b",
+  "category": "additional-panel",
+  "country": "ro",
+  "code": "P37",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign P37.svg"
+  }
+}

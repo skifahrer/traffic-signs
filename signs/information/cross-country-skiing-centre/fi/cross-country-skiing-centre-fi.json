@@ -1,0 +1,11 @@
+{
+  "sign": "cross-country-skiing-centre",
+  "category": "information",
+  "country": "fi",
+  "code": "G32",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_palvelukohteiden_opastusmerkeist%C3%A4",
+    "file": "Finland road sign G32.svg"
+  }
+}

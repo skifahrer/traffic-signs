@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-or-mopeds",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "C2",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_kielto-_ja_rajoitusmerkeist%C3%A4",
+    "file": "Finland road sign C2.svg"
+  }
+}

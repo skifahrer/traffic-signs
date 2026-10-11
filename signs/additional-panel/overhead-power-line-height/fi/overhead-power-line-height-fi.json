@@ -1,0 +1,11 @@
+{
+  "sign": "overhead-power-line-height",
+  "category": "additional-panel",
+  "country": "fi",
+  "code": "H8",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_lis%C3%A4kilvist%C3%A4",
+    "file": "Finland road sign H8.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C38",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C38-NoParking 2011.svg"
+  }
+}

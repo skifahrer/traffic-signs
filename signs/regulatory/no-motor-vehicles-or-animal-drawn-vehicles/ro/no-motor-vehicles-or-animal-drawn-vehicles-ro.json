@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-or-animal-drawn-vehicles",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C15",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RO road sign C15.svg"
+  }
+}

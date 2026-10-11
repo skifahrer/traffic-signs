@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles",
+  "category": "regulatory",
+  "country": "ro",
+  "code": "C03",
+  "source": {
+    "pipeline": "ro-wikipedia",
+    "page": "https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia",
+    "file": "RomanianTrafficSign C03-NoMotorVehicles 2011.svg"
+  }
+}

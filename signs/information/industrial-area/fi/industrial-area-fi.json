@@ -1,0 +1,11 @@
+{
+  "sign": "industrial-area",
+  "category": "information",
+  "country": "fi",
+  "code": "F44",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_opastusmerkeist%C3%A4",
+    "file": "Finland road sign F44.svg"
+  }
+}

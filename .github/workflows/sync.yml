@@ -21,10 +21,13 @@ on:
           - ca
           - cz
           - de
+          - fi
           - fr
           - gb
+          - gr
           - hu
           - pl
+          - ro
           - sk
           - us
         default: all

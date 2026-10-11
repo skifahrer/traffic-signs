@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-minimum-speed",
+  "category": "regulatory",
+  "country": "fi",
+  "code": "D11",
+  "source": {
+    "pipeline": "fi-wikipedia",
+    "page": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liikenteen_m%C3%A4%C3%A4r%C3%A4ysmerkeist%C3%A4",
+    "file": "Finland road sign D11-50.svg"
+  }
+}
