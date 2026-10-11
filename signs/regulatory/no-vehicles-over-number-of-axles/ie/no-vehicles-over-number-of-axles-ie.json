@@ -1,0 +1,11 @@
+{
+  "sign": "no-vehicles-over-number-of-axles",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 046",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-046.svg"
+  }
+}

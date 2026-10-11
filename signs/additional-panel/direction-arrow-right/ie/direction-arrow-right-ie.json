@@ -1,0 +1,11 @@
+{
+  "sign": "direction-arrow-right",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 003R",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-003R.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "turn-off-engine-when-stopped",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 068",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-068.svg"
+  }
+}

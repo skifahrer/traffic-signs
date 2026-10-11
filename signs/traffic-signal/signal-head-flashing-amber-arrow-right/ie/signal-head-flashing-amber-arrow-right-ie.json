@@ -1,0 +1,11 @@
+{
+  "sign": "signal-head-flashing-amber-arrow-right",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 004 (right turn)",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 004 right turn with flashing amber.png"
+  }
+}

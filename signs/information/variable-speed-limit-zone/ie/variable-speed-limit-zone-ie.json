@@ -1,0 +1,11 @@
+{
+  "sign": "variable-speed-limit-zone",
+  "category": "information",
+  "country": "ie",
+  "code": "F 402b",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-402b-B.svg"
+  }
+}

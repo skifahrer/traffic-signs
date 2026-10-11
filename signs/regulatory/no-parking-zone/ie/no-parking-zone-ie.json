@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking-zone",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "P 056",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-056 (start).svg"
+  }
+}

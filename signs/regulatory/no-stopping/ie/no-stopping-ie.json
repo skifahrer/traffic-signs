@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 010",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-010.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "two-stage-right-turn-cyclists",
+  "category": "information",
+  "country": "ie",
+  "code": "C 100",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign C-100.svg"
+  }
+}

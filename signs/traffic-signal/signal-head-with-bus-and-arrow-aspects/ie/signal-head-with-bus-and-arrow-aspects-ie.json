@@ -1,0 +1,11 @@
+{
+  "sign": "signal-head-with-bus-and-arrow-aspects",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 013",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 013 5 aspect traffic signal with bus and arrow.png"
+  }
+}

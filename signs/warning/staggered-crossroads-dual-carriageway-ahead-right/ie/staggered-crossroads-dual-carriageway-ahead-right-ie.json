@@ -1,0 +1,11 @@
+{
+  "sign": "staggered-crossroads-dual-carriageway-ahead-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 021R",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-021-R.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "contraflow-cycling-one-way-street-b",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 059B",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-059B.svg"
+  }
+}

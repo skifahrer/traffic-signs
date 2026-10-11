@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrians-cross-to-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 080",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-080.svg"
+  }
+}

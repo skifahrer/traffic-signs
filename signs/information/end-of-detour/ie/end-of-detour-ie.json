@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-detour",
+  "category": "information",
+  "country": "ie",
+  "code": "WK 092",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-092.svg"
+  }
+}

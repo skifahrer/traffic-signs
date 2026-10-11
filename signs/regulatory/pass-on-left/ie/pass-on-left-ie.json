@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-left",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 001",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-001.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "mobile-lane-closure-lane-4-of-4",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 116",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-116.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "loose-gravel",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 073",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-073.svg"
+  }
+}

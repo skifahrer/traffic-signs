@@ -1,0 +1,11 @@
+{
+  "sign": "shared-footpath-cycle-path",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 058",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-058.svg"
+  }
+}

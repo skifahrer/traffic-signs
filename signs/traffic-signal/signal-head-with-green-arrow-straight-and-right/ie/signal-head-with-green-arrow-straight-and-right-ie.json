@@ -1,0 +1,11 @@
+{
+  "sign": "signal-head-with-green-arrow-straight-and-right",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 003 (green straight and right turn 1)",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 003 4 aspect with green straight and right turn 1.png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "double-sharp-bend-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 052L",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-052-L.svg"
+  }
+}

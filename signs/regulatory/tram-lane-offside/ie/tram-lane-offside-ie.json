@@ -1,0 +1,11 @@
+{
+  "sign": "tram-lane-offside",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 037",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-037.svg"
+  }
+}

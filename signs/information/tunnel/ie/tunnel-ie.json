@@ -1,0 +1,11 @@
+{
+  "sign": "tunnel",
+  "category": "information",
+  "country": "ie",
+  "code": "W 162",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-162.svg"
+  }
+}

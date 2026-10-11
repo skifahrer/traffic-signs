@@ -1,0 +1,11 @@
+{
+  "sign": "distance-and-direction-right",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 004R",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-004R.svg"
+  }
+}

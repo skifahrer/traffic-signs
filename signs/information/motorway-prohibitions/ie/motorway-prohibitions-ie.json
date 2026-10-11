@@ -1,0 +1,11 @@
+{
+  "sign": "motorway-prohibitions",
+  "category": "information",
+  "country": "ie",
+  "code": "F 331",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-331 (EN).svg"
+  }
+}

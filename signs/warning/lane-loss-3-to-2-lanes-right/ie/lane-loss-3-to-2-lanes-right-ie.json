@@ -1,0 +1,11 @@
+{
+  "sign": "lane-loss-3-to-2-lanes-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 092R",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-092R (200).svg"
+  }
+}

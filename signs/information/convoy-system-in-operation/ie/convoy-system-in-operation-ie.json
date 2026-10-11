@@ -1,0 +1,11 @@
+{
+  "sign": "convoy-system-in-operation",
+  "category": "information",
+  "country": "ie",
+  "code": "WK 098",
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-098.svg"
+  }
+}

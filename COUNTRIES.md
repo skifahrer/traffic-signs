@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark (`dk`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark (`dk`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -31,7 +31,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 
 1. ~~Greece (`gr`), Romania (`ro`), Finland (`fi`)~~ added
 2. ~~Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)~~ added
-3. Ireland (`ie`), Netherlands (`nl`), Belgium (`be`)
+3. ~~Ireland (`ie`)~~ added, Netherlands (`nl`), Belgium (`be`)
 4. Sweden (`se`), Norway (`no`), Iceland (`is`)
 5. Russia (`ru`), Latvia (`lv`), Lithuania (`lt`)
 6. Croatia (`hr`), Moldova (`md`), Belarus (`by`)
@@ -57,7 +57,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 26. United Arab Emirates (`ae`), Uganda (`ug`), Oman (`om`)
 27. Iran (`ir`), Saudi Arabia (`sa`), Kuwait (`kw`)
 28. Mauritius (`mu`)
-29. Later, once a source is found: Brazil (`br`)
+29. Later, once a source is found: Brazil (`br`), Luxembourg (`lu`)
 
 ## Europe
 
@@ -69,7 +69,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 | 4 | [Portugal](https://en.wikipedia.org/wiki/Road_signs_in_Portugal) | `pt` | 478 | ✅ added | codes in image names |
 | 5 | [Ukraine](https://en.wikipedia.org/wiki/Road_signs_in_Ukraine) | `ua` | 475 | ✅ added | codes in image names |
 | 6 | [Denmark](https://en.wikipedia.org/wiki/Road_signs_in_Denmark) | `dk` | 474 | ✅ added | codes in image names |
-| 7 | [Ireland](https://en.wikipedia.org/wiki/Road_signs_in_Ireland) | `ie` | 465 | ✅ ready | codes in captions |
+| 7 | [Ireland](https://en.wikipedia.org/wiki/Road_signs_in_Ireland) | `ie` | 465 | ✅ added | codes in captions |
 | 8 | [Netherlands](https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands) | `nl` | 450 | ✅ ready | codes in captions |
 | 9 | [Belgium](https://en.wikipedia.org/wiki/Road_signs_in_Belgium) | `be` | 427 | ✅ ready | codes in image names |
 | 10 | [Sweden](https://en.wikipedia.org/wiki/Road_signs_in_Sweden) | `se` | 422 | ✅ ready | codes in image names |
@@ -98,6 +98,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 | 33 | [Cyprus](https://en.wikipedia.org/wiki/Road_signs_in_Cyprus) | `cy` | 186 | ⚠️ needs work | codes for part of the signs; check the local Wikipedia |
 | 34 | [Albania](https://en.wikipedia.org/wiki/Road_signs_in_Albania) | `al` | 165 | ⚠️ needs work | few codes: names from captions, codes via corrections or the local Wikipedia |
 | 35 | [Malta](https://en.wikipedia.org/wiki/Road_signs_in_Malta) | `mt` | 88 | ⚠️ needs work | codes for part of the signs; check the local Wikipedia |
+| 36 | Luxembourg | `lu` | 0 | ❌ no gallery | no English “Road signs in Luxembourg” page: look for a list on the French, German or Luxembourgish Wikipedia |
 
 ## Americas
 
