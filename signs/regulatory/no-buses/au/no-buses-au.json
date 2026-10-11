@@ -1,0 +1,11 @@
+{
+  "sign": "no-buses",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R6-10-1",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R6-10-1.svg"
+  }
+}

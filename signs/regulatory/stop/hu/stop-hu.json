@@ -1,0 +1,11 @@
+{
+  "sign": "stop",
+  "category": "regulatory",
+  "country": "hu",
+  "code": "B-002",
+  "source": {
+    "pipeline": "hu-wikipedia",
+    "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",
+    "file": "Hungary road sign B-002.svg"
+  }
+}

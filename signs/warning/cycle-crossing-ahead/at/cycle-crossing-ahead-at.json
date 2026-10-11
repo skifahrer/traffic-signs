@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-crossing-ahead",
+  "category": "warning",
+  "country": "at",
+  "code": "§50 Z11a",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Gefahrenzeichen 11a.svg"
+  }
+}

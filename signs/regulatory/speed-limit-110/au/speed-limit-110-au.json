@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit-110",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R4-1 (110)",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R4-1 (110).svg"
+  }
+}

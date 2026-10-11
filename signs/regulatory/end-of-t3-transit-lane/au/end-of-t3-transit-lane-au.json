@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-t3-transit-lane",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R7-9-2",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R7-9-2.svg"
+  }
+}

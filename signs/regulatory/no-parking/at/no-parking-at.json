@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking",
+  "category": "regulatory",
+  "country": "at",
+  "code": "§52 Z13a",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Vorschriftszeichen 13a.svg"
+  }
+}

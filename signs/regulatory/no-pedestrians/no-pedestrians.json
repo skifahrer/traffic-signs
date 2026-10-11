@@ -2,9 +2,12 @@
   "en": "No entry for pedestrians",
   "cs": "Zákaz vstupu chodců",
   "de": "Verbot für Fußgänger",
+  "de-AT": "Verbot für Fußgänger",
+  "en-AU": "No Pedestrians",
   "en-GB": "No entry for pedestrians",
   "en-US": "No pedestrians",
   "fr": "Accès interdit aux piétons",
+  "hu": "Gyalogosok közlekedése tilos",
   "pl": "zakaz ruchu pieszych",
   "sk": "Zákaz vstupu pre (chodcov)"
 }

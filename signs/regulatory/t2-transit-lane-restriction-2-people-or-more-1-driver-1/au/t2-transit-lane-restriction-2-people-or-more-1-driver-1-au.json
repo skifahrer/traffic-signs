@@ -1,0 +1,11 @@
+{
+  "sign": "t2-transit-lane-restriction-2-people-or-more-1-driver-1",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R7-7-3",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R7-7-3.svg"
+  }
+}

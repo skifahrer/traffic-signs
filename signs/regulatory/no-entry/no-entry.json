@@ -2,10 +2,13 @@
   "en": "No entry",
   "cs": "Zákaz vjezdu všech vozidel",
   "de": "Verbot der Einfahrt",
+  "de-AT": "Einfahrt verboten",
+  "en-AU": "No Entry (standard version; except New South Wales)",
   "en-CA": "No entry",
   "en-GB": "No entry",
   "en-US": "Do not enter",
   "fr": "Sens interdit à tout véhicule",
+  "hu": "Behajtani tilos",
   "pl": "zakaz wjazdu",
   "sk": "Zákaz vjazdu"
 }

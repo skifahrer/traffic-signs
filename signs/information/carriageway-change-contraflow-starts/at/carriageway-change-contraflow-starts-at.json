@@ -1,0 +1,11 @@
+{
+  "sign": "carriageway-change-contraflow-starts",
+  "category": "information",
+  "country": "at",
+  "code": "§53 Z16c-a",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Hinweiszeichen 16c-a.svg"
+  }
+}

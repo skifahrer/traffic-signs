@@ -1,6 +1,8 @@
 {
   "en": "Maximum width",
   "cs": "Zákaz vjezdu vozidel, jejichž šířka přesahuje vyznačenou mez",
+  "de-AT": "Fahrverbot für über … Meter breite Fahrzeuge",
   "en-GB": "Maximum width",
-  "fr": "Accès interdit aux véhicules dont la largeur est supérieure au nombre indiqué"
+  "fr": "Accès interdit aux véhicules dont la largeur est supérieure au nombre indiqué",
+  "hu": "Szélességkorlátozás"
 }

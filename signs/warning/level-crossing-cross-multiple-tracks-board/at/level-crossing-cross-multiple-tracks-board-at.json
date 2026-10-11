@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-multiple-tracks-board",
+  "category": "warning",
+  "country": "at",
+  "code": "§50 Z6d (doppelt Tafel)",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Gefahrenzeichen 6d doppelt Tafel.svg"
+  }
+}

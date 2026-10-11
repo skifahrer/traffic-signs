@@ -102,11 +102,14 @@ python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
 
 | Country | Signs | Source | Pipeline |
 | --- | --- | --- | --- |
+| Australia (`au`) | 285 | [Road signs in Australia](https://en.wikipedia.org/wiki/Road_signs_in_Australia) (English Wikipedia, national AS 1742 signs only) | [`pipelines/countries/au`](pipelines/countries/au) |
+| Austria (`at`) | 201 | [Bildtafel der Verkehrszeichen in Österreich](https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich) (German Wikipedia, StVO §§ 50–54) | [`pipelines/countries/at`](pipelines/countries/at) |
 | Canada (`ca`) | 65 | [Road signs in Canada](https://en.wikipedia.org/wiki/Road_signs_in_Canada) (English Wikipedia, national MUTCDC examples only) | [`pipelines/countries/ca`](pipelines/countries/ca) |
 | Czechia (`cz`) | 368 | [Seznam dopravních značek v Česku](https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku) (Czech Wikipedia, vyhláška 294/2015 Sb.) | [`pipelines/countries/cz`](pipelines/countries/cz) |
 | France (`fr`) | 252 | [Panneau de signalisation routière de danger en France](https://fr.wikipedia.org/wiki/Panneau_de_signalisation_routi%C3%A8re_de_danger_en_France) and the other family articles and lists (French Wikipedia) | [`pipelines/countries/fr`](pipelines/countries/fr) |
 | Germany (`de`) | 969 | [Bildtafel der Verkehrszeichen in der Bundesrepublik Deutschland seit 2017](https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017) (German Wikipedia, VwV-StVO) | [`pipelines/countries/de`](pipelines/countries/de) |
 | Great Britain (`gb`) | 280 | [Road signs in the United Kingdom](https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom) (English Wikipedia, TSRGD diagram numbers) | [`pipelines/countries/gb`](pipelines/countries/gb) |
+| Hungary (`hu`) | 379 | [Útjelző táblák Magyarországon](https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon) (Hungarian Wikipedia, KRESZ) | [`pipelines/countries/hu`](pipelines/countries/hu) |
 | Poland (`pl`) | 404 | [Wzory znaków i sygnałów drogowych w Polsce](https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce) (Polish Wikipedia) | [`pipelines/countries/pl`](pipelines/countries/pl) |
 | Slovakia (`sk`) | 837 | [Zoznam dopravných značiek na Slovensku](https://sk.wikipedia.org/wiki/Zoznam_dopravn%C3%BDch_zna%C4%8Diek_na_Slovensku) (Slovak Wikipedia, VL 6.1 / 6.3 / 6.4) | [`pipelines/countries/sk`](pipelines/countries/sk) |
 | United States (`us`) | 1,132 | [Road signs in the United States](https://en.wikipedia.org/wiki/Road_signs_in_the_United_States) (English Wikipedia, MUTCD) | [`pipelines/countries/us`](pipelines/countries/us) |
@@ -246,6 +249,7 @@ pipelines/
    | Every caption starts with a word that is not part of the code | `code_prefix=r"(?:Zusatzzeichen\|Zeichen) "` on `gallery()`/`wikitable()` stores `Zeichen 101` as `101` |
    | Captions with a dot, dash or slash after the code | read as they are: `A1a - Virage à droite`, `B0. Circulation interdite`, `RA-9A/Cross other side` |
    | The page also shows older or regional signs | `parsers.between(parser, start=r"^==\s*Categorisation", end=r"^===\s*Obsolete")` reads only that part of the page |
+   | Variants share a code in their captions, files are named after the sign | `parsers.named_files(r"MUTCD (?P<code>.+)\.svg", caption_code=r"[A-Z]+\d\S*\s+")`: the code from the gallery image's name, the name from its caption |
    | Captions without codes, but files named after the sign | `parsers.files(r"UK traffic sign (?P<code>.+)\.svg")` takes the code from every matching image on the page |
    | Captions without (usable) local names | `local_names="translations"`: names come from the `name_<language>` column of `translations.csv` |
    | An English-speaking country | `language="en", names_key="en-GB"`: `translations.csv` has `name_en`, the English name every country with the sign shares, and `name_en-GB`, the country's own wording |

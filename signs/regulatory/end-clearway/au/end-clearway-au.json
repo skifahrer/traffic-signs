@@ -1,0 +1,11 @@
+{
+  "sign": "end-clearway",
+  "category": "regulatory",
+  "country": "au",
+  "code": "R5-51",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R5-51.svg"
+  }
+}

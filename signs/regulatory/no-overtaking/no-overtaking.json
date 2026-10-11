@@ -2,9 +2,12 @@
   "en": "No overtaking",
   "cs": "Zákaz předjíždění",
   "de": "Überholverbot für Kraftfahrzeuge aller Art",
+  "de-AT": "Überholen von mehrspurigen KFZ verboten",
+  "en-AU": "No Overtaking or Passing (used at bottlenecks)",
   "en-GB": "No overtaking",
   "en-US": "Do not pass",
   "fr": "Interdiction de dépasser",
+  "hu": "Előzni tilos",
   "pl": "zakaz wyprzedzania",
   "sk": "Zákaz predchádzania"
 }

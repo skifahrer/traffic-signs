@@ -1,0 +1,11 @@
+{
+  "sign": "roadworks-regulatory",
+  "category": "warning",
+  "country": "au",
+  "code": "R4-3",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R4-3.svg"
+  }
+}

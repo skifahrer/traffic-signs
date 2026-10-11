@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-shared-space-zone",
+  "category": "information",
+  "country": "au",
+  "code": "R4-5",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R4-5.svg"
+  }
+}

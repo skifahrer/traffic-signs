@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-or-mopeds",
+  "category": "regulatory",
+  "country": "at",
+  "code": "§52 Z6c",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Vorschriftszeichen 6c.svg"
+  }
+}

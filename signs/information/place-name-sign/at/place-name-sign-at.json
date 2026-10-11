@@ -1,0 +1,11 @@
+{
+  "sign": "place-name-sign",
+  "category": "information",
+  "country": "at",
+  "code": "§53 Z17a",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Austria, Hinweiszeichen 17a (2010).svg"
+  }
+}

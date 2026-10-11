@@ -1,6 +1,8 @@
 {
   "en": "Maximum height",
   "cs": "Zákaz vjezdu vozidel, jejichž výška přesahuje vyznačenou mez",
+  "de-AT": "Fahrverbot für über … Meter hohe Fahrzeuge",
   "en-GB": "Maximum height",
-  "fr": "Accès interdit aux véhicules dont la hauteur est supérieure au nombre indiqué"
+  "fr": "Accès interdit aux véhicules dont la hauteur est supérieure au nombre indiqué",
+  "hu": "Magasságkorlátozás"
 }

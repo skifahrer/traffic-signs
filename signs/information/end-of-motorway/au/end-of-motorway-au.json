@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-motorway",
+  "category": "information",
+  "country": "au",
+  "code": "R6-21 (motorway)",
+  "source": {
+    "pipeline": "au-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Australia",
+    "file": "Australia road sign R6-21 (motorway).svg"
+  }
+}

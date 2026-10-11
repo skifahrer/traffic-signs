@@ -2,7 +2,9 @@
   "en": "Mandatory direction (left or right)",
   "cs": "Přikázaný směr jízdy vpravo a vlevo",
   "de": "Vorgeschriebene Fahrtrichtung – rechts oder links",
+  "de-AT": "Vorgeschriebene Fahrtrichtung: Links oder rechts abbiegen",
   "fr": "Directions obligatoires à la prochaine intersection : à droite ou à gauche",
+  "hu": "Kötelező haladási irány (balra és jobbra)",
   "pl": "nakaz jazdy w prawo lub w lewo",
   "sk": "Prikázaný smer jazdy (vľavo alebo vpravo)"
 }

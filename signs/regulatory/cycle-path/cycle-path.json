@@ -2,8 +2,11 @@
   "en": "Cycle path",
   "cs": "Stezka pro cyklisty",
   "de": "Radweg",
+  "de-AT": "Radweg",
+  "en-AU": "Bicycles Only",
   "en-GB": "Route for cyclists only",
   "fr": "Piste ou bande obligatoire pour les cycles",
+  "hu": "Kerékpárút",
   "pl": "droga dla rowerów",
   "sk": "Cyklistická komunikácia"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "bicycling-traffic-from-the-left-in-a-diagonal-direction",
+  "category": "additional-panel",
+  "country": "hu",
+  "code": "H-123",
+  "source": {
+    "pipeline": "hu-wikipedia",
+    "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",
+    "file": "Hungary road sign H-123.svg"
+  }
+}

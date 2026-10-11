@@ -2,9 +2,12 @@
   "en": "Slippery road",
   "cs": "Nebezpečí smyku",
   "de": "Schleuder- oder Rutschgefahr",
+  "de-AT": "Schleudergefahr",
+  "en-AU": "Slippery Road when wet",
   "en-GB": "Slippery road",
   "en-US": "Slippery when wet ahead",
   "fr": "Chaussée glissante",
+  "hu": "Csúszós úttest",
   "pl": "śliska jezdnia",
   "sk": "Nebezpečenstvo šmyku"
 }

@@ -1,0 +1,11 @@
+{
+  "sign": "vehicles-will-be-towed",
+  "category": "additional-panel",
+  "country": "at",
+  "code": "§54 j",
+  "source": {
+    "pipeline": "at-wikipedia",
+    "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich",
+    "file": "Zusatztafel j.svg"
+  }
+}
