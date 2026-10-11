@@ -1,10 +1,10 @@
 {
-  "sign": "state-route-marker-2-digits",
+  "sign": "state-route-marker",
   "category": "information",
   "country": "us",
   "code": "M1-5",
   "image": {
-    "file": "state-route-marker-2-digits-us.svg",
+    "file": "state-route-marker-us.svg",
     "sha1": "80b5a8356eeee211d55d5ed33f634789000968d0",
     "source": "https://commons.wikimedia.org/wiki/File:MUTCD_M1-5.svg",
     "author": "Federal Highway Administration - MUTCD",

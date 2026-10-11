@@ -804,7 +804,7 @@ M1-2,information,off-interstate-business-route-marker-loop-2-digits,Off intersta
 M1-3,information,off-interstate-business-route-marker-spur-2-digits,Off interstate business route marker (spur) (2 digits),Off interstate business route marker (spur) (2 digits)
 M1-4 (2 digits),information,us-route-marker-2-digits,US route marker (2 digits),US route marker (2 digits)
 M1-4 (3 digits),information,us-route-marker-3-digits,US route marker (3 digits),US route marker (3 digits)
-M1-5,information,state-route-marker-2-digits,State Route Marker (2 digits),State Route Marker (2 digits)
+M1-5,information,state-route-marker,State route marker,State Route Marker (2 digits)
 M1-7,information,forest-route,Forest Route,Forest Route
 M1-8,information,state-or-local-bicycle-route,State or local Bicycle Route,State or local Bicycle Route
 M1-8a,information,state-or-local-bicycle-route-m1-8a,State or local Bicycle route,State or local Bicycle route
