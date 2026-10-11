@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-103",
+  "image": {
+    "file": "direction-of-movement-of-pedestrians-right-hu.svg",
+    "sha1": "68dcab1e440f7cb589fde75a408ec2eda2000b05",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-103.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

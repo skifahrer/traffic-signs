@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-074",
+  "image": {
+    "file": "for-camper-vans-hu.svg",
+    "sha1": "ad1730dfded1eed32e680c74d6c032c8951ae409",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-074.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

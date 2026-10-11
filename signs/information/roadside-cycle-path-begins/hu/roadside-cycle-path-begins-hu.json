@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-050",
+  "image": {
+    "file": "roadside-cycle-path-begins-hu.svg",
+    "sha1": "d561ad4c44c27534b768dbccc505e641db85ee8f",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-050.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

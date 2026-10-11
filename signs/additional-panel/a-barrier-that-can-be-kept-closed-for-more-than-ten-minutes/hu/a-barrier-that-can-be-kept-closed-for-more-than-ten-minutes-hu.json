@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-052",
+  "image": {
+    "file": "a-barrier-that-can-be-kept-closed-for-more-than-ten-minutes-hu.svg",
+    "sha1": "15be576f0716db2996886904123e339b4b3a6fda",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-052.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

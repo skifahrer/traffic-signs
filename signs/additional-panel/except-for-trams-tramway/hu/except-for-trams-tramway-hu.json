@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-091",
+  "image": {
+    "file": "except-for-trams-tramway-hu.svg",
+    "sha1": "aad4ca847af58257fee1598786654e92cdec6c8d",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-091.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

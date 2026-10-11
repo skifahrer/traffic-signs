@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-011",
+  "image": {
+    "file": "stop-right-of-way-is-mandatory-in-300m-hu.svg",
+    "sha1": "59969f945106296372b41f98c44d53ec3f8e2ace",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-011.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

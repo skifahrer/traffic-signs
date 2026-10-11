@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-016",
+  "image": {
+    "file": "motorway-hu.svg",
+    "sha1": "78691abbb8203565a762c2b16ed6d3a675759824",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-016.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

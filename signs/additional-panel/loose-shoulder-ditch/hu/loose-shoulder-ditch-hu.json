@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-030",
+  "image": {
+    "file": "loose-shoulder-ditch-hu.svg",
+    "sha1": "5dfeec366c5479672d64f615b14e92f74c5bc17d",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-030.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

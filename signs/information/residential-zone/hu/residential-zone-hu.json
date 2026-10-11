@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-043",
+  "image": {
+    "file": "residential-zone-hu.svg",
+    "sha1": "81171c97513834dbc5214fd8a7e33b92a7ff1e1d",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-043.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

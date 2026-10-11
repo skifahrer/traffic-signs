@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-032",
+  "image": {
+    "file": "pedestrian-zone-hu.svg",
+    "sha1": "1845677dad21145fc358ce1563ba15a6dbfa4509",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-032.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

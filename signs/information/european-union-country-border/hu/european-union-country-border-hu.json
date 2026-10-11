@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "G-205",
+  "image": {
+    "file": "european-union-country-border-hu.svg",
+    "sha1": "25fe7d9c830efea754a048b4a2285466a72b299d",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-205.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

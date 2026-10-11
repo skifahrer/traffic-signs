@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-077",
+  "image": {
+    "file": "ro-la-transportation-of-trucks-by-rail-hu.svg",
+    "sha1": "5e8829cf4f131eabcfa1bcabb0e284137e93facf",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-077.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

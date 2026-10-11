@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "G-301",
+  "image": {
+    "file": "dead-end-hu.svg",
+    "sha1": "afa9895cd78e50cbf635cae84e533c1f31bae932",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-301.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

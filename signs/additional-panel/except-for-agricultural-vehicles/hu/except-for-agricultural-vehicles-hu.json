@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-090",
+  "image": {
+    "file": "except-for-agricultural-vehicles-hu.svg",
+    "sha1": "40b09b8158646fde70890ad0d56525b65cd0b77a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-090.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

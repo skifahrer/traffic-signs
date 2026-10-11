@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-009",
+  "image": {
+    "file": "services-tent-camp-hu.svg",
+    "sha1": "8177f02e9a77582a418008271935c7d4bd3738cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-009.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

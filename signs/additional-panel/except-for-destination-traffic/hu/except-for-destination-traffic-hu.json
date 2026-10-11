@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-080",
+  "image": {
+    "file": "except-for-destination-traffic-hu.svg",
+    "sha1": "c70a26236c1efa58a98e15f465af8e19be67d46a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-080.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

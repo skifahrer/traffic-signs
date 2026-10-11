@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "G-653",
+  "image": {
+    "file": "distance-till-cities-with-special-signs-for-border-crossings-hu.svg",
+    "sha1": "2d7d74648261218ee43213422bfdaeb89e565be8",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-653.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

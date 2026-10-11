@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "E-054",
+  "image": {
+    "file": "disabled-parking-place-hu.svg",
+    "sha1": "2bf8368ddc3a29d0a10d1f80945d5aa04e38ca03",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-054.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

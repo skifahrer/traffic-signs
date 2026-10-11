@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-005",
+  "image": {
+    "file": "curved-main-road-90-left-h-005-hu.svg",
+    "sha1": "67ba192ba2286b1545353272328097be5be48aa2",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-005.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-018",
+  "image": {
+    "file": "fallen-rocks-left-hu.svg",
+    "sha1": "052225f7dcc7b933e3f6ac6fbd5db5c041b1f8e1",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-018.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

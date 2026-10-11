@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "E-019",
+  "image": {
+    "file": "end-of-expressway-hu.svg",
+    "sha1": "ceb6ab1a8cb11bf637d163948476c8667ed6fb25",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-019.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

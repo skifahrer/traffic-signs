@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-051",
+  "image": {
+    "file": "place-clock-in-dashboard-in-case-you-can-only-park-for-one-hu.svg",
+    "sha1": "ac87b46004f3d33ace46460e19f18cd8c93970ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-051.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

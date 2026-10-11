@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-004",
+  "image": {
+    "file": "services-filling-station-hu.svg",
+    "sha1": "810b3ca68606611c6b70204acc1bcea2f27f7312",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-004.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

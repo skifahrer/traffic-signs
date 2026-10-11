@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-016",
+  "image": {
+    "file": "period-of-time-in-hours-hu.svg",
+    "sha1": "8d66b7587cfa3be31055d9e3159d125eff86294a",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-016.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-024",
+  "image": {
+    "file": "a-tree-extending-into-a-hollow-section-hu.svg",
+    "sha1": "bda35be491e683edee37c8889f092f430632589e",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-024.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

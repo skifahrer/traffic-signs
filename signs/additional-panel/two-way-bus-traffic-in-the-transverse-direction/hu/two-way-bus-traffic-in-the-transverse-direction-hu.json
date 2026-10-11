@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-118",
+  "image": {
+    "file": "two-way-bus-traffic-in-the-transverse-direction-hu.svg",
+    "sha1": "dd85625435af3753acf570d08d951eed5654c432",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-118.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

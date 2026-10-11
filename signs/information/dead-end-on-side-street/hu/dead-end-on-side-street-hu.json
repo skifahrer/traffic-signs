@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "G-312",
+  "image": {
+    "file": "dead-end-on-side-street-hu.svg",
+    "sha1": "9eb7bd40e18831b045d9081a3204640ae8ab1909",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-312.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

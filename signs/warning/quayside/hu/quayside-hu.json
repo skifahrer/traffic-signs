@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-011",
+  "image": {
+    "file": "quayside-hu.svg",
+    "sha1": "f8242a85fd7639ba1a03f443534b3799f7c7510c",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-011.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

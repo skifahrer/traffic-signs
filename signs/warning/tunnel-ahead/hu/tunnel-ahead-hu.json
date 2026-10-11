@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hu",
   "code": "A-055",
+  "image": {
+    "file": "tunnel-ahead-hu.svg",
+    "sha1": "78d835d20ee3a79794ad112dd607abb6680363c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_tunnel.svg",
+    "author": "Byankuren",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

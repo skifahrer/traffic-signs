@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hu",
   "code": "F-029",
+  "image": {
+    "file": "movable-bridge-or-ferry-hu.svg",
+    "sha1": "2dbe9276d05c1c51306341ad7eb46a05cde78873",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-029.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

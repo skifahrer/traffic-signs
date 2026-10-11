@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-109",
+  "image": {
+    "file": "stopping-waiting-on-the-bench-is-prohibited-hu.svg",
+    "sha1": "ae56d144db0b5bc80b138f0d1f9d8684d3b67f40",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-109.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

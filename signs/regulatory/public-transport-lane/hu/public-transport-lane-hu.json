@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "E-006",
+  "image": {
+    "file": "public-transport-lane-hu.svg",
+    "sha1": "0c78c65e7026f9f0dfa3278ae1d0df2159bd94d0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-006.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-026",
+  "image": {
+    "file": "in-case-of-snowfall-hu.svg",
+    "sha1": "5192ab302b28288f4dab98a9c896357bd0f7930b",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-026.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

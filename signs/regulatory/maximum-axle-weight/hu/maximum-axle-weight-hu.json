@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "C-024",
+  "image": {
+    "file": "maximum-axle-weight-hu.svg",
+    "sha1": "0cfebb0346afbefb956f4df0640329a133dcd199",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-024.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

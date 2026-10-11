@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hu",
   "code": "C-045",
+  "image": {
+    "file": "end-of-no-overtaking-hu.svg",
+    "sha1": "104fcee6b162434f648a224e92ffc99022f2c95e",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-045.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

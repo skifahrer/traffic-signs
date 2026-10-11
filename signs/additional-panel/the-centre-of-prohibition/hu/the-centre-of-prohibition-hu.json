@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-057",
+  "image": {
+    "file": "the-centre-of-prohibition-hu.svg",
+    "sha1": "c03d3d4ef6ded5e4f0c76b27918fb6042b3da981",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-057.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",

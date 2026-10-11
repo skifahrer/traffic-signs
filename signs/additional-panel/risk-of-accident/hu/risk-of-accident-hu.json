@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hu",
   "code": "H-034",
+  "image": {
+    "file": "risk-of-accident-hu.svg",
+    "sha1": "b9e08b96183af543027c169995d8e6c551f6d194",
+    "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-034.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hu-wikipedia",
     "page": "https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon",
