@@ -3,9 +3,17 @@
   "category": "information",
   "country": "us-vt",
   "code": "VT",
+  "image": {
+    "file": "state-route-marker-us-vt.svg",
+    "sha1": "42d88f4158aafd72f612a044ad9ee8afb7a9eede",
+    "source": "https://commons.wikimedia.org/wiki/File:Vermont_100.svg",
+    "author": "SPUI",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "us-vt-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Module%3ARoad_data/strings/USA/VT",
-    "file": "Vermont 2.svg"
+    "file": "Vermont 100.svg"
   }
 }
