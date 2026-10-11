@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "618.4",
+  "image": {
+    "file": "end-of-pedestrian-zone-gb.svg",
+    "sha1": "3f9ae160e7e365d05b5023d11a7a83c7f0e859e8",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_618.4.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "956",
+  "image": {
+    "file": "shared-footpath-cycle-path-gb.svg",
+    "sha1": "0bd1cb50453b1988f0cc545ba077f8d4a02a4453",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_956.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

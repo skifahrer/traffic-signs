@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "625.1",
+  "image": {
+    "file": "no-pedestrians-gb.svg",
+    "sha1": "fab02af6ec59e2aaad049ad9aaaefa05337dd3bd",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_625.1.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

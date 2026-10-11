@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "563V5",
+  "image": {
+    "file": "dust-cloud-gb.svg",
+    "sha1": "cc2c3e23205e4925f3f78f231d85495a60a4bc66",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_563V5.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

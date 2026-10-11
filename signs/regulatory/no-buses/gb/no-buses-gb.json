@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "952",
+  "image": {
+    "file": "no-buses-gb.svg",
+    "sha1": "b66b040797eacef1b7fb1bbdf3ecfdca927ddb4a",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_952.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

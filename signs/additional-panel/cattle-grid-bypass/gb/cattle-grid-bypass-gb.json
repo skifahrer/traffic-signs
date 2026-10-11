@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "553",
+  "image": {
+    "file": "cattle-grid-bypass-gb.svg",
+    "sha1": "300c98afc0d8a3cca200769a46e2983376c4be77",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_553.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

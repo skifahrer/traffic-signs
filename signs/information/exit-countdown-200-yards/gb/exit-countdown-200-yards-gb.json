@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "824-G-L",
+  "image": {
+    "file": "exit-countdown-200-yards-gb.svg",
+    "sha1": "de01558dcc88ffde57906e7671701c553fed8f70",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_824-G-L.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

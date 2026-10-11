@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "563",
+  "image": {
+    "file": "accident-panel-gb.svg",
+    "sha1": "d7f434f0ce0a30558f2409da761991019dea9aa2",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_563.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

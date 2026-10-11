@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "530A",
+  "image": {
+    "file": "low-bridge-ahead-gb.svg",
+    "sha1": "c01c4635bff9d5916c8bc68a5a07be9308342627",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_530A.svg",
+    "author": "Government of the United Kingdom",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

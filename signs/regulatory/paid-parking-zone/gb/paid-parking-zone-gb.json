@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "663",
+  "image": {
+    "file": "paid-parking-zone-gb.svg",
+    "sha1": "51570708dce9f76493eecdb1dca0c1e8eee18269",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_663.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

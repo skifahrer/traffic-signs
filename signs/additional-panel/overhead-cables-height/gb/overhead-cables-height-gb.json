@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "780A",
+  "image": {
+    "file": "overhead-cables-height-gb.svg",
+    "sha1": "88e4ba850cac7f7833149d5488f2484097ec3489",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_780A.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

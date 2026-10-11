@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "783 (variant 1)",
+  "image": {
+    "file": "level-crossing-phone-large-vehicles-gb.svg",
+    "sha1": "643753a3a06dee056cac06bce427606d89e3771a",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_783_(variant_1).svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

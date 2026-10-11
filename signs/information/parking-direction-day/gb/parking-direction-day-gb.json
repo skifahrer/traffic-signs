@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "2507",
+  "image": {
+    "file": "parking-direction-day-gb.svg",
+    "sha1": "bf92f8f7fd8abf32e83f98940552160e86c2f951",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_2507.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

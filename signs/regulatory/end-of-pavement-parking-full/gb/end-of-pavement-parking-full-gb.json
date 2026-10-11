@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "668.2",
+  "image": {
+    "file": "end-of-pavement-parking-full-gb.svg",
+    "sha1": "de918dd1f9bf7242f554f95646f18de8d7a18000",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_668.2.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

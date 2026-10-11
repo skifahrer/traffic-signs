@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "810-L",
+  "image": {
+    "file": "one-way-road-left-gb.svg",
+    "sha1": "4795aecbb75ab4068a88fb28f0e80a7b8f303919",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_810%E2%80%93L.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

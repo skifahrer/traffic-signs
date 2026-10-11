@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "529.1",
+  "image": {
+    "file": "tunnel-ahead-gb.svg",
+    "sha1": "8e9b52123eb531fea95182f87c7967ae449db749",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_529.1.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

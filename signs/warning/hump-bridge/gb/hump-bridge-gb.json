@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "528",
+  "image": {
+    "file": "hump-bridge-gb.svg",
+    "sha1": "27cf740c3daf426463e090d2d7debd6ca5040248",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_528.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "562",
+  "image": {
+    "file": "danger-gb.svg",
+    "sha1": "82cfd88e6a4dc5f4ad556a9a2351674cad0048ae",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_562.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

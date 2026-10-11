@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "512.3 (right)",
+  "image": {
+    "file": "crossroads-on-bend-gb.svg",
+    "sha1": "3b1da005003a1e2fcbf475c9bd3db9846fa515c9",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_512.3_(right).svg",
+    "author": "Delta 51 (vector drawing based on [1] by Department for Transport)",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "629.1 (variant 2)",
+  "image": {
+    "file": "maximum-length-gb.svg",
+    "sha1": "76a6f01cd2725ddc5b9eaedeace74b2aa3190d3a",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_629.1_(variant_2).svg",
+    "author": "Fry1989 eh?",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

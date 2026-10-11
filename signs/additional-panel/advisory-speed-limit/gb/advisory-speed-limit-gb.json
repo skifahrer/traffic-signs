@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "513.2–V30",
+  "image": {
+    "file": "advisory-speed-limit-gb.svg",
+    "sha1": "4e2caf7d0c3f04616322fe8b3e6a40b2f40c0d35",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_513.2%E2%80%93V30.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

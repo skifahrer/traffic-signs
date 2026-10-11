@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "550",
+  "image": {
+    "file": "wild-horses-or-ponies-gb.svg",
+    "sha1": "ab106847fc13a9d8bd6fee2f0cd79f8b5088790f",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_550.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

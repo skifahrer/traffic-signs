@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "513 (left)",
+  "image": {
+    "file": "double-bend-left-gb.svg",
+    "sha1": "d14f893bb59cf0f0a2ee2f912cebd0cd74234fca",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_513_(left).svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

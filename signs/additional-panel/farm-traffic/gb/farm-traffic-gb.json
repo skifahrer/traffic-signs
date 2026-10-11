@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "553.2",
+  "image": {
+    "file": "farm-traffic-gb.svg",
+    "sha1": "8a7a5424e3ddc54578e54bd3f90876539962748f",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_553.2.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

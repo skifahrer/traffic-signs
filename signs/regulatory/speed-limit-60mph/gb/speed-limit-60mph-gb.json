@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "670V60",
+  "image": {
+    "file": "speed-limit-60mph-gb.svg",
+    "sha1": "adfb7bc40b3b3f33c5d6c1a20d9030bc6b713440",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_670V60.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

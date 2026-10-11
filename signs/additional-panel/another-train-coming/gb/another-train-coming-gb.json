@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "777 (variant 1)",
+  "image": {
+    "file": "another-train-coming-gb.svg",
+    "sha1": "1a5b286954529567ae9b395c5af97e15eb076e0e",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_777_(variant_1).svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

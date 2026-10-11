@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "526",
+  "image": {
+    "file": "low-gear-for-climb-gb.svg",
+    "sha1": "d3c0060395876267430daedda1f3f5d85e7ece50",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_526.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

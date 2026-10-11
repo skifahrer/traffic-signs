@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "503",
+  "image": {
+    "file": "distance-to-give-way-line-gb.svg",
+    "sha1": "ee79832e5e01251125e934048fbecc8ef39b7ddf",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_503.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

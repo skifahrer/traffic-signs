@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "555.1",
+  "image": {
+    "file": "water-course-alongside-road-gb.svg",
+    "sha1": "e52d93c61cf8c40183a928f236b6bbf2afa636a4",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_555.1.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

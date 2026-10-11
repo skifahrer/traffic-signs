@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "551.3",
+  "image": {
+    "file": "small-wild-animals-gb.svg",
+    "sha1": "f2aa2e0b051a4fca272afe9a86f7bec52ed97e42",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_551.3.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

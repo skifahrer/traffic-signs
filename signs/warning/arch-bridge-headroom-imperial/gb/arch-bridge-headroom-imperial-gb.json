@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "531.1 (variant 1)",
+  "image": {
+    "file": "arch-bridge-headroom-imperial-gb.svg",
+    "sha1": "97b3315c2909461664b72b941fef8f9cb184361c",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_531.1_(variant_1).svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

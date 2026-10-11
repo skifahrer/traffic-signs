@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "774",
+  "image": {
+    "file": "level-crossing-cross-single-track-gb.svg",
+    "sha1": "3c443b830f3e4b87bac6380ac8e01431ec3bca4c",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_774.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

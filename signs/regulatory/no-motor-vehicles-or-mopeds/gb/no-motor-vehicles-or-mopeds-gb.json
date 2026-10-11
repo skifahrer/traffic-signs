@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "619",
+  "image": {
+    "file": "no-motor-vehicles-or-mopeds-gb.svg",
+    "sha1": "2716cb7c7c29160f80391c7f277de2030ba9eed4",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_619.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

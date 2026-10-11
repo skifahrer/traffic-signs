@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "519",
+  "image": {
+    "file": "single-lane-road-gb.svg",
+    "sha1": "b13e887da26b2c4ebb77c09589f79e4041ef9121",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_519.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

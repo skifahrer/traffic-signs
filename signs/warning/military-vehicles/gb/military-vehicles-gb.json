@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "582",
+  "image": {
+    "file": "military-vehicles-gb.svg",
+    "sha1": "ccc6102e70a34bfa166750ee65a175f7717e6a0d",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_582.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

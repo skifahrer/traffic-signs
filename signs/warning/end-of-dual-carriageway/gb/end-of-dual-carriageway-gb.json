@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "520",
+  "image": {
+    "file": "end-of-dual-carriageway-gb.svg",
+    "sha1": "b02cb306fa93de43cc3a6e961e3d7ce8ac5f564c",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_520.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

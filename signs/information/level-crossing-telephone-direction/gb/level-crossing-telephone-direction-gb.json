@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "788 (variant 1)",
+  "image": {
+    "file": "level-crossing-telephone-direction-gb.svg",
+    "sha1": "9c94dba38e5584145a6d1655d53e551490a62956",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_788_(variant_1).svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

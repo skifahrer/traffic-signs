@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "518",
+  "image": {
+    "file": "single-file-traffic-gb.svg",
+    "sha1": "9bdf2fd22c073de3a41d7d604092a86ec0b1051b",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_518.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

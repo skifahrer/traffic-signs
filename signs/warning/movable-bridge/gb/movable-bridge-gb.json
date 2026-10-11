@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "529",
+  "image": {
+    "file": "movable-bridge-gb.svg",
+    "sha1": "9fc07e4f5a2f16c568f95893a554ed90e15df189",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_529.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

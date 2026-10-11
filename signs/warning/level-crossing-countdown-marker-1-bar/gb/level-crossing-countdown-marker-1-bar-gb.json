@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "789.2",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-gb.svg",
+    "sha1": "f67387139977fa38bcf991d8b6ac067daa67ac3b",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_789.2.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "546",
+  "image": {
+    "file": "school-gb.svg",
+    "sha1": "ae4c945b6628890d229711a05d5a1aec312b9b1e",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_546.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

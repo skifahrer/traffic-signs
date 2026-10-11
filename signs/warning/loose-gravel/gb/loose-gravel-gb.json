@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "7009",
+  "image": {
+    "file": "loose-gravel-gb.svg",
+    "sha1": "e971117a99032178ea1d94f8bf686cd611a94c27",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_7009.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "525",
+  "image": {
+    "file": "low-gear-for-descent-gb.svg",
+    "sha1": "b6358fd95160b7c76794fff0174e38cf199b5146",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_525.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

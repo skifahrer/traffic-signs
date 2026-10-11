@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "622.2",
+  "image": {
+    "file": "end-of-no-goods-vehicles-over-weight-gb.svg",
+    "sha1": "a64d93ee89c7bb1d5ed519c5b2495d884372f07c",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_622.2.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "613",
+  "image": {
+    "file": "no-left-turn-gb.svg",
+    "sha1": "ad2bcb324451d5ed90f26a571c8022d377b0ef1b",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_613.svg",
+    "author": "Government of the United Kingdom – Department for Transport",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

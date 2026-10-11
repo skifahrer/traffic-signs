@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "660.4",
+  "image": {
+    "file": "loading-bay-gb.svg",
+    "sha1": "80a2f24a4c3398079562ddb66ca0e59a4402a0c0",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_660.4.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

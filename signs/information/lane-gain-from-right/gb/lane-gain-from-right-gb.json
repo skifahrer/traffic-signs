@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "874P",
+  "image": {
+    "file": "lane-gain-from-right-gb.svg",
+    "sha1": "620fbad534de1ad49854e40b4414aa153f2ece3d",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_874P.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

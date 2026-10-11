@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "963.2",
+  "image": {
+    "file": "contraflow-bus-and-cycle-lane-gb.svg",
+    "sha1": "2bd7ce767f936d654bdc3e3b4ddcd9159bcc094e",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_963.2.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

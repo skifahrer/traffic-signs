@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "551.2",
+  "image": {
+    "file": "wildfowl-gb.svg",
+    "sha1": "a58e40b4e9c008e8bcab51190b179dd64dd62343",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_551.2.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

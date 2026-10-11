@@ -3,6 +3,14 @@
   "category": "information",
   "country": "gb",
   "code": "963T",
+  "image": {
+    "file": "bus-lane-both-ways-gb.svg",
+    "sha1": "b2aeee5b57860e08d0c5c15d4543324dff8ee2ae",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_963T.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

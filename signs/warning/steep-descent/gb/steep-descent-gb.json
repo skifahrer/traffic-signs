@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "523.1",
+  "image": {
+    "file": "steep-descent-gb.svg",
+    "sha1": "11cb1447e6cde7df7c144940121b2e98d587d597",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_523.1.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

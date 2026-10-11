@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "512.1 (right)",
+  "image": {
+    "file": "junction-on-bend-gb.svg",
+    "sha1": "5cf4b74d73cdd5492c93746dfc845d3de8bc09f6",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_512.1_(right).svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

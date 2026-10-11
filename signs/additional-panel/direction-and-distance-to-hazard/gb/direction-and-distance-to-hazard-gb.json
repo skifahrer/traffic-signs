@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "gb",
   "code": "573",
+  "image": {
+    "file": "direction-and-distance-to-hazard-gb.svg",
+    "sha1": "198b49202fdec18d62c0fa420d7d3a8b7f866a55",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_573.svg",
+    "author": "UK Government",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/"
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

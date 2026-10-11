@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "gb",
   "code": "549",
+  "image": {
+    "file": "sheep-gb.svg",
+    "sha1": "5607840cf0a84f86b096bf9dc7c4a067f9667a4c",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_549.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",

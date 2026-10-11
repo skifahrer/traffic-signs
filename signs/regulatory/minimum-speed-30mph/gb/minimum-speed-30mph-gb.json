@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "gb",
   "code": "672",
+  "image": {
+    "file": "minimum-speed-30mph-gb.svg",
+    "sha1": "32a35c5dd96821f49fa1e1c8def60dd9602117c7",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_traffic_sign_672.svg",
+    "author": "UK Government",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "gb-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom",
