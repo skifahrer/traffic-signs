@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "162-10",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-right-side-de.svg",
+    "sha1": "c4afc522747645cec0b94d7ff40e35933957afc4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_162-10_-_einstreifige_Bake_(Aufstellung_rechts),_StVO_1992.svg",
+    "author": "Andreas 06, MarianSigler. Nach den amtlichen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

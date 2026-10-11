@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "282",
+  "image": {
+    "file": "end-of-all-restrictions-de.svg",
+    "sha1": "5c90d8d0b7a6219a558629ee4668cbc957fa31c7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_282_-_Ende_s%C3%A4mtlicher_Streckenverbote,_StVO_1970.svg",
+    "author": "D0ktorz (ursprüngliche Datei); nach Vorgaben interpretiert und digital neu gezeichnet 2017 durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

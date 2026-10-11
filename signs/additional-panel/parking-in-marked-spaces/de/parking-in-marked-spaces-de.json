@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-30",
+  "image": {
+    "file": "parking-in-marked-spaces-de.svg",
+    "sha1": "a63b51f01886f4db6b851243988bc6590c3ac645",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-30_-_Parken_in_gekennzeichneten_Fl%C3%A4chen_erlaubt,_StVO_1992.svg",
+    "author": "Erstes Hochladen: Andreas 06, neu interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

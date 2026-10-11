@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-71",
+  "image": {
+    "file": "services-filling-station-all-fuels-de.svg",
+    "sha1": "400a1158fc720b48a5a8ad534e2db36ca64b4b21",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-71_Tankstelle_mit_Tankm%C3%B6glichkeit_aller_Kraftstoffarten.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

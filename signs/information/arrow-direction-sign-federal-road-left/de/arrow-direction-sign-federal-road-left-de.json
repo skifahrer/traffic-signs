@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "415-10",
+  "image": {
+    "file": "arrow-direction-sign-federal-road-left-de.svg",
+    "sha1": "e7d8373f52a7ade109f6663d84484d81dc17b340",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_415-10_-_Wegweiser_auf_Bundesstra%C3%9Fen_(linksweisend),_StVO_1992.svg",
+    "author": "Andreas06, StG1990; nach den offiziellen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

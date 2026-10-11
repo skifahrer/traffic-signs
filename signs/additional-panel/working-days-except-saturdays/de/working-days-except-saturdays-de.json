@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-38",
+  "image": {
+    "file": "working-days-except-saturdays-de.svg",
+    "sha1": "5cb711b9f4f9dddefa60e557f85e02b61a502c4d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-38_-_werktags_au%C3%9Fer_samstags_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

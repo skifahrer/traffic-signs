@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "467.1-10",
+  "image": {
+    "file": "recommended-route-arrow-left-de.svg",
+    "sha1": "12eaead60a1a30a75bfdba2faae0845f9a94f4bf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_467.1-10_-_Umlenkungspfeil_(Streckenempfehlung)_linksweisend,_StVO_2013.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

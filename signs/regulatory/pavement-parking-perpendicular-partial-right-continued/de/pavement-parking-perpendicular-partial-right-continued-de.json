@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-78",
+  "image": {
+    "file": "pavement-parking-perpendicular-partial-right-continued-de.svg",
+    "sha1": "126d62aae25f1aa2446ab52a5932f571e7168017",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-78_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_(Mitte),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

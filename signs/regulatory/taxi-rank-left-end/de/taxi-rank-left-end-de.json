@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "229-11",
+  "image": {
+    "file": "taxi-rank-left-end-de.svg",
+    "sha1": "9ab0b1e8b16568e40cb79b7029944f62712d0577",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_229-11_-_Taxenstand_(Ende),_Aufstellung_links,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben komplett digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

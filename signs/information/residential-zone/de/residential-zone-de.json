@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "325.1",
+  "image": {
+    "file": "residential-zone-de.svg",
+    "sha1": "e9b364d5a8817de58cabd9a9ad3bc36d7ee32f65",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_325.1_-_Beginn_eines_verkehrsberuhigten_Bereichs,_StVO_2009.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-64",
+  "image": {
+    "file": "pedestrian-footbridge-de.svg",
+    "sha1": "7e4d3cc22333e41638af61ccd7190cfe7d458ffb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-64_-_Fu%C3%9Fg%C3%A4nger%C3%BCberf%C3%BChrung,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben komplett digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

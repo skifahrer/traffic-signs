@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "230-11",
+  "image": {
+    "file": "loading-bay-left-end-de.svg",
+    "sha1": "f88e0e1ba5a4743a36bd038161bd4d08a46230ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_230-11_-_Ladebereich_(Ende,_Aufstellung_links),_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

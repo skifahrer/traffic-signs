@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-14",
+  "image": {
+    "file": "amphibians-right-side-de.svg",
+    "sha1": "ccf90dde395102c2c5270015cb06b5877a24f16a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-14_-_Amphibienwanderung,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

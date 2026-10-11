@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "136-20",
+  "image": {
+    "file": "children-left-side-de.svg",
+    "sha1": "fb0dd1a43b4d3d1bfee82ac10489736c73795a90",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_136-20_-_Kinder,_Aufstellung_links,_StVO_1992.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

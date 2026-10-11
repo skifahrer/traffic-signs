@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "220-10",
+  "image": {
+    "file": "one-way-road-left-de.svg",
+    "sha1": "320d16b860c4293395ec2bd683ba73519b613434",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_220-10_-_Einbahnstra%C3%9Fe,_linksweisend,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

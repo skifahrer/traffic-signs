@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-37",
+  "image": {
+    "file": "exit-panel-de.svg",
+    "sha1": "af2169c989a0a9690f04c9b28a7a1e90a96fbc1e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-37_-_Ausfahrt,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

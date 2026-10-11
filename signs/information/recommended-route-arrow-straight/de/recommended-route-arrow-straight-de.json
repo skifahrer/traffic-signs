@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "467.1-30",
+  "image": {
+    "file": "recommended-route-arrow-straight-de.svg",
+    "sha1": "dee7798f292d7eb3af347396cf76412718c1f85f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_467.1-30_-_Umlenkungspfeil_(Streckenempfehlung)_geradeaus,_StVO_2013.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

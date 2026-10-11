@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "209-10",
+  "image": {
+    "file": "turn-left-de.svg",
+    "sha1": "cba83b2a4a126291babef4cc0a8e8e8f5aaa5a3c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_209-10_-_Vorgeschriebene_Fahrtrichtung,_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

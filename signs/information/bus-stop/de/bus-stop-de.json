@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "224",
+  "image": {
+    "file": "bus-stop-de.svg",
+    "sha1": "6d690a2f7b0b5f583a7543e37503f8e6d7924d44",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_224_-_Haltestelle,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

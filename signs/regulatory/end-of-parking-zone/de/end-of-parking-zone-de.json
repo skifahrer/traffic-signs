@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "314.2",
+  "image": {
+    "file": "end-of-parking-zone-de.svg",
+    "sha1": "b1085575c2077212ffaf2bc08bf063a1325d91a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_314.2_-_Ende_einer_Parkraumbewirtschaftungszone,_StVO_2009.svg",
+    "author": "de:Bundesministerium für Verkehr, Bau- und Wohnungswesen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

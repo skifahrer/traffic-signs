@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-30",
+  "image": {
+    "file": "oil-spill-de.svg",
+    "sha1": "375a698835234f1379d01ec08a3bc382e3acc921",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-30_-_%C3%96lspur,_StVO_2017.svg",
+    "author": "nach den Vorgaben interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

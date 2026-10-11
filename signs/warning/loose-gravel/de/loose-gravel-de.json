@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-52",
+  "image": {
+    "file": "loose-gravel-de.svg",
+    "sha1": "606a5444782b452a26f6669b43962d49fd82b6f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-52_-_Splitt,_Schotter,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

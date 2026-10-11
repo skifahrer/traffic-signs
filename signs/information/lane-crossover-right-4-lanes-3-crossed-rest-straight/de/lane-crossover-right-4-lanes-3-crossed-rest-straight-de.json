@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-61",
+  "image": {
+    "file": "lane-crossover-right-4-lanes-3-crossed-rest-straight-de.svg",
+    "sha1": "90d96441cba3bfade7c8846e2f8f0b360908a6bf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-61_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

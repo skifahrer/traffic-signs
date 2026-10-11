@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "535-11",
+  "image": {
+    "file": "lane-reduction-right-to-2-lanes-with-end-of-minimum-speed-de.svg",
+    "sha1": "ad74e43715ed1320b413641330066a12b07a43f6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_535-11_-_Einengungstafel;_Darstellung_ohne_Gegenverkehr_und_mit_integriertem_Zeichen_279_StVO_-_noch_zwei_Fahrstreifen_links_in_Fahrtrichtung,_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

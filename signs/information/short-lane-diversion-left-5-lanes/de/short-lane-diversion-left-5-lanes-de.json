@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "513-14",
+  "image": {
+    "file": "short-lane-diversion-left-5-lanes-de.svg",
+    "sha1": "662c177b2a22d5c9d080108be743a2151d337eeb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_513-14_Verschwenkungstafel,_kurze_Verschwenkung_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

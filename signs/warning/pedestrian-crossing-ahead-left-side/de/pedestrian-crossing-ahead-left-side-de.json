@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-21",
+  "image": {
+    "file": "pedestrian-crossing-ahead-left-side-de.svg",
+    "sha1": "20f4a30fedff8fcb05737fb1503a9581c6303ee2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-21_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg,_Aufstellung_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben 2017 digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

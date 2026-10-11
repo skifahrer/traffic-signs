@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "268",
+  "image": {
+    "file": "snow-chains-required-de.svg",
+    "sha1": "f7c601953cc0a0ce2737851f5c057f0e18a04e72",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_268_-_Schneeketten_sind_vorgeschrieben,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

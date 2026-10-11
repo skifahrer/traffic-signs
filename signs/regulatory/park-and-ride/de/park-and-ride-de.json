@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "316",
+  "image": {
+    "file": "park-and-ride-de.svg",
+    "sha1": "d292cb2e72b61cd7924848bcf3da633177ec95d2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_316_-_Parken_und_Reisen,_StVO_1992.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "528-30",
+  "image": {
+    "file": "number-of-lanes-2-with-axle-weight-limit-de.svg",
+    "sha1": "430a326ae6c1fe147bc295f21085cab5ecd39c3a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_528-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_263.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

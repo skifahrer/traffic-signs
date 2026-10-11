@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "277.1",
+  "image": {
+    "file": "no-overtaking-single-track-vehicles-de.svg",
+    "sha1": "297bcd9a8f937c7cfb6b9b44c1a964e2eb2bdd5e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_277.1_-_Verbot_des_%C3%9Cberholens_von_einspurigen_Fahrzeugen_f%C3%BCr_mehrspurige_Kraftfahrzeuge_und_Kraftr%C3%A4dern_mit_Beiwagen;_StVO_2020.svg",
+    "author": "nach den Vorgaben 2020 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

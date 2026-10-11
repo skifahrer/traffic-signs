@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1026-62",
+  "image": {
+    "file": "except-slurry-transport-de.svg",
+    "sha1": "8ae459f3acdb2741002eff186ea520f0a06f61c9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1026-62_-_G%C3%BClletransport_frei_(330x600),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

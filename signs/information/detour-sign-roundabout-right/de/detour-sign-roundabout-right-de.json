@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "455.1-23",
+  "image": {
+    "file": "detour-sign-roundabout-right-de.svg",
+    "sha1": "d6072016194d150b6eb6ce46ba4afb99bfb09c32",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_455.1-23_-_Ank%C3%BCndigung_oder_Fortsetzung_der_Umleitung,_im_Kreisverkehr_rechts,_StVO_2021.svg",
+    "author": "nach den Vorgaben korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

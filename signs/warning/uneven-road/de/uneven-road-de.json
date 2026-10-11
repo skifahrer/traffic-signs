@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "112",
+  "image": {
+    "file": "uneven-road-de.svg",
+    "sha1": "8a1ca3b8aa61a8cf02299206abbe9be47c910722",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_112_%E2%80%93_Unebene_Fahrbahn,_StVO_1970.svg",
+    "author": "MarianSigler, Fry1989; komplett neue Datei am 1. Mai 2017 nach den historischen Vorgaben digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

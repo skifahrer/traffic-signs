@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "230-10",
+  "image": {
+    "file": "loading-bay-right-start-de.svg",
+    "sha1": "5271359b32d56fbc2b6cc6e006a58fb2ffdc8fc4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_230-10_-_Ladebereich_(Anfang,_Aufstellung_rechts),_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

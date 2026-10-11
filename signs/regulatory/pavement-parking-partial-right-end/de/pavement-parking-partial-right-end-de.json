@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-57",
+  "image": {
+    "file": "pavement-parking-partial-right-end-de.svg",
+    "sha1": "0405b4d34bba282335b66a73d793b5635f6d85dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-57_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts_(Ende),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

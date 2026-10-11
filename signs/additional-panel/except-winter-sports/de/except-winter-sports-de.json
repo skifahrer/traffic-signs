@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1020-14",
+  "image": {
+    "file": "except-winter-sports-de.svg",
+    "sha1": "4b8f030a1017815e234d201638f5b9223f6da13a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1020-14_-_Wintersport_frei_(600x330),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

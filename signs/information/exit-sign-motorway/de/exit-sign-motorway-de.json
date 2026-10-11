@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "332",
+  "image": {
+    "file": "exit-sign-motorway-de.svg",
+    "sha1": "dbf692ff4681fba98dbfbeec42cc1c7ad6514c79",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_332_-_Ausfahrt_von_der_Autobahn,_StVO_1981.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "533-21",
+  "image": {
+    "file": "lanes-diverging-3-through-1-right-de.svg",
+    "sha1": "06a53e152495dc44759eb6dbd013d6f0dbbd21d0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_533-21_-_Trennungstafel_%E2%80%93_ohne_Gegenverkehr_%E2%80%93_dreistreifig_durchgehend_und_einstreifig_rechts_ab_(1600x1250),_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

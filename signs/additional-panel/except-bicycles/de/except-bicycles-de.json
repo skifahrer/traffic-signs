@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1022-10",
+  "image": {
+    "file": "except-bicycles-de.svg",
+    "sha1": "9b3f3ba217ea080935da54e8cbcf5dbd9d092b15",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1022-10_-_Radfahrer_frei,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

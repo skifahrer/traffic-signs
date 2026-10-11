@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-66",
+  "image": {
+    "file": "services-hydrogen-station-de.svg",
+    "sha1": "67126cd0146cd89291c50399314703bf76baf6ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-66_-_Wasserstofftankstelle,_StVO_2014.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

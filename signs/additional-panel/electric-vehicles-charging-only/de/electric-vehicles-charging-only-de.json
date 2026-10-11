@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1050-32",
+  "image": {
+    "file": "electric-vehicles-charging-only-de.svg",
+    "sha1": "7060064b75ef8c2f1226cd2de07b2347057f11ca",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1050-32_-_Elektrofahrzeuge_w%C3%A4hrend_des_Ladevorgangs,_StVO_2011.svg",
+    "author": "see disciption",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

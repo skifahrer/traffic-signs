@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-32",
+  "image": {
+    "file": "with-charge-de.svg",
+    "sha1": "618d17f0c36b83d1039a175fba16487bcf5baedf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-32_-_Geb%C3%BChrenpflichtig_(420x231),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

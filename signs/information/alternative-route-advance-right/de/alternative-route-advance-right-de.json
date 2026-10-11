@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "460-20",
+  "image": {
+    "file": "alternative-route-advance-right-de.svg",
+    "sha1": "63aabb66bc9f27b564d680c1abba1f373dd59658",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_460-20_-_Bedarfsumleitung,_rechtsweisend_(900x600),_StVO_1992.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

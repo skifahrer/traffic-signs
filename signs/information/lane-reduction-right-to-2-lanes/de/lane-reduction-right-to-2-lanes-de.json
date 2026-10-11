@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "531-11",
+  "image": {
+    "file": "lane-reduction-right-to-2-lanes-de.svg",
+    "sha1": "a55032bf6845bd5ada60f8c29582bf3b8f3aaaeb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_531-11_-_Einengungstafel,_Darstellung_ohne_Gegenverkehr-_noch_zwei_Fahrstreifen_links_in_Fahrtrichtung,_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "259",
+  "image": {
+    "file": "no-pedestrians-de.svg",
+    "sha1": "fefd124ae3907df48465911f9a6ed0bf71be3a79",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_259_-_Verbot_f%C3%BCr_Fu%C3%9Fg%C3%A4nger,_StVO_1992.svg",
+    "author": "MarianSigler {bla} & Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

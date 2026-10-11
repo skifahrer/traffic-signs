@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-73",
+  "image": {
+    "file": "lane-crossover-left-4-lanes-1-crossed-rest-shifted-right-de.svg",
+    "sha1": "43cd182a2bcff2a3c76ffae998ae0a2ceed45be4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-73_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

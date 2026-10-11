@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "455.1-20",
+  "image": {
+    "file": "detour-sign-advance-right-de.svg",
+    "sha1": "188da460acd78917f20aaee1d8763da20f436a18",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_455.1-20_-_Ank%C3%BCndigung_oder_Fortsetzung_der_Umleitung,_Vorank%C3%BCndigung_rechts,_StVO_2013.svg",
+    "author": "vektorisiert durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

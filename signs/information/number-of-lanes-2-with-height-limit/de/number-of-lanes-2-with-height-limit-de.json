@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "529-30",
+  "image": {
+    "file": "number-of-lanes-2-with-height-limit-de.svg",
+    "sha1": "f23c65ef3bc919bdca369e8d2e7c90eaa7295b69",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_529-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_265.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "522-37",
+  "image": {
+    "file": "number-of-lanes-3-plus-1-oncoming-de.svg",
+    "sha1": "5aa0e44e8001903000e5b9e83d108d75ce633f9d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_522-37_-_Fahrstreifentafel_-_mit_Gegenverkehr_-_dreistreifig_in_Fahrtrichtung_und_einstreifig_in_Gegenrichtung_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

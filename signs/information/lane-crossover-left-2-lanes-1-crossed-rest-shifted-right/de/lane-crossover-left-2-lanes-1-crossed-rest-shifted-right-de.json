@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-70",
+  "image": {
+    "file": "lane-crossover-left-2-lanes-1-crossed-rest-shifted-right-de.svg",
+    "sha1": "7ad0f8a19c1fe90d630c8073d8b1708f1294593d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-70_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

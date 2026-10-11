@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-50",
+  "image": {
+    "file": "services-telephone-de.svg",
+    "sha1": "1df72c72fbcb14041a44507f53ef65b0bf910de7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-50_-_Fernsprecher,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

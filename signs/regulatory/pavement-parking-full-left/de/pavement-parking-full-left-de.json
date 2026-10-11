@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-60",
+  "image": {
+    "file": "pavement-parking-full-left-de.svg",
+    "sha1": "cf9b18591d5e1c94aacd368b80bf391174b1343f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-60_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_links,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

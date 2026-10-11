@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "455.1-50",
+  "image": {
+    "file": "detour-sign-de.svg",
+    "sha1": "2442c8da2b36d14008080b64a78c1676d2a3da50",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_455.1-50_-_Ank%C3%BCndigung_oder_Fortsetzung_der_Umleitung_-_ohne_Pfeilsymbol,_StVO_2017.svg",
+    "author": "nach den Vorgaben korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

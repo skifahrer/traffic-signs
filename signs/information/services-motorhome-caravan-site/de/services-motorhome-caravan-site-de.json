@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-68",
+  "image": {
+    "file": "services-motorhome-caravan-site-de.svg",
+    "sha1": "3d901689a7976730626ffc22ee890255b4138ca3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-68_-_Wohnmobil-_und_Wohnwagenplatz,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

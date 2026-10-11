@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "222",
+  "image": {
+    "file": "pass-on-right-de.svg",
+    "sha1": "d0ebb9c038cabd8c4b56aba479ddbcde9db196be",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_222_-_Vorgeschriebene_Vorbeifahrt,_Rechts_vorbei,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

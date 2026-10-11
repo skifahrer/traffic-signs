@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "110-15",
+  "image": {
+    "file": "steep-ascent-15-percent-de.svg",
+    "sha1": "fef8ed2474559a8eb2551d0f5437ca2b2060d434",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_110-15_-_Steigung,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-59",
+  "image": {
+    "file": "vehicle-type-cars-with-trailers-de.svg",
+    "sha1": "85847773007c37a82f44d9dd00e2b97cba2dc86a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-59_-_Personenkraftwagen_mit_Anh%C3%A4nger,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

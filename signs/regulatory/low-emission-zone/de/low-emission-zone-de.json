@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "270.1",
+  "image": {
+    "file": "low-emission-zone-de.svg",
+    "sha1": "66e617d43971964b3b67b6aaa1babf17259d8797",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_270.1_-_Beginn_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone._I,_StVO_2007.svg",
+    "author": "Abtrix, Markus1983, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

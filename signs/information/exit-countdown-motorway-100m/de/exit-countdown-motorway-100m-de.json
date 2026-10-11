@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "450-50",
+  "image": {
+    "file": "exit-countdown-motorway-100m-de.svg",
+    "sha1": "cc39377bdf706c1e3979d54b2485793f10f1679a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_450-50_-_Ank%C3%BCndigungsbake_einstreifig_(100_m),_StVO_2013.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

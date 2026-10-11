@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-31",
+  "image": {
+    "file": "with-parking-ticket-de.svg",
+    "sha1": "01a3a8d72386a6360a54ca28b943a4abf3cd9d4a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-31_-_Mit_Parkschein_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.1-53",
+  "image": {
+    "file": "tourist-destination-river-or-canal-de.svg",
+    "sha1": "49e67abd01261392ec0fbd5fcab7bb0f32261264",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.1-53_-_Touristischer_Hinweis_Fluss_oder_Kanal,_600x900;_StVO_2017.svg",
+    "author": "nach den Vorgaben interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1001-31",
+  "image": {
+    "file": "section-length-kilometres-de.svg",
+    "sha1": "d66db8c7f9d5e8b1b97527250efadacbbacf75e0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1001-31_-_auf_..._km_(600x330),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2017 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

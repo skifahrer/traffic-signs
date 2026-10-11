@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "531-15",
+  "image": {
+    "file": "lane-reduction-right-from-4-to-2-lanes-de.svg",
+    "sha1": "93cdace2215de7e7b16eb57382f10f1757e129cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_531-15_Einengungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

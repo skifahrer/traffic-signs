@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1000-11",
+  "image": {
+    "file": "advance-direction-arrow-left-de.svg",
+    "sha1": "4edc468c80b9553a2aaddc7678d275dbb274305e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1000-11_-_Richtung_der_Gefahrstelle,_linksweisend,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2017 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

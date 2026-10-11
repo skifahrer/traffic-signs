@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-52",
+  "image": {
+    "file": "pavement-parking-partial-left-end-de.svg",
+    "sha1": "402452acdfc8a4f2c695e65a4fb6509a4a25b9d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-52_-_Parken_auf_Gehwegen_halb_in_Fahrtrichtung_links,_Ende,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

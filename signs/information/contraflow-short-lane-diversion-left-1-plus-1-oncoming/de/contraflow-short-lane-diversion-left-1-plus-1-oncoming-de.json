@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "514-10",
+  "image": {
+    "file": "contraflow-short-lane-diversion-left-1-plus-1-oncoming-de.svg",
+    "sha1": "09eef1492320dc7fd21d9b184cac0f5c6b307bcd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_514-10.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

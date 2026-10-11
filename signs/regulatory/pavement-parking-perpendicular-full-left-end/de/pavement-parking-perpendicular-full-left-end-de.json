@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-82",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-left-end-de.svg",
+    "sha1": "b5df756bc35a62cdf6725c468ce23af3fd80c631",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-82_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_links_(Ende),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "533-28",
+  "image": {
+    "file": "lanes-diverging-5-through-2-right-de.svg",
+    "sha1": "dbc48174cf236ac52a6fb45598814a35eb1de5cb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_533-28_Trennungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

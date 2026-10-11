@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-61",
+  "image": {
+    "file": "services-information-point-de.svg",
+    "sha1": "0e27eb2f33bbbe890354383efc1c6e3327ab737d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-61_-_Informationsstelle,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

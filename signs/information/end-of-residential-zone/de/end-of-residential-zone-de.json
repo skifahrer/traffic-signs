@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "325.2",
+  "image": {
+    "file": "end-of-residential-zone-de.svg",
+    "sha1": "8093acbb5bba3b896ff2e0b5334314992a06e210",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_325.2_-_Ende_eines_verkehrsberuhigten_Bereichs,_StVO_2009.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2017 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

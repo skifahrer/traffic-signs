@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "625-13",
+  "image": {
+    "file": "chevron-board-5-arrows-right-500x2500mm-de.svg",
+    "sha1": "dbf894d433dcaa0927d2a7adba91b663b473b464",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_625-13_-_Richtungstafel_in_Kurven_(Aufstellung_rechts),_500x2500;_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

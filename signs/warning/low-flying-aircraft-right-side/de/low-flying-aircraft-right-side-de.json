@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-10",
+  "image": {
+    "file": "low-flying-aircraft-right-side-de.svg",
+    "sha1": "26f8c21ce15d44a3207975fd66d9eeb3d30c00ac",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-10_-_Flugbetrieb,_Aufstellung_rechts,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

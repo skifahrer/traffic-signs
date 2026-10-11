@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "286",
+  "image": {
+    "file": "no-parking-de.svg",
+    "sha1": "a47f4176ede26aa3c7a2975c14ba2a0039be4478",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_286_-_Eingeschr%C3%A4nktes_Halteverbot,_StVO_1970.svg",
+    "author": "MarianSigler and Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

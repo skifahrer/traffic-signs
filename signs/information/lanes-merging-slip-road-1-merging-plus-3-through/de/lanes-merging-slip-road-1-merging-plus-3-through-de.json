@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "551-24",
+  "image": {
+    "file": "lanes-merging-slip-road-1-merging-plus-3-through-de.svg",
+    "sha1": "a09d8da8a7fd13d70032bcc44cc14153c54a8e1d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_551-24_-_Zusammenf%C3%BChrungstafel_%E2%80%93_an_einm%C3%BCndender_Strecke_%E2%80%93_einstreifig_einm%C3%BCndend_plus_dreistreifig_durchgehend_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

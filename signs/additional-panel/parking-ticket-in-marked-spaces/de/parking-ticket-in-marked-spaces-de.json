@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-53",
+  "image": {
+    "file": "parking-ticket-in-marked-spaces-de.svg",
+    "sha1": "70a2551dca5c828caa80fcf0ffbe9a2b3e3b465b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-53_-_Parken_mit_Parkschein_in_gekennzeichneten_Fl%C3%A4chen_(600_x_600),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

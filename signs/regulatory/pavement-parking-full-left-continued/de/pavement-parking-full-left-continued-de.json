@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-63",
+  "image": {
+    "file": "pavement-parking-full-left-continued-de.svg",
+    "sha1": "7cb26eb910db97d33bfa8e0712d731164c6a1808",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-63_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_links_(Mitte),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "121-10",
+  "image": {
+    "file": "road-narrows-right-de.svg",
+    "sha1": "f8f3e6e2f06b3f146f8e4839c48ee2cc298d4bb2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_121-10_-_einseitig_(rechts)_verengte_Fahrbahn,_StVO_1992.svg",
+    "author": "Erste, nur grob korrekte Datei: Andreas 06. Nach den amtlichen Vorgaben 2016 digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

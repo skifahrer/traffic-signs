@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "283-11",
+  "image": {
+    "file": "no-stopping-left-end-de.svg",
+    "sha1": "90d3d635a6885d7dd5a89474d518afcb6299e335",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_283-11_-_Absolutes_Haltverbot_(Ende),_Aufstellung_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

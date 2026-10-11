@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-37",
+  "image": {
+    "file": "weight-limit-12t-de.svg",
+    "sha1": "f1b2bc336635dedc4d93de1d54b1bbe737a926a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-37_-_Massenangabe_%E2%80%93_12_t_(420x231),_StVO_2005.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

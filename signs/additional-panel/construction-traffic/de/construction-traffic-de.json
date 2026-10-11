@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-38",
+  "image": {
+    "file": "construction-traffic-de.svg",
+    "sha1": "20b1defcff8a5b9acbd0d4d3ed51256f23ff4fc1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-38_-_Baustellenverkehr_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

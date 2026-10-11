@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1024-16",
+  "image": {
+    "file": "except-trams-de.svg",
+    "sha1": "ca4f8f5c585d087c729a9742c4bc4e78a26b966b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1024-16_-_Stra%C3%9Fenbahn_frei,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

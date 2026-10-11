@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "290.1",
+  "image": {
+    "file": "no-parking-zone-de.svg",
+    "sha1": "cc88f743c99f95b37731d86d305152d91e37769c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_290.1_-_Beginn_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone,_StVO_2009.svg",
+    "author": "Bundesministerium für Verkehr, Bau- und Wohnungswesen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

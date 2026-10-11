@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1000-30",
+  "image": {
+    "file": "both-directions-horizontal-de.svg",
+    "sha1": "7a4b62e161062e7397696e79e0d0a9c0b62a0011",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1000-30_-_beide_Richtungen,_zwei_gegengerichtete_waagerechte_Pfeile,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2017 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "541-13",
+  "image": {
+    "file": "lane-gain-left-to-5-lanes-de.svg",
+    "sha1": "dc8f57e7961a79e07f91c7d043dfdd8ea38e98cd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_541-13_Aufleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

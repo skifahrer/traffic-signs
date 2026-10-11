@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-56",
+  "image": {
+    "file": "pavement-parking-partial-right-start-de.svg",
+    "sha1": "74c894f4b3fc28864c59f45efddd9006e56e7d7d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-56_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts_(Anfang),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

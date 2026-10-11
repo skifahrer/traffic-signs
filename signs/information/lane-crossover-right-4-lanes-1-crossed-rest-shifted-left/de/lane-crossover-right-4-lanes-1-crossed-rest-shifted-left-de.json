@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-83",
+  "image": {
+    "file": "lane-crossover-right-4-lanes-1-crossed-rest-shifted-left-de.svg",
+    "sha1": "02822386d6e91a5f3ced6b712030a72609d34cf7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-83_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

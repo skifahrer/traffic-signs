@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "626-20",
+  "image": {
+    "file": "guide-plate-hatched-left-de.svg",
+    "sha1": "ae534a7bc7b92e5af5ad5a81d30af5ac45bbfc07",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_626-20_-_Leitplatte,_Aufstellung_links_(750x500),_StVO_2013.svg",
+    "author": "nach den offiziellen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

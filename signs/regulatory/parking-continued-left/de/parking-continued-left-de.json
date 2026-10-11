@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "314-31",
+  "image": {
+    "file": "parking-continued-left-de.svg",
+    "sha1": "08fed9cfe95a2b8e518ec90b03c91d32cf0d87f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_314-31_-_Parken_Mitte_(Aufstellung_links),_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

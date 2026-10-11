@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "358",
+  "image": {
+    "file": "services-first-aid-de.svg",
+    "sha1": "a38a8ea99b416ac173b99dd087c45c31d5ba74c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_358_-_Erste_Hilfe,_StVO_1992.svg",
+    "author": "Andreas 06, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

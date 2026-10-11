@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-16",
+  "image": {
+    "file": "lane-crossover-left-1-plus-1-straight-de.svg",
+    "sha1": "c4f21a21d9c431ca3a83e1aeba9ca5d532421b40",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-16_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_-_einstreifig_nach_links_und_einstreifig_geradeaus_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

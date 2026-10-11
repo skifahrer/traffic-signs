@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1040-31",
+  "image": {
+    "file": "time-periods-de.svg",
+    "sha1": "a7b2fce6bff0f8ca63049ba51726d74a0c84954e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1040-31_-_Zeitliche_Beschr%C3%A4nkung_(8_-_11_h,_16_-_18_h),_330x600,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

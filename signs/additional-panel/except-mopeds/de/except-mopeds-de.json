@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1022-11",
+  "image": {
+    "file": "except-mopeds-de.svg",
+    "sha1": "b08b6eb4c02e9f4ad1c48b714d227d497ff3f715",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1022-11_-_Mofas_frei_(600x450),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2017 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

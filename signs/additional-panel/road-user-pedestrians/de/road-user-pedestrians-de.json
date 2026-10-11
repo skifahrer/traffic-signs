@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-53",
+  "image": {
+    "file": "road-user-pedestrians-de.svg",
+    "sha1": "3e5a0456f970e6027c6f4cf84a24710c27036d39",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-53_-_Fu%C3%9Fg%C3%A4nger_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

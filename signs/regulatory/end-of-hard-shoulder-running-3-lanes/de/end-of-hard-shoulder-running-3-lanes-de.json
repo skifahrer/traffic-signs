@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "223.2-51",
+  "image": {
+    "file": "end-of-hard-shoulder-running-3-lanes-de.svg",
+    "sha1": "143030bea7e48316a3fa7ef448cf2df9d68c4cd9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_223.2-51_-_Seitenstreifen_nicht_mehr_befahrbar,_3_Fahrstreifen_u._Seitenstreifen,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

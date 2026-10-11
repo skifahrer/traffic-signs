@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "393b",
+  "image": {
+    "file": "border-information-de.svg",
+    "sha1": "6f674b32105b90d1fe4a223664a7d158a8c74aba",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_393_b_-_Informationstafel_an_Grenz%C3%BCberg%C3%A4ngen_(an_sonstigen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn),_StVO_1981.svg",
+    "author": "Andreas 06 and Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

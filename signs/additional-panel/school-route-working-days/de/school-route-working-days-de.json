@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-53",
+  "image": {
+    "file": "school-route-working-days-de.svg",
+    "sha1": "a37871e079d5f791e0414212fbc21b34e61f59b6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-53_-_Schulweg_i._V._m._zeitlicher_Begrenzung_an_Werktagen_(zu_Z_101_oder_274),_600x450;_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

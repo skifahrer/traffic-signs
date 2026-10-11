@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-52",
+  "image": {
+    "file": "services-filling-station-de.svg",
+    "sha1": "2b88d64b10fa7e79bb9dac481637282b79ab9e46",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-52_-_Tankstelle,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

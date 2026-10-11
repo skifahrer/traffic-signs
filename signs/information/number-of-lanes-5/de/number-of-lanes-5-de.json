@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "521-33",
+  "image": {
+    "file": "number-of-lanes-5-de.svg",
+    "sha1": "53f154f82c491fbdd4f249e51ab88e4a5d316abf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_521-33_-_Fahrstreifentafel;_Darstellung_ohne_Gegenverkehr_-_f%C3%BCnf_Fahrstreifen_in_Fahrtrichtung_(1600x1250);_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "524-30",
+  "image": {
+    "file": "number-of-lanes-2-with-no-goods-vehicles-de.svg",
+    "sha1": "b8559eee135c73d43e42fa536ae8e13d7a459c57",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_524-30_-_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_253_-_zweistreifig_in_Fahrtrichtung_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

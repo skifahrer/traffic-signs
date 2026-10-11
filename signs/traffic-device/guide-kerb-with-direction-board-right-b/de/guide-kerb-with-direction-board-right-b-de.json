@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "628-11",
+  "image": {
+    "file": "guide-kerb-with-direction-board-right-b-de.svg",
+    "sha1": "b4e5d1d08645102f686766101c942bed0099c7f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_628-11_-_Leitschwelle_mit_Leitbake_(Aufstellung_rechts),_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

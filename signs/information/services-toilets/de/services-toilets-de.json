@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-58",
+  "image": {
+    "file": "services-toilets-de.svg",
+    "sha1": "4906e6db239274e8ca6a76e985e8194d32b4941f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-58_-_Toilette_(600x600),_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "333.1-20",
+  "image": {
+    "file": "exit-white-de.svg",
+    "sha1": "31c755e0365f3232c571ccad7c57936653b753a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_333.1-20_-_Ausfahrt_von_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn,_in_Wei%C3%9F_(in_Verbindung_mit_Zeichen_332.1-20),_500_x_2000,_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "257-50",
+  "image": {
+    "file": "no-mopeds-de.svg",
+    "sha1": "2042f40f1370945423e5998828fdd15f37fbdcd0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_257-50_-_Verbot_f%C3%BCr_Mofas,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

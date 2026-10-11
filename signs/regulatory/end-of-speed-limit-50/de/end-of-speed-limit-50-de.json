@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "278-50",
+  "image": {
+    "file": "end-of-speed-limit-50-de.svg",
+    "sha1": "a80b8f3fad45a77140b250cd42a435af2ba61cc8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_278-50_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

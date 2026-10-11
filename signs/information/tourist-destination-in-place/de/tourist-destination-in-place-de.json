@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.1-50",
+  "image": {
+    "file": "tourist-destination-in-place-de.svg",
+    "sha1": "3936826dfafd183ec901b26e3e29de9e96bd7133",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.1-50_-_Touristischer_Hinweis_mit_Bezugsziel_-_Variante_%E2%80%9Ein%E2%80%9C,_StVO_2017.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

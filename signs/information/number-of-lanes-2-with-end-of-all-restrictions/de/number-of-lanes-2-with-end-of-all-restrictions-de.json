@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "538-30",
+  "image": {
+    "file": "number-of-lanes-2-with-end-of-all-restrictions-de.svg",
+    "sha1": "738f19e874d8b4e69962e23a009947c7f2f5be70",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_538-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_282.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

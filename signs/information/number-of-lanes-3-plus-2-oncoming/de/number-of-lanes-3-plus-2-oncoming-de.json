@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "522-34",
+  "image": {
+    "file": "number-of-lanes-3-plus-2-oncoming-de.svg",
+    "sha1": "8542c85b01e4b1f2c4836857dcbf93b3790b0cd6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_522-34.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

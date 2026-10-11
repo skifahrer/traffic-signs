@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-23",
+  "image": {
+    "file": "lane-crossover-right-2-lanes-1-crossed-de.svg",
+    "sha1": "bb91809eb684779ce0af6b78b2ccf4b59fc86b88",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-23_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_-_zweistreifig_nach_rechts,_ein_Fahrstreifen_%C3%BCbergeleitet_(1600x1250);_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

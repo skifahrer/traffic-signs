@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1024-22",
+  "image": {
+    "file": "except-high-occupancy-de.svg",
+    "sha1": "99237e037df469200796906f10828dbe8af33b21",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1024-22_-_Mehrfachbesetzte_Personenkraftwagen_frei,_StVO_2020.svg",
+    "author": "eine nach der Vorlage unter www.bast.de zu findenden Abbildung interpretierte und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

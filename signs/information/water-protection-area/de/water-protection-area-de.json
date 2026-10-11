@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "354",
+  "image": {
+    "file": "water-protection-area-de.svg",
+    "sha1": "31099aef8c5c1cd7bb2dcbfc3b9e473d1dad509e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_354_-_Wasserschutzgebiet,_StVO_1988.svg",
+    "author": "Andreas06. Nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

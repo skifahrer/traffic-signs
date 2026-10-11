@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-74",
+  "image": {
+    "file": "lane-crossover-left-4-lanes-2-crossed-rest-shifted-right-de.svg",
+    "sha1": "a7ac4a118a0756b270003f2b645c352ab41d1bf7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-74_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

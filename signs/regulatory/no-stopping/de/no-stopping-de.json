@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "283",
+  "image": {
+    "file": "no-stopping-de.svg",
+    "sha1": "6ab78e80d398043da6c1ebf21fa3844d27ce7399",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_283_-_Absolutes_Haltverbot,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

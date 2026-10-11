@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-88",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-right-continued-de.svg",
+    "sha1": "c8c02cb33ada452d4e324b9e2d88f6559bc9d6e3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-88_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_(Mitte),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

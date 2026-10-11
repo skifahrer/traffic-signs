@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "272",
+  "image": {
+    "file": "no-u-turn-de.svg",
+    "sha1": "6391c908c1ef542f24d8c8466066196f6dd8c84b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_272,_Verbot_des_Wendens,_StVO_1992.svg",
+    "author": "Andreas 06 (ursprüngliche Datei); komplett neu erstellt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

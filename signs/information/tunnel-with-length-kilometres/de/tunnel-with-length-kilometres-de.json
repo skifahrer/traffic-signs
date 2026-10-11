@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "327-51",
+  "image": {
+    "file": "tunnel-with-length-kilometres-de.svg",
+    "sha1": "57bb1e96a513861e9247aceb113042182c5407e2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_327-51_-_Tunnel,_mit_L%C3%A4ngenangabe_in_km,_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "532-20",
+  "image": {
+    "file": "lane-reduction-left-to-1-lane-plus-1-oncoming-de.svg",
+    "sha1": "4c05f64afacab36333c95edf32c9245058878957",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_532-20_-_Einengungstafel_%E2%88%92_mit_Gegenverkehr_%E2%88%92_Einzug_links,_noch_1_Fahrstreifen_und_1_Fahrstreifen_in_Gegenrichtung_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

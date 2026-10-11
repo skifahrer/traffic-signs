@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "533-62",
+  "image": {
+    "file": "lanes-diverging-4-through-1-right-plus-shared-de.svg",
+    "sha1": "5b86be40be927b4fc83a508b6da74322b7cced6d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_533-62_Trennungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

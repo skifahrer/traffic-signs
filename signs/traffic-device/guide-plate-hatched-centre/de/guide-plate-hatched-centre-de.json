@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "626-30",
+  "image": {
+    "file": "guide-plate-hatched-centre-de.svg",
+    "sha1": "ec0e0e339e1707d4188faf642768c90dbed60f51",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_626-30_-_Leitplatte_(750x500);_StVO_2013.svg",
+    "author": "Die digitale Nachzeichnung erfolgte nach den angegebenen Maßvorgaben und wurde von Mediatus interpretiert und umgesetzt.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "263-8",
+  "image": {
+    "file": "maximum-axle-weight-8t-de.svg",
+    "sha1": "bd17755819978a6a8788a71fce5ae841f4c97251",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_263-8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Achslast,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

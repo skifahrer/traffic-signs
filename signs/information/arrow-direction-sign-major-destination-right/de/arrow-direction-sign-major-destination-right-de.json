@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "432-20",
+  "image": {
+    "file": "arrow-direction-sign-major-destination-right-de.svg",
+    "sha1": "ec7f71e3883d36cb0d62d3ae2a8141633de6b501",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_432-20_-_Wegweiser_zu_inner%C3%B6rtlichen_Zielen_und_zu_Einrichtungen_mit_erheblicher_Verkehrsbedeutung_(rechtsweisend,_nach_RWB),_StVO_1992.svg",
+    "author": "nach Vorgaben interpretiert und digital gezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

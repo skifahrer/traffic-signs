@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "551-23",
+  "image": {
+    "file": "lanes-merging-slip-road-2-merging-plus-3-through-de.svg",
+    "sha1": "155f2c5da2a585d655212e545765e27f808c9b54",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_551-23_-_Zusammenf%C3%BChrungstafel;_Darstellung_ohne_Gegenverkehr_-_zwei_plus_drei_Fahrstreifen,_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

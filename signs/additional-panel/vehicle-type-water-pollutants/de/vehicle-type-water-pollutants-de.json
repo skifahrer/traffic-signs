@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1052-31",
+  "image": {
+    "file": "vehicle-type-water-pollutants-de.svg",
+    "sha1": "71f3a345bae4fe32fbc83c5d42f16ab4e5f93ded",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1052-31_-_Streckenverbot_f%C3%BCr_Fahrzeuge_mit_wassergef%C3%A4hrdender_Ladung,_StVO_1992.svg",
+    "author": "see disciption",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

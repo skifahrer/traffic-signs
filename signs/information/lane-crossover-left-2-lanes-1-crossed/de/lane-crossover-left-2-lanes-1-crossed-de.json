@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-13",
+  "image": {
+    "file": "lane-crossover-left-2-lanes-1-crossed-de.svg",
+    "sha1": "d7bef2fc606e1a0436fbcf1a93201d44121f1261",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-13_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_-_zweistreifig_nach_links,_ein_Fahrstreifen_%C3%BCbergeleitet_(1600x1250);_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "511-26",
+  "image": {
+    "file": "lane-diversion-onto-hard-shoulder-2-lanes-de.svg",
+    "sha1": "0d63bf25ecbe41d3a1d8446bd4717bb1df291052",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_511-26_-_Verschwenkungstafel_%E2%88%92_ohne_Gegenverkehr_%E2%88%92_zweistreifige_Verschwenkung,_einstreifig_auf_den_Seitenstreifen_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-57",
+  "image": {
+    "file": "vehicle-type-buses-de.svg",
+    "sha1": "72ae3bcd01744208442a4401e7ec8447412fd150",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-57_-_Kraftomnibus,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

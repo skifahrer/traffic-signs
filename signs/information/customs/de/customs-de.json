@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "392",
+  "image": {
+    "file": "customs-de.svg",
+    "sha1": "ac321b2ff657d79fd25ef54673bc42c7d1793154",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_392_-_Zollstelle,_StVO_1970.svg",
+    "author": "Ursprüngliche Datei: Qualle; komplett neu erstellt am 19. Mai 2017 durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "537-30",
+  "image": {
+    "file": "number-of-lanes-2-with-end-of-speed-limit-de.svg",
+    "sha1": "7d2e8118a67b2afbe8b0653ddc1bfc59dd4676bc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_537-30_-_Fahrstreifentafel_%E2%80%93_ohne_Gegenverkehr_mit_integriertem_Zeichen_278_%E2%80%93_zweistreifig_in_Fahrtrichtung_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

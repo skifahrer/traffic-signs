@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-29",
+  "image": {
+    "file": "lane-crossover-right-4-lanes-1-crossed-rest-straight-de.svg",
+    "sha1": "1a8fac751aaf7bbab82742b6823ab516a3ae9378",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-29_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

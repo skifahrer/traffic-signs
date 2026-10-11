@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "419-20",
+  "image": {
+    "file": "arrow-direction-sign-minor-road-right-de.svg",
+    "sha1": "3f2241f648c38aceb1a2a65b92f81de4269cba1d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_419-20_%E2%80%93_Pfeilwegweiser_auf_sonstigen_Stra%C3%9Fen_mit_geringerer_Verkehrsbedeutung,_StVO_2013.svg",
+    "author": "Andreas 06, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

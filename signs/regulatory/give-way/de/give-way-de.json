@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "205",
+  "image": {
+    "file": "give-way-de.svg",
+    "sha1": "fb724b6c9f821f1e4f222efb980b475a767e3a00",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_205_-_Vorfahrt_gew%C3%A4hren!_StVO_1970.svg",
+    "author": "first sign: Andreas 06; new datas: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

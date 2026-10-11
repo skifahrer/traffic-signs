@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "513-22",
+  "image": {
+    "file": "short-lane-diversion-right-3-lanes-de.svg",
+    "sha1": "6c3e662621fa6f3a8b8a83b4cc0d774079eff444",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_513-22_Verschwenkungstafel,_kurze_Verschwenkung_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

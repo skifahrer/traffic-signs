@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1000-13",
+  "image": {
+    "file": "detour-three-quarter-circle-de.svg",
+    "sha1": "f4b606a83bfdd7fe5e749fe83a638ecff9dd5dae",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1000-13_-_Richtungsangaben_durch_Pfeile,_Umleitungsbeschilderung_Dreiviertelkreis,_StVO_2017.svg",
+    "author": "nach den Vorgaben interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

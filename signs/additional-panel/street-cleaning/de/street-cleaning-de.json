@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-50",
+  "image": {
+    "file": "street-cleaning-de.svg",
+    "sha1": "6aee121c02e8bddaf7ed4c5207fe1447e50b8bec",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-50_-_Stra%C3%9Fenreinigung_(mit_Zeit-_und_Datumsangabe),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

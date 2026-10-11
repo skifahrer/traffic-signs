@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "434-53",
+  "image": {
+    "file": "table-direction-sign-split-de.svg",
+    "sha1": "0958bb685f79146207755ca83e099d37e9bbc59d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_434-53_-_Tabellenwegweiser,_aufgel%C3%B6ste_Form_(nur_innerorts)_ohne_Bundesstra%C3%9Fennummer;_StVO_2013.svg",
+    "author": "nach Vorgaben interpretiert und digital gezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "311",
+  "image": {
+    "file": "end-of-place-name-sign-de.svg",
+    "sha1": "80853d192d3ae8eeb870f07b1541d7a11f9ea519",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_311_-_Ortstafel_R%C3%BCckseite,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

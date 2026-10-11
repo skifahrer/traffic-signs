@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-64",
+  "image": {
+    "file": "lane-crossover-right-4-lanes-3-crossed-de.svg",
+    "sha1": "36d672a7621f7c08f79618d00cadb121705766e9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-64_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "274.1",
+  "image": {
+    "file": "speed-limit-zone-30-de.svg",
+    "sha1": "f02d17559092354c7a81fd1a922e30a8f961c4bc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_274.1_-_Beginn_einer_Tempo_30-Zone,_StVO_2013.svg",
+    "author": "erstes Hochladen einer Datei durch D0ktorz; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-37",
+  "image": {
+    "file": "parking-permitted-weekends-de.svg",
+    "sha1": "c047acb60bdea7b1b6adda7380ad161376b2f844",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-37_-_Parken_Samstag_und_Sonntag_erlaubt_(600x450);_StVO_1992.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

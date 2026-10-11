@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "616-30",
+  "image": {
+    "file": "mobile-closure-board-flashing-arrow-large-de.svg",
+    "sha1": "caf04ce0d4d5ed535bccfd56c5e6797de67279be",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_616-30_-_fahrbare_Absperrtafel_mit_Blinkpfeil_-_gro%C3%9Fe_Ausf%C3%BChrung,_StVO_1997.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "332.1-20",
+  "image": {
+    "file": "exit-sign-white-de.svg",
+    "sha1": "0270050a6ef410b6d8c31d59b2b91d624aec92ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_332.1-20_-_Ausfahrttafel_auf_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn,_in_Wei%C3%9F_mit_Zielen_nach_Zeichen_432,_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

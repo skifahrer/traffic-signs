@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "220-20",
+  "image": {
+    "file": "one-way-road-right-de.svg",
+    "sha1": "e5cb79a937e739eae494be83982b3308621103b3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_220-20_-_Einbahnstra%C3%9Fe,_rechtsweisend,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1044-30",
+  "image": {
+    "file": "residents-with-permit-only-de.svg",
+    "sha1": "e798ca1b503cd4ada02f80bac2d7b659ad75b867",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1044-30_-_Bewohner_mit_Parkausweis_Nr._...._(600x330),_StVO_2002.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

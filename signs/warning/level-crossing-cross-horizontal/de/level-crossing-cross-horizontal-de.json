@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "201-52",
+  "image": {
+    "file": "level-crossing-cross-horizontal-de.svg",
+    "sha1": "c8903313730435d06f3967cf24564c10d2b80866",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_201_-_Andreaskreuz_(liegend),_StVO_1970.svg",
+    "author": "nach den historischen Vorgaben digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

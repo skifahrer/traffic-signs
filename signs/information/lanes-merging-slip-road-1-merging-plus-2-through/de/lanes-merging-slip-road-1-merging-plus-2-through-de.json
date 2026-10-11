@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "551-21",
+  "image": {
+    "file": "lanes-merging-slip-road-1-merging-plus-2-through-de.svg",
+    "sha1": "5ffe726ded66bff2e455bf71a54e10cda8f07382",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_551-21_-_Zusammenf%C3%BChrungstafel;_Darstellung_ohne_Gegenverkehr_-_eins_plus_zwei_Fahrstreifen,_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

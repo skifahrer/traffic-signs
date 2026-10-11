@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-54",
+  "image": {
+    "file": "road-user-horse-riders-de.svg",
+    "sha1": "1a501923bb2ed4dbe2dada6a579fae837cb4b2d1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-54_-_Reiter_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

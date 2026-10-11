@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "422-26",
+  "image": {
+    "file": "direction-sign-right-here-bicycles-de.svg",
+    "sha1": "93f12ee32719096e7b9b50b6a0df7b37a8665f16",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_422-26_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9ERadverkehr%E2%80%9C_%E2%88%92_hier_rechts;_StVO_2017.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

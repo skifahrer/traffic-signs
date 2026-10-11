@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-36",
+  "image": {
+    "file": "school-bus-times-de.svg",
+    "sha1": "14ca3af4c76253467bedb2799e24d9b88d8177df",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-36_-_Schulbus_(tageszeitliche_Benutzung),_600x450,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

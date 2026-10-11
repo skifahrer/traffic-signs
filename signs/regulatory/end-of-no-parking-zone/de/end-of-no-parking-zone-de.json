@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "290.2",
+  "image": {
+    "file": "end-of-no-parking-zone-de.svg",
+    "sha1": "7ea59e30e85149490da3a88708b3b5c3b2721807",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_290.2_-_Ende_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone,_StVO_2009.svg",
+    "author": "Bundesministerium für Verkehr, Bau- und Wohnungswesen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

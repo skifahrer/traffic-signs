@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "511-10",
+  "image": {
+    "file": "lane-diversion-left-1-lane-de.svg",
+    "sha1": "1d4531cc452cfc10d28fbbfa313bc70b1a268be4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_511-10_-_Verschwenkungstafel;_Darstellung_ohne_Gegenverkehr_-_einstreifig_nach_links_(1600x1250),_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

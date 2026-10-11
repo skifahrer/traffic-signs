@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-53",
+  "image": {
+    "file": "pavement-parking-partial-left-continued-de.svg",
+    "sha1": "ed77e940774489ba4a37a94ea7fb78af1f06ac2d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-53_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_links_(Mitte),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

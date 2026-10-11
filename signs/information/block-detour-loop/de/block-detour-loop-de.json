@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "590-10",
+  "image": {
+    "file": "block-detour-loop-de.svg",
+    "sha1": "d80a91e42e16fe482bf7a365749ebee8f641d9c7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_590-10_-_Blockumfahrung_rechts,_links,_links_(600x600),_StVO_2009.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

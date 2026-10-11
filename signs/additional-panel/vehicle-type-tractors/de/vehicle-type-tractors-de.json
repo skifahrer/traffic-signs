@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-61",
+  "image": {
+    "file": "vehicle-type-tractors-de.svg",
+    "sha1": "b27871027e8f27b7cc0ea1116de3da2791bd78a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-61_-_Kraftfahrzeuge_und_Z%C3%BCge,_die_nicht_schneller_als_25_km-h_fahren_k%C3%B6nnen_oder_d%C3%BCrfen_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

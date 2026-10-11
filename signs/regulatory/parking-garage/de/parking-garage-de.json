@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "314-50",
+  "image": {
+    "file": "parking-garage-de.svg",
+    "sha1": "f45a3d615044b9e26dc00851493ec05bcfbf45a4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_314-50_-_Parkhaus,_Parkgarage,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

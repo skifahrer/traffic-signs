@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "515-21",
+  "image": {
+    "file": "lane-diversion-right-2-lanes-with-width-limit-de.svg",
+    "sha1": "15c0fc79a21de598c54f4d3a1a40800f291f1825",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_515-21_-_Verschwenkungstafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_264_StVO_-_zweistreifig_nach_rechts_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

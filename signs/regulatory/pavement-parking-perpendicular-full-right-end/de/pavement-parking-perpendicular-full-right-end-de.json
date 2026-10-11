@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-87",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-right-end-de.svg",
+    "sha1": "6fd645bf71ac787b63c7354bf79a3380778b9dc1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-87_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_(Ende),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

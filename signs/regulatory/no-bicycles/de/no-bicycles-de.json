@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "254",
+  "image": {
+    "file": "no-bicycles-de.svg",
+    "sha1": "05d776957df4b11f98f7f63fcb60682d1a7bcb9a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_254_-_Verbot_f%C3%BCr_Radfahrer,_StVO_1992.svg",
+    "author": "MarianSigler {bla}, Mediatus Image taken from the de:Straßenverkehrs-Ordnung (German Road Regulations) as published by the de:Bundesministerium für Verkehr, Bau- und Wohnungswesen (German Federal Ministry of Traffic, Building and Housing) at [1].",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

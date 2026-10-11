@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1022-17",
+  "image": {
+    "file": "except-cargo-bikes-de.svg",
+    "sha1": "4748f3c9483cd5e5883ec7ab7acd6ef2ac735b8c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1022-17_%E2%80%9EFahrrad_zum_Transport_von_G%C3%BCtern_oder_Personen_-_Lastenfahrrad%E2%80%9C_frei.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

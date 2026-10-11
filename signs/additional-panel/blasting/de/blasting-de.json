@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-36",
+  "image": {
+    "file": "blasting-de.svg",
+    "sha1": "1b7e800b1f5ed89532405c57213a0671a1e199c4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-36_-_Sprengarbeiten_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

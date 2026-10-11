@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1028-31",
+  "image": {
+    "file": "except-up-to-construction-site-de.svg",
+    "sha1": "ceb238e246082013c85d864edb386d73df2f0d0d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1028-31_-_bis_Baustelle_frei_(330x600),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

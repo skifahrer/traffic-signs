@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "257-54",
+  "image": {
+    "file": "no-buses-de.svg",
+    "sha1": "a19902ad9866769a43f7ffc9b45e0b72cb1de41d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_257-54_-_Verbot_f%C3%BCr_Kraftomnibusse,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

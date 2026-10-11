@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-66",
+  "image": {
+    "file": "vehicle-type-electric-de.svg",
+    "sha1": "53b49543537c963cd3de43e481ce85885ead886f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-66_-_elektrisch_betriebene_Fahrzeuge,_StVO_2015.svg",
+    "author": "Interpretiert und digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

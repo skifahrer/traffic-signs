@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1013-50",
+  "image": {
+    "file": "use-hard-shoulder-de.svg",
+    "sha1": "4c3c2032fbc635ceb4c913eeaa8efab310aa03c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1013-50_-_Seitenstreifen_befahren,_StVO_2001.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

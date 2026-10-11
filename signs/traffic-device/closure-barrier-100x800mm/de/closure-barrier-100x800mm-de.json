@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "600-30",
+  "image": {
+    "file": "closure-barrier-100x800mm-de.svg",
+    "sha1": "849915aa280558ac1dd6d296c5c9e8c07826a076",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_600-30_-_Absperrschranke_(100x800);_StVO_1992.svg",
+    "author": "Die digitale Nachzeichnung erfolgte nach den angegebenen Maßvorgaben und wurde von Mediatus interpretiert und umgesetzt.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

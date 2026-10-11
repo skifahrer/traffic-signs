@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "151",
+  "image": {
+    "file": "level-crossing-de.svg",
+    "sha1": "0b9ec87c9dc389f2513761640498f3812f419ec2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_151_-_Bahn%C3%BCbergang,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

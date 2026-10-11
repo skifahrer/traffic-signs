@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1049-12",
+  "image": {
+    "file": "military-tracked-vehicles-only-de.svg",
+    "sha1": "1c7f7a79b9050725f5e00cc367e1106941a9b7c1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1049-12_-_nur_milit%C3%A4rische_Kettenfahrzeuge,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1012-36",
+  "image": {
+    "file": "noise-protection-de.svg",
+    "sha1": "efd9071ec0a60cac0086e10fd3a77c94d1d4df8a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1012-36_-_L%C3%A4rmschutz_(600x330),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

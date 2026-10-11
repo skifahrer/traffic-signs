@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1026-35",
+  "image": {
+    "file": "except-deliveries-de.svg",
+    "sha1": "67f7139e3ca8f8767acd737fa13f0d6cd0a6b35c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1026-35_-_Lieferverkehr_frei,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei 2006 durch Andreas 06; nach den Vorgaben 2018 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

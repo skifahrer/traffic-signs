@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "625-21",
+  "image": {
+    "file": "chevron-board-3-arrows-left-500x1500mm-de.svg",
+    "sha1": "1b0c6a611f9bef503e6f6480723aad15f605b9b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_625-21_-_Richtungstafel_in_Kurven_(Aufstellung_links),_500x1500,_StVO_1992.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "230-21",
+  "image": {
+    "file": "loading-bay-left-start-de.svg",
+    "sha1": "3f82c5a8a63352518b257ea8d68c0fbef9a372e1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_230-21_-_Ladebereich_(Anfang,_Aufstellung_links),_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

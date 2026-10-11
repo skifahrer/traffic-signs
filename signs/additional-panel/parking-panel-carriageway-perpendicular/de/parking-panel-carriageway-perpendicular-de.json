@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-38",
+  "image": {
+    "file": "parking-panel-carriageway-perpendicular-de.svg",
+    "sha1": "d3d5f8f86f567e51dd2e1589dcb3e97ee13ca07c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-38_-_Querparken_als_Sinnbild,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

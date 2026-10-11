@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1040-34",
+  "image": {
+    "file": "from-time-de.svg",
+    "sha1": "97b39454c8b20e2e51ad36eb54e9496cade95774",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1040-34_-_Ab_Zeitpunkt,_600x330;_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

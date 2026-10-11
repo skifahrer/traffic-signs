@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "531-23",
+  "image": {
+    "file": "lane-reduction-left-to-4-lanes-de.svg",
+    "sha1": "dcdb4b3e07607d1230166348bb96ca4afb0b7251",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_531-23_-_Einengungstafel_%E2%88%92_ohne_Gegenverkehr_%E2%88%92_Einzug_links,_noch_4_Fahrstreifen_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "434-50",
+  "image": {
+    "file": "table-direction-sign-compact-de.svg",
+    "sha1": "ae259adeac6657f978f6ffded01dc7d8fc360d58",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_434-50_-_Tabellenwegweiser,_kompakte_Form_(nach_RWB),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

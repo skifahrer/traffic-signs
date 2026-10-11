@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "206",
+  "image": {
+    "file": "stop-de.svg",
+    "sha1": "d386c6af66f0b15992339a4fa1b506fd7869236e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_206_-_Halt!_Vorfahrt_gew%C3%A4hren!_StVO_2017.svg",
+    "author": "nach den historischen Vorgaben digital gezeichnet und interpretiert von Mediatus.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

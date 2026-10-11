@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-35",
+  "image": {
+    "file": "dirty-road-de.svg",
+    "sha1": "4836ea43c995363ba93eeb491317762f969c2dd0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-35_-_Verschmutzte_Fahrbahn,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

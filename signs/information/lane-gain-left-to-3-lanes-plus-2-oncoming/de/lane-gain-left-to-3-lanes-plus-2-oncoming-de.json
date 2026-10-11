@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "542-13",
+  "image": {
+    "file": "lane-gain-left-to-3-lanes-plus-2-oncoming-de.svg",
+    "sha1": "75e53a3b5fe81e4b953fd4cfcfb14fb71d828177",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_542-13_Aufleitungstafel_-_mit_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

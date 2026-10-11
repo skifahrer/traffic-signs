@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "214-10",
+  "image": {
+    "file": "mandatory-direction-straight-or-left-de.svg",
+    "sha1": "86fe6bb91d474c4181ac565029c0789b4a58cd77",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_214-10_-_Vorgeschriebene_Fahrtrichtung,_Geradeaus_oder_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

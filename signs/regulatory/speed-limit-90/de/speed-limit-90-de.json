@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "274-90",
+  "image": {
+    "file": "speed-limit-90-de.svg",
+    "sha1": "e772a28f4522d108400bb9a84012d77262931285",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_274-90_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

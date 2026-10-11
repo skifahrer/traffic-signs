@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1050-33",
+  "image": {
+    "file": "electric-vehicles-only-de.svg",
+    "sha1": "d1ec9eeb68213552c3728ee623ab81f96e2fc80c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1050-33_-_Elektrofahrzeuge,_StVO_2011.svg",
+    "author": "see disciption",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-67",
+  "image": {
+    "file": "vehicle-type-motorhomes-de.svg",
+    "sha1": "f3f11895cf1a082dd20bf419bc9bfce2d5680b68",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-67_-_Wohnmobile_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

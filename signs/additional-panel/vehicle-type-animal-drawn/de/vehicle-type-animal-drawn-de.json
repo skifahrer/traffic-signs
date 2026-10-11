@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-64",
+  "image": {
+    "file": "vehicle-type-animal-drawn-de.svg",
+    "sha1": "9b43f420e80a30f76014a3e25c17f000cb4741ad",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-64_-_Gespannfuhrwerk_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

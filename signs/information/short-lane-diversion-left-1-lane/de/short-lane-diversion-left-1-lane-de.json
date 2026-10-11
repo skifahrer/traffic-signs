@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "513-10",
+  "image": {
+    "file": "short-lane-diversion-left-1-lane-de.svg",
+    "sha1": "c8a72b54743292fc9940982c80d5eb0b287a7f1f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_513-10.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

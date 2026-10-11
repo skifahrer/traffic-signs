@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "605-21",
+  "image": {
+    "file": "direction-board-arrow-left-1000x250mm-de.svg",
+    "sha1": "8d949480979eda4c79fd970204e934076b44d207",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_605-21_-_Leitbake,_Pfeilbake_(Aufstellung_links),_1000x250,_StVO_2009.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

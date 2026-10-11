@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "550-25",
+  "image": {
+    "file": "lanes-merging-main-carriageway-4-through-plus-1-from-right-de.svg",
+    "sha1": "ae6e3d18536622572542b347b424a83dba957a0b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_550-25_Zusammenf%C3%BChrungstafel_-_an_durchgehender_Strecke.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

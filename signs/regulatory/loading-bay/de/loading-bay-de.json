@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "230",
+  "image": {
+    "file": "loading-bay-de.svg",
+    "sha1": "e48d76b755fc3e33b545a85bcd30c54d899af0e6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_230_-_Ladebereich,_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

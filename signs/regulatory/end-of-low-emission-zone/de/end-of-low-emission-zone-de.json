@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "270.2",
+  "image": {
+    "file": "end-of-low-emission-zone-de.svg",
+    "sha1": "79009e05c95a10850b015d026a67650031323fb1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_270.2_-_Ende_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone,_StVO_2007.svg",
+    "author": "hochgeladen durch Abtrix",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

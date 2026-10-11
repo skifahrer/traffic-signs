@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "630-10",
+  "image": {
+    "file": "parked-vehicle-warning-board-pass-left-de.svg",
+    "sha1": "f5914e2d3e76d4807cae0227c4916dec17fe01e9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_630-10_-_Parkwarntafel_links_vorbei_(423x423),_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

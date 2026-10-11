@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-50",
+  "image": {
+    "file": "vehicle-type-cars-and-multi-track-vehicles-de.svg",
+    "sha1": "af49769164a85b27cb1ebb48d9e07590c2943988",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-50_-_Kraftwagen_und_sonstige_mehrspurige_Fahrzeuge_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

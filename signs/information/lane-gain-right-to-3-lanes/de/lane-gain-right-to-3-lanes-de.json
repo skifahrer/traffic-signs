@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "541-21",
+  "image": {
+    "file": "lane-gain-right-to-3-lanes-de.svg",
+    "sha1": "a5d58c9ddc3c96cbc0261a30de85fff2933bdf47",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_541-21_-_Aufweitungstafel;_Darstellung_ohne_Gegenverkehr-_zwei_vorhandene_und_ein_zus%C3%A4tzlicher_Fahrstreifen_rechts_in_Fahrtrichtung,_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

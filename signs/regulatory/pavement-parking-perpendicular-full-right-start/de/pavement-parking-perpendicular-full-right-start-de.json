@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-86",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-right-start-de.svg",
+    "sha1": "a64250e0c65f08e2cf9708c447498f644a1fa4f9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-86_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_(Anfang),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

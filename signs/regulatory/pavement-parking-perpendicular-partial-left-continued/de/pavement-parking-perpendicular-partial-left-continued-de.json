@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-73",
+  "image": {
+    "file": "pavement-parking-perpendicular-partial-left-continued-de.svg",
+    "sha1": "32590f4fcbdc44ed10b7c3ad9ac9b220c311b0a2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-73_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_links_(Mitte),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

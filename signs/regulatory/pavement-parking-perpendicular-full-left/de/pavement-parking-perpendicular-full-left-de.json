@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-80",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-left-de.svg",
+    "sha1": "ea3206de46a1822f096823ac18b1f52e213c67e2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-80_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_links,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

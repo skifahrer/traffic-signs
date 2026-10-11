@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-53",
+  "image": {
+    "file": "services-lpg-station-de.svg",
+    "sha1": "822643402c283754ac5e29543c9c9f8b655abf16",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-53_-_Autogastankstelle,_StVO_2006.svg",
+    "author": "(converted with dvk2svg.pl)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

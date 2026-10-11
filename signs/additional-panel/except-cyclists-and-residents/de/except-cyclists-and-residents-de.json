@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1020-12",
+  "image": {
+    "file": "except-cyclists-and-residents-de.svg",
+    "sha1": "1978c418cba8b141c795c09f7ac7492dfd0498a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1020-12_-_Radfahrer_und_Anlieger_frei_(450x600),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "385",
+  "image": {
+    "file": "locality-sign-de.svg",
+    "sha1": "9c8df0f769d2408b50f4401f5014e97ca5753944",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_385_-_Ortshinweistafel,_StVO_1988.svg",
+    "author": "nach historischen Vorgaben interpretiert und digital gezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

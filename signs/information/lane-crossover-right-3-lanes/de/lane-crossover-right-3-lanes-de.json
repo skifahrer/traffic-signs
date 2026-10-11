@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-22",
+  "image": {
+    "file": "lane-crossover-right-3-lanes-de.svg",
+    "sha1": "725e20e4ed983c11264e171fe06dda15724c4408",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-22_-_%C3%9Cberleitungstafel;_Darstellung_ohne_Gegenverkehr_-_dreistreifig_nach_rechts_(1600x1250);_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "550-60",
+  "image": {
+    "file": "lanes-merging-main-carriageway-5-through-plus-3-from-right-de.svg",
+    "sha1": "f0b7e70e2649ad257fc66e2a74aef50b7983bfe8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_550-60_Zusammenf%C3%BChrungstafel_-_an_durchgehender_Strecke.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "242.2",
+  "image": {
+    "file": "end-of-pedestrian-zone-de.svg",
+    "sha1": "3b6b52a607bb4f8bfa3936797d1c89e934ca149f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_242.2_-_Ende_einer_Fu%C3%9Fg%C3%A4ngerzone,_StVO_2009.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

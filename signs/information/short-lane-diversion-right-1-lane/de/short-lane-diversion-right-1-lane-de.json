@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "513-20",
+  "image": {
+    "file": "short-lane-diversion-right-1-lane-de.svg",
+    "sha1": "2da592cf19bfefaf6aebf994a9a14d1b12fd6ece",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_513-20_-_Verschwenkungstafel;_kurze_Verschwenkung_%E2%88%92_ohne_Gegenverkehr_%E2%88%92_einstreifig_nach_rechts_(1600x1250);_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

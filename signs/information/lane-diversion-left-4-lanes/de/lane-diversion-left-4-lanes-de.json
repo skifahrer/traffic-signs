@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "511-13",
+  "image": {
+    "file": "lane-diversion-left-4-lanes-de.svg",
+    "sha1": "c6d6cda490bc8a730a1cb3e706878ee9791d2be1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_511-13_Verschwenkungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1060-34",
+  "image": {
+    "file": "no-stopping-on-hard-shoulder-left-de.svg",
+    "sha1": "02b639096589dde3f6bfe54da83c26ee6f50e3dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1060-34_-_Haltverbot_auch_auf_dem_Seitenstreifen_links_(600x330),_StVO_BAnz_AT_09.04.2025_B2.svg",
+    "author": "Juliabackhausen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

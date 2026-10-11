@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-69",
+  "image": {
+    "file": "vehicle-type-cargo-bikes-de.svg",
+    "sha1": "d8669b2791616eead2d8f7f708120ee6d3379e91",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-69_-_Fahrrad_zum_Transport_von_G%C3%BCtern_oder_Personen_-_Lastenfahrrad_(330x600),_StVO_2020.svg",
+    "author": "nach den Vorgaben von 2020 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

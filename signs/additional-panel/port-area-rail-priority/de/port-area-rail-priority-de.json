@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1008-33",
+  "image": {
+    "file": "port-area-rail-priority-de.svg",
+    "sha1": "fd701e1b29726a9095e17b6a6be631e3e419758e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1008-33_-_Hafengebiet_Schienenfahrzeuge_haben_Vorrang_(600x450),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

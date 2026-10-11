@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "605-23",
+  "image": {
+    "file": "direction-board-warning-lights-left-2500x500mm-de.svg",
+    "sha1": "f3403958cc45a12eb6130880e133af36ef7d25b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_605-23_-_Warnlichtbake,_Aufstellung_links;_StVO_2013.svg",
+    "author": "Die digitale Nachzeichnung erfolgte nach den angegebenen Maßvorgaben und wurde von Mediatus interpretiert und umgesetzt.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

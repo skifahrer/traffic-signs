@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "627-30",
+  "image": {
+    "file": "guide-mark-straight-de.svg",
+    "sha1": "352467dff2af25a71b2bc588bc17f5540a18d58d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_627-30_-_Leitmal_waagerecht,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

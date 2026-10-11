@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "422-10",
+  "image": {
+    "file": "direction-sign-left-here-goods-vehicles-de.svg",
+    "sha1": "23b8e9dc4305e7868ba00a67287385122057b4c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_422-10_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3,5_t%E2%80%9C_-_hier_links;_StVO_2013.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

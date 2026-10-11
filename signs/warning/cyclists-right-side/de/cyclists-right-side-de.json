@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "138-10",
+  "image": {
+    "file": "cyclists-right-side-de.svg",
+    "sha1": "ee6d1152a35b2ee9b23e51f2a96b29669f28d2af",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_138-10_-_Radverkehr,_StVO_2013.svg",
+    "author": "MarianSigler {bla}. Nach den amtlichen Vorgaben 2017 digital neu umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

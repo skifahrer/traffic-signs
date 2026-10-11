@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1020-11",
+  "image": {
+    "file": "except-disabled-with-permit-de.svg",
+    "sha1": "fe2d09903884c4bfb1913eca659b35455f9652aa",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1020-11_-_Schwerbehinderte_mit_Parkausweis_Nr._..._frei,_StVO_1992.svg",
+    "author": "nach den Vorgaben interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

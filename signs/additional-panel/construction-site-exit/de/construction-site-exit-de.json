@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-33",
+  "image": {
+    "file": "construction-site-exit-de.svg",
+    "sha1": "3088dad94aa92b5e609de95d2c82ea8ff9e844d1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-33_-_Baustellenausfahrt,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

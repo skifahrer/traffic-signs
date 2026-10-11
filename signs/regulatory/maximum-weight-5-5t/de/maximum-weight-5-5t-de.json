@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "262-5,5",
+  "image": {
+    "file": "maximum-weight-5-5t-de.svg",
+    "sha1": "de6dba107984dd6c8969e0e9d15d477c977d0f55",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_262-5,5_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Masse,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-54",
+  "image": {
+    "file": "services-cng-station-de.svg",
+    "sha1": "e2c92604e8ec5629ef4960414db5e55565266cfa",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-54_-_Erdgastankstelle,_StVO_2006.svg",
+    "author": "(converted with dvk2svg.pl)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

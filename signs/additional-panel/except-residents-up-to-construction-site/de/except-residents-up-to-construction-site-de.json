@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1028-32",
+  "image": {
+    "file": "except-residents-up-to-construction-site-de.svg",
+    "sha1": "1695cf08f7b8cb4e387f0d7de13de3c55c225381",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1028-32_-_Anlieger_bis_Baustelle_frei_(330x600),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

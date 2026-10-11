@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1053-36",
+  "image": {
+    "file": "through-traffic-de.svg",
+    "sha1": "771f3a0433f550fda5018dcf847f29c4dd169ccb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1053-36_-_Durchgangsverkehr,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "438",
+  "image": {
+    "file": "advance-direction-sign-de.svg",
+    "sha1": "45d7949c4b67164aaaf2695e634bd14e3f1b0ea9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_438_-_Vorwegweiser;_StVO_1992.svg",
+    "author": "Andreas06, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

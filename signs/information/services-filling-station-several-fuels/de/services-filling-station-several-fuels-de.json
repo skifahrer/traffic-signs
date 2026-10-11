@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-70",
+  "image": {
+    "file": "services-filling-station-several-fuels-de.svg",
+    "sha1": "9849ea324f91e5c174ade7c2b096f10a52e18264",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-70_Tankstelle_mit_Tankm%C3%B6glichkeit_verschiedener_Kraftstoffarten.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

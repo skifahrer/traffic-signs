@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "605-14",
+  "image": {
+    "file": "direction-board-warning-lights-sign-right-2500x500mm-de.svg",
+    "sha1": "003b182add81bcb9ee2a926803959641c301b79d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_605-14_-_Warnlichtbake_mit_integriertem_Zeichen_222,_Aufstellung_rechts_mit_Zeichen_222-10;_StVO_2013.svg",
+    "author": "Die digitale Nachzeichnung erfolgte nach den angegebenen Maßvorgaben und wurde von Mediatus interpretiert und umgesetzt.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

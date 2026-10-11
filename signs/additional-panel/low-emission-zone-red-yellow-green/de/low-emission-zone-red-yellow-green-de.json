@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1031-50",
+  "image": {
+    "file": "low-emission-zone-red-yellow-green-de.svg",
+    "sha1": "246656aa59d89d0f4d29a3ec27c3ef06bc801aa4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1031-50_-_Freistellung_vom_Verkehrsverbot_nach_%C2%A7_40_Abs._1_BlmSchG_%E2%80%93_rote,_gelbe_und_gr%C3%BCne_Plakette,_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

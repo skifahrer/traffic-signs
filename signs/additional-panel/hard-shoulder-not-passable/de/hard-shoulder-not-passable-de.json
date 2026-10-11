@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-60",
+  "image": {
+    "file": "hard-shoulder-not-passable-de.svg",
+    "sha1": "d56a1ae86f5a1d266559e7093f15cadabcf219cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-60_-_Seitenstreifen_nicht_befahrbar_(600x450),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

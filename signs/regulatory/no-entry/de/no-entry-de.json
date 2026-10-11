@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "267",
+  "image": {
+    "file": "no-entry-de.svg",
+    "sha1": "d4bd1bbe39d7cc48b562469473e4d204189f1bf6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_267_-_Verbot_der_Einfahrt,_StVO_1970.svg",
+    "author": "Hochladen der ursprünglichen Version: MarianSigler; nach den historischen Vorgaben digital neu umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

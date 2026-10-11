@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1014-52",
+  "image": {
+    "file": "tunnel-category-d-de.svg",
+    "sha1": "d4c4526358c91dddca629a5de2d2d1584aecf24d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1014-52_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_(D),_StVO_2007.svg",
+    "author": "erstes Hochladen einer Datei 2011 durch: Mailtosap; eine nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand 2018 durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "455.1-22",
+  "image": {
+    "file": "detour-sign-lane-change-right-de.svg",
+    "sha1": "bdfb8dd6e92dcf28729b8557b7e626746a0da1e8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_455.1-22_-_Ank%C3%BCndigung_oder_Fortsetzung_der_Umleitung,_rechts_einordnen,_StVO_2013.svg",
+    "author": "vektorisiert durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

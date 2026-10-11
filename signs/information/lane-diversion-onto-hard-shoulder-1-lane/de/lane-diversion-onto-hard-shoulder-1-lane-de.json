@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "511-25",
+  "image": {
+    "file": "lane-diversion-onto-hard-shoulder-1-lane-de.svg",
+    "sha1": "b54b5112128ff1685bcd4842f2bdd929c098e5ac",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_511-25_-_Verschwenkungstafel_%E2%88%92_ohne_Gegenverkehr_%E2%88%92_einstreifige_Verschwenkung_auf_den_Seitenstreifen_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

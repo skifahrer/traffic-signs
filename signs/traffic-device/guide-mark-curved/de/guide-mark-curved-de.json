@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "627-50",
+  "image": {
+    "file": "guide-mark-curved-de.svg",
+    "sha1": "f7eec1bb5028baa5c3a63a8927215d6bb838b1ad",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_627-50_-_Leitmal_(gebogen),_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

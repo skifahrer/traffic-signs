@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "605-10",
+  "image": {
+    "file": "direction-board-hatched-right-1000x250mm-de.svg",
+    "sha1": "6a483202c01c6f0fa779a8e50fcc42e18d905dea",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_605-10_-_Leitbake_(Aufstellung_rechts),_1000x250;_StVO_1992.svg",
+    "author": "Andreas 06 und Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

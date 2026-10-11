@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-51",
+  "image": {
+    "file": "lane-crossover-left-4-lanes-3-crossed-rest-straight-de.svg",
+    "sha1": "7a633757592684d3f9ab85fd5e18273f774dde3a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-51_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

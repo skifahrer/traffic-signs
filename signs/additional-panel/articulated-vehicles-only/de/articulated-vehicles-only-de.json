@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1048-14",
+  "image": {
+    "file": "articulated-vehicles-only-de.svg",
+    "sha1": "c11eaad68c63849ba7cd1a0228dc1f42e0f29c3f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1048-14_-_nur_Sattelkraftfahrzeuge,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "328",
+  "image": {
+    "file": "emergency-lay-by-de.svg",
+    "sha1": "7cab389f2020a8e1b9993208ecb15919ded8c10a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_328_-_Nothalte-_und_Pannenbucht,_StVO_2006.svg",
+    "author": "Andreas06 and Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "524-31",
+  "image": {
+    "file": "number-of-lanes-3-with-no-goods-vehicles-de.svg",
+    "sha1": "cbb63c353c89c9c5343be4069f8e1c0e857af94b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_524-31_-_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_253_-_dreistreifig_in_Fahrtrichtung_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

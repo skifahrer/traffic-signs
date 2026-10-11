@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "283-21",
+  "image": {
+    "file": "no-stopping-left-start-de.svg",
+    "sha1": "6d6d5ac68b784bf5b71b673babb5b0882f40ec65",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_283-21_-_Absolutes_Haltverbot_(Anfang),_Aufstellung_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

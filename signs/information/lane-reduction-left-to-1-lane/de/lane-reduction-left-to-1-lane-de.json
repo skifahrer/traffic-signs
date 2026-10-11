@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "531-20",
+  "image": {
+    "file": "lane-reduction-left-to-1-lane-de.svg",
+    "sha1": "76e6b6231d74ccf4e60aefe2b5794bb5d0e14e10",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_531-20_-_Einengungstafel_%E2%88%92_ohne_Gegenverkehr_%E2%88%92_Einzug_links,_noch_1_Fahrstreifen_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "157-21",
+  "image": {
+    "file": "level-crossing-countdown-marker-3-bars-with-distance-left-side-de.svg",
+    "sha1": "272708a7fb94861bd8ac9c10ba8229d000d7bbfc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_157-21_-Dreistreifige_Bake_mit_Entfernungsangabe_-_Aufstellung_links;_StVO_2013.svg",
+    "author": "nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

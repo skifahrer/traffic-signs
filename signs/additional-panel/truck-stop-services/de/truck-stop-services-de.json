@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-15",
+  "image": {
+    "file": "truck-stop-services-de.svg",
+    "sha1": "8f1b1af6b12c3e58d3eef02ab305afd3eecd0346",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-15_-_Information_Leistungsumfang_(zu_Zeichen_448.1),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

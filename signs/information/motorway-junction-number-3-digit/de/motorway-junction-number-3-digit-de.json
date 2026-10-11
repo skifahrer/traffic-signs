@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "406-51",
+  "image": {
+    "file": "motorway-junction-number-3-digit-de.svg",
+    "sha1": "342c1681f0eab3bfc4f585907e1d7b55b27f47ea",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_406-51_-_Knotenpunkte_der_Autobahnen_(drei_oder_mehrstellige_Nummer),_650x1050;_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1013-51",
+  "image": {
+    "file": "leave-hard-shoulder-de.svg",
+    "sha1": "1d6bff7253b694550e837c3ec946cce75d13fbe8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1013-51_-_Seitenstreifen_r%C3%A4umen,_StVO_2001.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

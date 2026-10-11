@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "512-22",
+  "image": {
+    "file": "contraflow-lane-diversion-right-2-plus-1-oncoming-de.svg",
+    "sha1": "6504435ce5b102340b8ee349e0d03dd270468225",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_512-22_Verschwenkungstafel_-_mit_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

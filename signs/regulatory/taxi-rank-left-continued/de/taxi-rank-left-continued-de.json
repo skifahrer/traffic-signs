@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "229-31",
+  "image": {
+    "file": "taxi-rank-left-continued-de.svg",
+    "sha1": "2510789c5bfeb0c7d8ea7473279d79084d68f84f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_229-31_-_Taxenstand_(Mitte),_Aufstellung_links,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben komplett digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

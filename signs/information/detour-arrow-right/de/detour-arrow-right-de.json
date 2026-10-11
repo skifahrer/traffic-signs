@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "454-20",
+  "image": {
+    "file": "detour-arrow-right-de.svg",
+    "sha1": "4be76464bb88459f75e86615a7135d9a6ea33d14",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_454-20_%E2%80%93_Umleitungswegweiser_(rechtsweisend),_StVO_1992.svg",
+    "author": "erstes Hochladen einer frei gestalteten Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

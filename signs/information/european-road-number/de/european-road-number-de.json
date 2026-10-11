@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "410",
+  "image": {
+    "file": "european-road-number-de.svg",
+    "sha1": "9bdad5c8f3a016a460eea84be653ebcc7b316b49",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_410_-_Nummernschild_f%C3%BCr_Europastra%C3%9Fen,_StVO_1992.svg",
+    "author": "Andreas 06, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

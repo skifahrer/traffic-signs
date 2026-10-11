@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-31",
+  "image": {
+    "file": "smoke-de.svg",
+    "sha1": "4a3bed8ac05b4a266b594ecfd17242569d76fd20",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-31_-_Rauch,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

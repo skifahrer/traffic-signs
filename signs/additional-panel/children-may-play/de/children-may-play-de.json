@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-10",
+  "image": {
+    "file": "children-may-play-de.svg",
+    "sha1": "3dcf8455ab956625adc3a64cb6e315a3f6796c61",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-10_-_erlaubt_Kindern,_auch_auf_der_Fahrbahn_und_dem_Seitenstreifen_zu_spielen,_StVO_1992.svg",
+    "author": "Erstes Hochladen: Andreas 06, neu interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

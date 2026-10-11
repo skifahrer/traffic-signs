@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1048-18",
+  "image": {
+    "file": "rail-vehicles-only-de.svg",
+    "sha1": "a7616a53cf9690edc7940ddc683cbebd007d54bc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1048-18_-_nur_Schienenbahn_(600x450),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Bigbossfarin; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

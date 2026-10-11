@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "327-50",
+  "image": {
+    "file": "tunnel-with-length-metres-de.svg",
+    "sha1": "46f61d06245f1f8daeb7c7ec9180c2d870fef005",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_327-50_-_Tunnel,_mit_L%C3%A4ngenangabe_in_m,_StVO_2006.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

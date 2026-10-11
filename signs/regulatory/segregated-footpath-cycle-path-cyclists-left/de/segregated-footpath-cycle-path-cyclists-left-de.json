@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "241-30",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-de.svg",
+    "sha1": "208fed2910881d140807d07298f6666c97b1dee5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_241-30_-_getrennter_Rad-_und_Fu%C3%9Fweg,_StVO_1992.svg",
+    "author": "Bundesministerium für Verkehr, Bau- und Wohnungswesen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

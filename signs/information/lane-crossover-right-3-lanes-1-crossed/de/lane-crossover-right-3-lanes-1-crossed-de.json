@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-24",
+  "image": {
+    "file": "lane-crossover-right-3-lanes-1-crossed-de.svg",
+    "sha1": "53f160dc889419573f8926b74f249c11eaacf6e7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-24_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_-_dreistreifig_nach_rechts,_ein_Fahrstreifen_%C3%BCbergeleitet_(1600x1250);_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

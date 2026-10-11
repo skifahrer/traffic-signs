@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "615",
+  "image": {
+    "file": "mobile-closure-board-de.svg",
+    "sha1": "73a942fcff93dd97690baa28bf73ca7dbc21ed38",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_615_-_fahrbare_Absperrtafel,_StVO_1992.svg",
+    "author": "Andreas06 and Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

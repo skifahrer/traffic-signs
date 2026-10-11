@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "245",
+  "image": {
+    "file": "public-transport-lane-de.svg",
+    "sha1": "e46f18ee82a7c0eadf8750b6f98c751af8cb6107",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_245_-_Bussonderfahrstreifen,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

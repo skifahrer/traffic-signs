@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1012-52",
+  "image": {
+    "file": "retirement-home-de.svg",
+    "sha1": "b06e63ebb5003d85086055014f6ccf04aaaeb66d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1012-52_-_Altenheim_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

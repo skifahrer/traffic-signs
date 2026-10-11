@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "162-20",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-left-side-de.svg",
+    "sha1": "e299b2bd8e5b547b7312f1febb067eed1f6ce57b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_162-20_-_einstreifige_Bake_(Aufstellung_links),_StVO_1992.svg",
+    "author": "Nach den amtlichen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

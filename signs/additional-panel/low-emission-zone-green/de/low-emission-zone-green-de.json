@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1031-52",
+  "image": {
+    "file": "low-emission-zone-green-de.svg",
+    "sha1": "edd11638192bb053390111ee217de6ffab648c2f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1031-52_-_Freistellung_vom_Verkehrsverbot_nach_%C2%A7_40_Abs._1_BlmSchG_%E2%80%93_gr%C3%BCne_Plakette,_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

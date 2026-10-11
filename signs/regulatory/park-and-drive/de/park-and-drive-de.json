@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "316-50",
+  "image": {
+    "file": "park-and-drive-de.svg",
+    "sha1": "673c6afbc4ba78f85a43c27a8435a5a09f4ad269",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_316-50_-_Parken_und_Mitfahren,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

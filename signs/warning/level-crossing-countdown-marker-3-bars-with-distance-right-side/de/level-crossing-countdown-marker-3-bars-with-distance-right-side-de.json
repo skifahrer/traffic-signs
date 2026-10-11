@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "157-11",
+  "image": {
+    "file": "level-crossing-countdown-marker-3-bars-with-distance-right-side-de.svg",
+    "sha1": "992f249cbf5a72f4e1cdd8933627c0335fe538a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_157-11_-_dreistreifige_Bake_(Aufstellung_rechts),_StVO_1992.svg",
+    "author": "Nach den amtlichen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

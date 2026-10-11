@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1012-37",
+  "image": {
+    "file": "ramp-metering-de.svg",
+    "sha1": "76c3a7e7bbec0674347950758fa8e6165922ab64",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1012-37_-_Zuflussregelung_(600x330),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "211-10",
+  "image": {
+    "file": "turn-left-here-de.svg",
+    "sha1": "00135fa70b6c744f1649334f6a1f734f4ac4107a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_211-10_-_Vorgeschriebene_Fahrtrichtung,_hier_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

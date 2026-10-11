@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "223.2-50",
+  "image": {
+    "file": "end-of-hard-shoulder-running-2-lanes-de.svg",
+    "sha1": "22ba9e17c60d6a66cb400462bbc73b220a511a93",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_223.2-50_-_Seitenstreifen_nicht_mehr_befahren,_2_Fahrstreifen_u._Seitenstreifen,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "511-20",
+  "image": {
+    "file": "lane-diversion-right-1-lane-de.svg",
+    "sha1": "b550e372d0b652f4b845af885bd1b1758f9c178c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_511-20_-_Verschwenkungstafel;_Darstellung_ohne_Gegenverkehr_-_einstreifig_nach_rechts_(1600x1250);_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

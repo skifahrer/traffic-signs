@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "442-23",
+  "image": {
+    "file": "advance-direction-sign-right-bicycles-de.svg",
+    "sha1": "59621ce2ee75d9cc551915f0c472ab5d37e24717",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_442-23_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9ERadverkehr%E2%80%9C_(rechtsweisend),_StVO_2017.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

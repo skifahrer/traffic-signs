@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "442-13",
+  "image": {
+    "file": "advance-direction-sign-left-bicycles-de.svg",
+    "sha1": "8fae08310709d50e0a0f57a217b593a489b996a0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_442-13_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9ERadverkehr%E2%80%9C_-_linksweisend;_StVO_2017.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "551-20",
+  "image": {
+    "file": "lanes-merging-slip-road-1-merging-plus-1-through-de.svg",
+    "sha1": "da197e1dc529e014d9362bfe138e60afc09a433f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_551-20_-_Zusammenf%C3%BChrungstafel;_Darstellung_ohne_Gegenverkehr_-_eins_plus_eins_Fahrstreifen,_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

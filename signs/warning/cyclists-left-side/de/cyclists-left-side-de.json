@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "138-20",
+  "image": {
+    "file": "cyclists-left-side-de.svg",
+    "sha1": "d2422e893131e98472b30bdcf831c6f90eca0ed4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_138-20_-_Radverkehr_-_Aufstellung_links,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben 2017 digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

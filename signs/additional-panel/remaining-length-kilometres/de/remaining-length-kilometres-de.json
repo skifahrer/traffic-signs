@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1001-33",
+  "image": {
+    "file": "remaining-length-kilometres-de.svg",
+    "sha1": "f8690502f15114d23b792a50195744a1e40d44c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1001-33_-_noch_..._km,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

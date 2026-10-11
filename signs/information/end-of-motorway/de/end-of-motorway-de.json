@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "330.2",
+  "image": {
+    "file": "end-of-motorway-de.svg",
+    "sha1": "c6f30c24cf427b5cabcec6e00528519c83a67c0d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_330.2_-_Ende_der_Autobahn,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "244.3",
+  "image": {
+    "file": "bicycle-zone-de.svg",
+    "sha1": "02ab457e6e25e06a6244197491d668212742d847",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_244.3_-_Beginn_einer_Fahrradzone,_StVO_2020.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

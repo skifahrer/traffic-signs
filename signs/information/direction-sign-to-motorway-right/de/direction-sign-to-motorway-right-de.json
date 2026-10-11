@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "430-20",
+  "image": {
+    "file": "direction-sign-to-motorway-right-de.svg",
+    "sha1": "3aa5670a7853b59a74190d55fb16160dcd8ff365",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_430-20_-_Wegweiser_zur_Autobahn,_StVO_1992.svg",
+    "author": "nach den offiziellen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

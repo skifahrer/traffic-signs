@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "441",
+  "image": {
+    "file": "advance-direction-sign-to-motorway-diagrammatic-de.svg",
+    "sha1": "e3c648b31c0416167ca2f066b47c6bce2c420f99",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_441_-_Gegliederter_Vorwegweiser_zur_Autobahn_(3000x2750)_-_nach_RWB;_StVO_2009.svg",
+    "author": "de:Bundesministerium für Verkehr, Bau- und Wohnungswesen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

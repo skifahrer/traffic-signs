@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "514-26",
+  "image": {
+    "file": "contraflow-short-lane-diversion-right-1-plus-3-oncoming-de.svg",
+    "sha1": "c088f82dc8539b3a8bed869674b53fe9b275e704",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_514-26_Verschwenkungstafel,_kurze_Verschwenkung_-_mit_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

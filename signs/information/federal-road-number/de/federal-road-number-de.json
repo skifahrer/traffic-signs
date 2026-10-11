@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "401",
+  "image": {
+    "file": "federal-road-number-de.svg",
+    "sha1": "082dc2b83cf5b9be08eec2613911d0f7eb23a1eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesstra%C3%9Fe_35_number.svg",
+    "author": "The Federal Government of Germany.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

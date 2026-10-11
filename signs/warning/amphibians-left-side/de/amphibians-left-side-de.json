@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-24",
+  "image": {
+    "file": "amphibians-left-side-de.svg",
+    "sha1": "408db49d0a8a5af8c920da8b6daeee7534c61792",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-24_-_Amphibienwanderung,_Aufstellung_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

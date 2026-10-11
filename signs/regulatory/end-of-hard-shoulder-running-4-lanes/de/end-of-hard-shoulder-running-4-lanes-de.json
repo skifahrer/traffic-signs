@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "223.2-52",
+  "image": {
+    "file": "end-of-hard-shoulder-running-4-lanes-de.svg",
+    "sha1": "475f02bdc9f6296cbbcb11ae633ef0aa82dc6fb9",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_223.2-52_-_Seitenstreifen_nicht_mehr_befahren,_4_Fahrstreifen_u._Seitenstreifen,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

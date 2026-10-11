@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-12",
+  "image": {
+    "file": "lane-crossover-left-3-lanes-de.svg",
+    "sha1": "8a087c0c181f174e992dc89192a05ee52c9947fe",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-12_-_%C3%9Cberleitungstafel;_Darstellung_ohne_Gegenverkehr_-_dreistreifig_nach_links_(1600x1250);_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

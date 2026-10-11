@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "273-70",
+  "image": {
+    "file": "minimum-distance-70m-de.svg",
+    "sha1": "4af85635cc06aaa7743c23e73734e270ac6b7f5a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_273-70_-_Verbot_des_Unterschreitens_des_angegebenen_Mindestabstandes,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

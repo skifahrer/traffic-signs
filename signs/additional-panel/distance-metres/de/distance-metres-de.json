@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1004-30",
+  "image": {
+    "file": "distance-metres-de.svg",
+    "sha1": "e20f27abd66333529b16e6826273012a22d4cffd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1004-30_-_nach_100_m,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

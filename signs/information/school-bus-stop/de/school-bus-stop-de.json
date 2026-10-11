@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "224-51",
+  "image": {
+    "file": "school-bus-stop-de.svg",
+    "sha1": "efb6c369e89b0e5f1fbb9bd0109fb3e5024809e7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_224-51_-_Schulbushaltestelle_(mit_Zusatzzeichen_1042-36),_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben komplett digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

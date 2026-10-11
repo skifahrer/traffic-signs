@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1020-13",
+  "image": {
+    "file": "except-inline-skaters-de.svg",
+    "sha1": "e9079770aaabfee34b3a70bc99c102ae2bc116e8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1020-13_-_Inline-Skaten_und_Rollschuhfahren_frei,_StVO_2009.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

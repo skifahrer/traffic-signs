@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "620-40",
+  "image": {
+    "file": "delineator-white-right-de.svg",
+    "sha1": "d049584b1eb0a91063be84d43b9bc51617d845ac",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_620-40_-_Leitpfosten_(rechts),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

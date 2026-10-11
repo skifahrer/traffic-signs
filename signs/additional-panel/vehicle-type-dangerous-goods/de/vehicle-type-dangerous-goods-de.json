@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1052-30",
+  "image": {
+    "file": "vehicle-type-dangerous-goods-de.svg",
+    "sha1": "5145f6aca745736f7c5852fce38a47fade57bbe5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1052-30_-_Streckenverbot_f%C3%BCr_den_Transport_gef%C3%A4hrlicher_G%C3%BCter_auf_Stra%C3%9Fen,_StVO_1992.svg",
+    "author": "see disciption",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

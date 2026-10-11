@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "108-20",
+  "image": {
+    "file": "steep-descent-20-percent-de.svg",
+    "sha1": "523ca3aefffd652cf47f0d28fe7d608b2b414bc0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_108-20_-_Gef%C3%A4lle,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

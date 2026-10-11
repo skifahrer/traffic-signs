@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "450-55",
+  "image": {
+    "file": "exit-countdown-yellow-300m-de.svg",
+    "sha1": "8055af444ee27e3b68b176855ba8e2c52c71eed8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_450-55_-_Ank%C3%BCndigungsbake_dreistreifig_(300_m,_gelb)_StVO_2013.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

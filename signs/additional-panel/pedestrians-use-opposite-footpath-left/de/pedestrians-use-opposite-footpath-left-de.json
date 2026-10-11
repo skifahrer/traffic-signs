@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1000-12",
+  "image": {
+    "file": "pedestrians-use-opposite-footpath-left-de.svg",
+    "sha1": "f8bf4874d7bff0c514414a7df73d2e11cfb5671d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1000-12_-_Fu%C3%9Fg%C3%A4nger_Gehweg_gegen%C3%BCber_benutzen,_linksweisend;_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

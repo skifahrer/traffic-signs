@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "460-30",
+  "image": {
+    "file": "alternative-route-straight-de.svg",
+    "sha1": "bdaf4dbcf0316d6481f9fcccdb2081359bdd9802",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_460-30_-_Bedarfsumleitung_geradeaus,_StVO_1992.svg",
+    "author": "erstes Hochladen einer frei gestalteten Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

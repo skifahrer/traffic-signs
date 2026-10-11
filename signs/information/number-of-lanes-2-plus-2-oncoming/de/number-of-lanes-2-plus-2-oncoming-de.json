@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "522-33",
+  "image": {
+    "file": "number-of-lanes-2-plus-2-oncoming-de.svg",
+    "sha1": "eb7b038130f5618cfb46c90daa06dafe92ca95cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_522-33_-_Fahrstreifentafel;_Darstellung_mit_Gegenverkehr_-_zwei_Fahrstreifen_in_Fahrtrichtung,_zwei_Fahrstreifen_in_Gegenrichtung_(1600x1250);_StVO_1992.svg",
+    "author": "Federal Highway Research Institute (Germany)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1012-33",
+  "image": {
+    "file": "no-mopeds-panel-de.svg",
+    "sha1": "05385a36e7b2f753ee2e3f6e6c54972886c425d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1012-33_-_keine_Mofas_(330x600),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

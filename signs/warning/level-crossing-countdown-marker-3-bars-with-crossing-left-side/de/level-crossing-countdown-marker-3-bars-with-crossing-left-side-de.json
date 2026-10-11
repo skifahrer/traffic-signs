@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "156-20",
+  "image": {
+    "file": "level-crossing-countdown-marker-3-bars-with-crossing-left-side-de.svg",
+    "sha1": "bb597baddbb78e1d49db09fb6862b9a6d7ac364a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_156-20_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake,_Aufstellung_links,_StVO_2013.svg",
+    "author": "digital interpretiert und umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

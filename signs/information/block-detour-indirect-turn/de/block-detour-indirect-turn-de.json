@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "590-11",
+  "image": {
+    "file": "block-detour-indirect-turn-de.svg",
+    "sha1": "afef769c133eae919db5d2287c451389f15e359a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_590-11_-_Blockumfahrung_rechts,_rechts,_rechts_(600x600),_StVO_2009.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

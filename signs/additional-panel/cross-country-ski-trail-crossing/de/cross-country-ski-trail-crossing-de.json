@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-56",
+  "image": {
+    "file": "cross-country-ski-trail-crossing-de.svg",
+    "sha1": "ce9ad25886c96d6b8dde65037da3f784807b48e3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-56_-_Skiwanderweg_kreuzt_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

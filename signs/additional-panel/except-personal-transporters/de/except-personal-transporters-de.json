@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1022-16",
+  "image": {
+    "file": "except-personal-transporters-de.svg",
+    "sha1": "051b4470545091ff3437a3df00438d7070b98a8e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1022-16_-_Elektrokleinstfahrzeuge_frei_(600x600),_StVO_2019.svg",
+    "author": "nach den Vorgaben 2019 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

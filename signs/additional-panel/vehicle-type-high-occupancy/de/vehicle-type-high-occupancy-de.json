@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-71",
+  "image": {
+    "file": "vehicle-type-high-occupancy-de.svg",
+    "sha1": "88024c7b9dc1e709f8edf2e574d4670ce76f5e5f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-71_-_Mehrfachbesetzte_Personenkraftwagen_(330x600),_StVO_2020.svg",
+    "author": "nach den Vorgaben von 2020 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

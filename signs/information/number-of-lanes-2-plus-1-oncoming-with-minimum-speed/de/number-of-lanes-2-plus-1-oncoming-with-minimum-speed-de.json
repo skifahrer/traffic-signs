@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "526-31",
+  "image": {
+    "file": "number-of-lanes-2-plus-1-oncoming-with-minimum-speed-de.svg",
+    "sha1": "6bf7875092853dddcca40dcbf3f92babd2c15cb1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_526-31_-_Fahrstreifentafel_-_mit_Gegenverkehr_und_mit_integriertem_Zeichen_275_-_zweistreifig_in_Fahrtrichtung_und_einstreifig_in_Gegenrichtung,_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

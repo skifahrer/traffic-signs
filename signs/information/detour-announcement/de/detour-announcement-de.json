@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "457.1",
+  "image": {
+    "file": "detour-announcement-de.svg",
+    "sha1": "60216c097b84c5b502edb2fe43705ca64912d751",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_457.1_-_Umleitungsank%C3%BCndigung,_StVO_2013.svg",
+    "author": "erstes Hochladen einer frei gestalteten Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

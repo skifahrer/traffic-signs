@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "331.2",
+  "image": {
+    "file": "end-of-expressway-de.svg",
+    "sha1": "54b4c2825af4b109883308bf32dee0cf5da88548",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_331.2_-_Ende_der_Kraftfahrstra%C3%9Fe,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

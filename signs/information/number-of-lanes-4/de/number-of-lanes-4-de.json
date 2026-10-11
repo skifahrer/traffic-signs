@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "521-32",
+  "image": {
+    "file": "number-of-lanes-4-de.svg",
+    "sha1": "e12799e7febda09ad759be785e11a985c6b872bb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_521-32_-_Fahrstreifentafel;_Darstellung_ohne_Gegenverkehr_-_vier_Fahrstreifen_in_Fahrtrichtung_(1600x1250);_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

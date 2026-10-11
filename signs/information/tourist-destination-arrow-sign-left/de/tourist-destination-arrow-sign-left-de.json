@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.1-12",
+  "image": {
+    "file": "tourist-destination-arrow-sign-left-de.svg",
+    "sha1": "322a077bfdb9d1f7e02eb8ededa8a93ccc1b882d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.1-12_-_Touristischer_Hinweis_als_Wegweiser_-_Pfeilwegweiser_linksweisend,_StVO_2013.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

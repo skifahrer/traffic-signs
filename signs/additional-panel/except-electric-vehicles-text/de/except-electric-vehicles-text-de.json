@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1026-61",
+  "image": {
+    "file": "except-electric-vehicles-text-de.svg",
+    "sha1": "93791642629384fd2b8f8a5190e78c4bec7afe6c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1026-61_-_Elektrofahrzeuge_frei,_StVO_2011.svg",
+    "author": "see disciption",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "255",
+  "image": {
+    "file": "no-motorcycles-de.svg",
+    "sha1": "c2adbaa1ec9de21bf8ba2a32799723c3c08d934a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_255_-_Verbot_f%C3%BCr_Kraftr%C3%A4der,_auch_mit_Beiwagen,_Kleinkraftr%C3%A4der_und_Mofas,_StVO_1992.svg",
+    "author": "Bundesministerium für Verkehr, Bau- und Wohnungswesen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

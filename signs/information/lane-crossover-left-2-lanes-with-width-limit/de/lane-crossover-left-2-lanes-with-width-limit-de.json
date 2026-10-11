@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "505-11",
+  "image": {
+    "file": "lane-crossover-left-2-lanes-with-width-limit-de.svg",
+    "sha1": "9ab182b4c365b5988d7311f4ec01670934d17fce",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_505-11_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_und_mit_integriertem_Zeichen_264_StVO_-_zweistreifig_nach_links_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

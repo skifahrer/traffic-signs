@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1040-36",
+  "image": {
+    "file": "school-route-time-de.svg",
+    "sha1": "3ea2cd8e050294e65d9751e8530842bd5c6891e0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1040-36_-_Schulweg_i._V._m._zeitlicher_Begrenzung_(zu_Z_101_oder_274),_600x330;_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "162-21",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-with-distance-left-side-de.svg",
+    "sha1": "34aaa86689f643fb26cca4a9337e2999e3580311",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_162-21_-_einstreifige_Bake_mit_Entfernungsangabe_(Aufstellung_links),_StVO_1992.svg",
+    "author": "Nach den amtlichen Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "538-31",
+  "image": {
+    "file": "number-of-lanes-3-with-end-of-all-restrictions-de.svg",
+    "sha1": "e7fadbca31089c1f97ec6526c8d5516fc92d1949",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_538-31_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_282.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-10",
+  "image": {
+    "file": "lane-crossover-left-1-lane-de.svg",
+    "sha1": "6849d1fc3442e4db6788e0c4fefb94e4cce423b4",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-10_-_%C3%9Cberleitungstafel,_Darstellung_ohne_Gegenverkehr,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

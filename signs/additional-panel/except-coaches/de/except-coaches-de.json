@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1026-31",
+  "image": {
+    "file": "except-coaches-de.svg",
+    "sha1": "97f6a9f77a8a199ce495d5b5db2b017b0576a70e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1026-31_-_Kraftomnibusse_im_Gelegenheitsverkehrs_frei_(330x600),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

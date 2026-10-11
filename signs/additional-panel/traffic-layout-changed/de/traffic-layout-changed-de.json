@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1008-31",
+  "image": {
+    "file": "traffic-layout-changed-de.svg",
+    "sha1": "da61eeafc6604ea96bf98daff5db34f0c2fd187d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1008-31_-_Verkehrsf%C3%BChrung_ge%C3%A4ndert,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2017 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

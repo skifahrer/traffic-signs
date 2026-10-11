@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "317",
+  "image": {
+    "file": "hikers-car-park-de.svg",
+    "sha1": "7b1585550a07fa56cdf92df67b276ec4f1265b1e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_317_-_Wandererparkplatz,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

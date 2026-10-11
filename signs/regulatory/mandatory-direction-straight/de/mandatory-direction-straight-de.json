@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "209-30",
+  "image": {
+    "file": "mandatory-direction-straight-de.svg",
+    "sha1": "973a4aba4106552d640b58ffc821f865fc3ebe37",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_209-30_-_Vorgeschriebene_Fahrtrichtung,_Geradeaus,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

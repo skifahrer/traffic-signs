@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-35",
+  "image": {
+    "file": "sundays-and-holidays-time-de.svg",
+    "sha1": "e44aad96d6546ce83d3fbb7af091011c10633d12",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-35_-_6_-_22_h_an_Sonn-und_Feiertagen_(450x600),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

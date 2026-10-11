@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-85",
+  "image": {
+    "file": "lane-crossover-right-4-lanes-3-crossed-rest-shifted-left-de.svg",
+    "sha1": "8593f00392413a3934300c63fa29e271e2cce66f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-85_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

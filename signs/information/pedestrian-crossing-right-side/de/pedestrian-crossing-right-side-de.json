@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "350-10",
+  "image": {
+    "file": "pedestrian-crossing-right-side-de.svg",
+    "sha1": "6fd803658af5d900ec94ddcfd4a899cf09252783",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_350-10_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg_(rechts),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

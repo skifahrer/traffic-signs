@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "333.1",
+  "image": {
+    "file": "exit-de.svg",
+    "sha1": "71ef6116a00d75b8c4b30871ca5a513562591105",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_333.1_-_Ausfahrt_von_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn,_StVO_2017.svg",
+    "author": "nach den Vorgaben interpretiert und digital gezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

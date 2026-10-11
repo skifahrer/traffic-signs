@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "546-10",
+  "image": {
+    "file": "lane-gain-left-to-2-lanes-plus-1-oncoming-with-minimum-speed-de.svg",
+    "sha1": "0fb7a2104caa2327a28b58822f08f438ebf96df5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_546-10_-_Aufweitungstafel_%E2%88%92_mit_Gegenverkehr_mit_integriertem_Zeichen_275_%E2%88%92_einstreifig_plus_Fahrstreifen_links_und_1_Fahrstreifen_in_Gegenrichtung_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

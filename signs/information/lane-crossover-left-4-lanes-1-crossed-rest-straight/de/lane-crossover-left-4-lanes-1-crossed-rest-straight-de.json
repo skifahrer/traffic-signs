@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-19",
+  "image": {
+    "file": "lane-crossover-left-4-lanes-1-crossed-rest-straight-de.svg",
+    "sha1": "cbaa640add7b941ab207d8f4941f819ff9a55511",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-19_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

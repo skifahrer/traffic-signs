@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "442-16",
+  "image": {
+    "file": "advance-direction-sign-roundabout-left-water-pollutants-de.svg",
+    "sha1": "d98a04e2e129afcd4bf69391bfcd82a1d8f64aa1",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_442-16_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_im_Kreisverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "434-51",
+  "image": {
+    "file": "table-direction-sign-partly-split-de.svg",
+    "sha1": "b5bfc5cf05ff01f3dfe5cf998768baa417e9b013",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_434-51_-_Tabellenwegweiser_teilaufgel%C3%B6ste_Form_(nach_RWBA),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

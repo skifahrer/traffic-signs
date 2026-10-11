@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1007-54",
+  "image": {
+    "file": "left-turning-traffic-de.svg",
+    "sha1": "ab2eb967334075eda08018ad4f325fa9bebeec44",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1007-54_-_Linksabbieger_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

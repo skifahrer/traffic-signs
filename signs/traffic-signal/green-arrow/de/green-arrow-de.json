@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "de",
   "code": "720",
+  "image": {
+    "file": "green-arrow-de.svg",
+    "sha1": "ce305c882d96fcd20f75988d75cee0bbc691950f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_720_-_Gr%C3%BCnpfeil,_StVO_1994.svg",
+    "author": "Bundesverkehrsministerium",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

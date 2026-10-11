@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-51",
+  "image": {
+    "file": "snow-or-ice-de.svg",
+    "sha1": "90971647e80b5ffc1d832c512d12b020e5eba440",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-51_-_Schnee-_oder_Eisgl%C3%A4tte,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1060-31",
+  "image": {
+    "file": "no-stopping-on-hard-shoulder-right-de.svg",
+    "sha1": "c10d3c688ec8a1aa85d5f559d7e1d841701a1004",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1060-31_-_Haltverbot_auch_auf_dem_Seitenstreifen_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

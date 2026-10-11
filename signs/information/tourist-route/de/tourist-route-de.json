@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.2",
+  "image": {
+    "file": "tourist-route-de.svg",
+    "sha1": "718562f32cdb16cd4663dffa47ed8414a71e4950",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.2_-_touristische_Unterrichtungstafel,_StVO_2009.svg",
+    "author": "erstes Hochladen einer Datei durch McShark, weitere Arbeiten am Objekt durch Gohnarch und Bigbossfarin (falsche Größe); nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

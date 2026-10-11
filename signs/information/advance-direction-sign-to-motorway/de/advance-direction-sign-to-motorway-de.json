@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "440",
+  "image": {
+    "file": "advance-direction-sign-to-motorway-de.svg",
+    "sha1": "00c7e727a7f100cf8f3c188d998b85412fd75605",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_440_-_Vorwegweiser_zur_Autobahn_(3000x3250);_StVO_1988.svg",
+    "author": "Andreas 06, McShark, Gohnarch, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

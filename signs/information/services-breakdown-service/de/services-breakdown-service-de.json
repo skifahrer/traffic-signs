@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-62",
+  "image": {
+    "file": "services-breakdown-service-de.svg",
+    "sha1": "13d3ec1d12bd1c3860f37433aa7885a40b9d4b26",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-62_-_Pannenhilfe_(600x600),_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "308",
+  "image": {
+    "file": "priority-over-oncoming-traffic-de.svg",
+    "sha1": "ad67754df7a728ce08d36d6aff347a596ffe40eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_308_-_Vorrang_vor_dem_Gegenverkehr,_StVO_1992.svg",
+    "author": "Hochladen einer ersten Datei: Andreas06; 2017 nach den offiziellen Vorgaben komplett neu umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

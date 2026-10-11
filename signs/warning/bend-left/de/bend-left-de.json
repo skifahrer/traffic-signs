@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "103-10",
+  "image": {
+    "file": "bend-left-de.svg",
+    "sha1": "6e3adfa3fcad415f0a444440ae275edbb9289381",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_103-10_-_Kurve_(links),_StVO_1992.svg",
+    "author": "first version: Andreas 06; nach den authentischen Vorgaben 2017 komplett neu gezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

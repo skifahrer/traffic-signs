@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "223.1-51",
+  "image": {
+    "file": "hard-shoulder-running-3-lanes-de.svg",
+    "sha1": "6d747ea326371c9fb7669cc6d89df5f8ec06e2fd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_223.1-51_-_Seitenstreifen_befahrbar,_3_Fahrstreifen_u._Seitenstreifen,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

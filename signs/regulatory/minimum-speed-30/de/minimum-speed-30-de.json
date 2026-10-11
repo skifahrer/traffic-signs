@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "275-30",
+  "image": {
+    "file": "minimum-speed-30-de.svg",
+    "sha1": "8d45c3f7841302fa16dbff4247e3c29abaf417a3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_275-30_-_Vorgeschriebene_Mindestgeschwindigkeit,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

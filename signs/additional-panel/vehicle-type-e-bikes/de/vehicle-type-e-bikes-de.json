@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-65",
+  "image": {
+    "file": "vehicle-type-e-bikes-de.svg",
+    "sha1": "e025afebae846300a424d0a6157748d0cb17c434",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-65_-_E-Bikes,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

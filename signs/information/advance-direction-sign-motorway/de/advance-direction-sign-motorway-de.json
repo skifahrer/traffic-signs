@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "449",
+  "image": {
+    "file": "advance-direction-sign-motorway-de.svg",
+    "sha1": "1f58b21bb265ed46f4082966184191e0e1b88bd3",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_449_-_Vorwegweiser_auf_Autobahnen_(nach_RWBA),_StVO_1992.svg",
+    "author": "Andreas06, komplett neu angefertigte Datei durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

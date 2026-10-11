@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1002-23",
+  "image": {
+    "file": "priority-road-course-junction-bottom-to-right-side-road-left-de.svg",
+    "sha1": "083ada189cfb5bc51619fe4e7b174e05721428a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1002-23_-_Verlauf_der_Vorfahrtsstra%C3%9Fe_an_Einm%C3%BCndungen_(von_unten_nach_rechts,_Fall_2),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine im Jahr 2018 nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

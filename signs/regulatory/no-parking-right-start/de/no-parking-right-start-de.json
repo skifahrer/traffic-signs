@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "286-10",
+  "image": {
+    "file": "no-parking-right-start-de.svg",
+    "sha1": "49055880fd0acd791b4f31e512dccc242e36fbf6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_286-10_-_Eingeschr%C3%A4nktes_Halteverbot_(Anfang),_Rechtsaufstellung,_StVO_1992.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

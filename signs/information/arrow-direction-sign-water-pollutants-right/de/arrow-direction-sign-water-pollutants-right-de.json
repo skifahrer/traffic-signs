@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "421-22",
+  "image": {
+    "file": "arrow-direction-sign-water-pollutants-right-de.svg",
+    "sha1": "093a0656a5eac58c801d334b7f243e933c0810b6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_421-22_-_Wegweiser_f%C3%BCr_Fahrzeuge_mit_wassergef%C3%A4hrdender_Ladung_(rechtsweisend),_StVO_1992.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

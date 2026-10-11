@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "511-12",
+  "image": {
+    "file": "lane-diversion-left-3-lanes-de.svg",
+    "sha1": "690763475de35f6d5a3bbdb751d9817f0b9db7ba",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_511-12_-_Verschwenkungstafel;_Darstellung_ohne_Gegenverkehr_-_dreistreifig_nach_links_(1600x1250);_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

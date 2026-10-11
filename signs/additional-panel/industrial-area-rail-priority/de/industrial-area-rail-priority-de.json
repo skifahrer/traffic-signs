@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1008-32",
+  "image": {
+    "file": "industrial-area-rail-priority-de.svg",
+    "sha1": "6ffc324b6473e05a8f809ee2db07faab4d126d4e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1008-32_-_Industriegebiet_-_Vorrang_f%C3%BCr_Schienenfahrzeuge,_StVO_1992.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

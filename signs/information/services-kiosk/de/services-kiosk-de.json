@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-57",
+  "image": {
+    "file": "services-kiosk-de.svg",
+    "sha1": "2c86b007091e243ad0dba74aee89daa36cb9ddce",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-57_-_Autobahnkiosk_(600x600),_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

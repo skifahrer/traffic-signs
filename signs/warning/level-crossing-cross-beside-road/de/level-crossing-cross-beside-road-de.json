@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "201-50",
+  "image": {
+    "file": "level-crossing-cross-beside-road-de.svg",
+    "sha1": "ed69f343150cf9bd2672689742e7d13b4fa6c9ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_201-50_%E2%80%93_Andreaskreuz_-_Dem_Schienenverkehr_Vorrang_gew%C3%A4hren!_StVO_1992.svg",
+    "author": "first datas: Andreas06, complete new sign (with datas from the Verkehrsblatt): Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

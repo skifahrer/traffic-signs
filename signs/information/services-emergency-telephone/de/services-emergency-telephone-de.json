@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-51",
+  "image": {
+    "file": "services-emergency-telephone-de.svg",
+    "sha1": "15642ad3c4d18ea9332161f1dc0107c249addcff",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-51_-_Notrufs%C3%A4ule,_StVO_2006.svg",
+    "author": "(converted with dvk2svg.pl)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

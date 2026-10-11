@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "515-22",
+  "image": {
+    "file": "lane-diversion-right-3-lanes-with-width-limit-de.svg",
+    "sha1": "0334708eb40dc8378355f75a26645a9dcba3fadc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_515-22_-_Verschwenkungstafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_264_StVO_-_dreistreifig_nach_rechts_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

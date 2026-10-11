@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "215",
+  "image": {
+    "file": "roundabout-de.svg",
+    "sha1": "452baaa8aed1e07fb95267507a84becb77456099",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_215_-_Kreisverkehr,_StVO_2000.svg",
+    "author": "Erstes Hochladen: Andreas06. Neue erstellt nach den amtlichen Vorgaben durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

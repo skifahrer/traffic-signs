@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101",
+  "image": {
+    "file": "danger-de.svg",
+    "sha1": "cec8597fb170fee8cb60b7a422b9fbed9269e257",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101_-_Gefahrstelle,_StVO_1970.svg",
+    "author": "nach den historischen Vorgaben digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

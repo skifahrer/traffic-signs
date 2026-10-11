@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1000-20",
+  "image": {
+    "file": "direction-arrow-right-de.svg",
+    "sha1": "70628fcd37c6a0daaad9a35898720f4147b45912",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1000-20_-_Richtungsangaben_durch_Pfeile,_rechtsweisend,_StVO_1992.svg",
+    "author": "nach den historischen Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

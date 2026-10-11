@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "551-28",
+  "image": {
+    "file": "lanes-merging-slip-road-1-merging-plus-5-through-de.svg",
+    "sha1": "66953a4c8a90a4547a091504c3d294d564b12576",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_551-28_Zusammenf%C3%BChrungstafel_-_an_einm%C3%BCndender_Strecke.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

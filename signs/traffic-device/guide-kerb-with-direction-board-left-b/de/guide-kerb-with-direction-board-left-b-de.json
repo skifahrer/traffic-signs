@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "de",
   "code": "628-21",
+  "image": {
+    "file": "guide-kerb-with-direction-board-left-b-de.svg",
+    "sha1": "47a6d5da87cc8d81622816e2fe81fd7d9634f51a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_628-21_-_Leitschwelle_mit_Leitbake_(Aufstellung_links),_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

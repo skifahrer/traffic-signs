@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-69",
+  "image": {
+    "file": "services-lng-station-de.svg",
+    "sha1": "88908db69b63d7eb93496638dfc6ecfeff9da7eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-69_Tankstelle_mit_Fl%C3%BCssigerdgas.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

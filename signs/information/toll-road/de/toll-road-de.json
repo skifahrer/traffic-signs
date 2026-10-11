@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "391",
+  "image": {
+    "file": "toll-road-de.svg",
+    "sha1": "928c2d59e54435476a4eed5e3635995c8b1bca2e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_391_-_Mautpflichtige_Strecke,_StVO_2003.svg",
+    "author": "Andreas 06, korrekte Umsetzung 2017 durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

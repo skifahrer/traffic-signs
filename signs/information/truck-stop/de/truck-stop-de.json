@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "448.1",
+  "image": {
+    "file": "truck-stop-de.svg",
+    "sha1": "1fef34ce501cb61faa3a8e7f31c62a0cccc32496",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_448.1_-_Autohof,_StVO_2000.svg",
+    "author": "Andreas06, Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

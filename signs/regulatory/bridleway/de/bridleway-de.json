@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "238",
+  "image": {
+    "file": "bridleway-de.svg",
+    "sha1": "d95964c6e9fb27b1a6200fcbe164de9f2a825451",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_238_-_Sonderweg_Reiter,_StVO_1992.svg",
+    "author": "first datas: Andreas 06. Nach den amtlichen Vorgaben 2017 komplett neu digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

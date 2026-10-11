@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "230-31",
+  "image": {
+    "file": "loading-bay-left-continued-de.svg",
+    "sha1": "b53243839444b917bc7b4cafa9286be79313b22e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_230-31_-_Ladebereich_(Mitte,_Aufstellung_links),_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

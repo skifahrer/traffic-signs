@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-65",
+  "image": {
+    "file": "pavement-parking-full-right-de.svg",
+    "sha1": "d937d46838d417bb01386e7b5bd3c14c45faf89f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-65_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_rechts,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

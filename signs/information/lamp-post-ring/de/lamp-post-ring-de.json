@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "394",
+  "image": {
+    "file": "lamp-post-ring-de.svg",
+    "sha1": "320b431146ae63b01d977fcc80a9abf23b688f7d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_394_-_Laternenring_(selbstklebende_Folie),_StVO_2013.svg",
+    "author": "vektorisiert durch. Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

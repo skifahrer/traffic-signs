@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.2-11",
+  "image": {
+    "file": "tourist-route-advance-sign-left-de.svg",
+    "sha1": "c54684d5a9a3aac5f93955288f287e32195288f0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.2-11_-_Touristische_Route,_Vorwegweiser_linksweisend;_StVO_2017.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

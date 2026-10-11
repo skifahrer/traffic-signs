@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "274-60",
+  "image": {
+    "file": "speed-limit-60-de.svg",
+    "sha1": "1d34a2fb5e5d8408ef8a2ff113ac21d339ef0aea",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_274-60_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

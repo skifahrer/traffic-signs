@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "523-30",
+  "image": {
+    "file": "number-of-lanes-2-with-speed-limit-de.svg",
+    "sha1": "fb0e88430fee3323144e60e6923de06e8b55c876",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_523-30_-_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_274_-_zweistreifig_in_Fahrtrichtung_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

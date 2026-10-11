@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1024-20",
+  "image": {
+    "file": "except-electric-vehicles-de.svg",
+    "sha1": "21833c29bfe5fe17304fb831719c97356d400abd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1024-20_-_elektrisch_betriebene_Fahrzeuge_frei,_StVO_2015.svg",
+    "author": "Interpretiert und digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

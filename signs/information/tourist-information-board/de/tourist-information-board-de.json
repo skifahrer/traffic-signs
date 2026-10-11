@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.3",
+  "image": {
+    "file": "tourist-information-board-de.svg",
+    "sha1": "aa666a500e8e334013edf3137cf289acd7dbdc7f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.3_-_Touristische_Unterrichtungstafel_(2400x3600)_-_StVO_2013.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

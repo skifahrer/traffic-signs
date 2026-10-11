@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-83",
+  "image": {
+    "file": "pavement-parking-perpendicular-full-left-continued-de.svg",
+    "sha1": "a0d47d13713abb982847610e3197a1cd3c773922",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-83_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_links_(Mitte),_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

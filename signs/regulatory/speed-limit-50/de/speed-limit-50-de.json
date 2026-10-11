@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "274-50",
+  "image": {
+    "file": "speed-limit-50-de.svg",
+    "sha1": "bb7b5ffd1b62369c6a6b40df538ee06aadf7d5a7",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_274-50_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "110-9",
+  "image": {
+    "file": "steep-ascent-9-percent-de.svg",
+    "sha1": "9957d42b3c2e6d92c757be516c0d879d8a450b25",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_110-9_-_Steigung,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

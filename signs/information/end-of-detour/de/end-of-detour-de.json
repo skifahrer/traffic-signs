@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "457.2",
+  "image": {
+    "file": "end-of-detour-de.svg",
+    "sha1": "474718df15f51c5c04a25a2956d0a110aab25baf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_457.2_-_Ende_der_Umleitung,_StVO_2013.svg",
+    "author": "erstes Hochladen einer frei gestalteten Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "230-20",
+  "image": {
+    "file": "loading-bay-right-end-de.svg",
+    "sha1": "7d37aabb69ae9a9b20c93955f3206b1877143a59",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_230-20_-_Ladebereich_(Ende,_Aufstellung_rechts),_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

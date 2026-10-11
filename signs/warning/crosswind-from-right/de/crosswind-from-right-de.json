@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "117-10",
+  "image": {
+    "file": "crosswind-from-right-de.svg",
+    "sha1": "febc28a7b562dc7fa82b02648b026905b48f84e2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_117-10_-_Seitenwind_von_rechts,_StVO_1992.svg",
+    "author": "Andreas06, Bigbossfarin and Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

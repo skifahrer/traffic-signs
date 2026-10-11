@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "286-11",
+  "image": {
+    "file": "no-parking-left-end-de.svg",
+    "sha1": "ab7af7b1ab09de5d8db72277287d4f207a400716",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_286-11_-_Eingeschr%C3%A4nktes_Halteverbot_(Ende),_Aufstellung_links_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

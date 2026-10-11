@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "333",
+  "image": {
+    "file": "exit-motorway-de.svg",
+    "sha1": "5a168daf57e04920b280c7d66389159877f1b995",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_333_-_Pfeilschild_-_Ausfahrt_von_der_Autobahn,_StVO_1980.svg",
+    "author": "Andreas06 und Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

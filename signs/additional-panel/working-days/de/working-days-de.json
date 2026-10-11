@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1042-30",
+  "image": {
+    "file": "working-days-de.svg",
+    "sha1": "98c31d9d2614ddd2b96acd2573c3a60cae5fa4f5",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1042-30_-_werktags_(600x330),_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch: Andreas 06; eine nach dem Verkehrsblatt interpretierte und digital umgesetzte neue Datei entstand 2018 durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

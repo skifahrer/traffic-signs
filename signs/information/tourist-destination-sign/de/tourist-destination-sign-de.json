@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.1",
+  "image": {
+    "file": "tourist-destination-sign-de.svg",
+    "sha1": "3851115e6880df72ce3bb8913ebdf3cdf72a71f6",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.1_-_Touristischer_Hinweis_(333x1000),_StVO_2013.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

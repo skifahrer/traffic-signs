@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "501-28",
+  "image": {
+    "file": "lane-crossover-right-2-plus-1-straight-de.svg",
+    "sha1": "72fc2566ed5d8b21833749e3343c3f9291ba1e95",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_501-28_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_-_zweistreifig_nach_rechts_und_einstreifig_geradeaus_(1600x1250);_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

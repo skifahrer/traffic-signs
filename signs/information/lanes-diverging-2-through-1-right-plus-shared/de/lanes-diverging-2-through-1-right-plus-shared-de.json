@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "533-60",
+  "image": {
+    "file": "lanes-diverging-2-through-1-right-plus-shared-de.svg",
+    "sha1": "b1975dc0d93316a230f1e6e034b5b817f7602221",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_533-60_Trennungstafel_-_ohne_Gegenverkehr.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

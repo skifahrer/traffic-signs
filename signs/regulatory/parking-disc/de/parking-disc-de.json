@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "318",
+  "image": {
+    "file": "parking-disc-de.svg",
+    "sha1": "6ccd3e2c031df0b4724d931b5be4663e350c03a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_318_-_Parkscheibe,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

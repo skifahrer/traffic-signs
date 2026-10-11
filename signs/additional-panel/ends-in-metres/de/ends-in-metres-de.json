@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1013-52",
+  "image": {
+    "file": "ends-in-metres-de.svg",
+    "sha1": "046701280753b4a502371a4b86c8092ca91b02ef",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1013-52_-_Ende_in_..._m,_StVO_2017.svg",
+    "author": "2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

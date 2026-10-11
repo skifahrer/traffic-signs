@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "242.1",
+  "image": {
+    "file": "pedestrian-zone-de.svg",
+    "sha1": "697c08dd94c76b5d8823e645d01a774197c16ee2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_242.1_-_Beginn_einer_Fu%C3%9Fg%C3%A4ngerzone,_StVO_2009.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

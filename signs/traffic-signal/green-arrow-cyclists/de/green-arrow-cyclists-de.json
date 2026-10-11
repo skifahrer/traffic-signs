@@ -3,6 +3,14 @@
   "category": "traffic-signal",
   "country": "de",
   "code": "721",
+  "image": {
+    "file": "green-arrow-cyclists-de.svg",
+    "sha1": "66614b730dd15bd0157852fef96fa40020e667dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_721_-_Gr%C3%BCnpfeilschild_mit_Beschr%C3%A4nkung_auf_den_Radverkehr,_StVO_2020.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

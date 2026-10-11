@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "418-20",
+  "image": {
+    "file": "arrow-direction-sign-major-road-right-de.svg",
+    "sha1": "2ea69b09992f5936a36c155fbda05cb2b2dac89d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_418-20_-_Wegweiser_auf_sonstigen_Stra%C3%9Fen_mit_gr%C3%B6%C3%9Ferer_Verkehrsbedeutung_(rechtsweisend),_StVO_1992.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "386.2-30",
+  "image": {
+    "file": "tourist-route-direction-sign-straight-de.svg",
+    "sha1": "ffdb342de8b4c9882db7169fd8f5185e7500b21e",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_386.2-30_-_Touristische_Route,_Vor-_Wegweiser_geradeaus,_StVO_2017.svg",
+    "author": "Interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

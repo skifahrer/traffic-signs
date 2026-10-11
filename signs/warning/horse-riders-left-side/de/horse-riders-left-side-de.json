@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "101-23",
+  "image": {
+    "file": "horse-riders-left-side-de.svg",
+    "sha1": "27163954d05714a7a78e98adb005b6bcffe6469d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_101-23_-_Reiter,_Aufstellung_links,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

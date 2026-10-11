@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-58",
+  "image": {
+    "file": "vehicle-type-cars-de.svg",
+    "sha1": "e8bdea4dfe06ac6e9b027fb4a5ee682a72c5fb67",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-58_-_Personenkraftwagen_(600x330),_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1040-32",
+  "image": {
+    "file": "parking-disc-2-hours-de.svg",
+    "sha1": "4d337008156904ca2ea1819f005c17c03d5b546d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1040-32_-_Parkscheibe_2_Stunden,_StVO_1992.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

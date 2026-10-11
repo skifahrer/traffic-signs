@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "257-59",
+  "image": {
+    "file": "no-personal-transporters-de.svg",
+    "sha1": "4e84387f9c5b8b2595be4610947e5d09b1c9f29a",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_257-59_-_Verbot_f%C3%BCr_Elektrokleinstfahrzeuge_im_Sinne_der_Elektrokleinstfahrzeuge-Verordnung_(eKFV).svg",
+    "author": "Entsprechend anderer Zeichen der Gruppe 257 und nach Vorlage der BASt erstellt durch: SYRDUS",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

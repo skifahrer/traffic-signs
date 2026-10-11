@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "244.2",
+  "image": {
+    "file": "end-of-bicycle-road-de.svg",
+    "sha1": "4b4e96131144d04c9b216f79dbc4f08dfe5215f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_244.2_-_Ende_einer_Fahrradstra%C3%9Fe,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

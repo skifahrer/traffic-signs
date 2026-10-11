@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "de",
   "code": "108-11",
+  "image": {
+    "file": "steep-descent-11-percent-de.svg",
+    "sha1": "e2c56c758eb1564e58d52bc60b0e2baf3606d751",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_108-11_-_Gef%C3%A4lle,_StVO_2017.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

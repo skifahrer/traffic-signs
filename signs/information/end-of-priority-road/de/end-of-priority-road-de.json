@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "307",
+  "image": {
+    "file": "end-of-priority-road-de.svg",
+    "sha1": "358cf4c08357b8b671ba826b5ef39a5eddb43443",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_307_-_Ende_der_Vorfahrtstra%C3%9Fe,_StVO_1981.svg",
+    "author": "2006: ursprüngliche Datei: Andreas 06; 2017: komplett neue und authentisch gestaltete Datei: nach den historischen Vorgaben digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

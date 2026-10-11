@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "356",
+  "image": {
+    "file": "school-crossing-patrol-de.svg",
+    "sha1": "db480a84771d305528e26a5d0e28ff79afd08cde",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_356_-_Verkehrshelfer,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

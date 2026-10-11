@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "301",
+  "image": {
+    "file": "priority-intersection-de.svg",
+    "sha1": "4314f70f350123bdcd57a9f36bd7421aab23adeb",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_301_-_Vorfahrt,_StVO_1970.svg",
+    "author": "erstes Hochladen einer Datei durch Andreas 06; nach den historischen Vorgaben korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

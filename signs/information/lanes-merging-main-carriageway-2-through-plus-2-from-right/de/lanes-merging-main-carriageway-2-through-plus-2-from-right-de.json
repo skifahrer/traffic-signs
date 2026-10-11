@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "550-23",
+  "image": {
+    "file": "lanes-merging-main-carriageway-2-through-plus-2-from-right-de.svg",
+    "sha1": "f39bb0f9642e0f1a3d046c1060f16ad48cb2ae8f",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_550-23_-_Zusammenf%C3%BChrungstafel_%E2%80%93_an_durchgehender_Strecke_%E2%80%93_zweistreifig_plus_2_Fahrstreifen_von_rechts_(1600x1250),_StVO_2017.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

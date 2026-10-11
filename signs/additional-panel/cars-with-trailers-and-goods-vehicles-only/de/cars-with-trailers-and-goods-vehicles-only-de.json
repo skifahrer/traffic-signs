@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1048-20",
+  "image": {
+    "file": "cars-with-trailers-and-goods-vehicles-only-de.svg",
+    "sha1": "8933f4762b968d58eb66493d4a010c9e27425b18",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1048-20_-_nur_Personenkraftwagen_mit_Anh%C3%A4nger_und_Kraftfahrzeug_mit_einer_zul._Gesamtmasse_%C3%BCber_3,5_t,_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger_und_Zugmaschinen,_ausg._Personenkraftwagen_und_Kraftomnibusse,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

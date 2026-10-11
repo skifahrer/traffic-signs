@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "419-10",
+  "image": {
+    "file": "arrow-direction-sign-minor-road-left-de.svg",
+    "sha1": "27afaf9d6529a7c42b45e45a62ae3d7ae11f71cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_419-10_%E2%80%93_Pfeilwegweiser_auf_sonstigen_Stra%C3%9Fen_mit_geringerer_Verkehrsbedeutung_-_linksweisend;_StVO_2013.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

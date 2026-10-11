@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "393",
+  "image": {
+    "file": "border-information-motorway-de.svg",
+    "sha1": "c1b986eba3ee3ab15a78a3d0a3faadf785a68c1c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_393_a_-_Informationstafel_an_Grenz%C3%BCbergangsstellen_(an_Autobahnen_und_Stra%C3%9Fen_mit_hoher_Verkehrsbedeutung),_StVO_1981.svg",
+    "author": "nach den historischen Vorgaben interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

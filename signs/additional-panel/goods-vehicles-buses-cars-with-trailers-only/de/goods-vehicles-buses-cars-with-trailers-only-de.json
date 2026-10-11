@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1049-13",
+  "image": {
+    "file": "goods-vehicles-buses-cars-with-trailers-only-de.svg",
+    "sha1": "6a915f099590d8589974aa4c9edf8345aac08aef",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1049-13_-_nur_Lkw_(Zeichen_1048-12),_Kraftomnibus_(Zeichen_1048-16)_und_Pkw_mit_Anh%C3%A4nger_(Zeichen_1048-11),_StVO_1992.svg",
+    "author": "see disciption",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1022-14",
+  "image": {
+    "file": "except-bicycles-and-mopeds-de.svg",
+    "sha1": "6f2cc1d10f68040e59a1f6b07318276e088faf6b",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1022-14_-_Radverkehr_und_Mofas_frei_(600x600),_StVO_2017.svg",
+    "author": "nach den Vorgaben 2017 korrekt interpretiert und digital umgesetzt durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

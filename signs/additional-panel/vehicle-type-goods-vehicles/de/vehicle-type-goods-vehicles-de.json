@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1010-51",
+  "image": {
+    "file": "vehicle-type-goods-vehicles-de.svg",
+    "sha1": "9cb0643846088513ac940025097fcf6783c1d442",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1010-51_-_Kraftfahrzeuge_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3,5_t_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger_und_Zugmaschinen,_ausgenommen_Personenkraftwagen_und_Kraftomnibusse,_StVO_2017.svg",
+    "author": "interpretiert und digital umgezeichnet durch Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

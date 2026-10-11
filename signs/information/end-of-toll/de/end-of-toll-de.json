@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "390.2",
+  "image": {
+    "file": "end-of-toll-de.svg",
+    "sha1": "6d80cf2fb2514a89fc5cc4dded4c2fe82cee6db2",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_390.2_-_Ende_der_Mautpflicht_nach_dem_Bundesfernstra%C3%9Fenmautgesetz,_StVO_2015.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

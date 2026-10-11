@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "365-63",
+  "image": {
+    "file": "pedestrian-subway-de.svg",
+    "sha1": "6db627887861450e56cadc8815995ded8272de2d",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_365-63_-_Fu%C3%9Fg%C3%A4ngerunterf%C3%BChrung,_StVO_2013.svg",
+    "author": "Nach den amtlichen Vorgaben digital umgesetzt durch: Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

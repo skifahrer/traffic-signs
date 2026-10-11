@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "de",
   "code": "1050-31",
+  "image": {
+    "file": "number-of-taxis-de.svg",
+    "sha1": "2e81a8c2cd62c19a399f650f6955540ae3761bcd",
+    "source": "https://commons.wikimedia.org/wiki/File:Zusatzzeichen_1050-31_-_5_Taxis,_StVO_BAnz_AT_04.09.2025_B2.svg",
+    "author": "Aiiike",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

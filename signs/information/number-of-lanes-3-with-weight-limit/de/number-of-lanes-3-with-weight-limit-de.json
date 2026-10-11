@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "527-31",
+  "image": {
+    "file": "number-of-lanes-3-with-weight-limit-de.svg",
+    "sha1": "896daaaa28aaf0be847dad7667f5a411bd4b43fc",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_527-31_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_262.svg",
+    "author": "BASt (Bundesanstalt für Straßenwesen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

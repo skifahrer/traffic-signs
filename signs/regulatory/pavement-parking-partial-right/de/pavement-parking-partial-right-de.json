@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "315-55",
+  "image": {
+    "file": "pavement-parking-partial-right-de.svg",
+    "sha1": "35e149c4069a93ab2d7503a4152daa2e5e810323",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_315-55_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts,_StVO_1992.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

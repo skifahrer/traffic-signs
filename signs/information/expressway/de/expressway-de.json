@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "331.1",
+  "image": {
+    "file": "expressway-de.svg",
+    "sha1": "73f772833ed9d7f2b33d961b077a9fb7f596f357",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_331.1_-_Kraftfahrstra%C3%9Fe,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

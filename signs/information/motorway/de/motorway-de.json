@@ -3,6 +3,14 @@
   "category": "information",
   "country": "de",
   "code": "330.1",
+  "image": {
+    "file": "motorway-de.svg",
+    "sha1": "ffe74efee77e31ceeed637508a315d9b66021887",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_330.1_-_Autobahn,_StVO_2013.svg",
+    "author": "vectorized by",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",

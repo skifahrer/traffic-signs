@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "de",
   "code": "286-30",
+  "image": {
+    "file": "no-parking-right-continued-de.svg",
+    "sha1": "594be788fe8a762a99a5ef24a0df2129e224717c",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeichen_286-30_-_Eingeschr%C3%A4nktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg",
+    "author": "Mediatus",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "de-wikipedia",
     "page": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
