@@ -125,6 +125,35 @@ class ImageTest(SandboxTestCase):
         self.assertEqual(self.run_pipeline(), 0)
         self.assertEqual(self.downloads, [])
 
+    def test_a_corrupt_download_is_fetched_again(self):
+        corrupt = {"101 Nebezpečenstvo.svg": 1}  # the first transfer of this file arrives damaged
+        original = self.get
+
+        def flaky(url):
+            data = original(url)
+            name = url.rsplit("File:", 1)[-1]
+            if corrupt.get(name):
+                corrupt[name] -= 1
+                return data[:-5]
+            return data
+
+        with mock.patch.object(Client, "get", side_effect=flaky):
+            self.assertEqual(self.run_pipeline(), 0)
+        self.assertEqual(self.danger("danger-sk.svg"), self.OLD)
+        self.assertEqual(self.downloads.count("File:101 Nebezpečenstvo.svg"), 2)
+
+    def test_an_image_that_never_matches_its_sha1_is_not_written(self):
+        self.run_pipeline()
+        self.commons["File:101 Nebezpečenstvo.svg"] = self.NEW
+        original = self.get
+        with mock.patch.object(Client, "get", side_effect=lambda url: original(url) + b"garbage"):
+            self.assertEqual(self.run_pipeline(), 1)  # an error: the SHA-1 never matched
+        self.assertEqual(self.danger("danger-sk.svg"), self.OLD)  # the old drawing stays
+        self.assertFalse(os.path.exists(self.path("warning", "danger", "sk", "danger-sk.svg.part")))
+        # The next run tries again, and succeeds once Commons sends the right bytes.
+        self.assertEqual(self.run_pipeline(), 0)
+        self.assertEqual(self.danger("danger-sk.svg"), self.NEW)
+
     def test_downloads_a_new_version_over_the_old_one(self):
         self.run_pipeline()
         self.commons["File:101 Nebezpečenstvo.svg"] = self.NEW

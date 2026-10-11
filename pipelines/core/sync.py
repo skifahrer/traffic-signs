@@ -39,6 +39,9 @@ class Result:
     synced: int = 0
     unchanged: int = 0
     downloaded_bytes: int = 0
+    download_seconds: float = 0.0
+    download_failures: int = 0  # fetch failed or the SHA-1 never matched
+    retried: int = 0  # downloads that matched Commons' SHA-1 only on the second try
     added: list[str] = field(default_factory=list)
     changed: list[str] = field(default_factory=list)
     images: list[str] = field(default_factory=list)
@@ -86,6 +89,13 @@ def sync(source: Source, client: Client, options: Options) -> Result:
             f"{len(result.added)} new, {len(result.changed)} changed, {result.unchanged} up to date,"
             f" {len(result.images)} images downloaded ({result.downloaded_bytes / 1024 / 1024:.1f} MB)"
         )
+        if result.images or result.download_failures:
+            speed = result.downloaded_bytes / 1024 / result.download_seconds if result.download_seconds else 0
+            log.info(
+                f"Downloads: {len(result.images)} verified against Commons' SHA-1"
+                f" ({result.retried} after a retry), {result.download_failures} failed;"
+                f" {result.download_seconds:.0f}s fetching, {speed:.0f} KB/s"
+            )
 
     gone = sorted(set(previous) - {f"{t.category}/{t.slug}" for _, t in signs})
     # Signs archived by an earlier run stay as they are, unless --prune deletes them.
@@ -275,16 +285,21 @@ def _write_sign(
     layout.write_json(meta_path, meta)
 
     if download:
+        log.detail(f"    downloading `{entry.file}` ({download}) from {info['url']}")
         try:
-            data = client.get(info["url"])
-        except Exception as err:  # keep going; the report lists the failure
+            got = images.download(client, info, image_path)
+        except images.DownloadError as err:  # keep going; the report lists the failure
+            result.download_failures += 1
             result.error(f"{entry.code}: download of `{entry.file}` failed: {err}")
             return
-        with open(image_path, "wb") as handle:
-            handle.write(data)
         result.images.append(f"`{key}` ({download})")
-        result.downloaded_bytes += len(data)
-        notes[-1] = f"image downloaded, {download} ({len(data) / 1024:.1f} KB, ETA {progress.eta()})"
+        result.downloaded_bytes += got["bytes"]
+        result.download_seconds += got["seconds"]
+        result.retried += got["attempts"] > 1
+        notes[-1] = (
+            f"image downloaded, {download} ({got['bytes'] / 1024:.1f} KB in {got['seconds']:.1f}s,"
+            f" SHA-1 verified{', after a retry' if got['attempts'] > 1 else ''}, ETA {progress.eta()})"
+        )
     notes += [f"removed old .{other} image" for other in images.remove_other_formats(t.category, t.slug, country, ext)]
     _log_sign(result, label, notes)
 

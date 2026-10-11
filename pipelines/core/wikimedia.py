@@ -48,7 +48,15 @@ class Client:
             request = urllib.request.Request(url, data=body, headers={"User-Agent": self.user_agent})
             try:
                 with urllib.request.urlopen(request, timeout=60) as response:
-                    return response.read()
+                    data = response.read()
+                    headers = getattr(response, "headers", None) or {}
+                    status = getattr(response, "status", "?")
+                # A connection that drops mid-transfer can return fewer bytes than announced.
+                expected = headers.get("Content-Length")
+                if expected and expected.isdigit() and int(expected) != len(data) and not headers.get("Content-Encoding"):
+                    raise urllib.error.URLError(f"truncated response: {len(data):,} of {int(expected):,} bytes")
+                log.detail(f"    GET {url.split('?')[0]}: HTTP {status}, {len(data):,} bytes in {time.monotonic() - self._last:.1f}s")
+                return data
             except urllib.error.HTTPError as err:
                 if err.code not in (429, 500, 502, 503, 504) or attempt == self.retries:
                     raise
