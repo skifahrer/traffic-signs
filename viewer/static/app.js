@@ -5,6 +5,7 @@ const PAGE_SIZE = 100; // signs added to the page at a time, as the reader scrol
 
 const state = { query: "", category: "", countries: new Set(), shared: false, withdrawn: true };
 let data;
+const signsByKey = new Map(); // "warning/crosswind" -> sign
 // What render() matched, in display order, and how much of it is on the page.
 const view = { signs: [], columns: [], shown: 0, groups: new Map() };
 
@@ -28,10 +29,23 @@ const englishName = (sign) => sign.names.en || sign.sign;
 const localName = (sign, country) => sign.names[data.countries[country]?.language] || "";
 const countryName = (code) => data.countries[code]?.name || code.toUpperCase();
 const isWithdrawn = (sign) => Object.values(sign.countries).every((c) => c.valid_until);
+const signAt = (category, slug) => signsByKey.get(`${category}/${slug}`);
+
+// The variants of a sign (crosswind-from-left, speed-limit-50, …) that a
+// country has: shown in the main sign's row when the country has no sign of
+// its own there.
+const variantsIn = (sign, country) =>
+  (sign.variants || []).map((slug) => signAt(sign.category, slug)).filter((v) => v && v.countries[country]);
+// Countries with the sign itself or only with variants of it.
+const countriesOf = (sign) =>
+  new Set([
+    ...Object.keys(sign.countries),
+    ...(sign.variants || []).flatMap((slug) => Object.keys(signAt(sign.category, slug)?.countries || {})),
+  ]);
 
 function matches(sign) {
   if (state.category && sign.category !== state.category) return false;
-  const present = Object.keys(sign.countries).filter((c) => state.countries.has(c));
+  const present = [...countriesOf(sign)].filter((c) => state.countries.has(c));
   if (!present.length) return false;
   if (state.shared && present.length < 2) return false;
   if (!state.withdrawn && isWithdrawn(sign)) return false;
@@ -59,6 +73,8 @@ function cell(sign, country) {
   const entry = sign.countries[country];
   const label = el("span", { class: "country" }, country.toUpperCase());
   if (!entry) {
+    const variants = variantsIn(sign, country);
+    if (variants.length) return variantCell(variants, country, label);
     return el("div", { class: "cell absent", title: `Not in ${countryName(country)}` }, label, el("span", { "aria-label": `Not in ${countryName(country)}` }, "—"));
   }
   const local = localName(sign, country);
@@ -70,6 +86,23 @@ function cell(sign, country) {
     el("code", {}, entry.code),
     local && el("span", { class: "local", title: local }, local),
     entry.valid_until && el("span", { class: "badge" }, `until ${entry.valid_until}`),
+  );
+}
+
+// A country that only has variants of the sign: its first variant, marked as such.
+function variantCell(variants, country, label) {
+  const [first] = variants;
+  const entry = first.countries[country];
+  const local = localName(first, country);
+  const more = variants.length - 1;
+  return el(
+    "div",
+    { class: "cell variant", title: `Variant: ${englishName(first)}` + (more ? ` (and ${more} more)` : "") },
+    label,
+    image(entry.image, `${countryName(country)}: ${local || englishName(first)}`),
+    el("code", {}, entry.code),
+    local && el("span", { class: "local", title: local }, local),
+    el("span", { class: "badge variant-badge" }, more ? `variant +${more}` : "variant"),
   );
 }
 
@@ -126,11 +159,15 @@ function groupFor(category) {
 }
 
 function row(sign) {
+  const cells = view.columns.map((c) => cell(sign, c));
+  // Phones hide the empty cells and list those countries in one line instead.
+  const absent = view.columns.filter((c, i) => cells[i].classList.contains("absent"));
   return el(
     "a",
     { class: "row", href: `#${sign.category}/${sign.sign}`, role: "row" },
     el("div", { class: "name" }, el("strong", {}, englishName(sign)), el("code", {}, sign.sign)),
-    view.columns.map((c) => cell(sign, c)),
+    cells,
+    absent.length > 0 && el("p", { class: "absent-list muted", "aria-hidden": "true" }, `Not in ${absent.map((c) => c.toUpperCase()).join(", ")}`),
   );
 }
 
@@ -149,13 +186,22 @@ function updateStatus() {
 }
 
 function detail(sign) {
-  const panels = Object.entries(sign.countries).map(([country, entry]) => {
-    const local = localName(sign, country);
+  // Countries without the sign itself show their variants of it.
+  const shown = [
+    ...Object.entries(sign.countries).map(([country, entry]) => [country, entry, sign]),
+    ...Object.keys(data.countries)
+      .filter((country) => !sign.countries[country])
+      .flatMap((country) => variantsIn(sign, country).map((v) => [country, v.countries[country], v])),
+  ];
+  const panels = shown.map(([country, entry, owner]) => {
+    const local = localName(owner, country);
+    const variant = owner !== sign;
     return el(
       "section",
-      { class: "panel" },
+      { class: variant ? "panel variant" : "panel" },
       el("h3", {}, countryName(country), " ", entry.valid_until && el("span", { class: "badge" }, `valid until ${entry.valid_until}`)),
-      image(entry.image, `${countryName(country)}: ${local || englishName(sign)}`, "big"),
+      variant && el("p", { class: "muted" }, "Variant: ", el("a", { href: `#${owner.category}/${owner.sign}` }, englishName(owner))),
+      image(entry.image, `${countryName(country)}: ${local || englishName(owner)}`, "big"),
       el(
         "dl",
         {},
@@ -176,16 +222,21 @@ function detail(sign) {
         ),
     );
   });
+  const parent = sign.variant_of && signAt(sign.category, sign.variant_of);
+  const link = (s) => el("a", { href: `#${s.category}/${s.sign}` }, englishName(s));
+  const variants = (sign.variants || []).map((slug) => signAt(sign.category, slug)).filter(Boolean);
   return [
     el("h2", { id: "detail-title" }, englishName(sign)),
     el("p", { class: "muted" }, `${data.categories[sign.category] || sign.category} · `, el("code", {}, sign.sign)),
+    parent && el("p", { class: "muted" }, "Variant of ", link(parent)),
+    variants.length > 0 && el("p", { class: "muted variants" }, "Variants: ", variants.flatMap((v, i) => (i ? [", ", link(v)] : [link(v)]))),
     el(
       "ul",
       { class: "names" },
       Object.entries(sign.names).map(([lang, name]) => el("li", {}, el("span", { class: "muted" }, `${lang}: `), name)),
     ),
     el("div", { class: "compare" }, panels),
-  ];
+  ].filter(Boolean);
 }
 
 function route() {
@@ -322,6 +373,7 @@ async function start() {
     $("summary").textContent = "Could not load the signs.";
     return;
   }
+  for (const sign of data.signs) signsByKey.set(`${sign.category}/${sign.sign}`, sign);
   $("loading").hidden = true;
   setupControls();
   setupInfiniteScroll();

@@ -12,6 +12,14 @@
       ]
     }
 
+A variant of a sign (see `variant_parent`) carries `"variant_of": "<sign>"`,
+and the sign it varies lists it under `"variants"`, so the viewer can show a
+country that only has the variants (Germany's crosswind from the left and from
+the right) in the main sign's row too:
+
+    {"sign": "crosswind", "variants": ["crosswind-from-left", "crosswind-from-right"], ...}
+    {"sign": "crosswind-from-left", "variant_of": "crosswind", ...}
+
 Image paths are relative to the site root, where the builder copies signs/.
 Formats browsers cannot show (TIFF) point at the PNG thumbnail that the
 image's wiki renders instead.
@@ -21,6 +29,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from urllib.parse import quote
 
 from pipelines.core import layout
@@ -60,11 +69,56 @@ def build_index() -> dict:
                         "countries": per_country,
                     }
                 )
+    _link_variants(signs)
     return {
         "categories": dict(layout.CATEGORIES),
         "countries": dict(sorted(countries.items())),
         "signs": signs,
     }
+
+
+# What a variant adds to the name of the sign it varies (see README, "Naming
+# signs"): a side or placement, a value, or a letter for a design variant.
+VARIANT_SUFFIX = re.compile(
+    r"(?:from-)?(?:left|right)(?:-side)?"  # crosswind-from-left, pedestrians-left-side
+    r"|\d+(?:-\d+)?(?:m|t|mph|km|-percent)?"  # speed-limit-50, maximum-weight-3-5t, steep-descent-10-percent
+    r"|[b-e]"  # farm-animals-b
+)
+
+
+def variant_parent(slug: str, siblings: set[str]) -> str | None:
+    """The sign `slug` is a variant of, among the signs of its category, if any.
+
+    The parent is the longest other sign whose name starts `slug`; the rest
+    must be a variant suffix. "no-parking-zone" is not a variant of
+    "no-parking" ("zone" says what the sign is, not which way it points).
+    """
+    parts = slug.split("-")
+    for i in range(len(parts) - 1, 0, -1):
+        parent = "-".join(parts[:i])
+        if parent in siblings:
+            return parent if VARIANT_SUFFIX.fullmatch("-".join(parts[i:])) else None
+    return None
+
+
+def _link_variants(signs: list[dict]) -> None:
+    by_key = {(s["category"], s["sign"]): s for s in signs}
+    by_category: dict[str, set[str]] = {}
+    for category, slug in by_key:
+        by_category.setdefault(category, set()).add(slug)
+    for sign in signs:
+        parent = variant_parent(sign["sign"], by_category[sign["category"]])
+        if parent:
+            sign["variant_of"] = parent
+            by_key[(sign["category"], parent)].setdefault("variants", []).append(sign["sign"])
+    for sign in signs:
+        if "variants" in sign:
+            sign["variants"].sort(key=_natural)
+
+
+def _natural(slug: str) -> list:
+    """speed-limit-5 before speed-limit-10."""
+    return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", slug)]
 
 
 THUMBNAIL_WIDTH = 320  # px; the detail view shows images up to about 11rem high

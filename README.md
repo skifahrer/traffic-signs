@@ -58,6 +58,14 @@ value, placement) is its own sign: `steep-descent-10-percent`,
 When you add a country, reuse an existing folder if the sign has the same
 meaning, so the countries line up.
 
+The viewer relies on this naming to tie variants to their sign: a folder whose
+name is another folder's name plus a side (`-left`, `-from-right`,
+`-left-side`), a value (`-50`, `-3-5t`, `-20mph`, `-10-percent`) or a design
+letter (`-b`) is shown as that sign's variant. A country that has only
+variants, such as Germany with `crosswind-from-left` and
+`crosswind-from-right`, then appears in the `crosswind` row too, marked
+*variant*, and counts for *In 2+ countries*.
+
 ## Viewer
 
 **<https://skifahrer.github.io/traffic-signs/>** shows every sign with one
@@ -79,7 +87,9 @@ The site is built from `signs/` by `python3 -m viewer` (static page in
 [`.github/workflows/pages.yml`](.github/workflows/pages.yml) from master: on
 every change to `signs/` or the viewer, after every run of the sync workflow
 (which commits its changes to master), and on demand. On phones the filters fold
-under *Filters* and each sign is a card with the countries side by side. One-time setup: *Settings → Pages → Build and
+under *Filters* and each sign is a card: the countries that have it wrap onto
+as many lines as needed, so nothing scrolls sideways, and the ones that do not
+are listed in one line (*Not in CA, US*). One-time setup: *Settings → Pages → Build and
 deployment → Source: GitHub Actions*.
 
 To preview it locally:
