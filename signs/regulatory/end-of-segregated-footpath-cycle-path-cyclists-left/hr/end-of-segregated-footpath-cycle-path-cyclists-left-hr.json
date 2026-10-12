@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "C18",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C18.svg"
+  }
+}

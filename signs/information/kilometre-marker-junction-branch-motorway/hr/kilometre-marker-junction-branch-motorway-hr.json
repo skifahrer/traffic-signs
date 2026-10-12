@@ -1,0 +1,11 @@
+{
+  "sign": "kilometre-marker-junction-branch-motorway",
+  "category": "information",
+  "country": "hr",
+  "code": "C116",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C116.svg"
+  }
+}

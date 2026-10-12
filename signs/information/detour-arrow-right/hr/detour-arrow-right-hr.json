@@ -1,0 +1,11 @@
+{
+  "sign": "detour-arrow-right",
+  "category": "information",
+  "country": "hr",
+  "code": "C101",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C101.svg"
+  }
+}

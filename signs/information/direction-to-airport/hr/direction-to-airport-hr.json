@@ -1,0 +1,11 @@
+{
+  "sign": "direction-to-airport",
+  "category": "information",
+  "country": "hr",
+  "code": "C80",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Prometni znak C83.svg"
+  }
+}

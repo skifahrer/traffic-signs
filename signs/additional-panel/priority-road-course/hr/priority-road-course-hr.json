@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course",
+  "category": "additional-panel",
+  "country": "hr",
+  "code": "E14",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Croatia road sign E35.svg"
+  }
+}

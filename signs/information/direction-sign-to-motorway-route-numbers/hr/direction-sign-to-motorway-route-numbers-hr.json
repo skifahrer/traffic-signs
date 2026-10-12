@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-to-motorway-route-numbers",
+  "category": "information",
+  "country": "hr",
+  "code": "C81-1",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Prometni znak C85.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-direction-board",
+  "category": "information",
+  "country": "hr",
+  "code": "C79-3",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Croatia",
+    "file": "HR road sign C79-3.svg"
+  }
+}

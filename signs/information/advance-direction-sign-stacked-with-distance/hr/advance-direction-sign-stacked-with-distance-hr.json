@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-stacked-with-distance",
+  "category": "information",
+  "country": "hr",
+  "code": "D05",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Croatia road sign D09.svg"
+  }
+}

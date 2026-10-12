@@ -1,0 +1,11 @@
+{
+  "sign": "turn-left",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "B45-2",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign B45-2.svg"
+  }
+}
