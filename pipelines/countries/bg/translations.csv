@@ -1,0 +1,212 @@
+code,category,slug,name_en,name_bg
+А1,warning,bend-right,Bend (right),Опасен завой надясно
+А2,warning,bend-left,Bend (left),Опасен завой наляво
+А3,warning,double-bend-right,Double bend (first to the right),"Последователни опасни завои, първият от които е надясно"
+А4,warning,double-bend-left,Double bend (first to the left),"Последователни опасни завои, първият от които е наляво"
+А5,warning,steep-descent,Steep descent,Стръмен наклон при спускане
+А6,warning,steep-ascent,Steep ascent,Стръмен наклон при изкачване
+А7,warning,road-narrows-both-sides,Road narrows (from both sides),"Платно за движение, стеснено от двете страни"
+А8,warning,road-narrows-right,Road narrows (from the right),"Платно за движение, стеснено отдясно"
+А9,warning,road-narrows-left,Road narrows (from the left),"Платно за движение, стеснено отляво"
+А10,warning,movable-bridge,Movable bridge,Подвижен мост или ферибот
+А11,warning,quayside,Quayside or river bank,Пътят води до кей или бряг
+А12,warning,uneven-road,Uneven road,Неравности по платното за движение
+А13,warning,speed-bump,Speed bump,Изкуствени неравности по платното за движение
+А14,warning,dangerous-verge,Dangerous verge,Опасен пътен банкет
+А15,warning,slippery-road,Slippery road,Опасност от хлъзгане
+А16,warning,loose-gravel,Loose gravel,Възможно е изхвърляне на малки камъни
+А17,warning,fallen-rocks,Fallen rocks,Опасност от срутване или наличие на паднали камъни
+А18,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Пешеходна пътека
+А19,warning,children,Children,Деца
+А20,warning,cyclists,Cyclists,Велосипедисти и водачи на индивидуално електрическо превозно средство
+А21,warning,domestic-animals,Domestic animals,Възможна е поява на домашни животни
+А22,warning,wild-animals,Wild animals,Възможна е поява на диви животни
+А23,warning,roadworks,Roadworks,Участък от пътя в ремонт
+А24,warning,traffic-signals,Traffic signals,Светофар
+А25,warning,intersection,Intersection,Кръстовище на равнозначни пътища
+А26,warning,crossroads-with-minor-road,Crossroads with a road without priority,Кръстовище с път без предимство
+А27,warning,side-road-right-minor,Side road on the right (without priority),Кръстовище с път без предимство отдясно
+А28,warning,side-road-left-minor,Side road on the left (without priority),Кръстовище с път без предимство отляво
+А29,warning,roundabout-ahead,Roundabout ahead,Кръстовище с кръгово движение
+А30,warning,two-way-traffic,Two-way traffic,Двупосочно движение
+А31,warning,trams,Trams,Пресичане на трамвайна линия
+А32,warning,level-crossing-with-barriers,Level crossing with barriers,Железопътен прелез с бариери
+А33,warning,level-crossing-without-barriers,Level crossing without barriers,Железопътен прелез без бариери
+А34.1,warning,level-crossing-cross-single-track,Level crossing cross (single track),Железопътен прелез с един коловоз
+А34.2,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Железопътен прелез с два или повече коловоза
+А35.1,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Бализ
+А35.2,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Бализ
+А35.3,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Бализ
+А36,warning,low-flying-aircraft,Low-flying aircraft,Възможно е ниско прелитане на самолети
+А37,warning,crosswind,Crosswind,Възможна е поява на силен страничен вятър
+А38,warning,tunnel-ahead,Tunnel ahead,Тунел
+А39,warning,danger,Other danger,Внимание! Други опасности
+А40,warning,accident-blackspot,Accident blackspot,Участък с концентрация на пътнотранспортни произшествия
+А41,warning,queues,Queues likely,Образувано задръстване
+А42,warning,poor-visibility,Poor visibility,Намалена видимост
+А43,warning,accident,Accident,Настъпило пътнотранспортно произшествие
+Б1,regulatory,give-way,Give way,Пропусни движещите се по пътя с предимство
+Б2,regulatory,stop,"Stop, give way",Спри! Пропусни движещите се по пътя с предимство!
+Б3,information,priority-road,Priority road,Път с предимство
+Б4,information,end-of-priority-road,End of priority road,Край на пътя с предимство
+Б5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Пропусни насрещно движещите се пътни превозни средства!
+Б6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,"Премини, ако пътят е свободен!"
+В1,regulatory,no-entry,No entry,Забранено е влизането на пътни превозни средства
+В2,regulatory,no-vehicles,No vehicles,Забранено е влизането на пътни превозни средства в двете посоки
+В3,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,"Забранено е влизането на моторни превозни средства, с изключение на мотоциклети без кош и мотопеди"
+В4,regulatory,no-goods-vehicles,No entry for goods vehicles,Забранено е влизането на товарни автомобили
+В5,regulatory,no-motor-vehicles-with-trailers-except-semi-trailers,No motor vehicles with trailers (except semi-trailers and single-axle trailers),"Забранено е влизането на моторни превозни средства с ремаркета, освен с полуремаркета или единични едноосни ремаркета"
+В6,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Забранено е влизането на моторни превозни средства с ремаркета
+В7,regulatory,no-tractors,No entry for tractors,Забранено е влизането на трактори и самоходни машини
+В8,regulatory,no-motorcycles,No entry for motorcycles,Забранено е влизането на мотоциклети и мотопеди
+В9,regulatory,no-bicycles,No entry for bicycles,Забранено е влизането на велосипеди
+В10,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,"Забранено е влизането на пътни превозни средства, теглени от животни"
+В11,regulatory,no-handcarts,No entry for handcarts,"Забранено е влизането на колички за превоз на товари, теглени или бутани от хора"
+В12,regulatory,no-pedestrians,No entry for pedestrians,Забранено е влизането на пешеходци
+В13,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,"Забранено е влизането на пътни превозни средства, обозначени с опознавателния знак „Опасни товари“"
+В14,regulatory,no-vehicles-shown,No entry for the vehicles shown,Забранено е влизането на изобразените пътни превозни средства
+В15,regulatory,maximum-width,Maximum width,"Забранено е влизането на пътни превозни средства с широчина, включително товара, по-голяма от означената"
+В16,regulatory,maximum-height,Maximum height,"Забранено е влизането на пътни превозни средства с височина, включително товара, по-голяма от означената"
+В17,regulatory,maximum-length,Maximum length,"Забранено е влизането на пътни превозни средства или състав от пътни превозни средства с дължина, включително товара, по-голяма от означената"
+В18,regulatory,maximum-weight,Maximum weight,"Забранено е влизането на пътни превозни средства с маса, по-голяма от означената"
+В19,regulatory,maximum-axle-weight,Maximum axle weight,"Забранено е влизането на пътни превозни средства с натоварване на която и да е от осите, по-голямо от означеното"
+В20,regulatory,minimum-distance,Minimum distance between vehicles,"Забранено е движението на пътни превозни средства едно след друго на разстояние, по-малко от означеното"
+В21,regulatory,no-right-turn,No right turn,Забранено е завиването надясно
+В22,regulatory,no-left-turn,No left turn,Забранено е завиването наляво
+В23,regulatory,no-u-turn,No U-turn,Забранено е завиването в обратна посока
+В24,regulatory,no-overtaking,No overtaking,"Забранено е изпреварването на моторни превозни средства, с изключение на мотопеди и мотоциклети без кош"
+В25,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,"Забранено е изпреварването от товарни автомобили с максимално допустима маса над 3,5 тона на моторни превозни средства с изключение на мотопеди и мотоциклети без кош"
+В26,regulatory,speed-limit,Speed limit,"Забранено е движение със скорост, по-висока от означената"
+В27,regulatory,no-stopping,No stopping,Забранени са престоят и паркирането
+В28,regulatory,no-parking,No parking,Забранено е паркирането
+В29,regulatory,customs-stop,Customs stop,Забранено е преминаването без спиране
+В30,regulatory,no-horns,Use of horns prohibited,Забранена е употребата на звуков сигнал
+В31,regulatory,end-of-no-overtaking,End of no overtaking,Край на въведената с пътен знак забрана за изпреварване на моторни превозни средства с изключение на мотопеди и мотоциклети без кош
+В32,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,"Край на въведената с пътен знак забрана за изпреварване от товарни автомобили с максимално допустима маса над 3,5 тона на моторни превозни средства с изключение на мотопеди и мотоциклети без кош"
+В33,regulatory,end-of-speed-limit,End of speed limit,"Край на въведената с пътен знак забрана за движение със скорост, по-висока от означената"
+В34,regulatory,end-of-all-restrictions,End of all restrictions,"Край на забраните, въведени с пътни знаци"
+Г1,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Движение само направо след знака
+Г2,regulatory,turn-right,Turn right,Движение само надясно след знака
+Г3,regulatory,turn-left,Turn left,Движение само наляво след знака
+Г4,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Движение само направо или надясно след знака
+Г5,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Движение само направо или наляво след знака
+Г6,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Движение само надясно или наляво след знака
+Г7,regulatory,turn-right-here,Turn right here,Движение само надясно пред знака
+Г8,regulatory,turn-left-here,Turn left here,Движение само наляво пред знака
+Г9,regulatory,pass-on-right,Pass on the right,Преминаване отдясно на знака
+Г10,regulatory,pass-on-left,Pass on the left,Преминаване отляво на знака
+Г11,regulatory,pass-on-either-side,Pass on either side,Преминаване отдясно или отляво на знака
+Г12,regulatory,roundabout,Roundabout,Кръгово движение
+Г13,regulatory,public-transport-lane,Public transport lane,Пътна лента или платно за движение само на превозни средства от редовните линии за обществен превоз на пътници
+Г14а,regulatory,cycle-path,Cycle path,Задължителен път само за велосипедисти и водачи на индивидуално електрическо превозно средство
+Г14б,regulatory,end-of-cycle-path,End of cycle path,Край на задължителен път само за велосипедисти и водачи на индивидуално електрическо превозно средство
+Г15а,regulatory,footpath,Footpath,Задължителен път само за пешеходци
+Г15б,regulatory,end-of-footpath,End of footpath,Край на задължителен път само за пешеходци
+Г16а,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),"Задължителен път само за пешеходци, велосипедисти и водачи на индивидуално електрическо превозно средство с указано място на движение"
+Г16б,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),"Край на задължителен път само за пешеходци, велосипедисти и водачи на индивидуално електрическо превозно средство с указано място на движение"
+Г17,regulatory,minimum-speed,Minimum speed,Задължителна минимална скорост
+Г18,regulatory,end-of-minimum-speed,End of minimum speed,Край на задължителната минимална скорост
+Г19,regulatory,snow-chains-required,Snow chains required,Задължителни вериги за сняг най-малко на две от двигателните колела
+Г20,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,"Задължителна посока за движение на пътни превозни средства, обозначени с опознавателен знак за опасен товар"
+Д1,information,lane-directions,Directions of the lanes,Брой на пътните ленти и посоки за движение по тях
+Д2,information,slow-vehicle-lane,Lane for slow vehicles,Допълнителна пътна лента за бавнодвижещи се пътни превозни средства
+Д3,information,lane-selection,Lane selection,Указател за предварително престрояване
+Д4,information,one-way-road,One-way road,Еднопосочно движение след знака
+Д5,information,motorway,Motorway,Автомагистрала
+Д6,information,end-of-motorway,End of motorway,Край на автомагистралата
+Д7,information,motor-road,Road for motor vehicles,Автомобилен път
+Д7а,information,expressway,Expressway,Скоростен път
+Д8,information,end-of-motor-road,End of road for motor vehicles,Край на автомобилния път
+Д8а,information,end-of-expressway,End of expressway,Край на скоростния път
+Д9,information,tunnel,Tunnel,Тунел
+Д10,information,end-of-tunnel,End of tunnel,Край на тунела
+Д11,information,built-up-area,Built-up area,Начало на населено място
+Д12,information,end-of-built-up-area,End of built-up area,Край на населено място
+Д13,regulatory,no-parking-zone,No parking zone,Начало на зоната на действие на изобразения пътен знак
+Д14,regulatory,end-of-no-parking-zone,End of no parking zone,Край на зоната на действие на изобразения пътен знак
+Д15,information,residential-zone,Residential zone,Начало на жилищна зона
+Д16,information,end-of-residential-zone,End of residential zone,Край на жилищната зона
+Д17,information,pedestrian-crossing,Pedestrian crossing,Пешеходна пътека
+Д18,information,services-hospital,Services (hospital),Болница
+Д19,regulatory,parking,Parking,Паркинг
+Д20,regulatory,paid-parking,Paid parking,Платен паркинг
+Д21,regulatory,disabled-parking-place,Parking for disabled badge holders only,"Място за паркиране на пътни превозни средства, обслужващи хора с увреждания"
+Д22,information,tram-stop,Tram stop,Трамвайна спирка
+Д23,information,trolleybus-stop,Trolleybus stop,Тролейбусна спирка
+Д24,information,bus-stop,"Bus, trolleybus or electric bus stop",Автобусна спирка
+Д25,information,road-vignette,Road vignette,За използването на пътя се изисква платена винетна такса
+Д25.1,information,vignette-or-toll-road,Vignette or toll road,За използването на пътя се изисква платена винетна или ТОЛ такса
+Д25.2,information,toll-road,Toll road,За използването на пътя се изисква платена ТОЛ такса
+Д26,regulatory,electric-vehicle-parking,Parking for electric vehicles,Място за паркиране на електрически превозни средства за зареждане
+Д27,information,emergency-lay-by,Emergency lay-by,Площадка за аварийно спиране
+Д28,regulatory,park-and-ride,Park and ride,Паркирай и пътувай
+Е1,information,services-first-aid,Services (first aid),Медицински пункт
+Е2,information,services-hospital-emergency,Services (hospital with emergency care),Болница със звено за спешна медицинска помощ
+Е3,information,police,Police,Полиция
+Е4,information,services-telephone,Services (telephone),Телефон
+Е5,information,services-vehicle-repair,Services (vehicle repair),Автосервиз
+Е6,information,services-car-wash,Services (car wash),Автомивка
+Е7,information,services-filling-station,Services (filling station),Бензиностанция
+Е8,information,services-information-point,Services (information point),Информационно бюро за туристи
+Е9,information,services-hotel-or-motel,Services (hotel or motel),Хотел или мотел
+Е10,information,services-restaurant,Services (roadside restaurant),Ресторант
+Е11,information,services-cafe,Services (café or snack bar open every day),Кафене
+Е12,information,services-tent-camp,Services (tent camp),Къмпинг за палатки
+Е13,information,services-caravan-site,Services (caravan site),Къмпинг за туристически ремаркета
+Е14,information,services-camping-and-caravan-site,Services (camping and caravan site),Къмпинг за палатки и туристически ремаркета
+Е15,information,tourist-base,Tourist base,Туристическа база
+Е16,information,services-picnic-site,Services (picnic site),Място за отдих
+Е17,information,services-hiking-trail,Services (hiking trail),Начало на пешеходен маршрут
+Е18,information,drinking-water,Drinking water,Вода за пиене
+Е19,information,services-toilets,Services (toilets),Тоалетна
+Е20,information,taxi-rank,Taxi rank,Такси
+Е21,information,pedestrian-subway,Pedestrian subway,Пешеходен подлез или надлез
+Е22,information,national-speed-limits,National speed limits (at the border),Допустими максимални скорости на движение
+Е23,information,mountain-pass-open-or-closed,Mountain pass open or closed,Проходът е отворен или затворен за движение
+Е24,information,speed-camera,Speed camera,Контрол с автоматизирани технически средства или системи
+Е25,information,services-ev-charging-station,Services (EV charging station),Зарядна станция за зареждане на електрически превозни средства
+Е26,information,services-hydrogen-station,Services (liquid hydrogen station),Зарядна станция за зареждане с водород
+Ж1,information,advance-direction-sign,Advance direction sign,Предварителен указател
+Ж2,information,lane-advance-direction-sign,Advance direction sign by lane,Предварително указване на посока към населено място или обект
+Ж3,information,detour-announcement,Detour announcement,Предварителен указател за отклоняване на движението
+Ж4,information,route-for-prohibited-left-turn,Route for a prohibited left turn,Предварителен указател за завиване
+Ж5,information,itinerary-for-indicated-vehicle-category,Itinerary for indicated vehicle category,Предварителен указател за посоката на движение на означения вид пътни превозни средства
+Ж6,information,table-direction-sign,Table direction sign,Указателна табела
+Ж7,information,direction-sign,Direction sign,Указателна стрелка
+Ж8,information,direction-to-ferry,Direction to the ferry,Посока към ферибот
+Ж9,information,u-turn-place,U-turn place,Място за завиване в обратна посока
+Ж10,information,distance-sign,Distance sign,Потвърждаване на посоката към населено място
+Ж11,information,river-name,River or valley name,Наименование на обект
+Ж12,information,dead-end-side-road-right,Dead-end side road (to the right),Пресичаният път е без изход
+Ж13,information,dead-end,Dead end,Път без изход
+Ж14,information,lane-gain,Lane gain,Начало на пътна лента
+Ж15,information,lane-reduction,Lane reduction,Край на пътна лента
+Ж16,information,carriageway-change-contraflow-starts,Change of carriageway (contraflow section begins),Преминаване в платното за насрещно движение
+Ж18,information,emergency-escape-lane,"Emergency escape lane (straight ahead, road turns left)",Пътна лента със съоръжение за аварийно спиране
+Ж19,information,recommended-speed,Recommended speed,Препоръчителна скорост
+Ж20.1,information,motorway-number,Motorway number,Номер на автомагистралата по националната класификация
+Ж20.2,information,national-road-number,National road number,Номер на пътя по националната класификация
+Ж21,information,european-road-number,European road number,Номер на пътя по международната класификация
+Ж22,information,kilometre-marker,Kilometre marker,Километричен знак
+Ж25.1,information,cycle-route-number-eurovelo,Cycle route number (with EuroVelo route),Номер на велосипеден маршрут по международната класификация
+Ж25.2,information,cycle-route-number-national,Cycle route number (national route),Номер на велосипеден маршрут по националната класификация
+Т1,additional-panel,distance,Distance,Разстояние до
+Т2,additional-panel,section-length,Length of section,Дължина на
+Т3,additional-panel,section-start,Start of section,Начало на зоната на действие на пътни знаци В27 и В28
+Т4,additional-panel,section-continues,Section continues,Продължаване зоната на действие на пътни знаци В27 и В28
+Т5,additional-panel,section-end,End of section,Край на зоната на действие на пътни знаци В27 и В28
+Т6,additional-panel,vehicle-type,Type of vehicle,"Пътно превозно средство, за което се отнася действието на пътния знак"
+Т7,additional-panel,except-vehicles-shown,Except the vehicles shown,"Пътно превозно средство, за което не се отнася действието на пътния знак"
+Т8,additional-panel,stop-ahead-panel,Stop ahead,Разстояние до пътен знак Б2
+Т9,additional-panel,direction-arrow-down,Direction (pointing down),Стрелка
+Т10,additional-panel,time-period,Time period (e.g. 16–18 h),Време на действие на пътния знак
+Т11,additional-panel,distance-and-direction,Distance and direction,Посока към обект
+Т12,additional-panel,parking-position,Parking position,Начин на паркиране на пътните превозни средства
+Т13,additional-panel,priority-road-course,Course of the priority road,Направление на пътя с предимство в кръстовището
+Т14.1,additional-panel,snow-or-ice-panel,In snow or ice,При сняг и зимни условия
+Т14.2,additional-panel,when-wet,When wet,При дъжд и мокра настилка
+Т15,additional-panel,working-days,Working days,Работни дни
+Т16,additional-panel,saturdays-sundays-and-holidays,"Saturdays, Sundays and public holidays",Неработни дни
+Т17,additional-panel,text-panel,Text panel,Табела с текст
+Т18.1,additional-panel,vehicles-will-be-towed,Vehicles will be towed away,Принудително отстраняване на ППС
+Т18.2,additional-panel,offending-vehicles-will-be-clamped,Offending vehicles will be clamped,Поставяне на ограничителни средства
