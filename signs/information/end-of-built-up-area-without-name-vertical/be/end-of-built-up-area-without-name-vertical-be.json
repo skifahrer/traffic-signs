@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-built-up-area-without-name-vertical",
+  "category": "information",
+  "country": "be",
+  "code": "F3b (verticaal)",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign F3b verticaal.svg"
+  }
+}

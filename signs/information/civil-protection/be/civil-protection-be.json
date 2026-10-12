@@ -1,0 +1,11 @@
+{
+  "sign": "civil-protection",
+  "category": "information",
+  "country": "be",
+  "code": "S12",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S12.svg"
+  }
+}

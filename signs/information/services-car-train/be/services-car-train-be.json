@@ -1,0 +1,11 @@
+{
+  "sign": "services-car-train",
+  "category": "information",
+  "country": "be",
+  "code": "S20",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S20.svg"
+  }
+}

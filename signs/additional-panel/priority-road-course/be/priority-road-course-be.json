@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "GVIII",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",
+    "file": "Belgian traffic sign GVIII.svg"
+  }
+}

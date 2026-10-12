@@ -1,0 +1,11 @@
+{
+  "sign": "mopeds-class-b-must-use-cycle-path",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "M6",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",
+    "file": "Belgian traffic sign M6.svg"
+  }
+}

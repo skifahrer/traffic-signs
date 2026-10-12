@@ -1,0 +1,11 @@
+{
+  "sign": "fire-extinguisher",
+  "category": "information",
+  "country": "be",
+  "code": "F56",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",
+    "file": "Belgian road sign F56.svg"
+  }
+}

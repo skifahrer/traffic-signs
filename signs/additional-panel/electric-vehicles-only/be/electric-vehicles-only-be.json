@@ -1,0 +1,11 @@
+{
+  "sign": "electric-vehicles-only",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "GVIId (elektrische wagens)",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",
+    "file": "Belgian traffic sign GVIId Elektrische wagens.svg"
+  }
+}

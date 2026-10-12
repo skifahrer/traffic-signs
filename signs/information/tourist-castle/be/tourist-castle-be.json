@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-castle",
+  "category": "information",
+  "country": "be",
+  "code": "S31",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S31.svg"
+  }
+}

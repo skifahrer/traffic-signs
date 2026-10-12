@@ -1,0 +1,11 @@
+{
+  "sign": "no-left-turn",
+  "category": "regulatory",
+  "country": "be",
+  "code": "C31a",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",
+    "file": "Belgian road sign C31g.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "cyclists-may-go-straight-on-red-light",
+  "category": "regulatory",
+  "country": "be",
+  "code": "B23",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",
+    "file": "Belgian road sign B23.svg"
+  }
+}

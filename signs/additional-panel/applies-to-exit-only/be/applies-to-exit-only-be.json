@@ -1,0 +1,11 @@
+{
+  "sign": "applies-to-exit-only",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "GXI",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign GXI.svg"
+  }
+}
