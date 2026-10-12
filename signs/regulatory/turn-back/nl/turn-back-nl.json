@@ -1,0 +1,11 @@
+{
+  "sign": "turn-back",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C2f + OB705",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",
+    "file": "NL-C2f OB705.svg"
+  }
+}

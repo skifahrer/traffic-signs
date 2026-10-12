@@ -139,7 +139,7 @@ bundle (`python3 -m pipelines us-states`). In the viewer they are not part of
 | Greece (`gr`) | 302 | [Πινακίδες οδοσήμανσης στην Ελλάδα](https://el.wikipedia.org/wiki/%CE%A0%CE%B9%CE%BD%CE%B1%CE%BA%CE%AF%CE%B4%CE%B5%CF%82_%CE%BF%CE%B4%CE%BF%CF%83%CE%AE%CE%BC%CE%B1%CE%BD%CF%83%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1) (Greek Wikipedia, ΚΟΚ) | [`pipelines/countries/gr`](pipelines/countries/gr) |
 | Hungary (`hu`) | 379 | [Útjelző táblák Magyarországon](https://hu.wikipedia.org/wiki/%C3%9Atjelz%C5%91_t%C3%A1bl%C3%A1k_Magyarorsz%C3%A1gon) (Hungarian Wikipedia, KRESZ) | [`pipelines/countries/hu`](pipelines/countries/hu) |
 | Ireland (`ie`) | 437 | [Road signs in Ireland](https://en.wikipedia.org/wiki/Road_signs_in_Ireland) (English Wikipedia, Traffic Signs Manual codes) | [`pipelines/countries/ie`](pipelines/countries/ie) |
-| Netherlands (`nl`) | 184 | [Verkeersborden in Nederland](https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland) (Dutch Wikipedia, RVV 1990 series A–L) | [`pipelines/countries/nl`](pipelines/countries/nl) |
+| Netherlands (`nl`) | 200 | [Verkeersborden in Nederland](https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland) (Dutch Wikipedia, RVV 1990 series A–L) and [Road signs in the Netherlands](https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands) (English Wikipedia, for the signs only it shows; Dutch names from `translations.csv`) | [`pipelines/countries/nl`](pipelines/countries/nl) |
 | Poland (`pl`) | 404 | [Wzory znaków i sygnałów drogowych w Polsce](https://pl.wikipedia.org/wiki/Wzory_znak%C3%B3w_i_sygna%C5%82%C3%B3w_drogowych_w_Polsce) (Polish Wikipedia) | [`pipelines/countries/pl`](pipelines/countries/pl) |
 | Portugal (`pt`) | 279 | [Sinalização de trânsito em Portugal](https://pt.wikipedia.org/wiki/Sinaliza%C3%A7%C3%A3o_de_tr%C3%A2nsito_em_Portugal) (Portuguese Wikipedia, Regulamento de Sinalização do Trânsito) | [`pipelines/countries/pt`](pipelines/countries/pt) |
 | Romania (`ro`) | 278 | [Indicatoarele rutiere din România](https://ro.wikipedia.org/wiki/Indicatoarele_rutiere_din_Rom%C3%A2nia) (Romanian Wikipedia, codes from the image names) | [`pipelines/countries/ro`](pipelines/countries/ro) |
@@ -284,7 +284,7 @@ pipelines/
 
    | Page | Use |
    | --- | --- |
-   | Signs spread over several pages | `page=["Panneau … de danger en France", "Panneau … de prescription en France"]`; every parser reads every page, and a sign listed twice counts once |
+   | Signs spread over several pages | `page=["Panneau … de danger en France", "Panneau … de prescription en France"]`; every parser reads every page, and a sign listed twice counts once: a code found on an earlier page keeps that page's image, so list the local page first |
    | Signs missing from the local page | `"en:Road signs in France"` reads a page from the English (or any other) Wikipedia |
    | Every caption starts with a word that is not part of the code | `code_prefix=r"(?:Zusatzzeichen\|Zeichen) "` on `gallery()`/`wikitable()` stores `Zeichen 101` as `101` |
    | Captions with a dot, dash or slash after the code | read as they are: `A1a - Virage à droite`, `B0. Circulation interdite`, `RA-9A/Cross other side` |

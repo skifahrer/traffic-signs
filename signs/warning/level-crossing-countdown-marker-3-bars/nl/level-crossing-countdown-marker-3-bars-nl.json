@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-countdown-marker-3-bars",
+  "category": "warning",
+  "country": "nl",
+  "code": "BB23-3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",
+    "file": "NL-BB23-3.svg"
+  }
+}
