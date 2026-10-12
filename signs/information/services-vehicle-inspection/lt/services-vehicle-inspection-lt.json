@@ -1,0 +1,11 @@
+{
+  "sign": "services-vehicle-inspection",
+  "category": "information",
+  "country": "lt",
+  "code": "734",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 734.svg"
+  }
+}

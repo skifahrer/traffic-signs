@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-crossing",
+  "category": "information",
+  "country": "lt",
+  "code": "533",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 533.svg"
+  }
+}

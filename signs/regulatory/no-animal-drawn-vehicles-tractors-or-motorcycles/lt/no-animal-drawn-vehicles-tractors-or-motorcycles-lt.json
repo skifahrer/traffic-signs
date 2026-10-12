@@ -1,0 +1,11 @@
+{
+  "sign": "no-animal-drawn-vehicles-tractors-or-motorcycles",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "313",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 313.svg"
+  }
+}

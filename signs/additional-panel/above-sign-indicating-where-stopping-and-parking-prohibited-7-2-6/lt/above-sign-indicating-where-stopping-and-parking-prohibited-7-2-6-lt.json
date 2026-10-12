@@ -1,0 +1,11 @@
+{
+  "sign": "above-sign-indicating-where-stopping-and-parking-prohibited-7-2-6",
+  "category": "additional-panel",
+  "country": "lt",
+  "code": "810",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 810.svg"
+  }
+}

@@ -1,0 +1,286 @@
+code,category,slug,name_en,name_lt
+101,warning,level-crossing-with-barriers,Level crossing with barriers,Pervaža su užtvaru
+102,warning,level-crossing-without-barriers,Level crossing without barriers,Pervaža be užtvaro
+103,warning,movable-bridge,Movable bridge,Pakeliamasis tiltas
+104,warning,quayside,Quayside or river bank,Krantinė
+105,warning,children,Children,Vaikai
+106,warning,roadworks,Roadworks,Darbai kelyje
+107,warning,intersection,Intersection,Lygiareikšmių kelių sankryža
+108,warning,crossroads-with-minor-road,Crossroads with a road without priority,Sankryža su šalutiniu keliu
+109,warning,side-road-right-minor,Side road on the right (without priority),Šalutinis kelias iš dešinės
+110,warning,side-road-left-minor,Side road on the left (without priority),Šalutinis kelias iš kairės
+111,warning,roundabout-ahead,Roundabout ahead,Žiedinė sankryža
+112,warning,traffic-signals,Traffic signals,Šviesoforas
+113,warning,bend-right,Bend (right),Vingis į dešinę
+114,warning,bend-left,Bend (left),Vingis į kairę
+115,warning,double-bend-right,Double bend (first to the right),Vingiai
+116,warning,double-bend-left,Double bend (first to the left),Vingiai
+117,warning,steep-descent,Steep descent,Stati nuokalnė
+118,warning,steep-ascent,Steep ascent,Stati įkalnė
+119,warning,slippery-road,Slippery road,Slidus kelias
+120,warning,uneven-road,Uneven road,Nelygus kelias
+121,warning,loose-gravel,Loose gravel,Žvyras
+122,warning,dangerous-verge,Dangerous verge,Pavojingas kelkraštis
+123,warning,road-narrows-both-sides,Road narrows (from both sides),Susiaurėjimas
+124,warning,road-narrows-right,Road narrows (from the right),Susiaurėjimas iš dešinės
+125,warning,road-narrows-left,Road narrows (from the left),Susiaurėjimas iš kairės
+126,warning,two-way-traffic,Two-way traffic,Dvipusis eismas
+127,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Pėsčiųjų perėja
+128,warning,pedestrians,Pedestrians,Pėstieji
+129,warning,cyclists,Cyclists,Dviratininkai
+130,warning,farm-animals,Farm animals,Gyvulių pergina
+131,warning,wild-animals,Wild animals,Laukiniai gyvūnai
+132,warning,fallen-rocks,Fallen rocks,Krintantys akmenys
+133,warning,crosswind,Crosswind,Šoninis vėjas
+134,warning,low-flying-aircraft,Low-flying aircraft,Lėktuvai
+135,warning,queues,Queues likely,Transporto grūstis
+136,warning,accident-blackspot,Accident blackspot,Daug eismo įvykių
+137,warning,danger,Other danger,Kiti pavojai
+138,warning,level-crossing-cross-single-track,Level crossing cross (single track),Vienkelis geležinkelis
+139,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Daugiakelis geležinkelis
+140,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Artėjama prie pervažos
+141,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Artėjama prie pervažos
+142,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Artėjama prie pervažos
+143,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Artėjama prie pervažos
+144,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Artėjama prie pervažos
+145,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Artėjama prie pervažos
+146,traffic-device,chevron-board-1-arrow-right,Chevron (right),Posūkio kryptis į dešinę
+147,traffic-device,chevron-board-1-arrow-left,Chevron (left),Posūkio kryptis į kairę
+148,traffic-device,chevron-board-t-junction,Chevron board (T-junction),Eismo krypčių išsiskyrimas
+149,traffic-device,lane-guide-plates-roadworks,"Lane guide plates at roadworks (hatched, for either side)",Nukreipiamoji gairė
+150,warning,longitudinal-ruts,Longitudinal ruts,Provėžos
+151,warning,speed-bump,Speed bump,Greičio mažinimo priemonė
+152,warning,horse-riders,Horse riders,Raiteliai
+201,information,priority-road,Priority road,Pagrindinis kelias
+202,information,end-of-priority-road,End of priority road,Pagrindinio kelio pabaiga
+203,regulatory,give-way,Give way,Duoti kelią
+204,regulatory,stop,"Stop, give way",Stop
+205,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Priešpriešinio eismo pirmenybė
+206,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Pirmenybė priešpriešinio eismo atžvilgiu
+301,regulatory,no-entry,No entry,Įvažiuoti draudžiama
+302,regulatory,no-vehicles,No vehicles,Eismas draudžiamas
+303,regulatory,no-motor-vehicles,No motor vehicles,Motorinių transporto priemonių eismas draudžiamas
+304,regulatory,no-goods-vehicles,No entry for goods vehicles,Krovininių automobilių eismas draudžiamas
+305,regulatory,no-motorcycles,No entry for motorcycles,Motociklų eismas draudžiamas
+306,regulatory,no-tractors,No entry for tractors,Traktorių eismas draudžiamas
+307,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Važiuoti su priekabomis draudžiama
+308,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Vežimų eismas draudžiamas
+309,regulatory,no-bicycles,No entry for bicycles,Dviračių eismas draudžiamas
+310,regulatory,no-pedestrians,No entry for pedestrians,Pėsčiųjų eismas draudžiamas
+311,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,"Pavojinguosius krovinius vežančių transporto priemonių, kurioms numatytas specialusis ženklinimas, eismas draudžiamas"
+312,regulatory,no-motor-vehicles-or-motorcycles,No motor vehicles or motorcycles,Nurodyto transporto eismas draudžiamas
+313,regulatory,no-animal-drawn-vehicles-tractors-or-motorcycles,"No animal-drawn vehicles, tractors or motorcycles",Nurodyto transporto eismas draudžiamas
+314,regulatory,maximum-weight,Maximum weight,Ribota masė
+315,regulatory,maximum-axle-weight,Maximum axle weight,Ribota ašies apkrova
+316,regulatory,maximum-height,Maximum height,Ribotas aukštis
+317,regulatory,maximum-width,Maximum width,Ribotas plotis
+318,regulatory,maximum-length,Maximum length,Ribotas ilgis
+319,regulatory,minimum-distance,Minimum distance between vehicles,Ribotas atstumas
+320,regulatory,customs-stop,Customs stop,Muitinė
+320a,regulatory,customs-stop-lithuanian-and-belarusian,Customs stop (in Lithuanian and Belarusian),Muitinė
+321,regulatory,police-check-stop,Police check stop,Kontrolė
+322,regulatory,no-right-turn,No right turn,Sukti į dešinę draudžiama
+323,regulatory,no-left-turn,No left turn,Sukti į kairę draudžiama
+324,regulatory,no-u-turn,No U-turn,Apsisukti draudžiama
+325,regulatory,no-overtaking,No overtaking,Lenkti draudžiama
+326,regulatory,end-of-no-overtaking,End of no overtaking,Lenkimo draudimo pabaiga
+327,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Krovininiais automobiliais lenkti draudžiama
+328,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Lenkimo krovininiais automobiliais draudimo pabaiga
+329,regulatory,speed-limit,Speed limit,Ribotas greitis
+330,regulatory,end-of-speed-limit,End of speed limit,Greičio ribojimo pabaiga
+331,regulatory,no-horns,Use of horns prohibited,Naudoti garso signalą draudžiama
+332,regulatory,no-stopping,No stopping,Sustoti draudžiama
+333,regulatory,no-parking,No parking,Stovėti draudžiama
+334,regulatory,no-parking-odd-days,No parking on odd days,Stovėti draudžiama nelyginėmis dienomis
+335,regulatory,no-parking-even-days,No parking on even days,Stovėti draudžiama lyginėmis dienomis
+336,regulatory,end-of-all-restrictions,End of all restrictions,Apribojimų pabaiga
+337,regulatory,no-mopeds,No entry for mopeds,Mopedų eismas draudžiamas
+338,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,"Transporto priemonių, vežančių sprogstamųjų ar lengvai užsiliepsnojančių medžiagų daugiau, negu nustatyta, eismas draudžiamas"
+339,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,"Transporto priemonių, vežančių medžiagų, galinčių užteršti vandenį, daugiau, negu nustatyta, eismas draudžiamas"
+340,regulatory,no-personal-transporters,No entry for personal transporters,Elektrinių mikrojudumo priemonių eismas draudžiamas
+341,regulatory,no-caravans,No entry for caravans,Gyvenamųjų transporto priemonių eismas draudžiamas
+401,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Važiuoti tiesiai
+402,regulatory,turn-right,Turn right,Važiuoti į dešinę
+403,regulatory,turn-left,Turn left,Važiuoti į kairę
+404,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Važiuoti tiesiai arba į dešinę
+405,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Važiuoti tiesiai arba į kairę
+406,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Važiuoti į dešinę arba į kairę
+407,regulatory,pass-on-right,Pass on the right,Apvažiuoti iš dešinės
+408,regulatory,pass-on-left,Pass on the left,Apvažiuoti iš kairės
+409,regulatory,pass-on-either-side,Pass on either side,Apvažiuoti iš dešinės arba kairės
+410,regulatory,roundabout,Roundabout,Eismas ratu
+411,regulatory,cycle-path,Cycle path,Dviračių takas
+412,regulatory,footpath,Footpath,Pėsčiųjų takas
+413,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Pėsčiųjų ir dviračių takas
+413a,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Pėsčiųjų ir dviračių takas
+413b,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Pėsčiųjų ir dviračių takas
+414,regulatory,minimum-speed,Minimum speed,Ribotas minimalus greitis
+415,regulatory,end-of-minimum-speed,End of minimum speed,Minimalaus greičio apribojimo pabaiga
+416,regulatory,vehicles-carrying-dangerous-goods-may-proceed-straight-ahead,Vehicles carrying dangerous goods may proceed straight ahead only,Pavojinguosius krovinius vežančių transporto priemonių važiavimo kryptis
+417,regulatory,vehicles-carrying-dangerous-goods-may-turn-right-only,Vehicles carrying dangerous goods may turn right only,Pavojinguosius krovinius vežančių transporto priemonių važiavimo kryptis
+418,regulatory,vehicles-carrying-dangerous-goods-may-turn-left-only,Vehicles carrying dangerous goods may turn left only,Pavojinguosius krovinius vežančių transporto priemonių važiavimo kryptis
+501,information,motorway,Motorway,Automagistralė
+502,information,end-of-motorway,End of motorway,Automagistralės pabaiga
+503,information,one-way-road,One-way road,Vienpusis eismas
+504,information,end-of-one-way-road,End of one-way road,Vienpusio eismo pabaiga
+505,information,rightward-one-way-street,Rightward one-way street,Įvažiavimas į vienpusio eismo kelią
+506,information,leftward-one-way-street,Leftward one-way street,Įvažiavimas į vienpusio eismo kelią
+507,information,mandatory-direction-of-lanes,Mandatory direction of lanes,Eismo kryptys sankryžoje
+508,information,lane-direction-straight,Direction of the lane (straight ahead),Eismo kryptis sankryžoje tiesiai
+509,information,lane-direction-right,Direction of the lane (right),Eismo kryptis sankryžoje į dešinę
+510,information,lane-direction-left,Direction of the lane (left),Eismo kryptis sankryžoje į kairę
+511,information,lane-direction-straight-or-right,Direction of the lane (straight ahead or right),Eismo kryptis sankryžoje tiesiai ir į dešinę
+512,information,lane-direction-straight-or-left,Direction of the lane (straight ahead or left),Eismo kryptis sankryžoje tiesiai ir į kairę
+513,information,additional-lane-on-the-right-begins,Additional lane on the right begins,Eismo juostos pradžia iš dešinės
+514,information,additional-lane-on-the-left-begins,Additional lane on the left begins,Eismo juostos pradžia iš kairės
+515,information,end-of-additional-lane-right,End of additional lane (on the right),Dešinės eismo juostos pabaiga
+516,information,end-of-additional-lane-left,End of additional lane (on the left),Kairės eismo juostos pabaiga
+517,information,number-of-lanes-1-plus-2-oncoming,Number of lanes (1 lane + 2 oncoming),Eismo kryptys eismo juostose
+518,information,number-of-lanes-2-plus-1-oncoming,Number of lanes (2 lanes + 1 oncoming),Eismo kryptys eismo juostose
+519,information,lane-shift-right-2-plus-1-oncoming,"Lane shift (to the right, 2 lanes + 1 oncoming)",Eismo kryptys eismo juostose
+520,information,lane-use-b,Use of lanes (variant b),Eismo kryptys ir apribojimai
+521,information,additional-lane-on-the-right-begins-with-restriction,Additional lane on the right begins (for the vehicles a restriction shown keeps out of the other lane),Eismo juostos pradžia ir apribojimai
+522,information,lane-on-the-right-begins-with-traffic-coming-from-other-road,Lane on the right begins with traffic coming from other road,Eismas juostose
+522a,information,lane-for-joining-traffic-seen-from-side-road,Lane for traffic joining from a side road (seen from the side road),Eismas juostose
+523,regulatory,public-transport-lane,Public transport lane,Eismo juosta maršrutiniam transportui
+524,information,one-way-street-with-reverse-lane-for-buses,One-way street with reverse lane for buses,Kelias su eismo juosta maršrutiniam transportui
+525,information,entrance-road-with-bus-lane,Entrance to a road with a bus lane,Įvažiavimas į kelią su eismo juosta maršrutiniam transportui
+526,information,entrance-road-with-bus-lane-b,Entrance to a road with a bus lane (variant b),Įvažiavimas į kelią su eismo juosta maršrutiniam transportui
+527,information,u-turn-place,U-turn place,Apsisukimo vieta
+528,regulatory,parking,Parking,Stovėjimo vieta
+529,regulatory,parking-time-limit,Parking time limit,Stovėjimo ribotą laiką vieta
+530,regulatory,parking-during-hours-shown,Parking (only during the hours shown),Stovėjimo nurodytu laiku vieta
+531,regulatory,reserved-parking,Reserved parking,Rezervuota stovėjimo vieta
+532,regulatory,park-and-ride,Park and ride,Stovėjimo vieta ir maršrutinis transportas
+533,information,pedestrian-crossing,Pedestrian crossing,Pėsčiųjų perėja
+534,information,pedestrian-crossing-left-side,Pedestrian crossing (placed on the left),Pėsčiųjų perėja
+533a,information,pedestrian-crossing-fluorescent-frame,Pedestrian crossing (on a fluorescent yellow-green board),Pėsčiųjų perėja
+534a,information,pedestrian-crossing-left-side-fluorescent-frame,"Pedestrian crossing (on a fluorescent yellow-green board, placed on the left)",Pėsčiųjų perėja
+535,information,pedestrian-underpass-with-stairs,Pedestrian underpass (with stairs),Požeminė pėsčiųjų perėja
+536,information,pedestrian-underpass-with-stairs-left-side,"Pedestrian underpass (with stairs, placed on the left)",Požeminė pėsčiųjų perėja
+537,information,pedestrian-overpass-with-stairs,Pedestrian overpass (with stairs),Pėsčiųjų perėja virš kelio
+538,information,pedestrian-overpass-with-stairs-left-side,"Pedestrian overpass (with stairs, placed on the left)",Pėsčiųjų perėja virš kelio
+539,information,recommended-speed,Recommended speed,Rekomenduojamas greitis
+540,regulatory,no-parking-zone,No parking zone,"Zona, kurioje draudžiama stovėti"
+541,regulatory,parking-zone,Parking zone,Stovėjimo zona
+542,regulatory,speed-limit-zone,Speed limit zone,Riboto greičio zona
+543,regulatory,end-of-no-parking-zone,End of no parking zone,"Zonos, kurioje draudžiama stovėti, pabaiga"
+544,regulatory,end-of-parking-zone,End of parking zone,Stovėjimo zonos pabaiga
+545,regulatory,end-of-speed-limit-zone,End of speed limit zone,Riboto greičio zonos pabaiga
+546,information,tunnel,Tunnel,Tunelis
+547,information,end-of-tunnel,End of tunnel,Tunelio pabaiga
+548,information,bus-stop,"Bus, trolleybus or electric bus stop",Stotelė
+549,information,taxi-rank,Taxi rank,Taksi stotelė
+550,information,built-up-area,Built-up area,Gyvenvietės pradžia
+550a,information,built-up-area-with-skyline,Built-up area (name with a skyline),Gyvenvietės pradžia
+550b,information,built-up-area-without-name,Built-up area (without place name),Gyvenvietės pradžia
+551,information,end-of-built-up-area,End of built-up area,Gyvenvietės pabaiga
+551a,information,end-of-built-up-area-with-skyline,End of built-up area (name with a skyline),Gyvenvietės pabaiga
+551b,information,end-of-built-up-area-without-name,End of built-up area (without place name),Gyvenvietės pabaiga
+552,information,residential-zone,Residential zone,Gyvenamoji zona
+553,information,end-of-residential-zone,End of residential zone,Gyvenamosios zonos pabaiga
+554,regulatory,stop-line-sign,Stop line,„Stop“ linija
+555,information,motor-road,Road for motor vehicles,Automobilių kelias
+556,information,end-of-motor-road,End of road for motor vehicles,Automobilių kelio pabaiga
+557,information,raised-traffic-island,Raised traffic island,Iškili saugumo salelė
+558,information,emergency-lay-by,Emergency lay-by,Priverstinio (avarinio) sustojimo vieta
+559,information,bicycle-road,Bicycle road,Dviračių gatvė
+560,information,end-of-bicycle-road,End of bicycle road,Dviračių gatvės pabaiga
+601,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),Išankstinė krypčių rodyklė
+602,information,advance-direction-sign-roundabout,Advance direction sign (roundabout),Išankstinė krypčių rodyklė
+603,information,advance-direction-sign-with-restriction,Advance direction sign (with a restriction for some vehicles),Išankstinė krypčių rodyklė
+604A,information,lane-advance-direction-sign,Advance direction sign by lane,Išankstinė krypčių rodyklė
+604B,information,lane-advance-direction-sign-half-right,Advance direction sign by lane (ahead to the right),Išankstinė krypčių rodyklė
+604C,information,advance-direction-sign-stacked,Advance direction sign (stacked),Išankstinė krypčių rodyklė
+605,information,direction-sign-motorway,Direction sign (motorway),Krypties rodyklė
+606,information,direction-sign,Direction sign,Krypties rodyklė
+607,information,direction-sign-local,Direction sign (destination in town),Krypties rodyklė
+608,information,direction-sign-stacked,"Direction sign (stacked, with distances)",Krypčių rodyklė
+609,information,route-for-prohibited-left-turn,Route for a prohibited left turn,Važiavimo schema
+610,information,goods-vehicle-direction-straight,Recommended direction for goods vehicles (straight ahead),Važiavimo kryptis
+611,information,dead-end,Dead end,Aklakelis
+612,information,place-name-sign,Place name,Gyvenvietės pradžia
+613,information,end-of-place-name-sign,End of place name,Gyvenvietės pabaiga
+614,information,river-name,River or valley name,Vandens telkinio pavadinimas
+615,information,administrative-border,Border of an administrative area,Objekto pavadinimas
+616,information,street-name-crossing-street,Street name sign (the street crossed at the junction ahead),Gatvės pavadinimas
+617,information,street-name,Street name sign,Gatvės pavadinimas
+618,information,distance-sign,Distance sign,Atstumų rodyklė
+619,information,national-speed-limits,National speed limits (at the border),Greičio ribojimo ir kitos informacijos rodyklė
+620,information,kilometre-marker,Kilometre marker,Kilometrų ženklas
+621,information,kilometre-marker-green,"Kilometre marker (green, on motorways and expressways)",Kilometrų ženklas
+623A,information,road-number-and-direction-c,Road number and direction (variant c),Kelio arba dviračių trasos numeris ir kryptis
+623B,information,road-number-and-direction,Road number and direction,Kelio arba dviračių trasos numeris ir kryptis
+623C,information,road-number-and-direction-left,Road number and direction (left),Kelio arba dviračių trasos numeris ir kryptis
+623D,information,cycle-route-number-direction,Cycle route number and direction,Kelio arba dviračių trasos numeris ir kryptis
+623E,information,cycle-direction-sign,Direction sign for cyclists,Kelio arba dviračių trasos numeris ir kryptis
+624,information,detour-map,Detour map,Apylankos schema
+625,information,detour-route-on-straight-with-closed-road,Detour route on straight (with the closed road shown),Apylankos kryptis
+626,information,detour-route-on-straight,Detour route on straight,Apylankos kryptis
+627,information,lane-change-arrows-roadworks,Lane change arrows (at roadworks),Persirikiavimo rodyklė
+628,information,tourist-destination-direction-sign,Tourist destination direction sign,Krypties rodyklė į lankytiną vietą
+629,information,tourist-destination-sign,Tourist destination sign,Lankytinos vietos pavadinimas
+635,information,european-union-country-border,European Union country border,Lietuvos Respublika
+636,information,traffic-enforcement-camera,Automatic traffic enforcement (other than speed),Automatinė eismo kontrolė
+636a,information,speed-camera,Speed camera,Automatinė eismo kontrolė
+703,information,services-filling-station,Services (filling station),Degalinė
+704,information,services-breakdown-service,Services (breakdown service),Dirbtuvės
+707,information,services-restaurant,Services (roadside restaurant),Valgykla
+708,information,services-cafe,Services (café or snack bar open every day),Kavinė
+711,information,caravan-parking,Parking for caravans and motorhomes,Gyvenamųjų transporto priemonių stovėjimo vieta
+712,information,services-camping-and-caravan-site,Services (camping and caravan site),Stovyklavietė su gyvenamųjų transporto priemonių stovėjimo vieta
+714,information,police,Police,Policija
+715,information,services-toilets,Services (toilets),Tualetas
+716,information,swimming-place,Swimming place,Maudymosi vieta
+719,information,customs,Customs,Muitinė
+720,information,airport,Airport,Oro uostas
+722,information,services-information-point,Services (information point),Informacijos centras
+723,information,services-youth-hostel,Services (youth hostel),Nakvynės namai
+724,information,tourist-farm-stay,Tourist destination (farm stay),Kaimo turizmo sodyba
+726,information,fishing-place,Fishing place,Žvejybos vieta
+727,information,golf-course,Golf course,Golfo aikštelė
+728,information,horseback-riding,Horseback riding,Žirgų sportas
+729,information,ski-lift,Ski lift,Slidininkų keltuvas
+730,information,bus-station,Bus station,Autobusų stotis
+731,information,railway-station,Railway station,Geležinkelio stotis
+732,information,ferry-terminal,Ferry,"Transporto priemonių keltas, uostas arba prieplauka"
+733,information,vehicle-and-driver-registry,Vehicle and driver registry,Transporto priemonių ir vairuotojų registras
+734,information,services-vehicle-inspection,Services (vehicle inspection station),Privalomosios techninės apžiūros stotis
+735,information,services-ev-charging-station,Services (EV charging station),Elektromobilių įkrovimo vieta
+736,information,industrial-area,Industrial area,Pramoninė zona
+801,additional-panel,distance,Distance,Atstumas iki objekto
+802,additional-panel,distance-and-direction-right,Distance and direction (right),Atstumas iki objekto
+803,additional-panel,distance-and-direction,Distance and direction,Atstumas iki objekto
+804,additional-panel,distance-to-stop-line,Distance to the stop line,Atstumas iki sankryžos
+805,additional-panel,section-length,Length of section,Galiojimo zona į priekį
+806,additional-panel,section-length-ahead,Length of section (ahead of the sign),Galiojimo zona į priekį
+809,additional-panel,above-sign-indicating-where-stopping-and-parking-prohibited-7-2-5,Above sign indicating where stopping and parking prohibited in length in 30 meters on right side,Galiojimo zona į dešinę
+810,additional-panel,above-sign-indicating-where-stopping-and-parking-prohibited-7-2-6,Above sign indicating where stopping and parking prohibited in length in 25 meters on left side,Galiojimo zona į kairę
+811,additional-panel,above-sign-indicating-where-no-stopping-and-parking-in-both,Above sign indicating where no stopping and parking in both directions,Galiojimo zona į abi puses
+820,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Motociklai
+824,additional-panel,days,Days of the week,Savaitės dienos
+825,additional-panel,day-of-the-week,Day of the week,Savaitės diena
+826,additional-panel,time-period,Time period (e.g. 16–18 h),Galiojimo laikas
+827,additional-panel,saturdays-sundays-and-holidays-time,"Saturdays, Sundays and public holidays with times",Galiojimo laikas ne darbo dienomis
+828,additional-panel,working-days-time,Working days with times (e.g. 18–19 h),Galiojimo laikas darbo dienomis
+829,additional-panel,days-and-times,Days and times,Galiojimo laikas savaitės dienomis
+840,additional-panel,with-charge,Subject to a charge,Mokamos paslaugos
+840a,additional-panel,paid-parking-panel,Paid parking (with hours),Mokamos paslaugos
+841,additional-panel,dangerous-verge-panel,Dangerous verge,Pavojingas kelkraštis
+842,additional-panel,priority-road-course,Course of the priority road,Pagrindinio kelio kryptis
+843,additional-panel,priority-road-course-from-minor-road,Course of the priority road (seen from the minor road),Pagrindinio kelio kryptis
+846,additional-panel,disabled-parking,Parking for disabled persons,Asmenys su negalia
+847,additional-panel,except-disabled,Except disabled persons,Išskyrus asmenis su negalia
+848,additional-panel,ice-panel,Ice,Apledėjęs kelias
+849,additional-panel,fuel-cng-panel,Compressed natural gas (CNG),Suslėgtosios gamtinės dujos
+849a,additional-panel,fuel-cng-panel-with-text,"Compressed natural gas (CNG, with text)",Suslėgtosios gamtinės dujos
+850,additional-panel,fuel-lpg-panel,Liquefied petroleum gas (LPG),Suskystintosios naftos dujos
+850a,additional-panel,fuel-lpg-panel-with-text,"Liquefied petroleum gas (LPG, with text)",Suskystintosios naftos dujos
+851,additional-panel,fuel-and-energy-types-panel,Types of fuel and energy,Degalų ir energijos šaltinių rūšys
+853,additional-panel,except-bicycles,Except bicycles,Išskyrus dviratininkus
+854,additional-panel,electric-vehicles-charging-only,Electric vehicles while charging,Elektromobiliai
+855,additional-panel,except-electric-vehicles,Except electric vehicles,Išskyrus elektromobilius
+856,additional-panel,two-way-cycle-traffic,Two-way cycle traffic,Dviračių eismas
+857,additional-panel,vehicle-type-caravans,Type of vehicle (with caravans),Gyvenamosios transporto priemonės
+816,additional-panel,vehicle-type-with-trailers,Type of vehicle (with trailers),Transporto priemonės su priekaba
+852,additional-panel,vehicle-type-mopeds,Type of vehicle (mopeds),Mopedai

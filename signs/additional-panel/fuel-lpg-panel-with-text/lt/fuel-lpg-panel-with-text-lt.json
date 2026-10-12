@@ -1,0 +1,11 @@
+{
+  "sign": "fuel-lpg-panel-with-text",
+  "category": "additional-panel",
+  "country": "lt",
+  "code": "850a",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 850a.svg"
+  }
+}

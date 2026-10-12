@@ -1,0 +1,11 @@
+{
+  "sign": "accident-blackspot",
+  "category": "warning",
+  "country": "lt",
+  "code": "136",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 136.svg"
+  }
+}

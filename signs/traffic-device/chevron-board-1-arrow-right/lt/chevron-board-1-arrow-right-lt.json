@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-1-arrow-right",
+  "category": "traffic-device",
+  "country": "lt",
+  "code": "146",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 146.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-left-turn",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "323",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 323.svg"
+  }
+}

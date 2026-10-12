@@ -1,0 +1,11 @@
+{
+  "sign": "number-of-lanes-1-plus-2-oncoming",
+  "category": "information",
+  "country": "lt",
+  "code": "517",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 517.svg"
+  }
+}

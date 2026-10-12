@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course",
+  "category": "additional-panel",
+  "country": "lt",
+  "code": "842",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 842.svg"
+  }
+}

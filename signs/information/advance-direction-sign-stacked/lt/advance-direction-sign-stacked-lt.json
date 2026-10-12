@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-stacked",
+  "category": "information",
+  "country": "lt",
+  "code": "604C",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 604C.svg"
+  }
+}

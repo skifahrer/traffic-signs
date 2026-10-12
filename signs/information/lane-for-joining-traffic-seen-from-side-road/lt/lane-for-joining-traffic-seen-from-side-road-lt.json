@@ -1,0 +1,11 @@
+{
+  "sign": "lane-for-joining-traffic-seen-from-side-road",
+  "category": "information",
+  "country": "lt",
+  "code": "522a",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 522a.svg"
+  }
+}

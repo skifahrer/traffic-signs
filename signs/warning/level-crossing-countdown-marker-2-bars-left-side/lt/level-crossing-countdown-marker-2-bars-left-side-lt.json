@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-countdown-marker-2-bars-left-side",
+  "category": "warning",
+  "country": "lt",
+  "code": "144",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 144.svg"
+  }
+}

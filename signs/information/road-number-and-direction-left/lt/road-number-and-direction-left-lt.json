@@ -1,0 +1,11 @@
+{
+  "sign": "road-number-and-direction-left",
+  "category": "information",
+  "country": "lt",
+  "code": "623C",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 623C.svg"
+  }
+}

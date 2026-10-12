@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight-or-left",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "405",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 405.svg"
+  }
+}

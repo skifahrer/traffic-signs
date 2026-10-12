@@ -1,0 +1,11 @@
+{
+  "sign": "distance-to-stop-line",
+  "category": "additional-panel",
+  "country": "lt",
+  "code": "804",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 804.svg"
+  }
+}

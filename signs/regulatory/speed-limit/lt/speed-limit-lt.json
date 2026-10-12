@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "329",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 329 (50).svg"
+  }
+}
