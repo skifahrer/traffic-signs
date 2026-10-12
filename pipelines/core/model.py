@@ -76,6 +76,32 @@ class Page:
 
 
 @dataclass(frozen=True)
+class CommonsCategory(Page):
+    """A category on Wikimedia Commons, read as a page that shows all its files.
+
+    Its files and those of its subcategories, `depth` levels down, are listed
+    as one gallery, so the parsers that take the code from the file name
+    (`parsers.files()`, `parsers.named_files()` without captions) read it like
+    any other page. `exclude` is a regular expression for subcategory names
+    (without "Category:") not to enter: obsolete or historic sets, photos,
+    other countries. Make a category with `commons_category()`.
+    """
+
+    depth: int = 3
+    exclude: str | None = None
+
+    @property
+    def url(self) -> str:
+        return f"https://{self.wiki}/wiki/" + urllib.parse.quote(self.title.replace(" ", "_"), safe="/:")
+
+
+def commons_category(name: str, depth: int = 3, exclude: str | None = None) -> CommonsCategory:
+    """`commons_category("Diagrams of road signs of Denmark", exclude=r"(?i)historic|obsolete")`."""
+    title = name if name.startswith("Category:") else f"Category:{name}"
+    return CommonsCategory("commons.wikimedia.org", title, depth, exclude)
+
+
+@dataclass(frozen=True)
 class Source:
     country: str  # ISO 3166-1 alpha-2, the folder under each sign: "sk", "cz"
     language: str  # ISO 639-1 of the local names: "sk", "cs"
@@ -84,8 +110,9 @@ class Source:
     wiki: str  # "sk.wikipedia.org"
     # Title of the list of signs on that wiki, or several titles when the
     # signs are spread over more pages. "en:Title" reads a page from another
-    # language's Wikipedia (en.wikipedia.org).
-    page: Union[str, Sequence[str]]
+    # language's Wikipedia (en.wikipedia.org); commons_category(...) reads a
+    # category of files on Wikimedia Commons.
+    page: Union[str, Page, Sequence[Union[str, Page]]]
     # One parser, or several when the page mixes layouts (e.g. galleries and
     # tables); their entries are combined. Every parser reads every page.
     parser: Union[Parser, Sequence[Parser]]
@@ -113,9 +140,12 @@ class Source:
 
     @property
     def pages(self) -> tuple[Page, ...]:
-        titles = (self.page,) if isinstance(self.page, str) else tuple(self.page)
+        titles = (self.page,) if isinstance(self.page, (str, Page)) else tuple(self.page)
         pages = []
         for title in titles:
+            if isinstance(title, Page):
+                pages.append(title)
+                continue
             prefix, colon, rest = title.partition(":")
             if colon and re.fullmatch(r"[a-z]{2,3}", prefix):
                 pages.append(Page(f"{prefix}.wikipedia.org", rest))

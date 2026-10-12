@@ -81,6 +81,53 @@ class Client:
         """Raw wikitext of the current revision of `title` on e.g. sk.wikipedia.org."""
         return self.get(f"https://{wiki}/w/index.php", {"title": title, "action": "raw"}).decode("utf-8")
 
+    def category_files(self, title: str, depth: int = 3, exclude: str | None = None) -> list[str]:
+        """File names (without "File:") in a Commons category and its subcategories.
+
+        Subcategories are entered `depth` levels down, each once, except those
+        whose name (without "Category:") matches `exclude`. Files come in the
+        order Commons lists them, category by category, each file once.
+        """
+        exclude_re = re.compile(exclude) if exclude else None
+        files: list[str] = []
+        seen_files: set[str] = set()
+        seen_categories = {title}
+        level = [title]
+        for current_depth in range(depth + 1):
+            below = []
+            for category in level:
+                for member in self._category_members(category):
+                    name = member["title"].split(":", 1)[1]
+                    if member["ns"] == 6 and name not in seen_files:
+                        seen_files.add(name)
+                        files.append(name)
+                    elif member["ns"] == 14 and current_depth < depth and member["title"] not in seen_categories:
+                        seen_categories.add(member["title"])
+                        if exclude_re and exclude_re.search(name):
+                            log.detail(f"    skipped {member['title']}")
+                            continue
+                        below.append(member["title"])
+            level = below
+        log.info(f"  {title}: {len(files):,} files in {len(seen_categories):,} categories")
+        return files
+
+    def _category_members(self, title: str):
+        params = {
+            "action": "query",
+            "list": "categorymembers",
+            "cmtitle": title,
+            "cmtype": "file|subcat",
+            "cmlimit": "500",
+            "format": "json",
+            "formatversion": "2",
+        }
+        while True:
+            data = json.loads(self.get(COMMONS_API, params))
+            yield from data.get("query", {}).get("categorymembers", [])
+            if "continue" not in data:
+                return
+            params = {**params, **data["continue"]}
+
     def image_info(self, api: str, titles: list[str]) -> dict[str, dict]:
         """imageinfo (url, sha1, licence, author) keyed by the title as given.
 

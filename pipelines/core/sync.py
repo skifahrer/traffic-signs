@@ -17,7 +17,7 @@ import shutil
 from dataclasses import dataclass, field
 
 from . import images, layout, log
-from .model import Entry, Page, Source, Translation
+from .model import CommonsCategory, Entry, Page, Source, Translation
 from .wikimedia import COMMONS_API, Client
 
 
@@ -188,10 +188,18 @@ def _read_pages(source: Source, client: Client, options: Options) -> list[tuple[
     pages = []
     for page in source.pages:
         log.info(f"Downloading {page.url}")
-        wikitext = client.page_wikitext(page.wiki, page.title)
+        if isinstance(page, CommonsCategory):
+            wikitext = category_gallery(client.category_files(page.title, page.depth, page.exclude))
+        else:
+            wikitext = client.page_wikitext(page.wiki, page.title)
         log.info(f"{len(wikitext):,} characters of wikitext")
         pages.append((page, wikitext))
     return pages
+
+
+def category_gallery(files: list[str]) -> str:
+    """A Commons category's files as the wikitext of a page showing them in a gallery."""
+    return "<gallery>\n" + "".join(f"File:{file}\n" for file in files) + "</gallery>\n"
 
 
 def _fetch_image_info(source: Source, client: Client, files: list[str]) -> dict[str, dict]:
