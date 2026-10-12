@@ -349,6 +349,37 @@ When you add a country, add it to the dropdown's `options` in `sync.yml` too;
 If master is protected by a branch rule, allow GitHub Actions to push to it,
 or the job fails with "Could not push".
 
+## OpenStreetMap support
+
+OpenStreetMap tags a sign as `traffic_sign=<CC>:<national code>` (`SK:253[50]`,
+`DE:274[50],1020-30`, the value in brackets) or with one of the human-readable
+values its wiki documents (`city_limit`, `stop`, `give_way`, `maxspeed`, `hazard`,
+`overtaking`, ...). It keeps no catalogue of the codes, so `osm/<cc>.json` reads
+what OSM actually has and pairs it with an image here:
+
+```
+python -m pipelines.osm              # every country
+python -m pipelines.osm sk cz        # only these
+python -m pipelines.osm sk --check   # print the summary, write nothing
+```
+
+| Key | Holds |
+| --- | --- |
+| `signs` | every value OSM supports that has an image: `{"SK:253[50]": {"sign": "regulatory/speed-limit-50", "count": 3}}`; coded values from [taginfo](https://taginfo.openstreetmap.org/keys/traffic_sign) (also `traffic_sign:forward`/`:backward`), human-readable ones from [Key:traffic_sign](https://wiki.openstreetmap.org/wiki/Key:traffic_sign) |
+| `figures` | `maxspeed`, `maxweight`, `maxheight`, `maxwidth` take their figure from the tag of that name: one image per figure |
+| `implied` | nodes that are a sign without `traffic_sign`: `highway=stop`, `give_way`, `traffic_signals`, `speed_camera` |
+| `unmatched` | coded values OSM has but no image here matches, with their uses: the list to work through |
+| `human_without_image` | documented human-readable values this country has no image for |
+
+A value is matched by its code, written alike on both sides (spaces, `§` and
+commas dropped; Hungary's `A7` is `A-007`, Austria's `52.10a` is `§52 Z10a`).
+A figure needs its own image: `SK:253[45]` is not drawn as a 50 sign. Where OSM
+still uses a code the country has since renumbered, `pipelines/osm/aliases.csv`
+says which code it is now (Slovakia's 2009 `P1` is today's `201`).
+
+[`osm.yml`](.github/workflows/osm.yml) refreshes the files every Monday after the
+Wikipedia sync. Map pipelines (skifahrer/maptiles) draw only the signs listed here.
+
 ## Licence
 
 The repository's own content (structure, names, metadata, code) is

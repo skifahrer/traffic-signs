@@ -1,0 +1,404 @@
+{
+ "country": "ua",
+ "taginfo": {
+  "data_until": "2026-10-12T00:59:39Z",
+  "url": "https://taginfo.openstreetmap.org/keys/traffic_sign"
+ },
+ "note": "counts of human-readable values are worldwide; coded ones are this country's",
+ "signs": {
+  "city_limit": {
+   "sign": "information/built-up-area",
+   "count": 300669
+  },
+  "city_limit_end": {
+   "sign": "information/end-of-built-up-area",
+   "count": 0
+  },
+  "give_way": {
+   "sign": "regulatory/give-way",
+   "count": 2974
+  },
+  "hazard": {
+   "sign": "warning/danger",
+   "count": 4922
+  },
+  "maxheight": {
+   "sign": "regulatory/maximum-height",
+   "count": 1022
+  },
+  "maxweight": {
+   "sign": "regulatory/maximum-weight",
+   "count": 1523
+  },
+  "maxwidth": {
+   "sign": "regulatory/maximum-width",
+   "count": 88
+  },
+  "overtaking": {
+   "sign": "regulatory/no-overtaking",
+   "count": 920
+  },
+  "overtaking_end": {
+   "sign": "regulatory/end-of-no-overtaking",
+   "count": 0
+  },
+  "signal_ahead": {
+   "sign": "warning/traffic-signals",
+   "count": 3
+  },
+  "stop": {
+   "sign": "regulatory/stop",
+   "count": 40292
+  },
+  "UA:2.1": {
+   "sign": "regulatory/give-way",
+   "count": 78
+  },
+  "UA:2.2": {
+   "sign": "regulatory/stop",
+   "count": 49
+  },
+  "UA:3.21": {
+   "sign": "regulatory/no-entry",
+   "count": 25
+  },
+  "UA:1.32": {
+   "sign": "warning/pedestrian-crossing-ahead",
+   "count": 21
+  },
+  "UA:1.3.1": {
+   "sign": "warning/double-bend-right",
+   "count": 17
+  },
+  "UA:5.53": {
+   "sign": "information/built-up-area",
+   "count": 16
+  },
+  "UA:3.29": {
+   "sign": "regulatory/speed-limit",
+   "count": 14
+  },
+  "UA:1.33": {
+   "sign": "warning/children",
+   "count": 13
+  },
+  "UA:2.5": {
+   "sign": "regulatory/give-way-to-oncoming-traffic",
+   "count": 13
+  },
+  "UA:2.6": {
+   "sign": "information/priority-over-oncoming-traffic",
+   "count": 13
+  },
+  "UA:1.39": {
+   "sign": "warning/danger",
+   "count": 11
+  },
+  "UA:2.3": {
+   "sign": "information/priority-road",
+   "count": 11
+  },
+  "UA:3.34": {
+   "sign": "regulatory/no-stopping",
+   "count": 11
+  },
+  "UA:1.12": {
+   "sign": "warning/dip",
+   "count": 10
+  },
+  "UA:3.25": {
+   "sign": "regulatory/no-overtaking",
+   "count": 9
+  },
+  "UA:5.54": {
+   "sign": "information/end-of-built-up-area",
+   "count": 9
+  },
+  "UA:3.1": {
+   "sign": "regulatory/no-vehicles",
+   "count": 8
+  },
+  "UA:4.11": {
+   "sign": "regulatory/road-for-movement-of-passenger-cars",
+   "count": 8
+  },
+  "UA:5.21.1": {
+   "sign": "information/end-of-additional-lane-right",
+   "count": 8
+  },
+  "UA:1.22": {
+   "sign": "warning/crossroads-with-minor-road",
+   "count": 7
+  },
+  "UA:1.23.2": {
+   "sign": "warning/side-road-left-minor",
+   "count": 7
+  },
+  "UA:1.41": {
+   "sign": "warning/accident-blackspot",
+   "count": 7
+  },
+  "UA:3.3": {
+   "sign": "regulatory/no-goods-vehicles",
+   "count": 7
+  },
+  "UA:5.30": {
+   "sign": "information/u-turn-zone",
+   "count": 7
+  },
+  "UA:1.21": {
+   "sign": "warning/intersection",
+   "count": 6
+  },
+  "UA:1.23.1": {
+   "sign": "warning/side-road-right-minor",
+   "count": 6
+  },
+  "UA:6.7.1": {
+   "sign": "information/services-filling-station",
+   "count": 6
+  },
+  "UA:7.8": {
+   "sign": "additional-panel/priority-road-course",
+   "count": 6
+  },
+  "UA:1.10": {
+   "sign": "warning/uneven-road",
+   "count": 5
+  },
+  "UA:3.2": {
+   "sign": "regulatory/no-motor-vehicles",
+   "count": 5
+  },
+  "UA:4.10": {
+   "sign": "regulatory/roundabout",
+   "count": 5
+  },
+  "UA:5.20.1": {
+   "sign": "information/additional-lane-on-the-right-begins",
+   "count": 5
+  },
+  "UA:4.17": {
+   "sign": "regulatory/shared-footpath-cycle-path",
+   "count": 4
+  },
+  "UA:5.16": {
+   "sign": "information/mandatory-direction-of-lanes",
+   "count": 4
+  },
+  "UA:5.17.1": {
+   "sign": "information/narrowing-of-a-lane",
+   "count": 4
+  },
+  "UA:5.33": {
+   "sign": "information/recommended-speed",
+   "count": 4
+  },
+  "UA:5.70": {
+   "sign": "information/new-road-signs-ahead-2014-2021",
+   "count": 4
+  },
+  "UA:7.21.3": {
+   "sign": "additional-panel/other-danger-collision-with-pedestrian-likely",
+   "count": 4
+  },
+  "UA:1.1": {
+   "sign": "warning/bend-right",
+   "count": 3
+  },
+  "UA:1.20": {
+   "sign": "warning/trams",
+   "count": 3
+  },
+  "UA:1.7": {
+   "sign": "warning/steep-descent",
+   "count": 3
+  },
+  "UA:3.33": {
+   "sign": "regulatory/no-horns",
+   "count": 3
+  },
+  "UA:3.8": {
+   "sign": "regulatory/no-bicycles",
+   "count": 3
+  },
+  "UA:5.21.2": {
+   "sign": "information/end-of-additional-lane-left",
+   "count": 3
+  },
+  "UA:6.8": {
+   "sign": "information/services-telephone",
+   "count": 3
+  },
+  "UA:7.21.1": {
+   "sign": "additional-panel/other-danger-frontal-collision-area",
+   "count": 3
+  },
+  "UA:1.13": {
+   "sign": "warning/slippery-road",
+   "count": 2
+  },
+  "UA:1.5.1": {
+   "sign": "warning/road-narrows-both-sides",
+   "count": 2
+  },
+  "UA:3.15": {
+   "sign": "regulatory/maximum-weight",
+   "count": 2
+  },
+  "UA:3.26": {
+   "sign": "regulatory/end-of-no-overtaking",
+   "count": 2
+  },
+  "UA:5.41.1": {
+   "sign": "information/stairway-up",
+   "count": 2
+  },
+  "UA:5.5": {
+   "sign": "information/one-way-road",
+   "count": 2
+  },
+  "UA:6.11": {
+   "sign": "information/services-toilets",
+   "count": 2
+  },
+  "UA:6.13": {
+   "sign": "information/services-restaurant",
+   "count": 2
+  },
+  "UA:6.15": {
+   "sign": "information/rest-area",
+   "count": 2
+  },
+  "UA:6.2": {
+   "sign": "information/services-hospital",
+   "count": 2
+  },
+  "UA:1.2": {
+   "sign": "warning/bend-left",
+   "count": 1
+  },
+  "UA:1.23.3": {
+   "sign": "warning/staggered-crossroads-with-first-on-right",
+   "count": 1
+  },
+  "UA:1.23.4": {
+   "sign": "warning/staggered-crossroads-with-first-on-left",
+   "count": 1
+  },
+  "UA:1.3.2": {
+   "sign": "warning/double-bend-left",
+   "count": 1
+  },
+  "UA:1.36": {
+   "sign": "warning/wild-animals",
+   "count": 1
+  },
+  "UA:1.37": {
+   "sign": "warning/roadworks",
+   "count": 1
+  },
+  "UA:1.4.2": {
+   "sign": "traffic-device/chevron-board-1-arrow-left",
+   "count": 1
+  },
+  "UA:2.4": {
+   "sign": "information/end-of-priority-road",
+   "count": 1
+  },
+  "UA:3.12": {
+   "sign": "regulatory/no-vehicles-carrying-dangerous-goods",
+   "count": 1
+  },
+  "UA:3.22": {
+   "sign": "regulatory/no-right-turn",
+   "count": 1
+  },
+  "UA:3.35": {
+   "sign": "regulatory/no-parking",
+   "count": 1
+  },
+  "UA:4.12": {
+   "sign": "regulatory/minimum-speed",
+   "count": 1
+  },
+  "UA:4.2": {
+   "sign": "regulatory/turn-right-here",
+   "count": 1
+  },
+  "UA:5.1": {
+   "sign": "information/motorway",
+   "count": 1
+  },
+  "UA:5.17.2": {
+   "sign": "information/narrowing-of-a-lane-5-17-2",
+   "count": 1
+  },
+  "UA:5.36": {
+   "sign": "information/pedestrian-zone",
+   "count": 1
+  },
+  "UA:5.44": {
+   "sign": "regulatory/end-of-parking-zone",
+   "count": 1
+  },
+  "UA:5.51": {
+   "sign": "information/village-begins",
+   "count": 1
+  },
+  "UA:5.7.1": {
+   "sign": "information/rightward-one-way-street",
+   "count": 1
+  },
+  "UA:6.10": {
+   "sign": "information/police",
+   "count": 1
+  },
+  "UA:7.12": {
+   "sign": "additional-panel/above-sign-applied-during-winter-conditions",
+   "count": 1
+  },
+  "UA:7.2.4": {
+   "sign": "additional-panel/above-sign-indicating-where-no-stopping-and-parking-in-both",
+   "count": 1
+  },
+  "UA:7.29.1": {
+   "sign": "additional-panel/direction-of-movement-of-cyclists",
+   "count": 1
+  }
+ },
+ "figures": {},
+ "implied": {
+  "stop": "regulatory/stop",
+  "give_way": "regulatory/give-way",
+  "traffic_signals": "warning/traffic-signals",
+  "speed_camera": "information/speed-camera"
+ },
+ "unmatched": {
+  "UA:5.35.1": 15,
+  "UA:5.45": 11,
+  "UA:5.31": 9,
+  "UA:5.46": 9,
+  "UA:5.29.1": 4,
+  "UA:5.52.1": 3,
+  "UA:5.59": 3,
+  "UA:2": 2,
+  "UA:5.20.3": 2,
+  "UA:5.58.2": 2,
+  "UA:1": 1,
+  "UA:1.6[+10]": 1,
+  "UA:1.7[-10]": 1,
+  "UA:3.29[10]": 1,
+  "UA:4": 1,
+  "UA:5.32": 1,
+  "UA:5.35.2": 1,
+  "UA:5.53[Бермінводи]": 1,
+  "UA:5.54[Прохорівка]": 1
+ },
+ "human_without_image": [
+  "stop_ahead",
+  "street_name",
+  "variable_message",
+  "yield_ahead"
+ ]
+}

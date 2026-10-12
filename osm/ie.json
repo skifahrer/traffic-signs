@@ -1,0 +1,131 @@
+{
+ "country": "ie",
+ "taginfo": {
+  "data_until": "2026-10-12T00:59:39Z",
+  "url": "https://taginfo.openstreetmap.org/keys/traffic_sign"
+ },
+ "note": "counts of human-readable values are worldwide; coded ones are this country's",
+ "signs": {
+  "give_way": {
+   "sign": "regulatory/give-way",
+   "count": 2974
+  },
+  "hazard": {
+   "sign": "warning/danger",
+   "count": 4922
+  },
+  "maxheight": {
+   "sign": "regulatory/maximum-height",
+   "count": 1022
+  },
+  "maxweight": {
+   "sign": "regulatory/maximum-weight",
+   "count": 1523
+  },
+  "maxwidth": {
+   "sign": "regulatory/maximum-width",
+   "count": 88
+  },
+  "overtaking": {
+   "sign": "regulatory/no-overtaking",
+   "count": 920
+  },
+  "signal_ahead": {
+   "sign": "warning/traffic-signals",
+   "count": 3
+  },
+  "stop": {
+   "sign": "regulatory/stop",
+   "count": 40292
+  },
+  "stop_ahead": {
+   "sign": "warning/stop-ahead",
+   "count": 6
+  },
+  "yield_ahead": {
+   "sign": "warning/give-way-ahead",
+   "count": 2
+  },
+  "IE:RUS058": {
+   "sign": "regulatory/shared-footpath-cycle-path",
+   "count": 16
+  },
+  "IE:F402": {
+   "sign": "information/speed-camera",
+   "count": 3
+  },
+  "IE:W130": {
+   "sign": "warning/speed-bump",
+   "count": 3
+  },
+  "IE:RUS 013": {
+   "sign": "regulatory/no-left-turn",
+   "count": 2
+  },
+  "IE:RUS009": {
+   "sign": "regulatory/cycle-path",
+   "count": 2
+  },
+  "IE:F 903": {
+   "sign": "regulatory/turn-back",
+   "count": 1
+  },
+  "IE:F333": {
+   "sign": "information/end-of-motorway",
+   "count": 1
+  },
+  "IE:P010": {
+   "sign": "additional-panel/end",
+   "count": 1
+  },
+  "IE:RUS019": {
+   "sign": "regulatory/no-parking",
+   "count": 1
+  },
+  "IE:W 141": {
+   "sign": "warning/school-ahead",
+   "count": 1
+  },
+  "IE:W002L": {
+   "sign": "warning/side-road-left-minor",
+   "count": 1
+  },
+  "IE:W016": {
+   "sign": "warning/t-junction",
+   "count": 1
+  },
+  "IE:W044": {
+   "sign": "warning/mini-roundabout-ahead",
+   "count": 1
+  }
+ },
+ "figures": {
+  "maxspeed": {
+   "100": "regulatory/speed-limit-100",
+   "120": "regulatory/speed-limit-120",
+   "20": "regulatory/speed-limit-20",
+   "30": "regulatory/speed-limit-30",
+   "40": "regulatory/speed-limit-40",
+   "50": "regulatory/speed-limit-50",
+   "60": "regulatory/speed-limit-60",
+   "80": "regulatory/speed-limit-80"
+  }
+ },
+ "implied": {
+  "stop": "regulatory/stop",
+  "give_way": "regulatory/give-way",
+  "traffic_signals": "warning/traffic-signals",
+  "speed_camera": "information/speed-camera"
+ },
+ "unmatched": {
+  "IE:W-053-L": 1,
+  "IE:W-053-R": 1
+ },
+ "human_without_image": [
+  "city_limit",
+  "city_limit_end",
+  "overtaking_end",
+  "street_name",
+  "variable_message"
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "country": "cz",
+ "taginfo": {
+  "data_until": "2026-10-12T00:59:39Z",
+  "url": "https://taginfo.openstreetmap.org/keys/traffic_sign"
+ },
+ "note": "counts of human-readable values are worldwide; coded ones are this country's",
+ "signs": {
+  "city_limit": {
+   "sign": "information/built-up-area",
+   "count": 300669
+  },
+  "city_limit_end": {
+   "sign": "information/end-of-built-up-area",
+   "count": 0
+  },
+  "give_way": {
+   "sign": "regulatory/give-way",
+   "count": 2974
+  },
+  "hazard": {
+   "sign": "warning/danger",
+   "count": 4922
+  },
+  "maxheight": {
+   "sign": "regulatory/maximum-height",
+   "count": 1022
+  },
+  "maxweight": {
+   "sign": "regulatory/maximum-weight",
+   "count": 1523
+  },
+  "maxwidth": {
+   "sign": "regulatory/maximum-width",
+   "count": 88
+  },
+  "overtaking": {
+   "sign": "regulatory/no-overtaking",
+   "count": 920
+  },
+  "overtaking_end": {
+   "sign": "regulatory/end-of-no-overtaking",
+   "count": 0
+  },
+  "signal_ahead": {
+   "sign": "warning/traffic-signals",
+   "count": 3
+  },
+  "stop": {
+   "sign": "regulatory/stop",
+   "count": 40292
+  },
+  "CZ:B1": {
+   "sign": "regulatory/no-vehicles",
+   "count": 67
+  },
+  "CZ:B11": {
+   "sign": "regulatory/no-motor-vehicles",
+   "count": 57
+  },
+  "CZ:IZ1a": {
+   "sign": "information/motorway",
+   "count": 40
+  },
+  "CZ:IZ1b": {
+   "sign": "information/end-of-motorway",
+   "count": 37
+  },
+  "CZ:B20a": {
+   "sign": "regulatory/speed-limit",
+   "count": 36
+  },
+  "CZ:B26": {
+   "sign": "regulatory/end-of-all-restrictions",
+   "count": 27
+  },
+  "CZ:IZ2a": {
+   "sign": "information/motor-road",
+   "count": 26
+  },
+  "CZ:P4": {
+   "sign": "regulatory/give-way",
+   "count": 26
+  },
+  "CZ:IP9": {
+   "sign": "information/emergency-lay-by",
+   "count": 25
+  },
+  "CZ:B13": {
+   "sign": "regulatory/maximum-weight",
+   "count": 24
+  },
+  "CZ:P1": {
+   "sign": "information/priority-intersection",
+   "count": 21
+  },
+  "CZ:IZ2b": {
+   "sign": "information/end-of-motor-road",
+   "count": 19
+  },
+  "CZ:IS18a": {
+   "sign": "information/kilometre-marker",
+   "count": 14
+  },
+  "CZ:P2": {
+   "sign": "information/priority-road",
+   "count": 14
+  },
+  "CZ:IP6": {
+   "sign": "information/pedestrian-crossing",
+   "count": 13
+  },
+  "CZ:B8": {
+   "sign": "regulatory/no-bicycles",
+   "count": 11
+  },
+  "CZ:C4a": {
+   "sign": "regulatory/pass-on-right",
+   "count": 11
+  },
+  "CZ:E13": {
+   "sign": "additional-panel/text-or-symbol",
+   "count": 11
+  },
+  "CZ:B21a": {
+   "sign": "regulatory/no-overtaking",
+   "count": 10
+  },
+  "CZ:IP18b": {
+   "sign": "information/lane-reduction",
+   "count": 10
+  },
+  "CZ:IS9b": {
+   "sign": "information/advance-sign-roundabout",
+   "count": 10
+  },
+  "CZ:P6": {
+   "sign": "regulatory/stop",
+   "count": 10
+  },
+  "CZ:B20b": {
+   "sign": "regulatory/end-of-speed-limit",
+   "count": 8
+  },
+  "CZ:B4": {
+   "sign": "regulatory/no-goods-vehicles",
+   "count": 7
+  },
+  "CZ:Z3": {
+   "sign": "traffic-device/guide-board",
+   "count": 7
+  },
+  "CZ:A11": {
+   "sign": "warning/pedestrian-crossing-ahead",
+   "count": 6
+  },
+  "CZ:A14": {
+   "sign": "warning/wild-animals",
+   "count": 6
+  },
+  "CZ:IJ4a": {
+   "sign": "information/stop-marker-a",
+   "count": 6
+  },
+  "CZ:IP19": {
+   "sign": "information/lane-selection",
+   "count": 6
+  },
+  "CZ:B16": {
+   "sign": "regulatory/maximum-height",
+   "count": 5
+  },
+  "CZ:P7": {
+   "sign": "regulatory/give-way-to-oncoming-traffic",
+   "count": 5
+  },
+  "CZ:A10": {
+   "sign": "warning/traffic-signals",
+   "count": 4
+  },
+  "CZ:A2a": {
+   "sign": "warning/double-bend-right",
+   "count": 4
+  },
+  "CZ:A2b": {
+   "sign": "warning/double-bend-left",
+   "count": 4
+  },
+  "CZ:A4": {
+   "sign": "warning/roundabout-ahead",
+   "count": 4
+  },
+  "CZ:A6a": {
+   "sign": "warning/road-narrows-both-sides",
+   "count": 4
+  },
+  "CZ:B24a": {
+   "sign": "regulatory/no-right-turn",
+   "count": 4
+  },
+  "CZ:B30": {
+   "sign": "regulatory/no-pedestrians",
+   "count": 4
+  },
+  "CZ:C 8a": {
+   "sign": "regulatory/cycle-path",
+   "count": 4
+  },
+  "CZ:E5": {
+   "sign": "additional-panel/maximum-permitted-weight",
+   "count": 4
+  },
+  "CZ:IS3c": {
+   "sign": "information/direction-sign-right",
+   "count": 4
+  },
+  "CZ:IS7a": {
+   "sign": "information/turn-direction-sign",
+   "count": 4
+  },
+  "CZ:A12a": {
+   "sign": "warning/pedestrians",
+   "count": 3
+  },
+  "CZ:A1a": {
+   "sign": "warning/bend-right",
+   "count": 3
+  },
+  "CZ:A1b": {
+   "sign": "warning/bend-left",
+   "count": 3
+  },
+  "CZ:B 11": {
+   "sign": "regulatory/no-motor-vehicles",
+   "count": 3
+  },
+  "CZ:B14": {
+   "sign": "regulatory/maximum-axle-weight",
+   "count": 3
+  },
+  "CZ:B21b": {
+   "sign": "regulatory/end-of-no-overtaking",
+   "count": 3
+  },
+  "CZ:B24b": {
+   "sign": "regulatory/no-left-turn",
+   "count": 3
+  },
+  "CZ:B32": {
+   "sign": "regulatory/other-prohibition",
+   "count": 3
+  },
+  "CZ:B6": {
+   "sign": "regulatory/no-tractors",
+   "count": 3
+  },
+  "CZ:C 9a": {
+   "sign": "regulatory/shared-footpath-cycle-path",
+   "count": 3
+  },
+  "CZ:C4c": {
+   "sign": "regulatory/pass-on-either-side",
+   "count": 3
+  },
+  "CZ:C8a": {
+   "sign": "regulatory/cycle-path",
+   "count": 3
+  },
+  "CZ:IP10a": {
+   "sign": "information/dead-end",
+   "count": 3
+  },
+  "CZ:IS12a": {
+   "sign": "information/alternative-route-straight",
+   "count": 3
+  },
+  "CZ:IS14": {
+   "sign": "information/administrative-border",
+   "count": 3
+  },
+  "CZ:A12b": {
+   "sign": "warning/children",
+   "count": 2
+  },
+  "CZ:A22": {
+   "sign": "warning/danger",
+   "count": 2
+  },
+  "CZ:A30": {
+   "sign": "warning/level-crossing-without-barriers",
+   "count": 2
+  },
+  "CZ:A31a": {
+   "sign": "warning/level-crossing-countdown-marker-3-bars",
+   "count": 2
+  },
+  "CZ:A31b": {
+   "sign": "warning/level-crossing-countdown-marker-2-bars",
+   "count": 2
+  },
+  "CZ:A31c": {
+   "sign": "warning/level-crossing-countdown-marker-1-bar",
+   "count": 2
+  },
+  "CZ:B 1": {
+   "sign": "regulatory/no-vehicles",
+   "count": 2
+  },
+  "CZ:B 32": {
+   "sign": "regulatory/other-prohibition",
+   "count": 2
+  },
+  "CZ:B2": {
+   "sign": "regulatory/no-entry",
+   "count": 2
+  },
+  "CZ:B28": {
+   "sign": "regulatory/no-stopping",
+   "count": 2
+  },
+  "CZ:B31": {
+   "sign": "regulatory/no-riders",
+   "count": 2
+  },
+  "CZ:B7": {
+   "sign": "regulatory/no-motorcycles",
+   "count": 2
+  },
+  "CZ:C7a": {
+   "sign": "regulatory/footpath",
+   "count": 2
+  },
+  "CZ:C9a": {
+   "sign": "regulatory/shared-footpath-cycle-path",
+   "count": 2
+  },
+  "CZ:E2b": {
+   "sign": "additional-panel/junction-layout-b",
+   "count": 2
+  },
+  "CZ:IJ4b": {
+   "sign": "information/stop-marker-b",
+   "count": 2
+  },
+  "CZ:IP 10a": {
+   "sign": "information/dead-end",
+   "count": 2
+  },
+  "CZ:IP4b": {
+   "sign": "information/one-way-traffic-horizontal",
+   "count": 2
+  },
+  "CZ:IS10c": {
+   "sign": "information/route-change-sign-obstacle",
+   "count": 2
+  },
+  "CZ:IS12b": {
+   "sign": "information/alternative-route-left-here",
+   "count": 2
+  },
+  "CZ:IS4c": {
+   "sign": "information/local-direction-sign-right",
+   "count": 2
+  },
+  "CZ:P8": {
+   "sign": "information/priority-over-oncoming-traffic",
+   "count": 2
+  },
+  "CZ:A29": {
+   "sign": "warning/level-crossing-with-barriers",
+   "count": 1
+  },
+  "CZ:A9": {
+   "sign": "warning/two-way-traffic",
+   "count": 1
+  },
+  "CZ:B 2": {
+   "sign": "regulatory/no-entry",
+   "count": 1
+  },
+  "CZ:B10": {
+   "sign": "regulatory/no-handcarts",
+   "count": 1
+  },
+  "CZ:B15": {
+   "sign": "regulatory/maximum-width",
+   "count": 1
+  },
+  "CZ:B17": {
+   "sign": "regulatory/maximum-length",
+   "count": 1
+  },
+  "CZ:B19": {
+   "sign": "regulatory/no-vehicles-carrying-water-pollutants",
+   "count": 1
+  },
+  "CZ:B5": {
+   "sign": "regulatory/no-buses",
+   "count": 1
+  },
+  "CZ:C2b": {
+   "sign": "regulatory/mandatory-direction-right",
+   "count": 1
+  },
+  "CZ:C2c": {
+   "sign": "regulatory/mandatory-direction-left",
+   "count": 1
+  },
+  "CZ:E 13": {
+   "sign": "additional-panel/text-or-symbol",
+   "count": 1
+  },
+  "CZ:E3a": {
+   "sign": "additional-panel/distance",
+   "count": 1
+  },
+  "CZ:IJ15": {
+   "sign": "information/services-motorhome-waste-disposal",
+   "count": 1
+  },
+  "CZ:IP 4b": {
+   "sign": "information/one-way-traffic-horizontal",
+   "count": 1
+  },
+  "CZ:IP11b": {
+   "sign": "regulatory/parking-perpendicular-or-angled",
+   "count": 1
+  },
+  "CZ:IP11c": {
+   "sign": "regulatory/parking-parallel",
+   "count": 1
+  },
+  "CZ:IP17": {
+   "sign": "information/lane-arrangement-through-lane",
+   "count": 1
+  },
+  "CZ:IP20a": {
+   "sign": "regulatory/public-transport-lane",
+   "count": 1
+  },
+  "CZ:IP30": {
+   "sign": "information/state-border",
+   "count": 1
+  },
+  "CZ:IS 23": {
+   "sign": "information/tourist-destination-advance-sign",
+   "count": 1
+  },
+  "CZ:IS16b": {
+   "sign": "information/road-number-class-1-1-digit",
+   "count": 1
+  },
+  "CZ:IS1a": {
+   "sign": "information/direction-sign-to-motorway-straight",
+   "count": 1
+  },
+  "CZ:IS1b": {
+   "sign": "information/direction-sign-to-motorway-left",
+   "count": 1
+  },
+  "CZ:IS24b": {
+   "sign": "information/tourist-destination-direction-sign",
+   "count": 1
+  },
+  "CZ:IS3b": {
+   "sign": "information/direction-sign-left",
+   "count": 1
+  },
+  "CZ:IS8b": {
+   "sign": "information/distance-sign",
+   "count": 1
+  },
+  "CZ:P3": {
+   "sign": "information/end-of-priority-road",
+   "count": 1
+  }
+ },
+ "figures": {},
+ "implied": {
+  "stop": "regulatory/stop",
+  "give_way": "regulatory/give-way",
+  "traffic_signals": "warning/traffic-signals"
+ },
+ "unmatched": {
+  "CZ:[mimo vozidel s dokladem správy Krnap]": 15,
+  "CZ:P02": 11,
+  "CZ:A12": 9,
+  "CZ:IP30[Česká republika]": 8,
+  "CZ:IP06": 5,
+  "CZ:B01": 4,
+  "CZ:B20a-70": 4,
+  "CZ:IS20": 4,
+  "CZ:B13[7]": 3,
+  "CZ:IJ07": 3,
+  "CZ:IP25a": 3,
+  "CZ:IP_6a": 3,
+  "CZ:IP_6b": 3,
+  "CZ:B-1": 2,
+  "CZ:B13[3.5]": 2,
+  "CZ:B13[31]": 2,
+  "CZ:E1[2]": 2,
+  "CZ:IP15a": 2,
+  "CZ:10b": 1,
+  "CZ:A 12": 1,
+  "CZ:A5a[12%]": 1,
+  "CZ:B-11": 1,
+  "CZ:B-20a:80": 1,
+  "CZ:B-4": 1,
+  "CZ:B.2": 1,
+  "CZ:B11+E13": 1,
+  "CZ:B13[27t]": 1,
+  "CZ:B20a[70]": 1,
+  "CZ:E-[mimo dopravní obsluhy]": 1,
+  "CZ:IJ-14b": 1,
+  "CZ:IJ09": 1,
+  "CZ:P-4": 1,
+  "CZ:V5": 1
+ },
+ "human_without_image": [
+  "stop_ahead",
+  "street_name",
+  "variable_message",
+  "yield_ahead"
+ ]
+}

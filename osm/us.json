@@ -1,0 +1,2910 @@
+{
+ "country": "us",
+ "taginfo": {
+  "data_until": "2026-10-12T00:59:39Z",
+  "url": "https://taginfo.openstreetmap.org/keys/traffic_sign"
+ },
+ "note": "counts of human-readable values are worldwide; coded ones are this country's",
+ "signs": {
+  "give_way": {
+   "sign": "regulatory/give-way",
+   "count": 2974
+  },
+  "maxweight": {
+   "sign": "regulatory/maximum-weight",
+   "count": 1523
+  },
+  "overtaking": {
+   "sign": "regulatory/no-overtaking",
+   "count": 920
+  },
+  "signal_ahead": {
+   "sign": "warning/traffic-signals",
+   "count": 3
+  },
+  "stop": {
+   "sign": "regulatory/stop",
+   "count": 40292
+  },
+  "stop_ahead": {
+   "sign": "warning/stop-ahead",
+   "count": 6
+  },
+  "yield_ahead": {
+   "sign": "warning/give-way-ahead",
+   "count": 2
+  },
+  "US:R1-1": {
+   "sign": "regulatory/stop",
+   "count": 15197
+  },
+  "US:R1-3P": {
+   "sign": "additional-panel/all-way",
+   "count": 1364
+  },
+  "US:W10-1": {
+   "sign": "warning/level-crossing",
+   "count": 929
+  },
+  "US:R5-1": {
+   "sign": "regulatory/no-entry",
+   "count": 798
+  },
+  "US:D3-1": {
+   "sign": "information/street-name",
+   "count": 731
+  },
+  "US:S1-1": {
+   "sign": "warning/children",
+   "count": 724
+  },
+  "US:R1-2": {
+   "sign": "regulatory/give-way",
+   "count": 662
+  },
+  "US:W10-9P": {
+   "sign": "additional-panel/no-train-horn-plaque",
+   "count": 658
+  },
+  "US:W11-2": {
+   "sign": "warning/pedestrians",
+   "count": 561
+  },
+  "US:W12-2": {
+   "sign": "warning/low-bridge-ahead",
+   "count": 495
+  },
+  "US:R4-7": {
+   "sign": "regulatory/pass-on-right",
+   "count": 482
+  },
+  "US:W16-7PL": {
+   "sign": "additional-panel/downward-diagonal-arrow-to-the-left",
+   "count": 462
+  },
+  "US:W3-1": {
+   "sign": "warning/stop-ahead",
+   "count": 452
+  },
+  "US:W13-1P": {
+   "sign": "additional-panel/advisory-speed",
+   "count": 355
+  },
+  "US:W12-2a": {
+   "sign": "warning/low-clearance-overhead",
+   "count": 326
+  },
+  "US:W14-1": {
+   "sign": "information/dead-end",
+   "count": 319
+  },
+  "US:W10-5": {
+   "sign": "warning/low-ground-clearance-railroad-crossing",
+   "count": 316
+  },
+  "US:R6-2R": {
+   "sign": "regulatory/one-way-with-arrow-right",
+   "count": 311
+  },
+  "US:W3-3": {
+   "sign": "warning/traffic-signals",
+   "count": 309
+  },
+  "US:R6-2L": {
+   "sign": "regulatory/one-way-with-arrow-left",
+   "count": 291
+  },
+  "US:R2-1": {
+   "sign": "regulatory/speed-limit",
+   "count": 289
+  },
+  "US:R5-1a": {
+   "sign": "information/wrong-way",
+   "count": 256
+  },
+  "US:W14-2": {
+   "sign": "warning/no-outlet",
+   "count": 241
+  },
+  "US:W10-5P": {
+   "sign": "additional-panel/low-ground-clearance-plaque",
+   "count": 239
+  },
+  "US:W14-3": {
+   "sign": "warning/no-passing-zone",
+   "count": 224
+  },
+  "US:W4-4P": {
+   "sign": "additional-panel/cross-traffic-does-not-stop",
+   "count": 211
+  },
+  "US:R6-1R": {
+   "sign": "information/one-way-road-right",
+   "count": 205
+  },
+  "US:W2-1": {
+   "sign": "warning/intersection",
+   "count": 205
+  },
+  "US:W1-7": {
+   "sign": "warning/two-direction-large-arrow",
+   "count": 196
+  },
+  "US:R6-1L": {
+   "sign": "information/one-way-road-left",
+   "count": 179
+  },
+  "US:R3-2": {
+   "sign": "regulatory/no-left-turn",
+   "count": 178
+  },
+  "US:D11-1": {
+   "sign": "information/bike-route",
+   "count": 175
+  },
+  "US:W1-2L": {
+   "sign": "warning/bend-left",
+   "count": 152
+  },
+  "US:W11-3": {
+   "sign": "warning/wild-animals",
+   "count": 149
+  },
+  "US:W16-9P": {
+   "sign": "additional-panel/ahead-plaque",
+   "count": 149
+  },
+  "US:W1-2R": {
+   "sign": "warning/bend-right",
+   "count": 142
+  },
+  "US:R5-2": {
+   "sign": "regulatory/no-goods-vehicles",
+   "count": 137
+  },
+  "US:W1-1R": {
+   "sign": "warning/sharp-bend-right",
+   "count": 128
+  },
+  "US:W3-5": {
+   "sign": "warning/speed-limit-ahead",
+   "count": 127
+  },
+  "US:W13-2": {
+   "sign": "warning/exit-advisory-speed",
+   "count": 126
+  },
+  "US:W1-1L": {
+   "sign": "warning/sharp-bend-left",
+   "count": 121
+  },
+  "US:W1-8R": {
+   "sign": "traffic-device/chevron-board-1-arrow-right",
+   "count": 117
+  },
+  "US:W1-8L": {
+   "sign": "traffic-device/chevron-board-1-arrow-left",
+   "count": 113
+  },
+  "US:R7-1": {
+   "sign": "regulatory/no-parking",
+   "count": 112
+  },
+  "US:R3-1": {
+   "sign": "regulatory/no-right-turn",
+   "count": 109
+  },
+  "US:W11-1": {
+   "sign": "warning/cyclists",
+   "count": 108
+  },
+  "US:W2-2R": {
+   "sign": "warning/side-road-right",
+   "count": 106
+  },
+  "US:W2-2L": {
+   "sign": "warning/side-road-left",
+   "count": 99
+  },
+  "US:R3-17": {
+   "sign": "regulatory/bike-lane-r3-17",
+   "count": 98
+  },
+  "US:R3-4": {
+   "sign": "regulatory/no-u-turn",
+   "count": 98
+  },
+  "US:M1-5": {
+   "sign": "information/state-route-marker",
+   "count": 96
+  },
+  "US:R5-3": {
+   "sign": "regulatory/no-motor-vehicles-or-mopeds",
+   "count": 96
+  },
+  "US:R3-7R": {
+   "sign": "regulatory/right-lane-must-turn-right",
+   "count": 92
+  },
+  "US:R3-5R": {
+   "sign": "regulatory/turn-right",
+   "count": 91
+  },
+  "US:OM1-3": {
+   "sign": "traffic-device/object-marker-om1-3",
+   "count": 89
+  },
+  "US:OM4-3": {
+   "sign": "traffic-device/end-of-road-marker-om4-3",
+   "count": 89
+  },
+  "US:R8-8": {
+   "sign": "regulatory/do-not-stop-on-tracks",
+   "count": 88
+  },
+  "US:W8-13": {
+   "sign": "warning/bridge-ices-before-road",
+   "count": 84
+  },
+  "US:R4-1": {
+   "sign": "regulatory/no-overtaking",
+   "count": 79
+  },
+  "US:R7-2": {
+   "sign": "regulatory/no-parking-times",
+   "count": 79
+  },
+  "US:R3-5L": {
+   "sign": "regulatory/turn-left",
+   "count": 77
+  },
+  "US:R8-3": {
+   "sign": "regulatory/no-parking-r8-3",
+   "count": 77
+  },
+  "US:R15-1": {
+   "sign": "warning/level-crossing-cross-single-track",
+   "count": 75
+  },
+  "US:S4-3P": {
+   "sign": "additional-panel/school",
+   "count": 75
+  },
+  "US:R4-2": {
+   "sign": "regulatory/pass-with-care",
+   "count": 73
+  },
+  "US:I2-1": {
+   "sign": "information/state-line",
+   "count": 71
+  },
+  "US:W4-1R": {
+   "sign": "warning/merge-right",
+   "count": 69
+  },
+  "US:W11-8": {
+   "sign": "warning/emergency-vehicle",
+   "count": 60
+  },
+  "US:W1-6L": {
+   "sign": "warning/arrow-left",
+   "count": 59
+  },
+  "US:D1-1": {
+   "sign": "information/destination-1-line",
+   "count": 58
+  },
+  "US:E5-1": {
+   "sign": "information/exit-gore-no-exit-number",
+   "count": 57
+  },
+  "US:W6-3": {
+   "sign": "warning/two-way-traffic",
+   "count": 57
+  },
+  "US:W11-15": {
+   "sign": "warning/pedestrians-and-cyclists",
+   "count": 56
+  },
+  "US:W17-1": {
+   "sign": "warning/speed-bump-hump",
+   "count": 55
+  },
+  "US:D3-2": {
+   "sign": "information/advance-street-name-2-lines",
+   "count": 54
+  },
+  "US:OM3-L": {
+   "sign": "traffic-device/left-object-marker",
+   "count": 53
+  },
+  "US:S5-2": {
+   "sign": "regulatory/end-school-zone",
+   "count": 52
+  },
+  "US:W1-6R": {
+   "sign": "warning/arrow-right",
+   "count": 52
+  },
+  "US:W12-1": {
+   "sign": "warning/double-arrow",
+   "count": 52
+  },
+  "US:W4-2R": {
+   "sign": "warning/road-narrows-right",
+   "count": 51
+  },
+  "US:W16-7PR": {
+   "sign": "additional-panel/downward-diagonal-arrow-to-the-right",
+   "count": 50
+  },
+  "US:R6-3": {
+   "sign": "regulatory/divided-highway-crossing",
+   "count": 49
+  },
+  "US:R10-11b": {
+   "sign": "regulatory/no-turn-on-red-r10-11b",
+   "count": 48
+  },
+  "US:R3-9b": {
+   "sign": "regulatory/two-way-left-turn-only-post-mounted",
+   "count": 48
+  },
+  "US:OM1-1": {
+   "sign": "traffic-device/object-marker",
+   "count": 46
+  },
+  "US:OM3-R": {
+   "sign": "traffic-device/right-object-marker",
+   "count": 43
+  },
+  "US:R15-8": {
+   "sign": "regulatory/look-both-ways-at-track",
+   "count": 43
+  },
+  "US:D1-2": {
+   "sign": "information/destination-2-lines",
+   "count": 41
+  },
+  "US:S4-5": {
+   "sign": "regulatory/school-speed-limit-ahead",
+   "count": 41
+  },
+  "US:W6-1": {
+   "sign": "warning/divided-highway-begins",
+   "count": 41
+  },
+  "US:W10-2L": {
+   "sign": "warning/crossroads-with-parallel-tracks-left",
+   "count": 40
+  },
+  "US:W15-1": {
+   "sign": "warning/playground",
+   "count": 40
+  },
+  "US:W16-1P": {
+   "sign": "additional-panel/in-road",
+   "count": 37
+  },
+  "US:E5-1a": {
+   "sign": "information/exit-gore-1-or-2-digits",
+   "count": 36
+  },
+  "US:R1-5bL": {
+   "sign": "regulatory/stop-here-for-pedestrians-left",
+   "count": 36
+  },
+  "US:R10-6": {
+   "sign": "regulatory/stop-here-on-red",
+   "count": 36
+  },
+  "US:R12-1": {
+   "sign": "regulatory/maximum-weight",
+   "count": 36
+  },
+  "US:W11-10": {
+   "sign": "warning/truck",
+   "count": 36
+  },
+  "US:W2-6": {
+   "sign": "warning/roundabout-ahead",
+   "count": 36
+  },
+  "US:R3-5a": {
+   "sign": "regulatory/mandatory-direction-straight",
+   "count": 35
+  },
+  "US:W10-11a": {
+   "sign": "warning/xx-feet-between-tracks-and-highway",
+   "count": 35
+  },
+  "US:W10-2R": {
+   "sign": "warning/crossroads-with-parallel-tracks-right",
+   "count": 35
+  },
+  "US:W10-3R": {
+   "sign": "warning/side-road-with-parallel-tracks-right",
+   "count": 35
+  },
+  "US:S4-1P": {
+   "sign": "additional-panel/times-of-day",
+   "count": 33
+  },
+  "US:W1-3R": {
+   "sign": "warning/double-sharp-bend-right",
+   "count": 33
+  },
+  "US:W1-4L": {
+   "sign": "warning/double-bend-left",
+   "count": 33
+  },
+  "US:M6-1PR": {
+   "sign": "additional-panel/right-directional-arrow",
+   "count": 32
+  },
+  "US:S4-2P": {
+   "sign": "additional-panel/when-children-are-present",
+   "count": 32
+  },
+  "US:R10-11": {
+   "sign": "regulatory/no-turn-on-circular-red",
+   "count": 31
+  },
+  "US:R10-12": {
+   "sign": "regulatory/left-turn-yield-on-green",
+   "count": 31
+  },
+  "US:R8-3a": {
+   "sign": "regulatory/no-parking-text",
+   "count": 31
+  },
+  "US:W10-3L": {
+   "sign": "warning/side-road-with-parallel-tracks-left",
+   "count": 31
+  },
+  "US:R14-1": {
+   "sign": "regulatory/truck-route",
+   "count": 30
+  },
+  "US:R7-8": {
+   "sign": "regulatory/disabled-parking-place",
+   "count": 30
+  },
+  "US:W1-2l": {
+   "sign": "warning/bend-left",
+   "count": 30
+  },
+  "US:W5-2": {
+   "sign": "warning/narrow-bridge",
+   "count": 30
+  },
+  "US:W8-5": {
+   "sign": "warning/slippery-road",
+   "count": 30
+  },
+  "US:E1-1": {
+   "sign": "information/interchange-advance-guide-1-destination",
+   "count": 29
+  },
+  "US:OM4-1": {
+   "sign": "traffic-device/end-of-road-marker",
+   "count": 29
+  },
+  "US:W10-11b": {
+   "sign": "warning/xx-feet-between-highway-and-tracks-behind-you",
+   "count": 29
+  },
+  "US:W8-18": {
+   "sign": "warning/road-may-flood",
+   "count": 29
+  },
+  "US:D1-2a": {
+   "sign": "information/destination-and-distance-2-line",
+   "count": 28
+  },
+  "US:D9-2": {
+   "sign": "information/services-hospital",
+   "count": 27
+  },
+  "US:W1-3L": {
+   "sign": "warning/double-sharp-bend-left",
+   "count": 27
+  },
+  "US:W1-4R": {
+   "sign": "warning/double-bend-right",
+   "count": 27
+  },
+  "US:W1-2r": {
+   "sign": "warning/bend-right",
+   "count": 26
+  },
+  "US:W2-4": {
+   "sign": "warning/t-junction",
+   "count": 26
+  },
+  "US:S5-1": {
+   "sign": "regulatory/school-speed-limit-when-flashing",
+   "count": 25
+  },
+  "US:D1-1a": {
+   "sign": "information/destination-and-distance-1-line",
+   "count": 24
+  },
+  "US:D2-3": {
+   "sign": "information/distance-3-lines",
+   "count": 24
+  },
+  "US:E1-2": {
+   "sign": "information/interchange-advance-guide-2-destinations",
+   "count": 24
+  },
+  "US:M6-1PL": {
+   "sign": "additional-panel/left-directional-arrow",
+   "count": 24
+  },
+  "US:R10-6a": {
+   "sign": "regulatory/stop-here-on-red-alternative-left",
+   "count": 23
+  },
+  "US:R4-7a": {
+   "sign": "regulatory/keep-right",
+   "count": 23
+  },
+  "US:W1-5R": {
+   "sign": "warning/winding-road-right",
+   "count": 22
+  },
+  "US:R11-2": {
+   "sign": "regulatory/road-closed",
+   "count": 21
+  },
+  "US:W4-3R": {
+   "sign": "warning/added-lane-right",
+   "count": 21
+  },
+  "US:R10-11a": {
+   "sign": "regulatory/no-turn-on-red",
+   "count": 20
+  },
+  "US:R3-7L": {
+   "sign": "regulatory/left-lane-must-turn-left",
+   "count": 20
+  },
+  "US:R10-7": {
+   "sign": "regulatory/do-not-block-intersection",
+   "count": 19
+  },
+  "US:R3-6R": {
+   "sign": "regulatory/optional-movement-lane-control-straight-through-and-right",
+   "count": 19
+  },
+  "US:W4-2L": {
+   "sign": "warning/road-narrows-left",
+   "count": 19
+  },
+  "US:W9-1L": {
+   "sign": "warning/left-lane-ends",
+   "count": 19
+  },
+  "US:OM4-2": {
+   "sign": "traffic-device/end-of-road-marker-om4-2",
+   "count": 18
+  },
+  "US:R6-1r": {
+   "sign": "information/one-way-road-right",
+   "count": 18
+  },
+  "US:W10-11": {
+   "sign": "warning/storage-space-symbol",
+   "count": 18
+  },
+  "US:W10-15P": {
+   "sign": "additional-panel/rough-crossing",
+   "count": 18
+  },
+  "US:W8-2": {
+   "sign": "warning/dip",
+   "count": 18
+  },
+  "US:D10-5": {
+   "sign": "information/intermediate-enhanced-reference-location",
+   "count": 17
+  },
+  "US:W2-2l": {
+   "sign": "warning/side-road-left",
+   "count": 17
+  },
+  "US:E1-5cP": {
+   "sign": "additional-panel/3-digit-exit-number-with-single-letter-suffix",
+   "count": 16
+  },
+  "US:M6-3P": {
+   "sign": "additional-panel/straight-directional-arrow",
+   "count": 16
+  },
+  "US:R6-6": {
+   "sign": "regulatory/begin-one-way",
+   "count": 16
+  },
+  "US:R9-3": {
+   "sign": "regulatory/no-pedestrians-crossing-symbol",
+   "count": 16
+  },
+  "US:D2-2": {
+   "sign": "information/distance-2-lines",
+   "count": 15
+  },
+  "US:R5-2b": {
+   "sign": "regulatory/no-thru-trucks",
+   "count": 15
+  },
+  "US:W12-2b": {
+   "sign": "warning/low-clearance-overhead-w12-2b",
+   "count": 15
+  },
+  "US:W2-2r": {
+   "sign": "warning/side-road-right",
+   "count": 15
+  },
+  "US:W10-9": {
+   "sign": "warning/no-train-horn-warning",
+   "count": 14
+  },
+  "US:W16-5PL": {
+   "sign": "additional-panel/supplemental-arrow-to-the-left",
+   "count": 14
+  },
+  "US:D1-3": {
+   "sign": "information/destination-3-lines",
+   "count": 13
+  },
+  "US:E4-2": {
+   "sign": "information/exit-direction-2-destinations",
+   "count": 13
+  },
+  "US:R12-5": {
+   "sign": "regulatory/weight-limit-with-truck-symbols",
+   "count": 13
+  },
+  "US:R5-11": {
+   "sign": "regulatory/no-unauthorized-vehicles",
+   "count": 13
+  },
+  "US:R6-1l": {
+   "sign": "information/one-way-road-left",
+   "count": 13
+  },
+  "US:R7-9a": {
+   "sign": "regulatory/no-parking-bike-lane-r7-9a",
+   "count": 13
+  },
+  "US:W1-4l": {
+   "sign": "warning/double-bend-left",
+   "count": 13
+  },
+  "US:W10-8": {
+   "sign": "warning/trains-may-exceed-speed",
+   "count": 13
+  },
+  "US:E1-5P": {
+   "sign": "additional-panel/1-or-2-digit-exit-number",
+   "count": 12
+  },
+  "US:M1-8": {
+   "sign": "information/state-or-local-bicycle-route",
+   "count": 12
+  },
+  "US:R1-5L": {
+   "sign": "regulatory/yield-here-to-pedestrians-left",
+   "count": 12
+  },
+  "US:W1-1l": {
+   "sign": "warning/sharp-bend-left",
+   "count": 12
+  },
+  "US:W1-5L": {
+   "sign": "warning/winding-road-left",
+   "count": 12
+  },
+  "US:W8-3": {
+   "sign": "warning/pavement-ends",
+   "count": 12
+  },
+  "US:E4-1": {
+   "sign": "information/exit-direction-1-destination",
+   "count": 11
+  },
+  "US:R3-18": {
+   "sign": "regulatory/no-u-or-left-turn",
+   "count": 11
+  },
+  "US:R3-1a": {
+   "sign": "regulatory/no-right-turn-for-train-activated-blank-out",
+   "count": 11
+  },
+  "US:R7-8aP": {
+   "sign": "additional-panel/van-accessible",
+   "count": 11
+  },
+  "US:W10-4R": {
+   "sign": "warning/t-intersection-with-parallel-tracks-right",
+   "count": 11
+  },
+  "US:W11-11": {
+   "sign": "warning/golf-cart",
+   "count": 11
+  },
+  "US:W16-5PR": {
+   "sign": "additional-panel/supplemental-arrow-to-the-right",
+   "count": 11
+  },
+  "US:W7-1": {
+   "sign": "warning/steep-descent",
+   "count": 11
+  },
+  "US:W8-1": {
+   "sign": "warning/speed-bump",
+   "count": 11
+  },
+  "US:G20-5aP": {
+   "sign": "additional-panel/work-zone",
+   "count": 10
+  },
+  "US:R10-23": {
+   "sign": "regulatory/crosswalk-stop-on-red",
+   "count": 10
+  },
+  "US:R3-6L": {
+   "sign": "regulatory/optional-movement-lane-control-straight-through-and-left",
+   "count": 10
+  },
+  "US:R5-12": {
+   "sign": "regulatory/no-thru-traffic",
+   "count": 10
+  },
+  "US:W1-1r": {
+   "sign": "warning/sharp-bend-right",
+   "count": 10
+  },
+  "US:W1-8r": {
+   "sign": "traffic-device/chevron-board-1-arrow-right",
+   "count": 10
+  },
+  "US:W13-3": {
+   "sign": "warning/ramp-speed-advisory",
+   "count": 10
+  },
+  "US:W5-1": {
+   "sign": "warning/road-narrows-both-sides",
+   "count": 10
+  },
+  "US:W6-2": {
+   "sign": "warning/divided-highway-ends",
+   "count": 10
+  },
+  "US:W8-14": {
+   "sign": "warning/fallen-rocks",
+   "count": 10
+  },
+  "US:W9-1": {
+   "sign": "warning/right-lane-ends",
+   "count": 10
+  },
+  "US:E1-5aP": {
+   "sign": "additional-panel/3-digit-exit-number",
+   "count": 9
+  },
+  "US:E11-1c": {
+   "sign": "information/exit-only-e11-1c",
+   "count": 9
+  },
+  "US:M1-9": {
+   "sign": "information/us-bicycle-route",
+   "count": 9
+  },
+  "US:R1-10P": {
+   "sign": "additional-panel/except-right-turn",
+   "count": 9
+  },
+  "US:R15-2P": {
+   "sign": "additional-panel/number-of-tracks",
+   "count": 9
+  },
+  "US:R3-17bP": {
+   "sign": "additional-panel/ends",
+   "count": 9
+  },
+  "US:S4-4P": {
+   "sign": "additional-panel/when-flashing",
+   "count": 9
+  },
+  "US:W10-7": {
+   "sign": "warning/light-rail-transit-approaching-sign-activated-blank-out",
+   "count": 9
+  },
+  "US:W16-2aP": {
+   "sign": "additional-panel/distance-feet-plaque",
+   "count": 9
+  },
+  "US:W16-8P": {
+   "sign": "additional-panel/advance-street-name-plaque",
+   "count": 9
+  },
+  "US:W3-2": {
+   "sign": "warning/give-way-ahead",
+   "count": 9
+  },
+  "US:W5-3": {
+   "sign": "warning/one-lane-bridge",
+   "count": 9
+  },
+  "US:D1-3a": {
+   "sign": "information/destination-and-distance-3-lines",
+   "count": 8
+  },
+  "US:M5-1PL": {
+   "sign": "additional-panel/advance-left-turn-arrow-90-degree-angle",
+   "count": 8
+  },
+  "US:R3-20L": {
+   "sign": "regulatory/begin-left-turn-lane",
+   "count": 8
+  },
+  "US:R3-3": {
+   "sign": "regulatory/no-turns",
+   "count": 8
+  },
+  "US:R5-10a": {
+   "sign": "regulatory/no-pedestrians-bicycles-or-motor-driven-cycles-on-freeway",
+   "count": 8
+  },
+  "US:W11-15A": {
+   "sign": "warning/trail-crossing",
+   "count": 8
+  },
+  "US:W16-7pL": {
+   "sign": "additional-panel/downward-diagonal-arrow-to-the-left",
+   "count": 8
+  },
+  "US:D1-1e": {
+   "sign": "information/destination-with-route-shield-circular-intersection-1-line",
+   "count": 7
+  },
+  "US:I2-2": {
+   "sign": "information/river",
+   "count": 7
+  },
+  "US:R1-6": {
+   "sign": "regulatory/in-street-pedestrian-crossing-r1-6",
+   "count": 7
+  },
+  "US:R10-10L": {
+   "sign": "regulatory/left-turn-signal",
+   "count": 7
+  },
+  "US:R3-8b": {
+   "sign": "regulatory/advance-intersection-lane-control-three-lanes",
+   "count": 7
+  },
+  "US:R3-9a": {
+   "sign": "regulatory/two-way-left-turn-only-overhead",
+   "count": 7
+  },
+  "US:R4-7c": {
+   "sign": "regulatory/keep-right-of-obstacle",
+   "count": 7
+  },
+  "US:S4-6P": {
+   "sign": "additional-panel/days-of-week",
+   "count": 7
+  },
+  "US:W10-12R": {
+   "sign": "warning/skewed-crossing-ahead-left-this-supplements-the-w10-1-sign",
+   "count": 7
+  },
+  "US:W10-1aP": {
+   "sign": "additional-panel/exempt",
+   "count": 7
+  },
+  "US:W10-4L": {
+   "sign": "warning/t-intersection-with-parallel-tracks-left",
+   "count": 7
+  },
+  "US:W16-4P": {
+   "sign": "additional-panel/next-distance-feet",
+   "count": 7
+  },
+  "US:W8-7": {
+   "sign": "warning/loose-gravel",
+   "count": 7
+  },
+  "US:I2-3": {
+   "sign": "information/grade-separation-identification-1-line",
+   "count": 6
+  },
+  "US:R7-108": {
+   "sign": "regulatory/two-hour-parking-times",
+   "count": 6
+  },
+  "US:R8-4": {
+   "sign": "regulatory/emergency-parking-only",
+   "count": 6
+  },
+  "US:W1-10L": {
+   "sign": "warning/curve-with-side-road-left",
+   "count": 6
+  },
+  "US:W1-10R": {
+   "sign": "warning/curve-with-side-road-right",
+   "count": 6
+  },
+  "US:W1-11L": {
+   "sign": "warning/hairpin-curve-left",
+   "count": 6
+  },
+  "US:W1-4r": {
+   "sign": "warning/double-bend-right",
+   "count": 6
+  },
+  "US:W11-14": {
+   "sign": "warning/horse-drawn-vehicles",
+   "count": 6
+  },
+  "US:W11-15P": {
+   "sign": "additional-panel/trail-x-ing",
+   "count": 6
+  },
+  "US:W11-21": {
+   "sign": "warning/moose",
+   "count": 6
+  },
+  "US:W11-4": {
+   "sign": "warning/farm-animals",
+   "count": 6
+  },
+  "US:W11-5": {
+   "sign": "warning/farm-vehicles",
+   "count": 6
+  },
+  "US:W13-20": {
+   "sign": "warning/variable-speed-feedback",
+   "count": 6
+  },
+  "US:W13-7": {
+   "sign": "warning/ramp-speed-advisory-270-degree-loop-curve",
+   "count": 6
+  },
+  "US:W16-3P": {
+   "sign": "additional-panel/distance-miles",
+   "count": 6
+  },
+  "US:W2-7L": {
+   "sign": "warning/offset-side-roads-left-and-right",
+   "count": 6
+  },
+  "US:W4-3l": {
+   "sign": "warning/added-lane-left",
+   "count": 6
+  },
+  "US:D13-3": {
+   "sign": "information/freeway-entrance",
+   "count": 5
+  },
+  "US:E1-3": {
+   "sign": "information/interchange-advance-guide-3-destinations",
+   "count": 5
+  },
+  "US:E11-1": {
+   "sign": "information/exit-only-with-arrow",
+   "count": 5
+  },
+  "US:E6-1a": {
+   "sign": "information/pull-through-destination",
+   "count": 5
+  },
+  "US:M1-8a": {
+   "sign": "information/state-or-local-bicycle-route-m1-8a",
+   "count": 5
+  },
+  "US:M4-14P": {
+   "sign": "additional-panel/begin-plaque",
+   "count": 5
+  },
+  "US:M5-1PR": {
+   "sign": "additional-panel/advance-right-turn-arrow-90-degree-angle",
+   "count": 5
+  },
+  "US:OM3-C": {
+   "sign": "traffic-device/chevron-object-marker",
+   "count": 5
+  },
+  "US:R3-8R": {
+   "sign": "regulatory/advance-intersection-lane-control-two-lanes-right",
+   "count": 5
+  },
+  "US:R4-3": {
+   "sign": "regulatory/slower-traffic-keep-right",
+   "count": 5
+  },
+  "US:R4-4": {
+   "sign": "regulatory/begin-right-turn-lane-yield-to-bikes",
+   "count": 5
+  },
+  "US:R6-7": {
+   "sign": "regulatory/end-one-way",
+   "count": 5
+  },
+  "US:R7-4": {
+   "sign": "regulatory/no-standing-any-time",
+   "count": 5
+  },
+  "US:W1-11R": {
+   "sign": "warning/hairpin-curve-right",
+   "count": 5
+  },
+  "US:W16-13P": {
+   "sign": "additional-panel/when-flashing-plaque",
+   "count": 5
+  },
+  "US:W16-2P": {
+   "sign": "additional-panel/distance-feet",
+   "count": 5
+  },
+  "US:W16-3aP": {
+   "sign": "additional-panel/distance-miles-plaque",
+   "count": 5
+  },
+  "US:W23-2": {
+   "sign": "warning/new-traffic-pattern-ahead",
+   "count": 5
+  },
+  "US:W8-19": {
+   "sign": "warning/depth-gauge",
+   "count": 5
+  },
+  "US:W8-9": {
+   "sign": "warning/low-shoulder",
+   "count": 5
+  },
+  "US:CW21-1": {
+   "sign": "warning/workers-symbol-sign",
+   "count": 4
+  },
+  "US:E1-5bP": {
+   "sign": "additional-panel/1-or-2-digit-exit-number-with-single-letter-suffix",
+   "count": 4
+  },
+  "US:I2-4a": {
+   "sign": "information/future-i-xx-corridor",
+   "count": 4
+  },
+  "US:M6-2aPL": {
+   "sign": "additional-panel/downward-diagonal-left-directional-arrow",
+   "count": 4
+  },
+  "US:M6-4P": {
+   "sign": "additional-panel/double-directional-arrow",
+   "count": 4
+  },
+  "US:R1-5R": {
+   "sign": "regulatory/yield-here-to-pedestrians-right",
+   "count": 4
+  },
+  "US:R13-1": {
+   "sign": "regulatory/trucks-over-10-tons-must-enter-weigh-station-next-right",
+   "count": 4
+  },
+  "US:R2-4": {
+   "sign": "additional-panel/minimum-speed-limit",
+   "count": 4
+  },
+  "US:R3-11a": {
+   "sign": "regulatory/2-right-lanes-hov-2-plus-only-times-and-days-post-mounted",
+   "count": 4
+  },
+  "US:R3-20R": {
+   "sign": "regulatory/begin-right-turn-lane",
+   "count": 4
+  },
+  "US:R3-8L": {
+   "sign": "regulatory/advance-intersection-lane-control-two-lanes-left",
+   "count": 4
+  },
+  "US:R3-9cP": {
+   "sign": "additional-panel/begin",
+   "count": 4
+  },
+  "US:R7-113": {
+   "sign": "regulatory/no-parking-except-while-charging",
+   "count": 4
+  },
+  "US:R8-1": {
+   "sign": "regulatory/no-parking-on-pavement",
+   "count": 4
+  },
+  "US:W1-13R": {
+   "sign": "warning/truck-rollover-warning-right",
+   "count": 4
+  },
+  "US:W1-3l": {
+   "sign": "warning/double-sharp-bend-left",
+   "count": 4
+  },
+  "US:W1-6l": {
+   "sign": "warning/arrow-left",
+   "count": 4
+  },
+  "US:W10-14P": {
+   "sign": "additional-panel/next-crossing",
+   "count": 4
+  },
+  "US:W16-6PR": {
+   "sign": "additional-panel/supplemental-arrow-to-the-right-plaque",
+   "count": 4
+  },
+  "US:W19-3": {
+   "sign": "warning/freeway-ends",
+   "count": 4
+  },
+  "US:W2-7R": {
+   "sign": "warning/offset-side-roads-right-and-left",
+   "count": 4
+  },
+  "US:W4-2r": {
+   "sign": "warning/road-narrows-right",
+   "count": 4
+  },
+  "US:W9-2L": {
+   "sign": "warning/lane-ends-merge-left",
+   "count": 4
+  },
+  "US:D1-1c": {
+   "sign": "information/bicycle-destination-and-distance-1-line",
+   "count": 3
+  },
+  "US:D1-5": {
+   "sign": "information/circular-intersection-destination-diagrammatic",
+   "count": 3
+  },
+  "US:D10-1": {
+   "sign": "information/reference-location-1-digit",
+   "count": 3
+  },
+  "US:D11-1c": {
+   "sign": "information/bike-route-with-destination",
+   "count": 3
+  },
+  "US:D12-4": {
+   "sign": "information/emergency-call-911",
+   "count": 3
+  },
+  "US:D2-3a": {
+   "sign": "information/bicycle-distance-3-lines",
+   "count": 3
+  },
+  "US:D8-1": {
+   "sign": "information/weigh-station-distance",
+   "count": 3
+  },
+  "US:D9-13": {
+   "sign": "information/emergency-medical-services",
+   "count": 3
+  },
+  "US:E4-3": {
+   "sign": "information/exit-direction-3-destinations",
+   "count": 3
+  },
+  "US:E5-1c": {
+   "sign": "information/narrow-exit-gore",
+   "count": 3
+  },
+  "US:E6-1": {
+   "sign": "information/pull-through",
+   "count": 3
+  },
+  "US:G20-2": {
+   "sign": "information/road-work-ends",
+   "count": 3
+  },
+  "US:R12-2": {
+   "sign": "regulatory/maximum-axle-weight",
+   "count": 3
+  },
+  "US:R12-4": {
+   "sign": "regulatory/weight-limit-with-per-axle-and-gross",
+   "count": 3
+  },
+  "US:R14-5": {
+   "sign": "regulatory/national-network-prohibited",
+   "count": 3
+  },
+  "US:R2-10": {
+   "sign": "regulatory/begin-higher-double-fines-zone",
+   "count": 3
+  },
+  "US:R2-5P": {
+   "sign": "additional-panel/unless-otherwise-posted",
+   "count": 3
+  },
+  "US:R3-17aP": {
+   "sign": "additional-panel/ahead",
+   "count": 3
+  },
+  "US:R3-2a": {
+   "sign": "regulatory/no-left-turn-for-train-activated-blank-out",
+   "count": 3
+  },
+  "US:R4-16": {
+   "sign": "regulatory/keep-right-except-to-pass",
+   "count": 3
+  },
+  "US:R5-1A": {
+   "sign": "information/wrong-way",
+   "count": 3
+  },
+  "US:R7-201P": {
+   "sign": "additional-panel/tow-away-zone",
+   "count": 3
+  },
+  "US:R9-7": {
+   "sign": "regulatory/bicycles-left-pedestrians-right",
+   "count": 3
+  },
+  "US:W1-13L": {
+   "sign": "warning/truck-rollover-warning-left",
+   "count": 3
+  },
+  "US:W1-5l": {
+   "sign": "warning/winding-road-left",
+   "count": 3
+  },
+  "US:W10-12L": {
+   "sign": "warning/skewed-crossing-ahead-right-this-supplements-the-w10-1-sign",
+   "count": 3
+  },
+  "US:W11-7": {
+   "sign": "warning/horse-riders",
+   "count": 3
+  },
+  "US:W16-12P": {
+   "sign": "additional-panel/traffic-circle-plaque",
+   "count": 3
+  },
+  "US:W16-12aP": {
+   "sign": "additional-panel/roundabout-junction-plaque",
+   "count": 3
+  },
+  "US:W16-6PL": {
+   "sign": "additional-panel/supplemental-arrow-to-the-left-plaque",
+   "count": 3
+  },
+  "US:W16-9p": {
+   "sign": "additional-panel/ahead-plaque",
+   "count": 3
+  },
+  "US:W25-1": {
+   "sign": "warning/oncoming-traffic-has-extended-green",
+   "count": 3
+  },
+  "US:W3-4": {
+   "sign": "warning/be-prepared-to-stop",
+   "count": 3
+  },
+  "US:W4-6R": {
+   "sign": "warning/added-right-lane-entering-roadway",
+   "count": 3
+  },
+  "US:W7-3aP": {
+   "sign": "additional-panel/next-distance-miles-ahead",
+   "count": 3
+  },
+  "US:W8-6": {
+   "sign": "warning/truck-crossing",
+   "count": 3
+  },
+  "US:D1-1b": {
+   "sign": "information/bicycle-destination-1-line",
+   "count": 2
+  },
+  "US:D10-3": {
+   "sign": "information/reference-location-3-digit",
+   "count": 2
+  },
+  "US:D12-2": {
+   "sign": "information/carpool-information",
+   "count": 2
+  },
+  "US:D13-3a": {
+   "sign": "information/freeway-entrance-d13-3a",
+   "count": 2
+  },
+  "US:D2-1": {
+   "sign": "information/distance-1-line",
+   "count": 2
+  },
+  "US:D4-1": {
+   "sign": "regulatory/parking",
+   "count": 2
+  },
+  "US:D8-3": {
+   "sign": "information/weigh-station-diagonal-right-arrow",
+   "count": 2
+  },
+  "US:D9-10": {
+   "sign": "information/services-information-point",
+   "count": 2
+  },
+  "US:D9-11b": {
+   "sign": "information/services-ev-charging-station",
+   "count": 2
+  },
+  "US:D9-18c": {
+   "sign": "information/general-services-with-action-message",
+   "count": 2
+  },
+  "US:E7-3": {
+   "sign": "information/post-interchange-distance-3-lines",
+   "count": 2
+  },
+  "US:M2-2": {
+   "sign": "information/combination-junction-2-route-signs",
+   "count": 2
+  },
+  "US:R10-11B": {
+   "sign": "regulatory/no-turn-on-red-r10-11b",
+   "count": 2
+  },
+  "US:R10-12a": {
+   "sign": "regulatory/left-turn-yield-on-flashing-yellow-arrow",
+   "count": 2
+  },
+  "US:R11-4": {
+   "sign": "regulatory/road-closed-to-thru-traffic",
+   "count": 2
+  },
+  "US:R12-7aP": {
+   "sign": "additional-panel/emergency-vehicle-weight-limit-plaque",
+   "count": 2
+  },
+  "US:R14-3": {
+   "sign": "regulatory/hazardous-material-prohibited",
+   "count": 2
+  },
+  "US:R3-5l": {
+   "sign": "regulatory/turn-left",
+   "count": 2
+  },
+  "US:R3-7aP": {
+   "sign": "additional-panel/except-buses",
+   "count": 2
+  },
+  "US:R3-7r": {
+   "sign": "regulatory/right-lane-must-turn-right",
+   "count": 2
+  },
+  "US:R3-9dP": {
+   "sign": "additional-panel/end",
+   "count": 2
+  },
+  "US:R4-18": {
+   "sign": "regulatory/do-not-pass-on-shoulder",
+   "count": 2
+  },
+  "US:R4-5": {
+   "sign": "regulatory/trucks-use-right-lane",
+   "count": 2
+  },
+  "US:R4-8a": {
+   "sign": "regulatory/keep-left",
+   "count": 2
+  },
+  "US:R5-2aP": {
+   "sign": "additional-panel/except-local-delivery",
+   "count": 2
+  },
+  "US:R5-6": {
+   "sign": "regulatory/no-bicycles",
+   "count": 2
+  },
+  "US:R7-107a": {
+   "sign": "regulatory/no-parking-bus-stop-r7-107a",
+   "count": 2
+  },
+  "US:R7-201aP": {
+   "sign": "additional-panel/tow-away-zone-plaque",
+   "count": 2
+  },
+  "US:R8-10a": {
+   "sign": "regulatory/stop-here-when-flashing-alternative",
+   "count": 2
+  },
+  "US:R9-2": {
+   "sign": "regulatory/cross-only-at-cross-walks",
+   "count": 2
+  },
+  "US:R9-8": {
+   "sign": "regulatory/pedestrian-crosswalk",
+   "count": 2
+  },
+  "US:R9-9": {
+   "sign": "regulatory/sidewalk-closed",
+   "count": 2
+  },
+  "US:S5-3": {
+   "sign": "regulatory/end-school-speed-limit",
+   "count": 2
+  },
+  "US:W1-3r": {
+   "sign": "warning/double-sharp-bend-right",
+   "count": 2
+  },
+  "US:W1-5r": {
+   "sign": "warning/winding-road-right",
+   "count": 2
+  },
+  "US:W1-6r": {
+   "sign": "warning/arrow-right",
+   "count": 2
+  },
+  "US:W1-8l": {
+   "sign": "traffic-device/chevron-board-1-arrow-left",
+   "count": 2
+  },
+  "US:W10-21aP": {
+   "sign": "additional-panel/signal-ahead",
+   "count": 2
+  },
+  "US:W10-9p": {
+   "sign": "additional-panel/no-train-horn-plaque",
+   "count": 2
+  },
+  "US:W11-6": {
+   "sign": "warning/snowmobile",
+   "count": 2
+  },
+  "US:W11-9": {
+   "sign": "warning/handicapped",
+   "count": 2
+  },
+  "US:W13-6": {
+   "sign": "warning/exit-speed-advisory-270-degree-loop-curve",
+   "count": 2
+  },
+  "US:W2-10": {
+   "sign": "warning/traffic-entering-when-flashing",
+   "count": 2
+  },
+  "US:W2-3aL": {
+   "sign": "warning/side-road-at-an-obtuse-angle-left",
+   "count": 2
+  },
+  "US:W25-2": {
+   "sign": "warning/oncoming-traffic-may-have-extended-green",
+   "count": 2
+  },
+  "US:W4-1L": {
+   "sign": "warning/merge-left",
+   "count": 2
+  },
+  "US:W4-1l": {
+   "sign": "warning/merge-left",
+   "count": 2
+  },
+  "US:W4-3r": {
+   "sign": "warning/added-lane-right",
+   "count": 2
+  },
+  "US:W4-4aP": {
+   "sign": "additional-panel/traffic-from-left-does-not-stop",
+   "count": 2
+  },
+  "US:W7-1a": {
+   "sign": "warning/hill",
+   "count": 2
+  },
+  "US:W7-3P": {
+   "sign": "additional-panel/percent-grade-ahead",
+   "count": 2
+  },
+  "US:W7-6": {
+   "sign": "warning/hill-blocks-view",
+   "count": 2
+  },
+  "US:W8-10": {
+   "sign": "warning/bicycle-slippery-when-wet-ahead",
+   "count": 2
+  },
+  "US:W8-26": {
+   "sign": "warning/road-ends-distance",
+   "count": 2
+  },
+  "US:W8-8": {
+   "sign": "warning/uneven-road",
+   "count": 2
+  },
+  "US:d3-1": {
+   "sign": "information/street-name",
+   "count": 2
+  },
+  "US: R5-1": {
+   "sign": "regulatory/no-entry",
+   "count": 1
+  },
+  "US:D1-1d": {
+   "sign": "information/destination-circular-intersection-1-line",
+   "count": 1
+  },
+  "US:D1-2d": {
+   "sign": "information/destination-circular-intersection-2-lines",
+   "count": 1
+  },
+  "US:D1-5a": {
+   "sign": "information/circular-intersection-destination-diagrammatic-d1-5a",
+   "count": 1
+  },
+  "US:D10-2": {
+   "sign": "information/reference-location-2-digit",
+   "count": 1
+  },
+  "US:D12-1a": {
+   "sign": "information/services-traffic-radio",
+   "count": 1
+  },
+  "US:D12-5": {
+   "sign": "information/travel-info-call-511-pictograph",
+   "count": 1
+  },
+  "US:D17-4": {
+   "sign": "information/passing-lane-distance",
+   "count": 1
+  },
+  "US:D8-2": {
+   "sign": "information/weigh-station-next-right",
+   "count": 1
+  },
+  "US:D9-13aP": {
+   "sign": "additional-panel/hospital",
+   "count": 1
+  },
+  "US:D9-6": {
+   "sign": "information/handicapped-accessible",
+   "count": 1
+  },
+  "US:D9-7": {
+   "sign": "information/services-filling-station",
+   "count": 1
+  },
+  "US:D9-8": {
+   "sign": "information/services-restaurant",
+   "count": 1
+  },
+  "US:D9-9": {
+   "sign": "information/services-hotel-or-motel",
+   "count": 1
+  },
+  "US:I3-6": {
+   "sign": "information/bus-station",
+   "count": 1
+  },
+  "US:I4-1": {
+   "sign": "information/library",
+   "count": 1
+  },
+  "US:M1-10": {
+   "sign": "information/eisenhower-interstate-system",
+   "count": 1
+  },
+  "US:M4-11": {
+   "sign": "information/emergency-route",
+   "count": 1
+  },
+  "US:M4-9L": {
+   "sign": "information/detour-arrow-left",
+   "count": 1
+  },
+  "US:M6-2PL": {
+   "sign": "additional-panel/diagonal-left-directional-arrow",
+   "count": 1
+  },
+  "US:M6-2PR": {
+   "sign": "additional-panel/diagonal-right-directional-arrow",
+   "count": 1
+  },
+  "US:M6-6PR": {
+   "sign": "additional-panel/straight-and-right-directional-arrow",
+   "count": 1
+  },
+  "US:OM2-2V": {
+   "sign": "traffic-device/vertical-culvert-marker-om2-2v",
+   "count": 1
+  },
+  "US:R1-6a": {
+   "sign": "regulatory/in-street-pedestrian-crossing-r1-6a",
+   "count": 1
+  },
+  "US:R10-1": {
+   "sign": "regulatory/cross-only-on-green",
+   "count": 1
+  },
+  "US:R10-11c": {
+   "sign": "regulatory/no-turn-on-red-except-from-right-lane",
+   "count": 1
+  },
+  "US:R10-14b": {
+   "sign": "regulatory/stop-here-on-flashing-red",
+   "count": 1
+  },
+  "US:R10-15L": {
+   "sign": "regulatory/turning-vehicles-yield-to-pedestrians-left",
+   "count": 1
+  },
+  "US:R10-17a": {
+   "sign": "regulatory/right-on-red-arrow-after-stop",
+   "count": 1
+  },
+  "US:R10-18": {
+   "sign": "regulatory/traffic-laws-photo-enforced",
+   "count": 1
+  },
+  "US:R10-19aP": {
+   "sign": "additional-panel/photo-enforced",
+   "count": 1
+  },
+  "US:R10-28": {
+   "sign": "regulatory/one-vehicle-per-green",
+   "count": 1
+  },
+  "US:R10-5": {
+   "sign": "regulatory/left-on-green-arrow-only",
+   "count": 1
+  },
+  "US:R11-1": {
+   "sign": "regulatory/keep-off-median",
+   "count": 1
+  },
+  "US:R15-3P": {
+   "sign": "additional-panel/vehicles-required-to-stop-are-exempt-from-this-regulation",
+   "count": 1
+  },
+  "US:R15-6a": {
+   "sign": "regulatory/do-not-drive-on-tracks-r15-6a",
+   "count": 1
+  },
+  "US:R2-12": {
+   "sign": "regulatory/end-work-zone-speed-limit",
+   "count": 1
+  },
+  "US:R2-6bP": {
+   "sign": "additional-panel/speeding-fine",
+   "count": 1
+  },
+  "US:R3-27": {
+   "sign": "regulatory/no-straight-through",
+   "count": 1
+  },
+  "US:R3-33R": {
+   "sign": "regulatory/right-lane-must-exit",
+   "count": 1
+  },
+  "US:R3-51aP": {
+   "sign": "additional-panel/no-trucks",
+   "count": 1
+  },
+  "US:R3-5gP": {
+   "sign": "additional-panel/bus-lane",
+   "count": 1
+  },
+  "US:R3-5r": {
+   "sign": "regulatory/turn-right",
+   "count": 1
+  },
+  "US:R3-7l": {
+   "sign": "regulatory/left-lane-must-turn-left",
+   "count": 1
+  },
+  "US:R3-8aL": {
+   "sign": "regulatory/advance-intersection-lane-control-three-lanes-left",
+   "count": 1
+  },
+  "US:R3-9B": {
+   "sign": "regulatory/two-way-left-turn-only-post-mounted",
+   "count": 1
+  },
+  "US:R3-9f": {
+   "sign": "regulatory/reversible-lane-control-post-mounted",
+   "count": 1
+  },
+  "US:R4-17": {
+   "sign": "regulatory/do-not-drive-on-shoulder",
+   "count": 1
+  },
+  "US:R4-19": {
+   "sign": "regulatory/bicycle-passing-clearance",
+   "count": 1
+  },
+  "US:R4-20R": {
+   "sign": "regulatory/all-traffic-must-turn-right",
+   "count": 1
+  },
+  "US:R4-7b": {
+   "sign": "regulatory/keep-right-r4-7b",
+   "count": 1
+  },
+  "US:R5-10c": {
+   "sign": "regulatory/no-pedestrians",
+   "count": 1
+  },
+  "US:R5-1b": {
+   "sign": "regulatory/wrong-way-for-bicycles",
+   "count": 1
+  },
+  "US:R5-7": {
+   "sign": "regulatory/no-non-motorized-traffic",
+   "count": 1
+  },
+  "US:R7-20": {
+   "sign": "regulatory/parking-fee-station",
+   "count": 1
+  },
+  "US:R7-2a": {
+   "sign": "regulatory/no-parking-times-alternative",
+   "count": 1
+  },
+  "US:R7-4A": {
+   "sign": "regulatory/no-stopping",
+   "count": 1
+  },
+  "US:R8-9": {
+   "sign": "regulatory/tracks-out-of-service",
+   "count": 1
+  },
+  "US:R9-20": {
+   "sign": "regulatory/bicycles-allowed-use-of-full-lane",
+   "count": 1
+  },
+  "US:R9-3a": {
+   "sign": "regulatory/no-pedestrians-crossing",
+   "count": 1
+  },
+  "US:S4-5a": {
+   "sign": "warning/school-speed-zone-ahead",
+   "count": 1
+  },
+  "US:W1-10al": {
+   "sign": "warning/curve-with-crossroad-left",
+   "count": 1
+  },
+  "US:W1-10cR": {
+   "sign": "warning/curve-with-tangent-from-side-right",
+   "count": 1
+  },
+  "US:W1-10dR": {
+   "sign": "warning/reverse-curve-with-side-road-right",
+   "count": 1
+  },
+  "US:W1-10l": {
+   "sign": "warning/curve-with-side-road-left",
+   "count": 1
+  },
+  "US:W1-10r": {
+   "sign": "warning/curve-with-side-road-right",
+   "count": 1
+  },
+  "US:W1-13r": {
+   "sign": "warning/truck-rollover-warning-right",
+   "count": 1
+  },
+  "US:W1-15r": {
+   "sign": "warning/270-degree-loop-curve-right",
+   "count": 1
+  },
+  "US:W10-5p": {
+   "sign": "additional-panel/low-ground-clearance-plaque",
+   "count": 1
+  },
+  "US:W11-12p": {
+   "sign": "additional-panel/emergency-signal-ahead",
+   "count": 1
+  },
+  "US:W11-18": {
+   "sign": "warning/ram",
+   "count": 1
+  },
+  "US:W13-1aP": {
+   "sign": "additional-panel/speed-advisory-confirmation",
+   "count": 1
+  },
+  "US:W13-9": {
+   "sign": "warning/ramp-speed-advisory-hairpin-curve",
+   "count": 1
+  },
+  "US:W14-2aL": {
+   "sign": "warning/no-outlet-on-the-left",
+   "count": 1
+  },
+  "US:W14-2aR": {
+   "sign": "warning/no-outlet-on-the-right",
+   "count": 1
+  },
+  "US:W16-1aP": {
+   "sign": "additional-panel/in-street",
+   "count": 1
+  },
+  "US:W16-7aP": {
+   "sign": "additional-panel/dual-downward-diagonal-arrow",
+   "count": 1
+  },
+  "US:W18-1": {
+   "sign": "warning/no-traffic-signs",
+   "count": 1
+  },
+  "US:W19-1": {
+   "sign": "warning/freeway-ends-distance",
+   "count": 1
+  },
+  "US:W19-4": {
+   "sign": "warning/expressway-ends",
+   "count": 1
+  },
+  "US:W2-3R": {
+   "sign": "warning/side-road-at-an-acute-angle-right",
+   "count": 1
+  },
+  "US:W2-5": {
+   "sign": "warning/y-intersection",
+   "count": 1
+  },
+  "US:W4-1r": {
+   "sign": "warning/merge-right",
+   "count": 1
+  },
+  "US:W4-2l": {
+   "sign": "warning/road-narrows-left",
+   "count": 1
+  },
+  "US:W4-3L": {
+   "sign": "warning/added-lane-left",
+   "count": 1
+  },
+  "US:W4-7r": {
+   "sign": "warning/heavy-merge-from-right",
+   "count": 1
+  },
+  "US:W7-3bP": {
+   "sign": "additional-panel/percent-grade-distance-miles-ahead",
+   "count": 1
+  },
+  "US:W7-5": {
+   "sign": "warning/hill-bicycle",
+   "count": 1
+  },
+  "US:W8-10P": {
+   "sign": "additional-panel/slippery-when-wet",
+   "count": 1
+  },
+  "US:W8-22": {
+   "sign": "warning/fog",
+   "count": 1
+  },
+  "US:W8-23": {
+   "sign": "warning/no-shoulder-ahead",
+   "count": 1
+  }
+ },
+ "figures": {},
+ "implied": {
+  "stop": "regulatory/stop",
+  "give_way": "regulatory/give-way",
+  "traffic_signals": "warning/traffic-signals"
+ },
+ "unmatched": {
+  "US:CA:R57": 94,
+  "US:TX:W12-2TP": 92,
+  "US:CA:R58": 89,
+  "US:OH:R12-H17": 87,
+  "US:R1-4": 76,
+  "US:M1-4": 69,
+  "US:R1-3": 54,
+  "US:W1-8": 53,
+  "US:IL:S4-I102": 49,
+  "US:S3-1": 46,
+  "US:W16-7P": 46,
+  "US:CA:G11-6": 45,
+  "US:CA:S18": 44,
+  "US:OM-3R": 43,
+  "US:E6-2a": 40,
+  "US:R2-1[45]": 36,
+  "US:W-4R": 36,
+  "US:W1-2": 36,
+  "US:IL:XM-21": 35,
+  "US:M3-1P": 35,
+  "US:NY:SW-834": 35,
+  "US:M3-3P": 33,
+  "US:M1-1": 32,
+  "US:CA:SR4-1": 29,
+  "US:M2-1P": 28,
+  "US:M3-4": 28,
+  "US:M3-2P": 27,
+  "US:M3-1": 26,
+  "US:M3-3": 26,
+  "US:W13-1": 26,
+  "US:M3-4P": 23,
+  "US:W1-1": 23,
+  "US:W10-12": 23,
+  "US:IN:D10-Y5": 22,
+  "US:W9-1R": 22,
+  "US:M2-1": 21,
+  "US:OM-3L": 21,
+  "US:W10-2": 21,
+  "US:M3-2": 20,
+  "US:M6-1L": 20,
+  "US:R5-2a": 20,
+  "US:W4-1": 20,
+  "US:W-4L": 19,
+  "US:M4-5P": 17,
+  "US:R3-8": 17,
+  "US:M6-1R": 16,
+  "US:R2-1[25]": 16,
+  "US:R6-1": 16,
+  "US:CA:W48(CA)": 15,
+  "US:D-3": 15,
+  "US:M4-3P": 15,
+  "US:RB-16T": 15,
+  "US:W4-2": 15,
+  "US:M4-4P": 14,
+  "US:R2-1[35]": 14,
+  "US:TX:W1-8L": 14,
+  "US:W2-2": 14,
+  "US:WC-19": 14,
+  "US:M6-3": 13,
+  "US:W11-24a": 13,
+  "US:CA:G28-1": 12,
+  "US:M1-6": 12,
+  "US:N-1": 12,
+  "US:R6-4": 12,
+  "US:W9-12": 12,
+  "US:CA:G70-2": 11,
+  "US:CA:G85-11": 11,
+  "US:CA:R26": 11,
+  "US:IL:M1-I100": 11,
+  "US:OH:D6-H5": 11,
+  "US:R4-11": 11,
+  "US:stop": 11,
+  "US:AZ:M1-101": 10,
+  "US:CA:G26-2": 10,
+  "US:CA:G83-5": 10,
+  "US:M4-5": 10,
+  "US:M7-1[S]": 10,
+  "US:NM:W3-1": 10,
+  "US:OR:22-7": 10,
+  "US:R1-5b": 10,
+  "US:R10-15": 10,
+  "US:R2-1[55]": 10,
+  "US:W1-4": 10,
+  "US:school_zone": 10,
+  "US:CA:W48P(CA)": 9,
+  "US:I-3": 9,
+  "US:I-5": 9,
+  "US:M4-6P": 9,
+  "US:M7-1[E]": 9,
+  "US:OH:I-H2a": 9,
+  "US:OW11-1a": 9,
+  "US:R30E": 9,
+  "US:CA:G12-2": 8,
+  "US:CA:R81": 8,
+  "US:E13-2": 8,
+  "US:M1-5[89]": 8,
+  "US:R2-2P": 8,
+  "US:UT:DS3-4e": 8,
+  "US:W13-1P(30)": 8,
+  "US:W3-5[55]": 8,
+  "US:CA:1-X": 7,
+  "US:CA:NEV-G2": 7,
+  "US:CA:R26(S)": 7,
+  "US:CA:W31": 7,
+  "US:EM-1": 7,
+  "US:M4-2P": 7,
+  "US:OH:I-H2d": 7,
+  "US:OH:R12-H7": 7,
+  "US:R1-1a": 7,
+  "US:R2-1[40]": 7,
+  "US:W13-1P[35 mph]": 7,
+  "US:CA:G24-6": 6,
+  "US:CA:G28-2": 6,
+  "US:CA:G7-1": 6,
+  "US:CA:G95G": 6,
+  "US:CA:NEV-R1": 6,
+  "US:CA:R1-2": 6,
+  "US:CA:R38(S)": 6,
+  "US:M1-5[712]": 6,
+  "US:M6-4": 6,
+  "US:M6-6L": 6,
+  "US:M6-6R": 6,
+  "US:MN:W11-2": 6,
+  "US:NH:D1-7B1": 6,
+  "US:NM:D11-1": 6,
+  "US:NM:R3-17": 6,
+  "US:NM:W15-1": 6,
+  "US:OH:R12-H5": 6,
+  "US:R1-1(direction=10)": 6,
+  "US:R1-5": 6,
+  "US:R11-4a": 6,
+  "US:R12-3": 6,
+  "US:R2-1[30]": 6,
+  "US:W1-5": 6,
+  "US:W13-1P[10]": 6,
+  "US:W13-1P[15]": 6,
+  "US:W13-2[25]": 6,
+  "US:W3-1a": 6,
+  "US:AZ:M1-4": 5,
+  "US:CA:G24-3": 5,
+  "US:CA:G47": 5,
+  "US:CA:R30": 5,
+  "US:M6-1": 5,
+  "US:M7-1[W]": 5,
+  "US:MD:M1-5": 5,
+  "US:NV:WNV2-1": 5,
+  "US:OH:R3-H4b": 5,
+  "US:R10-9": 5,
+  "US:R2-1 [30]": 5,
+  "US:R2-1[20]": 5,
+  "US:TX:W10-4A": 5,
+  "US:W1-15": 5,
+  "US:W13-1P(25)": 5,
+  "US:W4-3": 5,
+  "US:CA:G10": 4,
+  "US:CA:G48": 4,
+  "US:CA:G85-6": 4,
+  "US:CA:N-1": 4,
+  "US:CA:R26A(S)": 4,
+  "US:CA:R6-1": 4,
+  "US:CA:SR58": 4,
+  "US:CA:SW24-3": 4,
+  "US:CA:W34A(CA)": 4,
+  "US:CA:W70": 4,
+  "US:D7-2l[Atwood Lake]": 4,
+  "US:I-2": 4,
+  "US:IL:I1-I110": 4,
+  "US:M4-2": 4,
+  "US:M7-1[NW]": 4,
+  "US:M7-1[N]": 4,
+  "US:MN:W16-7P": 4,
+  "US:NM:M1-NM-10": 4,
+  "US:OH:D2-2": 4,
+  "US:OH:D3-H3a": 4,
+  "US:OH:D3-H6b": 4,
+  "US:OH:M1-H6b": 4,
+  "US:R-3": 4,
+  "US:R10-20aP[9 AM - 9 PM]": 4,
+  "US:R2-1[\"Subdivision Speed Limit 25 All Streets\"]": 4,
+  "US:R2-1[65]": 4,
+  "US:R3-8LTR": 4,
+  "US:TX:E1-2": 4,
+  "US:TX:M1-6S": 4,
+  "US:TX:R1-2": 4,
+  "US:TX:W8-18bT": 4,
+  "US:W1-1aR": 4,
+  "US:W16-2a": 4,
+  "US:W16-6P": 4,
+  "US:W41-3": 4,
+  "US:unknown": 4,
+  "US:AR-217": 3,
+  "US:CA:C23": 3,
+  "US:CA:CPUC:8-A": 3,
+  "US:CA:G10-3": 3,
+  "US:CA:G10B": 3,
+  "US:CA:G24-1": 3,
+  "US:CA:G24-5": 3,
+  "US:CA:G34": 3,
+  "US:CA:G53": 3,
+  "US:CA:G66-56": 3,
+  "US:CA:G84-2": 3,
+  "US:CA:R26F": 3,
+  "US:CA:R32C": 3,
+  "US:CA:SG1": 3,
+  "US:CA:W79A": 3,
+  "US:D15-1": 3,
+  "US:D3-1 [Lankford Drive]": 3,
+  "US:D3-1(\"Main St\")": 3,
+  "US:D3-1(\"WESTPORT\"": 3,
+  "US:D3-1(\"Wyandotte\"": 3,
+  "US:FL:memorial_roadway_designation": 3,
+  "US:G70-2[158]": 3,
+  "US:IL:XM-4": 3,
+  "US:M1-1a": 3,
+  "US:M5-1L": 3,
+  "US:M5-1R": 3,
+  "US:MD:I-7(1)": 3,
+  "US:MO:OM4-1": 3,
+  "US:NM:R7-9a": 3,
+  "US:NM:W14-2": 3,
+  "US:OH:D10-H5a": 3,
+  "US:OH:D3-H4": 3,
+  "US:OH:I-H2": 3,
+  "US:OH:R5-H10e": 3,
+  "US:R10-10": 3,
+  "US:R10-9P": 3,
+  "US:R15-1P": 3,
+  "US:R2-1(\"25\")": 3,
+  "US:R2-1(\"35\"": 3,
+  "US:R2-1(\"65\")": 3,
+  "US:R2-1[70]": 3,
+  "US:R26 (CA)": 3,
+  "US:R3-17b": 3,
+  "US:R5-1(direction=10)": 3,
+  "US:R6-1(left": 3,
+  "US:R6-1(right": 3,
+  "US:R6-SL": 3,
+  "US:R7-11": 3,
+  "US:R8-3aD": 3,
+  "US:S3-1[2003]": 3,
+  "US:S4-4": 3,
+  "US:S5-1[15 mph]": 3,
+  "US:SW24-1": 3,
+  "US:TX:D13-1TL": 3,
+  "US:TX:E1-5P": 3,
+  "US:TX:E4-3": 3,
+  "US:TX:R1-2bTP": 3,
+  "US:TX:R12-1T": 3,
+  "US:TX:S5-2aTP": 3,
+  "US:TX:W12-4T": 3,
+  "US:TX:W8-13aT": 3,
+  "US:UT:DS3-4a": 3,
+  "US:W1-11": 3,
+  "US:W1-13": 3,
+  "US:W10-3": 3,
+  "US:W12-2TP": 3,
+  "US:W16-1": 3,
+  "US:W16-7L": 3,
+  "US:WA:D3-101": 3,
+  "US:Wxx|US:OM4-3": 3,
+  "US:10W-1": 2,
+  "US:13-1P": 2,
+  "US:?": 2,
+  "US:AZ:D1-1": 2,
+  "US:AZ:D1-2": 2,
+  "US:AZ:I-8": 2,
+  "US:AZ:I-8P": 2,
+  "US:AZ:R6-1L": 2,
+  "US:AZ:W11-2": 2,
+  "US:AZ:W11-8": 2,
+  "US:AZ:W13-1P": 2,
+  "US:AZ:W14-3": 2,
+  "US:AZ:W3-1": 2,
+  "US:CA:CPUC:9": 2,
+  "US:CA:CPUC:9-A": 2,
+  "US:CA:G1-19": 2,
+  "US:CA:G20-5": 2,
+  "US:CA:G20-9": 2,
+  "US:CA:G27-1": 2,
+  "US:CA:G27-2": 2,
+  "US:CA:G28-2(CA)": 2,
+  "US:CA:G36": 2,
+  "US:CA:G70-4": 2,
+  "US:CA:G8-7": 2,
+  "US:CA:G81-62": 2,
+  "US:CA:G83-1": 2,
+  "US:CA:G9-2": 2,
+  "US:CA:G9-5": 2,
+  "US:CA:R101": 2,
+  "US:CA:R11": 2,
+  "US:CA:R11A": 2,
+  "US:CA:R13A(CA)": 2,
+  "US:CA:R2-4": 2,
+  "US:CA:R3-3": 2,
+  "US:CA:R32": 2,
+  "US:CA:R44A": 2,
+  "US:CA:R44B": 2,
+  "US:CA:R5-1": 2,
+  "US:CA:SW24-1": 2,
+  "US:CA:SW27-1": 2,
+  "US:CA:SW48": 2,
+  "US:CA:W11-8": 2,
+  "US:CA:W4-22(CA)L": 2,
+  "US:CA:W46A(CA)": 2,
+  "US:CA:W48 (CA)": 2,
+  "US:CA:W71": 2,
+  "US:CA:W8-2": 2,
+  "US:D10-2[45]": 2,
+  "US:D10-2[46]": 2,
+  "US:D10-5[86.0]": 2,
+  "US:D14-106": 2,
+  "US:D2-2[Oberlin 27, Norton 61]": 2,
+  "US:D3-1 [Wayland Park Drive]": 2,
+  "US:D3-1(\"Walnut\"": 2,
+  "US:D3-1[\"Broad St\"]": 2,
+  "US:D3-1[\"Club Blvd\"]": 2,
+  "US:D3-1[Montford Ave]": 2,
+  "US:E1-2a": 2,
+  "US:E6-2": 2,
+  "US:E7-2": 2,
+  "US:EM-1a": 2,
+  "US:EM-1a[TORNADO]": 2,
+  "US:FRD:3E.4": 2,
+  "US:G70-2[138]": 2,
+  "US:G85-6": 2,
+  "US:I-2[Clay\\nCounty]": 2,
+  "US:I-2[EARLY\\nCOUNTY]": 2,
+  "US:I-2[MARTHA BERRY\\nHIGHWAY]": 2,
+  "US:I-2[STEWART\\nCOUNTY]": 2,
+  "US:I-3[ATTAPULGUS\\nCREEK]": 2,
+  "US:I-3[BEACH\\nCREEK]": 2,
+  "US:I-3[BLUE\\nCREEK]": 2,
+  "US:I-3[FLINTn\\RIVER]": 2,
+  "US:I-3[HANNAHATCHEE\\nCREEK]": 2,
+  "US:I-3[L. M. MOYE JR.\\nMEMORIAL BRIDGE]": 2,
+  "US:I-3[PUMPKIN CREEK]": 2,
+  "US:I-3[SPRING CREEK]": 2,
+  "US:I-3[SWAMP\\nCREEK]": 2,
+  "US:I-3[UPATOI\\nCREEK]": 2,
+  "US:I-3[WAMBLE CREEK]": 2,
+  "US:I-3[YELLOW JACKET\\nCREEK]": 2,
+  "US:I13-1": 2,
+  "US:IL:R11-I100": 2,
+  "US:IL:R5-I101": 2,
+  "US:M1-1[77]": 2,
+  "US:M1-5[18]": 2,
+  "US:M1-5[92]": 2,
+  "US:M1-6F": 2,
+  "US:M1-6T": 2,
+  "US:M2-3": 2,
+  "US:M4-14": 2,
+  "US:M4-3": 2,
+  "US:M4-6": 2,
+  "US:M5-1": 2,
+  "US:M6-1l": 2,
+  "US:M6-2": 2,
+  "US:M6-2aL": 2,
+  "US:M6-2aR": 2,
+  "US:M6-2l": 2,
+  "US:M6-6": 2,
+  "US:M7-1": 2,
+  "US:M7-1[NE]": 2,
+  "US:M7-1[SE]": 2,
+  "US:M7-1[SW]": 2,
+  "US:M7-5[NS]": 2,
+  "US:MN:W16-9P": 2,
+  "US:N-1 (CA)": 2,
+  "US:NM:R10-7": 2,
+  "US:NM:W1-7": 2,
+  "US:NM:W8-1": 2,
+  "US:NV:M1-5": 2,
+  "US:NY:M1-5": 2,
+  "US:NY:NYC:SR-1763": 2,
+  "US:NY:R3-14": 2,
+  "US:NY:W7-6": 2,
+  "US:OH:D3-H3": 2,
+  "US:OH:I-H2f": 2,
+  "US:OH:M1-5-2": 2,
+  "US:OH:S3-H8P": 2,
+  "US:OH:W4-H1a": 2,
+  "US:OM2-1": 2,
+  "US:OR10-15": 2,
+  "US:OR22-7": 2,
+  "US:OR:OR4-20a": 2,
+  "US:OR:OW7-4": 2,
+  "US:R1-1(direction=280)": 2,
+  "US:R10-9A": 2,
+  "US:R16-7[40]": 2,
+  "US:R2-1 [25]": 2,
+  "US:R2-1(\"30\"": 2,
+  "US:R2-1[60]": 2,
+  "US:R2-4P": 2,
+  "US:R2-5a": 2,
+  "US:R26": 2,
+  "US:R3-17a": 2,
+  "US:R3-6L|US:R3-5R": 2,
+  "US:R3-7": 2,
+  "US:R3-7(right)": 2,
+  "US:R3-8?": 2,
+  "US:R3-8a": 2,
+  "US:R6-4b": 2,
+  "US:R7-108(\"2 HR Parking 8 AM To 5 PM Except Weekends & Holidays\")": 2,
+  "US:R7-1aL": 2,
+  "US:R9-3bPL": 2,
+  "US:S1-1o": 2,
+  "US:S4-1P [7:20 to 8:20 AM] [2:15 tp 3:15 PM]": 2,
+  "US:S4-3": 2,
+  "US:S5-1 [25]": 2,
+  "US:S5-1[25]": 2,
+  "US:Stop_When_Occupied": 2,
+  "US:TN:6c": 2,
+  "US:TN:TN-4": 2,
+  "US:TX:12-2TP": 2,
+  "US:TX:D21-2T": 2,
+  "US:TX:D9-2": 2,
+  "US:TX:E4-2": 2,
+  "US:TX:E6-2a": 2,
+  "US:TX:R12-2cT": 2,
+  "US:TX:R2-1[35]": 2,
+  "US:TX:W12-2P": 2,
+  "US:USFS:SBR": 2,
+  "US:USR3-7aP": 2,
+  "US:VA:I-V2a": 2,
+  "US:VA:I-V9": 2,
+  "US:W1-1aL": 2,
+  "US:W1-3": 2,
+  "US:W1-6": 2,
+  "US:W10-4": 2,
+  "US:W11-5P": 2,
+  "US:W12-2[14'1\"]": 2,
+  "US:W12-2[7'11\"]": 2,
+  "US:W13-1P(15)": 2,
+  "US:W13-1P(45)": 2,
+  "US:W13-1P[25 mph]": 2,
+  "US:W13-1P[40 mph]": 2,
+  "US:W13-1P[45 mph]": 2,
+  "US:W14-2A": 2,
+  "US:W15-6": 2,
+  "US:W16-2P[2500']": 2,
+  "US:W16-5LP": 2,
+  "US:W16-5P": 2,
+  "US:W16-7p": 2,
+  "US:W16-9": 2,
+  "US:W2-1[25]": 2,
+  "US:W21-5aR": 2,
+  "US:W3-13": 2,
+  "US:W3-1A": 2,
+  "US:W3-5(30)": 2,
+  "US:W3-5[45]": 2,
+  "US:W3-7R": 2,
+  "US:W35-1a": 2,
+  "US:W42-7": 2,
+  "US:W8-13aT": 2,
+  "US:W8-15P": 2,
+  "US:W84": 2,
+  "US:W84[2]": 2,
+  "US:W9-13": 2,
+  "US:WA:E12-201": 2,
+  "US:WA:W14-2202": 2,
+  "US:WV:S3-1": 2,
+  "US:unknown[\"No Fishing From Bridge\"]": 2,
+  "US:unknown|US:OM4-3": 2,
+  "US:": 1,
+  "US:10-9P": 1,
+  "US:12-1": 1,
+  "US:12-2a": 1,
+  "US:3-1": 1,
+  "US:3-2": 1,
+  "US:8-3": 1,
+  "US:AZ:D1-105a": 1,
+  "US:AZ:D1-105d": 1,
+  "US:AZ:D1-105e": 1,
+  "US:AZ:D1-1e": 1,
+  "US:AZ:D10-3": 1,
+  "US:AZ:D3-1": 1,
+  "US:AZ:E1-101f": 1,
+  "US:AZ:E1-102a": 1,
+  "US:AZ:E3-103": 1,
+  "US:AZ:E4-104a": 1,
+  "US:AZ:E5-1a": 1,
+  "US:AZ:M3-1": 1,
+  "US:AZ:M3-2": 1,
+  "US:AZ:M3-4": 1,
+  "US:AZ:M6-1": 1,
+  "US:AZ:M6-4": 1,
+  "US:AZ:OM3-aR": 1,
+  "US:AZ:R4-7": 1,
+  "US:AZ:R5-10a": 1,
+  "US:AZ:R6-1R": 1,
+  "US:AZ:W1-3L": 1,
+  "US:AZ:W1-4R": 1,
+  "US:AZ:W1-7": 1,
+  "US:AZ:W14-2": 1,
+  "US:AZ:W16-7PL": 1,
+  "US:AZ:W2-2L": 1,
+  "US:AZ:W2-2R": 1,
+  "US:AZ:W4-1R": 1,
+  "US:AZ:W6-3": 1,
+  "US:AZ:W8-103": 1,
+  "US:CA:1-D": 1,
+  "US:CA:CPUC:8": 1,
+  "US:CA:D5-2": 1,
+  "US:CA:D9-1": 1,
+  "US:CA:E1-5P": 1,
+  "US:CA:G20-1": 1,
+  "US:CA:G23-1": 1,
+  "US:CA:G23-2": 1,
+  "US:CA:G27-2[4]": 1,
+  "US:CA:G46": 1,
+  "US:CA:G49": 1,
+  "US:CA:G5": 1,
+  "US:CA:G50": 1,
+  "US:CA:G55": 1,
+  "US:CA:G7-2": 1,
+  "US:CA:G8-22": 1,
+  "US:CA:G81-61": 1,
+  "US:CA:G81-63": 1,
+  "US:CA:G81-66": 1,
+  "US:CA:G83-2": 1,
+  "US:CA:G84": 1,
+  "US:CA:G84-2(CA)": 1,
+  "US:CA:G86-1": 1,
+  "US:CA:G86-5": 1,
+  "US:CA:G86-7": 1,
+  "US:CA:G87": 1,
+  "US:CA:PREP-082": 1,
+  "US:CA:PS-082": 1,
+  "US:CA:R18A": 1,
+  "US:CA:R2-1": 1,
+  "US:CA:R28(S)": 1,
+  "US:CA:R29": 1,
+  "US:CA:R32B": 1,
+  "US:CA:R38": 1,
+  "US:CA:R4-7": 1,
+  "US:CA:R44C": 1,
+  "US:CA:R49": 1,
+  "US:CA:R54": 1,
+  "US:CA:R57-1": 1,
+  "US:CA:R58-1": 1,
+  "US:CA:R6-1R": 1,
+  "US:CA:R6-2": 1,
+  "US:CA:R6-3": 1,
+  "US:CA:R6-3a": 1,
+  "US:CA:R6-4": 1,
+  "US:CA:R60B-1": 1,
+  "US:CA:R81A": 1,
+  "US:CA:R81B": 1,
+  "US:CA:R9-5": 1,
+  "US:CA:RA-2": 1,
+  "US:CA:S1-1": 1,
+  "US:CA:S11-1": 1,
+  "US:CA:S26": 1,
+  "US:CA:S32": 1,
+  "US:CA:S33": 1,
+  "US:CA:S5-2": 1,
+  "US:CA:SG2A": 1,
+  "US:CA:SR15": 1,
+  "US:CA:SR15A": 1,
+  "US:CA:SR22-1": 1,
+  "US:CA:SW-50": 1,
+  "US:CA:SW49": 1,
+  "US:CA:W-55B": 1,
+  "US:CA:W1-8L": 1,
+  "US:CA:W11-3": 1,
+  "US:CA:W2-2L": 1,
+  "US:CA:W34C(CA)": 1,
+  "US:CA:W4-1(CA)": 1,
+  "US:CA:W53": 1,
+  "US:CA:W69": 1,
+  "US:CA:W73": 1,
+  "US:CA:W74(Lt)": 1,
+  "US:CA:r11-4": 1,
+  "US:D1-1L[\"Durham Tech Comm College North\"]": 1,
+  "US:D1-1R[\"Durham Tech Comm College North\"]": 1,
+  "US:D1-1[Fort Chiswell]": 1,
+  "US:D1-1[Los Gamos Drive]": 1,
+  "US:D1-1e[I 75 North Ocala]": 1,
+  "US:D1-1e[I 75 South Naples]": 1,
+  "US:D1-2R[\"Little RIver Elementary\",\"Lucas Middle School\"]": 1,
+  "US:D1-2[BLUFFTON|16|CUTHBERT|33]": 1,
+  "US:D1-2[COLQUITT|19|BAINBRIDGE|40]": 1,
+  "US:D1-4": 1,
+  "US:D10-2[47]": 1,
+  "US:D10-2[48]": 1,
+  "US:D10-2[49]": 1,
+  "US:D10-3a[156.5]": 1,
+  "US:D10-3a[157.0]": 1,
+  "US:D10-5[85.0]": 1,
+  "US:D11-1L": 1,
+  "US:D11-1R": 1,
+  "US:D13": 1,
+  "US:D14-1": 1,
+  "US:D2-2[\"Greensboro_13\",_\"High_Point_20\"]": 1,
+  "US:D2-2[BLUFFTON|13|CUTHBERT|28]": 1,
+  "US:D2-2[BLUFFTON|14|CUTHBERT|32]": 1,
+  "US:D2-2[BLUFFTON|15|CUTHBERT|33]": 1,
+  "US:D2-2[COLQUITT|18|BAINBRIDGE|40]": 1,
+  "US:D2-3[Bedford][Buchanan]": 1,
+  "US:D2-3[Leesville][Bedford][Buchanan]": 1,
+  "US:D3-1 [Al Brooks Drive]": 1,
+  "US:D3-1 [Dewar Street]": 1,
+  "US:D3-1 [Parker Mathis Drive]": 1,
+  "US:D3-1 [Remer Lane]": 1,
+  "US:D3-1 [Roberts Street]": 1,
+  "US:D3-1(\"19th\"": 1,
+  "US:D3-1(\"21st St\"": 1,
+  "US:D3-1(\"BALTIMORE\")": 1,
+  "US:D3-1(\"BROADWAY BLVD\"": 1,
+  "US:D3-1(\"Berry St.\"": 1,
+  "US:D3-1(\"Broadway\"": 1,
+  "US:D3-1(\"Central\"": 1,
+  "US:D3-1(\"E 16th St\")": 1,
+  "US:D3-1(\"E 17th St\")": 1,
+  "US:D3-1(\"E 18th ST\"": 1,
+  "US:D3-1(\"Fulton St.\"": 1,
+  "US:D3-1(\"HOLLY\"": 1,
+  "US:D3-1(\"Main St\"": 1,
+  "US:D3-1(\"Main St.\"": 1,
+  "US:D3-1(\"Northwestern\"": 1,
+  "US:D3-1(\"Southwest BLVD\"": 1,
+  "US:D3-1(\"TERRACE\"": 1,
+  "US:D3-1(\"W 10th ST\")": 1,
+  "US:D3-1(\"W 16th St\"": 1,
+  "US:D3-1(\"W 16th\"": 1,
+  "US:D3-1(\"W 17th St\")": 1,
+  "US:D3-1(\"W 18TH ST\"": 1,
+  "US:D3-1(\"W 19TH ST\"": 1,
+  "US:D3-1(\"W 19TH TER\"": 1,
+  "US:D3-1(\"WIEDENMANN PL\"": 1,
+  "US:D3-1[Bearden Ave]": 1,
+  "US:D3-1[Courtland Ave]": 1,
+  "US:D3-1[M L King Jr]": 1,
+  "US:D3-1[Miracles]": 1,
+  "US:D3-1[Mountain Rd]": 1,
+  "US:D3-1[Mountain Spring Ln]": 1,
+  "US:D3-1[Pine Street]": 1,
+  "US:D3-1[Plum Street]": 1,
+  "US:D3-1[Poplar Street]": 1,
+  "US:D3-1[Victory Street]": 1,
+  "US:D3-2[Adamo Dr NEXT SIGNAL]": 1,
+  "US:D3-2[Falkenburg Rd NEXT SIGNAL]": 1,
+  "US:D3-2[Showers Rd]": 1,
+  "US:D5-1b": 1,
+  "US:D6-3": 1,
+  "US:D7-1TL": 1,
+  "US:D7-1TR": 1,
+  "US:D9-18": 1,
+  "US:D9-2L": 1,
+  "US:DE:W21-11-DE": 1,
+  "US:E1-1a": 1,
+  "US:E5-1A[2]": 1,
+  "US:E5-1a[100]": 1,
+  "US:E9-5": 1,
+  "US:Exx": 1,
+  "US:G12-2[\"Nello L. Teer, Sr. Memorial Highway\"]": 1,
+  "US:G24-5L[31,north]": 1,
+  "US:G26-2[31]": 1,
+  "US:G27-1[85]": 1,
+  "US:G28-2": 1,
+  "US:G66-56": 1,
+  "US:G70-2[\"Exit_135\"]": 1,
+  "US:G70-2[156]": 1,
+  "US:G83-1[\"Rock_Cr_Dairy_Rd_1_Mile\"]": 1,
+  "US:G83-2[\"[61]_Gibsonville_1/2_Mile\"]": 1,
+  "US:G83-2[\"[61]_Gibsonville_1_Mile\"]": 1,
+  "US:G83-2[1 mile]": 1,
+  "US:G83-2[1/2 mile]": 1,
+  "US:G84-2[158]": 1,
+  "US:G85": 1,
+  "US:I-12": 1,
+  "US:I-2[CHATTACHOOCHEE\\nCOUNTY]": 1,
+  "US:I-2[CHATTAHOOCHEE\\nCOUNTY]": 1,
+  "US:I-2[CLAY\\nCOUNTY]": 1,
+  "US:I-2[DECATUR\\nCOUNTY]": 1,
+  "US:I-2[HISTORIC\\nDISTRICT]": 1,
+  "US:I-2[Lower\\nChattachoohee River\\nSoil and Water\\nConservation\\nDistrict]": 1,
+  "US:I-2[MILLER\\nCOUNTY]": 1,
+  "US:I-2[MILLER\\nCOUTY]": 1,
+  "US:I-2[MUSCOGEE\\nCOUNTY]": 1,
+  "US:I-2[RANDOLPH\\nCOUNTY]": 1,
+  "US:I-3[COL ROBERT B. NETT\\nMEDAL OF HONOUR HWY]": 1,
+  "US:I-3[FORT BENNING\\nMILITARY\\nRESERVATION]": 1,
+  "US:I-3[GOVERNOR\\nMARVIN GRIFFIN\\nMEMORIAL BYPASS]": 1,
+  "US:I-3[MARTHA BERRYn\\HIGHWAY]": 1,
+  "US:I-7": 1,
+  "US:I-8": 1,
+  "US:M1-1[295]": 1,
+  "US:M1-1[74]": 1,
+  "US:M1-1[75]": 1,
+  "US:M1-1[805]": 1,
+  "US:M1-1[95]": 1,
+  "US:M1-4[52]": 1,
+  "US:M1-4[83]": 1,
+  "US:M1-5-24": 1,
+  "US:M1-5a": 1,
+  "US:M2-1P:M1-5": 1,
+  "US:M2-3P": 1,
+  "US:M3-3|US:M1-4[23]": 1,
+  "US:M4-1a": 1,
+  "US:M5-1LP": 1,
+  "US:M6-1LP": 1,
+  "US:M6-1P": 1,
+  "US:M6-1PBL": 1,
+  "US:M6-1PBR": 1,
+  "US:M6-1|USM3-1": 1,
+  "US:M6-3a": 1,
+  "US:M6-4|US:M3-4": 1,
+  "US:M7-1[WE]": 1,
+  "US:M7-1[indicates]": 1,
+  "US:M7-4[E]": 1,
+  "US:M7-5[EW]": 1,
+  "US:MA:MA-D9-19a": 1,
+  "US:MA:MA-I-15a": 1,
+  "US:MA:MA-I-2a": 1,
+  "US:MD:Baltimore:Sponsor": 1,
+  "US:MD:D14-3": 1,
+  "US:MD:D3-2(3)": 1,
+  "US:MD:M4-9(1)": 1,
+  "US:MD:R12-5(4)": 1,
+  "US:MD:R3-7(1)L": 1,
+  "US:MD:R3-7(1)R": 1,
+  "US:MD:R7-2(5)": 1,
+  "US:MD:R7-4(2)": 1,
+  "US:MD:VP-1(1)R": 1,
+  "US:MI:I2-2": 1,
+  "US:MI:R3-2": 1,
+  "US:MI:R5-3": 1,
+  "US:MI:R7-2": 1,
+  "US:MI:R7-201P": 1,
+  "US:MI:R8-3": 1,
+  "US:MI:W4-2R": 1,
+  "US:MN:OM4-2": 1,
+  "US:MR1-99": 1,
+  "US:MUTCD:D2-3": 1,
+  "US:NJ:CR": 1,
+  "US:NM:B-1R": 1,
+  "US:NM:D7-1": 1,
+  "US:NM:R3-17b": 1,
+  "US:NM:R3-8": 1,
+  "US:NM:R3-9B": 1,
+  "US:NM:R3-9b": 1,
+  "US:NM:W1-8": 1,
+  "US:NM:W17-1": 1,
+  "US:NM:W3-1a": 1,
+  "US:NV:GNV31-1": 1,
+  "US:NY:S1-1o": 1,
+  "US:NY:W1-1L": 1,
+  "US:NY:W1-2": 1,
+  "US:NY:W7-7": 1,
+  "US:No_throug_traffic": 1,
+  "US:OBW1-9": 1,
+  "US:OH:D1-3a": 1,
+  "US:OH:D1-H1a": 1,
+  "US:OH:D1-H1a[Cleveland][10]": 1,
+  "US:OH:D12-H17aP": 1,
+  "US:OH:H12-R17": 1,
+  "US:OH:M1-5-3": 1,
+  "US:OH:M31": 1,
+  "US:OH:R-79": 1,
+  "US:OH:R22-H1": 1,
+  "US:OH:R5-H2B": 1,
+  "US:OH:R7-H10": 1,
+  "US:OH:W3-H4a": 1,
+  "US:OM3": 1,
+  "US:OM3-4": 1,
+  "US:OR3-11": 1,
+  "US:OR:D461": 1,
+  "US:OR:OBW1-9": 1,
+  "US:OR:OR21-3a": 1,
+  "US:OR:OR21-4a": 1,
+  "US:OR:OR22-2": 1,
+  "US:OR:OR22-3": 1,
+  "US:OR:OR3-7a": 1,
+  "US:OR:OR4-18": 1,
+  "US:OR:OW15-15": 1,
+  "US:OR:OW8-12L": 1,
+  "US:OW15-15C": 1,
+  "US:PA:I10-2": 1,
+  "US:PA:M1-1": 1,
+  "US:PA:R5-3-1": 1,
+  "US:PA:W14-2": 1,
+  "US:PA:W15-2": 1,
+  "US:PS-002": 1,
+  "US:R1-1(\"65\")": 1,
+  "US:R1-1(direction=NW)": 1,
+  "US:R1-1(direction=S)": 1,
+  "US:R1-1(direction=W)": 1,
+  "US:R1-10P`": 1,
+  "US:R10-12bR": 1,
+  "US:R10-6R": 1,
+  "US:R101": 1,
+  "US:R14-1+US:M6-1PL": 1,
+  "US:R16-1R": 1,
+  "US:R2-1(\"25\"": 1,
+  "US:R2-1(35)": 1,
+  "US:R2-1[25 mph]": 1,
+  "US:R2-1[55 mph]": 1,
+  "US:R28AL": 1,
+  "US:R3-1L": 1,
+  "US:R3-1P": 1,
+  "US:R3-2[WHEN XING LIGHTS ARE FLASHING]": 1,
+  "US:R3-2b": 1,
+  "US:R3-2g": 1,
+  "US:R3-33": 1,
+  "US:R3-5": 1,
+  "US:R3-5L|US:R3-5L|US:R3-5a|US:R3-5R": 1,
+  "US:R3-5L|US:R3-5R": 1,
+  "US:R3-5L|US:R3-5a": 1,
+  "US:R3-5L|US:R3-5a|US:R3-5R|US:R3-5R": 1,
+  "US:R3-5L|US:R3-6R": 1,
+  "US:R3-7(left)": 1,
+  "US:R3-7(right": 1,
+  "US:R3-8A(S-R)": 1,
+  "US:R30E-L": 1,
+  "US:R30ER": 1,
+  "US:R3:8a": 1,
+  "US:R5-1(direction=190)": 1,
+  "US:R5-1(direction=SE)": 1,
+  "US:R5-2+US:CA:R20D-1P(CA)": 1,
+  "US:R6-1(R)": 1,
+  "US:R6-1(left)": 1,
+  "US:R6-1(right)": 1,
+  "US:R6-2": 1,
+  "US:R7-108[\"2 HR PARKING 8:00 AM TO 5:00 PM.\"]": 1,
+  "US:R7-1P": 1,
+  "US:R7-1R": 1,
+  "US:R7-301P": 1,
+  "US:R7-504": 1,
+  "US:R8-3aL": 1,
+  "US:R8-3aR": 1,
+  "US:R9-11aL": 1,
+  "US:R99": 1,
+  "US:R99 (CA)": 1,
+  "US:R99B (CA)": 1,
+  "US:RS-054": 1,
+  "US:RS-128": 1,
+  "US:Rx": 1,
+  "US:S3-1A[800']": 1,
+  "US:S4-5[35 mph]": 1,
+  "US:S5-1[15_mph]": 1,
+  "US:S5-1[20 mph]": 1,
+  "US:S7-1T": 1,
+  "US:SG42-1": 1,
+  "US:SG42-1[Food]": 1,
+  "US:SG42-2": 1,
+  "US:TN:26": 1,
+  "US:TN:39": 1,
+  "US:TN:6b": 1,
+  "US:TX": 1,
+  "US:TX:D13-1T": 1,
+  "US:TX:D20-1T[2720]": 1,
+  "US:TX:E11-1": 1,
+  "US:TX:E11-1dT": 1,
+  "US:TX:I-2T": 1,
+  "US:TX:I-2aT": 1,
+  "US:TX:I-2dT": 1,
+  "US:TX:I2-T": 1,
+  "US:TX:M3-2P": 1,
+  "US:TX:M6-2L": 1,
+  "US:TX:R2-1": 1,
+  "US:TX:R2-1[30]": 1,
+  "US:TX:R3-33aTL": 1,
+  "US:TX:R3-7L": 1,
+  "US:TX:R3-8uT": 1,
+  "US:TX:R4-3bT": 1,
+  "US:TX:US:M1-6T": 1,
+  "US:TX:W1-1R": 1,
+  "US:TX:W10-1": 1,
+  "US:TX:W10-5": 1,
+  "US:TX:W10-5P": 1,
+  "US:TX:W10-9": 1,
+  "US:TX:W10-9P": 1,
+  "US:TX:W11-2": 1,
+  "US:TX:W12-2": 1,
+  "US:TX:W12-2TX": 1,
+  "US:TX:W12-5T": 1,
+  "US:TX:W14-2TP": 1,
+  "US:TX:W4-1L": 1,
+  "US:TX:W4-1aT": 1,
+  "US:USFS:SB-3": 1,
+  "US:USLW10-9P": 1,
+  "US:USW10-9P": 1,
+  "US:UT:R58": 1,
+  "US:UT:W14-1": 1,
+  "US:VA:M1-V1[43]": 1,
+  "US:VA:R7-8": 1,
+  "US:VA:R9-V1": 1,
+  "US:VA:W11-V3": 1,
+  "US:W": 1,
+  "US:W-16-9P": 1,
+  "US:W1-10": 1,
+  "US:W1-11aL": 1,
+  "US:W1-2aL": 1,
+  "US:W1-2ar": 1,
+  "US:W1-3aR": 1,
+  "US:W1-4bR": 1,
+  "US:W1-5R[20]": 1,
+  "US:W1-7|US:OM4-3": 1,
+  "US:W10": 1,
+  "US:W10-11(mod)": 1,
+  "US:W10-12a": 1,
+  "US:W10-89P": 1,
+  "US:W11-103": 1,
+  "US:W11-2(direction=280)": 1,
+  "US:W11-H13": 1,
+  "US:W12-1lUS:R5-1a": 1,
+  "US:W12-2:US:TX:W12-2TP": 1,
+  "US:W12-2P": 1,
+  "US:W12-2[14′10″]": 1,
+  "US:W12-2[15'.2\"]": 1,
+  "US:W12-3R": 1,
+  "US:W13-1P(50)": 1,
+  "US:W13-1R": 1,
+  "US:W13-2[35 mph]": 1,
+  "US:W13-2[45]": 1,
+  "US:W13-3[25]": 1,
+  "US:W13-3[30 mph]": 1,
+  "US:W13-5": 1,
+  "US:W13-9[20]": 1,
+  "US:W14-2(direction=190)": 1,
+  "US:W14-2P": 1,
+  "US:W14-2a": 1,
+  "US:W14-4": 1,
+  "US:W16-104aP[10]": 1,
+  "US:W16-2P[800']": 1,
+  "US:W16-2aP[500 FT]": 1,
+  "US:W16-4P[1/4 mi]": 1,
+  "US:W16-5RP": 1,
+  "US:W16-6RP": 1,
+  "US:W16-7P(direction=280)": 1,
+  "US:W1R": 1,
+  "US:W2-16": 1,
+  "US:W2-1L": 1,
+  "US:W2-4R": 1,
+  "US:W2-50": 1,
+  "US:W20-1": 1,
+  "US:W20-8": 1,
+  "US:W2R": 1,
+  "US:W3-2a": 1,
+  "US:W3-5(35)": 1,
+  "US:W3-5(45)": 1,
+  "US:W3-5[35 mph]": 1,
+  "US:W3-5[35]": 1,
+  "US:W3-5[45 mph]": 1,
+  "US:W31-A[500 ft]": 1,
+  "US:W31A[500 ft]": 1,
+  "US:W39-3": 1,
+  "US:W4-4": 1,
+  "US:W4-5": 1,
+  "US:W4-5P": 1,
+  "US:W41-4A": 1,
+  "US:W48(CA)": 1,
+  "US:W5-2a": 1,
+  "US:W5-2b": 1,
+  "US:W7-3aP[2]": 1,
+  "US:W8-103": 1,
+  "US:W8-104": 1,
+  "US:W9-1L[1000 ft]": 1,
+  "US:WA:D1-801": 1,
+  "US:WA:D1-901": 1,
+  "US:WA:M1-5": 1,
+  "US:WA:R3-2": 1,
+  "US:WA:S5-1": 1,
+  "US:WA:W13-401": 1,
+  "US:WR8-3": 1,
+  "US:WV:D18-1": 1,
+  "US:WV:W11-12": 1,
+  "US:Wx": 1,
+  "US:direction=S)": 1,
+  "US:direction=SSE)": 1,
+  "US:direction=SW)": 1,
+  "US:direction=W)": 1,
+  "US:interchange_exit_direction": 1,
+  "US:private_property_no_trespassing": 1,
+  "US:uS:W13-1P": 1,
+  "US:unknown[\"501\"]": 1,
+  "US:unknown[\"MONDAY THRU FRIDAY\"]": 1,
+  "US:unknown[\"Weight Limit 6 1/2 Tons 1 Mi Ahead\"]": 1,
+  "US:x": 1,
+  "US:xx": 1
+ },
+ "human_without_image": [
+  "city_limit",
+  "city_limit_end",
+  "hazard",
+  "overtaking_end",
+  "street_name",
+  "variable_message"
+ ]
+}
