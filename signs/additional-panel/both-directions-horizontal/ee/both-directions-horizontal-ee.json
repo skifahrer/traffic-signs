@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "833",
+  "image": {
+    "file": "both-directions-horizontal-ee.svg",
+    "sha1": "99aa21df161606c02bbe116f37dc14ad96d6bbd0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_833.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

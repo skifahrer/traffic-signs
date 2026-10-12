@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "666a",
+  "image": {
+    "file": "public-event-direction-sign-straight-ee.svg",
+    "sha1": "51c1adbb51421e4445906150f3d052ff2f8a8d16",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_666a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

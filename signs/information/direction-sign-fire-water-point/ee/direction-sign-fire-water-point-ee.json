@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "631c",
+  "image": {
+    "file": "direction-sign-fire-water-point-ee.svg",
+    "sha1": "374edc89df67c8bdafd9d2ec08e8b74a91074812",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_631c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

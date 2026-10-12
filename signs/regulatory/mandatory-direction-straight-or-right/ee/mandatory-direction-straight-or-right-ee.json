@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "416",
+  "image": {
+    "file": "mandatory-direction-straight-or-right-ee.svg",
+    "sha1": "b86e170f985329be13ef591a8bf11e984dc5d563",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_416.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

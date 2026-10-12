@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "447",
+  "image": {
+    "file": "end-of-snowmobile-route-ee.svg",
+    "sha1": "f1e49ff5ee68906d1e978feac0d78c9e33c2413c",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_447.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

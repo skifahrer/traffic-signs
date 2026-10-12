@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "176",
+  "image": {
+    "file": "horse-riders-ee.svg",
+    "sha1": "71ead401cf12fa8b9af51f923fe60ab08bf64d4b",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_176.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "742b",
+  "image": {
+    "file": "services-cycle-touring-trail-ee.svg",
+    "sha1": "a6563ab77d7e68572a8d9a979db348488bc87103",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_742b.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

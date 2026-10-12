@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "576b",
+  "image": {
+    "file": "parking-arrangement-b-ee.svg",
+    "sha1": "87cb669a291d178b032da6bd70f19640d5a76ab3",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_576b.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

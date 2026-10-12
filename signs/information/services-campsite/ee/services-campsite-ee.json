@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "732",
+  "image": {
+    "file": "services-campsite-ee.svg",
+    "sha1": "cbd6e10d8d6a8449225a05a1564ed49b1365f176",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_732.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

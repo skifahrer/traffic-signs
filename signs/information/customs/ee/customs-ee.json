@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "719",
+  "image": {
+    "file": "customs-ee.svg",
+    "sha1": "4fc789e184c1ae2c8ff3a5cce94637556bd331be",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_719.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

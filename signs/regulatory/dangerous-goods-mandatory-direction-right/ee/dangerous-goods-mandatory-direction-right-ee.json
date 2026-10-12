@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "461c",
+  "image": {
+    "file": "dangerous-goods-mandatory-direction-right-ee.svg",
+    "sha1": "b91a3da81047febd57cb5247183055d36ff558f9",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_461c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

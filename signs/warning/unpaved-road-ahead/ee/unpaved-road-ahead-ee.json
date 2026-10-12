@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "159",
+  "image": {
+    "file": "unpaved-road-ahead-ee.svg",
+    "sha1": "47922f6c28ce5c64c49a047d6c737fa9b5d4ba09",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_159.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

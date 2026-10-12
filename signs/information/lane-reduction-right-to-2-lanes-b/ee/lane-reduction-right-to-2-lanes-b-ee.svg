@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.427917mm"
+   height="52.879936mm"
+   viewBox="0 0 79.427918 52.879937"
+   version="1.1"
+   id="svg1683"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Estonia_road_sign_532as.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1685"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.0129245"
+     inkscape:cx="135.25193"
+     inkscape:cy="36.034275"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1680" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.828152,-236.86721)">
+    <path
+       id="path1610"
+       style="fill:#00a7d1;fill-opacity:1;stroke:none;stroke-width:0.0529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;opacity:1"
+       d="m 117.22961,236.89367 h -79.375 v 52.82702 h 79.375 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path1612"
+       style="color:#000000;fill:#ffffff;stroke-width:2.29496;-inkscape-stroke:none;paint-order:stroke fill markers;opacity:1"
+       d="m 42.594277,237.24233 c -2.406966,0 -4.389213,1.98578 -4.389213,4.39274 v 43.34421 c 0,2.40697 1.982247,4.39277 4.389213,4.39277 h 69.895683 c 2.40697,0 4.3892,-1.9858 4.3892,-4.39277 v -43.34421 c 0,-2.40696 -1.98223,-4.39274 -4.3892,-4.39274 z m 8.81e-4,1.49785 h 69.893302 c 1.60329,0 2.89492,1.29046 2.89492,2.89372 v 43.34656 c 0,1.60329 -1.29163,2.89371 -2.89492,2.89371 H 42.595158 c -1.603292,0 -2.893724,-1.29042 -2.893724,-2.89371 V 241.6339 c 0,-1.60326 1.290432,-2.89372 2.893724,-2.89372 z"
+       sodipodi:nodetypes="ssssssssssssssssss" />
+    <path
+       id="path1460"
+       style="color:#000000;opacity:1;fill:#ffffff;stroke-width:2.65663;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 107.86564,243.29435 -12.678303,5.06309 3.314074,2.59606 -23.117488,29.50809 4.229761,3.19051 13.08604,-16.7035 c 0.0025,0.15037 0.0082,0.30477 0.01065,0.44618 l 0.03295,16.34108 h 5.297835 l -0.03163,-16.3754 c -0.0082,-1.10822 -0.07813,-2.20426 -0.08234,-3.27837 -0.0025,-0.92386 0.04121,-1.8311 0.214122,-2.71414 0.190214,-0.97076 0.477028,-1.88829 1.043366,-2.69627 l 0.319882,-0.40636 c 0.07491,-0.0861 0.15169,-0.17215 0.234851,-0.2553 0.134156,-0.18516 0.256892,-0.35878 0.38302,-0.53543 l 2.55077,-3.25502 3.31269,2.59605 z" />
+    <path
+       id="path1462"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:20.7907;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 78.168081,243.35614 -12.678305,5.06307 3.314074,2.59608 -23.019987,29.38592 4.229757,3.19185 22.960957,-29.31037 3.312686,2.59467 z" />
+  </g>
+</svg>

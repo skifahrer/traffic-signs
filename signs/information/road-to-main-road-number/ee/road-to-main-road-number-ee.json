@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "654a",
+  "image": {
+    "file": "road-to-main-road-number-ee.svg",
+    "sha1": "cb784b0a59a9e49356ba2bc381f937c1a303b401",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_654a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

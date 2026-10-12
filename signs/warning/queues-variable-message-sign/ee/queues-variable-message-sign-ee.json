@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "184m",
+  "image": {
+    "file": "queues-variable-message-sign-ee.svg",
+    "sha1": "cf302f4cbabe049a5a3f91f8f25b22e9555577e6",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_184m.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

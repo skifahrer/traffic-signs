@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "888",
+  "image": {
+    "file": "accident-risk-ee.svg",
+    "sha1": "ebac65bd36af1b66950210e6aa6e50aad81d2b78",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_888.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

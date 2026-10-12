@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "134b",
+  "image": {
+    "file": "side-road-right-minor-priority-road-bends-right-ee.svg",
+    "sha1": "b4b3a6914ddd6234f1d26f8b53e706e68314923e",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_134b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "817c",
+  "image": {
+    "file": "distance-to-traffic-island-pass-either-side-ee.svg",
+    "sha1": "e404be62814f4faae20c142776385fbb0c7ddbda",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_817c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

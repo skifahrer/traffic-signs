@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "125",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-right-side-ee.svg",
+    "sha1": "80dc98441a4531cb6d0a2aba581d39745f0974b0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_125.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

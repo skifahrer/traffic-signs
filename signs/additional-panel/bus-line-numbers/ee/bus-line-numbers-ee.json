@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "892",
+  "image": {
+    "file": "bus-line-numbers-ee.svg",
+    "sha1": "9759821f84d96e6a2675daf8473181245c274e3e",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_892.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

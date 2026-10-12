@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "533as",
+  "image": {
+    "file": "lane-reduction-right-to-2-lanes-ee.svg",
+    "sha1": "590c8325db396b0209db1270c1f13424f822c81d",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_533as.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

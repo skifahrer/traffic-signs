@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "891a",
+  "image": {
+    "file": "except-buses-ee.svg",
+    "sha1": "9025c60e1965df49da2467e5cde0668f2124d5d9",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_891a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

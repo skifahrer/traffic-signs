@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "623b2",
+  "image": {
+    "file": "advance-direction-sign-stacked-with-distance-ee.svg",
+    "sha1": "06c511eb0769b5b827a8765b46f8347dc8797fe8",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_623b2.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

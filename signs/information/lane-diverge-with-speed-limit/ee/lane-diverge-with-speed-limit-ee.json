@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "536as",
+  "image": {
+    "file": "lane-diverge-with-speed-limit-ee.svg",
+    "sha1": "ef93d898cce68c9cced1471ab8c8b04c439bfb13",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_536as.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

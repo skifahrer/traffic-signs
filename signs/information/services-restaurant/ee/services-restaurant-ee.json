@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "725",
+  "image": {
+    "file": "services-restaurant-ee.svg",
+    "sha1": "e02e22111d835626bfd78f5c34c3e7b7d153bd37",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_725.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

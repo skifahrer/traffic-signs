@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "311c",
+  "image": {
+    "file": "private-road-no-entry-except-named-ee.svg",
+    "sha1": "931a54e0136643a43965a06477c29f2007342491",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_311c.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "371",
+  "image": {
+    "file": "end-of-speed-limit-ee.svg",
+    "sha1": "6bd4fb187cd21dbe6f989401ead5685453d4fb4c",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_371(30).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

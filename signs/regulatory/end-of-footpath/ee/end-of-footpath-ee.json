@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "442",
+  "image": {
+    "file": "end-of-footpath-ee.svg",
+    "sha1": "3777cd77b555a297c5f6e57d02ef4b89d22c3b6b",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_442.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

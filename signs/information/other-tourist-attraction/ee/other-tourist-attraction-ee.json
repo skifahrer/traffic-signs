@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "718",
+  "image": {
+    "file": "other-tourist-attraction-ee.svg",
+    "sha1": "a5477cdfb39e46d0a817e14fffc832f7ab36c4e1",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_718.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

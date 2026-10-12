@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "351",
+  "image": {
+    "file": "speed-limit-ee.svg",
+    "sha1": "965d96689bd39e1bc1f52e2fa0c7ff4b09c9c5fa",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_351(30).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "584b",
+  "image": {
+    "file": "hazardous-waste-collection-point-ee.svg",
+    "sha1": "f352378df9ae2ba9c51939ea80f348e9af317074",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_584b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

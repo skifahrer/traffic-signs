@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "844",
+  "image": {
+    "file": "vehicle-type-buses-ee.svg",
+    "sha1": "de6f8d3f502107b9f90bfc0f04a77eb314676341",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_844.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

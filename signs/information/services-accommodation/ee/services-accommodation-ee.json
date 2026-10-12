@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "733",
+  "image": {
+    "file": "services-accommodation-ee.svg",
+    "sha1": "2687bd5cb3d5aa7f9ec38f494af23a3ca8ce1ddf",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_733.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

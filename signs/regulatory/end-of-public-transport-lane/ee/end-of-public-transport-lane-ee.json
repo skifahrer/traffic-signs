@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "526a",
+  "image": {
+    "file": "end-of-public-transport-lane-ee.svg",
+    "sha1": "2c1876bc06460b6fe4355b3078a813b58d04bc48",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_526a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

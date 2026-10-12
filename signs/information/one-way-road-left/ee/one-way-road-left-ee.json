@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "524",
+  "image": {
+    "file": "one-way-road-left-ee.svg",
+    "sha1": "9fd27d9b5150bb4a3d4a08358e34273c59d7be52",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_524.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

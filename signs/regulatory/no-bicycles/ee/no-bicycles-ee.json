@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "321",
+  "image": {
+    "file": "no-bicycles-ee.svg",
+    "sha1": "3e4b4b59b368cbed8caa2d2d256baaa40e6228b5",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_321.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "579",
+  "image": {
+    "file": "vehicles-will-be-towed-ee.svg",
+    "sha1": "40403337c26e40773d774ea513b6674f9ea664ba",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_579.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

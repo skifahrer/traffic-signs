@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "554a",
+  "image": {
+    "file": "dead-end-side-road-right-ee.svg",
+    "sha1": "6c2f5dd2bd9625f834c6fcdf803de0c1cf5c7d40",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_554a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "138",
+  "image": {
+    "file": "quayside-ee.svg",
+    "sha1": "9b613d7ad7405cd48680ec0315360180744bc73e",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_138.svg",
+    "author": "Own work",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

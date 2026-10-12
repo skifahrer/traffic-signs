@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "661d",
+  "image": {
+    "file": "goods-vehicle-direction-turn-left-ee.svg",
+    "sha1": "99ec24e4057b1e6d32b8116183d1fec8846cf6a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_661d.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

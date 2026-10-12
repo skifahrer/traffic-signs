@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "731",
+  "image": {
+    "file": "services-youth-hostel-ee.svg",
+    "sha1": "138485b152fed2418c9e15790c4f2c9803121d57",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_731.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

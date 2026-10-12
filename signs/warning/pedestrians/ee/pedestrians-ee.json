@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "172",
+  "image": {
+    "file": "pedestrians-ee.svg",
+    "sha1": "673d25aa1bc6f6582e22fe53bc483ff9c0e9c066",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_172.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

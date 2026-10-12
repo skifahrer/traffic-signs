@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "885",
+  "image": {
+    "file": "ice-panel-ee.svg",
+    "sha1": "a57abee6260d1611fa3e6154430609a926471dec",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_885.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

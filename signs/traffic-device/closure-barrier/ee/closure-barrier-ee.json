@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "ee",
   "code": "684",
+  "image": {
+    "file": "closure-barrier-ee.svg",
+    "sha1": "99a52629e0299327bf5ff7a48ce2c41c00c1a6da",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_684.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

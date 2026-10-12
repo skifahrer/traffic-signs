@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="763.92499"
+   height="255.99998"
+   viewBox="0 0 202.12182 67.733329"
+   version="1.1"
+   id="svg32457"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Estonia road sign 523.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs32451" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="349.5"
+     inkscape:cy="44.5"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="763.925px" />
+  <metadata
+     id="metadata32454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     transform="translate(25.405816,-24.219742)"
+     inkscape:groupmode="layer">
+    <path
+       d="M -25.273524,24.352034 H 176.58362 V 91.820778 H -25.273524 Z"
+       style="opacity:1;fill:#00a7d1;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect18002"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect4896"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:31.2479;stroke-linecap:round"
+       d="M 34.826172,2.1796875 C 16.74042,2.1796875 2.1796875,16.74042 2.1796875,34.826172 V 221.17383 c 0,18.08575 14.5607325,32.64648 32.6464845,32.64648 H 729.09961 c 18.08575,0 32.64453,-14.56073 32.64453,-32.64648 V 34.826172 c 0,-18.085752 -14.55878,-32.6464845 -32.64453,-32.6464845 z m 0,7.234375 H 729.09961 c 14.07789,0 25.41016,11.3342165 25.41016,25.4121095 V 221.17383 c 0,14.07789 -11.33227,25.41211 -25.41016,25.41211 H 34.826172 c -14.077893,0 -25.4121095,-11.33422 -25.4121095,-25.41211 V 34.826172 c 0,-14.077893 11.3342165,-25.4121095 25.4121095,-25.4121095 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.405816,24.219742)"
+       inkscape:label="rect18004" />
+    <path
+       id="rect7195"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.397018;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       d="m 162.9394,58.086419 -29.1349,-17.92906 v 11.205636 l -145.433822,-10e-7 v 13.446847 l 145.433822,10e-7 v 11.205637 z"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:label="rect18006" />
+  </g>
+</svg>

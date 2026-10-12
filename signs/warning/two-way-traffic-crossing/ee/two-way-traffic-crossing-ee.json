@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "165",
+  "image": {
+    "file": "two-way-traffic-crossing-ee.svg",
+    "sha1": "07f2398bf11d62c1c79c5f42ed7edbac182552df",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_165.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

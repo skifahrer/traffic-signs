@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "523",
+  "image": {
+    "file": "one-way-road-right-ee.svg",
+    "sha1": "0dba7c98f9d324e82e72731eea521117e0d348f2",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_523.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

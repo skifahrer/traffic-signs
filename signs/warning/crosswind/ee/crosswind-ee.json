@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "182",
+  "image": {
+    "file": "crosswind-ee.svg",
+    "sha1": "f12bd57403ecb9d20bb50957e6fd3a6ff7f29240",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_182.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "592a1",
+  "image": {
+    "file": "reminder-built-up-area-speed-limit-ee.svg",
+    "sha1": "c08e5bfec65ffcde37b7bffdbd273fd0887251fc",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_592a1.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

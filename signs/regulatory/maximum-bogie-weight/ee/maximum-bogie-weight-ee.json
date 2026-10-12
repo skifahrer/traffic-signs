@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "342b",
+  "image": {
+    "file": "maximum-bogie-weight-ee.svg",
+    "sha1": "ae156a40c1cff90ab0aa6c7d5a34a752c5d33683",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_342b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

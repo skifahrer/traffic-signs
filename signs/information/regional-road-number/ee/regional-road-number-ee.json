@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "652b",
+  "image": {
+    "file": "regional-road-number-ee.svg",
+    "sha1": "4010cfb8a88942ef4bd2328c0dc97947b883b4a2",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_652b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

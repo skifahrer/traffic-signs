@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "655d",
+  "image": {
+    "file": "road-to-local-road-number-direction-turn-left-ee.svg",
+    "sha1": "22cbf373f0ab35ab5e18779bcd6c50c1c29030f1",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_655d.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

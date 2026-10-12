@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "741",
+  "image": {
+    "file": "services-picnic-site-ee.svg",
+    "sha1": "ede711950d84c5ab6d89945c040484c921e8ab21",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_741.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

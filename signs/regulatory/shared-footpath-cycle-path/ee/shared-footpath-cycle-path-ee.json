@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "435",
+  "image": {
+    "file": "shared-footpath-cycle-path-ee.svg",
+    "sha1": "b9223b814dc81eb6ca8a0dd12e6162e7bab83ea3",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_435.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

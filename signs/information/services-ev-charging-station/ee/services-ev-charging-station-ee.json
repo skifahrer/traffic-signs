@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "721e",
+  "image": {
+    "file": "services-ev-charging-station-ee.svg",
+    "sha1": "3d6f46e3f3e896a3e757f436122f0655f5f1301e",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_721e.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

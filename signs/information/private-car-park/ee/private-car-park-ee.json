@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "643c",
+  "image": {
+    "file": "private-car-park-ee.svg",
+    "sha1": "05372d0fb1822693c3dfa722ecdc08f23ca3aa3e",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_643c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

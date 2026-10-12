@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "641d",
+  "image": {
+    "file": "municipality-name-ee.svg",
+    "sha1": "a3cdeb60c64aa7b07a82f262ea9a7b6d47af0bee",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_641d.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

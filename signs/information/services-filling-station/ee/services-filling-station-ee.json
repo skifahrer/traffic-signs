@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "721a",
+  "image": {
+    "file": "services-filling-station-ee.svg",
+    "sha1": "799e11e33bdb9e11f69871cb0ac8a56231fff3eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_721a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "313a",
+  "image": {
+    "file": "no-goods-vehicles-ee.svg",
+    "sha1": "3d119bd56978c46185c46470ba6a769f67d609d7",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_313a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

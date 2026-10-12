@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "322",
+  "image": {
+    "file": "no-mopeds-ee.svg",
+    "sha1": "6e56bc9921bacbe1aee1ad529b17bcd3b28fd258",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_322.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

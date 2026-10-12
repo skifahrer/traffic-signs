@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "884",
+  "image": {
+    "file": "when-wet-ee.svg",
+    "sha1": "5c90d2cc4ab69b42e0cce2db5f449e6d9a9ceb40",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_884.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

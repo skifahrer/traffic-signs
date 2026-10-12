@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "532as",
+  "image": {
+    "file": "lane-gain-right-to-3-lanes-ee.svg",
+    "sha1": "5de427fefee9dd2edca4c9ef492f0a858df077ae",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_532as.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

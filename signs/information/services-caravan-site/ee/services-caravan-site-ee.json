@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "734",
+  "image": {
+    "file": "services-caravan-site-ee.svg",
+    "sha1": "dd6a4c8444cf41e189d6d98ba3bd9390c56a49da",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_734.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

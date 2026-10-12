@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "611",
+  "image": {
+    "file": "traffic-guide-ee.svg",
+    "sha1": "9a0493e68d7319a3e1c063020b012c98de4f07c9",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_611.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

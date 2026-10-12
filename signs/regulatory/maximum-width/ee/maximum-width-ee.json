@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "344",
+  "image": {
+    "file": "maximum-width-ee.svg",
+    "sha1": "c93d9e6e5bf749a80127a28de80ae3e3b7fc63b4",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_344.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

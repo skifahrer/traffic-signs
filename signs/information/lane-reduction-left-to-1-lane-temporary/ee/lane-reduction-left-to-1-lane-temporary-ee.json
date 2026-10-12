@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "537bk",
+  "image": {
+    "file": "lane-reduction-left-to-1-lane-temporary-ee.svg",
+    "sha1": "530dc50b5ca4cc0a8152d68a2afbb7285565a0ad",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_537bk.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "323",
+  "image": {
+    "file": "no-riders-ee.svg",
+    "sha1": "9eaf5ff949744939d0ad58981deaa1d312ae74e7",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_323.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

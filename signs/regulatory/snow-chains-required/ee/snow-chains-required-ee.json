@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "438",
+  "image": {
+    "file": "snow-chains-required-ee.svg",
+    "sha1": "fec4c4876720dff495deff3a5d7100dd6c577f26",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_438.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

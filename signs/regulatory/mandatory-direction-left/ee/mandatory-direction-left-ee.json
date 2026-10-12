@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "415",
+  "image": {
+    "file": "mandatory-direction-left-ee.svg",
+    "sha1": "8b4f2f3c5ca7729b0294923e33636a4aa0f60df6",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_415.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

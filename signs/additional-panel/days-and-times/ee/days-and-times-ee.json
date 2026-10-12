@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "857",
+  "image": {
+    "file": "days-and-times-ee.svg",
+    "sha1": "9bcd6c4d4a64deb19f42358233b88d5da2df505c",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_857.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

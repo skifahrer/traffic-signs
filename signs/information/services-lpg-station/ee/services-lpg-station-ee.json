@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "721c",
+  "image": {
+    "file": "services-lpg-station-ee.svg",
+    "sha1": "bdd5297ba5e1b29d8bb922893faf82773ca944b0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_721c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

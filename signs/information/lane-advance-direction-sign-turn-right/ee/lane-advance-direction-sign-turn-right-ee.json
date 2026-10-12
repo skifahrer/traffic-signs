@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "623a4",
+  "image": {
+    "file": "lane-advance-direction-sign-turn-right-ee.svg",
+    "sha1": "1c1d035e802bc82ba01ee3665cc98ced995d93dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_623a4.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

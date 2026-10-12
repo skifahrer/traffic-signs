@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "152",
+  "image": {
+    "file": "uneven-road-ee.svg",
+    "sha1": "690fceb50676299d41c8bb1a1483466fbdcac410",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_152.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

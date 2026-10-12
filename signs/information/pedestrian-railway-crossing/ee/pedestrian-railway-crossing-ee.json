@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "549",
+  "image": {
+    "file": "pedestrian-railway-crossing-ee.svg",
+    "sha1": "b4d8ef14b5902aa5ef26c2cf423a2c5c40587bcf",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_549.svg",
+    "author": "WWBM",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

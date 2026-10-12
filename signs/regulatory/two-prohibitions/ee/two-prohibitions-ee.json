@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "315",
+  "image": {
+    "file": "two-prohibitions-ee.svg",
+    "sha1": "1c659e9cc04d133537c0fb7b266f8e607040d0c8",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_315.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

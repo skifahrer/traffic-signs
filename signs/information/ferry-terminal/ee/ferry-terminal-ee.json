@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "585a",
+  "image": {
+    "file": "ferry-terminal-ee.svg",
+    "sha1": "0407ec58c3b7a01b519c9b556816eb275eed0fdc",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_585a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

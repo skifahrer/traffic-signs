@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "671a3",
+  "image": {
+    "file": "detour-diagram-c-ee.svg",
+    "sha1": "0c4a32c198c329709978c915e7d28a05b5675d87",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_671a3.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

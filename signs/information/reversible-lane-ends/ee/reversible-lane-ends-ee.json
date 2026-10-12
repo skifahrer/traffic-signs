@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "562",
+  "image": {
+    "file": "reversible-lane-ends-ee.svg",
+    "sha1": "e9dead0e2ca5a0025ec3e3f11362f309ab8853cb",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_562.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

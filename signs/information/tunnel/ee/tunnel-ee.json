@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "581",
+  "image": {
+    "file": "tunnel-ee.svg",
+    "sha1": "8af4961f622f52e7936b681a6bc2fa8d94c94311",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_581.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

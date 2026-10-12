@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "212",
+  "image": {
+    "file": "end-of-priority-road-ee.svg",
+    "sha1": "a7aa182c744f2186362606368850425495da6039",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_212.svg",
+    "author": "Road Administration",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

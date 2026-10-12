@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "664",
+  "image": {
+    "file": "public-event-direction-right-ee.svg",
+    "sha1": "3f046c00e2c5aa937786faeb549a859dd1782713",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_664.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

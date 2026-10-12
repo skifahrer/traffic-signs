@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "ee",
   "code": "681",
+  "image": {
+    "file": "chevron-board-right-ee.svg",
+    "sha1": "fe9897936a5619a8a6fbde093a494f435aee64ae",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_681.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

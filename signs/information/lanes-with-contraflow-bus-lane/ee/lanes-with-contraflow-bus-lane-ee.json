@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "535v",
+  "image": {
+    "file": "lanes-with-contraflow-bus-lane-ee.svg",
+    "sha1": "1a8c5b02823ed19562261ec799f091dcef5cc5b6",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_535v.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

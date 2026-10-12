@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "849",
+  "image": {
+    "file": "vehicle-type-snowmobiles-ee.svg",
+    "sha1": "94b5c8378fc7d5938e8043ce679679107c3c1665",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_849.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

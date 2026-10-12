@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "133c",
+  "image": {
+    "file": "crossroads-with-minor-road-priority-road-bends-left-ee.svg",
+    "sha1": "e5647a920aca43a807d516e7bc21ce61f2671edd",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_133c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

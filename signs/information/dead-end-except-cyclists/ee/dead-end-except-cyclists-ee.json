@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "552b",
+  "image": {
+    "file": "dead-end-except-cyclists-ee.svg",
+    "sha1": "216641753c394fb6ac374df72f7a8a70107ac5a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_Road_sign_552b.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

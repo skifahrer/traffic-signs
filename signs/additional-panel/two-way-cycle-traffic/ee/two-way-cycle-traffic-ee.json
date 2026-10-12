@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "837",
+  "image": {
+    "file": "two-way-cycle-traffic-ee.svg",
+    "sha1": "24638ba853585e34fa16e388373b744ecd8b5fe7",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_837.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

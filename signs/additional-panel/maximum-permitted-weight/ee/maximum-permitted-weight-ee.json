@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "881",
+  "image": {
+    "file": "maximum-permitted-weight-ee.svg",
+    "sha1": "e5bf782ccd6ce0d36ce51c5102d09159bd94b6cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_881.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

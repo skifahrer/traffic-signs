@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "178c",
+  "image": {
+    "file": "amphibians-ee.svg",
+    "sha1": "5c1d0115d8202166a44de81b20c502f6b1a679eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_178c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

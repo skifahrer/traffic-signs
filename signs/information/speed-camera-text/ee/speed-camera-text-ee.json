@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "559a",
+  "image": {
+    "file": "speed-camera-text-ee.svg",
+    "sha1": "7ce9eeb8a3f15e8ef8e204420d2d46b08aa209e5",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_559a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

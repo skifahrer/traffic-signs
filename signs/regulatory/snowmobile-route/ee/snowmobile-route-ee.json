@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "437",
+  "image": {
+    "file": "snowmobile-route-ee.svg",
+    "sha1": "ad1007c1ba9f67b1dc9818e4bf06cf1b4b32b532",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_437.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

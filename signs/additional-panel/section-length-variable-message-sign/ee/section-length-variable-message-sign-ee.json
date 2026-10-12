@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "821m",
+  "image": {
+    "file": "section-length-variable-message-sign-ee.svg",
+    "sha1": "0477fdd879345914717bc4a456cdfe515d437431",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_821m.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

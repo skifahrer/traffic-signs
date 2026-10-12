@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "178b",
+  "image": {
+    "file": "ducks-ee.svg",
+    "sha1": "286c54430c11ed801bf226ac15af9eb5a77a1353",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_178b.svg",
+    "author": "Original by User:Maanteeamet and vectorised by User:Manavpreet Kaur",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

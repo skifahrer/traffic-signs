@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "135a",
+  "image": {
+    "file": "side-road-left-minor-ee.svg",
+    "sha1": "b2cfb3de28ec30b201182aaa1ccd1d8bf2df85c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_135a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

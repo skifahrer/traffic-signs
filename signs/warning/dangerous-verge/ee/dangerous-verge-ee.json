@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "157a",
+  "image": {
+    "file": "dangerous-verge-ee.svg",
+    "sha1": "7c9189c1b64471d5f86cf248e153f5a434360ea2",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_157a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

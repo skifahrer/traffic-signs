@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "651",
+  "image": {
+    "file": "kilometre-marker-ee.svg",
+    "sha1": "b9e8f19c38ff65a47a992875bdbac362306309e9",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_651.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "528b",
+  "image": {
+    "file": "end-of-contraflow-bus-and-cycle-lane-ee.svg",
+    "sha1": "0ce72eed90dea07d946db37af8e4432030889e94",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_528b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

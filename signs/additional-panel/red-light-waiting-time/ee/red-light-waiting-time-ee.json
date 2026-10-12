@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "ee",
   "code": "889",
+  "image": {
+    "file": "red-light-waiting-time-ee.svg",
+    "sha1": "3c194f6023c73b7fc89ea7211d09ba7f09a5537a",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_889.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

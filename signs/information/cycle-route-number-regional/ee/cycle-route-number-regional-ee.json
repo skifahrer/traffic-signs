@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "656b",
+  "image": {
+    "file": "cycle-route-number-regional-ee.svg",
+    "sha1": "1c3629d2315631d2bb7b8ed9deccc11a652b8ef2",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_656b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

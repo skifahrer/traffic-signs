@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "721d",
+  "image": {
+    "file": "services-cng-station-ee.svg",
+    "sha1": "a2c5c02ae07e184b36b88f4d444b00cca0b477b4",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_721d.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

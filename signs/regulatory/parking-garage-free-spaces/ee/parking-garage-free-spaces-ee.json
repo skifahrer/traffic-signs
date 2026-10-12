@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "ee",
   "code": "724b",
+  "image": {
+    "file": "parking-garage-free-spaces-ee.svg",
+    "sha1": "de6f22e881ee1e4aa437b04817ea65e6de4e15af",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_724b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

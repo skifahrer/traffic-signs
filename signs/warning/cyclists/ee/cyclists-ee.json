@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "ee",
   "code": "174",
+  "image": {
+    "file": "cyclists-ee.svg",
+    "sha1": "e8f69c6b7a73c86ba868be99aabeabaaed61f62b",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_174.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

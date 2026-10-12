@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "643a2",
+  "image": {
+    "file": "private-property-ee.svg",
+    "sha1": "405f0d087269e52e1c008134691f3c5f718c7c3a",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_643a2.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",

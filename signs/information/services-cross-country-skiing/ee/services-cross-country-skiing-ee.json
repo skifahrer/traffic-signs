@@ -3,6 +3,14 @@
   "category": "information",
   "country": "ee",
   "code": "742c",
+  "image": {
+    "file": "services-cross-country-skiing-ee.svg",
+    "sha1": "d4bf91853bf584cc6ab2704482775e7a78808415",
+    "source": "https://commons.wikimedia.org/wiki/File:Estonia_road_sign_742c.svg",
+    "author": "Government of Estonia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "ee-wikipedia",
     "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
