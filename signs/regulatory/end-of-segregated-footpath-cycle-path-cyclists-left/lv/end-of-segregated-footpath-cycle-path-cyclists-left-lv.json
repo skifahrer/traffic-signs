@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "lv",
+  "code": "420",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 420.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "national-road-number-and-direction",
+  "category": "information",
+  "country": "lv",
+  "code": "744",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 744.svg"
+  }
+}

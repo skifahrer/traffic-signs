@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-pass-either-side",
+  "category": "traffic-device",
+  "country": "lv",
+  "code": "905",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Latvia",
+    "file": "LV road sign 905.svg"
+  }
+}

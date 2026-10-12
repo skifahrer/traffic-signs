@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-3-arrows-left",
+  "category": "traffic-device",
+  "country": "lv",
+  "code": "902",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",
+    "file": "LV road sign 902.svg"
+  }
+}

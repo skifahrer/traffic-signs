@@ -1,0 +1,11 @@
+{
+  "sign": "manner-of-parking-j",
+  "category": "additional-panel",
+  "country": "lv",
+  "code": "839",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 839.svg"
+  }
+}

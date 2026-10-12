@@ -1,0 +1,11 @@
+{
+  "sign": "direction-board-hatched-right",
+  "category": "traffic-device",
+  "country": "lv",
+  "code": "908",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",
+    "file": "LV road sign 908.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-path",
+  "category": "regulatory",
+  "country": "lv",
+  "code": "413",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 413.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-b",
+  "category": "information",
+  "country": "lv",
+  "code": "701B",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 701B.svg"
+  }
+}
