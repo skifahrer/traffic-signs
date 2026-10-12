@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-all-restrictions",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "C14",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C14.svg"
+  }
+}

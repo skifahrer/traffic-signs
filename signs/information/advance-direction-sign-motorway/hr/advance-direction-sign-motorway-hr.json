@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign-motorway",
+  "category": "information",
+  "country": "hr",
+  "code": "D02",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Prometni znak D02.svg"
+  }
+}

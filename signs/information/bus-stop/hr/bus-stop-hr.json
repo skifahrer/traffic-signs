@@ -1,0 +1,11 @@
+{
+  "sign": "bus-stop",
+  "category": "information",
+  "country": "hr",
+  "code": "C47",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C47.svg"
+  }
+}

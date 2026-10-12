@@ -1,0 +1,11 @@
+{
+  "sign": "motorway-junction-number",
+  "category": "information",
+  "country": "hr",
+  "code": "C110",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Prometni znak C126.svg"
+  }
+}

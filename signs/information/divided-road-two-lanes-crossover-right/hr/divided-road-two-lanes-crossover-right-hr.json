@@ -1,0 +1,11 @@
+{
+  "sign": "divided-road-two-lanes-crossover-right",
+  "category": "information",
+  "country": "hr",
+  "code": "C107-5",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C107-5.svg"
+  }
+}

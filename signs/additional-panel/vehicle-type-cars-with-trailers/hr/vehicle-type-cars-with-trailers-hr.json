@@ -1,0 +1,11 @@
+{
+  "sign": "vehicle-type-cars-with-trailers",
+  "category": "additional-panel",
+  "country": "hr",
+  "code": "E06-5",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Croatia road sign E13.svg"
+  }
+}

@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Belgium (`be`), Canada (`ca`), Czech Republic (`cz`), Denmark (`dk`), Estonia (`ee`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Latvia (`lv`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Belgium (`be`), Canada (`ca`), Croatia (`hr`), Czech Republic (`cz`), Denmark (`dk`), Estonia (`ee`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Latvia (`lv`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -34,7 +34,7 @@ Australia (`au`), Austria (`at`), Belgium (`be`), Canada (`ca`), Czech Republic 
 3. ~~Ireland (`ie`), Netherlands (`nl`), Belgium (`be`)~~ added
 4. Sweden (`se`), Norway (`no`), Iceland (`is`)
 5. Russia (`ru`), ~~Latvia (`lv`)~~ added, Lithuania (`lt`)
-6. Croatia (`hr`), Moldova (`md`), Belarus (`by`)
+6. ~~Croatia (`hr`)~~ added, Moldova (`md`), Belarus (`by`)
 7. Switzerland and Liechtenstein (`ch`), Georgia (`ge`), Serbia (`rs`)
 8. Montenegro (`me`), Bosnia and Herzegovina (`ba`), Azerbaijan (`az`)
 9. North Macedonia (`mk`), Slovenia (`si`), Turkey (`tr`)
@@ -78,7 +78,7 @@ Australia (`au`), Austria (`at`), Belgium (`be`), Canada (`ca`), Czech Republic 
 | 13 | [Russia](https://en.wikipedia.org/wiki/Road_signs_in_Russia) | `ru` | 377 | ✅ ready | codes in captions |
 | 14 | [Latvia](https://en.wikipedia.org/wiki/Road_signs_in_Latvia) | `lv` | 362 | ✅ added | codes in image names |
 | 15 | [Lithuania](https://en.wikipedia.org/wiki/Road_signs_in_Lithuania) | `lt` | 354 | ✅ ready | codes in image names |
-| 16 | [Croatia](https://en.wikipedia.org/wiki/Road_signs_in_Croatia) | `hr` | 329 | ✅ ready | codes in image names |
+| 16 | [Croatia](https://en.wikipedia.org/wiki/Road_signs_in_Croatia) | `hr` | 329 | ✅ added | codes in image names |
 | 17 | [Moldova](https://en.wikipedia.org/wiki/Road_signs_in_Moldova) | `md` | 328 | ✅ ready | codes in image names |
 | 18 | [Belarus](https://en.wikipedia.org/wiki/Road_signs_in_Belarus) | `by` | 310 | ✅ ready | codes in image names |
 | 19 | [Switzerland and Liechtenstein](https://en.wikipedia.org/wiki/Road_signs_in_Switzerland_and_Liechtenstein) | `ch` | 301 | ✅ ready | codes in captions |

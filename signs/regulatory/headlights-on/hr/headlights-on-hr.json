@@ -1,0 +1,11 @@
+{
+  "sign": "headlights-on",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "B48",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign B48.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "services-cng-station",
+  "category": "information",
+  "country": "hr",
+  "code": "C42-2",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C42-2.svg"
+  }
+}

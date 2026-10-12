@@ -1,0 +1,11 @@
+{
+  "sign": "time-periods-two",
+  "category": "additional-panel",
+  "country": "hr",
+  "code": "E04-1",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Croatia",
+    "file": "HR road sign E04-1.svg"
+  }
+}

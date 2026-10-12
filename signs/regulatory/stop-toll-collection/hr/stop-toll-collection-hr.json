@@ -1,0 +1,11 @@
+{
+  "sign": "stop-toll-collection",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "B33-1",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign B33-1.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "direction-to-emergency-exit",
+  "category": "information",
+  "country": "hr",
+  "code": "C121",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Croatian road sign C125.svg"
+  }
+}

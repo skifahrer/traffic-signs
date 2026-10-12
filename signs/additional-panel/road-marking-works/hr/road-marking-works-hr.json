@@ -1,0 +1,11 @@
+{
+  "sign": "road-marking-works",
+  "category": "additional-panel",
+  "country": "hr",
+  "code": "E17",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Croatia road sign E40.svg"
+  }
+}
