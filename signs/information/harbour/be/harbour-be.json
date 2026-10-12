@@ -1,0 +1,11 @@
+{
+  "sign": "harbour",
+  "category": "information",
+  "country": "be",
+  "code": "S3",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S3.svg"
+  }
+}

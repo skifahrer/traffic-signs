@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-single-track",
+  "category": "warning",
+  "country": "be",
+  "code": "A45",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",
+    "file": "Belgian road sign A45.svg"
+  }
+}

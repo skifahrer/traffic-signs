@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping",
+  "category": "regulatory",
+  "country": "be",
+  "code": "E3",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",
+    "file": "Belgian road sign E3.svg"
+  }
+}

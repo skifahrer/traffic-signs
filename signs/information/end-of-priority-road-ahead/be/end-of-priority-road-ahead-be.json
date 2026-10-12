@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-priority-road-ahead",
+  "category": "information",
+  "country": "be",
+  "code": "B13",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",
+    "file": "Belgian road sign B13.svg"
+  }
+}

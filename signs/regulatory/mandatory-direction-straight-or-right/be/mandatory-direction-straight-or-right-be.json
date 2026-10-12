@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight-or-right",
+  "category": "regulatory",
+  "country": "be",
+  "code": "D3b",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",
+    "file": "Belgian road sign D03.svg"
+  }
+}

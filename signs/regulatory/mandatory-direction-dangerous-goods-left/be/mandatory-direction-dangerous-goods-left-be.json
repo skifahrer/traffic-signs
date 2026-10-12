@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-dangerous-goods-left",
+  "category": "regulatory",
+  "country": "be",
+  "code": "D4 (links)",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign D4 links.svg"
+  }
+}

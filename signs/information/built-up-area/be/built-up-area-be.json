@@ -1,0 +1,11 @@
+{
+  "sign": "built-up-area",
+  "category": "information",
+  "country": "be",
+  "code": "F1a (horizontaal)",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign F1a horizontaal.svg"
+  }
+}

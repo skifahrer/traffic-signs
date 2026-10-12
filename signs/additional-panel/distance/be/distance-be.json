@@ -1,0 +1,11 @@
+{
+  "sign": "distance",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "GIa",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",
+    "file": "Belgian traffic sign GIa 150.svg"
+  }
+}

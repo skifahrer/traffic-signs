@@ -1,0 +1,11 @@
+{
+  "sign": "except-bicycles-mopeds-class-a-and-speed-pedelecs",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "M12",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",
+    "file": "Belgian traffic sign M12.svg"
+  }
+}

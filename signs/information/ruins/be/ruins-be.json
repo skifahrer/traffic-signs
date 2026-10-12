@@ -1,0 +1,11 @@
+{
+  "sign": "ruins",
+  "category": "information",
+  "country": "be",
+  "code": "S32",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S32.svg"
+  }
+}

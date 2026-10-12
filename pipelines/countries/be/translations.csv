@@ -1,0 +1,281 @@
+code,category,slug,name_en,name_nl-BE
+A1a,warning,bend-left,Bend (left),Gevaarlijke bocht naar links
+A1b,warning,bend-right,Bend (right),Gevaarlijke bocht naar rechts
+A1c,warning,double-bend-left,Double bend (first to the left),"Dubbele bocht of meer dan twee bochten, de eerste naar links"
+A1d,warning,double-bend-right,Double bend (first to the right),"Dubbele bocht of meer dan twee bochten, de eerste naar rechts"
+A3,warning,steep-descent,Steep descent,Gevaarlijke daling
+A5,warning,steep-ascent,Steep ascent,Steile helling
+A7a,warning,road-narrows-both-sides,Road narrows (from both sides),Rijbaanversmalling
+A7b,warning,road-narrows-left,Road narrows (from the left),Rijbaanversmalling langs links
+A7c,warning,road-narrows-right,Road narrows (from the right),Rijbaanversmalling langs rechts
+A9,warning,movable-bridge,Movable bridge,Beweegbare brug
+A11,warning,quayside,Quayside or river bank,Uitweg op een kaai of oever
+A13,warning,uneven-road,Uneven road,Overdwarse uitholling of ezelsrug
+A14,warning,speed-bump,Speed bump,Verhoogde inrichting(en)
+A15,warning,slippery-road,Slippery road,Glibberige rijbaan
+A17,warning,loose-gravel,Loose gravel,Kiezelprojectie
+A19,warning,fallen-rocks,Fallen rocks,Vallende stenen
+A21,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Oversteekplaats voor voetgangers
+A23,warning,children,Children,Plaats waar speciaal veel kinderen komen
+A25,warning,cyclists,Cyclists,Oversteekplaats voor fietsers en bestuurders van tweewielige bromfietsen
+A27,warning,wild-animals,Wild animals,Doortocht van groot wild
+A29,warning,farm-animals,Farm animals,Doortocht van vee
+A31,warning,roadworks,Roadworks,Werken
+A33,warning,traffic-signals,Traffic signals,Verkeerslichten
+A35,warning,low-flying-aircraft,Low-flying aircraft,Overtocht van vliegtuigen op geringe hoogte
+A37,warning,crosswind,Crosswind,Zijwind
+A39,warning,two-way-traffic,Two-way traffic,Verkeer toegelaten in twee richtingen na een gedeelte van de rijbaan met eenrichtingsverkeer
+A41,warning,level-crossing-with-barriers,Level crossing with barriers,Overweg met slagbomen
+A43,warning,level-crossing-without-barriers,Level crossing without barriers,Overweg zonder slagbomen
+A45,warning,level-crossing-cross-single-track,Level crossing cross (single track),Overweg voor enkel spoor
+A47,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Overweg voor twee of meer sporen
+A49,warning,trams,Trams,Kruising van een openbare weg door een of meer in de rijbaan aangelegde sporen
+A50,warning,queues,Queues likely,File
+A51,warning,danger,Other danger,Gevaar dat niet door een speciaal symbool wordt bepaald
+B1,regulatory,give-way,Give way,Voorrang verlenen
+B3,warning,give-way-ahead,Give way ahead,Aankondiging van het verkeersbord B1
+B5,regulatory,stop,"Stop, give way",Stoppen en voorrang verlenen
+B7,warning,stop-ahead,Stop ahead,Aankondiging van het verkeersbord B5
+B9,information,priority-road,Priority road,Voorrangsweg
+B11,information,end-of-priority-road,End of priority road,Einde van voorrangsweg
+B13,information,end-of-priority-road-ahead,End of priority road ahead,Aankondiging van het verkeersbord B11
+B15,information,priority-intersection,Intersection with priority,Voorrang op het volgende kruispunt
+B17,warning,intersection,Intersection,Kruispunt waar de voorrang van rechts geldt
+B19,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,"Smalle doorgang, voorrang verlenen aan tegemoetkomende bestuurders"
+B21,information,priority-over-oncoming-traffic,Priority over oncoming traffic,"Smalle doorgang, voorrang ten opzichte van tegemoetkomende bestuurders"
+B22,regulatory,cyclists-may-turn-right-on-red-light,Cyclists may turn right on a red light (giving way),"Fietsers mogen bij rood of oranjegeel licht rechts afslaan, mits voorrang te verlenen"
+B23,regulatory,cyclists-may-go-straight-on-red-light,Cyclists may go straight on at a red light (giving way),"Fietsers mogen bij rood of oranjegeel licht rechtdoor rijden, mits voorrang te verlenen"
+C1,regulatory,no-entry,No entry,Verboden richting voor iedere bestuurder
+C3,regulatory,no-vehicles,No vehicles,"Verboden toegang, in beide richtingen, voor ieder bestuurder"
+C5,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Verboden toegang voor bestuurders van motorvoertuigen met meer dan twee wielen en van motorfietsen met zijspan
+C6,regulatory,no-quads,No entry for quads,Verboden toegang voor bestuurders van quads
+C7,regulatory,no-motorcycles,No entry for motorcycles,Verboden toegang voor bestuurders van motorfietsen
+C9,regulatory,no-mopeds,No entry for mopeds,Verboden toegang voor bestuurders van bromfietsen
+C11,regulatory,no-bicycles,No entry for bicycles,Verboden toegang voor bestuurders van rijwielen
+C13,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Verboden toegang voor bestuurders van gespannen
+C15,regulatory,no-riders,No entry for riders on animals,Verboden toegang voor ruiters
+C17,regulatory,no-handcarts,No entry for handcarts,Verboden toegang voor bestuurders van handkarren
+C19,regulatory,no-pedestrians,No entry for pedestrians,Verboden toegang voor voetgangers
+C21,regulatory,maximum-weight,Maximum weight,Verboden toegang voor voertuigen waarvan de massa in beladen toestand hoger is dan aangeduid
+C22,regulatory,no-buses,No entry for buses and trolleybuses,Verboden toegang voor autocars
+C23,regulatory,no-goods-vehicles,No entry for goods vehicles,Verboden toegang voor bestuurders van voertuigen gebruikt voor het vervoer van zaken
+C24a,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Verboden toegang voor bestuurders van voertuigen die gevaarlijke goederen vervoeren
+C24b,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Verboden toegang voor bestuurders van voertuigen die ontvlambare of ontplofbare stoffen vervoeren
+C24c,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Verboden toegang voor bestuurders van voertuigen die verontreinigende stoffen vervoeren
+C25,regulatory,maximum-length,Maximum length,Verboden toegang voor voertuigen of slepen die langer zijn dan aangeduid
+C27,regulatory,maximum-width,Maximum width,Verboden toegang voor voertuigen die breder zijn dan aangeduid
+C29,regulatory,maximum-height,Maximum height,Verboden toegang voor voertuigen die hoger zijn dan aangeduid
+C31a,regulatory,no-left-turn,No left turn,Verbod links af te slaan aan het volgend kruispunt
+C31b,regulatory,no-right-turn,No right turn,Verbod rechts af te slaan aan het volgend kruispunt
+C33,regulatory,no-u-turn,No U-turn,Verbod te keren
+C35,regulatory,no-overtaking,No overtaking,Verbod links in te halen
+C37,regulatory,end-of-no-overtaking,End of no overtaking,Einde verbod opgelegd door het verkeersbord C35
+C39,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,"Verbod voor vrachtauto's van meer dan 3,5 t links in te halen"
+C41,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Einde verbod opgelegd door het verkeersbord C39
+C43 (30),regulatory,speed-limit-30,Speed limit (30 km/h),Snelheidsbeperking (30 km/u)
+C43 (50),regulatory,speed-limit-50,Speed limit (50 km/h),Snelheidsbeperking (50 km/u)
+C45,regulatory,end-of-speed-limit-50,End of speed limit (50 km/h),Einde van de snelheidsbeperking (50 km/u)
+C46,regulatory,end-of-all-restrictions,End of all restrictions,Einde van alle plaatselijke verbodsbepalingen opgelegd aan de voertuigen in beweging
+C47,regulatory,stop-toll-collection,Stop (toll collection),"Tolpost, verbod voorbij te rijden zonder te stoppen"
+D1a,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Verplichte rijrichting rechtdoor
+D1b (links),regulatory,turn-left,Turn left,Verplichte rijrichting links
+D1b (rechts),regulatory,turn-right,Turn right,Verplichte rijrichting rechts
+D1c,regulatory,pass-on-left,Pass on the left,Verplicht links voorbij te rijden
+D1d,regulatory,pass-on-right,Pass on the right,Verplicht rechts voorbij te rijden
+D1e,regulatory,mandatory-direction-left,Mandatory direction (left),Verplichte rijrichting links (na het bord)
+D1f,regulatory,mandatory-direction-right,Mandatory direction (right),Verplichte rijrichting rechts (na het bord)
+D3a,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Verplichte rijrichting rechtdoor of links
+D3b,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Verplichte rijrichting rechtdoor of rechts
+D4 (links),regulatory,mandatory-direction-dangerous-goods-left,Mandatory direction for vehicles carrying dangerous goods (left),Verplichte rijrichting links voor voertuigen die gevaarlijke goederen vervoeren
+D4 (rechtdoor),regulatory,mandatory-direction-dangerous-goods-straight,Mandatory direction for vehicles carrying dangerous goods (straight ahead),Verplichte rijrichting rechtdoor voor voertuigen die gevaarlijke goederen vervoeren
+D4 (rechts),regulatory,mandatory-direction-dangerous-goods-right,Mandatory direction for vehicles carrying dangerous goods (right),Verplichte rijrichting rechts voor voertuigen die gevaarlijke goederen vervoeren
+D5,regulatory,roundabout,Roundabout,Verplicht rondgaand verkeer
+D7,regulatory,cycle-path,Cycle path,Verplicht fietspad
+D9a,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),"Deel van de openbare weg voorbehouden voor voetgangers, fietsers en tweewielige bromfietsen klasse A"
+D9b,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),"Deel van de openbare weg voorbehouden voor voetgangers, fietsers en tweewielige bromfietsen klasse A"
+D10,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Deel van de openbare weg voorbehouden voor voetgangers en fietsers
+D11,regulatory,footpath,Footpath,Verplichte weg voor voetgangers
+D13,regulatory,bridleway,Bridleway,Verplichte weg voor ruiters
+E1,regulatory,no-parking,No parking,Parkeerverbod
+E3,regulatory,no-stopping,No stopping,Stilstaan en parkeren verboden
+E5,regulatory,no-parking-first-half-of-month,No parking (1st to 15th of the month),Parkeerverbod van de 1e tot de 15e van de maand
+E7,regulatory,no-parking-second-half-of-month,No parking (16th to the end of the month),Parkeerverbod van de 16e tot het einde van de maand
+E9a,regulatory,parking,Parking,Parkeren toegelaten
+E9a (handicap),regulatory,disabled-parking-place,Parking for disabled badge holders only,Parkeerplaats voorbehouden voor personen met een handicap
+E9a (parkeerschijf),regulatory,parking-with-disc,Parking with parking disc,Parkeren toegelaten met parkeerschijf
+E9b,regulatory,parking-cars-only,Parking for cars only,"Parkeren uitsluitend voor motorfietsen, personenauto's, auto's voor dubbelgebruik en minibussen"
+E9c,regulatory,parking-goods-vehicles-only,Parking for goods vehicles only,Parkeren uitsluitend voor lichte vrachtauto's en vrachtauto's
+E9d,regulatory,parking-coaches-only,Parking for coaches only,Parkeren uitsluitend voor autocars
+E9e,information,parking-on-pavement,Parking on the pavement,Verplicht parkeren op de berm of op het trottoir
+E9f,regulatory,parking-partly-on-pavement,Parking partly on the pavement,Verplicht parkeren deels op de berm of op het trottoir
+E9g,regulatory,parking-on-carriageway,Parking on the carriageway,Verplicht parkeren op de rijbaan
+E9h,information,caravan-parking,Parking for caravans and motorhomes,Parkeren uitsluitend voor kampeerauto's
+E9i,regulatory,parking-motorcycles-only,Parking for motorcycles only,Parkeren uitsluitend voor motorfietsen
+E9j,regulatory,parking-reserved-during-times,Parking reserved for certain vehicles at certain times,Parkeren in bepaalde tijdsperioden voorbehouden voor bepaalde categorieën van voertuigen
+E11,regulatory,alternate-side-parking-zone,Alternate-side parking zone (twice a month),Halfmaandelijks parkeren in de hele bebouwde kom
+F1a (horizontaal),information,built-up-area,Built-up area,Begin van een bebouwde kom
+F1a (verticaal),information,built-up-area-vertical,Built-up area (vertical sign),Begin van een bebouwde kom (rechtop)
+F1b (horizontaal),information,built-up-area-without-name,Built-up area (without place name),Begin van een bebouwde kom (zonder plaatsnaam)
+F1b (verticaal),information,built-up-area-without-name-vertical,"Built-up area (without place name, vertical sign)","Begin van een bebouwde kom (zonder plaatsnaam, rechtop)"
+F3a (horizontaal),information,end-of-built-up-area,End of built-up area,Einde van een bebouwde kom
+F3a (verticaal),information,end-of-built-up-area-vertical,End of built-up area (vertical sign),Einde van een bebouwde kom (rechtop)
+F3b (horizontaal),information,end-of-built-up-area-without-name,End of built-up area (without place name),Einde van een bebouwde kom (zonder plaatsnaam)
+F3b (verticaal),information,end-of-built-up-area-without-name-vertical,"End of built-up area (without place name, vertical sign)","Einde van een bebouwde kom (zonder plaatsnaam, rechtop)"
+F4a,regulatory,speed-limit-zone-30,Speed limit zone (30 km/h),Begin van een zone met een snelheidsbeperking van 30 km/u
+F4b,regulatory,end-of-speed-limit-zone-30,End of speed limit zone (30 km/h),Einde van een zone met een snelheidsbeperking van 30 km/u
+F5,information,motorway,Motorway,Begin van een autosnelweg
+F7,information,end-of-motorway,End of motorway,Einde van een autosnelweg
+F8,information,tunnel,Tunnel,Tunnel
+F9,information,expressway,Expressway,Autoweg
+F11,information,end-of-expressway,End of expressway,Einde van een autoweg
+F12a,information,residential-zone,Residential zone,Begin van een woonerf of van een erf
+F12b,information,end-of-residential-zone,End of residential zone,Einde van een woonerf of van een erf
+F13,information,lane-directions,Directions of the lanes,Aankondiging van de keuze van een rijstrook
+F14,information,advanced-stop-box-for-cyclists,Advanced stop box for cyclists,Opstelvak voor fietsers en bestuurders van tweewielige bromfietsen
+F15,information,lane-advance-direction-sign,Advance direction sign by lane,Keuze van een richting
+F17,information,bus-lane-start,Start of bus lane,Busstrook
+F18,regulatory,bus-and-tram-lane,Bus and tram lane,Bijzondere overrijdbare bedding
+F19,information,one-way-road,One-way road,Openbare weg met eenrichtingsverkeer
+F21,regulatory,pass-on-either-side,Pass on either side,Rechts of links voorbijrijden toegelaten
+F23a,information,road-number,Road number,Nummerbord van een gewone weg
+F23b,information,motorway-number,Motorway number,Nummerbord van een autosnelweg
+F23c,information,european-road-number,European road number,Nummerbord van een internationale weg
+F23d,information,ring-road-number,Ring road number,Nummerbord van een ringweg
+F25,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),Voorwegwijzer
+F27,information,advance-direction-sign,Advance direction sign,Voorwegwijzer
+F29,information,direction-sign,Direction sign,Wegwijzer
+F31,information,direction-sign-motorway,Direction sign (motorway),Wegwijzer naar een autosnelweg
+F33a,information,direction-sign-ring-road,Direction sign (ring road),Wegwijzer naar een ringweg
+F33b,information,direction-sign-valley-or-watercourse,Direction sign (valley or watercourse),Wegwijzer naar een vallei of waterloop
+F33c,information,direction-sign-tourist-destination,Direction sign (tourist attraction or sports centre),Wegwijzer naar toeristische attracties of sportcentra
+F34a,information,direction-sign-public-facilities,Direction sign (public facilities),Wegwijzer naar etablissementen van openbaar nut
+F34b1,information,cycle-direction-sign,Direction sign for cyclists,Wegwijzer voor bepaalde weggebruikers
+F34b2,information,cycle-direction-sign-b,Direction sign for cyclists (variant b),Wegwijzer voor bepaalde weggebruikers (alternatief formaat)
+F34c1,information,cycle-tourist-direction-sign,Tourist direction sign for cyclists,Wegwijzer voor bepaalde weggebruikers naar toeristische attracties of sportcentra
+F34c2,information,cycle-tourist-direction-sign-b,Tourist direction sign for cyclists (variant b),Wegwijzer voor bepaalde weggebruikers naar toeristische attracties of sportcentra (alternatief formaat)
+F35,information,tourist-destination-direction-sign,Tourist destination direction sign,Wegwijzer naar toeristische attracties of sportcentra
+F37,information,direction-sign-accommodation,"Direction sign (hotels, campsites, restaurants)","Wegwijzer naar hotels, motels, kampeerterreinen en restaurants"
+F39,information,detour-announcement,Detour announcement,Voorwegwijzer wegomlegging
+F41,information,detour-direction-sign,Detour direction sign,Wegomlegging
+F43,information,place-name-sign,Place name,Plaatsnaambord
+F45,information,dead-end,Dead end,Doodlopende weg
+F45b,information,dead-end-except-pedestrians-and-cyclists,Dead end (passable for pedestrians and cyclists),"Doodlopende weg, uitgezonderd voor voetgangers en fietsers"
+F47,information,end-of-roadworks,End of roadworks,Einde van de werken
+F49,information,pedestrian-crossing,Pedestrian crossing,Oversteekplaats voor voetgangers
+F50,information,cycle-crossing,Cycle crossing,Oversteekplaats voor fietsers en bestuurders van tweewielige bromfietsen
+F50bis,information,turning-traffic-cyclists-crossing,Turning traffic: cyclists or pedestrians crossing,Waarschuwing voor afslaande bestuurders voor overstekende fietsers of voetgangers
+F51a,information,pedestrian-subway,Pedestrian subway,Ondergrondse oversteekplaats voor voetgangers
+F51b,information,pedestrian-footbridge,Pedestrian footbridge,Bovengrondse oversteekplaats voor voetgangers
+F52,information,emergency-exit,Emergency exit,Nooduitgang
+F52bis,information,emergency-exit-route,Route to the nearest emergency exit,Vluchtroute
+F53,information,services-hospital,Services (hospital),Verplegingsinrichting
+F55,information,services-first-aid,Services (first aid),Hulppost
+F56,information,fire-extinguisher,Fire extinguisher,Brandblusapparaat
+F57,information,river-name,River or valley name,Waterloop
+F59,information,parking-direction,Direction to a parking place,Aankondiging van een parking
+F60,regulatory,parking-garage,Parking (car park building),Aankondiging van een overdekte parking
+F61,information,services-telephone,Services (telephone),Telefoon
+F62,information,services-emergency-telephone,Services (emergency telephone),Noodtelefoon
+F63,information,services-filling-station,Services (filling station),Tankstation
+F65,information,services-hotel-or-motel,Services (hotel or motel),Hotel of motel
+F67,information,services-restaurant,Services (roadside restaurant),Restaurant
+F69,information,services-cafe,Services (café or snack bar open every day),Drankgelegenheid
+F71,information,services-tent-camp,Services (tent camp),Kampeerterrein
+F73,information,services-caravan-site,Services (caravan site),Caravanterrein
+F75,information,services-youth-hostel,Services (youth hostel),Jeugdherberg
+F77,information,services-information-point,Services (information point),Toeristisch informatiepunt
+F79,information,lane-reduction,Lane reduction,Aankondiging vermindering van het aantal rijstroken
+F81,information,lane-shift-ahead,Lane shift ahead,Aankondiging uitwijking van de rijstroken
+F83,information,median-crossover-ahead,Crossover through the central reserve ahead,Aankondiging doorsteek middenberm
+F85,information,two-way-traffic-on-one-carriageway,Two-way traffic on part of a one-way carriageway,Verkeer toegelaten in beide richtingen op een deel van de rijbaan met eenrichtingsverkeer
+F87,information,raised-carriageway,Raised carriageway,Verhoogde inrichting(en)
+F89,information,lane-restriction-ahead,Restriction in the lane ahead,Aankondiging van een gevaar of reglementering per rijstrook
+F91,information,lane-restriction,Restriction in the lane,Gevaar of reglementering per rijstrook
+F93,information,services-traffic-radio,Services (traffic information radio),Radio verkeersinformatie
+F95,information,emergency-escape-lane-left,Emergency escape lane (to the left),Noodstopstrook
+F97,information,lane-narrowing,Narrowing by one lane,Versmalling van de rijbaan met één rijstrook
+F98,information,emergency-lay-by,Emergency lay-by,Vluchthaven
+F99a,information,greenway,Greenway (pedestrians and non-motorised vehicles),"Begin van een weg voorbehouden voor voetgangers, fietsers en ruiters"
+F99b,information,path-for-pedestrians-and-cyclists,Path for pedestrians and cyclists only,Begin van een weg voorbehouden voor voetgangers en fietsers
+F99c,information,path-for-agricultural-vehicles-pedestrians-cyclists-and-riders,"Path for agricultural vehicles, pedestrians, cyclists and horse riders only","Begin van een weg voorbehouden voor landbouwvoertuigen, voetgangers, fietsers en ruiters"
+F101a,information,end-of-greenway,End of greenway,"Einde van een weg voorbehouden voor voetgangers, fietsers en ruiters"
+F101b,information,end-of-path-for-pedestrians-and-cyclists,End of path for pedestrians and cyclists only,Einde van een weg voorbehouden voor voetgangers en fietsers
+F101c,information,end-of-path-for-agricultural-vehicles-pedestrians-cyclists-and-riders,"End of path for agricultural vehicles, pedestrians, cyclists and horse riders only","Einde van een weg voorbehouden voor landbouwvoertuigen, voetgangers, fietsers en ruiters"
+F103,information,pedestrian-zone,Pedestrian zone,Begin van een voetgangerszone
+F105,information,end-of-pedestrian-zone,End of pedestrian zone,Einde van een voetgangerszone
+F111,information,bicycle-road,Bicycle road,Begin van een fietszone
+F117,regulatory,low-emission-zone,Low emission zone,Begin van een lage-emissiezone
+F118,regulatory,end-of-low-emission-zone,End of low emission zone,Einde van een lage-emissiezone
+F119,information,airport-zone,Airport zone,Begin van een luchthavengebied
+F120,information,end-of-airport-zone,End of airport zone,Einde van een luchthavengebied
+GIa,additional-panel,distance,Distance,Afstand tot het gevaar of de reglementering
+GIb,additional-panel,stop-ahead-panel,Stop ahead,Afstand tot het verkeersbord B5
+GII,additional-panel,section-length,Length of section,Lengte van het gevaarlijke gedeelte
+GIII (ijzel),additional-panel,ice-panel,Ice,IJzel
+GIII (vervormd wegdek),additional-panel,uneven-road-surface-panel,Uneven road surface,Vervormd wegdek
+GIX,additional-panel,road-narrows-one-lane-panel,Road narrows by one lane,Rijbaanversmalling met de omvang van een rijstrook
+GV (van 7 tot 19u),additional-panel,time-period,Time period (e.g. 16–18 h),Van 7 tot 19 u
+GV (van maandag tot vrijdag),additional-panel,days,Days of the week,Van maandag tot vrijdag
+GVI,additional-panel,repetition-panel,Repetition of the sign,Herhaling van het verbod
+GVII (betalend),additional-panel,with-charge,Subject to a charge,Betalend parkeren
+GVII (ticket),additional-panel,pay-and-display,Pay and display (ticket from a parking meter),Parkeren met ticket van een parkeermeter
+GVIIa,additional-panel,weight-limit,Weight limit,Beperking tot voertuigen met een massa hoger dan aangeduid
+GVIIb,additional-panel,parking-disc-panel,Parking disc required,Parkeerschijf verplicht
+GVIIc,additional-panel,maximum-duration,Maximum duration,Beperkte parkeertijd
+GVIId (elektrische wagens),additional-panel,electric-vehicles-only,Electric vehicles,Voorbehouden voor elektrische voertuigen
+GVIId (handicap),additional-panel,disabled-parking,Parking for disabled persons,Voorbehouden voor personen met een handicap
+GVIId (taxi's),additional-panel,taxis-only,Taxis,Voorbehouden voor taxi's
+GVIII,additional-panel,priority-road-course,Course of the priority road,Verloop van de voorrangsweg
+GXI,additional-panel,applies-to-exit-only,Applies only to the exit,Alleen van toepassing op de uitrit
+GXa,additional-panel,section-start,Start of section,Begin van de reglementering
+GXb,additional-panel,section-end,End of section,Einde van de reglementering
+GXc,additional-panel,section-short,Short section (30 m or less),Reglementering over een korte afstand
+GXd,additional-panel,section-continues,Section continues,Herhaling van de reglementering
+M1,additional-panel,for-bicycles,For bicycles,Alleen voor fietsers
+M2,additional-panel,except-bicycles,Except bicycles,Uitgezonderd fietsers
+M3,additional-panel,except-bicycles-and-mopeds,Except bicycles and mopeds,Uitgezonderd fietsers en bromfietsers klasse A
+M3bis,additional-panel,except-bicycles-mopeds-and-speed-pedelecs,"Except bicycles, mopeds and speed pedelecs","Uitgezonderd fietsers, bromfietsers klasse A en B en speedpedelecs"
+M4,additional-panel,cyclists-contraflow-entry,Cyclists allowed to enter against the traffic,Fietsers toegelaten in beide richtingen
+M5,additional-panel,cyclists-and-mopeds-contraflow-entry,Cyclists and mopeds allowed to enter against the traffic,Fietsers en bromfietsers klasse A toegelaten in beide richtingen
+M5bis,additional-panel,cyclists-mopeds-and-speed-pedelecs-contraflow-entry,"Cyclists, mopeds and speed pedelecs allowed to enter against the traffic","Fietsers, bromfietsers klasse A en B en speedpedelecs toegelaten in beide richtingen"
+M6,additional-panel,mopeds-class-b-must-use-cycle-path,Mopeds (class B) must use the cycle path,Fietspad verplicht voor bromfietsers klasse B
+M7,additional-panel,mopeds-class-b-must-not-use-cycle-path,Mopeds (class B) must not use the cycle path,Fietspad verboden voor bromfietsers klasse B
+M8,additional-panel,for-bicycles-and-mopeds,For bicycles and mopeds,Alleen voor fietsers en bromfietsers
+M9,additional-panel,two-way-bicycle-traffic-in-the-transverse-direction,Two-way bicycle traffic in the transverse direction,Fietsers in beide richtingen op de dwarsweg
+M10,additional-panel,two-way-bicycle-and-moped-traffic-in-the-transverse-direction,Two-way bicycle and moped traffic in the transverse direction,Fietsers en bromfietsers in beide richtingen op de dwarsweg
+M11,additional-panel,except-bicycles-and-speed-pedelecs,Except bicycles and speed pedelecs,Uitgezonderd fietsers en speedpedelecs
+M12,additional-panel,except-bicycles-mopeds-class-a-and-speed-pedelecs,"Except bicycles, mopeds (class A) and speed pedelecs","Uitgezonderd fietsers, bromfietsers klasse A en speedpedelecs"
+M13,additional-panel,speed-pedelecs-must-use-cycle-path,Speed pedelecs must use the cycle path,Fietspad verplicht voor speedpedelecs
+M14,additional-panel,mopeds-class-b-and-speed-pedelecs-must-use-cycle-path,Mopeds (class B) and speed pedelecs must use the cycle path,Fietspad verplicht voor bromfietsers klasse B en speedpedelecs
+M15,additional-panel,speed-pedelecs-must-not-use-cycle-path,Speed pedelecs must not use the cycle path,Fietspad verboden voor speedpedelecs
+M16,additional-panel,mopeds-class-b-and-speed-pedelecs-must-not-use-cycle-path,Mopeds (class B) and speed pedelecs must not use the cycle path,Fietspad verboden voor bromfietsers klasse B en speedpedelecs
+M19,additional-panel,speed-pedelec-parking,Parking for speed pedelecs,Parkeren voorbehouden voor speedpedelecs
+M20,additional-panel,bicycle-and-speed-pedelec-parking,Parking for bicycles and speed pedelecs,Parkeren voorbehouden voor fietsen en speedpedelecs
+M21,additional-panel,personal-transporter-parking,Parking for personal light electric vehicles,Plaats voor voortbewegingstoestellen
+M22,additional-panel,shared-personal-transporter-parking,Parking for shared personal light electric vehicles,Plaats voor deelvoortbewegingstoestellen
+M23,additional-panel,shared-bicycle-parking,Parking for shared bicycles,Plaats voor deelfietsen
+M24,additional-panel,shared-bicycle-and-personal-transporter-parking,Parking for shared bicycles and shared personal light electric vehicles,Plaats voor deelfietsen en deelvoortbewegingstoestellen
+S1,information,airport,Airport,Luchthaven
+S2,information,exhibition-centre,Exhibition centre,Tentoonstellingshal
+S3,information,harbour,Harbour,Haven
+S4,information,ferry-terminal,Ferry,Veerboot
+S5,information,industrial-zone,Industrial zone,Bedrijventerrein
+S10,information,police,Police,Politie
+S11,information,fire-brigade,Fire station,Brandweer
+S12,information,civil-protection,Civil protection,Civiele bescherming
+S13,information,cemetery,Cemetery,Begraafplaats
+S14,information,bus-station,Bus station,Busstation
+S15,information,railway-station,Railway station,Treinstation
+S16,information,freight-terminal,Freight terminal,Goederenstation
+S17,information,town-hall,Town hall,Gemeentehuis
+S18,information,place-of-worship,Place of worship,Gebedshuis
+S19,information,courthouse,Courthouse,Gerechtsgebouw
+S20,information,services-car-train,Services (car train),Autoslaaptrein
+S21,information,services-post-office,Services (post office),Postkantoor
+S30,information,sports-centre,Sports centre,Sportcentrum
+S31,information,tourist-castle,Tourist destination (castle),Kasteel
+S32,information,ruins,Ruins,Ruïnes
+S33,information,abbey,Monastery or abbey,Klooster of abdij
+S34,information,leisure-park,"Cultural, recreation or amusement park","Cultuur-, recreatie- of pretpark"
+S35,information,monument,Monument or landmark,Monument
+S36,information,nature-park,Nature park,Natuurpark

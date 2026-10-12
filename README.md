@@ -129,6 +129,7 @@ bundle (`python3 -m pipelines us-states`). In the viewer they are not part of
 | --- | --- | --- | --- |
 | Australia (`au`) | 285 | [Road signs in Australia](https://en.wikipedia.org/wiki/Road_signs_in_Australia) (English Wikipedia, national AS 1742 signs only) | [`pipelines/countries/au`](pipelines/countries/au) |
 | Austria (`at`) | 201 | [Bildtafel der Verkehrszeichen in Österreich](https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_%C3%96sterreich) (German Wikipedia, StVO §§ 50–54) | [`pipelines/countries/at`](pipelines/countries/at) |
+| Belgium (`be`) | 280 | [Verkeersborden in België - Serie A: Gevaarsborden](https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A:_Gevaarsborden) and the pages for the series B–F (Dutch Wikipedia, Wegcode), with [Road signs in Belgium](https://en.wikipedia.org/wiki/Road_signs_in_Belgium) for the signs those lack | [`pipelines/countries/be`](pipelines/countries/be) |
 | Canada (`ca`) | 65 | [Road signs in Canada](https://en.wikipedia.org/wiki/Road_signs_in_Canada) (English Wikipedia, national MUTCDC examples only) | [`pipelines/countries/ca`](pipelines/countries/ca) |
 | Czechia (`cz`) | 368 | [Seznam dopravních značek v Česku](https://cs.wikipedia.org/wiki/Seznam_dopravn%C3%ADch_zna%C4%8Dek_v_%C4%8Cesku) (Czech Wikipedia, vyhláška 294/2015 Sb.) | [`pipelines/countries/cz`](pipelines/countries/cz) |
 | Denmark (`dk`) | 135 | [Vejtavler i Danmark](https://da.wikipedia.org/wiki/Vejtavler_i_Danmark) (Danish Wikipedia, main signs A–E) | [`pipelines/countries/dk`](pipelines/countries/dk) |

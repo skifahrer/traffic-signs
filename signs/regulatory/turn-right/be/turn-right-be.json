@@ -1,0 +1,11 @@
+{
+  "sign": "turn-right",
+  "category": "regulatory",
+  "country": "be",
+  "code": "D1b (rechts)",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",
+    "file": "Belgian road sign D02a.svg"
+  }
+}

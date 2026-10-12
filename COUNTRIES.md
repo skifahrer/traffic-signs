@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark (`dk`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Belgium (`be`), Canada (`ca`), Czech Republic (`cz`), Denmark (`dk`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -31,7 +31,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 
 1. ~~Greece (`gr`), Romania (`ro`), Finland (`fi`)~~ added
 2. ~~Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)~~ added
-3. ~~Ireland (`ie`), Netherlands (`nl`)~~ added, Belgium (`be`)
+3. ~~Ireland (`ie`), Netherlands (`nl`), Belgium (`be`)~~ added
 4. Sweden (`se`), Norway (`no`), Iceland (`is`)
 5. Russia (`ru`), Latvia (`lv`), Lithuania (`lt`)
 6. Croatia (`hr`), Moldova (`md`), Belarus (`by`)
@@ -71,7 +71,7 @@ Australia (`au`), Austria (`at`), Canada (`ca`), Czech Republic (`cz`), Denmark 
 | 6 | [Denmark](https://en.wikipedia.org/wiki/Road_signs_in_Denmark) | `dk` | 474 | ✅ added | codes in image names |
 | 7 | [Ireland](https://en.wikipedia.org/wiki/Road_signs_in_Ireland) | `ie` | 465 | ✅ added | codes in captions |
 | 8 | [Netherlands](https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands) | `nl` | 450 | ✅ added | codes in captions |
-| 9 | [Belgium](https://en.wikipedia.org/wiki/Road_signs_in_Belgium) | `be` | 427 | ✅ ready | codes in image names |
+| 9 | [Belgium](https://en.wikipedia.org/wiki/Road_signs_in_Belgium) | `be` | 427 | ✅ added | codes in image names |
 | 10 | [Sweden](https://en.wikipedia.org/wiki/Road_signs_in_Sweden) | `se` | 422 | ✅ ready | codes in image names |
 | 11 | [Norway](https://en.wikipedia.org/wiki/Road_signs_in_Norway) | `no` | 412 | ✅ ready | codes in image names |
 | 12 | [Iceland](https://en.wikipedia.org/wiki/Road_signs_in_Iceland) | `is` | 385 | ✅ ready | codes in image names |
