@@ -1,0 +1,11 @@
+{
+  "sign": "lane-on-the-right-begins-with-traffic-coming-from-other-road",
+  "category": "information",
+  "country": "lt",
+  "code": "522",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 522.svg"
+  }
+}

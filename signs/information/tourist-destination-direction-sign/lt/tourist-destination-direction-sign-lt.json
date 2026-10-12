@@ -1,0 +1,11 @@
+{
+  "sign": "tourist-destination-direction-sign",
+  "category": "information",
+  "country": "lt",
+  "code": "628",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 628.svg"
+  }
+}

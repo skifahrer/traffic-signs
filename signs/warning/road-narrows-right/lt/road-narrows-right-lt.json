@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-right",
+  "category": "warning",
+  "country": "lt",
+  "code": "124",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 124.svg"
+  }
+}

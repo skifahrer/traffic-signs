@@ -1,0 +1,11 @@
+{
+  "sign": "days-and-times",
+  "category": "additional-panel",
+  "country": "lt",
+  "code": "829",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "Lithuania road sign 829.svg"
+  }
+}

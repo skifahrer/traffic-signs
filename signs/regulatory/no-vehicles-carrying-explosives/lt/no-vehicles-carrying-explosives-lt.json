@@ -1,0 +1,11 @@
+{
+  "sign": "no-vehicles-carrying-explosives",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "338",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 338.svg"
+  }
+}

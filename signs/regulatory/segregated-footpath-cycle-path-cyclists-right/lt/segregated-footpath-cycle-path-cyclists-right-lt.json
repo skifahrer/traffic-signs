@@ -1,0 +1,11 @@
+{
+  "sign": "segregated-footpath-cycle-path-cyclists-right",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "413b",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 413b.svg"
+  }
+}

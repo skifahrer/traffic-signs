@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "332",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 332.svg"
+  }
+}

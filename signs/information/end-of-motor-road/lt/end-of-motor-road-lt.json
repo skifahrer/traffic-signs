@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-motor-road",
+  "category": "information",
+  "country": "lt",
+  "code": "556",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 556.svg"
+  }
+}

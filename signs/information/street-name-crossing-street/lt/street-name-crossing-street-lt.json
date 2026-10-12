@@ -1,0 +1,11 @@
+{
+  "sign": "street-name-crossing-street",
+  "category": "information",
+  "country": "lt",
+  "code": "616",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 616.svg"
+  }
+}

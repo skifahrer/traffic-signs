@@ -1,0 +1,11 @@
+{
+  "sign": "vehicles-carrying-dangerous-goods-may-proceed-straight-ahead",
+  "category": "regulatory",
+  "country": "lt",
+  "code": "416",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 416.svg"
+  }
+}

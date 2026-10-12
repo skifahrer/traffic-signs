@@ -1,0 +1,11 @@
+{
+  "sign": "additional-lane-on-the-right-begins-with-restriction",
+  "category": "information",
+  "country": "lt",
+  "code": "521",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 521.svg"
+  }
+}

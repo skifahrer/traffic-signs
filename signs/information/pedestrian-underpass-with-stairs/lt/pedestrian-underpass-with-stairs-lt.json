@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-underpass-with-stairs",
+  "category": "information",
+  "country": "lt",
+  "code": "535",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 535.svg"
+  }
+}

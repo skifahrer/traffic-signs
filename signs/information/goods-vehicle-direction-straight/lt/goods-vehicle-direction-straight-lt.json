@@ -1,0 +1,11 @@
+{
+  "sign": "goods-vehicle-direction-straight",
+  "category": "information",
+  "country": "lt",
+  "code": "610",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Lithuania",
+    "file": "LT road sign 610.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "vehicle-type-with-trailers",
+  "category": "additional-panel",
+  "country": "lt",
+  "code": "816",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Lithuania",
+    "file": "Lithuania road sign 816.svg"
+  }
+}

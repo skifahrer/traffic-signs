@@ -1,0 +1,11 @@
+{
+  "sign": "emergency-lay-by",
+  "category": "information",
+  "country": "lt",
+  "code": "558",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 558.svg"
+  }
+}

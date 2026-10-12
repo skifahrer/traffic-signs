@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrian-crossing-left-side",
+  "category": "information",
+  "country": "lt",
+  "code": "534",
+  "source": {
+    "pipeline": "lt-wikipedia",
+    "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
+    "file": "LT road sign 534.svg"
+  }
+}
