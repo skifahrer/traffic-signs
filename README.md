@@ -36,6 +36,15 @@ key for the second one, e.g. `de` for Germany and `de-AT` for Austria.
 English-speaking countries keep their own wording under such a key next to the
 shared `en`: `{"en": "Give way", "en-GB": "Give way", "en-US": "Yield"}`.
 
+### Signs added by hand
+
+A sign the country's source page lacks is added by hand: its image and
+metadata go in the usual place, with `"pipeline": "manual"` under `source`
+and a `note` saying where the sign comes from. The country's pipeline only
+touches signs it wrote itself, so a sync neither updates nor archives these.
+Slovakia's town entry and exit signs (305 `built-up-area`, 306
+`end-of-built-up-area`) are added this way.
+
 ### Categories
 
 | Folder | Contains |

@@ -1,0 +1,18 @@
+{
+  "sign": "end-of-built-up-area",
+  "category": "information",
+  "country": "sk",
+  "code": "306",
+  "image": {
+    "file": "end-of-built-up-area-sk.svg",
+    "sha1": "f6a49a94adaf8878a72207d25e012e45556dde5a",
+    "source": null,
+    "author": null,
+    "license": null,
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "manual",
+    "note": "vyhláška 30/2020 Z. z., sign 306; not on the Slovak Wikipedia list, added by hand"
+  }
+}
