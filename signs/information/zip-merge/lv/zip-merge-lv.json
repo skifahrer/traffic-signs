@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "737",
+  "image": {
+    "file": "zip-merge-lv.svg",
+    "sha1": "444a454cd712d01767a9bdcfead4f2b94e9e3d9a",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_737.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

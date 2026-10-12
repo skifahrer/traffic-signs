@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "323",
+  "image": {
+    "file": "speed-limit-lv.svg",
+    "sha1": "c9d1b43a0b31c06370fa99be9ebfaea08ffa6daf",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_323.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

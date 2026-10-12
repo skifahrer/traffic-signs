@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "132",
+  "image": {
+    "file": "level-crossing-with-barriers-lv.svg",
+    "sha1": "ec67f58fadb78cb31dc1159edb5784a35f16b3aa",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_132.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "701C",
+  "image": {
+    "file": "advance-direction-sign-diagrammatic-lv.svg",
+    "sha1": "80f904917d44365b4ff3adf47410ca284565d1da",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_701C.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

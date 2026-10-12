@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "754",
+  "image": {
+    "file": "exit-advance-sign-motorway-lv.svg",
+    "sha1": "23914d925c621493260d72c809795c0cec2dde7e",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_754.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Latvia",

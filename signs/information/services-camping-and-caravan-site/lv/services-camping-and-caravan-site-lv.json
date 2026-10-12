@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "614",
+  "image": {
+    "file": "services-camping-and-caravan-site-lv.svg",
+    "sha1": "dd06a6403829115b20f8c75c9153978d641ade29",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_614.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "816",
+  "image": {
+    "file": "above-sign-indicating-of-object-on-the-right-lv.svg",
+    "sha1": "52f430b9b1f5947c28c38eeecf2256d00cc5cf5c",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_816.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

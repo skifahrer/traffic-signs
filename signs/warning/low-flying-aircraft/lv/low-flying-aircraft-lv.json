@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "129",
+  "image": {
+    "file": "low-flying-aircraft-lv.svg",
+    "sha1": "ee2b76ceab73256fe4a36e1baab0ee9a946da7a9",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_129.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

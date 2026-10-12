@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "860",
+  "image": {
+    "file": "electric-vehicles-charging-only-lv.svg",
+    "sha1": "2806b85debcb59d7b67306ab58ee8d113c46770f",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_860.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

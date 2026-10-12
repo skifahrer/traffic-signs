@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "207",
+  "image": {
+    "file": "stop-lv.svg",
+    "sha1": "3cc201317e331a6d1e590628e94b00ae097d4103",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_207.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

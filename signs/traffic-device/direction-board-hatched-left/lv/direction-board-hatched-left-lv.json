@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lv",
   "code": "909",
+  "image": {
+    "file": "direction-board-hatched-left-lv.svg",
+    "sha1": "171dd51a5405d52b6c3823bf7bd0357091ff7ce6",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_909.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",

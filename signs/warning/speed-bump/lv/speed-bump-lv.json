@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "113",
+  "image": {
+    "file": "speed-bump-lv.svg",
+    "sha1": "609622c8270d9154b60134e2b50ed05da115796b",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_113.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

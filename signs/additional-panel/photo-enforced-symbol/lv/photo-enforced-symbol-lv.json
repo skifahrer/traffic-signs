@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "853",
+  "image": {
+    "file": "photo-enforced-symbol-lv.svg",
+    "sha1": "6c9cfed3095eb24c7da638595f3cfc456c6fe981",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_853.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "824",
+  "image": {
+    "file": "vehicle-type-bicycles-lv.svg",
+    "sha1": "a4989e1db74c61116608cd476021e1ef3d63935f",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_824.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

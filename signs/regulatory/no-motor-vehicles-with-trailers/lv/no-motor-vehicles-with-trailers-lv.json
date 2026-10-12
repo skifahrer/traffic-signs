@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "307",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-lv.svg",
+    "sha1": "c1451a946ae12d8a816979196d8a1e91324020db",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_307.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

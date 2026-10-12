@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "627",
+  "image": {
+    "file": "sea-river-port-or-station-lv.svg",
+    "sha1": "3fff29de207ccedc6627fcc324b6f84cc2b668c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_627.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

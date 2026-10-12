@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "741",
+  "image": {
+    "file": "national-road-number-lv.svg",
+    "sha1": "0efb4f41d93c8e46f952db60136bd69a64094c35",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_741_(Motorway).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

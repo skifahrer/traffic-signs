@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "427",
+  "image": {
+    "file": "vehicles-carrying-dangerous-goods-may-turn-left-only-lv.svg",
+    "sha1": "9d2c529402cbe6d87097ce39ccf61e7c276436d1",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_427.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

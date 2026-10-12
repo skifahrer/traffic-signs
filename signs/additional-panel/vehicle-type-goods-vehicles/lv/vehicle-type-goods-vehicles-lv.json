@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "818",
+  "image": {
+    "file": "vehicle-type-goods-vehicles-lv.svg",
+    "sha1": "f4ee26cb2390804288d52db4b60e8d8130c2e2be",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_818.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

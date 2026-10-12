@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "742",
+  "image": {
+    "file": "regional-road-number-lv.svg",
+    "sha1": "2936ccca28b5a663e4c387d3bae5f63acf55b8cd",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_742_(regional_road).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

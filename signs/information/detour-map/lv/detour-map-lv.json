@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "730",
+  "image": {
+    "file": "detour-map-lv.svg",
+    "sha1": "1402b865b4be1ec117d25ea0e8bca1f8914a9ca1",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_730.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lv",
   "code": "901",
+  "image": {
+    "file": "chevron-board-1-arrow-left-lv.svg",
+    "sha1": "3524fed74c01922ddb790bd8bfe935f87c41f152",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_901.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",

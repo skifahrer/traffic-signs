@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "315",
+  "image": {
+    "file": "no-right-turn-lv.svg",
+    "sha1": "1f4c884b82f33829f2497e4a8a27ab336f2793f1",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_315.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

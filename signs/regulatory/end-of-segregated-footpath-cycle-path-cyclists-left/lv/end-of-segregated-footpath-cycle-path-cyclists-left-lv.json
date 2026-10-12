@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "420",
+  "image": {
+    "file": "end-of-segregated-footpath-cycle-path-cyclists-left-lv.svg",
+    "sha1": "ed24bd5d325d8d60455ef21f15cbf14dda8e604c",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_420.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

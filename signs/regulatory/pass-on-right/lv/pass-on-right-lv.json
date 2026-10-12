@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "410",
+  "image": {
+    "file": "pass-on-right-lv.svg",
+    "sha1": "3950997e8cbe2846b91f361f8cf2ff892482443d",
+    "source": "https://commons.wikimedia.org/wiki/File:Lv410.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

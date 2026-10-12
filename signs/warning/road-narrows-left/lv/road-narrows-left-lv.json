@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "109",
+  "image": {
+    "file": "road-narrows-left-lv.svg",
+    "sha1": "3fd2c65e4b35bdfe457008c383f48317a644639e",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_109.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

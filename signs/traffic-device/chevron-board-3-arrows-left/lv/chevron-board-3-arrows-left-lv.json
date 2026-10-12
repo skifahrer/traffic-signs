@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lv",
   "code": "902",
+  "image": {
+    "file": "chevron-board-3-arrows-left-lv.svg",
+    "sha1": "12518b7b5c6cf6c489cf3fd2a235efa81a2013e4",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_902.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",

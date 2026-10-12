@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "724",
+  "image": {
+    "file": "national-speed-limits-lv.svg",
+    "sha1": "a6870d30087c69577241f70458d61a278cd2c6a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_724.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "115",
+  "image": {
+    "file": "slippery-road-lv.svg",
+    "sha1": "defa5cfd2f979b1682c138e8e5279e0b39ffca4e",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_115.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

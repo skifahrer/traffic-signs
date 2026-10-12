@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "105",
+  "image": {
+    "file": "double-bend-right-lv.svg",
+    "sha1": "78c405d2e4f17896849cd0ca8eda7a8edb384bb0",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_105.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

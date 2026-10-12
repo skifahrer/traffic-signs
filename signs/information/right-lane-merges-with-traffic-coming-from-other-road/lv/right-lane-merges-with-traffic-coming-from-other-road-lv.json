@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "722",
+  "image": {
+    "file": "right-lane-merges-with-traffic-coming-from-other-road-lv.svg",
+    "sha1": "b84f6b019ab3a822a31e371cc18e7db46e83a70d",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_722.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

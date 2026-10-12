@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "819",
+  "image": {
+    "file": "vehicle-type-goods-vehicles-with-trailers-lv.svg",
+    "sha1": "f43c74d07250b3630ad3c24479b90827da027a41",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_819.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

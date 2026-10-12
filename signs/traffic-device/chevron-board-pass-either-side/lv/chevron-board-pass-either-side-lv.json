@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lv",
   "code": "905",
+  "image": {
+    "file": "chevron-board-pass-either-side-lv.svg",
+    "sha1": "a750bf674a4601b622b9f542094684eb574a1595",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_905.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Latvia",

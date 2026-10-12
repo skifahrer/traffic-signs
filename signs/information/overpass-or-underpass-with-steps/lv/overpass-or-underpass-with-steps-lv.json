@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "729",
+  "image": {
+    "file": "overpass-or-underpass-with-steps-lv.svg",
+    "sha1": "dce8579d3d35cce4bf49e8844c39cec26bf84624",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_729.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

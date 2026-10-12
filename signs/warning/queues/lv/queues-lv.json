@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "143",
+  "image": {
+    "file": "queues-lv.svg",
+    "sha1": "2c47a7e55da5bb46c291fdfff1a2d80f3d057de6",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_143.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

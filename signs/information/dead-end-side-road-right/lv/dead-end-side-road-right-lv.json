@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "712",
+  "image": {
+    "file": "dead-end-side-road-right-lv.svg",
+    "sha1": "ede587b6567e7d6c8ac2da7a601711f630a43d62",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_712.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

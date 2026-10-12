@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "844",
+  "image": {
+    "file": "disabled-parking-lv.svg",
+    "sha1": "89486dddbf825123cc92f9cc14f9bebcee7e6bc7",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_844.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

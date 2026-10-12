@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "333",
+  "image": {
+    "file": "stop-for-dangers-including-traffic-accidents-natural-lv.svg",
+    "sha1": "69dba752ec1dab0ad4c9580d2ac5e937b1857f0f",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_333.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "740",
+  "image": {
+    "file": "european-road-number-lv.svg",
+    "sha1": "bcf26716a338e60f807e41482a46e47f7c1998cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_740_(European_road).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

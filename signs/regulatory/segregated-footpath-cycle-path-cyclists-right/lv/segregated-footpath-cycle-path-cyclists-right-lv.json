@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "421",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-right-lv.svg",
+    "sha1": "fdfb2976c497247a9e6208d4a76fd72570a7c8ab",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_421.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

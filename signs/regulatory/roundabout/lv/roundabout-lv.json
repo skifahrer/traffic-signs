@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "409",
+  "image": {
+    "file": "roundabout-lv.svg",
+    "sha1": "b1aecc92c9a6c7e596fbd274cc7f91f8006477dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Lv409.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

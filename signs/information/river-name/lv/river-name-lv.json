@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "708",
+  "image": {
+    "file": "river-name-lv.svg",
+    "sha1": "f8c60f6b6926ecf4b54c91d76c372240219f6958",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_708.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

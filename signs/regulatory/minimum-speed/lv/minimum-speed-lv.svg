@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195mm"
+   height="194.99689mm"
+   viewBox="0 0 195.00001 194.99688"
+   version="1.1"
+   id="svg3845"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Latvia_road_sign_418(50).svg">
+  <defs
+     id="defs3839" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16046451"
+     inkscape:cx="62.441407"
+     inkscape:cy="-836.15109"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-439.45034,1060.5293)">
+    <path
+       d="m 536.95655,-1059.7528 c 53.2615,0 96.7173,43.4435 96.7173,96.72035 0,53.27083 -43.4558,96.72355 -96.7173,96.72355 -53.2769,0 -96.72971,-43.45272 -96.72971,-96.72355 0,-53.27685 43.45281,-96.72035 96.72971,-96.72035 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.55299246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9260006;stroke-dasharray:none;stroke-opacity:1"
+       id="path6736"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 536.95655,-1054.5876 c 50.41636,0 91.54896,41.1264 91.54896,91.55515 0,50.4257 -41.1326,91.55829 -91.54896,91.55829 -50.43185,0 -91.56128,-41.13259 -91.56128,-91.55829 0,-50.42875 41.12943,-91.55515 91.56128,-91.55515"
+       style="fill:#283996;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.10598493"
+       id="path6730"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 477.88383,-960.35812 v -48.09928 h 48.10239 v 12.82766 h -36.08839 v 20.24485 c 10.08196,-7.96381 24.70188,-6.27408 32.66561,3.80789 3.25814,4.0906 5.03169,9.18445 5.03169,14.41804 v 13.64456 c 0,14.15091 -11.48591,25.65857 -25.66165,25.65857 -13.23772,0 -24.31361,-10.07897 -25.55608,-23.25762 h 12.95202 c 1.32312,6.96672 8.04446,11.52633 15.0081,10.18454 6.04736,-1.14307 10.42683,-6.43564 10.42683,-12.58549 v -11.2437 c 0,-7.06612 -5.743,-12.80904 -12.83087,-12.80904 -4.90746,0 -9.38624,2.79231 -11.5449,7.20902 h -12.50475"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.10598493"
+       id="path6732"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 543.62199,-943.5144 v -40.09826 c 0,-14.17573 11.486,-25.66164 25.6399,-25.66164 14.17265,0 25.65857,11.48591 25.65857,25.66164 v 40.09826 c 0,14.15091 -11.48592,25.65857 -25.65857,25.65857 -14.1539,0 -25.6399,-11.50766 -25.6399,-25.65857 z m 12.82778,0 c 0,7.08479 5.74292,12.8277 12.81212,12.8277 7.08479,0 12.82779,-5.74291 12.82779,-12.8277 v -40.09826 c 0,-7.08786 -5.743,-12.83086 -12.82779,-12.83086 -7.0692,0 -12.81212,5.743 -12.81212,12.83086 v 40.09826"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.10598493"
+       id="path6734"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

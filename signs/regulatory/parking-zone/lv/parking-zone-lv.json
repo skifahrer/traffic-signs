@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "529",
+  "image": {
+    "file": "parking-zone-lv.svg",
+    "sha1": "2c7c6f983d69d23c547551e38eaaa02c01ccf1ac",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_529.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

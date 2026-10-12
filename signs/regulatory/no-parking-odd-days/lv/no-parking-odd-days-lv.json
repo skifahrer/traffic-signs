@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "328",
+  "image": {
+    "file": "no-parking-odd-days-lv.svg",
+    "sha1": "4082278c776aa81e4b17db7bc09bbe1e12e6468a",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_328.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

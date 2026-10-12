@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "302",
+  "image": {
+    "file": "no-vehicles-lv.svg",
+    "sha1": "2b24ae5ec1eacd2f5221c5ba9309ce3ee944e7c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_302.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

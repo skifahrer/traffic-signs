@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "110",
+  "image": {
+    "file": "steep-descent-lv.svg",
+    "sha1": "0cd2341f5c56d93d11c3e18f3cbff05b8a463a9a",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_110.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

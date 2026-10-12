@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "128",
+  "image": {
+    "file": "crosswind-lv.svg",
+    "sha1": "590d9e1add6c9335eb105aa97f1c93488defd7d8",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_128.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

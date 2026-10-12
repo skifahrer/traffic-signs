@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "332",
+  "image": {
+    "file": "police-check-stop-lv.svg",
+    "sha1": "48f6bb0cafbfbdd8f04c5e95e27b1c514bcac52c",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_332.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "716",
+  "image": {
+    "file": "end-of-additional-lane-right-lv.svg",
+    "sha1": "3bd1d5e1aaf38e8576cb3e46a2e1f262c0af3020",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_716.svg",
+    "author": "UrSuS",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

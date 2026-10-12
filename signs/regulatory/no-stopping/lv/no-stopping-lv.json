@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "326",
+  "image": {
+    "file": "no-stopping-lv.svg",
+    "sha1": "a29cc0d05e44c407b25b404ccef672879cd77d54",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_326.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

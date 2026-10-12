@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "801",
+  "image": {
+    "file": "distance-lv.svg",
+    "sha1": "abd26b37310225409a28bc2b2ef923c7d9fb096e",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_801.svg",
+    "author": "UrSuS",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

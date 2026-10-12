@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "707B",
+  "image": {
+    "file": "distance-sign-built-up-area-lv.svg",
+    "sha1": "7b5c4c3f45bbce86ec0fb90ba061e46e350bea15",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_707B.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

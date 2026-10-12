@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "855",
+  "image": {
+    "file": "cyclists-contraflow-lv.svg",
+    "sha1": "560d215f2dd32fe56a4bbdcadda035fe9c1060c6",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_855.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

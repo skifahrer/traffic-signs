@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "510",
+  "image": {
+    "file": "exit-to-road-with-contraflow-bus-lane-right-lv.svg",
+    "sha1": "dbb5e905966661a2f94cd92424788864c89524ff",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_510.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

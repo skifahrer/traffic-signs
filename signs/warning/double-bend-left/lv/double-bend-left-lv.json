@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "106",
+  "image": {
+    "file": "double-bend-left-lv.svg",
+    "sha1": "5ce6feac7308541505be0130ab461bb2a2b4efa3",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_106.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "749",
+  "image": {
+    "file": "european-union-country-border-lv.svg",
+    "sha1": "3d5e33d2c0d9bc147d47860c2138267138d5cc4a",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_749.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

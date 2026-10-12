@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "401",
+  "image": {
+    "file": "mandatory-direction-straight-lv.svg",
+    "sha1": "efdbe28221efeeb987bee4ea3aa46d40520a2a05",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_401.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

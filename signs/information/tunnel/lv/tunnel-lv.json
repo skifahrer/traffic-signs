@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "544",
+  "image": {
+    "file": "tunnel-lv.svg",
+    "sha1": "809c068d9301a51c8b630721d88b8a835a65ee80",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_544.svg",
+    "author": "UrSuS",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

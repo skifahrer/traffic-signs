@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lv",
   "code": "906",
+  "image": {
+    "file": "guide-plate-hatched-right-lv.svg",
+    "sha1": "8317cf54e8a45e4e8d641397676b8dde5e6bf03f",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_906.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Latvia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "318",
+  "image": {
+    "file": "minimum-distance-lv.svg",
+    "sha1": "fac3e22e4b0623360e7976ec7910738d603d278b",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_318.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

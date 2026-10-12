@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "112",
+  "image": {
+    "file": "uneven-road-lv.svg",
+    "sha1": "a42f378426ef3f663c1176ffaa42f2ed60ba3431",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_112.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

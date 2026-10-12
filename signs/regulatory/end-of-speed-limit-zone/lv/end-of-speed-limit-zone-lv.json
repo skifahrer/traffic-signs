@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "526",
+  "image": {
+    "file": "end-of-speed-limit-zone-lv.svg",
+    "sha1": "b3a9e2e33ef307fae5e073bcda8b1e8ed289baad",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_526.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "503",
+  "image": {
+    "file": "rightward-one-way-street-lv.svg",
+    "sha1": "51c22fa8bf8b0374ee315b65ed332f889ef49703",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_503.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

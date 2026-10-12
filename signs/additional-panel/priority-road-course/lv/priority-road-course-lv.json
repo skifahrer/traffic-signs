@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "847",
+  "image": {
+    "file": "priority-road-course-lv.svg",
+    "sha1": "9b41d5f045eab680b91f5d19677ac7fcf6232114",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_847.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

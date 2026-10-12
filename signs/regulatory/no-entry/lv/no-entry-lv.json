@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "301",
+  "image": {
+    "file": "no-entry-lv.svg",
+    "sha1": "4c203a61c75de17de2017cbcfd85bfbfbbdc3347",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_301.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

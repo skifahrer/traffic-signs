@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "533",
+  "image": {
+    "file": "residential-zone-lv.svg",
+    "sha1": "bf1bfecdd44e5765b25166075f5b8e18794d3c69",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_533.svg",
+    "author": "UrSuS",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

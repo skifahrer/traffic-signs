@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "102",
+  "image": {
+    "file": "roundabout-ahead-lv.svg",
+    "sha1": "abd3bba031419d0781182254b830f8a374d99080",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_102.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

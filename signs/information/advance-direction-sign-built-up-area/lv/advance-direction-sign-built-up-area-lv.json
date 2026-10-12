@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "702",
+  "image": {
+    "file": "advance-direction-sign-built-up-area-lv.svg",
+    "sha1": "93cf38b0593f8529fb2c3040688644ba7c21eea5",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_702.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

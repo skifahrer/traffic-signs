@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "721",
+  "image": {
+    "file": "lane-on-the-right-begins-with-traffic-coming-from-other-road-lv.svg",
+    "sha1": "d61a743d680d3ace69346200da0ef163585b1f39",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_721.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

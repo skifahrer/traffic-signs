@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lv",
   "code": "903",
+  "image": {
+    "file": "chevron-board-1-arrow-right-lv.svg",
+    "sha1": "b3dc63841b8e623d0adda190302917af8001838b",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_903.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",

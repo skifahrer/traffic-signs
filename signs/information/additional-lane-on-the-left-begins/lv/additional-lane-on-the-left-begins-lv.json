@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "715",
+  "image": {
+    "file": "additional-lane-on-the-left-begins-lv.svg",
+    "sha1": "472b958b2863e3b585ac5179d2dfd7b62af78027",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_715.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

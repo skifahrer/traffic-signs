@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "825",
+  "image": {
+    "file": "above-sign-effective-during-working-days-lv.svg",
+    "sha1": "992db08c355f47a60b648a325d7b4d592e0f08ce",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_825.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

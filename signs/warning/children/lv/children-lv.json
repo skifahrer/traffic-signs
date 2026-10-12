@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "121",
+  "image": {
+    "file": "children-lv.svg",
+    "sha1": "b50dcea0b1888bb9f4e6c2890d93aea28f8c8cb1",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_121.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

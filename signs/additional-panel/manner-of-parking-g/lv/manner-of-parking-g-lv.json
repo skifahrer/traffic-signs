@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "836",
+  "image": {
+    "file": "manner-of-parking-g-lv.svg",
+    "sha1": "36671e1cc5915a71192b919b3c5fe75ebd469b8c",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_836.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

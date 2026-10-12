@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "608",
+  "image": {
+    "file": "services-restaurant-lv.svg",
+    "sha1": "83f906bbc4d11edec6aef3befcf7b86dde78c9db",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_608.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

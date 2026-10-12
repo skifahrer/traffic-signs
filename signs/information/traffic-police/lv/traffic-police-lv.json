@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "621",
+  "image": {
+    "file": "traffic-police-lv.svg",
+    "sha1": "164f3ba6ecee4e0949eb3f8dd69faf9996c7bd5a",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_621.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lv",
   "code": "130",
+  "image": {
+    "file": "cyclists-lv.svg",
+    "sha1": "54bd6e1315cce350b8283245ae9a6ad000517577",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_130.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

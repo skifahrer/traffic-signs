@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lv",
   "code": "515",
+  "image": {
+    "file": "lane-direction-right-lv.svg",
+    "sha1": "0506e0e791268050b4782c98fef41bd609499fa6",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_515.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

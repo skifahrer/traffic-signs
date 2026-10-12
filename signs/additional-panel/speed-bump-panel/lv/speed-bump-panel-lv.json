@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "850",
+  "image": {
+    "file": "speed-bump-panel-lv.svg",
+    "sha1": "0d4526e9cf3a5e3057b2725276f2048946dc7f9b",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_850.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

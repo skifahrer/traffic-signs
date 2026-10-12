@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lv",
   "code": "823",
+  "image": {
+    "file": "vehicle-type-motorcycles-lv.svg",
+    "sha1": "1f93c57632dd43e3309b126d9536c178fab5ac69",
+    "source": "https://commons.wikimedia.org/wiki/File:Latvia_road_sign_823.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",

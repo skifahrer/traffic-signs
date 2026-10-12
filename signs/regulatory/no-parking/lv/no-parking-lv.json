@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lv",
   "code": "327",
+  "image": {
+    "file": "no-parking-lv.svg",
+    "sha1": "c26c01c578a108c2b10e3d8f4d2923552c853db5",
+    "source": "https://commons.wikimedia.org/wiki/File:LV_road_sign_327.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lv-wikipedia",
     "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
