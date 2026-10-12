@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C21",
+  "image": {
+    "file": "maximum-weight-nl.svg",
+    "sha1": "82bef57f9cb50aef242d8ecaa7da25a92cd2d541",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C21_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

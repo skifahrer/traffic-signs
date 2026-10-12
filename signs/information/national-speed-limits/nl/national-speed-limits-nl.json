@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L401",
+  "image": {
+    "file": "national-speed-limits-nl.svg",
+    "sha1": "d7ed6860a575d92ecf207f3565fd7dde88a5e6a8",
+    "source": "https://commons.wikimedia.org/wiki/File:NL_verkeersbord_L401.svg",
+    "author": "LxH526",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

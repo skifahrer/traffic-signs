@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L5",
+  "image": {
+    "file": "zip-merge-nl.svg",
+    "sha1": "2d63c76aadf0b5d55e9dfc1814517bebf3104c41",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L5.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

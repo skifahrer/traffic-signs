@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C17",
+  "image": {
+    "file": "maximum-length-nl.svg",
+    "sha1": "73ed59ddc7cf90020a2674399b49344cbf6b1b35",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C17_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

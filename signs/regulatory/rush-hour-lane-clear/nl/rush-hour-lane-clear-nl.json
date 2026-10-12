@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C23-02",
+  "image": {
+    "file": "rush-hour-lane-clear-nl.svg",
+    "sha1": "da301d8b32b1e7d6b383ed6a55cada14da425550",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C23-02.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

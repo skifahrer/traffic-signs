@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "B4",
+  "image": {
+    "file": "priority-intersection-side-road-left-nl.svg",
+    "sha1": "cc5de839376b369e655d4b0ab99153ef6844e8cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_B4_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

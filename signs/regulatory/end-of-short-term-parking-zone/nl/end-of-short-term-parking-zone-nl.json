@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "E11",
+  "image": {
+    "file": "end-of-short-term-parking-zone-nl.svg",
+    "sha1": "e79ae349594c14c4d3e9ca3f0661a68f2a7a484e",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_E11.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F15",
+  "image": {
+    "file": "tram-lane-nl.svg",
+    "sha1": "00f29bc7ee85544250524de9d23dfcaa4ca02626",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F15.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

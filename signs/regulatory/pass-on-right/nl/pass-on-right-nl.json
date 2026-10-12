@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "D2",
+  "image": {
+    "file": "pass-on-right-nl.svg",
+    "sha1": "3b71a88bf32e0ba61538620be3408bb71f07624c",
+    "source": "https://commons.wikimedia.org/wiki/File:NL_verkeersbord_D2.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

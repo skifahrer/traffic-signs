@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "G10",
+  "image": {
+    "file": "end-of-bridleway-nl.svg",
+    "sha1": "39b13b2fc59c642e0d990a2cc63d8e2b9f07e72a",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G10.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

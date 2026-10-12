@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J34",
+  "image": {
+    "file": "accident-nl.svg",
+    "sha1": "3dfb7feb4cdca855bdb164761b6cb3686bd94c6a",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J34_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "G11",
+  "image": {
+    "file": "cycle-path-nl.svg",
+    "sha1": "60059b720912183f4a0fe4c254ae19b60cca6df8",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G11.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

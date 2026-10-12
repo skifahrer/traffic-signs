@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C11",
+  "image": {
+    "file": "no-motorcycles-nl.svg",
+    "sha1": "a1ff16896992ac9e6c43b7f30bfe3db3017859b8",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C11_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

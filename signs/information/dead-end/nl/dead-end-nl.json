@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L8",
+  "image": {
+    "file": "dead-end-nl.svg",
+    "sha1": "da23134d9cc2f3a045b42d29d39884e8e7717411",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L8.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

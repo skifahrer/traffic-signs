@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J28",
+  "image": {
+    "file": "farm-animals-nl.svg",
+    "sha1": "1644844c1031ca533974f635d956817671152b19",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J28_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

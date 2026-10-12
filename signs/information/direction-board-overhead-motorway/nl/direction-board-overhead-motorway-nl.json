@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K4",
+  "image": {
+    "file": "direction-board-overhead-motorway-nl.svg",
+    "sha1": "84f19191e8b49442161487e044fdda1baeb35d02",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K4.svg",
+    "author": "SAMnl",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

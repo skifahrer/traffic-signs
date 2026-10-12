@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "BW501e",
+  "image": {
+    "file": "alternative-route-end-nl.svg",
+    "sha1": "9fe249624e412f6dd6f0571a5eece24f8d129161",
+    "source": "https://commons.wikimedia.org/wiki/File:Omlieding_U15_end.svg",
+    "author": "LxH526",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

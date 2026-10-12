@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J18",
+  "image": {
+    "file": "road-narrows-right-nl.svg",
+    "sha1": "cb4d5ebdf6be0fa411b92ce8d20a4df4f54e3e5f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J18_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

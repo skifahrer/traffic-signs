@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J37",
+  "image": {
+    "file": "danger-nl.svg",
+    "sha1": "9efa05e5988355bbb87dbf494dadd090f34eefb4",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J37_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

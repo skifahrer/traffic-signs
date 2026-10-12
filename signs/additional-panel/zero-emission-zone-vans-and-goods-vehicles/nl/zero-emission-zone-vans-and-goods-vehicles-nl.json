@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "nl",
   "code": "C22e1",
+  "image": {
+    "file": "zero-emission-zone-vans-and-goods-vehicles-nl.svg",
+    "sha1": "b7e3baacca9835153fb8bb03b359d148c8c101ed",
+    "source": "https://commons.wikimedia.org/wiki/File:NL-C22e1.svg",
+    "author": "LxH526",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

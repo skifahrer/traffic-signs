@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "A1",
+  "image": {
+    "file": "speed-limit-nl.svg",
+    "sha1": "25826c5c29c41b5a5667bb74539f3a707f0e84bb",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_A1_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

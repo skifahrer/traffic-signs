@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F18",
+  "image": {
+    "file": "end-of-bus-and-tram-lane-nl.svg",
+    "sha1": "c4becbd4f79d6a643f5aae092f6d1b69af964636",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F18.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

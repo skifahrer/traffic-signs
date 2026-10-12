@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K9",
+  "image": {
+    "file": "detour-announcement-nl.svg",
+    "sha1": "f1b0f488bfa517759b5c42dea2033882a5a34104",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K9.svg",
+    "author": "SAMnl",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L51",
+  "image": {
+    "file": "bicycle-road-nl.svg",
+    "sha1": "ea88fe54a568f36318186a28e7f11bcc5e95dfb6",
+    "source": "https://commons.wikimedia.org/wiki/File:NL_verkeersbord_L51.svg",
+    "author": "LxH526",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

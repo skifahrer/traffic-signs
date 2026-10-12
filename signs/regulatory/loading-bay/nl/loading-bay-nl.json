@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "E7",
+  "image": {
+    "file": "loading-bay-nl.svg",
+    "sha1": "4d398ff722fe5c59dca8e24f80e2f3de0e43df04",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_E7.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

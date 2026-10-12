@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J32",
+  "image": {
+    "file": "traffic-signals-nl.svg",
+    "sha1": "0c93216bc6c523833343264a82581018f0b05678",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J32_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

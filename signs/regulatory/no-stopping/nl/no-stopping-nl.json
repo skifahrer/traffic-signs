@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "E2",
+  "image": {
+    "file": "no-stopping-nl.svg",
+    "sha1": "4787dfd67f0a897654e2ba7f7edf830f21349798",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_E2_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K8",
+  "image": {
+    "file": "cycle-direction-sign-stacked-nl.svg",
+    "sha1": "3fe82935ded45a2859929d51acfce3638b1e1a1f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K8.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

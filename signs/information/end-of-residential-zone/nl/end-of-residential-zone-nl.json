@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "G6",
+  "image": {
+    "file": "end-of-residential-zone-nl.svg",
+    "sha1": "9599b7a4f08c83cd346f6b0bf1bdac273c6726ad",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G6_mb.svg",
+    "author": "SVG version by SilverJapan2006",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

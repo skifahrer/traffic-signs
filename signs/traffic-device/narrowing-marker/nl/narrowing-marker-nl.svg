@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.583mm"
+   height="15.875mm"
+   viewBox="0 0 10.583 15.875"
+   version="1.1"
+   id="svg3009"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Nederlandse Wegenverkeersregeling 1966 figuur 81d.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3011"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.4118967"
+     inkscape:cx="30.424061"
+     inkscape:cy="34.606526"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3006" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       ry="0"
+       rx="0"
+       y="0"
+       x="7.1054274e-15"
+       height="15.875"
+       width="10.583333"
+       id="rect8109-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7fbf5;fill-opacity:1;stroke:none;stroke-width:1.5875;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3043-1"
+       d="m 0.1651889,15.671704 c -0.10033,-0.105762 -0.13238,-0.225389 -0.13238,-0.494241 v -0.354718 l 5.259211,-5.1638728 5.2591941,-5.163856 v 1.848944 1.848944 l -3.8796741,3.8091708 -3.879673,3.809171 h -1.24714 c -1.199357,0 -1.25222,-0.0053 -1.379538,-0.139542 z m 6.45257,0.09172 c 0.02686,-0.0263 0.922885,-0.915776 1.991149,-1.976614 l 1.9423061,-1.928795 v 1.837073 c 0,1.760661 -0.0055,1.842893 -0.13238,1.976613 -0.130246,0.137266 -0.162631,0.139542 -1.9911481,0.139542 -1.022315,0 -1.836773,-0.02152 -1.809927,-0.04782 z m -6.58428,-6.4245948 v -1.847621 l 3.774246,-3.713727 3.774229,-3.71374403 h 1.351915 c 1.3071121,0 1.3562891,0.0046 1.4842951,0.139541 0.0844,0.08895 0.13238,0.22613 0.13238,0.37846 0,0.231457 -0.164695,0.401249 -5.2591941,5.42184103 l -5.259211,5.1828878 z m 0.0021,-7.270715 c -0.0026,-1.65015303 0.003,-1.73138003 0.129628,-1.86483603 0.129805,-0.136807 0.166282,-0.139541 1.863496,-0.139541 h 1.731098 l -0.840863,0.833825 C 2.4564639,1.3561562 1.6191279,2.1953262 1.0582109,2.7623982 l -1.019863,1.031011 z"
+       style="fill:#2a2d2f;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+  </g>
+</svg>

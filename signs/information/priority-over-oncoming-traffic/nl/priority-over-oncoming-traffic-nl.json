@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "F6",
+  "image": {
+    "file": "priority-over-oncoming-traffic-nl.svg",
+    "sha1": "b118fc4d90795ae9ca9d739732d9e1f55dea8360",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F6_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F9",
+  "image": {
+    "file": "end-of-all-restrictions-variable-message-sign-nl.svg",
+    "sha1": "cca549860e9143688da0d97b1839f2c26401b7ef",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F9.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

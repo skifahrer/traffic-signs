@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J8",
+  "image": {
+    "file": "intersection-nl.svg",
+    "sha1": "ebdcc3e2d7c7a1e433aaec8965a998e7e943c103",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J8_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

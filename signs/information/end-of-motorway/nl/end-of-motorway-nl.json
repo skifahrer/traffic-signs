@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "G2",
+  "image": {
+    "file": "end-of-motorway-nl.svg",
+    "sha1": "aeda850d57e50f0761eaa6f064203ec57278e010",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G2.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

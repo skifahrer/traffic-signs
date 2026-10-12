@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F12",
+  "image": {
+    "file": "end-of-slow-vehicles-passing-lane-nl.svg",
+    "sha1": "fb34e3872f247b2dc582daf039b8d297bfcb0234",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F12.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

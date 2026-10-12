@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C13",
+  "image": {
+    "file": "no-mopeds-nl.svg",
+    "sha1": "c33b755c38fc17dfa04ad18efdfb7527e8d2753f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C13_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

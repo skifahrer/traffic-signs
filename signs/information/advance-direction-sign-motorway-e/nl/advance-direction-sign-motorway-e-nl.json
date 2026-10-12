@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K2 (2010)",
+  "image": {
+    "file": "advance-direction-sign-motorway-e-nl.svg",
+    "sha1": "401c2fa8da633a70d6dbe2250995a91e964b5a0f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K2_2010.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

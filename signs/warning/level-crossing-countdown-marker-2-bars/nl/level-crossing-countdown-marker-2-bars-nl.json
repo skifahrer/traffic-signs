@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "BB23-2",
+  "image": {
+    "file": "level-crossing-countdown-marker-2-bars-nl.svg",
+    "sha1": "25cd431a6579ab9965c0a21d52e3c30979cde124",
+    "source": "https://commons.wikimedia.org/wiki/File:NL-BB23-2.svg",
+    "author": "LxH526",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

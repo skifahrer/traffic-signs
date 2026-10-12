@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J16",
+  "image": {
+    "file": "roadworks-nl.svg",
+    "sha1": "078c38f864fea0b51f69b87c8dd8f8e9bbb8df3c",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J16_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

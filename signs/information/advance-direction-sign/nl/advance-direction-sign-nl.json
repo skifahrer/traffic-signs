@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K10",
+  "image": {
+    "file": "advance-direction-sign-nl.svg",
+    "sha1": "455e1372b7556983315201951582e330620346d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K10.svg",
+    "author": "SAMnl",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

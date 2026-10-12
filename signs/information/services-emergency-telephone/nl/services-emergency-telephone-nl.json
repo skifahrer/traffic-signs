@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L16",
+  "image": {
+    "file": "services-emergency-telephone-nl.svg",
+    "sha1": "d8c7e55dc472b7c08bb610be520ee3e727ea0c39",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L16.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

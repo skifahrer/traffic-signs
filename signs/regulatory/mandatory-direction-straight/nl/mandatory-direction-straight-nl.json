@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "D4",
+  "image": {
+    "file": "mandatory-direction-straight-nl.svg",
+    "sha1": "693b0fae193e023215cf93ce225798f8d05ba64d",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_D4.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L3b",
+  "image": {
+    "file": "bus-stop-nl.svg",
+    "sha1": "6d1bc3aebcb0984c0ae02ec56bcddbbdd815a2fe",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L3b.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

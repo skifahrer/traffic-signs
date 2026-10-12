@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J10",
+  "image": {
+    "file": "level-crossing-with-barriers-nl.svg",
+    "sha1": "7b7c811ff8d100159aca3c56c5d0b9f6506db4eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J10_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

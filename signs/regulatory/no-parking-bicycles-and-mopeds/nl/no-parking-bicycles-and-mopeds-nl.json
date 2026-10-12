@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "E3",
+  "image": {
+    "file": "no-parking-bicycles-and-mopeds-nl.svg",
+    "sha1": "c986f09bcd3a70d879659dd133f822eb1888d1e2",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_E3_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

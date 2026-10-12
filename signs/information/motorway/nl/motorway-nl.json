@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "G1",
+  "image": {
+    "file": "motorway-nl.svg",
+    "sha1": "fdb91b2cf82fce6d9990104a62a82b8ae8188042",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G1.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

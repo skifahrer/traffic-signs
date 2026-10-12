@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L14",
+  "image": {
+    "file": "emergency-lay-by-nl.svg",
+    "sha1": "a8f917f0cc0eccd60db7b71be7c6bcc09a395b15",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L14.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

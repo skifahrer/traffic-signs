@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J12",
+  "image": {
+    "file": "level-crossing-cross-single-track-nl.svg",
+    "sha1": "52ceea75dad865f4a7d798ad92e295d247046a16",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J12.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

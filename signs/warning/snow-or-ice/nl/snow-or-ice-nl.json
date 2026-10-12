@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J36",
+  "image": {
+    "file": "snow-or-ice-nl.svg",
+    "sha1": "163f888f110798e4a74d877cded660854260dbf3",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J36_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

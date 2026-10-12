@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L403",
+  "image": {
+    "file": "european-union-country-border-nl.svg",
+    "sha1": "eb4f0f5fbfd671285900f1e58dc2727c85335b9a",
+    "source": "https://commons.wikimedia.org/wiki/File:NL_verkeersbord_L403.svg",
+    "author": "LxH526",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

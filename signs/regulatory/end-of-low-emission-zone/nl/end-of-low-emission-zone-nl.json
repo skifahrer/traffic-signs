@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C22f",
+  "image": {
+    "file": "end-of-low-emission-zone-nl.svg",
+    "sha1": "9c2ebb1979cfc56dfc8c801998f871e62e703fa1",
+    "source": "https://commons.wikimedia.org/wiki/File:NL-C22f.svg",
+    "author": "LxH526",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J33",
+  "image": {
+    "file": "queues-nl.svg",
+    "sha1": "558d1f30d4352da4eab933cf91360ef387ed3e43",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J33_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

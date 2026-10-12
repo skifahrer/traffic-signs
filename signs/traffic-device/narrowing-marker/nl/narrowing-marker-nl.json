@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "nl",
   "code": "BB13",
+  "image": {
+    "file": "narrowing-marker-nl.svg",
+    "sha1": "364bd79e04c6509a4c9081dd58aec92e7bae227b",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlandse_Wegenverkeersregeling_1966_figuur_81d.svg",
+    "author": "SilverJapan2006",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

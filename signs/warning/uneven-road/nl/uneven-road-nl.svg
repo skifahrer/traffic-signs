@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Nederlands_verkeersbord_J1_2023" width="672" height="587" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<path id="bord_rood" style="fill:#c1121c;stroke:#c1121c;stroke-width:40;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="bies_wit" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:20;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="driehoek_rood" fill="#c1121c" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="driehoek_wit" fill="#f7fbf5" d="M 137.208,499.7 534.792,499.7 336,155.382 Z"/>
+	<path id="bord_rood" style="fill:#c1121c;stroke:#c1121c;stroke-width:40;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="bies_wit" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:20;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="driehoek_rood" fill="#c1121c" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="driehoek_wit" fill="#f7fbf5" d="M 137.208,499.7 534.792,499.7 336,155.382 Z"/>
+	<path id="symbool_zwart" fill="#2a2d2f" d="m 458.45674,427.67054 c -26.25449,0 -35.99974,-40.29535 -61.56501,-40.29535 -26.17435,0 -35.77535,40.29535 -61.80544,40.29535 -25.70952,0 -38.80471,-40.29535 -64.14558,-40.29535 -26.39874,0 -33.884,40.29535 -58.16699,40.29535 H 205.593 v 34.09237 h 260.81382 v -34.18854 z"/>
+</svg>

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "B7",
+  "image": {
+    "file": "stop-nl.svg",
+    "sha1": "399fc6935899d297e0fd6d4a81704f890d7e1537",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_B7.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J3",
+  "image": {
+    "file": "bend-left-nl.svg",
+    "sha1": "33c6a65185fea5bc9c194d86fda8c3ee39092e29",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J3_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

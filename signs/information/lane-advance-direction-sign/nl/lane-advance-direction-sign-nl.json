@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K11",
+  "image": {
+    "file": "lane-advance-direction-sign-nl.svg",
+    "sha1": "87b4b04922aafacf49f2ea0eb1561895ae426650",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K11.svg",
+    "author": "SAMnl",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

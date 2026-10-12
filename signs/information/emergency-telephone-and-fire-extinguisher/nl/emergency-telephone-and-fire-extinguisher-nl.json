@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L18",
+  "image": {
+    "file": "emergency-telephone-and-fire-extinguisher-nl.svg",
+    "sha1": "0beda2e01306d77e7e5fd1236cde396491e090d3",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L18.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

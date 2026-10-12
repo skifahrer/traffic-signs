@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C22e",
+  "image": {
+    "file": "low-emission-zone-nl.svg",
+    "sha1": "fa5f2b0265252a5a2a366bd8f9032cb0ab73e61f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C22e_2026.svg",
+    "author": "LxH526",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

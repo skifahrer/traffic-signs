@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L7",
+  "image": {
+    "file": "number-of-lanes-nl.svg",
+    "sha1": "baa1ef59cee60a73cfd137645e067f342668f1b5",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L7.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

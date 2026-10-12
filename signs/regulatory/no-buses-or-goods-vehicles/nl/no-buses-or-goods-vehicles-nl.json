@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C7b",
+  "image": {
+    "file": "no-buses-or-goods-vehicles-nl.svg",
+    "sha1": "5a14b567f82218798a15d364d701ffef3654f41e",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C7b_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

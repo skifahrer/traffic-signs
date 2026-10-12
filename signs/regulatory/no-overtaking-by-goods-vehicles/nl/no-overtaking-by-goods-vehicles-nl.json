@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F3",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-nl.svg",
+    "sha1": "8cb1ca3a9d6c3907033c00a09c528741ab4c8f02",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F3_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C22",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-nl.svg",
+    "sha1": "dcdde72c881a8b9629840a083143fed2c4cc9b93",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C22_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

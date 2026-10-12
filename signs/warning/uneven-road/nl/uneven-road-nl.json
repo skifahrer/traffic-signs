@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J1",
+  "image": {
+    "file": "uneven-road-nl.svg",
+    "sha1": "0728a760abbd226d3c5a2f12347b0d916321de51",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J1_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

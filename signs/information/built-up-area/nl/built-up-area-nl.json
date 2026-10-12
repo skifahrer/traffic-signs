@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "H1",
+  "image": {
+    "file": "built-up-area-nl.svg",
+    "sha1": "a164041d29e3789df978e50e586708896ec0d716",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_H1.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

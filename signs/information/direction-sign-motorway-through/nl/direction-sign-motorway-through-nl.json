@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K1",
+  "image": {
+    "file": "direction-sign-motorway-through-nl.svg",
+    "sha1": "548abeb683c79ee48efb59e32d58c10954261952",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K1.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J14",
+  "image": {
+    "file": "trams-nl.svg",
+    "sha1": "55732ea043b8d46d87f5d89ee9fa98955e2c7786",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J14_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

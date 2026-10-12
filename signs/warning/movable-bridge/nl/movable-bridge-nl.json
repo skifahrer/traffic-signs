@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J15",
+  "image": {
+    "file": "movable-bridge-nl.svg",
+    "sha1": "39c5dc6b445e796b8c67ba3bcd5fa18fb240a462",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J15_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

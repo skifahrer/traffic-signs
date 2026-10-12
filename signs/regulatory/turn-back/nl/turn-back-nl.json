@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C2f + OB705",
+  "image": {
+    "file": "turn-back-nl.svg",
+    "sha1": "b9f7e5f6a71ad692bc215fb5e24c0423aed94da5",
+    "source": "https://commons.wikimedia.org/wiki/File:NL-C2f_OB705.svg",
+    "author": "LxH526",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

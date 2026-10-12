@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K13",
+  "image": {
+    "file": "direction-sign-district-numbers-nl.svg",
+    "sha1": "104d13793ea7e95e566918703252f12b10f5ff75",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K13.svg",
+    "author": "SAMnl",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

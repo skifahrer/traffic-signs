@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L19 (rechts)",
+  "image": {
+    "file": "emergency-exit-right-nl.svg",
+    "sha1": "c50c031c07f871142c91548722189e0a79a87b80",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L19_(rechts).svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

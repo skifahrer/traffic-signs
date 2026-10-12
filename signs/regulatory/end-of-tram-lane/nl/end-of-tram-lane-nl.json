@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F16",
+  "image": {
+    "file": "end-of-tram-lane-nl.svg",
+    "sha1": "770c93f68b992aecc659ec8551b921b63afaaeb6",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F16.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

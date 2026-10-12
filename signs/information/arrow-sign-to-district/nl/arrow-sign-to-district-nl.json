@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K12",
+  "image": {
+    "file": "arrow-sign-to-district-nl.svg",
+    "sha1": "708e0d9b09c815035a2bfa76f88aaff6d87b7566",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K12.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

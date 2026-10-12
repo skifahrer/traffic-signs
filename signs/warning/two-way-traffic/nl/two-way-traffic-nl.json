@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J29",
+  "image": {
+    "file": "two-way-traffic-nl.svg",
+    "sha1": "1f87f81d1c0359b67e633ef00e3d5d984fb7dd82",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J29_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

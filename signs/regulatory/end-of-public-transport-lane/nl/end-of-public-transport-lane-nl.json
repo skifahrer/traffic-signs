@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F14",
+  "image": {
+    "file": "end-of-public-transport-lane-nl.svg",
+    "sha1": "296acd5f932a8243f88ef0cb23d61719d7f08184",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F14.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

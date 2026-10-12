@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J21",
+  "image": {
+    "file": "children-nl.svg",
+    "sha1": "1f778ee710c8e30e705c3fd1e9e7252a717c080e",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J21_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

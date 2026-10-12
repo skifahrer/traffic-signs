@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F1",
+  "image": {
+    "file": "no-overtaking-nl.svg",
+    "sha1": "c263a90a0ab886b02d6bbd044f5796a07c7417a7",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F1_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

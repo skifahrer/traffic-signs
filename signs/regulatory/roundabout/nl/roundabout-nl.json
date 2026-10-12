@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "D1",
+  "image": {
+    "file": "roundabout-nl.svg",
+    "sha1": "8c0fa549706b65ab7a17bb529a7483ca8b55f5ed",
+    "source": "https://commons.wikimedia.org/wiki/File:NL_verkeersbord_D1.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

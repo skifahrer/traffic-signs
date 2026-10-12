@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C19",
+  "image": {
+    "file": "maximum-height-nl.svg",
+    "sha1": "f79a96158e6c0cf64534e880fb6e2722ab43fc17",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C19_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

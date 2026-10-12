@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "B2",
+  "image": {
+    "file": "end-of-priority-road-nl.svg",
+    "sha1": "141a1fb68bbaf4a92c01eba7f1f805d2e05b5794",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_B2_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

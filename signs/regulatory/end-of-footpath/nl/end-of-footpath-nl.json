@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "G8",
+  "image": {
+    "file": "end-of-footpath-nl.svg",
+    "sha1": "fbf52a7c14c8dbbbf694c2bf1e50a64b0d3e7c94",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G8.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

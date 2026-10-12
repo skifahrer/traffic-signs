@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L3a",
+  "image": {
+    "file": "bus-and-tram-stop-nl.svg",
+    "sha1": "023ba82d2d4448554952382f043f421e71f599c7",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L3a.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

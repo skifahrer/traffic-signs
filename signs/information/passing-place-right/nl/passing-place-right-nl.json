@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L20",
+  "image": {
+    "file": "passing-place-right-nl.svg",
+    "sha1": "5716a40170713e4885d588c8bdb720f25499aea1",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L20.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "A4",
+  "image": {
+    "file": "recommended-speed-nl.svg",
+    "sha1": "249afd1920ab13412597c7e8cb62f2bab93c1901",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_A4.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

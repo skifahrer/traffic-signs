@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Nederlands_verkeersbord_J8_2023" width="672" height="587" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<path id="bord_rood" style="fill:#c1121c;stroke:#c1121c;stroke-width:40;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="bies_wit" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:20;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="driehoek_rood" fill="#c1121c" d="M 20.641,567 651.359,567 336,20.782 Z"/>
+	<path id="driehoek_wit" fill="#f7fbf5" d="M 137.208,499.7 534.792,499.7 336,155.382 Z"/>
+	<g id="symbool" transform="matrix(8.111,8.111,-8.111,8.111,-685.33498,-478.96533)">
+		<path id="symbool_zwart" fill="#2a2d2f" d="m 114.87636,-18.043376 v 7 h -7 v 4 h 7 v 7 h 4 v -7 h 7 v -4 h -7 v -7 z"/>
+	</g>
+</svg>

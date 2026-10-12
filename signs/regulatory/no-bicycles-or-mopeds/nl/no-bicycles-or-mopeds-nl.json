@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C15",
+  "image": {
+    "file": "no-bicycles-or-mopeds-nl.svg",
+    "sha1": "b1ad65bda2c2e41991bb11248dce619e40e198b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C15_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

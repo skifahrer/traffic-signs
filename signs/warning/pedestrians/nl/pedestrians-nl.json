@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J23",
+  "image": {
+    "file": "pedestrians-nl.svg",
+    "sha1": "9ccc17d4e21d3cf8ad424dfac434822aa23174dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J23_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

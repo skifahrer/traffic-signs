@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C10",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-nl.svg",
+    "sha1": "7493f19a6d77d1197268790be55c35143a5ec9f4",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C10_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

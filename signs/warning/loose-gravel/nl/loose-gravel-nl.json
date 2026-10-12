@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J25",
+  "image": {
+    "file": "loose-gravel-nl.svg",
+    "sha1": "8586f807e4f683a4c196f0ea06982bf6c33b102f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J25_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

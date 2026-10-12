@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F22",
+  "image": {
+    "file": "end-of-truck-lane-nl.svg",
+    "sha1": "c0106ee0132b07a0f661a23a6b3adc5b527dd94f",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F22.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

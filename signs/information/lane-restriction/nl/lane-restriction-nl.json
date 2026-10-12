@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L11",
+  "image": {
+    "file": "lane-restriction-nl.svg",
+    "sha1": "f65007585db0417f4736133e77b1dea3e8d3448c",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L11.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

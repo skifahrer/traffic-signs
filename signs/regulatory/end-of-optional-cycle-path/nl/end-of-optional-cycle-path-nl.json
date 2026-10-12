@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "G14",
+  "image": {
+    "file": "end-of-optional-cycle-path-nl.svg",
+    "sha1": "6925b4d7783ddb37313e9d4ed30df71b4c9d25ab",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G14.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

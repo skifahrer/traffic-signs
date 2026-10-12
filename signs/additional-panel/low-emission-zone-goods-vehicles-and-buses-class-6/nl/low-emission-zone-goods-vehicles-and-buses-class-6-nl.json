@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "nl",
   "code": "C22e10",
+  "image": {
+    "file": "low-emission-zone-goods-vehicles-and-buses-class-6-nl.svg",
+    "sha1": "bac999210e3a7fda6a0a23c9ed85ce826b0c702b",
+    "source": "https://commons.wikimedia.org/wiki/File:NL-C22e10.svg",
+    "author": "LxH526",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

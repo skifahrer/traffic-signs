@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "G12b",
+  "image": {
+    "file": "end-of-cycle-and-moped-path-nl.svg",
+    "sha1": "59d1f9b49387f93a21817fb4d1e98b92635078c6",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G12b.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

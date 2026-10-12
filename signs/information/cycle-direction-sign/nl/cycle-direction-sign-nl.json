@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K7",
+  "image": {
+    "file": "cycle-direction-sign-nl.svg",
+    "sha1": "aa80e80c43280f0d16ebe9d0967fbc95fba615a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K7.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

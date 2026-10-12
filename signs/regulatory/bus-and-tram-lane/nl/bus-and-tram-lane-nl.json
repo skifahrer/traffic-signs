@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F17",
+  "image": {
+    "file": "bus-and-tram-lane-nl.svg",
+    "sha1": "26f6164eee594e70ac92e389e0a029937f44b6ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F17.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

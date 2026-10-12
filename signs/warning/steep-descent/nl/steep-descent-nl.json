@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J7",
+  "image": {
+    "file": "steep-descent-nl.svg",
+    "sha1": "86dea673d2a8b641baeacb695ace154d3c1f6e00",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J7_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

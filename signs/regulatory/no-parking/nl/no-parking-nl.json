@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "E1",
+  "image": {
+    "file": "no-parking-nl.svg",
+    "sha1": "5aacbc501ecdc0998d31c8b8e12bcf56ed7a7cb2",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_E1_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

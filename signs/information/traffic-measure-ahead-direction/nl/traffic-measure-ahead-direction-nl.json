@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L10",
+  "image": {
+    "file": "traffic-measure-ahead-direction-nl.svg",
+    "sha1": "e5992b8a8556e14fd707b70fb4af8c30b3a30add",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L10.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

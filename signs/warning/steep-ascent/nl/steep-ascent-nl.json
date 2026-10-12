@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J6",
+  "image": {
+    "file": "steep-ascent-nl.svg",
+    "sha1": "7c310802c24fcc79db050186f9c0c6ff99490842",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J6_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

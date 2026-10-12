@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K5",
+  "image": {
+    "file": "advance-direction-sign-diagrammatic-nl.svg",
+    "sha1": "c23a16251b1efb5a6538dcf34119abc52e0c68cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K5.svg",
+    "author": "SAMnl",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

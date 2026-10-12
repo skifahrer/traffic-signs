@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C8",
+  "image": {
+    "file": "no-tractors-nl.svg",
+    "sha1": "aada2dcb1f82d45c6e7f32a924999487c17954d1",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C8_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

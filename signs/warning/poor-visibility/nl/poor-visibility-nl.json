@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J35",
+  "image": {
+    "file": "poor-visibility-nl.svg",
+    "sha1": "5ddb335b6b4e3ad952c4a62c98f72e4f9f28a2db",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J35_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

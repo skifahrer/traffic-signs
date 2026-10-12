@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C16",
+  "image": {
+    "file": "no-pedestrians-nl.svg",
+    "sha1": "351683be8bffdb1d4ae830008b20931f7a6afbac",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C16_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

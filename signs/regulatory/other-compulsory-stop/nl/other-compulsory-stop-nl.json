@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F10",
+  "image": {
+    "file": "other-compulsory-stop-nl.svg",
+    "sha1": "c7b0b991881c252442cfd877755caa8aafe49104",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F10_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

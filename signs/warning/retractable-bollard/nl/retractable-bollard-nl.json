@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "nl",
   "code": "J39",
+  "image": {
+    "file": "retractable-bollard-nl.svg",
+    "sha1": "c09cd20e2126d0ba0a6be3d56f8354fbb4f222c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_J39_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

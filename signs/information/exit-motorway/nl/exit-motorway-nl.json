@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "BB01",
+  "image": {
+    "file": "exit-motorway-nl.svg",
+    "sha1": "c051a51acd015cc531a5b70b1d94572dbb2bc146",
+    "source": "https://commons.wikimedia.org/wiki/File:NL_verkeersbord_BB01.svg",
+    "author": "LxH526",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

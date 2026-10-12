@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Nederlands_verkeersbord_F7_2023" width="600" height="600" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<circle id="witte_cirkel_met_rode_rand" cx="300" cy="300" r="256.35" fill="#f7fbf5" stroke="#c1121c" stroke-width="87.3"/>
+	<circle id="bies_wit" cx="300" cy="300" r="285" fill="none" stroke="#f7fbf5" stroke-width="10"/>
+	<path id="symbool_zwart" fill="#2a2d2f" d="m 245.4583,224.43591 v 52.5317 l 50.6706,-11.79778 c 12.2833,-4.83887 21.94486,1.50507 15.00213,13.36759 l -77.32486,111.05131 c -6.99128,9.93668 -12.88208,9.93668 -19.87337,0 L 136.60795,278.53742 c -6.94273,-11.86252 2.71883,-18.20646 14.98594,-13.36759 l 50.68678,11.79778 v -52.5317 c 0,-127.28338 206.46935,-126.39329 206.46935,0 V 429.15743 H 364.24534 V 224.43591 c 0,-68.53721 -118.78704,-68.53721 -118.78704,0"/>
+</svg>

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C14",
+  "image": {
+    "file": "no-bicycles-nl.svg",
+    "sha1": "c2e86e9418ec47a67d9f8ec5887788de896ce9c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C14_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

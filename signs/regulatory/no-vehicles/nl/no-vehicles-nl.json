@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C1",
+  "image": {
+    "file": "no-vehicles-nl.svg",
+    "sha1": "e2d745f5157b295260d6341e0769512e8b66bf09",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C1_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

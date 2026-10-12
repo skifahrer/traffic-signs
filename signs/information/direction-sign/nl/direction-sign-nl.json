@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "K6",
+  "image": {
+    "file": "direction-sign-nl.svg",
+    "sha1": "622252c8a122bfcef342f7f9c52d252207abc3cd",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_K6.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",

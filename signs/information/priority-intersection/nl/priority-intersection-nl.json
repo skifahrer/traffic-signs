@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "B3",
+  "image": {
+    "file": "priority-intersection-nl.svg",
+    "sha1": "dfc98a58d90fb98e0a4f7ac04bcffc215e546dca",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_B3_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

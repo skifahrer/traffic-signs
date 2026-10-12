@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F10 (douane)",
+  "image": {
+    "file": "customs-stop-nl.svg",
+    "sha1": "2a5def1f21b3d2cb11201d375da5fae0006ba3d8",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F10_(v1).svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

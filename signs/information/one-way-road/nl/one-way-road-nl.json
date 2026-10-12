@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "C3",
+  "image": {
+    "file": "one-way-road-nl.svg",
+    "sha1": "831ff0b95f6d870425ea7df8ad34b5f010a52e73",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C3.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C6",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-nl.svg",
+    "sha1": "cf366740438a1c7bc3934f48857e2d870c9d9ddd",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C6_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

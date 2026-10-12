@@ -3,6 +3,14 @@
   "category": "information",
   "country": "nl",
   "code": "L13",
+  "image": {
+    "file": "tunnel-nl.svg",
+    "sha1": "149213c1392a5851267807d08d59eb795d88a8e8",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_L13.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

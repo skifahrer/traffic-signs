@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "C20",
+  "image": {
+    "file": "maximum-axle-weight-nl.svg",
+    "sha1": "6d4cee05f712ec07d49ea2fa54b96eafdb161127",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_C20_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

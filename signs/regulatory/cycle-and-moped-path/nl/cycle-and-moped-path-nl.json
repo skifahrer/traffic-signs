@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "G12a",
+  "image": {
+    "file": "cycle-and-moped-path-nl.svg",
+    "sha1": "ee703ebc5317a67b4e5ac5c27d99403fca15c880",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G12a.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",

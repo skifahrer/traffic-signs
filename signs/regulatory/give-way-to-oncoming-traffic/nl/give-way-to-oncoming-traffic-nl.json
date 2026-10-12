@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "nl",
   "code": "F5",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-nl.svg",
+    "sha1": "889e3dde2c4048d698e984675584991315114481",
+    "source": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_F5_2023.svg",
+    "author": "SVG version by Bouwe Brouwer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "nl-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
