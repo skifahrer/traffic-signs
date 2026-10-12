@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E1",
+  "image": {
+    "file": "no-parking-be.svg",
+    "sha1": "44982c663e6a7b696026ecc0232548385867ea39",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E1.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

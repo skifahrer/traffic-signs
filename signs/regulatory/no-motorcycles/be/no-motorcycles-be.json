@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C7",
+  "image": {
+    "file": "no-motorcycles-be.svg",
+    "sha1": "124782a37783f87010d848aa275bc151aef38cee",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C7.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

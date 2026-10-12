@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GIII (vervormd wegdek)",
+  "image": {
+    "file": "uneven-road-surface-panel-be.svg",
+    "sha1": "ae725fdaa11368cf6d770407c340d68ea2f1f1f6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GIII_Vervormd_wegdek.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

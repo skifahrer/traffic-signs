@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A51",
+  "image": {
+    "file": "danger-be.svg",
+    "sha1": "3840fd48535a93b206b728cc3552fae4ce18f93d",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A51.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

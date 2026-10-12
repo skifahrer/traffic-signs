@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A50",
+  "image": {
+    "file": "queues-be.svg",
+    "sha1": "7e10dedf37e4d49e903444ba78e7dbf224e37040",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A50.svg",
+    "author": "FOD Mobiliteit",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

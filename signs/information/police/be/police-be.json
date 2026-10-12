@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S10",
+  "image": {
+    "file": "police-be.svg",
+    "sha1": "ed4fe202e0893daa5880196f1c914de47b7c6e8b",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S10.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

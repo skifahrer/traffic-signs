@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "F60",
+  "image": {
+    "file": "parking-garage-be.svg",
+    "sha1": "81cc18d847cc658592e306aa40a14c6416395dc8",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F60.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F33b",
+  "image": {
+    "file": "direction-sign-valley-or-watercourse-be.svg",
+    "sha1": "bfb265788d6cfbe20dc35efcb57a678dcd706d55",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F33b.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

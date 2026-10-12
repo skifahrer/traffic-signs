@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F59",
+  "image": {
+    "file": "parking-direction-be.svg",
+    "sha1": "b32831b80234e4e370f6a63244bc404027656a71",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F59.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

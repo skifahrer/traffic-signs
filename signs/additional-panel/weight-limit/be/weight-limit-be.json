@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GVIIa",
+  "image": {
+    "file": "weight-limit-be.svg",
+    "sha1": "145e39be3ee9c057afc2d9f617038b98753a3e2d",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GVIIa_%2B2t.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

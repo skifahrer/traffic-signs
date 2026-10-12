@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C9",
+  "image": {
+    "file": "no-mopeds-be.svg",
+    "sha1": "a86ea17c52574ef16b0c2fcf720332d994df0ace",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C9.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

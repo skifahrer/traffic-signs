@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S30",
+  "image": {
+    "file": "sports-centre-be.svg",
+    "sha1": "a501081b16bf23b79c4a4f8efc8c2f44586cbfe9",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S30.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

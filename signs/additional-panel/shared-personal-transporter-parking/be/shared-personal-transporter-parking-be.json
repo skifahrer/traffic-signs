@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M22",
+  "image": {
+    "file": "shared-personal-transporter-parking-be.png",
+    "sha1": "63a94c5ae2d6a1fd6b09dc6e82b3b092bdfae34e",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M22.png",
+    "author": "Belgische Kamer van volksvertegenwoordigers",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

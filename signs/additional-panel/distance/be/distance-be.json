@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GIa",
+  "image": {
+    "file": "distance-be.svg",
+    "sha1": "7d877d1a6da2d5dbd0a1a8e70fbbf1b6ad1eae79",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GIa_150.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

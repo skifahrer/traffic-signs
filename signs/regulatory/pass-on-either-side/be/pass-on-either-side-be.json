@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "F21",
+  "image": {
+    "file": "pass-on-either-side-be.svg",
+    "sha1": "6a80d6b629e35726316de7639c43507bdcbdd99a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F21.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

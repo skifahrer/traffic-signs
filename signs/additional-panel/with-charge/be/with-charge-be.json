@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GVII (betalend)",
+  "image": {
+    "file": "with-charge-be.png",
+    "sha1": "ea82c2ba2b77d3d4c09cb9a2a9505d890436a263",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GVII_betalend.png",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

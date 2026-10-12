@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F17",
+  "image": {
+    "file": "bus-lane-start-be.svg",
+    "sha1": "b35f8f71ea07256ec0c896cba15e8b50877f6cb6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F17.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

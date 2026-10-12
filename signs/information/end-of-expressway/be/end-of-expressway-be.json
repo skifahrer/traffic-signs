@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F11",
+  "image": {
+    "file": "end-of-expressway-be.svg",
+    "sha1": "30dfc8938e78086042c87b00e3c8f2bd4b438627",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F11.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

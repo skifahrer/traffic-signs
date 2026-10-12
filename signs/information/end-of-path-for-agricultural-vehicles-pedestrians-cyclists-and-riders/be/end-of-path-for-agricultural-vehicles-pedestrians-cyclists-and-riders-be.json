@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F101c",
+  "image": {
+    "file": "end-of-path-for-agricultural-vehicles-pedestrians-cyclists-and-riders-be.svg",
+    "sha1": "8a3ad3cceae7c35a509c31d9b09712b62eda13cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F101c.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

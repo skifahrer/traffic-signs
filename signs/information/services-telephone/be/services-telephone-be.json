@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F61",
+  "image": {
+    "file": "services-telephone-be.svg",
+    "sha1": "a64ee3fb74aa844f4929b0a9c534cf39b8fde234",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F61.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

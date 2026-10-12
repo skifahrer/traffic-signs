@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S35",
+  "image": {
+    "file": "monument-be.svg",
+    "sha1": "76fa666ec9215f7c6f2bd6cdb08aec767ec8113a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S35.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

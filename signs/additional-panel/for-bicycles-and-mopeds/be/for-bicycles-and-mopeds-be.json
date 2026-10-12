@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M8",
+  "image": {
+    "file": "for-bicycles-and-mopeds-be.svg",
+    "sha1": "6fbdddfe5dbf2b5d1273c6dbb5ae89734283fc2d",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M8.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

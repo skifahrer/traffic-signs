@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A45",
+  "image": {
+    "file": "level-crossing-cross-single-track-be.svg",
+    "sha1": "07cb11c02bd5cb45f55df8f2e0eefb907315acb8",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A45.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

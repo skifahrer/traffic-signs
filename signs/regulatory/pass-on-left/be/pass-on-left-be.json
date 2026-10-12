@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "D1c",
+  "image": {
+    "file": "pass-on-left-be.svg",
+    "sha1": "a45c143df2ff5712a16536d71720089a8ac9eae4",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D01d.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",

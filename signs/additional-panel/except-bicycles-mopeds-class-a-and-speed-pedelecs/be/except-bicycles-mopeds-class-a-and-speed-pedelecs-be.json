@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M12",
+  "image": {
+    "file": "except-bicycles-mopeds-class-a-and-speed-pedelecs-be.svg",
+    "sha1": "c2c1ccf6840bd24adfb4f10fd4b7666cd401ce2a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M12.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

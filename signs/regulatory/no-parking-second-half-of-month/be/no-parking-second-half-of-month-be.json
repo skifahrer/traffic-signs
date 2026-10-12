@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E7",
+  "image": {
+    "file": "no-parking-second-half-of-month-be.svg",
+    "sha1": "a3d8d58849cd419cb8591ccf0168a8024d4d9856",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E7.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

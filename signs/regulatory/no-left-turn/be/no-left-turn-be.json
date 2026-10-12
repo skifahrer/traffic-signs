@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C31a",
+  "image": {
+    "file": "no-left-turn-be.svg",
+    "sha1": "e2df702a4fe832e505c344bd8572b15233ba8adb",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C31g.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

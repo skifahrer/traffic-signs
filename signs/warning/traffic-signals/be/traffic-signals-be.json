@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A33",
+  "image": {
+    "file": "traffic-signals-be.svg",
+    "sha1": "efc6064f8d61d9991e836609b00ff2442e7648f1",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A33.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

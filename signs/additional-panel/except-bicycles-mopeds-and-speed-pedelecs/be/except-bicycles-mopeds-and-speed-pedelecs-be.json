@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M3bis",
+  "image": {
+    "file": "except-bicycles-mopeds-and-speed-pedelecs-be.svg",
+    "sha1": "bcaa477ef5104683ca1403b0746e4ecbac90d06f",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M3bis.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

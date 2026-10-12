@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A39",
+  "image": {
+    "file": "two-way-traffic-be.svg",
+    "sha1": "d36dc66a72661cfad6fd7258ade7e6594303c219",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A39.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

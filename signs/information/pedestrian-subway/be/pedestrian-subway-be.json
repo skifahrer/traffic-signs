@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F51a",
+  "image": {
+    "file": "pedestrian-subway-be.svg",
+    "sha1": "4b58cc5249cb9d467c49f3fee682bc33301debc5",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F51a.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

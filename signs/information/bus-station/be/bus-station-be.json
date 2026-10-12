@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S14",
+  "image": {
+    "file": "bus-station-be.svg",
+    "sha1": "bbcbe7e241784246e2d7a59d464afe64bc50b50f",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S14.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

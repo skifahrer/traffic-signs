@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E9c",
+  "image": {
+    "file": "parking-goods-vehicles-only-be.svg",
+    "sha1": "89ae47244ea37dde48390e0340c68e54c3b60e57",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9c.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

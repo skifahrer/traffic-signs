@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C24a",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-be.svg",
+    "sha1": "e38a35d500ba6b8f09f7a2b41f8a06792be1d48b",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C24a.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

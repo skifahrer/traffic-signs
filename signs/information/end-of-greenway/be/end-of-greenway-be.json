@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F101a",
+  "image": {
+    "file": "end-of-greenway-be.svg",
+    "sha1": "2e6af14b1be4f4e07a7912aa1bd85ceed51a48c7",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F101a.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

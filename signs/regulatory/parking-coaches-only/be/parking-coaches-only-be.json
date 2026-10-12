@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E9d",
+  "image": {
+    "file": "parking-coaches-only-be.svg",
+    "sha1": "fcd72e5212e17d169c7f4c95137a1db34ba73ad1",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9d.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

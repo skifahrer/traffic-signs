@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GIX",
+  "image": {
+    "file": "road-narrows-one-lane-panel-be.svg",
+    "sha1": "fac62a44e7ecc66b6a3c03b0603200bf87e28134",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GIX.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

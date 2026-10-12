@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S21",
+  "image": {
+    "file": "services-post-office-be.svg",
+    "sha1": "e28e7f37744a1e97294882fefc2ee8046b7a68e6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S21.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

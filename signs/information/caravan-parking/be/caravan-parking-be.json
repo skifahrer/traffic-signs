@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "E9h",
+  "image": {
+    "file": "caravan-parking-be.svg",
+    "sha1": "f0733223fde004554e0e0441e1bc89ff1d5d38e3",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9h.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

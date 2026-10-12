@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E9g",
+  "image": {
+    "file": "parking-on-carriageway-be.svg",
+    "sha1": "80a1cd5bdf8962bc3ca7b625c32ff5acb0121fa8",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9g.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

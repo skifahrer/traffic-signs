@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GVII (ticket)",
+  "image": {
+    "file": "pay-and-display-be.png",
+    "sha1": "1c8202f46a3875caad2de6c9ea01c5fa2fc84bab",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GVII_ticket.png",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

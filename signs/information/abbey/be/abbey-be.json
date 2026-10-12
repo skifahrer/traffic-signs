@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S33",
+  "image": {
+    "file": "abbey-be.svg",
+    "sha1": "26eacc2df38d14137663ec942e29fc0f95032901",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S33.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

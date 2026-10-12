@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C27",
+  "image": {
+    "file": "maximum-width-be.svg",
+    "sha1": "11b51312b89a7555d512f2b965b286a1ffb5030f",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C27.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

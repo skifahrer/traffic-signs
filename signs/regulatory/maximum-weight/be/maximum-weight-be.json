@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C21",
+  "image": {
+    "file": "maximum-weight-be.svg",
+    "sha1": "1652362537226bd9c6567b659003f8f7f9d24607",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C21.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

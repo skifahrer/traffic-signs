@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F85",
+  "image": {
+    "file": "two-way-traffic-on-one-carriageway-be.svg",
+    "sha1": "9129e3de4c07a3eca5768419e7f3ad6d1a01dc6a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F85.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

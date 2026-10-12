@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S31",
+  "image": {
+    "file": "tourist-castle-be.svg",
+    "sha1": "4ff586c6aee6a0c88f7d33f8d566794172dfab13",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S31.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

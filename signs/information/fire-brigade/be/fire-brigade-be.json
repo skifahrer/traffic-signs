@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S11",
+  "image": {
+    "file": "fire-brigade-be.svg",
+    "sha1": "d4229f20654bf75413cd1e35a45e87a13d586661",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S11.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

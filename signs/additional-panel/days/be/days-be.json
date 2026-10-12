@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GV (van maandag tot vrijdag)",
+  "image": {
+    "file": "days-be.svg",
+    "sha1": "bf21b60f8dd954bf5516b5403fb1469d4882a691",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GV_Van_maandag_tot_vrijdag.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

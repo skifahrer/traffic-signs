@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E11",
+  "image": {
+    "file": "alternate-side-parking-zone-be.svg",
+    "sha1": "036b5a5d41fe867d83946bf80d8d0ce3ef957972",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E11.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

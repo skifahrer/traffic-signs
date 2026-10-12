@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M24",
+  "image": {
+    "file": "shared-bicycle-and-personal-transporter-parking-be.png",
+    "sha1": "33adbfeb55cc578c39070e3083cdb66107b6b526",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M24.png",
+    "author": "Belgische Kamer van volksvertegenwoordigers",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

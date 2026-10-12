@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C23",
+  "image": {
+    "file": "no-goods-vehicles-be.svg",
+    "sha1": "a647872272b6c1b1a423057d39f138e12dd803f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C23.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

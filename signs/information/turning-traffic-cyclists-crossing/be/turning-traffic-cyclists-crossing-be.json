@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F50bis",
+  "image": {
+    "file": "turning-traffic-cyclists-crossing-be.svg",
+    "sha1": "a83ae64a11883069b831d54e22b17f92a62d61d9",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F50bis.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

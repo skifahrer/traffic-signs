@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "B21",
+  "image": {
+    "file": "priority-over-oncoming-traffic-be.svg",
+    "sha1": "f15b0fae9c65d4fa780e56056a560ce90ab3d2b3",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B21.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

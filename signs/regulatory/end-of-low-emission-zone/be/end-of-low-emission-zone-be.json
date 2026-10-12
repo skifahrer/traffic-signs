@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "F118",
+  "image": {
+    "file": "end-of-low-emission-zone-be.svg",
+    "sha1": "933403dba93f1589d7b5e084127b74fe9216c19e",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F118.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

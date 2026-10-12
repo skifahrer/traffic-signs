@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M16",
+  "image": {
+    "file": "mopeds-class-b-and-speed-pedelecs-must-not-use-cycle-path-be.svg",
+    "sha1": "f68106de453e9aec8fe69b5c85ea3c54a68207b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M16.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",

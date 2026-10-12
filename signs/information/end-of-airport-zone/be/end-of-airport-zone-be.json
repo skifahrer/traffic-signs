@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F120",
+  "image": {
+    "file": "end-of-airport-zone-be.svg",
+    "sha1": "9bddbaf1f388d0f4a9d6fa2a21bfbeca4f4348d6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F120.svg",
+    "author": "Government of Belgium",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

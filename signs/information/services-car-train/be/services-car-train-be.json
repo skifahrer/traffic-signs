@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S20",
+  "image": {
+    "file": "services-car-train-be.svg",
+    "sha1": "549573c10199104b1e2497381a63abaae6b81097",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S20.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

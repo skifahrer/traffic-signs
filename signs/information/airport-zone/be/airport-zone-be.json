@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F119",
+  "image": {
+    "file": "airport-zone-be.svg",
+    "sha1": "9fbe6c85e759df1a98e48224d23b470468ea3c68",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F119.svg",
+    "author": "Government of Belgium",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

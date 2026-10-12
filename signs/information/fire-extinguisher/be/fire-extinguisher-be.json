@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F56",
+  "image": {
+    "file": "fire-extinguisher-be.svg",
+    "sha1": "640e8825ba68e577449f561c2dc962f3758f9443",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F56.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GXa",
+  "image": {
+    "file": "section-start-be.svg",
+    "sha1": "3f33a932673929be974420e5cc0a06751c5ce300",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GXa.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

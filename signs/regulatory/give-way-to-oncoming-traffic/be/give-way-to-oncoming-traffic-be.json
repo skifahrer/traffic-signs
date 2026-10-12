@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "B19",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-be.svg",
+    "sha1": "3477e2dcb72c124ee15f05b1f9e5a6237b4f3a5e",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B19.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

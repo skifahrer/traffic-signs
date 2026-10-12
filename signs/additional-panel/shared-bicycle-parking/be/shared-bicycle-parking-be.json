@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M23",
+  "image": {
+    "file": "shared-bicycle-parking-be.png",
+    "sha1": "e3755d365217b8cbd3bc6b4b992b130facf44856",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M23.png",
+    "author": "Belgische Kamer van volksvertegenwoordigers",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

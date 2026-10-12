@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A25",
+  "image": {
+    "file": "cyclists-be.svg",
+    "sha1": "32f3650f7f514878ca2ca7c7e0af021125ab7a5c",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A25.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

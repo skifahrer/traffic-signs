@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A49",
+  "image": {
+    "file": "trams-be.svg",
+    "sha1": "686c1362317fe018a4eeb7540f67051f5d7361ac",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A49.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

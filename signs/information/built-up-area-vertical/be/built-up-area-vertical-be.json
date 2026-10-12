@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F1a (verticaal)",
+  "image": {
+    "file": "built-up-area-vertical-be.svg",
+    "sha1": "5a6d81dd3a94efb80706aa64ec0e30fa589c38eb",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F1a_verticaal.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "F18",
+  "image": {
+    "file": "bus-and-tram-lane-be.svg",
+    "sha1": "e8805008dce4bf67db8b95e3ed76f4f0a1237788",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F18.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

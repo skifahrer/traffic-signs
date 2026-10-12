@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F89",
+  "image": {
+    "file": "lane-restriction-ahead-be.svg",
+    "sha1": "9926d65febd385f68babd852fe47367e2d7b2a67",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F89.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

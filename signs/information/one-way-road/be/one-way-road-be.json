@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F19",
+  "image": {
+    "file": "one-way-road-be.svg",
+    "sha1": "4e8711a4d4e5ea02423097a5f2a595afc7f47463",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F19.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

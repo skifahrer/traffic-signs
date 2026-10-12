@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "D10",
+  "image": {
+    "file": "shared-footpath-cycle-path-be.svg",
+    "sha1": "37e0f7fba43b9e02d5e11dd569a35973d9e6636a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D10.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",

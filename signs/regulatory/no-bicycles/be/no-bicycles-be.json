@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C11",
+  "image": {
+    "file": "no-bicycles-be.svg",
+    "sha1": "5bb71560a69ee208f94cd6b968134207d7ed9ab3",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C11.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

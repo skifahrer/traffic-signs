@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C33",
+  "image": {
+    "file": "no-u-turn-be.svg",
+    "sha1": "78eac99cffe00e9706b3c58afa1263c1616b98ff",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C33.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

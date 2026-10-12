@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "B1",
+  "image": {
+    "file": "give-way-be.svg",
+    "sha1": "95e734ceaee819eb6218afdf6f2e6045c670afdd",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B1.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

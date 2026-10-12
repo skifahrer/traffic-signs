@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F34c2",
+  "image": {
+    "file": "cycle-tourist-direction-sign-b-be.svg",
+    "sha1": "adb42e074ed7943d67b87b5ca99cb49bc9763003",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F34c2.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

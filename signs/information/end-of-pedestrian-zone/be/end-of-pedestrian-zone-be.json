@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F105",
+  "image": {
+    "file": "end-of-pedestrian-zone-be.svg",
+    "sha1": "ff75162055fc16b392a19d83fb8486691034141e",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F105.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

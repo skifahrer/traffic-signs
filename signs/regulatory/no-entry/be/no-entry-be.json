@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C1",
+  "image": {
+    "file": "no-entry-be.svg",
+    "sha1": "cc0c898d2e0003ebe956ae474b6dca890f727f69",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C1.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

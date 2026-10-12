@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F31",
+  "image": {
+    "file": "direction-sign-motorway-be.svg",
+    "sha1": "c8bc85503857e11fc4149f4fc49dafb529602fa0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F31.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

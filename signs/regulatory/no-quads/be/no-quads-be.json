@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C6",
+  "image": {
+    "file": "no-quads-be.svg",
+    "sha1": "c6887b612dd2052a366180de4a24348a1a014c46",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C6.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

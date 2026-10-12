@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F14",
+  "image": {
+    "file": "advanced-stop-box-for-cyclists-be.svg",
+    "sha1": "290f8f9735aedd1610eff92aed3f205292777fa6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F14.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

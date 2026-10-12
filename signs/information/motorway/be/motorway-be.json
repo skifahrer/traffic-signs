@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F5",
+  "image": {
+    "file": "motorway-be.svg",
+    "sha1": "ab027c2e0ccf91d486c1d8525d5958fcde0a3104",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F5.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

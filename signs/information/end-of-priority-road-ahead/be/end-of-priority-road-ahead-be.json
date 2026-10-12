@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "B13",
+  "image": {
+    "file": "end-of-priority-road-ahead-be.svg",
+    "sha1": "cf418b7c4571bce1ae5b321beabc615091068b9a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B13.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

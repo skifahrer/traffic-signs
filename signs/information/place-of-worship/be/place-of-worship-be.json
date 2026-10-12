@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S18",
+  "image": {
+    "file": "place-of-worship-be.svg",
+    "sha1": "2cee3baec6365e9137c7371b927b40c9f2630e43",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S18.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

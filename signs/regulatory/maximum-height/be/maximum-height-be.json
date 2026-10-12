@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C29",
+  "image": {
+    "file": "maximum-height-be.svg",
+    "sha1": "2c8152b7cc8f572e728ec0a038d1297ce67ead57",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C29.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

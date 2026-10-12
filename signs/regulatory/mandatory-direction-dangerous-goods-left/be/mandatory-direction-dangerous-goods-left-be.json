@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "D4 (links)",
+  "image": {
+    "file": "mandatory-direction-dangerous-goods-left-be.svg",
+    "sha1": "a86168aef6100e8df20aac4f22c22ce90a7b4996",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_D4_links.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

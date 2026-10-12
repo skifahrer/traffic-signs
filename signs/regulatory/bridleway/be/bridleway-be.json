@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "D13",
+  "image": {
+    "file": "bridleway-be.svg",
+    "sha1": "c16712a4cb2dfbcf01cbf55703a994655ffbd178",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D13.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",

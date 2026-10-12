@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S32",
+  "image": {
+    "file": "ruins-be.svg",
+    "sha1": "50001054e128011b36d3c35f311d995c685e4f2b",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S32.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

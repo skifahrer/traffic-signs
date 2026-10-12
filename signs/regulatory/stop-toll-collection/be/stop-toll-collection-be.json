@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C47",
+  "image": {
+    "file": "stop-toll-collection-be.svg",
+    "sha1": "13ba0596241224cc0bf068f851041ed0bca15de0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_C47.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

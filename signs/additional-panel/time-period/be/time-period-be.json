@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GV (van 7 tot 19u)",
+  "image": {
+    "file": "time-period-be.svg",
+    "sha1": "c0ac696b2f1cb7edd99b1fc02d2bb586b5cb3914",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GV_Van_7_tot_19u.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S2",
+  "image": {
+    "file": "exhibition-centre-be.svg",
+    "sha1": "a3ae95ff3c9d964e9c25edfbb22c75388b4fd1ea",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S2.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

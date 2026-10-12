@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M1",
+  "image": {
+    "file": "for-bicycles-be.svg",
+    "sha1": "a6de9b4c727c8d5947e6c5c55f7467f1d7c3b8e5",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M1.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

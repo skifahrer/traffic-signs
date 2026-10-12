@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F7",
+  "image": {
+    "file": "end-of-motorway-be.svg",
+    "sha1": "2726d284e3e2caa385c7a62076aef016005c6746",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F7.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

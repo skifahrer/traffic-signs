@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M6",
+  "image": {
+    "file": "mopeds-class-b-must-use-cycle-path-be.svg",
+    "sha1": "4865043b52c290e05a16faf79776c794ad994deb",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M6.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",

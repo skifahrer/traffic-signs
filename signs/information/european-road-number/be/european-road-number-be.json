@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F23c",
+  "image": {
+    "file": "european-road-number-be.svg",
+    "sha1": "5e6487e0be488e3e0a47bb49c7861a13c0bba55c",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F23c.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

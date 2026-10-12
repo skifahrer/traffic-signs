@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "D9a",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-be.svg",
+    "sha1": "161e868eb87c43d1bbf6b2fccae9f677a03cc125",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_D09.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C46",
+  "image": {
+    "file": "end-of-all-restrictions-be.svg",
+    "sha1": "9a7257de0f597d391f66dbb5b3a5d8ab5951f5e5",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C46.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",

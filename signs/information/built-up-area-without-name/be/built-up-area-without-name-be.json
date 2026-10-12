@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F1b (horizontaal)",
+  "image": {
+    "file": "built-up-area-without-name-be.svg",
+    "sha1": "7e3e2decf372c947622c972c646a9d71bc836ac6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_F1b_horizontaal.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "S13",
+  "image": {
+    "file": "cemetery-be.svg",
+    "sha1": "fe1b90ae42f89b895cd20ebbeca733499fdc8728",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_S13.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

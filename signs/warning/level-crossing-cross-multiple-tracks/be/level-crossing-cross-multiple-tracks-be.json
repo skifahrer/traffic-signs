@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A47",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-be.svg",
+    "sha1": "f942bb50e4564f4460fa9ca217b4b75234b4db22",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A47.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

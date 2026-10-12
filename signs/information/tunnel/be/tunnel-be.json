@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F8",
+  "image": {
+    "file": "tunnel-be.svg",
+    "sha1": "a008cbf88f381444e81f7b87032fb9f745791577",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F8.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

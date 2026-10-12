@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "GXc",
+  "image": {
+    "file": "section-short-be.svg",
+    "sha1": "98cd744c55c180435cc8301b13aa64c7d7124f46",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_GXc.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

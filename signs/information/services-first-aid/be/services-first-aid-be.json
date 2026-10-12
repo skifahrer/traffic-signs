@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F55",
+  "image": {
+    "file": "services-first-aid-be.svg",
+    "sha1": "9cd22ab2db580f364b49463be8fefaafe21a8a45",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F55.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

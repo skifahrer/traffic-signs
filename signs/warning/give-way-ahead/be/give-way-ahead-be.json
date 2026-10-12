@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "B3",
+  "image": {
+    "file": "give-way-ahead-be.svg",
+    "sha1": "1a86261b96f64be48e5503ebf710c6431428bd1d",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B3.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

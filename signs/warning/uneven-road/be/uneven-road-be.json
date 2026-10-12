@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A13",
+  "image": {
+    "file": "uneven-road-be.svg",
+    "sha1": "20738064f6b328ba8247ed107b3724e1451e2416",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A13.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

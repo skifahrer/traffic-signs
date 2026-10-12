@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F34a",
+  "image": {
+    "file": "direction-sign-public-facilities-be.svg",
+    "sha1": "a30c603c39f3b83b1acee3b9672bde19670f6840",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F34a.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

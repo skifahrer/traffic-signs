@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "B5",
+  "image": {
+    "file": "stop-be.svg",
+    "sha1": "4052a21d9ff8a39262a8318e93b686298abe9b2c",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_B5.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

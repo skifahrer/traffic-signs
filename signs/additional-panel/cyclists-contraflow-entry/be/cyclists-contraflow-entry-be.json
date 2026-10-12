@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M4",
+  "image": {
+    "file": "cyclists-contraflow-entry-be.svg",
+    "sha1": "0ec4ca5275281fcc51be4ffe0f0f87c65e2d38d6",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M4.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",

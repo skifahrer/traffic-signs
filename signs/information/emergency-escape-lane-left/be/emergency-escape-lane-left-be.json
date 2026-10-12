@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F95",
+  "image": {
+    "file": "emergency-escape-lane-left-be.svg",
+    "sha1": "2e85db6a538cc8a133ee21344dc53d1333677043",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F95.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

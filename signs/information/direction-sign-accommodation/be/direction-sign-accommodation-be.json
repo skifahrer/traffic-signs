@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F37",
+  "image": {
+    "file": "direction-sign-accommodation-be.svg",
+    "sha1": "720ee4ff7c597a8e66e0b057b301f872482d1319",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F37.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "E9i",
+  "image": {
+    "file": "parking-motorcycles-only-be.svg",
+    "sha1": "b78d0b87aeed98ac44c6736255b75e1fd49420a0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_E9j.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_E%3A_Parkeren-_en_stilstaanborden",

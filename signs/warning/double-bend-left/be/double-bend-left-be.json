@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "be",
   "code": "A1c",
+  "image": {
+    "file": "double-bend-left-be.svg",
+    "sha1": "feaa7643d118f1ede07681b80dc10f4e9dbecf9b",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_A1c.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",

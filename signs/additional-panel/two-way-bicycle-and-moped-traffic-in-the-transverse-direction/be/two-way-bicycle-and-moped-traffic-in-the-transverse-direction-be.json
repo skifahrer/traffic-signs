@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "be",
   "code": "M10",
+  "image": {
+    "file": "two-way-bicycle-and-moped-traffic-in-the-transverse-direction-be.svg",
+    "sha1": "76fabbeca8cf15e36b9c1ab9170e80087d3f9768",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_traffic_sign_M10.svg",
+    "author": "Userc11",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",

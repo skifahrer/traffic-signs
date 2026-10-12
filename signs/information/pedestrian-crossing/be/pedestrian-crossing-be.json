@@ -3,6 +3,14 @@
   "category": "information",
   "country": "be",
   "code": "F49",
+  "image": {
+    "file": "pedestrian-crossing-be.svg",
+    "sha1": "03a093739e11f4a06b0b1aca436a0ca2e7a84f1b",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_F49.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",

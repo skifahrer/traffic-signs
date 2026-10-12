@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "be",
   "code": "C13",
+  "image": {
+    "file": "no-animal-drawn-vehicles-be.svg",
+    "sha1": "a5b11e38130e2c759e1b3db4720dbf1f9149ff0a",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_road_sign_C13.svg",
+    "author": "Vascer",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "be-wikipedia",
     "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_C%3A_Verbodsborden",
