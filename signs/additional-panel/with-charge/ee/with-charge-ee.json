@@ -1,0 +1,11 @@
+{
+  "sign": "with-charge",
+  "category": "additional-panel",
+  "country": "ee",
+  "code": "872a",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 872a.svg"
+  }
+}

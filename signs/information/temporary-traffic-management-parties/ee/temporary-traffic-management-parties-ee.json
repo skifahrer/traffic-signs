@@ -1,0 +1,11 @@
+{
+  "sign": "temporary-traffic-management-parties",
+  "category": "information",
+  "country": "ee",
+  "code": "595b",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 595b.svg"
+  }
+}

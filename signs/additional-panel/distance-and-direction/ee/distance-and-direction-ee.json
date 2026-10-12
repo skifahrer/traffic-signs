@@ -1,0 +1,11 @@
+{
+  "sign": "distance-and-direction",
+  "category": "additional-panel",
+  "country": "ee",
+  "code": "815",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 815.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-public-transport-and-cycle-lane",
+  "category": "regulatory",
+  "country": "ee",
+  "code": "526b",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 526b.svg"
+  }
+}

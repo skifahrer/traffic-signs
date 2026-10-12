@@ -1,0 +1,11 @@
+{
+  "sign": "distance-to-traffic-island-pass-either-side",
+  "category": "additional-panel",
+  "country": "ee",
+  "code": "817c",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 817c.svg"
+  }
+}

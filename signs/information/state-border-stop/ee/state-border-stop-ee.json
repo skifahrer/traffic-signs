@@ -1,0 +1,11 @@
+{
+  "sign": "state-border-stop",
+  "category": "information",
+  "country": "ee",
+  "code": "592c2",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 592c2.svg"
+  }
+}
