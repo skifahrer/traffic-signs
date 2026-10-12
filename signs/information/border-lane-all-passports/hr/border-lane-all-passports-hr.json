@@ -1,0 +1,11 @@
+{
+  "sign": "border-lane-all-passports",
+  "category": "information",
+  "country": "hr",
+  "code": "C129-1",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C129-1.svg"
+  }
+}

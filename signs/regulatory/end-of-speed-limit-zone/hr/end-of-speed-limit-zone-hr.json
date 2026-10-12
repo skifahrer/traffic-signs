@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-zone",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "C23",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C23 (30).svg"
+  }
+}

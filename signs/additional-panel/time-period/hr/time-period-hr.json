@@ -1,0 +1,11 @@
+{
+  "sign": "time-period",
+  "category": "additional-panel",
+  "country": "hr",
+  "code": "E04",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign E04.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "farm-animals",
+  "category": "warning",
+  "country": "hr",
+  "code": "A32",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign A32.svg"
+  }
+}

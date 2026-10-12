@@ -1,0 +1,11 @@
+{
+  "sign": "water-protection-area",
+  "category": "information",
+  "country": "hr",
+  "code": "C63",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign C63.svg"
+  }
+}

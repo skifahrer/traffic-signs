@@ -1,0 +1,11 @@
+{
+  "sign": "built-up-area",
+  "category": "information",
+  "country": "hr",
+  "code": "C76",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Prometni znak C79.svg"
+  }
+}

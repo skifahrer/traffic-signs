@@ -1,0 +1,11 @@
+{
+  "sign": "section-length",
+  "category": "additional-panel",
+  "country": "hr",
+  "code": "E02",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "Macedonia road sign 503.svg"
+  }
+}

@@ -1,0 +1,358 @@
+code,category,slug,name_en,name_hr
+A01,warning,danger,Other danger,Opasnost na cesti
+A02,warning,intersection,Intersection,Raskrižje cesta iste važnosti
+A03,warning,roundabout-ahead,Roundabout ahead,Raskrižje s kružnim tokom prometa
+A04,warning,crossroads-with-minor-road,Crossroads with a road without priority,Raskrižje sa sporednom cestom pod pravim kutom
+A04-1,warning,side-road-left-minor,Side road on the left (without priority),Spajanje sporedne ceste pod pravim kutom s lijeve strane
+A04-2,warning,side-road-right-minor,Side road on the right (without priority),Spajanje sporedne ceste pod pravim kutom s desne strane
+A04-3,warning,merging-traffic-from-left,Traffic merging from the left,Spajanje sporedne ceste pod oštrim kutom s lijeve strane
+A04-4,warning,merging-traffic-from-right,Traffic merging from the right,Spajanje sporedne ceste pod oštrim kutom s desne strane
+A05,warning,bend-left,Bend (left),Zavoj na lijevo
+A05-1,warning,bend-right,Bend (right),Zavoj na desno
+A05-2,warning,double-bend-left,Double bend (first to the left),Dvostruki zavoj ili više uzastopnih zavoja od kojih je prvi na lijevo
+A05-3,warning,double-bend-right,Double bend (first to the right),Dvostruki zavoj ili više uzastopnih zavoja od kojih je prvi na desno
+A06,warning,steep-descent,Steep descent,Opasna nizbrdica
+A07,warning,steep-ascent,Steep ascent,Opasna uzbrdica
+A08,warning,road-narrows-both-sides,Road narrows (from both sides),Suženje ceste
+A08-1,warning,road-narrows-right,Road narrows (from the right),Suženje ceste s desne strane
+A08-2,warning,road-narrows-left,Road narrows (from the left),Suženje ceste s lijeve strane
+A09,warning,hump,Hump,Neravan kolnik (izbočina)
+A09-1,warning,dip,Dip,Neravan kolnik (ulegnuće)
+A09-2,warning,uneven-road,Uneven road,Neravan kolnik (izbočine i ulegnuća)
+A09-3,warning,longitudinal-ruts,Longitudinal ruts,Kolotrazi
+A10,warning,slippery-road,Slippery road,Sklizak kolnik
+A11,warning,ice,Ice,Poledica
+A12,warning,loose-gravel,Loose gravel,Kamenje pršti
+A13,warning,fallen-rocks-right,Fallen rocks (from the right),Kamenje pada (s desne strane)
+A13-1,warning,fallen-rocks-left,Fallen rocks (from the left),Kamenje pada (s lijeve strane)
+A14,warning,traffic-signals,Traffic signals,Nailazak na prometna svjetla
+A14-1,warning,traffic-signals-horizontal,Traffic signals (horizontal),Nailazak na prometna svjetla (vodoravno)
+A15,warning,roadworks,Roadworks,Radovi na cesti
+A16,warning,two-way-traffic,Two-way traffic,Promet u oba smjera
+A17,warning,accident,Accident,Prometna nesreća
+A18,warning,queues,Queues likely,Kolona zaustavljenih vozila
+A19,warning,dangerous-verge,Dangerous verge,Neutvrđena bankina
+A20,warning,pedestrians,Pedestrians,Pješaci na cesti
+A21,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Približavanje obilježenom pješačkom prijelazu
+A22,warning,children,Children,Djeca na cesti
+A22-1,warning,children-near-school-board,"Children (board near a school, kindergarten or playground)","Djeca na cesti (uz školu, vrtić ili igralište)"
+A22-2,warning,children-near-school-board-fluorescent,"Children (board near a school, kindergarten or playground, fluorescent)","Djeca na cesti (uz školu, vrtić ili igralište, fluorescentna podloga)"
+A23,warning,low-flying-aircraft,Low-flying aircraft,Blizina zrakoplovne piste
+A24,warning,tunnel-ahead,Tunnel ahead,Tunel (galerija)
+A25,warning,crosswind,Crosswind,Bočni vjetar
+A26,warning,forest-fire-danger,Fire danger,Opasnost od požara
+A27,warning,cyclists,Cyclists,Biciklist na cesti
+A28,warning,movable-bridge,Movable bridge,Pokretni most
+A29,warning,quayside,Quayside or river bank,Blizina obale
+A30,warning,agricultural-vehicles,Agricultural vehicles,Opasnost od naleta na traktore i ostale radne strojeve
+A31,warning,trams,Trams,Tramvajska pruga
+A32,warning,farm-animals,Farm animals,Životinje na cesti
+A33,warning,wild-animals,Wild animals,Divljač na cesti
+A34,warning,level-crossing-with-barriers,Level crossing with barriers,Prijelaz ceste preko željezničke pruge s branicima ili polubranicima
+A35,warning,level-crossing-without-barriers,Level crossing without barriers,Prijelaz ceste preko željezničke pruge bez branika ili polubranika
+A36,warning,level-crossing-countdown-marker-3-bars-with-barriers-sign-right-side,"Level crossing countdown marker (3 bars, with level crossing with barriers sign, placed on the right)","Udaljenost do cestovno-željezničkog prijelaza s branicima (240 m, s desne strane)"
+A36-1,warning,level-crossing-countdown-marker-3-bars-with-no-barriers-sign-right-side,"Level crossing countdown marker (3 bars, with level crossing without barriers sign, placed on the right)","Udaljenost do cestovno-željezničkog prijelaza bez branika (240 m, s desne strane)"
+A36-2,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Udaljenost do cestovno-željezničkog prijelaza 240 metara (s desne strane)
+A36-3,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Udaljenost do cestovno-željezničkog prijelaza 160 metara (s desne strane)
+A36-4,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Udaljenost do cestovno-željezničkog prijelaza 80 metara (s desne strane)
+A36-5,warning,level-crossing-countdown-marker-3-bars-with-barriers-sign-left-side,"Level crossing countdown marker (3 bars, with level crossing with barriers sign, placed on the left)","Udaljenost do cestovno-željezničkog prijelaza s branicima (240 m, s lijeve strane)"
+A36-6,warning,level-crossing-countdown-marker-3-bars-with-no-barriers-sign-left-side,"Level crossing countdown marker (3 bars, with level crossing without barriers sign, placed on the left)","Udaljenost do cestovno-željezničkog prijelaza bez branika (240 m, s lijeve strane)"
+A36-7,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Udaljenost do cestovno-željezničkog prijelaza 240 metara (s lijeve strane)
+A36-8,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Udaljenost do cestovno-željezničkog prijelaza 160 metara (s lijeve strane)
+A36-9,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Udaljenost do cestovno-željezničkog prijelaza 80 metara (s lijeve strane)
+A37,warning,level-crossing-cross-single-track,Level crossing cross (single track),Andrijin križ (jedan kolosijek)
+A37-1,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Andrijin križ (dva ili više kolosijeka)
+A38,warning,wrong-way-driver,Wrong-way driver,Nailazak na vozilo koje se kreće u suprotnom smjeru na cesti s više prometnih traka u jednom smjeru
+A39,warning,level-crossing-without-barriers-on-side-road,Level crossing without barriers on a side road,Prijelaz preko željezničke pruge na sporednoj cesti koji nije osiguran branicima niti polubranicima
+A39-1,warning,level-crossing-with-barriers-on-side-road,Level crossing with barriers on a side road,Prijelaz preko željezničke pruge na sporednoj cesti koji je osiguran branicima ili polubranicima
+B01,regulatory,give-way,Give way,Raskrižje s cestom s prednošću prolaska
+B02,regulatory,stop,"Stop, give way",Obavezno zaustavljanje
+B03,regulatory,no-vehicles,No vehicles,Zabrana prometa u oba smjera
+B04,regulatory,no-entry,No entry,Zabrana prometa u jednom smjeru
+B05,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Prednost prolaska za vozila iz suprotnog smjera
+B06,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Zabrana prometa za sva motorna vozila osim za motocikle bez prikolice i mopede
+B07,regulatory,no-buses,No entry for buses and trolleybuses,Zabrana prometa za autobuse
+B08,regulatory,no-goods-vehicles,No entry for goods vehicles,Zabrana prometa za teretne automobile
+B09,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Zabrana prometa za cisterne
+B10,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Zabrana prometa za vozila koja prevoze eksploziv ili lako zapaljive tvari
+B11,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Zabrana prometa za motorna vozila koja prevoze opasne tvari
+B12,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Zabrana prometa za sva motorna vozila koja vuku priključno vozilo
+B13,regulatory,no-goods-vehicles-with-trailers,No goods vehicles with trailers,Zabrana prometa za teretne automobile koji vuku priključno vozilo
+B14,regulatory,no-tractors,No entry for tractors,Zabrana prometa za traktore
+B15,regulatory,no-motorcycles,No entry for motorcycles,Zabrana prometa za motocikle
+B16,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,Zabrana prometa za mopede i bicikle
+B17,regulatory,no-bicycles,No entry for bicycles,Zabrana prometa za bicikle
+B18,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Zabrana prometa za zaprežna vozila
+B19,regulatory,no-vehicles-shown,No entry for the vehicles shown,Zabrana prometa za određene vrste vozila i sudionike u prometu
+B20,regulatory,no-motor-vehicles,No motor vehicles,Zabrana prometa za sva motorna vozila
+B21,regulatory,no-pedestrians,No entry for pedestrians,Zabrana prometa za pješake
+B22,regulatory,maximum-width,Maximum width,Zabrana prometa za vozila čija ukupna širina prelazi određenu širinu
+B23,regulatory,maximum-height,Maximum height,Zabrana prometa za vozila čija ukupna visina prelazi određenu visinu
+B24,regulatory,maximum-weight,Maximum weight,Zabrana prometa za vozila čija ukupna masa prelazi određenu masu
+B25,regulatory,maximum-axle-weight,Maximum axle weight,Zabrana prometa za vozila koja prekoračuju određeno osovinsko opterećenje
+B26,regulatory,maximum-length,Maximum length,Zabrana prometa za vozila koja prekoračuju određenu duljinu
+B27,regulatory,minimum-distance,Minimum distance between vehicles,Najmanja udaljenost između vozila
+B28,regulatory,no-left-turn,No left turn,Zabrana skretanja ulijevo
+B28-1,regulatory,no-right-turn,No right turn,Zabrana skretanja udesno
+B29,regulatory,no-u-turn,No U-turn,Zabrana polukružnog okretanja
+B30,regulatory,speed-limit,Speed limit,Ograničenje brzine
+B31,regulatory,no-overtaking,No overtaking,"Zabrana pretjecanja za sva motorna vozila, osim mopeda i motocikla bez prikolice"
+B32,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Zabrana pretjecanja za teretna motorna vozila
+B33,regulatory,customs-stop,Customs stop,Zabrana prolaska bez zaustavljanja (carina)
+B33-1,regulatory,stop-toll-collection,Stop (toll collection),Zabrana prolaska bez zaustavljanja (cestarina)
+B33-2,regulatory,police-check-stop,Police check stop,Zabrana prolaska bez zaustavljanja (policija)
+B34,regulatory,no-horns,Use of horns prohibited,Zabrana davanja zvučnih znakova
+B35,regulatory,no-photography,No photography,Zabrana fotografiranja
+B36,regulatory,no-stopping,No stopping,Zabrana zaustavljanja i parkiranja
+B37,regulatory,no-parking,No parking,Zabrana parkiranja
+B38,regulatory,minimum-speed,Minimum speed,Najmanja dopuštena brzina
+B39,regulatory,snow-chains-required,Snow chains required,Obavezna uporaba lanaca za snijeg
+B40,regulatory,cycle-path,Cycle path,Biciklistička traka ili staza
+B41,regulatory,footpath,Footpath,Pješačka staza
+B42,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Staza za pješake i bicikliste (biciklisti lijevo)
+B42-1,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Staza za pješake i bicikliste (biciklisti desno)
+B43,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Pješačko-biciklistička staza
+B44,regulatory,bridleway,Bridleway,Staza za jahače
+B45,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Obavezan smjer (ravno)
+B45-1,regulatory,turn-right,Turn right,Obavezan smjer (desno)
+B45-2,regulatory,turn-left,Turn left,Obavezan smjer (lijevo)
+B45-3,regulatory,mandatory-direction-left,Mandatory direction (left),Obavezan smjer (ravno pa lijevo)
+B45-4,regulatory,mandatory-direction-right,Mandatory direction (right),Obavezan smjer (ravno pa desno)
+B45-5,regulatory,mandatory-u-turn,Mandatory U-turn,Obavezan smjer (polukružno okretanje)
+B45-6,regulatory,roundabout,Roundabout,Kružni tok prometa
+B46,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Dopušteni smjerovi (ravno ili lijevo)
+B46-1,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Dopušteni smjerovi (ravno ili desno)
+B46-2,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Dopušteni smjerovi (lijevo ili desno)
+B47,regulatory,pass-on-right,Pass on the right,Obavezno obilaženje s desne strane
+B47-1,regulatory,pass-on-left,Pass on the left,Obavezno obilaženje s lijeve strane
+B47-2,regulatory,pass-on-either-side,Pass on either side,Obavezno obilaženje s obje strane
+B48,regulatory,headlights-on,Switch on headlights,Obavezno paljenje kratkih svjetala na vozilu
+C01,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Prednost prolaza prema vozilima iz suprotnog smjera
+C02,information,pedestrian-crossing,Pedestrian crossing,Pješački prijelaz
+C02-1,information,cycle-crossing,Cycle crossing,Obilježen prijelaz biciklističke staze
+C03,information,children-crossing-area,Children (place where children often cross),Djeca na cesti
+C04,information,overpass-or-underpass-with-steps,Overpass or underpass with steps,Podzemni ili nadzemni pješački prolaz
+C05,information,one-way-road,One-way road,Cesta s jednosmjernim prometom
+C05-1,information,one-way-road-left,One-way road (left here),Cesta s jednosmjernim prometom (lijevo)
+C05-2,information,one-way-road-right,One-way road (right here),Cesta s jednosmjernim prometom (desno)
+C06,information,priority-road,Priority road,Cesta s prednošću prolaska
+C07,information,end-of-priority-road,End of priority road,Završetak ceste s prednošću prolaska
+C08,information,speed-bump-location,Speed bump (location),Umjetna izbočina ili uzdignuta ploha
+C09,regulatory,end-of-no-overtaking,End of no overtaking,"Prestanak zabrane pretjecanja svih motornih vozila, osim motocikala bez prikolice i mopeda"
+C10,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Prestanak zabrane pretjecanja za teretna vozila
+C11,regulatory,end-of-speed-limit,End of speed limit,Prestanak ograničenja brzine
+C12,regulatory,end-of-minimum-speed,End of minimum speed,Prestanak najmanje dopuštene brzine
+C13,regulatory,end-of-no-horns,End of horns prohibited,Prestanak zabrane davanja zvučnih znakova
+C14,regulatory,end-of-all-restrictions,End of all restrictions,Prestanak svih zabrana
+C15,regulatory,end-of-snow-chains-required,End of snow chains required,Prestanak obvezne uporabe lanaca za snijeg
+C16,regulatory,end-of-cycle-path,End of cycle path,Završetak biciklističke trake ili staze
+C17,regulatory,end-of-footpath,End of footpath,Završetak pješačke staze
+C18,regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),Završetak staze za pješake i bicikliste (biciklisti lijevo)
+C18-1,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),Završetak staze za pješake i bicikliste (biciklisti desno)
+C19,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Završetak pješačko-biciklističke staze
+C20,regulatory,end-of-bridleway,End of bridleway,Završetak staze za jahače
+C21,regulatory,end-of-headlights-on,End of switch on headlights,Prestanak obveze paljenja kratkih svjetala na vozilu
+C22,regulatory,speed-limit-zone,Speed limit zone,Zona u kojoj je ograničena brzina
+C23,regulatory,end-of-speed-limit-zone,End of speed limit zone,Završetak zone u kojoj je ograničena brzina
+C24,regulatory,short-term-parking-zone,Short-term parking zone,Zona u kojoj je ograničeno trajanje parkiranja
+C25,regulatory,end-of-short-term-parking-zone,End of short-term parking zone,Završetak zone u kojoj je ograničeno trajanje parkiranja
+C26,information,pedestrian-zone,Pedestrian zone,Pješačka zona
+C27,information,end-of-pedestrian-zone,End of pedestrian zone,Završetak pješačke zone
+C28,information,residential-zone,Residential zone,Područje smirenog prometa
+C29,information,end-of-residential-zone,End of residential zone,Završetak područja smirenog prometa
+C30,information,greenway,Greenway (pedestrians and non-motorised vehicles),Zelena površina za pješake i bicikliste
+C31,information,blind-persons-area,Area frequented by blind and visually impaired persons,Područje u kojem se kreću slijepe osobe
+C32,information,end-of-blind-persons-area,End of area frequented by blind and visually impaired persons,Izlazak iz područja u kojem se kreću slijepe osobe
+C33,information,recommended-speed,Recommended speed,Brzina koja se preporučuje
+C34,information,end-of-recommended-speed,End of recommended speed,Prestanak preporučene brzine
+C35,information,school-crossing-patrol,School crossing patrol,Školska patrola
+C36,information,services-hospital,Services (hospital),Bolnica
+C37,information,services-first-aid,Services (first aid),Ustanova hitne medicinske pomoći
+C38,information,police,Police,Policijska postaja
+C39,regulatory,parking,Parking,Parkiralište
+C39-1,regulatory,parking-garage,Parking (car park building),Parkiralište (garaža)
+C39-2,regulatory,parking-with-disc,Parking with parking disc,Parkiralište (vremensko ograničenje parkiranja)
+C40,regulatory,park-and-ride,Park and ride,Parkiralište P+R sustava
+C41,information,services-telephone,Services (telephone),Telefon
+C41-1,information,services-emergency-telephone,Services (emergency telephone),Telefon u slučaju nužde
+C42,information,services-filling-station,Services (filling station),Benzinska postaja
+C42-1,information,services-lpg-station,Services (LPG station),Benzinska postaja opskrbljena ukapljenim naftnim plinom
+C42-2,information,services-cng-station,Services (CNG station),Benzinska postaja opskrbljena stlačenim prirodnim plinom
+C42-3,information,services-ev-charging-station,Services (EV charging station),Postaja za punjenje električnih vozila
+C43,information,services-information-point,Services (information point),Informacije
+C44,information,services-hotel-or-motel,Services (hotel or motel),"Hotel, hostel ili motel"
+C45,information,services-restaurant,Services (roadside restaurant),Restoran
+C45-1,information,services-restaurant-and-accommodation,Services (restaurant and accommodation),Prehrambeno-smještajni objekt
+C46,information,drinking-water,Drinking water,Pitka voda
+C47,information,bus-stop,"Bus, trolleybus or electric bus stop",Stajalište autobusa
+C48,information,tram-stop,Tram stop,Stajalište tramvaja
+C49,information,taxi-rank,Taxi rank,Taksi stajalište
+C50,information,airport,Airport,Zračna luka
+C51,information,port,Port,Luka – pristanište
+C51-1,information,ferry-terminal,Ferry,Luka – trajektno pristanište
+C52,information,marina,Marina,Marina
+C53,information,services-cafe,Services (café or snack bar open every day),Kavana
+C54,information,services-tent-camp,Services (tent camp),Teren za kampiranje pod šatorima
+C54-1,information,services-caravan-site,Services (caravan site),Teren za kampiranje u prikolicama
+C54-2,information,services-motorhome-site,Services (motorhome site),Teren za kampiranje u vozilima
+C54-3,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),Mjesto na kojem se ispuštaju otpadne vode iz kamperskih vozila
+C55,information,services-picnic-site,Services (picnic site),Teren uređen za izletnike
+C56,information,services-mountain-hut,Services (mountain hut),Planinarski dom
+C57,information,fire-extinguisher,Fire extinguisher,Aparat za gašenje požara
+C58,information,services-breakdown-service,Services (breakdown service),Vozilo za pomoć na cesti
+C59,information,services-vehicle-repair,Services (vehicle repair),Radionica za popravak vozila
+C59-1,information,services-tyre-repair,Services (tyre repair),Radionica za popravak pneumatika
+C60,information,services-toilets,Services (toilets),WC
+C61,information,services-car-wash,Services (car wash),Praonica vozila
+C62,information,services-traffic-radio,Services (traffic information radio),Radiopostaja
+C63,information,water-protection-area,Water protection area,Vodozaštitno područje
+C64,information,motorway,Motorway,Autocesta
+C65,information,end-of-motorway,End of motorway,Završetak autoceste
+C66,information,expressway,Expressway,Cesta namijenjena isključivo za promet motornih vozila ili brza cesta
+C67,information,end-of-expressway,End of expressway,Završetak ceste namijenjene isključivo za promet motornih vozila ili brze ceste
+C68,information,dead-end,Dead end,Slijepa cesta
+C69,information,route-for-prohibited-left-turn,Route for a prohibited left turn,Smjer kretanja vozila do raskrižja na kojem je zabranjeno skretanje ulijevo
+C70,information,emergency-lay-by,Emergency lay-by,Ugibalište za zaustavljanje vozila u nuždi
+C70-1,information,emergency-lay-by-with-emergency-telephone,Emergency lay-by with emergency telephone,Ugibalište za zaustavljanje vozila u nuždi s telefonom
+C71,information,mountain-pass,Mountain pass (name and altitude),Planinski prijevoj
+C72,information,river-name,River or valley name,Rijeka
+C73,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)",Tunel
+C74,information,structure-name-and-length,Name and length of a tunnel or bridge,Cestovni objekt
+C75,information,wildlife-overpass,Wildlife crossing (overpass),Prijelaz za divlje životinje
+C76,information,built-up-area,Built-up area,Naselje
+C77,information,end-of-built-up-area,End of built-up area,Završetak naselja
+C78,information,direction-sign-with-road-number,Direction sign (with road number),Putokaz (s brojem ceste)
+C78-1,information,direction-sign,Direction sign,Putokaz
+C79,information,cycle-direction-sign,Direction sign for cyclists,Putokaz za bicikliste
+C79-1,information,cycle-direction-sign-stacked-with-route-numbers,"Direction sign for cyclists (stacked panels, with route numbers)","Putokaz za bicikliste (više smjerova, s oznakama ruta)"
+C79-2,information,cycle-direction-sign-stacked,Direction sign for cyclists (stacked panels),Putokaz za bicikliste (više smjerova)
+C79-3,information,cycle-direction-board,Direction board for cyclists (with route numbers),Putokaz za bicikliste (s oznakama ruta)
+C80,information,direction-to-airport,Direction to the airport,Putokaz za zračnu luku
+C81,information,direction-sign-to-motorway-right,Direction sign to the motorway (right),Putokaz za autocestu ili brzu cestu
+C81-1,information,direction-sign-to-motorway-route-numbers,Direction sign to the motorway (route numbers only),Putokaz za autocestu ili brzu cestu (s brojem ceste)
+C82,information,rest-area-direction-sign,Direction sign at a rest area,Putokazna ploča na odmorištu
+C83,information,lane-directions,Directions of the lanes,Prestrojavanje vozila
+C83-1,information,lane-directions-temporary,Directions of the lanes (temporary),Prestrojavanje vozila (privremeno)
+C83-2,information,lane-directions-with-cycle-lane,Directions of the lanes (with a cycle lane),Prestrojavanje vozila (s biciklističkom trakom)
+C84,information,bus-lane-start,Start of bus lane,Otvaranje prometne trake za vozila javnog prijevoza
+C85,information,bus-lane-end,End of bus lane,Zatvaranje prometne trake za vozila javnog prijevoza
+C86,regulatory,public-transport-lane,Public transport lane,Prometna traka za vozila javnog prijevoza
+C87,information,lane-gain,Lane gain,Otvaranje prometne trake
+C88,information,lane-reduction,Lane reduction,Zatvaranje prometne trake
+C89,information,slow-vehicle-lane,Lane for slow vehicles,Početak prometne trake za spora vozila
+C90,information,end-of-slow-vehicle-lane,End of lane for slow vehicles,Završetak prometne trake za spora vozila
+C91,information,exit-countdown-motorway,Exit countdown,Izlaz s autoceste ili brze ceste
+C92,information,exit-direction-sign-motorway,Exit direction sign on the motorway,Ploča za označavanje izlaza
+C93,information,rest-area-advance,Rest area ahead,Odmorište
+C93-1,information,rest-area-advance-with-next-services,Rest area ahead (with distance to the next services),Odmorište (s udaljenošću do sljedećih usluga)
+C94,information,truck-parking-availability,Truck parking availability,Parkiralište za teretna vozila
+C95,information,motorway-prohibitions,Motorway prohibitions,Zabrana ulaska određenih vrsta vozila na autocestu ili brzu cestu
+C96,information,toll,Toll,Cestarina
+C97,information,toll-ahead,Toll ahead (notice in several languages),Obavijest o naplati cestarine
+C98,information,toll-lane-selection,Lane selection before a toll plaza,Prestrojavanje vozila ispred objekta naplate cestarine
+C99,information,toll-booth,Toll booth,Način plaćanja cestarine (naplatna kućica)
+C99-1,information,toll-payment-attendant,Toll payment (attendant),Način plaćanja cestarine (naplatni djelatnik)
+C99-2,information,toll-payment-electronic,Toll payment (electronic toll collection),"Način plaćanja cestarine (elektronička naplata, ENC)"
+C99-3,information,toll-payment-coins-and-notes,Toll payment (coins and notes),Način plaćanja cestarine (gotovina)
+C99-4,information,toll-payment-cards,Toll payment (cards),Način plaćanja cestarine (kartice)
+C100,information,detour-announcement,Detour announcement,Predznak za obilazak
+C101,information,detour-arrow-right,Detour arrow (to the right),Putokaz obilaska
+C102,information,detour-direction-sign-road-number,Detour direction sign with road number,Obavijesti za vođenje prometa obilaska
+C103,information,roadworks-information-board,Information board about roadworks,Obavijesna ploča o radovima na cesti
+C105,information,traffic-controller,Traffic controlled by a traffic controller,Predznak za ručno reguliranje prometa
+C106,information,temporary-lane-diversion-left-closure-right,"Temporary lane diversion (two lanes to the left, closure on the right)",Predznak za preusmjeravanje prometa na cesti prilikom privremenih regulacija prometa
+C106-1,information,temporary-lane-diversion-right-closure-left-width-limit,"Temporary lane diversion (two lanes to the right, closure on the left, width limit)","Predznak za preusmjeravanje prometa na cesti prilikom privremenih regulacija prometa (zatvorena lijeva strana, ograničena širina)"
+C106-2,information,temporary-lane-diversion-right-width-limit,"Temporary lane diversion (two lanes to the right, width limit)",Predznak za preusmjeravanje prometa na cesti prilikom privremenih regulacija prometa (ograničena širina)
+C106-3,information,temporary-lane-added-left,Temporary lane diversion (additional lane from the left),Predznak za preusmjeravanje prometa na cesti prilikom privremenih regulacija prometa (dodatna traka slijeva)
+C107,information,divided-road-crossover-left-with-oncoming-lane,"Diversion on a divided road (one lane crosses over to the left, with an oncoming lane)",Predznak za preusmjeravanje prometa na cesti s odvojenim kolničkim trakama
+C107-1,information,divided-road-crossover-right-with-oncoming-lane,"Diversion on a divided road (one lane crosses back to the right, with an oncoming lane)",Predznak za preusmjeravanje prometa na cesti s odvojenim kolničkim trakama (povratak udesno)
+C107-2,information,divided-road-oncoming-crossover,Diversion on a divided road (oncoming traffic crosses over to this carriageway),Predznak za preusmjeravanje prometa na cesti s odvojenim kolničkim trakama (promet iz suprotnog smjera)
+C107-3,information,divided-road-crossover-right-beside-straight-lane,Diversion on a divided road (one lane crosses back to the right beside a straight lane),Predznak za preusmjeravanje prometa na cesti s odvojenim kolničkim trakama (povratak udesno uz traku ravno)
+C107-4,information,divided-road-two-lanes-crossover-left,Diversion on a divided road (two lanes cross over to the left),Predznak za preusmjeravanje prometa na cesti s odvojenim kolničkim trakama (dvije trake ulijevo)
+C107-5,information,divided-road-two-lanes-crossover-right,Diversion on a divided road (two lanes cross back to the right),Predznak za preusmjeravanje prometa na cesti s odvojenim kolničkim trakama (dvije trake udesno)
+C108,information,lane-use-by-vehicle-type,Lanes for certain types of vehicles,Prometna traka namijenjena određenoj vrsti vozila
+C108-1,information,lane-restriction,Restriction in the lane,Prometna traka namijenjena određenoj vrsti vozila (ograničenje u traci)
+C109,information,national-speed-limits,National speed limits (at the border),Ograničenje najveće dopuštene brzine na cestama Republike Hrvatske
+C110,information,motorway-junction-number,Motorway junction number,Oznaka broja čvorišta
+C111,information,european-road-number,European road number,Broj međunarodne ceste
+C112,information,motorway-number,Motorway number,Broj autoceste
+C113,information,national-road-number,National road number,Broj državne ceste
+C113-1,information,regional-road-number,Road number (regional road),Broj županijske ceste
+C113-2,information,local-road-number,Local road number,Broj lokalne ceste
+C114,information,kilometre-marker-motorway,Kilometre marker (with motorway number),Kilometarska oznaka za autoceste ili brze ceste
+C115,information,kilometre-marker-state-road,Kilometre marker (state road section),Oznaka dionice državne ceste
+C115-1,information,kilometre-marker-county-road,Kilometre marker (county road section),Oznaka dionice županijske ceste
+C116,information,kilometre-marker-junction-branch-motorway,"Kilometre marker (motorway junction branch or feeder, category D marked with sign 309)",Oznaka kraka čvorišta
+C117,information,cycle-route-number-eurovelo,Cycle route number (with EuroVelo route),Europska biciklistička ruta
+C118,information,cycle-route-number-national,Cycle route number (national route),Biciklistička ruta
+C119,information,wrong-way,Wrong way,Krivi smjer
+C120,information,emergency-exit,Emergency exit,Sigurnosni izlaz
+C121,information,direction-to-emergency-exit,Direction to emergency exit,Smjer za izlaz u nuždi
+C122,information,speed-check,Speed check,Kontrola brzine
+C123,information,video-surveillance,Video surveillance,Nadzor prometa
+C124,information,national-distinguishing-sign,International distinguishing sign of the country,Nacionalna auto oznaka
+C125,information,state-border,State border,Republika Hrvatska
+C126,regulatory,vehicles-shown-mandatory-direction,Mandatory direction for the vehicles shown,Obavezan smjer za određene vrste vozila
+C127,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,Obavezan smjer za vozila koja prevoze opasan teret
+C128,information,emergency-vehicle-access,Access for emergency vehicles (no stopping or parking),Interventni prolaz
+C129,information,border-lane-eu-eea-ch-citizens,"Border control lane (EU, EEA and Swiss citizens)","Obavijesna ploča o porijeklu putnika (EU, EEA, CH)"
+C129-1,information,border-lane-all-passports,Border control lane (all passports),Obavijesna ploča o porijeklu putnika (sve putovnice)
+D01,information,exit-advance-sign-motorway,Exit advance sign (motorway),Predputokaz za izlaz s autoceste ili brze ceste s oznakom izlaza
+D02,information,advance-direction-sign-motorway,Advance direction sign on the motorway,Predputokaz za interregionalno čvorište s oznakom čvorišta
+D03,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),Raskrižje
+D03-1,information,advance-direction-sign-diagrammatic-side-road,"Advance direction sign (diagrammatic, side road)",Raskrižje (sa sporednom cestom)
+D03-2,information,advance-direction-sign-roundabout,Advance direction sign (roundabout),Raskrižje s kružnim tokom prometa
+D04,information,advance-direction-sign-grade-separated,Advance direction sign (grade-separated junction),Predputokazna ploča
+D05,information,advance-direction-sign-stacked-with-distance,"Advance direction sign (stacked, with distance to the junction)",Predputokaz
+D06,information,advance-direction-sign-exit-stacked,Advance direction sign for an exit (stacked),Predputokaz za izlaz
+D06-1,information,advance-direction-sign-exit-destinations,Advance direction sign for an exit (list of destinations),Predputokaz za izlaz (s popisom odredišta)
+D07,information,direction-sign-stacked,"Direction sign (stacked, with distances)",Putokazna ploča
+D08,information,direction-board-overhead-motorway,Direction board above the road (motorway),Putokaz na portalu (autocesta)
+D08-1,information,direction-board-overhead,Direction board above the road,Putokaz na portalu
+D09,information,route-confirmation-sign,Route confirmation sign,Potvrda smjera
+E01,additional-panel,distance,Distance,Udaljenost
+E02,additional-panel,section-length,Length of section,Duljina dijela ceste
+E02-1,additional-panel,distance-to-stop-line,Distance to the stop line,Udaljenost do znaka obaveznog zaustavljanja
+E03,additional-panel,distance-and-direction-right,Distance and direction (right),Udaljenost i smjer
+E04,additional-panel,time-period,Time period (e.g. 16–18 h),Vrijeme
+E04-1,additional-panel,time-periods-two,"Time periods (two periods, e.g. 8–11 h and 16–18 h)",Vrijeme (dva razdoblja)
+E05,additional-panel,text-panel,Text panel,Objašnjenje riječima ili simbolom
+E06,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Vrsta vozila (teretni automobil)
+E06-1,additional-panel,vehicle-type-goods-vehicles-with-trailers,Type of vehicle (goods vehicles with trailers),Vrsta vozila (teretni automobil s prikolicom)
+E06-3,additional-panel,vehicle-type-buses,Type of vehicle (buses),Vrsta vozila (autobus)
+E06-4,additional-panel,vehicle-type-cars,Type of vehicle (cars),Vrsta vozila (osobni automobil)
+E06-5,additional-panel,vehicle-type-cars-with-trailers,Type of vehicle (cars with trailers),Vrsta vozila (osobni automobil s prikolicom)
+E06-6,additional-panel,vehicle-type-trams,Type of vehicle (trams),Vrsta vozila (tramvaj)
+E06-7,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Vrsta vozila (motocikl)
+E07,additional-panel,maximum-permitted-weight,Maximum permitted weight,Najveća dopuštena masa
+E08,additional-panel,vehicles-will-be-towed,Vehicles will be towed away,Uklanjanje vozila »paukom«
+E09,additional-panel,validity-to-the-left-with-length,Validity to the left of the sign (with length),Primjena zabrane ulijevo od znaka
+E09-1,additional-panel,validity-both-sides-with-length,Validity on both sides of the sign (with lengths),Primjena zabrane s obje strane znaka
+E09-2,additional-panel,validity-to-the-right-with-length,Validity to the right of the sign (with length),Primjena zabrane udesno od znaka
+E09-3,additional-panel,section-start,Start of section,Početak zabrane
+E09-4,additional-panel,section-continues,Section continues,Nastavak zabrane
+E09-5,additional-panel,section-end,End of section,Završetak zabrane
+E10,additional-panel,parking-position-pavement-parallel-full,"Parking position (parallel, fully on the pavement)",Položaj parkiranja (na nogostupu)
+E10-2,additional-panel,parking-position-carriageway-parallel,"Parking position (parallel, on the carriageway)",Položaj parkiranja (na kolniku uz rub)
+E10-3,additional-panel,parking-position-pavement-parallel-half,"Parking position (parallel, half on the pavement)",Položaj parkiranja (djelomično na nogostupu)
+E10-4,additional-panel,parking-position-pavement-perpendicular-full,"Parking position (perpendicular, fully on the pavement)",Položaj parkiranja (okomito na nogostupu)
+E10-5,additional-panel,parking-position-pavement-perpendicular-half,"Parking position (perpendicular, half on the pavement)","Položaj parkiranja (okomito, djelomično na nogostupu)"
+E10-6,additional-panel,parking-position-bays-perpendicular,Parking position (perpendicular bays),Položaj parkiranja (okomito)
+E10-7,additional-panel,parking-position-bays-angled,Parking position (angled bays),Položaj parkiranja (koso)
+E10-8,additional-panel,parking-position-bays-parallel,Parking position (parallel bays),Položaj parkiranja (uzdužno)
+E11,additional-panel,disabled-parking,Parking for disabled persons,Parkiranje rezervirano za vozila osoba s invaliditetom
+E12,additional-panel,reserved-for-specific-users,Reserved for specific users,Parkiranje rezervirano za određene korisnike
+E13,additional-panel,rain,Rain,Kiša
+E13-1,additional-panel,snow-or-ice-panel,In snow or ice,Snijeg i poledica
+E14,additional-panel,priority-road-course,Course of the priority road,Položaj ceste s pravom prednosti
+E14-1,additional-panel,priority-road-course-from-minor-road,Course of the priority road (seen from the minor road),Položaj ceste s pravom prednosti (sa sporedne ceste)
+E15,additional-panel,elderly-people-panel,Elderly people,Starije nemoćne osobe
+E15-1,additional-panel,blind-pedestrians-may-be-crossing,Blind pedestrians may be crossing,Slijepe osobe
+E16,additional-panel,snowplough,Snowplough,Čišćenje snijega
+E17,additional-panel,road-marking-works,Road marking works,Radovi na izvođenju oznaka na kolniku
+E18,additional-panel,ruts,Ruts,Kolotrazi
+E19,additional-panel,speed-humps,Speed humps,Izbočine na cesti
+E20,additional-panel,abnormal-load-passage,Passage for vehicles with abnormal loads,Prolaz za vozila s izvangabaritnim teretom
+E21,additional-panel,air-pollution-area,Area with high air pollution (smog),Područje s povećanom koncentracijom opasnih tvari u zraku
+E22,additional-panel,turn-off-engine-when-stopped,Turn off engine when stopped,Gasi motor
+E23,additional-panel,toll-barrier-closed-lane,Toll barrier (lane closed),Naplatni branik

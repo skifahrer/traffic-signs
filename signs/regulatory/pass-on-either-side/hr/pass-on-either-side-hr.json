@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-either-side",
+  "category": "regulatory",
+  "country": "hr",
+  "code": "B47-2",
+  "source": {
+    "pipeline": "hr-wikipedia",
+    "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
+    "file": "HR road sign B47-2.svg"
+  }
+}
