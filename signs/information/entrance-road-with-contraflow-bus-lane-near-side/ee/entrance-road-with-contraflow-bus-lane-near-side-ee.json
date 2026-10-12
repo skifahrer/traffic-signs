@@ -1,0 +1,11 @@
+{
+  "sign": "entrance-road-with-contraflow-bus-lane-near-side",
+  "category": "information",
+  "country": "ee",
+  "code": "529c",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 529c.svg"
+  }
+}

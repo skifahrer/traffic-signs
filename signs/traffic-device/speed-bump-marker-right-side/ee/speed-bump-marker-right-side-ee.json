@@ -1,0 +1,11 @@
+{
+  "sign": "speed-bump-marker-right-side",
+  "category": "traffic-device",
+  "country": "ee",
+  "code": "688b",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 688b.svg"
+  }
+}

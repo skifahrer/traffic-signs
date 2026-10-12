@@ -307,16 +307,16 @@ code,category,slug,name_en,name_lv
 853,additional-panel,photo-enforced-symbol,Photo enforced (symbol) (plaque),Kontroles ierīce
 859,additional-panel,loading-zone,Loading zone,Preču piegāde
 860,additional-panel,electric-vehicles-charging-only,Electric vehicles while charging,Elektromobiļiem
-830,additional-panel,parking-arrangement,Manner of parking,Transportlīdzekļa novietojuma veids stāvvietā
-831,additional-panel,parking-arrangement-b,Manner of parking (variant b),Transportlīdzekļa novietojuma veids stāvvietā
-832,additional-panel,parking-arrangement-c,Manner of parking (variant c),Transportlīdzekļa novietojuma veids stāvvietā
-833,additional-panel,parking-arrangement-d,Manner of parking (variant d),Transportlīdzekļa novietojuma veids stāvvietā
-834,additional-panel,parking-arrangement-e,Manner of parking (variant e),Transportlīdzekļa novietojuma veids stāvvietā
-835,additional-panel,parking-arrangement-f,Manner of parking (variant f),Transportlīdzekļa novietojuma veids stāvvietā
-836,additional-panel,parking-arrangement-g,Manner of parking (variant g),Transportlīdzekļa novietojuma veids stāvvietā
-837,additional-panel,parking-arrangement-h,Manner of parking (variant h),Transportlīdzekļa novietojuma veids stāvvietā
-838,additional-panel,parking-arrangement-i,Manner of parking (variant i),Transportlīdzekļa novietojuma veids stāvvietā
-839,additional-panel,parking-arrangement-j,Manner of parking (variant j),Transportlīdzekļa novietojuma veids stāvvietā
+830,additional-panel,manner-of-parking,Manner of parking,Transportlīdzekļa novietojuma veids stāvvietā
+831,additional-panel,manner-of-parking-b,Manner of parking (variant b),Transportlīdzekļa novietojuma veids stāvvietā
+832,additional-panel,manner-of-parking-c,Manner of parking (variant c),Transportlīdzekļa novietojuma veids stāvvietā
+833,additional-panel,manner-of-parking-d,Manner of parking (variant d),Transportlīdzekļa novietojuma veids stāvvietā
+834,additional-panel,manner-of-parking-e,Manner of parking (variant e),Transportlīdzekļa novietojuma veids stāvvietā
+835,additional-panel,manner-of-parking-f,Manner of parking (variant f),Transportlīdzekļa novietojuma veids stāvvietā
+836,additional-panel,manner-of-parking-g,Manner of parking (variant g),Transportlīdzekļa novietojuma veids stāvvietā
+837,additional-panel,manner-of-parking-h,Manner of parking (variant h),Transportlīdzekļa novietojuma veids stāvvietā
+838,additional-panel,manner-of-parking-i,Manner of parking (variant i),Transportlīdzekļa novietojuma veids stāvvietā
+839,additional-panel,manner-of-parking-j,Manner of parking (variant j),Transportlīdzekļa novietojuma veids stāvvietā
 854,additional-panel,two-way-bicycle-traffic-in-the-transverse-direction,Two-way bicycle traffic in the transverse direction,Informācija par velosipēdu ceļu
 855,additional-panel,cyclists-contraflow,Cyclists riding against the traffic,Informācija par velosipēdu ceļu
 856,additional-panel,cyclists-one-way-on-each-side,Cyclists ride one way on each side of the road,Informācija par velosipēdu ceļu

@@ -1,0 +1,11 @@
+{
+  "sign": "waste-disposal-site",
+  "category": "information",
+  "country": "ee",
+  "code": "584a",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 584a.svg"
+  }
+}

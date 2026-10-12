@@ -1,0 +1,11 @@
+{
+  "sign": "turn-right",
+  "category": "regulatory",
+  "country": "ee",
+  "code": "412",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 412.svg"
+  }
+}

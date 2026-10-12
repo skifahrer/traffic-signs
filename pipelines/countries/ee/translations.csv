@@ -1,0 +1,537 @@
+code,category,slug,name_en,name_et
+111,warning,level-crossing-with-barriers,Level crossing with barriers,Tõkkepuuga raudteeülesõidukoht
+112,warning,level-crossing-without-barriers,Level crossing without barriers,Tõkkepuuta raudteeülesõidukoht
+121,warning,level-crossing-cross-single-track,Level crossing cross (single track),Üherööpmeline raudtee
+122,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Mitmerööpmeline raudtee
+123,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Ees on raudteeülesõidukoht
+124,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Ees on raudteeülesõidukoht
+125,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Ees on raudteeülesõidukoht
+126,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Ees on raudteeülesõidukoht
+127,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Ees on raudteeülesõidukoht
+128,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Ees on raudteeülesõidukoht
+131,warning,trams,Trams,Lõikumine trammiteega
+132,warning,intersection,Intersection,Samaliigiliste teede ristmik
+133a,warning,crossroads-with-minor-road,Crossroads with a road without priority,Lõikumine kõrvalteega
+133b,warning,crossroads-with-minor-road-priority-road-bends-right,Crossroads with a road without priority (the priority road bends to the right),Lõikumine kõrvalteega
+133c,warning,crossroads-with-minor-road-priority-road-bends-left,Crossroads with a road without priority (the priority road bends to the left),Lõikumine kõrvalteega
+134a,warning,side-road-right-minor,Side road on the right (without priority),Lõikumine kõrvalteega
+134b,warning,side-road-right-minor-priority-road-bends-right,"Side road on the right (without priority, the priority road bends to the right)",Lõikumine kõrvalteega
+134c,warning,side-road-right-minor-priority-road-bends-left,"Side road on the right (without priority, the priority road bends to the left)",Lõikumine kõrvalteega
+135a,warning,side-road-left-minor,Side road on the left (without priority),Lõikumine kõrvalteega
+135b,warning,side-road-left-minor-priority-road-bends-right,"Side road on the left (without priority, the priority road bends to the right)",Lõikumine kõrvalteega
+135c,warning,side-road-left-minor-priority-road-bends-left,"Side road on the left (without priority, the priority road bends to the left)",Lõikumine kõrvalteega
+136,warning,roundabout-ahead,Roundabout ahead,Ringristmik
+137,warning,traffic-signals,Traffic signals,Foor
+138,warning,quayside,Quayside or river bank,Kaldapealne
+141,warning,bend-right,Bend (right),Ohtlik kurv paremale
+142,warning,bend-left,Bend (left),Ohtlik kurv vasakule
+143,warning,double-bend-right,Double bend (first to the right),Ohtlikud kurvid
+144,warning,double-bend-left,Double bend (first to the left),Ohtlikud kurvid
+145,warning,steep-descent,Steep descent,Järsk lang
+146,warning,steep-ascent,Steep ascent,Järsk tõus
+151,warning,slippery-road,Slippery road,Libe tee
+151m,warning,slippery-road-variable-message-sign,Slippery road (on a variable message sign),Libe tee
+152,warning,uneven-road,Uneven road,Ebatasane tee
+153,warning,dip,Dip,Ebatasane tee
+154,warning,hump,Hump,Ebatasane tee
+155,warning,loose-gravel,Loose gravel,Lahtine killustik
+156,warning,longitudinal-ruts,Longitudinal ruts,Pikiroopad
+157a,warning,dangerous-verge,Dangerous verge,Ohtlik teepeenar
+157b,warning,dangerous-verge-left,Dangerous verge (on the left),Ohtlik teepeenar
+158,warning,roadworks,Roadworks,Teetööd
+159,warning,unpaved-road-ahead,Unpaved road ahead,Ees on katteta tee
+161,warning,road-narrows-both-sides,Road narrows (from both sides),Teekitsend
+162,warning,road-narrows-right,Road narrows (from the right),Teekitsend
+163,warning,road-narrows-left,Road narrows (from the left),Teekitsend
+164,warning,two-way-traffic,Two-way traffic,Kahesuunaline liiklus
+165,warning,two-way-traffic-crossing,Two-way traffic on the route crossing ahead,Lõikuv kahesuunaline liiklus
+166,warning,speed-bump,Speed bump,Ees on künnis
+171,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Ees on reguleerimata ülekäigurada
+172,warning,pedestrians,Pedestrians,Jalakäijad
+173a,warning,children,Children,Lapsed
+173b,warning,elderly-people,Elderly people,Vanurid
+174,warning,cyclists,Cyclists,Lõikumine jalgrattateega
+175,warning,skiers-crossing,Skiers crossing,Suusatajad
+176,warning,horse-riders,Horse riders,Ratsanikud
+177a,warning,farm-animals,Farm animals,Karja üleajamise koht
+177b,warning,horses,Horses,Karja üleajamise koht
+177c,warning,sheep,Sheep,Karja üleajamise koht
+178a,warning,elk,Elk,"Loomad, linnud või kahepaiksed"
+178b,warning,ducks,Ducks,"Loomad, linnud või kahepaiksed"
+178c,warning,amphibians,Migratory toads,"Loomad, linnud või kahepaiksed"
+181,warning,fallen-rocks,Fallen rocks,Varinguoht
+182,warning,crosswind,Crosswind,Külgtuul
+183,warning,low-flying-aircraft,Low-flying aircraft,Lennukid
+184,warning,queues,Queues likely,Liiklusummik
+184m,warning,queues-variable-message-sign,Queues likely (on a variable message sign),Liiklusummik
+185,warning,ice,Ice,Jäätumisoht
+186,warning,danger,Other danger,Muud ohud
+186b,warning,danger-temporary,Other danger (temporary),Muud ohud
+187,warning,accident,Accident,Liiklusõnnetus
+211,information,priority-road,Priority road,Peatee
+212,information,end-of-priority-road,End of priority road,Peatee lõpp
+221,regulatory,give-way,Give way,Anna teed
+222,regulatory,stop,"Stop, give way",Peatu ja anna teed
+231,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Vastassuuna eesõigus
+232,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Pärisuuna eesõigus
+311a,regulatory,no-vehicles,No vehicles,Sõidukeeld
+311b,regulatory,private-road-no-entry,"Private road, no entry",Erateel sõidu keeld
+311c,regulatory,private-road-no-entry-except-named,"Private road, no entry (except the persons named)",Erateel sõidu keeld
+311d,regulatory,private-road-own-risk,"Private road, use at own risk",Erateel sõidu keeld
+312,regulatory,no-motor-vehicles,No motor vehicles,Mootorsõiduki sõidu keeld
+313a,regulatory,no-goods-vehicles,No entry for goods vehicles,Veoauto sõidu keeld
+313b,regulatory,no-buses,No entry for buses and trolleybuses,Bussi sõidu keeld
+314a,regulatory,no-motorcycles,No entry for motorcycles,Mootorratta sõidu keeld
+314b,regulatory,no-snowmobiles,No snowmobiles,Mootorsaani sõidu keeld
+315,regulatory,two-prohibitions,Two prohibitions on one sign,Kaks keeldu
+316,regulatory,no-tractors,No entry for tractors,Traktori sõidu keeld
+317,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Autorongi ja masinrongi sõidu keeld
+318,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Loomveoki sõidu keeld
+319,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Ohtliku veosega sõidu keeld
+321,regulatory,no-bicycles,No entry for bicycles,Jalgratta sõidu keeld
+322,regulatory,no-mopeds,No entry for mopeds,Mopeedi sõidu keeld
+323,regulatory,no-riders,No entry for riders on animals,Ratsutamiskeeld
+324,regulatory,no-pedestrians,No entry for pedestrians,Käigukeeld
+331,regulatory,no-entry,No entry,Sissesõidu keeld
+331a,regulatory,no-entry-b,No entry (variant b),Sissesõidu keeld
+332,regulatory,no-right-turn,No right turn,Parempöörde keeld
+333,regulatory,no-left-turn,No left turn,Vasakpöörde keeld
+334,regulatory,no-u-turn,No U-turn,Tagasipöörde keeld
+335,regulatory,customs-stop,Customs stop,Tollikontroll
+336a,regulatory,police-check-stop,Police check stop,Politseikontroll
+336b,regulatory,control-stop,Control stop,Kontroll
+341,regulatory,maximum-weight,Maximum weight,Massipiirang
+342a,regulatory,maximum-axle-weight,Maximum axle weight,Teljekoormuse piirang
+342b,regulatory,maximum-bogie-weight,Maximum bogie weight,Telikukoormuse piirang
+343,regulatory,maximum-height,Maximum height,Kõrguspiirang
+344,regulatory,maximum-width,Maximum width,Laiuspiirang
+345,regulatory,maximum-length,Maximum length,Pikkuspiirang
+351,regulatory,speed-limit,Speed limit,Suurim kiirus
+351m,regulatory,speed-limit-variable-message-sign,Speed limit (on a variable message sign),Suurim kiirus
+352,regulatory,no-overtaking,No overtaking,Möödasõidu keeld
+353,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Veoauto möödasõidu keeld
+354,regulatory,minimum-distance,Minimum distance between vehicles,Vähim pikivahe
+355,regulatory,no-horns,Use of horns prohibited,Helisignaali keeld
+361,regulatory,no-stopping,No stopping,Peatumiskeeld
+362,regulatory,no-parking,No parking,Parkimiskeeld
+363,regulatory,no-parking-odd-days,No parking on odd days,Parkimiskeeld paaritul kuupäeval
+364,regulatory,no-parking-even-days,No parking on even days,Parkimiskeeld paariskuupäeval
+371,regulatory,end-of-speed-limit,End of speed limit,Suurima kiiruse piirangu lõpp
+372,regulatory,end-of-no-overtaking,End of no overtaking,Möödasõidu keelu lõpp
+373,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Veoauto möödasõidu keelu lõpp
+376,regulatory,end-of-all-restrictions,End of all restrictions,Piirangute lõpp
+381,regulatory,zone-one-sign,Zone (one sign),Üks mõjuala
+388,regulatory,zone-two-signs,Zone (two signs),Kaks mõjuala
+389,regulatory,zone-end-and-start,End of one zone and start of another,Mõjuala ja mõjuala lõpp
+391,regulatory,end-of-zone-one-sign,End of zone (one sign),Ühe mõjuala lõpp
+398,regulatory,end-of-zone-two-signs,End of zone (two signs),Kahe mõjuala lõpp
+411,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Kohustuslik sõidusuund otse
+412,regulatory,turn-right,Turn right,Kohustuslik sõidusuund paremale
+413,regulatory,mandatory-direction-right,Mandatory direction (right),Kohustuslik sõidusuund paremale
+414,regulatory,turn-left,Turn left,Kohustuslik sõidusuund vasakule
+415,regulatory,mandatory-direction-left,Mandatory direction (left),Kohustuslik sõidusuund vasakule
+416,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Kohustuslik sõidusuund otse või paremale
+417,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Kohustuslik sõidusuund otse või vasakule
+418,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Kohustuslik sõidusuund paremale või vasakule
+421,regulatory,pass-on-right,Pass on the right,Ümberpõike suund
+422,regulatory,pass-on-left,Pass on the left,Ümberpõike suund
+423,regulatory,pass-on-either-side,Pass on either side,Ümberpõike suund
+424,regulatory,roundabout,Roundabout,Ringliiklus
+431,regulatory,cycle-path,Cycle path,Jalgrattatee
+432,regulatory,footpath,Footpath,Jalgtee
+433,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Jalgratta- ja jalgtee
+434,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Jalgratta- ja jalgtee
+435,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Jalgratta- ja jalgtee
+436,regulatory,bridleway,Bridleway,Ratsatee
+437,regulatory,snowmobile-route,Snowmobile route,Mootorsaanitee
+438,regulatory,snow-chains-required,Snow chains required,Lumeketid
+441,regulatory,end-of-cycle-path,End of cycle path,Jalgrattatee lõpp
+442,regulatory,end-of-footpath,End of footpath,Jalgtee lõpp
+443,regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),Jalgratta- ja jalgtee lõpp
+444,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),Jalgratta- ja jalgtee lõpp
+445,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Jalgratta- ja jalgtee lõpp
+446,regulatory,end-of-bridleway,End of bridleway,Ratsatee lõpp
+447,regulatory,end-of-snowmobile-route,End of snowmobile route,Mootorsaanitee lõpp
+448,regulatory,end-of-snow-chains-required,End of snow chains required,Lumekettide kohustuse lõpp
+451,regulatory,minimum-speed,Minimum speed,Vähim kiirus
+452,regulatory,end-of-minimum-speed,End of minimum speed,Vähima kiiruse lõpp
+461a,regulatory,dangerous-goods-mandatory-direction-straight,Mandatory direction for vehicles carrying dangerous goods (straight ahead),Ohtliku veosega sõidu suund
+461b,regulatory,dangerous-goods-mandatory-direction-turn-right,Mandatory direction for vehicles carrying dangerous goods (turn right),Ohtliku veosega sõidu suund
+461c,regulatory,dangerous-goods-mandatory-direction-right,Mandatory direction for vehicles carrying dangerous goods (right),Ohtliku veosega sõidu suund
+511,information,motorway,Motorway,Kiirtee
+512,information,end-of-motorway,End of motorway,Kiirtee lõpp
+521,information,one-way-road,One-way road,Ühesuunaline tee
+522,information,end-of-one-way-road,End of one-way road,Ühesuunalise tee lõpp
+523,information,one-way-road-right,One-way road (right here),Sõit ühesuunalisele teele
+524,information,one-way-road-left,One-way road (left here),Sõit ühesuunalisele teele
+525a,regulatory,public-transport-lane,Public transport lane,Ühissõidukirada
+525b,regulatory,public-transport-and-cycle-lane,Public transport and cycle lane,Ühissõiduki- ja jalgrattarada
+526a,regulatory,end-of-public-transport-lane,End of public transport lane,Ühissõidukiraja lõpp
+526b,regulatory,end-of-public-transport-and-cycle-lane,End of public transport and cycle lane,Ühissõiduki- ja jalgrattaraja lõpp
+527a,information,contraflow-bus-lane,Contraflow bus lane,Ühissõidukirajaga tee
+527b,information,contraflow-bus-and-cycle-lane,Contraflow bus and cycle lane,Ühissõiduki- ja jalgrattarajaga tee
+528a,information,end-of-contraflow-bus-lane,End of road with a contraflow bus lane,Ühissõidukirajaga tee lõpp
+528b,information,end-of-contraflow-bus-and-cycle-lane,End of road with a contraflow bus and cycle lane,Ühissõiduki- ja jalgrattarajaga tee lõpp
+529a,information,entrance-road-with-contraflow-bus-lane-far-side,Entrance to a road with a contraflow bus lane (bus lane on the far side),Sõit ühissõidukirajaga teele
+529b,information,entrance-road-with-contraflow-bus-and-cycle-lane-far-side,Entrance to a road with a contraflow bus and cycle lane (on the far side),Sõit ühissõiduki- ja jalgrattarajaga teele
+529c,information,entrance-road-with-contraflow-bus-lane-near-side,Entrance to a road with a contraflow bus lane (bus lane on the near side),Sõit ühissõidukirajaga teele
+529d,information,entrance-road-with-contraflow-bus-and-cycle-lane-near-side,Entrance to a road with a contraflow bus and cycle lane (on the near side),Sõit ühissõiduki- ja jalgrattarajaga teele
+531s1,information,lane-directions,Directions of the lanes,Sõidurajad ja -suunad
+531v1,information,lane-directions-white,Directions of the lanes (white background),Sõidurajad ja -suunad
+532as,information,lane-gain-right-to-3-lanes,"Lane gain (right, 3 lanes continuing)",Sõidurajad ja -suunad
+532av,information,lane-gain-right-to-3-lanes-white,"Lane gain (right, 3 lanes continuing, white background)",Sõidurajad ja -suunad
+532bs,information,lane-gain-right-to-3-lanes-b,"Lane gain (right, 3 lanes continuing, variant b)",Sõidurajad ja -suunad
+532bv,information,lane-gain-right-to-3-lanes-b-white,"Lane gain (right, 3 lanes continuing, variant b, white background)",Sõidurajad ja -suunad
+533as,information,lane-reduction-right-to-2-lanes,"Lane reduction (right, 2 lanes continuing)",Sõidurajad ja -suunad
+533av,information,lane-reduction-right-to-2-lanes-white,"Lane reduction (right, 2 lanes continuing, white background)",Sõidurajad ja -suunad
+533bs,information,lane-reduction-right-to-2-lanes-b,"Lane reduction (right, 2 lanes continuing, variant b)",Sõidurajad ja -suunad
+533bv,information,lane-reduction-right-to-2-lanes-b-white,"Lane reduction (right, 2 lanes continuing, variant b, white background)",Sõidurajad ja -suunad
+534s,information,turning-lane-left,Lane for turning left,Sõidurajad ja -suunad
+534v,information,turning-lane-left-white,Lane for turning left (white background),Sõidurajad ja -suunad
+535s,information,lane-restriction,Restriction in the lane,Sõidurajad ja -suunad
+535v,information,lanes-with-contraflow-bus-lane,Lanes with a contraflow bus lane,Sõidurajad ja -suunad
+536as,information,lane-diverge-with-speed-limit,Lane diverge (with a speed limit on one lane),Sõidurajad ja -suunad
+536av,information,lane-diverge-with-speed-limit-white,"Lane diverge (with a speed limit on one lane, white background)",Sõidurajad ja -suunad
+536bs,information,lane-diverge,Lane diverge,Sõidurajad ja -suunad
+536bv,information,lane-diverge-white,Lane diverge (white background),Sõidurajad ja -suunad
+536cs,information,lane-diverge-three-ways,Lane diverge (three directions),Sõidurajad ja -suunad
+536cv,information,lane-diverge-three-ways-white,"Lane diverge (three directions, white background)",Sõidurajad ja -suunad
+537ak,information,lane-reduction-right-to-1-lane-temporary,"Lane reduction (right, 1 lane continuing, temporary)",Sõidurajad ja -suunad
+537ak2,information,lane-reduction-right-to-2-lanes-temporary,"Lane reduction (right, 2 lanes continuing, temporary)",Sõidurajad ja -suunad
+537as,information,lane-reduction-right-to-1-lane,"Lane reduction (right, 1 lane continuing)",Sõidurajad ja -suunad
+537av,information,lane-reduction-right-to-1-lane-white,"Lane reduction (right, 1 lane continuing, white background)",Sõidurajad ja -suunad
+537bk,information,lane-reduction-left-to-1-lane-temporary,"Lane reduction (left, 1 lane continuing, temporary)",Sõidurajad ja -suunad
+537bk2,information,lane-reduction-left-to-2-lanes-temporary,"Lane reduction (left, 2 lanes continuing, temporary)",Sõidurajad ja -suunad
+537bs,information,lane-reduction-left-to-1-lane,"Lane reduction (left, 1 lane continuing)",Sõidurajad ja -suunad
+537bv,information,lane-reduction-left-to-1-lane-white,"Lane reduction (left, 1 lane continuing, white background)",Sõidurajad ja -suunad
+538,traffic-signal,lane-signal-open,Lane signal: lane open,Sõidurada avatud
+539,traffic-signal,lane-signal-closed,Lane signal: lane closed,Sõidurada suletud
+541a,information,bus-stop,"Bus, trolleybus or electric bus stop",Bussi- või trollipeatus
+541b,information,tram-stop,Tram stop,Trammipeatus
+542,information,taxi-rank,Taxi rank,Taksopeatus
+543,information,pedestrian-crossing-left-side,Pedestrian crossing (placed on the left),Ülekäigurada
+544,information,pedestrian-crossing,Pedestrian crossing,Ülekäigurada
+545a,information,pedestrian-underpass-with-stairs,Pedestrian underpass (with stairs),Käigutunnel
+545b,information,pedestrian-underpass-with-ramp,Pedestrian underpass (with ramp),Käigutunnel
+546a,information,pedestrian-underpass-with-stairs-left-side,"Pedestrian underpass (with stairs, placed on the left)",Käigutunnel
+546b,information,pedestrian-underpass-with-ramp-left-side,"Pedestrian underpass (with ramp, placed on the left)",Käigutunnel
+547a,information,pedestrian-overpass-with-stairs,Pedestrian overpass (with stairs),Käigusild
+547b,information,pedestrian-overpass-with-ramp,Pedestrian overpass (with ramp),Käigusild
+548a,information,pedestrian-overpass-with-stairs-left-side,"Pedestrian overpass (with stairs, placed on the left)",Käigusild
+548b,information,pedestrian-overpass-with-ramp-left-side,"Pedestrian overpass (with ramp, placed on the left)",Käigusild
+549,information,pedestrian-railway-crossing,Pedestrian crossing over a railway,Ülekäik
+551,information,u-turn-place,U-turn place,Tagasipöörde koht
+552a,information,dead-end,Dead end,Umbtee
+552b,information,dead-end-except-cyclists,Dead end (passable for cyclists),Umbtee ja jalgrattatee
+553a,information,dead-end-crossroads-right,"Dead end (crossroads ahead, the road to the right)",Umbtee
+553b,information,dead-end-crossroads-left,"Dead end (crossroads ahead, the road to the left)",Umbtee
+554a,information,dead-end-side-road-right,Dead-end side road (to the right),Umbtee
+554b,information,dead-end-side-road-left,Dead-end side road (to the left),Umbtee
+555,information,passing-place,Passing place,Ootekoht
+556,information,recommended-speed,Recommended speed,Sobiv kiirus
+557,information,cycle-crossing,Cycle crossing,Lõikuv jalgrattatee
+558,information,emergency-lay-by,Emergency lay-by,Hädapeatuskoht tunnelis
+559a,information,speed-camera-text,Automatic traffic enforcement (text),Automaatkontroll
+559b,information,speed-camera,Speed camera,Automaatkontroll
+559c1,information,video-surveillance,Video surveillance,Videovalve
+559c2,information,video-surveillance-with-logo,Video surveillance (with a coat of arms or logo),Videovalve
+559d,information,video-surveillance-symbol,Video surveillance (symbol only),Videovalve
+561,information,reversible-lane-begins,Reversible Lane begins,Muutsuunaliiklus
+562,information,reversible-lane-ends,Reversible Lane ends,Muutsuunaliikluse lõpp
+563,information,entrance-road-with-reversible-lanes,Entrance to a road with reversible lanes,Sõit muutsuunaliiklusega teele
+571,information,built-up-area-without-name,Built-up area (without place name),Asula
+571a,information,built-up-area,Built-up area,Asula
+572,information,end-of-built-up-area-without-name,End of built-up area (without place name),Asula lõpp
+572a,information,end-of-built-up-area,End of built-up area,Asula lõpp
+573,information,residential-zone,Residential zone,Õueala
+574,information,end-of-residential-zone,End of residential zone,Õueala lõpp
+575a,regulatory,parking,Parking,Parkla
+575b,regulatory,park-and-ride,Park and ride,Parkla
+575c,regulatory,service-facility-parking,Parking at a service facility,Teeninduskoha parkla
+575d,regulatory,disabled-parking-place,Parking for disabled badge holders only,Puudega inimese sõiduki parkimiskoht
+575e,regulatory,electric-vehicle-parking,Parking for electric vehicles,Elektrisõiduki parkimiskoht
+575g,regulatory,reserved-parking,Reserved parking,Sõiduki parkimiskoht
+576a,information,parking-arrangement,Parking arrangement,Parkimiskord
+576b,information,parking-arrangement-b,Parking arrangement (variant b),Parkimiskord
+576c,information,parking-arrangement-c,Parking arrangement (variant c),Parkimiskord
+576d,information,parking-arrangement-d,Parking arrangement (variant d),Parkimiskord
+576e,information,parking-arrangement-e,Parking arrangement (variant e),Parkimiskord
+576f,information,parking-arrangement-f,Parking arrangement (variant f),Parkimiskord
+577a,regulatory,parking-time-limit,Parking time limit,Parkimiskestus
+577b,regulatory,parking-time-limit-during-hours,Parking time limit (during the hours shown),Parkimiskestus
+578a,regulatory,paid-parking-zone,Paid parking zone,Tasuline parkimine
+578b,regulatory,end-of-paid-parking-zone,End of paid parking zone,Tasulise parkimise lõpp
+579,additional-panel,vehicles-will-be-towed,Vehicles will be towed away,Sõiduki sundteisaldus
+581,information,tunnel,Tunnel,Tunnel
+582,information,end-of-tunnel,End of tunnel,Tunneli lõpp
+583,information,industrial-area,Industrial area,Tööstuspiirkond
+584a,information,waste-disposal-site,Waste disposal site,Prügimägi
+584b,information,hazardous-waste-collection-point,Collection point for hazardous substances and waste,Ohtlike ainete hoidla
+585a,information,ferry-terminal,Ferry,Parvlaevasadam
+585b,information,cargo-port,Cargo port,Kaubasadam
+585c,information,marina,Marina,Jahisadam
+586a,information,airport,Airport,Lennujaam
+586b,information,bus-station,Bus station,Bussijaam
+586c,information,railway-station,Railway station,Raudteejaam
+591,regulatory,stop-line-sign,Stop line,Stoppjoonemärk
+592a1,information,reminder-built-up-area-speed-limit,Reminder: speed limit in built-up areas,Liiklusreegli või nõude meeldetuletus
+592a2,information,reminder-residential-zone-speed-limit,Reminder: speed limit in residential zones,Liiklusreegli või nõude meeldetuletus
+592a3,information,reminder-keep-distance,Reminder: keep your distance,Liiklusreegli või nõude meeldetuletus
+592a4,information,road-user-charge,Road user charge,Liiklusreegli või nõude meeldetuletus
+592b,information,national-speed-limits,National speed limits (at the border),Liikluskord
+592c1,information,state-border,State border,Riigipiir
+592c2,information,state-border-stop,State border (stop),Riigipiir
+592d,information,border-zone,Border zone,Piirivöönd
+592e,information,end-of-the-border-zone,End of the border zone,Piirivööndi lõpp
+593,information,road-management-marker,Road management marker,Tee haldamisega seotud tähis
+594,information,changed-traffic-arrangement,Changed traffic arrangement,Liikluskorralduse muudatus
+595a,information,temporary-traffic-management-information,Information on temporary traffic management,Ajutise liikluskorralduse teave
+595b,information,temporary-traffic-management-parties,Information on the parties to temporary traffic management,Ajutise liikluskorralduse teostajate teave
+595c,information,type-of-work-information,Type of work and contractor,Tööliigi teave
+596a,information,traffic-information,Traffic information,Liiklusteave
+596b,information,traffic-information-b,Traffic information (variant b),Liiklusteave
+596m,information,traffic-information-variable-message-sign,Traffic information (on a variable message sign),Liiklusteave
+597,information,parking-ticket-machine,Parking ticket machine,Parkimisautomaat
+598,information,zip-merge,Zip merge,Sõiduradade liitumiskoht
+611,information,traffic-guide,Route for a prohibited turn (diagram),Sõiduskeem
+621,information,advance-direction-sign,Advance direction sign,Eelviidad
+621b,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),Eelviidad
+621c,information,advance-direction-sign-with-restriction,Advance direction sign (with a restriction for some vehicles),Eelviidad
+621d,information,advance-direction-sign-temporary,Advance direction sign (temporary),Eelviidad
+622,information,advance-direction-sign-vehicle-category-diversion,Advance direction sign (diversion for a category of vehicles),Eelviidad
+623a1,information,lane-advance-direction-sign,Advance direction sign by lane,Eelviidad
+623a2,information,lane-advance-direction-sign-half-right,Advance direction sign by lane (ahead to the right),Eelviidad
+623a3,information,lane-advance-direction-sign-overhead,"Advance direction sign by lane (overhead, pointing down)",Eelviidad
+623a4,information,lane-advance-direction-sign-turn-right,Advance direction sign by lane (turn right),Eelviidad
+623a5,information,lane-advance-direction-sign-two-lanes,Advance direction sign by lane (for two lanes),Eelviidad
+623a6,information,lane-advance-direction-sign-temporary,Advance direction sign by lane (temporary),Eelviidad
+623b,information,advance-direction-sign-stacked,Advance direction sign (stacked),Eelviidad
+623b2,information,advance-direction-sign-stacked-with-distance,"Advance direction sign (stacked, with distance to the junction)",Eelviidad
+623c1,information,advance-direction-sign-stacked-with-distances,"Advance direction sign (stacked, with distances to the destinations)",Eelviidad
+623c2,information,advance-direction-sign-stacked-with-tourist-destination,"Advance direction sign (stacked, with a tourist destination)",Eelviidad
+623c3,information,advance-direction-sign-stacked-with-closed-direction,"Advance direction sign (stacked, with a closed direction)",Eelviidad
+623cm,information,advance-direction-sign-variable-message-sign,Advance direction sign (on a variable message sign),Eelviidad
+623d,information,advance-direction-sign-stacked-with-road-numbers,"Advance direction sign (stacked, with road numbers)",Eelviidad
+631a,information,direction-sign-left,Direction sign (left),Suunaviidad
+631b,information,direction-sign-street-both-ways,"Direction sign (street, both directions)",Suunaviidad
+631c,information,direction-sign-fire-water-point,Direction sign (fire-fighting water point),Suunaviidad
+632,information,direction-sign-stacked,"Direction sign (stacked, with distances)",Suunaviidad
+633,information,direction-sign-half-right,Direction sign (ahead to the right),Suunaviidad
+634,information,tourist-destination-direction-sign,Tourist destination direction sign,Suunaviidad
+635,information,direction-sign-local-destination,Direction sign (local destination),Suunaviidad
+636,information,direction-sign-organisation,Direction sign (organisation or institution),Suunaviidad
+637a,information,cycle-direction-sign,Direction sign for cyclists,Suunaviidad
+637b,information,cycle-direction-sign-stacked,Direction sign for cyclists (stacked panels),Suunaviidad
+637c,information,cycle-and-pedestrian-direction-sign,Direction sign for cyclists and pedestrians,Suunaviidad
+641a,information,place-name-sign,Place name,Kohanime tähis
+641b,information,river-name,River or valley name,Kohanime tähis
+641c,information,other-name,"Name of a river, mountains or other place",Kohanime tähis
+641d,information,municipality-name,Municipality name (with coat of arms),Kohanime tähis
+641e1,information,country-name,Country name (at the state border),Kohanime tähis
+641f,information,county-and-parish-names,County and parish names (administrative boundary),Kohanime tähis
+642,information,tourist-destination-sign,Tourist destination sign,Turismiobjekti tähis
+643a1,information,private-property-name,Private property (with name),Eravalduse tähis
+643a2,information,private-property,Private property,Eravalduse tähis
+643b,information,end-of-private-property,End of private property,Eravalduse lõpp
+643c,information,private-car-park,Private car park,Eraparkla
+643d,information,end-of-private-car-park,End of private car park,Eraparkla lõpp
+644,information,street-name,Street name sign,Tee nimi
+645,information,distance-sign,Distance sign,Kaugusviit
+651,information,kilometre-marker,Kilometre marker,Kilomeetritähis
+652a,information,main-road-number,Main road number,Tee number
+652b,information,regional-road-number,Road number (regional road),Tee number
+652c,information,local-road-number,Local road number,Tee number
+652d,information,european-road-number,European road number,Tee number
+653a,information,main-road-number-direction-straight,Main road number and direction (straight ahead),Tee number
+653b,information,regional-road-number-direction-turn-right,Regional road number and direction (turn right),Tee number
+653c,information,regional-road-number-direction-right,Regional road number and direction (right),Tee number
+653d,information,local-road-number-direction-turn-left,Local road number and direction (turn left),Tee number
+653e,information,european-road-number-direction-left,European road number and direction (left),Tee number
+654a,information,road-to-main-road-number,Road leading to a main road (road number),Tee number
+654b,information,road-to-regional-road-number,Road leading to a regional road (road number),Tee number
+654c,information,road-to-local-road-number,Road leading to a local road (road number),Tee number
+654d,information,road-to-european-road-number,Road leading to a European route (road number),Tee number
+655a,information,road-to-main-road-number-direction-straight,"Road leading to a main road (road number and direction, straight ahead)",Tee number
+655b,information,road-to-regional-road-number-direction-turn-right,"Road leading to a regional road (road number and direction, turn right)",Tee number
+655c,information,road-to-regional-road-number-direction-right,"Road leading to a regional road (road number and direction, right)",Tee number
+655d,information,road-to-local-road-number-direction-turn-left,"Road leading to a local road (road number and direction, turn left)",Tee number
+655e,information,road-to-european-road-number-direction-left,"Road leading to a European route (road number and direction, left)",Tee number
+656a,information,cycle-route-number-national,Cycle route number (national route),Jalgrattamarsruudi number
+656b,information,cycle-route-number-regional,Cycle route number (regional route),Jalgrattamarsruudi number
+656c,information,cycle-route-number-local,Cycle route number (local route),Jalgrattamarsruudi number
+656d,information,cycle-route-number-eurovelo,Cycle route number (with EuroVelo route),Jalgrattamarsruudi number
+657,information,cycle-route-number-direction,Cycle route number and direction,Jalgrattamarsruudi number
+658,information,road-to-cycle-route-number-direction,Road leading to a cycle route (number and direction),Jalgrattamarsruudi number
+661a,information,goods-vehicle-direction-straight,Recommended direction for goods vehicles (straight ahead),Veoauto sõidu suund
+661b,information,goods-vehicle-direction-turn-right,Recommended direction for goods vehicles (turn right),Veoauto sõidu suund
+661c,information,goods-vehicle-direction-right,Recommended direction for goods vehicles (right),Veoauto sõidu suund
+661d,information,goods-vehicle-direction-turn-left,Recommended direction for goods vehicles (turn left),Veoauto sõidu suund
+661e,information,goods-vehicle-direction-left,Recommended direction for goods vehicles (left),Veoauto sõidu suund
+662a,information,dangerous-goods-route-straight,Route for vehicles carrying dangerous goods (straight ahead),Ohtliku aine veo tee
+662b,information,dangerous-goods-route-turn-right,Route for vehicles carrying dangerous goods (turn right),Ohtliku aine veo tee
+662c,information,dangerous-goods-route-right,Route for vehicles carrying dangerous goods (right),Ohtliku aine veo tee
+662d,information,dangerous-goods-route-turn-left,Route for vehicles carrying dangerous goods (turn left),Ohtliku aine veo tee
+662e,information,dangerous-goods-route-left,Route for vehicles carrying dangerous goods (left),Ohtliku aine veo tee
+663,information,public-event-direction-straight,Direction to a public event (straight ahead),Avalik üritus
+664,information,public-event-direction-right,Direction to a public event (right),Avalik üritus
+665,information,public-event-direction-left,Direction to a public event (left),Avalik üritus
+666a,information,public-event-direction-sign-straight,Direction sign to a public event (straight ahead),Avalik üritus
+666b,information,public-event-direction-sign-turn-right,Direction sign to a public event (turn right),Avalik üritus
+666c,information,public-event-direction-sign-right,Direction sign to a public event (right),Avalik üritus
+666d,information,public-event-direction-sign-turn-left,Direction sign to a public event (turn left),Avalik üritus
+666e,information,public-event-direction-sign-left,Direction sign to a public event (left),Avalik üritus
+667a,information,bus-direction-straight,Recommended direction for buses (straight ahead),Bussi sõidu suund
+667b,information,bus-direction-turn-right,Recommended direction for buses (turn right),Bussi sõidu suund
+667c,information,bus-direction-right,Recommended direction for buses (right),Bussi sõidu suund
+667d,information,bus-direction-turn-left,Recommended direction for buses (turn left),Bussi sõidu suund
+667e,information,bus-direction-left,Recommended direction for buses (left),Bussi sõidu suund
+671a,information,detour-diagram,Detour diagram,Ümbersõidu skeem
+671a2,information,detour-diagram-b,Detour diagram (variant b),Ümbersõidu skeem
+671a3,information,detour-diagram-c,Detour diagram (variant c),Ümbersõidu skeem
+671b,information,detour-diagram-around-closed-section,Detour diagram (around a closed section of the carriageway),Ümbersõidu skeem
+672,information,lane-closure-diagram,Lane closure (diagram),Ümbersõidu skeem
+673,information,lane-change-diagram,Lane change to the other carriageway (diagram),Ümbersõidu skeem
+674,information,detour-arrow-straight,Detour arrow (straight ahead),Ümbersõit
+675,information,detour-arrow-right,Detour arrow (to the right),Ümbersõit
+676,information,detour-arrow-left,Detour arrow (to the left),Ümbersõit
+677a,information,detour-direction-sign-straight,Detour direction sign (straight ahead),Ümbersõit
+677b,information,detour-direction-sign-turn-right,Detour direction sign (turn right),Ümbersõit
+677c,information,detour-direction-sign-right,Detour direction sign (right),Ümbersõit
+677d,information,detour-direction-sign-turn-left,Detour direction sign (turn left),Ümbersõit
+677d2,information,detour-direction-sign-turn-left-goods-vehicles,"Detour direction sign (turn left, for goods vehicles)",Ümbersõit
+677e,information,detour-direction-sign-left,Detour direction sign (left),Ümbersõit
+678,information,traffic-controller,Traffic controlled by a traffic controller,Reguleerija
+679a,information,pedestrian-detour-straight,Detour for pedestrians (straight ahead),Ümberkäik
+679b,information,pedestrian-detour-right,Detour for pedestrians (right),Ümberkäik
+679c,information,pedestrian-detour-left,Detour for pedestrians (left),Ümberkäik
+679c2,information,pedestrian-detour-left-with-distance,"Detour for pedestrians (left, with distance)",Ümberkäik
+681,traffic-device,chevron-board-right,Chevron board (curve to the right),Kurvisuund
+682,traffic-device,chevron-board-left,Chevron board (curve to the left),Kurvisuund
+683,traffic-device,chevron-board-t-junction,Chevron board (T-junction),Teede hargnemine
+684,traffic-device,closure-barrier,Closure barrier,Hoiatustara
+685a,traffic-device,divergence-marker,Divergence marker,Hargnemiskoht
+685b,traffic-device,divergence-marker-b,Divergence marker (variant b),Hargnemiskoht
+686a,traffic-device,guide-plate-hatched-right,"Guide plate (hatched, sloping right)",Ohtlik koht või teeäär
+686b,traffic-device,guide-plate-hatched-left,"Guide plate (hatched, sloping left)",Ohtlik koht või teeäär
+687,traffic-device,sign-post-marker,Sign post marker,Märgiposti tähis
+688a,traffic-device,speed-bump-marker-left-side,Speed hump marker (placed on the left),Künnis
+688b,traffic-device,speed-bump-marker-right-side,Speed hump marker (placed on the right),Künnis
+711,information,services-first-aid,Services (first aid),Esmaabi
+712,information,police,Police,Politsei
+713,information,services-information-point,Services (information point),Info
+714,information,services-telephone,Services (telephone),Telefon
+715,information,services-post-office,Services (post office),Post
+716a,information,internet,Internet access,Internetipunkt
+716b,information,wireless-internet,Wireless internet,Wifi
+717,information,services-traffic-radio,Services (traffic information radio),Raadiojaam
+718,information,other-tourist-attraction,Other tourist attraction,Vaatamisväärsus
+719,information,customs,Customs,Toll
+721a,information,services-filling-station,Services (filling station),Tankla
+721b,information,services-filling-station-with-lpg,"Services (filling station, also selling LPG)",Tankla
+721c,information,services-lpg-station,Services (LPG station),Tankla
+721d,information,services-cng-station,Services (CNG station),Tankla
+721e,information,services-ev-charging-station,Services (EV charging station),Elektrisõidukite laadimispunkt
+722,information,services-vehicle-repair,Services (vehicle repair),Autohooldus
+723a,information,services-car-wash,Services (car wash),Autopesula
+723b,information,services-showers,Services (showers),Pesemisvõimalus
+724a,regulatory,parking-garage,Parking (car park building),Parkimismaja
+724b,regulatory,parking-garage-free-spaces,"Parking (car park building, with the number of free spaces)",Parkimismaja
+725,information,services-restaurant,Services (roadside restaurant),Restoran
+726,information,services-cafe,Services (café or snack bar open every day),Kohvik
+727,information,services-hotel-or-motel,Services (hotel or motel),Hotell või motell
+728a,information,services-toilets,Services (toilets),Tualett
+728b,information,services-dry-toilet,Services (dry toilet),Käimla
+729a,information,services-government-office,Services (government service office),Riigiasutuse teenindusbüroo
+729b,information,services-vehicle-inspection,Services (vehicle inspection station),Tehnoülevaatus
+731,information,services-youth-hostel,Services (youth hostel),Puhkemaja
+732,information,services-campsite,Services (campsite),Kämping
+733,information,services-accommodation,Services (accommodation),Majutuskoht
+734,information,services-caravan-site,Services (caravan site),Sõidukelamulaager
+741,information,services-picnic-site,Services (picnic site),Puhkekoht
+742a,information,services-hiking-trail,Services (hiking trail),Matkaraja algus
+742b,information,services-cycle-touring-trail,Services (start of a cycle touring trail),Jalgrattamatkaraja algus
+742c,information,services-cross-country-skiing,Services (cross-country skiing),Suusaraja algus
+743,information,swimming-place,Swimming place,Ujumiskoht
+744,information,services-viewpoint,Services (viewpoint),Vaatekoht
+745,information,fishing-place,Fishing place,Kalastamiskoht
+751,information,stadium,Stadium,Spordiväljak
+752,information,sports-centre,Sports centre,Spordihoone
+753,information,golf-course,Golf course,Golfiväljak
+754,information,horseback-riding,Horseback riding,Ratsabaas
+761,information,services-rural-business,Services (rural business),Maaettevõtlus
+762,information,services-shop,Services (shop),Kauplus
+771,information,services-two,Services (two services on one sign),Kaks teenust
+772,information,services-three,Services (three services on one sign),Kolm teenust
+773,information,services-and-traffic-arrangement,Services and the local traffic arrangement,Teenus ja liikluskorraldus
+811,additional-panel,distance,Distance,Kaugus objektini
+812,additional-panel,distance-and-direction-turn-right,Distance and direction (turn right),Kaugus objektini
+813,additional-panel,distance-and-direction-right,Distance and direction (right),Kaugus objektini
+814,additional-panel,distance-and-direction-turn-left,Distance and direction (turn left),Kaugus objektini
+815,additional-panel,distance-and-direction,Distance and direction,Kaugus objektini
+816,additional-panel,distance-to-stop-line,Distance to the stop line,Kaugus objektini
+817a,additional-panel,distance-to-traffic-island-pass-right,Distance to a traffic island (pass on the right),Kaugus objektini
+817b,additional-panel,distance-to-traffic-island-keep-right,Distance to a traffic island (road shifts to the right),Kaugus objektini
+817c,additional-panel,distance-to-traffic-island-pass-either-side,Distance to a traffic island (pass on either side),Kaugus objektini
+821,additional-panel,section-length,Length of section,Mõjupiirkond
+821m,additional-panel,section-length-variable-message-sign,Length of section (on a variable message sign),Mõjupiirkond
+822,additional-panel,section-length-ahead,Length of section (ahead of the sign),Mõjupiirkond
+823,additional-panel,section-length-behind,Length of section (behind the sign),Mõjupiirkond
+824,additional-panel,section-end,End of section,Mõjupiirkond
+825,additional-panel,section-continues,Section continues,Mõjupiirkond
+831,additional-panel,direction-arrow-right,Direction (pointing right),Mõjusuund
+832,additional-panel,direction-arrow-left,Direction (pointing left),Mõjusuund
+833,additional-panel,both-directions-horizontal,Both directions (horizontal arrows),Mõjusuund
+834,additional-panel,priority-road-course,Course of the priority road,Sõidueesõigusega liiklemise või peatee suund
+835,additional-panel,cyclists-crossing-from-both-sides,Cyclists crossing from the left and right,Teeandmise koht jalgrattateel sõitjale
+836,additional-panel,cyclists-contraflow,Cyclists riding against the traffic,Jalgratturite vastassuunaliiklus ühesuunalisel teel
+837,additional-panel,two-way-cycle-traffic,Two-way cycle traffic,Jalgratturite kahesuunaline liiklus
+841,additional-panel,vehicle-type-cars,Type of vehicle (cars),Sõidukiliik
+842,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Sõidukiliik
+843,additional-panel,vehicle-type-with-trailers,Type of vehicle (with trailers),Sõidukiliik
+844,additional-panel,vehicle-type-buses,Type of vehicle (buses),Sõidukiliik
+845,additional-panel,vehicle-type-tractors,Type of vehicle (tractors),Sõidukiliik
+846,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Sõidukiliik
+847a,additional-panel,vehicle-type-bicycles,Type of vehicle (bicycles),Sõidukiliik
+847b,additional-panel,vehicle-type-mopeds,Type of vehicle (mopeds),Sõidukiliik
+848,additional-panel,vehicle-type-electric,Type of vehicle (electric vehicles),Sõidukiliik
+849,additional-panel,vehicle-type-snowmobiles,Type of vehicle (snowmobiles),Sõidukiliik
+851,additional-panel,saturdays-sundays-and-holidays,"Saturdays, Sundays and public holidays",Kehtivuspäevad või -aeg
+852,additional-panel,working-days,Working days,Kehtivuspäevad või -aeg
+853,additional-panel,days,Days of the week,Kehtivuspäevad või -aeg
+854,additional-panel,time-period,Time period (e.g. 16–18 h),Kehtivuspäevad või -aeg
+855,additional-panel,saturdays-sundays-and-holidays-time,"Saturdays, Sundays and public holidays with times",Kehtivuspäevad või -aeg
+856,additional-panel,working-days-time,Working days with times (e.g. 18–19 h),Kehtivuspäevad või -aeg
+857,additional-panel,days-and-times,Days and times,Kehtivuspäevad või -aeg
+858,additional-panel,valid-from,Valid from the date and time shown,Kehtivuspäevad või -aeg
+861a,additional-panel,parking-method,Parking method,Parkimisviis
+861b,additional-panel,parking-method-b,Parking method (variant b),Parkimisviis
+861c,additional-panel,parking-method-c,Parking method (variant c),Parkimisviis
+862a,additional-panel,parking-method-d,Parking method (variant d),Parkimisviis
+862b,additional-panel,parking-method-e,Parking method (variant e),Parkimisviis
+863a,additional-panel,parking-method-f,Parking method (variant f),Parkimisviis
+863b,additional-panel,parking-method-g,Parking method (variant g),Parkimisviis
+864a,additional-panel,parking-method-h,Parking method (variant h),Parkimisviis
+864b,additional-panel,parking-method-i,Parking method (variant i),Parkimisviis
+865,additional-panel,parking-method-j,Parking method (variant j),Parkimisviis
+871,additional-panel,no-idling-during-parking,No idling during parking,Parkimine ainult seisatud mootoriga
+872a,additional-panel,with-charge,Subject to a charge,Tasulised teenused
+872b,additional-panel,paid-parking-panel,Paid parking (with hours),Tasuline parkimine
+873a,additional-panel,maximum-duration,Maximum duration,Parkimisaja piirang
+873b,additional-panel,maximum-duration-with-hours,Maximum duration (during the hours shown),Parkimisaja piirang
+873c,additional-panel,parking-disc-panel,Parking disc required,Parkimisaja piirang
+873d,additional-panel,parking-disc-panel-with-hours,Parking disc required (during the hours shown),Parkimisaja piirang
+874,additional-panel,disabled-parking,Parking for disabled persons,Puudega inimese sõiduk
+875,additional-panel,inspection-ramp,Inspection ramp or pit,Autovaatluskoht
+881,additional-panel,maximum-permitted-weight,Maximum permitted weight,Registrimassi piirang
+882,additional-panel,only-this-lane,Applies only to this lane,Kehtivusrada
+883,additional-panel,blind-pedestrians-may-be-crossing,Blind pedestrians may be crossing,Pimedad
+884,additional-panel,when-wet,When wet,Märg tee
+885,additional-panel,ice-panel,Ice,Jäätumine
+886,additional-panel,overhead-power-line-height,Height of overhead power line,Ohutu kõrgus elektriliini all
+887,additional-panel,clearance-width,Clearance width,Vaba laius
+888,additional-panel,accident-risk,Accident risk,Õnnetusoht
+889,additional-panel,red-light-waiting-time,Maximum waiting time at a red light,Ooteaeg
+891a,additional-panel,except-buses,Except buses,Välja arvatud
+891b,additional-panel,except-text,Except (as stated on the panel),Välja arvatud
+892,additional-panel,bus-line-numbers,Bus or trolleybus line numbers,Busside või trollide liininumbrid
+893,additional-panel,text-panel,Text panel,Tekstiline teave

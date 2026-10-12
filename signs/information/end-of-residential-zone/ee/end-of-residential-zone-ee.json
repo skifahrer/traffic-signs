@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-residential-zone",
+  "category": "information",
+  "country": "ee",
+  "code": "574",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 574.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "traffic-information-variable-message-sign",
+  "category": "information",
+  "country": "ee",
+  "code": "596m",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 596m.svg"
+  }
+}

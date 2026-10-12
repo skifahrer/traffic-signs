@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-with-barriers",
+  "category": "warning",
+  "country": "ee",
+  "code": "111",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 111.svg"
+  }
+}

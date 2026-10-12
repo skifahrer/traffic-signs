@@ -1,0 +1,11 @@
+{
+  "sign": "service-facility-parking",
+  "category": "regulatory",
+  "country": "ee",
+  "code": "575c",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 575c.svg"
+  }
+}
