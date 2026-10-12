@@ -1,0 +1,11 @@
+{
+  "sign": "no-pedestrians",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C16",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C16 2023.svg"
+  }
+}

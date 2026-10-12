@@ -1,0 +1,11 @@
+{
+  "sign": "lane-directions",
+  "category": "information",
+  "country": "nl",
+  "code": "L4",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L4.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "speed-limit-variable-message-sign",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "A3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord A3.svg"
+  }
+}

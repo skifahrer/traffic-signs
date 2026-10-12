@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-slow-vehicles-passing-lane",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F12",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F12.svg"
+  }
+}

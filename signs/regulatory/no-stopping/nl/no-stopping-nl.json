@@ -1,0 +1,11 @@
+{
+  "sign": "no-stopping",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "E2",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord E2 2023.svg"
+  }
+}

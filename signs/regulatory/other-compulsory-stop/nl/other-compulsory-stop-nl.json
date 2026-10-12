@@ -1,0 +1,11 @@
+{
+  "sign": "other-compulsory-stop",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F10",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F10 2023.svg"
+  }
+}

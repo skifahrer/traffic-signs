@@ -1,0 +1,11 @@
+{
+  "sign": "detour-announcement",
+  "category": "information",
+  "country": "nl",
+  "code": "K9",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord K9.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "danger",
+  "category": "warning",
+  "country": "nl",
+  "code": "J37",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J37 2023.svg"
+  }
+}

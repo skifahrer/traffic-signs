@@ -1,0 +1,11 @@
+{
+  "sign": "low-emission-zone",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C22e",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C22e 2026.svg"
+  }
+}

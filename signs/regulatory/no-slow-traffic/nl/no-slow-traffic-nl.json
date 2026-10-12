@@ -1,0 +1,11 @@
+{
+  "sign": "no-slow-traffic",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C9",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C9 2023.svg"
+  }
+}

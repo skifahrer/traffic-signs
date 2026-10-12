@@ -1,0 +1,11 @@
+{
+  "sign": "traffic-measure-ahead-direction",
+  "category": "information",
+  "country": "nl",
+  "code": "L10",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L10.svg"
+  }
+}

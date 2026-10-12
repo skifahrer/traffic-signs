@@ -1,0 +1,11 @@
+{
+  "sign": "low-emission-zone-buses-class-6",
+  "category": "additional-panel",
+  "country": "nl",
+  "code": "C22e9",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "NL-C22e9.svg"
+  }
+}

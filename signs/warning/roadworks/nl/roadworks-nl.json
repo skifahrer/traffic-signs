@@ -1,0 +1,11 @@
+{
+  "sign": "roadworks",
+  "category": "warning",
+  "country": "nl",
+  "code": "J16",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J16 2023.svg"
+  }
+}

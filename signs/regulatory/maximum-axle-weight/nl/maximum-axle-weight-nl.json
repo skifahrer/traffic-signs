@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-axle-weight",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C20",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C20 2023.svg"
+  }
+}

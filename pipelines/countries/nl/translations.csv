@@ -1,0 +1,185 @@
+code,category,slug,name_en,name_nl
+A1,regulatory,speed-limit,Speed limit,Maximumsnelheid
+A2,regulatory,end-of-speed-limit,End of speed limit,Einde maximumsnelheid
+A3,regulatory,speed-limit-variable-message-sign,Speed limit (on a variable message sign),Maximumsnelheid op een elektronisch signaleringsbord
+A4,information,recommended-speed,Recommended speed,Adviessnelheid
+A5,information,end-of-recommended-speed,End of recommended speed,Einde adviessnelheid
+B1,information,priority-road,Priority road,Voorrangsweg
+B2,information,end-of-priority-road,End of priority road,Einde voorrangsweg
+B3,information,priority-intersection,Intersection with priority,Voorrangskruispunt
+B4,information,priority-intersection-side-road-left,Intersection with priority (side road from the left),Voorrangskruispunt Zijweg links
+B5,information,priority-intersection-side-road-right,Intersection with priority (side road from the right),Voorrangskruispunt Zijweg rechts
+B6,regulatory,give-way,Give way,Verleen voorrang aan bestuurders op de kruisende weg
+B7,regulatory,stop,"Stop, give way",Stop; Verleen voorrang aan bestuurders op de kruisende weg
+C1,regulatory,no-vehicles,No vehicles,"Gesloten in beide richtingen voor voertuigen, ruiters en geleiders van rij- of trekdieren of vee"
+C2,regulatory,no-entry,No entry,"Eenrichtingsweg, in deze richting gesloten voor voertuigen, ruiters en geleiders van rij- of trekdieren of vee"
+C3,information,one-way-road,One-way road,Eenrichtingsweg
+C4,information,one-way-road-right,One-way road (right here),Eenrichtingsweg
+C5,regulatory,two-way-road,Two-way road (entry permitted),Inrijden toegestaan
+C6,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Gesloten voor motorvoertuigen op meer dan twee wielen
+C7,regulatory,no-goods-vehicles,No entry for goods vehicles,Gesloten voor vrachtauto's
+C7a,regulatory,no-buses,No entry for buses and trolleybuses,Gesloten voor autobussen
+C7b,regulatory,no-buses-or-goods-vehicles,No entry for buses and goods vehicles,Gesloten voor autobussen en vrachtauto's
+C8,regulatory,no-tractors,No entry for tractors,"Gesloten voor landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines"
+C9,regulatory,no-slow-traffic,"No riders, livestock, carts, tractors, slow motor vehicles, microcars, bicycles or mopeds","Gesloten voor ruiters, vee, wagens, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines, brommobielen, fietsen, snorfietsen, bromfietsen en gehandicaptenvoertuigen"
+C10,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Gesloten voor motorvoertuigen met aanhangwagen
+C11,regulatory,no-motorcycles,No entry for motorcycles,Gesloten voor motorfietsen
+C12,regulatory,no-motor-vehicles,No motor vehicles,Gesloten voor alle motorvoertuigen
+C13,regulatory,no-mopeds,No entry for mopeds,"Gesloten voor bromfietsen, snorfietsen en gehandicaptenvoertuigen met in werking zijnde motor"
+C14,regulatory,no-bicycles,No entry for bicycles,Gesloten voor fietsen en voor gehandicaptenvoertuigen zonder motor
+C15,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,"Gesloten voor fietsen, bromfietsen en gehandicaptenvoertuigen"
+C16,regulatory,no-pedestrians,No entry for pedestrians,Gesloten voor voetgangers
+C17,regulatory,maximum-length,Maximum length,"Gesloten voor voertuigen en samenstellen van voertuigen die, met inbegrip van de lading, langer zijn dan op het bord is aangegeven"
+C18,regulatory,maximum-width,Maximum width,"Gesloten voor voertuigen die, met inbegrip van de lading, breder zijn dan op het bord is aangegeven"
+C19,regulatory,maximum-height,Maximum height,"Gesloten voor voertuigen die, met inbegrip van de lading, hoger zijn dan op het bord is aangegeven"
+C20,regulatory,maximum-axle-weight,Maximum axle weight,Gesloten voor voertuigen waarvan de aslast hoger is dan op het bord is aangegeven
+C21,regulatory,maximum-weight,Maximum weight,"Gesloten voor voertuigen en samenstellen van voertuigen, waarvan de totaalmassa hoger is dan op het bord is aangegeven"
+C22,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Gesloten voor voertuigen met bepaalde gevaarlijke stoffen
+C22e,regulatory,low-emission-zone,Low emission zone,"Gesloten voor personenauto’s, bedrijfsauto’s, vrachtauto’s of autobussen vanwege emissie-eisen (milieuzone of nul-emissiezone)"
+C22e1,additional-panel,zero-emission-zone-vans-and-goods-vehicles,Zero-emission zone for vans and goods vehicles (emission-free vehicles only),"nul-emissiezone voor bedrijfsauto’s en vrachtauto’s, toegankelijk voor emissieloze voertuigen"
+C22e4,additional-panel,low-emission-zone-diesel-cars-class-4,Low emission zone for diesel cars (emission class 4 to 6 allowed),"milieuzone voor dieselpersonenauto’s, toegankelijk voor emissieklasse 4 tot en met 6"
+C22e5,additional-panel,low-emission-zone-diesel-cars-class-5,Low emission zone for diesel cars (emission class 5 and 6 allowed),"milieuzone voor dieselpersonenauto’s, toegankelijk voor emissieklasse 5 en 6"
+C22e6,additional-panel,low-emission-zone-diesel-cars-and-vans-class-4,Low emission zone for diesel cars and vans (emission class 4 to 6 allowed),"milieuzone voor dieselpersonenauto’s en bedrijfsauto’s, toegankelijk voor emissieklasse 4 tot en met 6"
+C22e7,additional-panel,low-emission-zone-diesel-cars-and-vans-class-5,Low emission zone for diesel cars and vans (emission class 5 and 6 allowed),"milieuzone voor dieselpersonenauto’s en bedrijfsauto’s, toegankelijk voor emissieklasse 5 en 6"
+C22e8,additional-panel,low-emission-zone-goods-vehicles-class-6,Low emission zone for goods vehicles (emission class 6 allowed),"milieuzone voor vrachtauto’s, toegankelijk voor vrachtauto’s emissieklasse 6"
+C22e9,additional-panel,low-emission-zone-buses-class-6,Low emission zone for buses (emission class 6 allowed),"milieuzone voor autobussen, toegankelijk voor autobussen emissieklasse 6"
+C22e10,additional-panel,low-emission-zone-goods-vehicles-and-buses-class-6,Low emission zone for goods vehicles and buses (emission class 6 allowed),"milieuzone voor vrachtauto’s en autobussen, toegankelijk voor vrachtauto’s en autobussen emissieklasse 6"
+C22f,regulatory,end-of-low-emission-zone,End of low emission zone,Einde geslotenverklaring vanwege emissie-eisen (milieuzone of nul-emissiezone)
+C23-01,regulatory,rush-hour-lane-open,Rush-hour lane open,Spitsstrook open
+C23-02,regulatory,rush-hour-lane-clear,Clear the rush-hour lane,Spitsstrook vrijmaken
+C23-03,regulatory,end-of-rush-hour-lane,End of rush-hour lane,Einde spitsstrook
+D1,regulatory,roundabout,Roundabout,Rotonde; verplichte rijrichting
+D2,regulatory,pass-on-right,Pass on the right,Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft
+D3,regulatory,pass-on-either-side,Pass on either side,Bord mag aan beide zijden worden voorbijgegaan
+D4,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Gebod tot het volgen van de rijrichting die op het bord is aangegeven
+D5,regulatory,turn-right,Turn right,Gebod tot het volgen van de rijrichting die op het bord is aangegeven
+D6,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Gebod tot het volgen van een van de rijrichtingen die op het bord zijn aangegeven
+D7,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Gebod tot het volgen van een van de rijrichtingen die op het bord zijn aangegeven
+E1,regulatory,no-parking,No parking,Parkeerverbod
+E2,regulatory,no-stopping,No stopping,Verbod stil te staan
+E3,regulatory,no-parking-bicycles-and-mopeds,No parking of bicycles and mopeds,Verbod fietsen en bromfietsen te plaatsen
+E4,regulatory,parking,Parking,Parkeergelegenheid
+E5,information,taxi-rank,Taxi rank,Taxistandplaats
+E6,regulatory,disabled-parking-place,Parking for disabled badge holders only,Gehandicaptenparkeerplaats (voor houders van een gehandicaptenparkeerkaart)
+E7,regulatory,loading-bay,Loading bay,Gelegenheid bestemd voor het onmiddellijk laden en lossen van goederen
+E8,regulatory,parking-for-vehicles-shown,Parking for the vehicles shown only,Parkeergelegenheid alleen bestemd voor de voertuigcategorie of groep voertuigen die op het bord is aangegeven
+E9,regulatory,reserved-parking,Reserved parking,Parkeergelegenheid alleen bestemd voor vergunninghouders
+E10,regulatory,short-term-parking-zone,Short-term parking zone,"Parkeerschijfzone met verplicht gebruik van parkeerschijf, tevens parkeerverbod indien er langer wordt geparkeerd dan de parkeerduur die op het bord is aangegeven"
+E11,regulatory,end-of-short-term-parking-zone,End of short-term parking zone,Einde parkeerschijfzone met verplicht gebruik van parkeerschijf
+E12,regulatory,park-and-ride,Park and ride,P+R-voorziening ten behoeve van overstappers op het openbaar vervoer
+E13,regulatory,carpool-parking,Parking for car sharers (carpool),Parkeergelegenheid ten behoeve van carpoolers
+F1,regulatory,no-overtaking,No overtaking,Verbod voor motorvoertuigen om elkaar onderling in te halen
+F2,regulatory,end-of-no-overtaking,End of no overtaking,Einde verbod voor motorvoertuigen om elkaar onderling in te halen
+F3,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Verbod voor vrachtauto's om motorvoertuigen in te halen
+F4,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Einde verbod voor vrachtauto's om motorvoertuigen in te halen
+F5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Verbod voor bestuurders door te gaan bij nadering van verkeer uit tegengestelde richting
+F6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Bestuurders uit tegengestelde richting moeten verkeer dat van deze richting nadert voor laten gaan
+F7,regulatory,no-u-turn,No U-turn,Keerverbod
+F8,regulatory,end-of-all-restrictions,End of all restrictions,Einde van alle door verkeersborden aangegeven verboden
+F9,regulatory,end-of-all-restrictions-variable-message-sign,End of all restrictions shown on variable message signs,Einde van alle op een elektronisch signaleringsbord aangegeven verboden
+F10,regulatory,other-compulsory-stop,Other compulsory stop,Stop
+F10 (douane),regulatory,customs-stop,Customs stop,Stop (douane)
+F11,regulatory,slow-vehicles-passing-lane,Passing lane for slow vehicles (compulsory),"Verplichtgebruik passeerbaan of passeerstrook (rijbaan of -strook om ingehaald te kunnen worden), uitsluitend bestemd voor landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines"
+F12,regulatory,end-of-slow-vehicles-passing-lane,End of passing lane for slow vehicles,"Einde verplicht gebruik passeerbaan of passeerstrook (rijbaan of -strook om ingehaald te kunnen worden), uitsluitend bestemd voor landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines"
+F13,regulatory,public-transport-lane,Public transport lane,Rijbaan of -strook uitsluitend ten behoeve van lijnbussen
+F14,regulatory,end-of-public-transport-lane,End of public transport lane,Einde busbaan of -strook
+F15,regulatory,tram-lane,Tram lane,Rijbaan of -strook uitsluitend ten behoeve van trams
+F16,regulatory,end-of-tram-lane,End of tram lane,Einde trambaan of -strook
+F17,regulatory,bus-and-tram-lane,Bus and tram lane,Rijbaan of -strook uitsluitend ten behoeve van lijnbussen en trams
+F18,regulatory,end-of-bus-and-tram-lane,End of bus and tram lane,Einde bus- en trambaan of -strook
+F19,regulatory,truck-and-bus-lane,Lane for goods vehicles and buses,Rijbaan of -strook uitsluitend ten behoeve van vrachtauto’s en lijnbussen
+F20,regulatory,end-of-truck-and-bus-lane,End of lane for goods vehicles and buses,Einde rijbaan of -strook voor vrachtauto’s en lijnbussen
+F21,regulatory,truck-lane,Truck Lane,Rijbaan of -strook uitsluitend ten behoeve van vrachtauto’s
+F22,regulatory,end-of-truck-lane,End of truck lane,Einde rijbaan of -strook voor vrachtauto’s
+G1,information,motorway,Motorway,Autosnelweg
+G2,information,end-of-motorway,End of motorway,Einde autosnelweg
+G3,information,expressway,Expressway,Autoweg
+G4,information,end-of-expressway,End of expressway,Einde autoweg
+G5,information,residential-zone,Residential zone,Erf
+G6,information,end-of-residential-zone,End of residential zone,Einde erf
+G7,regulatory,footpath,Footpath,Voetpad
+G8,regulatory,end-of-footpath,End of footpath,Einde voetpad
+G9,regulatory,bridleway,Bridleway,Ruiterpad
+G10,regulatory,end-of-bridleway,End of bridleway,Einde ruiterpad
+G11,regulatory,cycle-path,Cycle path,Verplicht fietspad
+G12,regulatory,end-of-cycle-path,End of cycle path,Einde verplicht fietspad
+G12a,regulatory,cycle-and-moped-path,Cycle and moped path,Fiets/bromfietspad
+G12b,regulatory,end-of-cycle-and-moped-path,End of cycle and moped path,Einde fiets/bromfietspad
+G13,regulatory,optional-cycle-path,Optional cycle path,Onverplicht fietspad
+G14,regulatory,end-of-optional-cycle-path,End of optional cycle path,Einde onverplicht fietspad
+H1,information,built-up-area,Built-up area,Bebouwde kom
+H2,information,end-of-built-up-area,End of built-up area,Einde bebouwde kom
+J1,warning,uneven-road,Uneven road,Slecht wegdek
+J2,warning,bend-right,Bend (right),Bocht naar rechts
+J3,warning,bend-left,Bend (left),Bocht naar links
+J4,warning,double-bend-right,Double bend (first to the right),"S-bocht(en), eerst naar rechts"
+J5,warning,double-bend-left,Double bend (first to the left),"S-bocht(en), eerst naar links"
+J6,warning,steep-ascent,Steep ascent,Steile helling
+J7,warning,steep-descent,Steep descent,Gevaarlijke daling
+J8,warning,intersection,Intersection,Gevaarlijk kruispunt
+J9,warning,roundabout-ahead,Roundabout ahead,Rotonde
+J10,warning,level-crossing-with-barriers,Level crossing with barriers,Overweg met slagbomen
+J11,warning,level-crossing-without-barriers,Level crossing without barriers,Overweg zonder slagbomen
+J12,warning,level-crossing-cross-single-track,Level crossing cross (single track),Overweg met enkel spoor
+J13,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Overweg met twee of meer sporen
+J14,warning,trams,Trams,Tram(kruising)
+J15,warning,movable-bridge,Movable bridge,Beweegbare brug
+J16,warning,roadworks,Roadworks,Werk in uitvoering
+J17,warning,road-narrows-both-sides,Road narrows (from both sides),Rijbaanversmalling
+J18,warning,road-narrows-right,Road narrows (from the right),Rijbaanversmalling rechts
+J19,warning,road-narrows-left,Road narrows (from the left),Rijbaanversmalling links
+J20,warning,slippery-road,Slippery road,Slipgevaar
+J21,warning,children,Children,Kinderen
+J22,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Voetgangersoversteekplaats
+J23,warning,pedestrians,Pedestrians,Voetgangers
+J24,warning,cyclists,Cyclists,Fietsers en bromfietsers
+J25,warning,loose-gravel,Loose gravel,Losliggende stenen
+J26,warning,quayside,Quayside or river bank,Kade of rivieroever
+J27,warning,wild-animals,Wild animals,Groot wild
+J28,warning,farm-animals,Farm animals,Vee
+J29,warning,two-way-traffic,Two-way traffic,Tegenliggers
+J30,warning,low-flying-aircraft,Low-flying aircraft,Laagvliegende vliegtuigen
+J31,warning,crosswind,Crosswind,Zijwind
+J32,warning,traffic-signals,Traffic signals,Verkeerslichten
+J33,warning,queues,Queues likely,File
+J34,warning,accident,Accident,Ongeval
+J35,warning,poor-visibility,Poor visibility,"Slecht zicht door sneeuw, regen of mist"
+J36,warning,snow-or-ice,Snow or ice,IJzel of sneeuw
+J37,warning,danger,Other danger,Gevaar (de aard van het gevaar is aangegeven op het onderbord)
+J38,warning,speed-bump,Speed bump,Verkeersdrempel
+J39,warning,retractable-bollard,Retractable bollard in the carriageway,Waarschuwing voor elektrische in- en uitschuifbare paal in de rijbaan (poller) waarmee toegankelijkheid van straten en gebieden kan worden geregeld
+K1,information,direction-sign-motorway-through,Direction sign on the motorway (through traffic),"Lage beslissingwegwijzer langs autosnelweg voor de doorgaande richting, met interlokale doelen en routenummer autosnelweg"
+K2,information,advance-direction-sign-motorway,Advance direction sign on the motorway,"Voorwegwijzer langs autosnelweg voor de afgaande richting, met afstandaanduiding, afritnummer, interlokale doelen (bovenste doel = afritnaam), verwijzing naar vliegveld/luchthaven en routenummer niet-autosnelweg"
+K2 (2010),information,advance-direction-sign-motorway-e,Advance direction sign on the motorway (variant e),Voorwegwijzer langs autosnelweg voor de afgaande richting (ontwerp 2010)
+K3,information,service-area-exit-sign,Exit sign to a motorway service area,"Beslissingswegwijzer langs autosnelweg voor de afgaande richting naar een verzorgingsplaats, met de naam van de parkeerplaats en symbolen die de aard van de voorzieningen aangeven"
+K4,information,direction-board-overhead-motorway,Direction board above the road (motorway),"Hoge beslissingswegwijzer langs autosnelweg met rijstrookpaneel voor de doorgaande richting en aftakkingspaneel voor de afgaande richting, met interlokale doelen, routenummers autosnelwegen en Europese hoofdroutes"
+K4 (2010),information,direction-board-overhead-motorway-b,"Direction board above the road (motorway, variant b)",Hoge beslissingswegwijzer langs autosnelweg (ontwerp 2010)
+K7,information,cycle-direction-sign,Direction sign for cyclists,"Wegwijzer voor fietsers en bromfietsers (handwijzer), met lokaal doel, interlokaal doel, stedelijk fietsroutenummer (boven), en met interlokale doelen en interlokaal fietsroutenummer (onder)"
+K8,information,cycle-direction-sign-stacked,Direction sign for cyclists (stacked panels),"Wegwijzer voor fietsers en bromfietsers (stapelbord), met interlokale doelen en een via een alternatieve route te bereiken doel (cursief, groen)"
+K9,information,detour-announcement,Detour announcement,Omleiding
+K10,information,advance-direction-sign,Advance direction sign,"Voorwegwijzer binnen de bebouwde kom met interlokaal doel, lokaal doel, een dagrecreatiecentrum, objecten en stadsroutenummers"
+K11,information,lane-advance-direction-sign,Advance direction sign by lane,Voorsorteren op niet-autosnelweg
+L1,information,clearance-height,Clearance height on the bridge or in the tunnel,Hoogte onderdoorgang
+L2,information,pedestrian-crossing,Pedestrian crossing,Voetgangersoversteekplaats
+L3a,information,bus-and-tram-stop,Bus and tram stop,Tramhalte/bushalte
+L3b,information,bus-stop,"Bus, trolleybus or electric bus stop",Bushalte
+L3c,information,tram-stop,Tram stop,Tramhalte
+L4,information,lane-directions,Directions of the lanes,Voorsorteren
+L5,information,zip-merge,Zip merge,Einde rijstrook (ritsen)
+L6,information,lane-fork,Lane fork,Splitsing
+L7,information,number-of-lanes,Number and direction of lanes,Aantal doorgaande rijstroken
+L8,information,dead-end,Dead end,Doodlopende weg
+L9,information,dead-end-ahead,Dead end ahead,Vooraanduiding doodlopende weg
+L10,information,traffic-measure-ahead-direction,Advance notice of a traffic measure in the direction shown,Vooraanduiding verkeersmaatregel voor de aangegeven richting
+L11,information,lane-restriction,Restriction in the lane,Verkeersbord geldt alleen voor de aangegeven rijstrook/rijstroken
+L12,information,lane-restriction-overhead,Restriction in the lane (overhead),Verkeersbord geldt alleen voor de aangegeven rijstrook
+L13,information,tunnel,Tunnel,Verkeerstunnel
+L14,information,emergency-lay-by,Emergency lay-by,Vluchthaven
+L15,information,emergency-lay-by-with-phone-and-extinguisher,Emergency lay-by with emergency telephone and fire extinguisher,Vluchthaven voorzien van een noodtelefoon en brandblusapparaat
+L16,information,services-emergency-telephone,Services (emergency telephone),Noodtelefoon
+L17,information,fire-extinguisher,Fire extinguisher,Brandblusapparaat
+L18,information,emergency-telephone-and-fire-extinguisher,Emergency telephone and fire extinguisher,Noodtelefoon en brandblusapparaat
+L19 (rechts),information,emergency-exit-right,Emergency exit (to the right),Dichtstbijzijnde uitgang of twee dichtstbijzijnde uitgangen in de op het bord aangegeven richting en afstand (rechts)
+L19 (links),information,emergency-exit-left,Emergency exit (to the left),Dichtstbijzijnde uitgang of twee dichtstbijzijnde uitgangen in de op het bord aangegeven richting en afstand (links)
+L20,information,passing-place-right,Passing place (on the right),Uitwijkplaats rechts van de weg
+L21,information,passing-place-left,Passing place (on the left),Uitwijkplaats links van de weg

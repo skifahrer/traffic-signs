@@ -1,0 +1,11 @@
+{
+  "sign": "loading-bay",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "E7",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord E7.svg"
+  }
+}

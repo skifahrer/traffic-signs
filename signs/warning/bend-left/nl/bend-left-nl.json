@@ -1,0 +1,11 @@
+{
+  "sign": "bend-left",
+  "category": "warning",
+  "country": "nl",
+  "code": "J3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J3 2023.svg"
+  }
+}

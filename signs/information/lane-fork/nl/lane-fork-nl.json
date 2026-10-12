@@ -1,0 +1,11 @@
+{
+  "sign": "lane-fork",
+  "category": "information",
+  "country": "nl",
+  "code": "L6",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L6.svg"
+  }
+}

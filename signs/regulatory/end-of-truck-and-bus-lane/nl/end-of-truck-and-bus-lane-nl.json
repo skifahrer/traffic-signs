@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-truck-and-bus-lane",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F20",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F20.svg"
+  }
+}

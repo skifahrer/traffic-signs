@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-with-trailers",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C10",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C10 2023.svg"
+  }
+}

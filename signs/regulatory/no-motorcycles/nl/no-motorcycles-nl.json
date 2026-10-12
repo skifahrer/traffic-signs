@@ -1,0 +1,11 @@
+{
+  "sign": "no-motorcycles",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C11",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C11 2023.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road",
+  "category": "information",
+  "country": "nl",
+  "code": "B1",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord B1 2023.svg"
+  }
+}

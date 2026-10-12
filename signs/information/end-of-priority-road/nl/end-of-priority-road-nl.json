@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-priority-road",
+  "category": "information",
+  "country": "nl",
+  "code": "B2",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord B2 2023.svg"
+  }
+}

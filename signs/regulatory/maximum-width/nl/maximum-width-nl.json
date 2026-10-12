@@ -1,0 +1,11 @@
+{
+  "sign": "maximum-width",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C18",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C18 2023.svg"
+  }
+}

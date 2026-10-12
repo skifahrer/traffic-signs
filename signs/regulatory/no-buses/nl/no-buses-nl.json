@@ -1,0 +1,11 @@
+{
+  "sign": "no-buses",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C7a",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C7a 2023.svg"
+  }
+}

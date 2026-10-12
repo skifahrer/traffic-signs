@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-multiple-tracks",
+  "category": "warning",
+  "country": "nl",
+  "code": "J13",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J13.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "emergency-exit-left",
+  "category": "information",
+  "country": "nl",
+  "code": "L19 (links)",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L19 (links).svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-buses-or-goods-vehicles",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C7b",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C7b 2023.svg"
+  }
+}

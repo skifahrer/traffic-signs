@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-short-term-parking-zone",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "E11",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord E11.svg"
+  }
+}

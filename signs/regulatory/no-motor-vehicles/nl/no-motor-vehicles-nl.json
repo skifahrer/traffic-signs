@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C12",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C12 2023.svg"
+  }
+}

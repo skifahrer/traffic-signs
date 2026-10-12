@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-either-side",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "D3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord D3.svg"
+  }
+}

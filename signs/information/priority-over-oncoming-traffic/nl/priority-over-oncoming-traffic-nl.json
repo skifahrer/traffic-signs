@@ -1,0 +1,11 @@
+{
+  "sign": "priority-over-oncoming-traffic",
+  "category": "information",
+  "country": "nl",
+  "code": "F6",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F6 2023.svg"
+  }
+}

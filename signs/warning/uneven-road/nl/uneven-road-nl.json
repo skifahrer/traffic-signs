@@ -1,0 +1,11 @@
+{
+  "sign": "uneven-road",
+  "category": "warning",
+  "country": "nl",
+  "code": "J1",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J1 2023.svg"
+  }
+}

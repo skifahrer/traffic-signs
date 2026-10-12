@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-all-restrictions-variable-message-sign",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F9",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F9.svg"
+  }
+}

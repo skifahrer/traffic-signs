@@ -1,0 +1,11 @@
+{
+  "sign": "queues",
+  "category": "warning",
+  "country": "nl",
+  "code": "J33",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J33 2023.svg"
+  }
+}

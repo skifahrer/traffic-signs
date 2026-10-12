@@ -1,0 +1,11 @@
+{
+  "sign": "zero-emission-zone-vans-and-goods-vehicles",
+  "category": "additional-panel",
+  "country": "nl",
+  "code": "C22e1",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "NL-C22e1.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "stop",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "B7",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord B7.svg"
+  }
+}

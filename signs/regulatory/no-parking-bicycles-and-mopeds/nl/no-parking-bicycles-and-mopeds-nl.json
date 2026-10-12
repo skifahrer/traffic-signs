@@ -1,0 +1,11 @@
+{
+  "sign": "no-parking-bicycles-and-mopeds",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "E3",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord E3 2023.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "pedestrians",
+  "category": "warning",
+  "country": "nl",
+  "code": "J23",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord J23 2023.svg"
+  }
+}

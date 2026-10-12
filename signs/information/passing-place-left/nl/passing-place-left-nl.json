@@ -1,0 +1,11 @@
+{
+  "sign": "passing-place-left",
+  "category": "information",
+  "country": "nl",
+  "code": "L21",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord L21.svg"
+  }
+}

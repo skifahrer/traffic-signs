@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-sign",
+  "category": "information",
+  "country": "nl",
+  "code": "K10",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord K10.svg"
+  }
+}

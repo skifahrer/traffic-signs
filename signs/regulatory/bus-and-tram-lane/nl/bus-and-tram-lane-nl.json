@@ -1,0 +1,11 @@
+{
+  "sign": "bus-and-tram-lane",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "F17",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord F17.svg"
+  }
+}

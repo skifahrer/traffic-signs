@@ -1,0 +1,11 @@
+{
+  "sign": "no-vehicles-carrying-dangerous-goods",
+  "category": "regulatory",
+  "country": "nl",
+  "code": "C22",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Nederland",
+    "file": "Nederlands verkeersbord C22 2023.svg"
+  }
+}
