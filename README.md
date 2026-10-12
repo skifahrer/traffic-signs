@@ -225,13 +225,13 @@ deleted instead of archived.
 pipelines/
   __main__.py          command line: picks the countries, runs them, writes the report
   core/                shared by every country
-    model.py           Source (a country's settings), Entry, Translation
+    model.py           Source (a country's settings), Entry, Translation, commons_category()
     parsers.py         reusable page readers: gallery(), wikitable()
     sync.py            the sync engine: page → translations → images → signs/
     images.py          image download, update and archiving
     report.py          Markdown report for the job summary and the commit message
     layout.py          the signs/ folder structure
-    wikimedia.py       HTTP client with User-Agent, rate limit and retries
+    wikimedia.py       HTTP client with User-Agent, rate limit and retries; Commons category walk
     log.py             progress logging
   countries/
     sk/
@@ -287,6 +287,7 @@ pipelines/
    | --- | --- |
    | Signs spread over several pages | `page=["Panneau … de danger en France", "Panneau … de prescription en France"]`; every parser reads every page, and a sign listed twice counts once: a code found on an earlier page keeps that page's image, so list the local page first |
    | Signs missing from the local page | `"en:Road signs in France"` reads a page from the English (or any other) Wikipedia |
+   | Signs missing from every page, but drawn on Commons | `commons_category("Diagrams of road signs of Denmark", exclude=r"(?i)historic\|obsolete")` reads a Commons category as a page that shows all its files, see below |
    | Every caption starts with a word that is not part of the code | `code_prefix=r"(?:Zusatzzeichen\|Zeichen) "` on `gallery()`/`wikitable()` stores `Zeichen 101` as `101` |
    | Captions with a dot, dash or slash after the code | read as they are: `A1a - Virage à droite`, `B0. Circulation interdite`, `RA-9A/Cross other side` |
    | The page also shows older or regional signs | `parsers.between(parser, start=r"^==\s*Categorisation", end=r"^===\s*Obsolete")` reads only that part of the page |
@@ -294,6 +295,19 @@ pipelines/
    | Captions without codes, but files named after the sign | `parsers.files(r"UK traffic sign (?P<code>.+)\.svg")` takes the code from every matching image on the page |
    | Captions without (usable) local names | `local_names="translations"`: names come from the `name_<language>` column of `translations.csv` |
    | An English-speaking country | `language="en", names_key="en-GB"`: `translations.csv` has `name_en`, the English name every country with the sign shares, and `name_en-GB`, the country's own wording |
+
+   A Commons category (`from ...core.model import commons_category`) is
+   read with its subcategories, `depth` levels down (3 by default), each
+   file once. `exclude` is a regular expression for subcategory names not to
+   enter: historic and obsolete sets, photos, other countries or regions.
+   Check its subcategories before you write it: Finland's current signs, for
+   one, sit in "Diagrams of historic road signs of Finland, 2020 set". The
+   files become one gallery without captions, so read them with
+   `parsers.files()`, take the names from `translations.csv`
+   (`local_names="translations"`), and list the category after the
+   Wikipedia pages: a sign on a page keeps the page's image, and a code that
+   appears twice within the category is an error to settle with `ignore` or
+   corrections.csv.
 
    Images: when the page uses a `.png`, `.jpg` or `.tif` and Commons has an
    `.svg` of the same name, the SVG is downloaded instead (`prefer_svg=True`,

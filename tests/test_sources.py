@@ -7,7 +7,7 @@ import os
 from unittest import mock
 
 from pipelines.core import layout, parsers
-from pipelines.core.model import Page, Source
+from pipelines.core.model import CommonsCategory, Page, Source, commons_category
 from pipelines.core.sync import Options, sync
 from pipelines.core.wikimedia import Client
 from tests.support import SK_WIKITEXT, SandboxTestCase
@@ -90,6 +90,106 @@ class MultiPageTest(SandboxTestCase):
     def test_local_names_must_be_page_or_translations(self):
         with self.assertRaises(ValueError):
             dataclasses.replace(self.source, local_names="csv")
+
+
+# Commons categories, by title: (subcategories, files), the files in two batches to test paging.
+CATEGORIES = {
+    "Category:Diagrams of road signs of France": (
+        ["Category:Warning road signs of France", "Category:Obsolete road signs of France"],
+        [["France road sign A14.svg"], ["France road sign B1.svg"]],
+    ),
+    "Category:Warning road signs of France": (
+        ["Category:Diagrams of road signs of France", "Category:Panels of France"],
+        [["France road sign A14.svg", "France road sign A1a.svg"]],
+    ),
+    "Category:Panels of France": ([], [["France road sign M9z.svg"]]),
+    "Category:Obsolete road signs of France": ([], [["France road sign A99 (1946).svg"]]),
+}
+
+
+def fake_category_api(url, params=None, post=None):
+    """Client.get answering list=categorymembers from CATEGORIES."""
+    subcats, batches = CATEGORIES[params["cmtitle"]]
+    batch = int(params.get("cmcontinue", 0))
+    members = [{"ns": 14, "title": c} for c in subcats] if batch == 0 else []
+    members += [{"ns": 6, "title": f"File:{f}"} for f in batches[batch]]
+    data = {"query": {"categorymembers": members}}
+    if batch + 1 < len(batches):
+        data["continue"] = {"cmcontinue": str(batch + 1), "continue": "-||"}
+    return json.dumps(data).encode()
+
+
+class CommonsCategoryTest(SandboxTestCase):
+    """A category of sign drawings on Commons, read like a page whose files are named after the sign."""
+
+    def test_commons_category_is_a_page_on_commons(self):
+        category = commons_category("Diagrams of road signs of France", depth=2, exclude="Obsolete")
+        self.assertEqual(
+            category,
+            CommonsCategory("commons.wikimedia.org", "Category:Diagrams of road signs of France", 2, "Obsolete"),
+        )
+        self.assertEqual(category.url, "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_France")
+        source = Source("fr", "fr", "France", "French", "fr.wikipedia.org", ["Panneaux de danger", category], parsers.files(r"x(?P<code>.)"), self.root)
+        self.assertEqual(source.pages, (Page("fr.wikipedia.org", "Panneaux de danger"), category))
+
+    def test_lists_files_of_subcategories_once_skipping_excluded_ones(self):
+        with mock.patch.object(Client, "get", side_effect=fake_category_api) as get:
+            files = Client(delay=0).category_files("Category:Diagrams of road signs of France", exclude="^Obsolete")
+        self.assertEqual(
+            files,
+            ["France road sign A14.svg", "France road sign B1.svg", "France road sign A1a.svg", "France road sign M9z.svg"],
+        )
+        # The obsolete category is never asked for; the loop back to the root is not followed.
+        asked = [call.args[1]["cmtitle"] for call in get.call_args_list]
+        self.assertNotIn("Category:Obsolete road signs of France", asked)
+        self.assertEqual(asked.count("Category:Diagrams of road signs of France"), 2)  # two batches
+
+    def test_depth_limits_how_far_down_it_goes(self):
+        with mock.patch.object(Client, "get", side_effect=fake_category_api):
+            files = Client(delay=0).category_files("Category:Diagrams of road signs of France", depth=1, exclude="^Obsolete")
+        self.assertNotIn("France road sign M9z.svg", files)
+        self.assertIn("France road sign A1a.svg", files)
+
+    def test_syncs_signs_from_a_category_next_to_a_page(self):
+        data_dir = os.path.join(self.root, "fr")
+        os.makedirs(data_dir)
+        with open(os.path.join(data_dir, "translations.csv"), "w", encoding="utf-8") as handle:
+            handle.write(TRANSLATIONS + "A1a,warning,bend-right,Bend (right),Virage à droite\n")
+        source = Source(
+            country="fr",
+            language="fr",
+            country_name="France",
+            language_name="French",
+            wiki="fr.wikipedia.org",
+            page=["Panneaux de danger", commons_category("Diagrams of road signs of France", exclude="^Obsolete")],
+            parser=parsers.files(r"(?i:France road sign) (?P<code>[A-Za-z0-9-]+)\.svg"),
+            data_dir=data_dir,
+            local_names="translations",
+        )
+        with mock.patch.object(Client, "page_wikitext", side_effect=lambda wiki, title: PAGES[(wiki, title)]), mock.patch.object(
+            Client, "get", side_effect=fake_category_api
+        ):
+            result = sync(source, Client(delay=0), Options(no_images=True))
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.entries, 4)  # A14 from the page; B1, A1a and M9z from Commons
+        with open(layout.sign_path("warning", "bend-right", "fr", "json"), encoding="utf-8") as handle:
+            meta = json.load(handle)
+        self.assertEqual(meta["source"]["page"], "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_France")
+        self.assertEqual(meta["source"]["file"], "France road sign A1a.svg")
+        with open(layout.sign_path("warning", "danger", "fr", "json"), encoding="utf-8") as handle:
+            self.assertEqual(json.load(handle)["source"]["page"], "https://fr.wikipedia.org/wiki/Panneaux_de_danger")
+
+    def test_a_code_twice_in_one_category_is_an_error(self):
+        categories = {"Category:Signs": ([], [["France road sign A14.svg", "France road sign A14-.svg"]])}
+        source = Source(
+            "fr", "fr", "France", "French", "fr.wikipedia.org", commons_category("Signs"),
+            parsers.files(r"(?i:France road sign) (?P<code>A14)-?\.svg"), self.root, local_names="translations",
+        )
+        with open(os.path.join(self.root, "translations.csv"), "w", encoding="utf-8") as handle:
+            handle.write(TRANSLATIONS)
+        with mock.patch.dict(CATEGORIES, categories, clear=True), mock.patch.object(Client, "get", side_effect=fake_category_api):
+            result = sync(source, Client(delay=0), Options(no_images=True))
+        self.assertTrue(any("appears twice" in error for error in result.errors), result.errors)
 
 
 class PreferSvgTest(SandboxTestCase):
