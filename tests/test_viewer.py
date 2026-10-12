@@ -86,6 +86,9 @@ class ViewerTest(SandboxTestCase):
         self.assertRegex(html, r'src="app\.js\?v=[0-9a-f]{10}"')
         self.assertRegex(html, r'href="style\.css\?v=[0-9a-f]{10}"')
         self.assertRegex(app, r'fetch\("data\.json\?v=[0-9a-f]{10}"\)')
+        # The preload asks for the same URL as app.js, so data.json downloads once, early.
+        version = re.search(r'data\.json\?v=([0-9a-f]{10})', app).group(1)
+        self.assertIn(f'<link rel="preload" href="data.json?v={version}" as="fetch" crossorigin="anonymous" />', html)
 
 
 class VariantTest(SandboxTestCase):

@@ -9,6 +9,8 @@
   --warn: #9a5b00;
   --warn-soft: #fdf1dc;
   --radius: 10px;
+  --skeleton: #ecece6;
+  --skeleton-shine: #f8f8f4;
   --cell: 7.5rem;
   color-scheme: light;
 }
@@ -24,6 +26,8 @@
     --accent-soft: #1f2d45;
     --warn: #f0b45a;
     --warn-soft: #3a2c15;
+    --skeleton: #2a2a27;
+    --skeleton-shine: #353531;
     color-scheme: dark;
   }
 }
@@ -183,6 +187,67 @@ select {
   border-color: var(--accent);
 }
 
+/* Type buttons: one per category, with how many signs the other filters leave in it. */
+.types {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  flex-basis: 100%;
+}
+
+button.type,
+button.bulk {
+  font: inherit;
+  font-size: 0.9rem;
+  color: inherit;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.3rem 0.75rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+button.type .count {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+}
+
+button.type:hover,
+button.bulk:hover {
+  border-color: var(--accent);
+}
+
+button.type[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--surface);
+  font-weight: 600;
+}
+
+button.type[aria-pressed="true"] .count {
+  color: inherit;
+  opacity: 0.85;
+}
+
+/* Nothing left of this type under the other filters: still clickable, but quiet. */
+button.type.empty:not([aria-pressed="true"]) {
+  opacity: 0.5;
+}
+
+/* "All" / "None" next to the country chips, "Select all US states" / "Clear" in the regions. */
+.bulk-buttons {
+  display: inline-flex;
+  gap: 0.35rem;
+}
+
+button.bulk {
+  font-size: 0.82rem;
+  color: var(--accent);
+  border-style: dashed;
+}
+
 .check {
   display: inline-flex;
   gap: 0.35rem;
@@ -290,6 +355,21 @@ main {
   height: 4.5rem;
   object-fit: contain;
   object-position: center bottom;
+}
+
+/* Placeholder while an image downloads (img.pending until its load event). */
+img.pending {
+  border-radius: 8px;
+  background: linear-gradient(90deg, var(--skeleton) 25%, var(--skeleton-shine) 50%, var(--skeleton) 75%) 0 0 / 200% 100%;
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+
+img {
+  transition: opacity 0.2s;
+}
+
+img.pending {
+  opacity: 0.6;
 }
 
 .cell .missing {
@@ -428,9 +508,14 @@ button.share:hover {
 
 .loading {
   display: grid;
+  gap: 1.25rem;
+}
+
+.loading-status {
+  display: grid;
   justify-items: center;
   gap: 0.5rem;
-  padding: 4rem 1rem;
+  padding: 1rem 1rem 0;
 }
 
 .loading progress {
@@ -449,6 +534,75 @@ button.share:hover {
   justify-items: center;
   gap: 0.5rem;
   padding: 1rem 0 2rem;
+}
+
+/* Rows shaped like the list, shimmering until data.json is in. */
+.skeleton {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.skeleton-title,
+.skeleton i,
+.skeleton b {
+  display: block;
+  border-radius: 6px;
+  background: linear-gradient(90deg, var(--skeleton) 25%, var(--skeleton-shine) 50%, var(--skeleton) 75%) 0 0 / 200% 100%;
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+
+.skeleton-title {
+  width: 12rem;
+  height: 1rem;
+  margin: 0.9rem;
+}
+
+.skeleton-row {
+  display: grid;
+  grid-template-columns: minmax(12rem, 20rem) repeat(8, var(--cell));
+  gap: 0.75rem;
+  align-items: end;
+  padding: 0.6rem 0.9rem;
+  border-top: 1px solid var(--line);
+  overflow: hidden;
+}
+
+.skeleton i {
+  height: 2.2rem;
+  align-self: center;
+}
+
+.skeleton b {
+  width: 4.5rem;
+  height: 4.5rem;
+  justify-self: center;
+}
+
+/* Each row's shimmer starts a little later, so it rolls down the list. */
+.skeleton-row:nth-child(3) > * { animation-delay: 0.1s; }
+.skeleton-row:nth-child(4) > * { animation-delay: 0.2s; }
+.skeleton-row:nth-child(5) > * { animation-delay: 0.3s; }
+.skeleton-row:nth-child(6) > * { animation-delay: 0.4s; }
+.skeleton-row:nth-child(7) > * { animation-delay: 0.5s; }
+
+@keyframes shimmer {
+  from {
+    background-position: 100% 0;
+  }
+  to {
+    background-position: -100% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton-title,
+  .skeleton i,
+  .skeleton b,
+  img.pending {
+    animation: none;
+  }
 }
 
 .more[hidden],
@@ -627,6 +781,30 @@ footer {
 
   .row.head {
     display: none;
+  }
+
+  .skeleton-row {
+    grid-template-columns: repeat(auto-fill, minmax(4.75rem, 1fr));
+    gap: 0.4rem 0.5rem;
+  }
+
+  .skeleton i {
+    grid-column: 1 / -1;
+    height: 1.4rem;
+    width: 60%;
+  }
+
+  .skeleton b {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+
+  /* Type buttons scroll sideways in one line rather than taking half the screen. */
+  .types {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-bottom: 0.1rem;
   }
 
   /* As many countries per line as fit, so a card never needs sideways scrolling. */
