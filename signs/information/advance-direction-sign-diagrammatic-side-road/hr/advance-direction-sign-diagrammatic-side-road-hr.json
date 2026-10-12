@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "D03-1",
+  "image": {
+    "file": "advance-direction-sign-diagrammatic-side-road-hr.svg",
+    "sha1": "18b9789c32a312230ffafd85f8343e2a0c021edb",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_D04.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

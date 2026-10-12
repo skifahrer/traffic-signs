@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A12",
+  "image": {
+    "file": "loose-gravel-hr.svg",
+    "sha1": "392577d56beec253f0855b9919f0019c921738ed",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A12.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

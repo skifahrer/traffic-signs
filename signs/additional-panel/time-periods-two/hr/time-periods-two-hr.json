@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E04-1",
+  "image": {
+    "file": "time-periods-two-hr.svg",
+    "sha1": "9e2d6dd4cbcd0d6d4e1b5619394ae4d4ca217b3a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E04-1.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Croatia",

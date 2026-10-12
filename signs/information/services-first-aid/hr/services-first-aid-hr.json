@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C37",
+  "image": {
+    "file": "services-first-aid-hr.svg",
+    "sha1": "49b74af2ca3c220a419a5ccea98088dab996234a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C37.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

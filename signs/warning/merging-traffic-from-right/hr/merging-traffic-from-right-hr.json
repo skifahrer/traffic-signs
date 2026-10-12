@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A04-4",
+  "image": {
+    "file": "merging-traffic-from-right-hr.svg",
+    "sha1": "edd0d5b0a6b6bb04d60dc935a695897b06b278a1",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A04-4.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

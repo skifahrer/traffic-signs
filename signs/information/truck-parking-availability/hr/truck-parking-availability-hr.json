@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C94",
+  "image": {
+    "file": "truck-parking-availability-hr.svg",
+    "sha1": "1b11d07777bbfa83a58b0473425796d2af135750",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C94.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

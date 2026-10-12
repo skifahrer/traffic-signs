@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C74",
+  "image": {
+    "file": "structure-name-and-length-hr.svg",
+    "sha1": "81369fd9c53f728eff96ef6a6fba95f157a1b28d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C74.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

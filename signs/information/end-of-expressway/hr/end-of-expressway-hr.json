@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C67",
+  "image": {
+    "file": "end-of-expressway-hr.svg",
+    "sha1": "aea6e535994dcca1ad082b228a962e67c6e8c08d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C67.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

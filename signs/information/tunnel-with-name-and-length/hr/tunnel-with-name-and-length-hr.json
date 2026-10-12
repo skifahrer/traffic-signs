@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C73",
+  "image": {
+    "file": "tunnel-with-name-and-length-hr.svg",
+    "sha1": "f3a83ce0611e8059840dcee5dea674f670bc100b",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C73.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

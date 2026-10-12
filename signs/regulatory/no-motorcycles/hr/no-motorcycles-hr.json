@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B15",
+  "image": {
+    "file": "no-motorcycles-hr.svg",
+    "sha1": "8b9ad009a6d7778e1d0680b81212255c980c4a0f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B15.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

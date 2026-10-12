@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C80",
+  "image": {
+    "file": "direction-to-airport-hr.svg",
+    "sha1": "60fc49ef34913e463c17168d5929934aa5247bec",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C83.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

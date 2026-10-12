@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "D08",
+  "image": {
+    "file": "direction-board-overhead-motorway-hr.svg",
+    "sha1": "ee3c8a635e13b81b168720334678b71681159c7d",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_D13alt13.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C49",
+  "image": {
+    "file": "taxi-rank-hr.svg",
+    "sha1": "68a14e7986fa114297cb2aaf83a8f32fab879917",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C49.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

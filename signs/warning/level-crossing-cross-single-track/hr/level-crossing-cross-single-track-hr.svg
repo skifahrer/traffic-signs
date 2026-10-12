@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="604.99994"
+   height="389.91476"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg14280"
+   sodipodi:docname="HR_road_sign_C03.svg.2023_09_03_14_56_28.0.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14284" />
+  <sodipodi:namedview
+     id="namedview14282"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.6644628"
+     inkscape:cx="139.2102"
+     inkscape:cy="237.03359"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g19527"
+     showguides="true">
+    <sodipodi:guide
+       position="1802.2077,-175.95588"
+       orientation="0,-1"
+       id="guide19717"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g19527"
+     transform="rotate(-30,1091.867,277.7497)">
+    <path
+       style="color:#000000;opacity:1;fill:#000000;stroke-width:1.442;stroke-linecap:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 777.90476,-154.18722 v -1.79124 -67.10105 H 121.39617 v 68.89229 z m -3.5796,-3.58247 H 124.97847 v -61.72735 h 649.34669 z"
+       id="path19731" />
+    <g
+       id="g19644" />
+    <path
+       style="color:#000000;opacity:1;fill:#000000;stroke-width:1.442;stroke-linecap:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 315.35486,-490.13248 -1.5512,0.89562 -58.1088,33.54911 328.2543,568.55332 59.6601,-34.44476 z m -1.3112,4.89378 324.6719,562.34819 -53.4574,30.8637 -324.6719,-562.34822 z"
+       id="path19721" />
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;stroke-width:3.58194;stroke-linecap:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 314.69926,-487.68614 326.4634,565.45097 -56.5592,32.65442 -326.4633,-565.45096 z"
+       id="path19723" />
+    <rect
+       style="opacity:1;fill:#e3000f;fill-opacity:1;stroke-width:1.79646;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect19637"
+       width="164.26355"
+       height="65.308868"
+       x="223.66425"
+       y="-516.38062"
+       transform="rotate(60)" />
+    <rect
+       style="opacity:1;fill:#e3000f;fill-opacity:1;stroke-width:1.79646;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect19639"
+       width="164.26355"
+       height="65.308868"
+       x="-264.99887"
+       y="-516.38062"
+       transform="rotate(60)" />
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;stroke-width:3.58194;stroke-linecap:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="M 776.11486,-155.97899 H 123.18827 v -65.30888 h 652.92659 z"
+       id="path19733" />
+    <rect
+       style="opacity:1;fill:#e3000f;fill-opacity:1;stroke-width:1.79646;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect19648"
+       width="164.26355"
+       height="65.308868"
+       x="-287.45184"
+       y="155.97897"
+       transform="scale(-1)" />
+    <rect
+       style="opacity:1;fill:#e3000f;fill-opacity:1;stroke-width:1.79646;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect19650"
+       width="164.26355"
+       height="65.308868"
+       x="-776.11481"
+       y="155.97897"
+       transform="scale(-1)" />
+  </g>
+</svg>

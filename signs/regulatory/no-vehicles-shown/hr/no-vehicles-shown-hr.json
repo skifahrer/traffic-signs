@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B19",
+  "image": {
+    "file": "no-vehicles-shown-hr.svg",
+    "sha1": "dff0bf4513a27618a72b0e804f0fa5f4da111b25",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B19.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

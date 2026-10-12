@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C126",
+  "image": {
+    "file": "vehicles-shown-mandatory-direction-hr.svg",
+    "sha1": "cfff65d60f42e8bb4d1af6b4fafecb6fc64f1c01",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C126.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

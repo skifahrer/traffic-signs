@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C78",
+  "image": {
+    "file": "direction-sign-with-road-number-hr.svg",
+    "sha1": "88f6a6eb8fba6dd1328da7508619243a10f8f687",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C81.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

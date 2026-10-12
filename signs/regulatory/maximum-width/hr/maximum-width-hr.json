@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B22",
+  "image": {
+    "file": "maximum-width-hr.svg",
+    "sha1": "639f117a0a153c20b9b9ef298d2a3db36d8f037e",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B22.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

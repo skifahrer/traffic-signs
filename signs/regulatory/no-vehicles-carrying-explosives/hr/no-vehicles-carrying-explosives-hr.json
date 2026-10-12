@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B10",
+  "image": {
+    "file": "no-vehicles-carrying-explosives-hr.svg",
+    "sha1": "4d233f2f3fc3e6f2f0238e70dca9f996f8035bbf",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B10.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

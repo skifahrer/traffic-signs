@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C20",
+  "image": {
+    "file": "end-of-bridleway-hr.svg",
+    "sha1": "72795d6b68aea22a6dba9f6666cc5f4bddd0e93a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C20.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

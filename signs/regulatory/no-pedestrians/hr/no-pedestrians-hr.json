@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B21",
+  "image": {
+    "file": "no-pedestrians-hr.svg",
+    "sha1": "33cdf034c49ae6bc74a0ad132bf7d840f166b45f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B21.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

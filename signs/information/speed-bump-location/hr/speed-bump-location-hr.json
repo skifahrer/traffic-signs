@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C08",
+  "image": {
+    "file": "speed-bump-location-hr.svg",
+    "sha1": "967a95b9fb4ca86021c1a780bb0b21d44f3d8605",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C08.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

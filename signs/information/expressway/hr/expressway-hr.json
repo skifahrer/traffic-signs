@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C66",
+  "image": {
+    "file": "expressway-hr.svg",
+    "sha1": "9522d46b6b66163b0e073c23e279eb2991d0eb7d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C66.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

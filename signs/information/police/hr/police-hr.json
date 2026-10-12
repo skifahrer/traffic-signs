@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C38",
+  "image": {
+    "file": "police-hr.svg",
+    "sha1": "3fe6941170c5213054533d5272d44921376cd604",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C38.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C125",
+  "image": {
+    "file": "state-border-hr.svg",
+    "sha1": "170f96cf5469447ac6c5aaaa8fcce0c10cdff75f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C125.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

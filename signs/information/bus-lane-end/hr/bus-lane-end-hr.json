@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C85",
+  "image": {
+    "file": "bus-lane-end-hr.svg",
+    "sha1": "e572ff6c27cbb57409bea19ab23d24e2e3016c3a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C85.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

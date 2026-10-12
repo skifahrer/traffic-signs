@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A05",
+  "image": {
+    "file": "bend-left-hr.svg",
+    "sha1": "a2add66ae91eee5a7698d58fabedc132664c80c9",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A05.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E11",
+  "image": {
+    "file": "disabled-parking-hr.svg",
+    "sha1": "e4d533b05b88165f345f0f4cd9b5bc89a587aecb",
+    "source": "https://commons.wikimedia.org/wiki/File:Macedonia_road_sign_511.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

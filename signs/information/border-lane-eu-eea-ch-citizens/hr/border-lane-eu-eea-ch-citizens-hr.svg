@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="HR_road_sign_C129.svg"
+   id="svg28011"
+   version="1.1"
+   fill-rule="evenodd"
+   height="605"
+   width="605">
+  <metadata
+     id="metadata28017">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28015">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="g28986"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="270.38355"
+     inkscape:cx="-17.404196"
+     inkscape:zoom="0.97008038"
+     showgrid="false"
+     id="namedview28013"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     d="M 27.5 1 C 12.819 1 1 12.819 1 27.5 L 1 577.5 C 1 592.181 12.819 604 27.5 604 L 577.5 604 C 592.181 604 604 592.181 604 577.5 L 604 27.5 C 604 12.819 592.181 1 577.5 1 L 27.5 1 z "
+     style="fill:#000000;stroke:none"
+     id="rect28003" />
+  <rect
+     id="rect28005"
+     stroke="none"
+     fill="#fff"
+     y="2.5"
+     x="2.5"
+     ry="25"
+     rx="25"
+     height="600"
+     width="600" />
+  <rect
+     id="rect28007"
+     stroke="none"
+     fill="#0f508c"
+     y="8.5"
+     x="8.5"
+     ry="19"
+     rx="19"
+     height="588"
+     width="588" />
+  <g
+     transform="translate(-2.072772,-2.5724886)"
+     style="font-style:normal;font-weight:normal;font-size:96.1752px;line-height:0.95;font-family:sans-serif;letter-spacing:2.34px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.40438"
+     id="text28700"
+     aria-label="EU
+EEA
+CH">
+    <g
+       style="opacity:1"
+       transform="matrix(1.1675685,0,0,1.1675685,-1334.2161,-139.32929)"
+       id="g28986">
+      <g
+         style="fill:#ffed00;fill-opacity:1"
+         id="g28274"
+         transform="matrix(31.887552,0,0,31.887552,1403.5912,383.66658)"
+         fill="#ffcc00">
+        <g
+           style="fill:#ffed00;fill-opacity:1"
+           id="use28257"
+           transform="translate(0,-6)">
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="g28348">
+            <path
+               style="fill:#ffed00;fill-opacity:1"
+               id="path28344"
+               d="M 0,0 V 1 H 0.5 Z"
+               transform="rotate(18,3.1568758,-0.5)" />
+            <path
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28346"
+               d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="g28354">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28350"
+               transform="rotate(72)">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28468"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28470"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28352"
+               transform="rotate(144)">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28474"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28476"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28356"
+             transform="scale(-1,1)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               transform="rotate(72)"
+               id="g28604">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(18,3.1568758,-0.5)"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 id="path28600" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                 id="path28602" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               transform="rotate(144)"
+               id="g28610">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(18,3.1568758,-0.5)"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 id="path28606" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                 id="path28608" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="fill:#ffed00;fill-opacity:1"
+           id="use28259"
+           transform="translate(0,6)">
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="g28364">
+            <path
+               style="fill:#ffed00;fill-opacity:1"
+               id="path28360"
+               d="M 0,0 V 1 H 0.5 Z"
+               transform="rotate(18,3.1568758,-0.5)" />
+            <path
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28362"
+               d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="g28370">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28366"
+               transform="rotate(72)">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28480"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28482"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28368"
+               transform="rotate(144)">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28486"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28488"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28372"
+             transform="scale(-1,1)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               transform="rotate(72)"
+               id="g28618">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(18,3.1568758,-0.5)"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 id="path28614" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                 id="path28616" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               transform="rotate(144)"
+               id="g28624">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(18,3.1568758,-0.5)"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 id="path28620" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                 id="path28622" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="fill:#ffed00;fill-opacity:1"
+           id="l">
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28261"
+             transform="translate(-6)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28380">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28376"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28378"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28386">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28382"
+                 transform="rotate(72)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28492"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28494"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28384"
+                 transform="rotate(144)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28498"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28500"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28388"
+               transform="scale(-1,1)">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(72)"
+                 id="g28632">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28628" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28630" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(144)"
+                 id="g28638">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28634" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28636" />
+              </g>
+            </g>
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28263"
+             transform="rotate(-144,-2.3441661,-2.1106967)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28396">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28392"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28394"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28402">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28398"
+                 transform="rotate(72)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28504"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28506"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28400"
+                 transform="rotate(144)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28510"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28512"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28404"
+               transform="scale(-1,1)">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(72)"
+                 id="g28646">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28642" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28644" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(144)"
+                 id="g28652">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28648" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28650" />
+              </g>
+            </g>
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28265"
+             transform="rotate(144,-2.1106967,-2.3441661)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28412">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28408"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28410"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28418">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28414"
+                 transform="rotate(72)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28516"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28518"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28416"
+                 transform="rotate(144)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28522"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28524"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28420"
+               transform="scale(-1,1)">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(72)"
+                 id="g28660">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28656" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28658" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(144)"
+                 id="g28666">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28662" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28664" />
+              </g>
+            </g>
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28267"
+             transform="rotate(72,-4.6626491,-2.0759451)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28428">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28424"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28426"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28434">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28430"
+                 transform="rotate(72)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28528"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28530"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28432"
+                 transform="rotate(144)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28534"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28536"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28436"
+               transform="scale(-1,1)">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(72)"
+                 id="g28674">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28670" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28672" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(144)"
+                 id="g28680">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28676" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28678" />
+              </g>
+            </g>
+          </g>
+          <g
+             style="fill:#ffed00;fill-opacity:1"
+             id="use28269"
+             transform="rotate(72,-5.0759451,0.53350333)">
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28444">
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="path28440"
+                 d="M 0,0 V 1 H 0.5 Z"
+                 transform="rotate(18,3.1568758,-0.5)" />
+              <path
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28442"
+                 d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="g28450">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28446"
+                 transform="rotate(72)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28540"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28542"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 id="use28448"
+                 transform="rotate(144)">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="path28546"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   transform="rotate(18,3.1568758,-0.5)" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   id="use28548"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffed00;fill-opacity:1"
+               id="use28452"
+               transform="scale(-1,1)">
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(72)"
+                 id="g28688">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28684" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28686" />
+              </g>
+              <g
+                 style="fill:#ffed00;fill-opacity:1"
+                 transform="rotate(144)"
+                 id="g28694">
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   transform="rotate(18,3.1568758,-0.5)"
+                   d="M 0,0 V 1 H 0.5 Z"
+                   id="path28690" />
+                <path
+                   style="fill:#ffed00;fill-opacity:1"
+                   d="M 0,-1 0.30901699,-0.0489435 -0.16651127,0.105565 Z"
+                   id="path28692" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <use
+           style="fill:#ffed00;fill-opacity:1"
+           id="use28272"
+           transform="scale(-1,1)"
+           xlink:href="#l"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <g
+         style="fill:#ffffff"
+         transform="translate(2.1453)"
+         id="g28995">
+        <path
+           id="path28706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1354.376,311.90561 h 39.4318 v -10.67545 h -27.6985 v -17.31153 h 18.4657 v -10.67545 h -18.4657 V 258.4322 h 27.6985 v -10.67545 h -39.4318 z" />
+        <path
+           id="path28708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1446.7694,247.75675 h -11.7334 v 44.81764 c 0,5.57817 -4.4241,9.90605 -10.2908,9.90605 -5.7705,0 -10.1945,-4.32788 -10.1945,-9.90605 v -44.81764 h -11.7334 v 43.27884 c 0,12.69513 9.4252,22.1203 22.0241,22.1203 12.1181,0 21.928,-9.90605 21.928,-22.1203 z" />
+        <path
+           id="path28710"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;word-spacing:1.74px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1326.438,410.09052 h 39.4319 v -10.67544 h -27.6985 v -17.31154 h 18.4657 v -10.67545 h -18.4657 v -14.81098 h 27.6985 v -10.67545 h -39.4319 z" />
+        <path
+           id="path28712"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;word-spacing:1.74px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1378.5562,410.09052 h 39.4319 v -10.67544 h -27.6985 v -17.31154 h 18.4656 v -10.67545 h -18.4656 v -14.81098 h 27.6985 v -10.67545 h -39.4319 z" />
+        <path
+           id="path28714"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;word-spacing:1.74px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1440.3881,400.8577 h 20.9662 l 2.6929,9.23282 h 12.4066 l -18.8503,-64.14886 h -13.6569 l -18.7542,64.14886 h 12.5028 z m 3.0776,-10.67544 7.4055,-25.48643 7.5017,25.48643 z" />
+        <path
+           id="path28716"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1384.339,487.21307 v 1.44262 c 0,5.77052 -4.424,10.19458 -10.0984,10.19458 -5.6743,0 -10.0022,-4.32789 -10.0022,-10.19458 v -25.10172 c 0,-5.57816 4.5202,-10.00222 10.0984,-10.00222 5.0973,0 8.9443,3.36613 10.0022,8.94429 h 12.1181 c -1.0579,-11.15632 -10.5793,-19.61974 -22.0241,-19.61974 -12.4066,0 -21.928,9.71369 -21.928,22.31265 v 22.02412 c 0,5.38581 1.3465,9.61752 4.2317,13.46452 4.0394,5.48199 10.6755,8.84812 17.5039,8.84812 11.8296,0 22.2165,-10.00222 22.2165,-21.44707 v -0.86557 z" />
+        <path
+           id="path28718"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SnvDOTReg;-inkscape-font-specification:SnvDOTReg;text-align:center;letter-spacing:2.34px;text-anchor:middle;stroke-width:2.40438;fill:#ffffff"
+           d="m 1406.5367,508.27544 h 11.7334 v -27.89081 h 20.4853 v 27.89081 h 11.7334 v -64.14886 h -11.7334 v 25.5826 h -20.4853 v -25.5826 h -11.7334 z" />
+      </g>
+    </g>
+  </g>
+</svg>

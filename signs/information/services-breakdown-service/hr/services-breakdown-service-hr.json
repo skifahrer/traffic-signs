@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C58",
+  "image": {
+    "file": "services-breakdown-service-hr.svg",
+    "sha1": "e03ac37ec7f49060a15434f5330d7b1d28aa64d3",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C58.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

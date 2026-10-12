@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "D08-1",
+  "image": {
+    "file": "direction-board-overhead-hr.svg",
+    "sha1": "a06c4def49780af35ba815a5cd34662931e9da54",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_D14altMaslenicaObilazak.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

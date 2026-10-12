@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C93-1",
+  "image": {
+    "file": "rest-area-advance-with-next-services-hr.svg",
+    "sha1": "d656d12f1287464a5b06cfaeafe2dd9e776edeaa",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C93-1.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

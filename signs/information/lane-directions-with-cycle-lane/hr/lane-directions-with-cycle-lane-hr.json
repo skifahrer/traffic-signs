@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C83-2",
+  "image": {
+    "file": "lane-directions-with-cycle-lane-hr.svg",
+    "sha1": "b402d7d9e455f0d7dfdb8c74c3a76695e32a65d8",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C83-2.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E14",
+  "image": {
+    "file": "priority-road-course-hr.svg",
+    "sha1": "b4d2a1929501a60e02c5b00e162e57f2662ca2fb",
+    "source": "https://commons.wikimedia.org/wiki/File:Croatia_road_sign_E35.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

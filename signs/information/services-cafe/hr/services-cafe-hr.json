@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C53",
+  "image": {
+    "file": "services-cafe-hr.svg",
+    "sha1": "8a4b5fd1d069323ab5d282577c17198618ffc0da",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C53.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

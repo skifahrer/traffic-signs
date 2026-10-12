@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B08",
+  "image": {
+    "file": "no-goods-vehicles-hr.svg",
+    "sha1": "5ebe4a1b8eeb5d19f572f880434d9f8e2040b03e",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B08.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

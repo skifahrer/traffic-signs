@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C26",
+  "image": {
+    "file": "pedestrian-zone-hr.svg",
+    "sha1": "8d4081281a687759cbca7c2241172a633dd681b5",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C26.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

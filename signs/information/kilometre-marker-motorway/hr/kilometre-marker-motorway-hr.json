@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C114",
+  "image": {
+    "file": "kilometre-marker-motorway-hr.svg",
+    "sha1": "928fe3f01d3362f3a2796b84f88d361413c4dee2",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C114.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

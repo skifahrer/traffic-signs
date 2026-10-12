@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C35",
+  "image": {
+    "file": "school-crossing-patrol-hr.svg",
+    "sha1": "cc221668399c1385abe891e954e9b129872d081d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C35.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

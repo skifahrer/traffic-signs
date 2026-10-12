@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A28",
+  "image": {
+    "file": "movable-bridge-hr.svg",
+    "sha1": "90d1ea11721c2bed85a287013e28580aaa2b98ab",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A28.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

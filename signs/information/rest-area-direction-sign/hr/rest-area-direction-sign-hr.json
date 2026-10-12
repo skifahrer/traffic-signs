@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C82",
+  "image": {
+    "file": "rest-area-direction-sign-hr.svg",
+    "sha1": "4d2ac9735502e70d9c87ae08ca7f0aec8154e3e9",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C82.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

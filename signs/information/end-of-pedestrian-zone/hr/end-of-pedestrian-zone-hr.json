@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C27",
+  "image": {
+    "file": "end-of-pedestrian-zone-hr.svg",
+    "sha1": "89462ec2bf808d6468df332b562efc22f243025d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C27.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

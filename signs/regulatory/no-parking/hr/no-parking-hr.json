@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B37",
+  "image": {
+    "file": "no-parking-hr.svg",
+    "sha1": "a5fa2efa004916f747d3140247241529eda7a360",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B37.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

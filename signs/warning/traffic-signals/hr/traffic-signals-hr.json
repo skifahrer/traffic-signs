@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A14",
+  "image": {
+    "file": "traffic-signals-hr.svg",
+    "sha1": "7e5e2df54259d4252d7b5bdebb5e2fce6f2e33e5",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A14.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

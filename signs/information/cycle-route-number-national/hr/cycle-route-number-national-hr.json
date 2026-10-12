@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C118",
+  "image": {
+    "file": "cycle-route-number-national-hr.svg",
+    "sha1": "b28652ec8856f9b0a625e196a8a75d08793f0ff1",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C118.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

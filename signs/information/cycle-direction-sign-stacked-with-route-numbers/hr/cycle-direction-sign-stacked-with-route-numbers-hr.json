@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C79-1",
+  "image": {
+    "file": "cycle-direction-sign-stacked-with-route-numbers-hr.svg",
+    "sha1": "989568d88ad461646e6104370575b0d9c7c26c37",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C79-1.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Croatia",

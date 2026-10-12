@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C101",
+  "image": {
+    "file": "detour-arrow-right-hr.svg",
+    "sha1": "2d002056173a4a711747b59a6796f3249c9e1039",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C101.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

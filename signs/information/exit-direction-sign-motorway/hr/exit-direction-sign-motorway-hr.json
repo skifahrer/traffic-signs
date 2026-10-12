@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C92",
+  "image": {
+    "file": "exit-direction-sign-motorway-hr.svg",
+    "sha1": "53285bb574063fa2e7c451495b9e1bffa1ec4dd2",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C92.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

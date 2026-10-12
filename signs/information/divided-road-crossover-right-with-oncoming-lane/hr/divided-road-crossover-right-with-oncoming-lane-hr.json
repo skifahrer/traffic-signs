@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C107-1",
+  "image": {
+    "file": "divided-road-crossover-right-with-oncoming-lane-hr.svg",
+    "sha1": "8e0c444f60fb2e270f1a4e999cb069649cbc353a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C107-1.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

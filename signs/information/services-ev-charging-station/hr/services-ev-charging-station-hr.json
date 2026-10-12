@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C42-3",
+  "image": {
+    "file": "services-ev-charging-station-hr.svg",
+    "sha1": "912eb6fd988535a062bdf8c6cedbdc9d43b1d1bc",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C42-3.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C113-2",
+  "image": {
+    "file": "local-road-number-hr.svg",
+    "sha1": "e73b641d3790ad1b0fde88f753a5585340f23417",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C113-2.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

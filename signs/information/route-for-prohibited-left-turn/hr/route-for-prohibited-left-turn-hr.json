@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C69",
+  "image": {
+    "file": "route-for-prohibited-left-turn-hr.svg",
+    "sha1": "d6d1c36070beb39681de8e5a1911bb02a6730e84",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C69.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

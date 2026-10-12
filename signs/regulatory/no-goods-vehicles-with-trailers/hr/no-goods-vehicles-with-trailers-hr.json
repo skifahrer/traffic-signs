@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B13",
+  "image": {
+    "file": "no-goods-vehicles-with-trailers-hr.svg",
+    "sha1": "6f4770cc2bbbeb1b05f7b06c0b08ddd9b891e4fc",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B13.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

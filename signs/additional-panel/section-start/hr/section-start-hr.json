@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E09-3",
+  "image": {
+    "file": "section-start-hr.svg",
+    "sha1": "e96f7610ec71eb308c3c2a430ac90b3aa28643d4",
+    "source": "https://commons.wikimedia.org/wiki/File:Macedonia_road_sign_501.4.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

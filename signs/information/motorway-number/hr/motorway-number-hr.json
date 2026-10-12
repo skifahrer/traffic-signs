@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C112",
+  "image": {
+    "file": "motorway-number-hr.svg",
+    "sha1": "a758bb6ee99e9dc72983b52a8c88f1879006dfe3",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C128.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C15",
+  "image": {
+    "file": "end-of-snow-chains-required-hr.svg",
+    "sha1": "72b453e25103556009922e758897cf42572f3abc",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C15.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

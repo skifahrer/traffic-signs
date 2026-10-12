@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E10-6",
+  "image": {
+    "file": "parking-position-bays-perpendicular-hr.svg",
+    "sha1": "08e9bb7464e2e0297e557c108672343a47a3a34e",
+    "source": "https://commons.wikimedia.org/wiki/File:Croatia_road_sign_E28.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

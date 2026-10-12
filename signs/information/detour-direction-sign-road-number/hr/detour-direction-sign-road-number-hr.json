@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C102",
+  "image": {
+    "file": "detour-direction-sign-road-number-hr.svg",
+    "sha1": "8e3d7e9101b3ce37667f8de702e3dedcf37f3999",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C102.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

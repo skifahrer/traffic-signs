@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C39-2",
+  "image": {
+    "file": "parking-with-disc-hr.svg",
+    "sha1": "1bf204eb4815ad91cef6de9a3e2a09c7fc2312b9",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C39-2.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

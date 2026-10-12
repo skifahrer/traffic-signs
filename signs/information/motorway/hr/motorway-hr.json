@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C64",
+  "image": {
+    "file": "motorway-hr.svg",
+    "sha1": "3763bfcc1ff3396a9aaf508811a8776adad2e9b9",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C64.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C04",
+  "image": {
+    "file": "overpass-or-underpass-with-steps-hr.svg",
+    "sha1": "6d7e3acf95bea6125656584d27685a6c035f27aa",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C04.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

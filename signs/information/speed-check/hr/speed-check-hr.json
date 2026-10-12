@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C122",
+  "image": {
+    "file": "speed-check-hr.svg",
+    "sha1": "137f56a5b725ecd274971eb96a6c377c7d08b20b",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C122.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C103",
+  "image": {
+    "file": "roadworks-information-board-hr.svg",
+    "sha1": "b947e01de328cb25ba36c3ab3edf79ca49e173b2",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C103.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

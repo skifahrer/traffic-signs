@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A37",
+  "image": {
+    "file": "level-crossing-cross-single-track-hr.svg",
+    "sha1": "82e71f2256a9e34937ce85147467ebb0dd0a7b37",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A37.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

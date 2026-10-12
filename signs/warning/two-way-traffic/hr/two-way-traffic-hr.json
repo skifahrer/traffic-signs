@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A16",
+  "image": {
+    "file": "two-way-traffic-hr.svg",
+    "sha1": "8c338485506d8842ec97e29eb4b4e799a856c42f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A16.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

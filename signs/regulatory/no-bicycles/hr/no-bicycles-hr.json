@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B17",
+  "image": {
+    "file": "no-bicycles-hr.svg",
+    "sha1": "cce0b5e8edab047edd3fd39a8b71279f30302ba7",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B17.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

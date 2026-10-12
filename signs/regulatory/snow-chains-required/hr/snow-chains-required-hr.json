@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B39",
+  "image": {
+    "file": "snow-chains-required-hr.svg",
+    "sha1": "73cb2a7988a9bca1071a3d45bbe7a9454d686d49",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B39.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

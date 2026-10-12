@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C72",
+  "image": {
+    "file": "river-name-hr.svg",
+    "sha1": "9ce1cd69f367db8632c1ee584142f18461886b51",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C72.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

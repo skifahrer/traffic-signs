@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C62",
+  "image": {
+    "file": "services-traffic-radio-hr.svg",
+    "sha1": "26b327146ca756340a1859b671fcd82f7bd13e1c",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C62.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

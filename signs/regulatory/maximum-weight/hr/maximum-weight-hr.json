@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B24",
+  "image": {
+    "file": "maximum-weight-hr.svg",
+    "sha1": "f21ed7511db3e4c28ca31d0e9bd0c1d8fd0b4c93",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B24.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

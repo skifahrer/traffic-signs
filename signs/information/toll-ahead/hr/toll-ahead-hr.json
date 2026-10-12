@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C97",
+  "image": {
+    "file": "toll-ahead-hr.svg",
+    "sha1": "617f1dd934593f1fa31a1aac46834d05e60f4218",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C102.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

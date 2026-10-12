@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C124",
+  "image": {
+    "file": "national-distinguishing-sign-hr.svg",
+    "sha1": "54531b4ec67abe192c58afdbdbe457597b0cd89a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C124.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

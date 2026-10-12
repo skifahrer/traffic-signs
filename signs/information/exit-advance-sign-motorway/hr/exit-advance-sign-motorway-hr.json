@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "D01",
+  "image": {
+    "file": "exit-advance-sign-motorway-hr.svg",
+    "sha1": "22506a71e1936130f12c60be71ea93489a6897c4",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_D01.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

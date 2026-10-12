@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E17",
+  "image": {
+    "file": "road-marking-works-hr.svg",
+    "sha1": "d512e6cadbe84f471d8145d7f9d0410f5a4c5714",
+    "source": "https://commons.wikimedia.org/wiki/File:Croatia_road_sign_E40.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

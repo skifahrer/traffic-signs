@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B47",
+  "image": {
+    "file": "pass-on-right-hr.svg",
+    "sha1": "c1e5a88a9bad5db404d883458d76356e59c474d7",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B47.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

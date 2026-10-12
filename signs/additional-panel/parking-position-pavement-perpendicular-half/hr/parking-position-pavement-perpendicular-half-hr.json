@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E10-5",
+  "image": {
+    "file": "parking-position-pavement-perpendicular-half-hr.svg",
+    "sha1": "a3dbb0b13d3652220718d7fe06ad0af441821ffb",
+    "source": "https://commons.wikimedia.org/wiki/File:Croatia_road_sign_E27.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

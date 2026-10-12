@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C116",
+  "image": {
+    "file": "kilometre-marker-junction-branch-motorway-hr.svg",
+    "sha1": "95b3dd3d2ad35e0d4fb80ef7295be0503d8910fc",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C116.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

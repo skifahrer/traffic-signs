@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E12",
+  "image": {
+    "file": "reserved-for-specific-users-hr.svg",
+    "sha1": "4ddd94467020f4bb2d18f7cd8e968d827d61aa81",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E12.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

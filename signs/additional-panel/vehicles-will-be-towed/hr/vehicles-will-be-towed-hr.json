@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E08",
+  "image": {
+    "file": "vehicles-will-be-towed-hr.svg",
+    "sha1": "13a407eca8503dd5cb9441dbbe99292a156873c1",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E08.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

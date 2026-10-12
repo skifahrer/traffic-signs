@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A25",
+  "image": {
+    "file": "crosswind-hr.svg",
+    "sha1": "a92b5b29e37040c6b402e0ab88cedfa2913618e7",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A25.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

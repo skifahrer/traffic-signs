@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B04",
+  "image": {
+    "file": "no-entry-hr.svg",
+    "sha1": "8638b2cf72e8f9435ce32b6e37cf95780654d74b",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B04.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A03",
+  "image": {
+    "file": "roundabout-ahead-hr.svg",
+    "sha1": "a1b5b9e87bb97ea31a7a20967aa7fb3284197cde",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A03.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

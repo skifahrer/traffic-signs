@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B46",
+  "image": {
+    "file": "mandatory-direction-straight-or-left-hr.svg",
+    "sha1": "276c5b9282f0e25ffc605b10fc428c33981d274d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B46.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

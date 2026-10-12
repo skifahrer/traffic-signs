@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C81",
+  "image": {
+    "file": "direction-sign-to-motorway-right-hr.svg",
+    "sha1": "77cae7deb04e5f6edc95de4b97a52aefe8e6b83d",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C84.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

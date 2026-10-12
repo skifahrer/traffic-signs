@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E05",
+  "image": {
+    "file": "text-panel-hr.svg",
+    "sha1": "5149750365620528fb25f61451d77cba6d3b2801",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E05.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

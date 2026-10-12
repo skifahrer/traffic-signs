@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C16",
+  "image": {
+    "file": "end-of-cycle-path-hr.svg",
+    "sha1": "1638cc2ef51c6c2b2c5b149a89bb18ef6b66a4be",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C16.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

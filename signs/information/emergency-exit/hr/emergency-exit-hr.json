@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C120",
+  "image": {
+    "file": "emergency-exit-hr.svg",
+    "sha1": "b82a203dba089b925892f26dcc21b91526989581",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C120.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

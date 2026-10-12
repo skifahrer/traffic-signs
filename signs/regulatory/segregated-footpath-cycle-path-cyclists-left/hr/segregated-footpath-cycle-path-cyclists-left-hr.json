@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B42",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-hr.svg",
+    "sha1": "472d86998f1e79cc46a0dc05360accd0a1c949f4",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B42.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

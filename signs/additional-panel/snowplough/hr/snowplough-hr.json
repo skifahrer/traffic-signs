@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E16",
+  "image": {
+    "file": "snowplough-hr.svg",
+    "sha1": "479a6bb16737c027459288f77dfabeee3183582f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E16.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

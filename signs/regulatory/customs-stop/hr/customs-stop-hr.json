@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B33",
+  "image": {
+    "file": "customs-stop-hr.svg",
+    "sha1": "6299711e7b99bfa00f1fc750c3e608fd8c6251e4",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B33.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

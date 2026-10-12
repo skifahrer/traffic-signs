@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A36-3",
+  "image": {
+    "file": "level-crossing-countdown-marker-2-bars-right-side-hr.svg",
+    "sha1": "ffa7cb683c86a0f82562720e003a7873f3a58026",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A36-3.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

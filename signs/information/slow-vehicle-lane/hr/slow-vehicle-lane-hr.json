@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C89",
+  "image": {
+    "file": "slow-vehicle-lane-hr.svg",
+    "sha1": "a5d09337af1384d9e5ec4702f0dbeb1b4128f5ed",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C89.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

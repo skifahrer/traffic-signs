@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="605"
+   height="605"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="HR road sign B45-6.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.4721837"
+     inkscape:cx="479.68619"
+     inkscape:cy="511.45348"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="301.5"
+     fill="#000"
+     stroke="none"
+     id="circle2" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="300"
+     fill="#fff"
+     stroke="none"
+     id="circle4" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="294"
+     fill="#0f508c"
+     stroke="none"
+     id="circle6" />
+  <path
+     d="m 392.27057,167.8542 60.92519,60.92519 -0.53676,-76.59748 -90.19329,-89.953153 -89.27337,89.275133 -0.24896,76.30966 59.63623,-59.63623 -0.06,185.25812 c -19.91167,-13.01492 -43.56311,-20.78219 -68.9979,-21.32426 v -0.0301 l -95.09838,-0.14126 60.25069,-60.25244 -76.59569,0.53676 -89.953166,90.19153 89.273366,89.27513 76.31142,0.24896 -59.93816,-59.93641 92.8948,0.10952 v 0.005 c 38.96174,0.053 70.79893,31.31276 71.89365,70.03085 l 0.0301,80.31248 59.90462,0.001 -0.24366,-78.66863 h 0.0229 c 0,-0.75572 -0.0176,-1.50966 -0.0301,-2.26185 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.381389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.926;stroke-dasharray:none;stroke-opacity:1"
+     id="path20"
+     inkscape:label="path8" />
+</svg>

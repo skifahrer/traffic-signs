@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B27",
+  "image": {
+    "file": "minimum-distance-hr.svg",
+    "sha1": "c3825a1e665aed1b168bb406db9fb4b63c1d35d0",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B27.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

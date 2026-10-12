@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C60",
+  "image": {
+    "file": "services-toilets-hr.svg",
+    "sha1": "6991ec5414c5c205d46eb8b196fc624e639d3c69",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C60.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

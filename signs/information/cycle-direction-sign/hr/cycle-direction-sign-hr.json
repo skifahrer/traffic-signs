@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C79",
+  "image": {
+    "file": "cycle-direction-sign-hr.svg",
+    "sha1": "f59fc40f114d0eea66a3fb8329c3e6eee8f548ec",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C79.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

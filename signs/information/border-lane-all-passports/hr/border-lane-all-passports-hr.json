@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C129-1",
+  "image": {
+    "file": "border-lane-all-passports-hr.svg",
+    "sha1": "546525b9c258b3804f7287cb7c740c02d64db9b8",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C129-1.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

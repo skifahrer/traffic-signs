@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E07",
+  "image": {
+    "file": "maximum-permitted-weight-hr.svg",
+    "sha1": "3e75660df9ae96793ec6273094a9c72a6cafaa41",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E07.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

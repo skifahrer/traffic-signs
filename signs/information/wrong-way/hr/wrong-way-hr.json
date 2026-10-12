@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C119",
+  "image": {
+    "file": "wrong-way-hr.svg",
+    "sha1": "a5db04a9e842c2d9123c295ea0ba63473a376c4d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C119.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

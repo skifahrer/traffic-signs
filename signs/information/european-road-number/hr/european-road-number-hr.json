@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C111",
+  "image": {
+    "file": "european-road-number-hr.svg",
+    "sha1": "6d79d72e31fd454ef43be8539bc24b4e747c22f7",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C127.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

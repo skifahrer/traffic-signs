@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B12",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-hr.svg",
+    "sha1": "f390586440d504f28b0cb689da2b67fd5ab392e3",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B12.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

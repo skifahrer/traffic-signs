@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B29",
+  "image": {
+    "file": "no-u-turn-hr.svg",
+    "sha1": "849a3d4788232141d43d2dee9a3429ef1e1feef1",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B29.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B36",
+  "image": {
+    "file": "no-stopping-hr.svg",
+    "sha1": "840cbb31c08a8e5b22e1be1484d7a5a5d9a7e9f5",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B36.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

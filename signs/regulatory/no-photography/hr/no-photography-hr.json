@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B35",
+  "image": {
+    "file": "no-photography-hr.svg",
+    "sha1": "c7c4472b9deb5bfe4d7664a8c0f902bfeb29c2a1",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B35.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

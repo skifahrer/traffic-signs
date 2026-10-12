@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E06-1",
+  "image": {
+    "file": "vehicle-type-goods-vehicles-with-trailers-hr.svg",
+    "sha1": "532b676a0bcac5b1eeccebef506d0b5c1047e7af",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E06-1.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

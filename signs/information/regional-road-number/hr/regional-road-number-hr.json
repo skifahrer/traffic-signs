@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C113-1",
+  "image": {
+    "file": "regional-road-number-hr.svg",
+    "sha1": "936f239fa2168958945374f1244e75e9b679061f",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C130.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

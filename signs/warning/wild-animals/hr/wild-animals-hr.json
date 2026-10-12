@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A33",
+  "image": {
+    "file": "wild-animals-hr.svg",
+    "sha1": "060c9aec7dfc67cc0d87e2031908f4207a758d4d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A33.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

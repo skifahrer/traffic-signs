@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "D04",
+  "image": {
+    "file": "advance-direction-sign-grade-separated-hr.svg",
+    "sha1": "58fc8d7cb6e4a55a422f01ec2363ad04c5b51883",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_D06.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

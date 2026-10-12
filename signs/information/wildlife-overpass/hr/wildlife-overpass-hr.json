@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C75",
+  "image": {
+    "file": "wildlife-overpass-hr.svg",
+    "sha1": "4820cfb08a32bf6feddeffd435983cfe760fdeff",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C75.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

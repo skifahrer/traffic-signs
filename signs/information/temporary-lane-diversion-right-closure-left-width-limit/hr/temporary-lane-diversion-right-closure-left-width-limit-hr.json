@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C106-1",
+  "image": {
+    "file": "temporary-lane-diversion-right-closure-left-width-limit-hr.svg",
+    "sha1": "b82853ea715941bc33baa0d6687a8bffc3050852",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C106-1.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

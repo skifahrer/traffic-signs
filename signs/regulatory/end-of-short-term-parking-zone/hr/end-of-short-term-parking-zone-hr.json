@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C25",
+  "image": {
+    "file": "end-of-short-term-parking-zone-hr.svg",
+    "sha1": "b03038a1821383ad15df072c078bdf74802adfd6",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C25.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

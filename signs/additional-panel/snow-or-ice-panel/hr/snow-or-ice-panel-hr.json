@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E13-1",
+  "image": {
+    "file": "snow-or-ice-panel-hr.svg",
+    "sha1": "4c243ce98e732298246805d14c9e0086edb7ef58",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E13-1.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

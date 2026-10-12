@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E21",
+  "image": {
+    "file": "air-pollution-area-hr.svg",
+    "sha1": "3700ae45a7ea8d59314ebb2f8c8aae6babf5ad9f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E21.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

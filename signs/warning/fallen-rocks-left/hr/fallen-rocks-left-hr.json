@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A13-1",
+  "image": {
+    "file": "fallen-rocks-left-hr.svg",
+    "sha1": "51b4b910e69652f5c8f15074c87d2e7918bfab51",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A13-1.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

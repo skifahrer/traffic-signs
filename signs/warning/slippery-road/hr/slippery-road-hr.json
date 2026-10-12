@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A10",
+  "image": {
+    "file": "slippery-road-hr.svg",
+    "sha1": "bc6ef6c2a5b5682ffda5a631807fab144934103d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A10.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C42-1",
+  "image": {
+    "file": "services-lpg-station-hr.svg",
+    "sha1": "5ed4cfffc6fb5ae4d8b04f98c18068dbfa08df6d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C42-1.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

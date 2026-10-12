@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C71",
+  "image": {
+    "file": "mountain-pass-hr.svg",
+    "sha1": "ff2949a9f4849f0741b1bbee707206ddd93c987c",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C71.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

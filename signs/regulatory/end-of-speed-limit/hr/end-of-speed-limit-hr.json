@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C11",
+  "image": {
+    "file": "end-of-speed-limit-hr.svg",
+    "sha1": "add48ef5569d3a6df81e40a27224f378c11e5f05",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C11_(40).svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

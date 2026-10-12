@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C121",
+  "image": {
+    "file": "direction-to-emergency-exit-hr.svg",
+    "sha1": "b103d7c380071012827780bacc8bd4699856aba8",
+    "source": "https://commons.wikimedia.org/wiki/File:Croatian_road_sign_C125.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

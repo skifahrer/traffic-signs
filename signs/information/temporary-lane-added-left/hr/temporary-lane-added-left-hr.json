@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C106-3",
+  "image": {
+    "file": "temporary-lane-added-left-hr.svg",
+    "sha1": "01c4e1fa1e615fbdc01d77d03525c93fb0796de2",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C106-3.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

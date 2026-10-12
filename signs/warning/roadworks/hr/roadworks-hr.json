@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A15",
+  "image": {
+    "file": "roadworks-hr.svg",
+    "sha1": "5be599665cca70df62e10f58d22d8a41017827ec",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A15.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

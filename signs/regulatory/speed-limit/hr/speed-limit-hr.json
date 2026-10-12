@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B30",
+  "image": {
+    "file": "speed-limit-hr.svg",
+    "sha1": "7fe9f5d435243cc341aef07710852b76dad2cb28",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B30_(50).svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

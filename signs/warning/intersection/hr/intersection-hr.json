@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A02",
+  "image": {
+    "file": "intersection-hr.svg",
+    "sha1": "f748e7b2a4f1f7af5f55f9b76add2bb48817ea91",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A02.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

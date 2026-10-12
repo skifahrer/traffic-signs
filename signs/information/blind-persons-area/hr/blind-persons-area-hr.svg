@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="605"
+   height="605"
+   viewBox="0 0 160.07291 160.07292"
+   version="1.1"
+   id="svg1741"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="HR road sign C32.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1743"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="447.59859"
+     inkscape:cy="260.9224"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1741"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false" />
+  <defs
+     id="defs1738" />
+  <rect
+     id="rect67"
+     ry="7.0114584"
+     rx="7.0114584"
+     y="0.26458332"
+     x="0.26458332"
+     height="159.54375"
+     width="159.54375"
+     style="stroke-width:0.264583"
+     inkscape:label="rect20" />
+  <rect
+     id="rect69"
+     ry="6.614583"
+     rx="6.614583"
+     fill="#ffffff"
+     y="0.66145682"
+     x="0.66144919"
+     height="158.75"
+     width="158.75"
+     style="stroke-width:0.264583"
+     inkscape:label="rect22" />
+  <rect
+     id="rect71"
+     ry="5.0270834"
+     rx="5.0270834"
+     fill="#0f508c"
+     y="2.2489583"
+     x="2.2489583"
+     height="155.575"
+     width="155.575"
+     style="stroke-width:0.264583"
+     inkscape:label="rect24" />
+  <path
+     d="M 85.410998,105.11089 69.883601,131.85483 60.855861,127.32416 76.80795,88.622576 Z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.466695"
+     id="path20"
+     sodipodi:nodetypes="ccccc"
+     inkscape:label="path26" />
+  <path
+     d="m 71.893655,57.676066 c 4.33046,-7.74713 11.51149,-12.74637 21.152467,-13.43101 l 0.786847,34.25864 -0.0033,0.005 c 0.0042,0.22122 0.01032,0.44196 0.01867,0.66131 l 0.01867,0.83258 0.02101,-4.6e-4 c 0.227279,3.81196 1.037462,7.39337 2.307338,10.952385 l 13.220533,37.062089 -8.2885,3.80822 -9.596646,-18.4167 -0.0052,-0.0103 -5.168176,-9.91726 -0.0033,0.007 -8.756123,-16.781404 0.0079,-0.0196 -0.33462,-13.83516 8.013146,-11.07979 c 0.802248,-1.10887 -0.46436,-2.06652 -1.28621,-0.93013 l -19.392095,26.81347 -0.108267,0.14934 -2.792233,-1.80144 C 53.846428,99.885141 46.771805,114.2654 37.697395,127.37626 c -1.475688,2.13232 -4.354727,0.6543 -2.975645,-1.72491 l 24.073041,-41.526014 -1.23814,-0.79898 z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.466695"
+     id="path2479"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+     inkscape:label="path28" />
+  <path
+     d="m 94.731823,48.493376 10.439027,12.96384 -9.802923,14.73868 z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.466695"
+     id="path2557"
+     sodipodi:nodetypes="cccc"
+     inkscape:label="path30" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99396;stroke-linecap:round"
+     id="path3471"
+     cx="83.654358"
+     cy="34.49073"
+     rx="10.52863"
+     ry="10.528564"
+     inkscape:label="circle32" />
+</svg>

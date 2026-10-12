@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C02",
+  "image": {
+    "file": "pedestrian-crossing-hr.svg",
+    "sha1": "2328aa4b549215d11bfdc224bc60d8ae524755bb",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C02.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

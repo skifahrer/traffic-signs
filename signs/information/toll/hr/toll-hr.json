@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C96",
+  "image": {
+    "file": "toll-hr.svg",
+    "sha1": "6279d53c7674c5e0dd2cfc4b0a4d00a93a07be18",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C101.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

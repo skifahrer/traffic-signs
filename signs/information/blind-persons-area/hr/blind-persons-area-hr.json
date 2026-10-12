@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C31",
+  "image": {
+    "file": "blind-persons-area-hr.svg",
+    "sha1": "1dbd95dbdfd7d216ef86e439bc26b42dfc4c1f45",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C31.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

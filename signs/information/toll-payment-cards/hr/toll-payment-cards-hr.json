@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C99-4",
+  "image": {
+    "file": "toll-payment-cards-hr.svg",
+    "sha1": "37c4cde9ca98943c54c879f04fb38af5e0501779",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C99-4.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

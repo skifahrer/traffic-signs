@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A21",
+  "image": {
+    "file": "pedestrian-crossing-ahead-hr.svg",
+    "sha1": "0fdc016e4e6051c89f1e0f95970d1e8ef56dc0dc",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A21.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C91",
+  "image": {
+    "file": "exit-countdown-motorway-hr.svg",
+    "sha1": "7b04c9ef6d364e1c83e53722e7c9e1978396eed6",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C91.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

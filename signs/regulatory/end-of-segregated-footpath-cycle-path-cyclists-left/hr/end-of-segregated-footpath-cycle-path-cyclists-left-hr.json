@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C18",
+  "image": {
+    "file": "end-of-segregated-footpath-cycle-path-cyclists-left-hr.svg",
+    "sha1": "18b31892c208a30bfc0f5c772ff846812c3bab89",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C18.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

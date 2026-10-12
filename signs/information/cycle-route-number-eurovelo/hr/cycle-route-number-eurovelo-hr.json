@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C117",
+  "image": {
+    "file": "cycle-route-number-eurovelo-hr.svg",
+    "sha1": "4fc6f8ca860bbb4200b3b2336d566b6a1183a4fd",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C117.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

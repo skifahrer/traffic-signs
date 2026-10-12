@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A39",
+  "image": {
+    "file": "level-crossing-without-barriers-on-side-road-hr.svg",
+    "sha1": "62145ea7ccb57c5d3673ff274f5ed546a4bb5dc8",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A39.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

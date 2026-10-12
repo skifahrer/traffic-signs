@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E23",
+  "image": {
+    "file": "toll-barrier-closed-lane-hr.svg",
+    "sha1": "4e856b45e9326761890ee783cad7986675f84563",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E23.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

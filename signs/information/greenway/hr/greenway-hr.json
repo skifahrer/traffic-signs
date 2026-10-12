@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C30",
+  "image": {
+    "file": "greenway-hr.svg",
+    "sha1": "35d601c18363b446e93a20386a7f7acf5f3b05ed",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C30.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

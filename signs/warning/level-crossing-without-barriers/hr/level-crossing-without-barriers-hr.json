@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A35",
+  "image": {
+    "file": "level-crossing-without-barriers-hr.svg",
+    "sha1": "44d44aaf7a974a4b323718dcceb15b88b5e9ce5d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A35.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

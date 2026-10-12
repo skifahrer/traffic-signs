@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A23",
+  "image": {
+    "file": "low-flying-aircraft-hr.svg",
+    "sha1": "b87c6da78116a50a1e39ba4b8c46811b330ac3fc",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A23.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

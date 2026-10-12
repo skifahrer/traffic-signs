@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2021.5 -->
+
+<svg
+   xml:space="preserve"
+   width="401"
+   height="481.00064"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 401.00001 481.00065"
+   id="svg3"
+   sodipodi:docname="HR_road_sign_C88.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.5"
+   inkscape:cx="298"
+   inkscape:cy="563"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_x0020_1" />
+ <defs
+   id="defs1">
+  <style
+   type="text/css"
+   id="style1">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.706;stroke-miterlimit:22.9256}
+    .fil1 {fill:#0F508C}
+    .fil0 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Layer_x0020_1"
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   transform="translate(-588.00782,-19.025392)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+ <g
+   id="g15"
+   transform="matrix(0.80000626,0,0,0.80000626,117.69789,3.9049565)"><path
+     style="baseline-shift:baseline;clip-rule:nonzero;display:inline;overflow:visible;opacity:1;fill:#0f508c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.24999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     d="m 604.05859,19.525391 c -8.53999,0 -15.55078,7.00744 -15.55078,15.548828 V 603.9707 c 0,8.54139 7.00939,15.55078 15.55078,15.55078 h 468.89451 c 8.5414,0 15.5508,-7.00942 15.5508,-15.55078 V 35.074219 c 0,-8.54136 -7.0108,-15.548828 -15.5508,-15.548828 z"
+     id="path13" /><g
+     id="g3"
+     transform="matrix(1.1018621,0,0,1.1018621,-168.47338,-81.418595)" /><path
+     style="baseline-shift:baseline;clip-rule:nonzero;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     d="m 604.05861,25.24975 c -5.35613,0 -9.82617,4.468087 -9.82617,9.824219 V 603.97045 c 0,5.35613 4.47004,9.82618 9.82617,9.82618 h 468.89449 c 5.3562,0 9.8262,-4.47005 9.8262,-9.82618 V 35.073969 c 0,-5.356132 -4.47,-9.824219 -9.8262,-9.824219 z m 0,5.025391 h 468.89449 c 2.6592,0 4.8008,2.139628 4.8008,4.798828 V 603.97045 c 0,2.6592 -2.1416,4.80078 -4.8008,4.80078 H 604.05861 c -2.6592,0 -4.80078,-2.14158 -4.80078,-4.80078 V 35.073969 c 0,-2.6592 2.14158,-4.798828 4.80078,-4.798828 z"
+     id="path14" /></g><g
+   id="g16"
+   transform="matrix(0.88201324,0,0,0.88201324,-159.4957,71.541588)"><path
+     id="path4-8"
+     d="M 1165.4636,349.44886 957.09694,231.2622 l -0.13067,-135.948 -31.692,-0.07733 44.948,-90.4919974 45.50263,90.4919974 -32.1053,0.07733 v 118.46533 l 181.844,103.144 0.013,-221.60933 -31.7066,0.0013 45.2866,-90.5919977 45.304,90.5919977 -31.7066,-0.0013 c 0,50.80533 -0.4467,276.22933 -0.4467,326.12666 h -26.744 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33333" /></g></g>
+</svg>

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C18-1",
+  "image": {
+    "file": "end-of-segregated-footpath-cycle-path-cyclists-right-hr.svg",
+    "sha1": "621b83e226a66bb09390e993a1461d7a29664127",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C18-1.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Croatia",

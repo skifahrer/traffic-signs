@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C40",
+  "image": {
+    "file": "park-and-ride-hr.svg",
+    "sha1": "83881cba71d669c6f206d1f1922dbe3401dbbeda",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C40.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B45",
+  "image": {
+    "file": "mandatory-direction-straight-hr.svg",
+    "sha1": "5206e8ba35e662d9f1d4924d41d46131f49a6b42",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B45.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

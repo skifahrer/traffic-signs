@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="605" height="605" fill-rule="evenodd">
+  <circle cx="302.5" cy="302.5" r="301.5"/>
+  <circle cx="302.5" cy="302.5" r="300" fill="#fff"/>
+  <circle cx="302.5" cy="302.5" r="294" fill="#e3000f"/>
+  <circle cx="302.5" cy="302.5" r="234" fill="#fff"/>
+  <path d="M206.5 158.5v222l-60-60v48l78 78 78-78v-48l-60 60v-222"/>
+  <path fill="#e3000f" d="M362.5 446.5v-222l-60 60v-48l78-78 78 78v48l-60-60v222"/>
+</svg>

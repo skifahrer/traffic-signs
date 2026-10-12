@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C115-1",
+  "image": {
+    "file": "kilometre-marker-county-road-hr.svg",
+    "sha1": "56df36af00fcf034fab60f88b1b84a845a241497",
+    "source": "https://commons.wikimedia.org/wiki/File:Prometni_znak_C133.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

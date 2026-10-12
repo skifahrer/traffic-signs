@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C29",
+  "image": {
+    "file": "end-of-residential-zone-hr.svg",
+    "sha1": "85cb1e2c85e16b1e917d316aedd454f42b835c33",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C29.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

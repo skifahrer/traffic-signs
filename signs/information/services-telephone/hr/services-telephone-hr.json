@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C41",
+  "image": {
+    "file": "services-telephone-hr.svg",
+    "sha1": "8a624547b859a72ed4f0d8be76a1204edca8e9ea",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C41.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C59",
+  "image": {
+    "file": "services-vehicle-repair-hr.svg",
+    "sha1": "729cfae0b2e01acaea7fb3239a14b754627c1401",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C59.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

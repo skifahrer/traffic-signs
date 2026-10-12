@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B38",
+  "image": {
+    "file": "minimum-speed-hr.svg",
+    "sha1": "05d0d4dcb4332cef6bb212aaa6952516b210981a",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B38_(40).svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

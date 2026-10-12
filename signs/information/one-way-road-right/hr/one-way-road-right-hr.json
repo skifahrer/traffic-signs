@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C05-2",
+  "image": {
+    "file": "one-way-road-right-hr.svg",
+    "sha1": "aaa4269dad91f4899d407937f5ab0017a681b3f0",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C05-2.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

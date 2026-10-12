@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="605" height="605" fill-rule="evenodd">
+<rect width="603" height="603" rx="26.5" ry="26.5" x="1" y="1" fill="#000" stroke="none"/>
+<rect width="600" height="600" rx="25" ry="25" x="2.5" y="2.5" fill="#fff" stroke="none"/>
+<rect width="588" height="588" rx="19" ry="19" x="8.5" y="8.5" fill="#00963f" stroke="none"/>
+<path d="M122.5,542.5 254.5,62.5 290.5,62.5 272.5,542.5 M332.5,542.5 314.5,62.5 350.5,62.5 482.5,542.5" fill="#fff" stroke="none"/>
+<rect width="300" height="42" x="152.5" y="212.5" fill="#00963f" stroke="none"/>
+<path d="M92.5,224.5 92.5,242.5 146.5,242.5 146.5,266.5 169.5,266.5 182.5,242.5 422.5,242.5 435.5,266.5 458.5,266.5 458.5,242.5 512.5,242.5 512.5,224.5" fill="#fff" stroke="none"/>
+</svg>

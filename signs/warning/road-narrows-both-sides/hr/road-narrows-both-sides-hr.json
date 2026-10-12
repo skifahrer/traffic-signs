@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "hr",
   "code": "A08",
+  "image": {
+    "file": "road-narrows-both-sides-hr.svg",
+    "sha1": "6ffea0b4efc586958b014e7565fec5b53083305d",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_A08.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

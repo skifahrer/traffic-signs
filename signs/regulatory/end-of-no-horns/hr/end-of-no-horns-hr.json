@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C13",
+  "image": {
+    "file": "end-of-no-horns-hr.svg",
+    "sha1": "15caddea2836493b7aad433b2aa81063697c8a1f",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C13.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

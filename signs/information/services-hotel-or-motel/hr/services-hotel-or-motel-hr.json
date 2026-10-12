@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C44",
+  "image": {
+    "file": "services-hotel-or-motel-hr.svg",
+    "sha1": "8efc5dd0ceddc2d20071e5752dea43801256dee8",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C44.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

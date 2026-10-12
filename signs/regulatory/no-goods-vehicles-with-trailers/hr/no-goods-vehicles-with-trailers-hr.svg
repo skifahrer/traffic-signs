@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="605"
+   height="605"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="HR_road_sign_B31.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-60.104076"
+     inkscape:cy="468.8118"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10"
+     inkscape:object-paths="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="301.5"
+     fill="#000"
+     stroke="none"
+     id="circle2" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="300"
+     fill="#fff"
+     stroke="none"
+     id="circle4" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="294"
+     fill="#e3000f"
+     stroke="none"
+     id="circle6" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="234"
+     fill="#fff"
+     stroke="none"
+     id="circle8" />
+  <path
+     id="path25049"
+     d="m 119.66369,209.96724 v 176.11311 h 43.17483 c 3.28339,-16.56899 17.89708,-29.06576 35.42688,-29.06576 17.52982,0 32.14092,12.49677 35.42431,29.06576 l 78.0755,-0.29551 c 3.44236,-16.3547 17.95841,-28.63804 35.33616,-28.63804 17.28787,0 31.73566,12.15027 35.28172,28.37365 l 14.39161,-0.0545 c 3.56678,-16.19574 17.99903,-28.31922 35.26617,-28.31922 17.17036,0 31.54818,11.99302 35.21175,28.05742 l 20.73718,-0.0776 0.0159,-145.34692 -200.5571,0.79579 V 373.90247 H 242.7937 V 209.96725 Z m 78.46951,152.45199 c -16.71414,0 -30.26332,13.5483 -30.26332,30.25556 0,16.71414 13.54918,30.26332 30.26332,30.26332 16.70724,0 30.25556,-13.54918 30.25556,-30.26332 0,-16.70726 -13.54832,-30.25556 -30.25556,-30.25556 z m 148.83856,0.13219 c -16.71416,0 -30.26332,13.5483 -30.26332,30.25553 0,16.71417 13.54916,30.26332 30.26332,30.26332 16.70723,0 30.25554,-13.54915 30.25554,-30.26332 0,-16.70723 -13.54831,-30.25553 -30.25554,-30.25553 z m 84.93951,0 c -16.70725,0 -30.25556,13.5483 -30.25556,30.25553 0,16.71417 13.54831,30.26332 30.25556,30.26332 16.70723,0 30.26072,-13.54915 30.26072,-30.26332 0,-16.70723 -13.55349,-30.25553 -30.26072,-30.25553 z"
+     style="fill:#000000;stroke-width:1.76957" />
+</svg>

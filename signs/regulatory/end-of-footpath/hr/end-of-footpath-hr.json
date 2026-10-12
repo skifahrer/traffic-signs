@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C17",
+  "image": {
+    "file": "end-of-footpath-hr.svg",
+    "sha1": "5c46c175b0b69b739113b90cee9f2f22502b96d5",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C17.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

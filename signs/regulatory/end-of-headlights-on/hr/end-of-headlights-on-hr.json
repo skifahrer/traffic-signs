@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "C21",
+  "image": {
+    "file": "end-of-headlights-on-hr.svg",
+    "sha1": "be6a3452a5d0c3c129fd730ce41a2d950b54fc1b",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C21.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

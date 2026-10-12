@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C54-2",
+  "image": {
+    "file": "services-motorhome-site-hr.svg",
+    "sha1": "9ba20c9f52f6738d3d7e4e34fec29d508429f816",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C54-2.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

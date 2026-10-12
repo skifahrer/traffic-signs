@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B26",
+  "image": {
+    "file": "maximum-length-hr.svg",
+    "sha1": "5d1a0babbcb617d40def893c92520686104b2a15",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B26.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

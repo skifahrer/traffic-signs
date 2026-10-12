@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B07",
+  "image": {
+    "file": "no-buses-hr.svg",
+    "sha1": "f6281d6aa89b9c8acf78bf232215fc757b9e13ab",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B07.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

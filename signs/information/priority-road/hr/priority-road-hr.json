@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C06",
+  "image": {
+    "file": "priority-road-hr.svg",
+    "sha1": "157dbb6ea2eb56698c8b691d826a466bc385ea09",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C06.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

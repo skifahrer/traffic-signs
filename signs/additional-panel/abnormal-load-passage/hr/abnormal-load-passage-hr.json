@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "hr",
   "code": "E20",
+  "image": {
+    "file": "abnormal-load-passage-hr.svg",
+    "sha1": "608829303051db6c2f6361ca7e5ebc621107f129",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_E20.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

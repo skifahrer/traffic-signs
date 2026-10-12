@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C65",
+  "image": {
+    "file": "end-of-motorway-hr.svg",
+    "sha1": "ea12372c4f7416f55ff64d8b52701a54caa0c9ed",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C65.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "hr",
   "code": "B06",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-hr.svg",
+    "sha1": "38680ca57fc56b273221815dc60fe440740db5b2",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_B06.svg",
+    "author": "Government of the Republic of Croatia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

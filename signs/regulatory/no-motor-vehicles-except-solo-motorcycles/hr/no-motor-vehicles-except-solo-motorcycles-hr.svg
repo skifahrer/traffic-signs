@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="605"
+   height="605"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="HR road sign B06.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="377"
+     inkscape:cy="459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10"
+     inkscape:object-paths="false" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="301.5"
+     fill="#000"
+     stroke="none"
+     id="circle2" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="300"
+     fill="#fff"
+     stroke="none"
+     id="circle4" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="294"
+     fill="#e3000f"
+     stroke="none"
+     id="circle6" />
+  <circle
+     cx="302.5"
+     cy="302.5"
+     r="234"
+     fill="#fff"
+     stroke="none"
+     id="circle8" />
+  <path
+     id="path24"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.76389"
+     d="m 404.37584,180.83154 -204.53747,0.31079 c -6.32187,-0.1076 -7.23085,4.56706 -8.95064,8.02606 l -17.57485,71.70873 h -0.002 c -10.30993,9.16695 -14.40885,18.32514 -14.97508,27.48329 0.0304,18.0164 0.0595,36.0334 0.0899,54.04982 0.0142,8.98529 2.34299,20.10218 14.78547,20.08275 l 260.87041,-0.19351 c 13.06345,0.009 15.0337,-10.62294 15.0337,-20.10035 l 0.0117,-54.10651 c -0.47269,-10.46695 -5.70037,-19.62615 -15.67878,-27.47547 -6.67094,-21.29549 -13.33944,-50.87278 -20.01041,-72.17003 -2.09206,-4.92481 -3.5304,-7.70555 -9.06206,-7.61557 z m -192.34788,11.72047 c 60.63028,-0.0599 120.88296,0.26326 181.5168,0.20329 4.89653,-0.0547 6.23443,2.25878 8.13944,6.29809 5.89679,17.64248 11.79352,45.19947 17.69016,62.84018 -77.09454,0.10057 -154.18929,0.20048 -231.28383,0.30103 l 15.64748,-62.54503 c 1.517,-2.86278 2.78475,-7.13813 8.28995,-7.09756 z m -20.59879,87.92894 a 23.050575,23.05075 0 0 1 23.05,23.05001 23.050575,23.05075 0 0 1 -23.05,23.05195 23.050575,23.05075 0 0 1 -23.04999,-23.05195 23.050575,23.05075 0 0 1 23.04999,-23.05001 z m 224.64173,0 a 23.050575,23.05075 0 0 1 23.05196,23.05001 23.050575,23.05075 0 0 1 -23.05196,23.05195 23.050575,23.05075 0 0 1 -23.05,-23.05195 23.050575,23.05075 0 0 1 23.05,-23.05001 z"
+     inkscape:label="path10" />
+  <path
+     d="m 214.85171,370.04656 0.0383,40.50784 c 0,5.68856 -4.62494,10.33641 -10.30464,10.34171 l -26.25734,0.0265 c -5.6797,0.005 -10.3205,-4.63551 -10.32579,-10.32407 l -0.0383,-40.50608 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.76389"
+     id="path32"
+     inkscape:label="path12" />
+  <path
+     d="m 439.65794,369.83012 0.0383,40.50784 c 0,5.68857 -4.62492,10.33643 -10.30463,10.34172 l -26.25733,0.0247 c -5.67971,0.005 -10.32051,-4.63376 -10.3258,-10.32232 l -0.0383,-40.50784 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.76389"
+     id="path36"
+     inkscape:label="path14" />
+</svg>

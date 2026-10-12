@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C99-1",
+  "image": {
+    "file": "toll-payment-attendant-hr.svg",
+    "sha1": "4338b50c5ddafa702ae53a2b87593b32cda744a0",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C99-1.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",

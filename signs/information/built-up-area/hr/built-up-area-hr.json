@@ -3,6 +3,14 @@
   "category": "information",
   "country": "hr",
   "code": "C76",
+  "image": {
+    "file": "built-up-area-hr.svg",
+    "sha1": "e5fd415b2d42de74202907eec8352c26d541ff8e",
+    "source": "https://commons.wikimedia.org/wiki/File:HR_road_sign_C76.svg",
+    "author": "Rl91",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "hr-wikipedia",
     "page": "https://hr.wikipedia.org/wiki/Dodatak%3APrometni_znakovi_u_Hrvatskoj",
