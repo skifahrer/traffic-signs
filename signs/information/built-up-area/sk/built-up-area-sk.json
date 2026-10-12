@@ -1,0 +1,18 @@
+{
+  "sign": "built-up-area",
+  "category": "information",
+  "country": "sk",
+  "code": "305",
+  "image": {
+    "file": "built-up-area-sk.svg",
+    "sha1": "2e215ceb57e173f0f8708424ee90a31915227659",
+    "source": null,
+    "author": null,
+    "license": null,
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "manual",
+    "note": "vyhláška 30/2020 Z. z., sign 305; not on the Slovak Wikipedia list, added by hand"
+  }
+}
