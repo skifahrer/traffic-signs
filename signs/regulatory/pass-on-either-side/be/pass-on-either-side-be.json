@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-either-side",
+  "category": "regulatory",
+  "country": "be",
+  "code": "F21",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",
+    "file": "Belgian road sign F21.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-zone-30",
+  "category": "regulatory",
+  "country": "be",
+  "code": "F4b",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",
+    "file": "Belgian road sign F4b.svg"
+  }
+}

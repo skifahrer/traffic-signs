@@ -1,0 +1,11 @@
+{
+  "sign": "mopeds-class-b-and-speed-pedelecs-must-use-cycle-path",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "M14",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_D%3A_Gebodsborden",
+    "file": "Belgian traffic sign M14.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "leisure-park",
+  "category": "information",
+  "country": "be",
+  "code": "S34",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S34.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "for-bicycles",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "M1",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_B%3A_Voorrangsborden",
+    "file": "Belgian traffic sign M1.svg"
+  }
+}

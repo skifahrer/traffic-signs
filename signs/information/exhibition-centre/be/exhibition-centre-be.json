@@ -1,0 +1,11 @@
+{
+  "sign": "exhibition-centre",
+  "category": "information",
+  "country": "be",
+  "code": "S2",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian road sign S2.svg"
+  }
+}

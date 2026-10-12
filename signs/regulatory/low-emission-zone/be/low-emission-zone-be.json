@@ -1,0 +1,11 @@
+{
+  "sign": "low-emission-zone",
+  "category": "regulatory",
+  "country": "be",
+  "code": "F117",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign F117.svg"
+  }
+}

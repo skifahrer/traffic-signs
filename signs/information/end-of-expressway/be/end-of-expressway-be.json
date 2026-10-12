@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-expressway",
+  "category": "information",
+  "country": "be",
+  "code": "F11",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_F%3A_Aanwijzingsborden",
+    "file": "Belgian road sign F11.svg"
+  }
+}

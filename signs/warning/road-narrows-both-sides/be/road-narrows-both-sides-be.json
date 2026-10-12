@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-both-sides",
+  "category": "warning",
+  "country": "be",
+  "code": "A7a",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://nl.wikipedia.org/wiki/Verkeersborden_in_Belgi%C3%AB_-_Serie_A%3A_Gevaarsborden",
+    "file": "Belgian road sign A7a.svg"
+  }
+}

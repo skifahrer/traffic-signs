@@ -1,0 +1,11 @@
+{
+  "sign": "cyclists-mopeds-and-speed-pedelecs-contraflow-entry",
+  "category": "additional-panel",
+  "country": "be",
+  "code": "M5bis",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign M5bis.png"
+  }
+}

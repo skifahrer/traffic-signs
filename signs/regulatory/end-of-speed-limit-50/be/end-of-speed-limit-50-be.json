@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-speed-limit-50",
+  "category": "regulatory",
+  "country": "be",
+  "code": "C45",
+  "source": {
+    "pipeline": "be-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Belgium",
+    "file": "Belgian traffic sign C45 50.svg"
+  }
+}
