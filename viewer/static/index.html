@@ -14,6 +14,8 @@
       rel="icon"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 3 30 28H2Z' fill='%23fff' stroke='%23c4161c' stroke-width='4' stroke-linejoin='round'/%3E%3C/svg%3E"
     />
+    <!-- Start downloading the signs while app.js loads; the builder adds the same version as app.js asks for. -->
+    <link rel="preload" href="data.json" as="fetch" crossorigin="anonymous" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -30,10 +32,7 @@
       <details id="filters" class="filters">
         <summary><span class="filters-label">Filters</span> <span id="summary" class="muted">Loading…</span></summary>
         <div class="controls">
-          <label>
-            <span class="visually-hidden">Type</span>
-            <select id="category"></select>
-          </label>
+          <div id="category" class="types" role="group" aria-label="Type"></div>
           <label>
             <span class="visually-hidden">Order</span>
             <select id="sort"></select>
@@ -53,9 +52,21 @@
     </header>
 
     <main>
-      <div id="loading" class="loading" role="status">
-        <progress id="loading-bar"></progress>
-        <p id="loading-text" class="muted">Loading signs…</p>
+      <!-- Shown until data.json has arrived: progress, and rows shaped like the list that is coming. -->
+      <div id="loading" class="loading" role="status" aria-busy="true">
+        <div class="loading-status">
+          <progress id="loading-bar"></progress>
+          <p id="loading-text" class="muted">Loading signs…</p>
+        </div>
+        <div class="skeleton" aria-hidden="true">
+          <div class="skeleton-title"></div>
+          <div class="skeleton-row"><i></i><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div>
+          <div class="skeleton-row"><i></i><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div>
+          <div class="skeleton-row"><i></i><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div>
+          <div class="skeleton-row"><i></i><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div>
+          <div class="skeleton-row"><i></i><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div>
+          <div class="skeleton-row"><i></i><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div>
+        </div>
       </div>
       <div id="results"></div>
       <!-- Signs are added PAGE_SIZE at a time; scrolling near this loads the next batch. -->

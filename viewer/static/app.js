@@ -98,12 +98,26 @@ const isDefault = () =>
 function resetFilters() {
   Object.assign(state, { query: "", category: "", group: "", countries: new Set(nationals()), shared: false, withdrawn: true, sort: "" });
   $("search").value = "";
-  $("category").value = "";
   $("sort").value = "";
   $("group").value = "";
   $("shared").checked = false;
   $("withdrawn").checked = true;
+  syncChips();
+  render();
+}
+
+// The country checkboxes and the Countries menu follow state.countries.
+function syncChips() {
   for (const box of $("countries").querySelectorAll("input")) box.checked = state.countries.has(box.value);
+  if (!state.group) $("group").value = allCountries() ? "" : "custom";
+}
+
+// Change the chosen countries by hand (the buttons and checkboxes): that leaves
+// any group, and the menu shows "Chosen countries".
+function chooseCountries(update) {
+  update(state.countries);
+  state.group = "";
+  syncChips();
   render();
 }
 
@@ -133,7 +147,7 @@ function setupGroups() {
     const group = groupById(select.value);
     state.group = group ? group.id : "";
     state.countries = new Set(group ? group.countries : nationals());
-    for (const box of $("countries").querySelectorAll("input")) box.checked = state.countries.has(box.value);
+    syncChips();
     render();
   });
 }
@@ -177,8 +191,8 @@ const allCountries = () => state.countries.size === nationals().length && nation
 // only ever compares the very same sign.
 const countriesOf = (sign) => Object.keys(sign.countries);
 
+// Every filter but the type, which the type buttons count separately.
 function matches(sign) {
-  if (state.category && sign.category !== state.category) return false;
   const present = countriesOf(sign).filter((c) => state.countries.has(c));
   if (!present.length) return false;
   if (state.shared && present.length < 2) return false;
@@ -213,10 +227,20 @@ function sorted(signs) {
   return signs;
 }
 
+// An image shimmers as a placeholder until it has arrived (large drawings take
+// a while), and says so if it cannot be loaded.
 function image(src, alt, className) {
-  return src
-    ? el("img", { src, alt, loading: "lazy", decoding: "async", class: className })
-    : el("span", { class: ["missing", className].filter(Boolean).join(" "), title: "Image not downloaded yet" }, "no image yet");
+  if (!src) {
+    return el("span", { class: ["missing", className].filter(Boolean).join(" "), title: "Image not downloaded yet" }, "no image yet");
+  }
+  const img = el("img", { src, alt, loading: "lazy", decoding: "async", class: [className, "pending"].filter(Boolean).join(" ") });
+  img.addEventListener("load", () => img.classList.remove("pending"), { once: true });
+  img.addEventListener(
+    "error",
+    () => img.replaceWith(el("span", { class: ["missing", className].filter(Boolean).join(" "), title: src }, "image failed to load")),
+    { once: true },
+  );
+  return img;
 }
 
 function cell(sign, country) {
@@ -249,7 +273,9 @@ function render() {
   writeUrl();
   $("reset").hidden = isDefault();
   view.columns = Object.keys(data.countries).filter((c) => state.countries.has(c));
-  const matching = sorted(data.signs.filter(matches));
+  const pool = data.signs.filter(matches);
+  updateTypes(pool);
+  const matching = sorted(state.category ? pool.filter((s) => s.category === state.category) : pool);
   // Display order: category by category, as listed in data.categories.
   view.signs = Object.keys(data.categories).flatMap((category) => matching.filter((s) => s.category === category));
   view.shown = 0;
@@ -315,13 +341,58 @@ function row(sign) {
   );
 }
 
+// Short names for the type buttons; the full label is their tooltip.
+const SHORT_TYPES = {
+  warning: "Warning",
+  regulatory: "Regulatory",
+  information: "Information",
+  "additional-panel": "Additional panels",
+  "traffic-device": "Traffic devices",
+  "traffic-signal": "Traffic signals",
+};
+
+// One button per type, each with how many signs the other filters leave in it.
+function setupTypes() {
+  const group = $("category");
+  const button = (value, label, title) => {
+    const node = el("button", { type: "button", class: "type", value, title }, el("span", {}, label), " ", el("small", { class: "count" }));
+    node.addEventListener("click", () => {
+      state.category = value;
+      render();
+    });
+    return node;
+  };
+  group.append(
+    button("", "All types", "Every type of sign"),
+    ...Object.entries(data.categories).map(([value, label]) => button(value, SHORT_TYPES[value] || label, label)),
+  );
+}
+
+function updateTypes(pool) {
+  const counts = new Map();
+  for (const sign of pool) counts.set(sign.category, (counts.get(sign.category) || 0) + 1);
+  for (const node of $("category").querySelectorAll("button")) {
+    const count = node.value ? counts.get(node.value) || 0 : pool.length;
+    node.setAttribute("aria-pressed", String(node.value === state.category));
+    node.querySelector(".count").textContent = formatNumber(count);
+    node.classList.toggle("empty", !count);
+  }
+}
+
 function updateStatus() {
   const total = data.signs.length;
-  const countries = nationals().length;
   const matching = view.signs.length;
   const scope = matching === total ? `${formatNumber(total)} signs` : `${formatNumber(matching)} matching (${formatNumber(total)} in all)`;
-  $("summary").textContent =
-    `${formatNumber(view.shown)} of ${scope} · ${countries} ${countries === 1 ? "country" : "countries"}`;
+  // The chosen countries, and regions (US states) by their label.
+  const countries = view.columns.filter((c) => !data.countries[c].region_of).length;
+  const places = [`${countries} ${countries === 1 ? "country" : "countries"}`];
+  const byLabel = new Map();
+  for (const c of view.columns.filter((c) => data.countries[c].region_of)) {
+    const label = data.countries[c].region_label || `${data.countries[c].region_of.toUpperCase()} regions`;
+    byLabel.set(label, (byLabel.get(label) || 0) + 1);
+  }
+  for (const [label, count] of byLabel) places.push(`${count} ${label}`);
+  $("summary").textContent = `${formatNumber(view.shown)} of ${scope} · ${places.join(", ")}`;
   const remaining = matching - view.shown;
   const more = $("more");
   more.hidden = remaining <= 0;
@@ -390,12 +461,7 @@ function setupControls() {
   // Filters start open where there is room for them, folded on phones.
   $("filters").open = window.matchMedia("(min-width: 641px)").matches;
 
-  const category = $("category");
-  category.append(
-    el("option", { value: "" }, "All types"),
-    ...Object.entries(data.categories).map(([value, label]) => el("option", { value }, label)),
-  );
-  category.value = state.category;
+  setupTypes();
   const sort = $("sort");
   sort.append(...Object.entries(SORTS).map(([value, label]) => el("option", { value }, label)));
   sort.value = state.sort;
@@ -408,24 +474,28 @@ function setupControls() {
   $("withdrawn").checked = state.withdrawn;
   $("share-view").addEventListener("click", () => share(viewLink(), document.title));
   $("reset").addEventListener("click", resetFilters);
-  category.addEventListener("change", () => {
-    state.category = category.value;
-    render();
-  });
 
   const chips = $("countries");
   const chip = (code) => {
     const box = el("input", { type: "checkbox", checked: state.countries.has(code), value: code });
-    box.addEventListener("change", () => {
-      box.checked ? state.countries.add(code) : state.countries.delete(code);
-      // Ticking a country by hand leaves the group: the menu shows "Chosen countries".
-      state.group = "";
-      $("group").value = allCountries() ? "" : "custom";
-      render();
-    });
+    box.addEventListener("change", () => chooseCountries((chosen) => (box.checked ? chosen.add(code) : chosen.delete(code))));
     return el("label", { title: countryName(code) }, box, code.toUpperCase());
   };
-  chips.append(...nationals().map(chip));
+  // "All" and "None" for a set of chips: they add or remove only those countries.
+  const bulk = (codes, all, none) => {
+    const button = (label, title, update) => {
+      const node = el("button", { type: "button", class: "bulk", title }, label);
+      node.addEventListener("click", () => chooseCountries((chosen) => codes.forEach((c) => update(chosen, c))));
+      return node;
+    };
+    return el(
+      "span",
+      { class: "bulk-buttons" },
+      button("All", all, (chosen, c) => chosen.add(c)),
+      button("None", none, (chosen, c) => chosen.delete(c)),
+    );
+  };
+  chips.append(bulk(nationals(), "Select every country", "Clear the countries"), ...nationals().map(chip));
   // Regions (US states, …) fold away behind one chip per country, so the row stays short.
   const byCountry = new Map();
   for (const code of regions()) {
@@ -435,8 +505,19 @@ function setupControls() {
   for (const [country, codes] of byCountry) {
     const label = data.countries[codes[0]].region_label || `${country.toUpperCase()} regions`;
     const open = codes.some((c) => state.countries.has(c));
+    // "Select all" adds every region next to the countries already chosen;
+    // the Countries menu's group compares the regions on their own.
+    const all = el("button", { type: "button", class: "bulk" }, `Select all ${label}`);
+    all.addEventListener("click", () => chooseCountries((chosen) => codes.forEach((c) => chosen.add(c))));
+    const none = el("button", { type: "button", class: "bulk" }, "Clear");
+    none.addEventListener("click", () => chooseCountries((chosen) => codes.forEach((c) => chosen.delete(c))));
     chips.append(
-      el("details", { class: "regions", open }, el("summary", {}, `${label} (${codes.length})`), el("div", { class: "chips" }, ...codes.map(chip))),
+      el(
+        "details",
+        { class: "regions", open },
+        el("summary", {}, `${label} (${codes.length})`),
+        el("div", { class: "chips" }, el("span", { class: "bulk-buttons" }, all, none), ...codes.map(chip)),
+      ),
     );
   }
   // Comparing needs at least two countries.
@@ -539,6 +620,7 @@ async function start() {
   }
   for (const sign of data.signs) signsByKey.set(`${sign.category}/${sign.sign}`, sign);
   $("loading").hidden = true;
+  $("loading").removeAttribute("aria-busy");
   readUrl();
   setupControls();
   setupGroups();

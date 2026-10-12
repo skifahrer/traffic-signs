@@ -8,8 +8,8 @@ copy of signs/ for the images, and share/, a page per sign and per category
 for link previews (see share.py).
 
 Each build stamps its files with a version (a hash of their content):
-index.html asks for `app.js?v=…` and `style.css?v=…`, and app.js for
-`data.json?v=…`. A browser that cached an earlier build then fetches the new
+index.html asks for `app.js?v=…` and `style.css?v=…` (and preloads
+`data.json?v=…`), and app.js for `data.json?v=…`. A browser that cached an earlier build then fetches the new
 files together, instead of running new code on old data.
 """
 
@@ -42,6 +42,8 @@ def build(out: str, site_url: str = DEFAULT_SITE_URL) -> dict:
     write_share_pages(index, out, site_url)
     # data.json first, so the version of app.js covers the data it asks for.
     _stamp(out, "app.js", 'fetch("data.json")', f'fetch("data.json?v={_version(out, "data.json")}")')
+    # The preload in index.html must ask for the very URL app.js fetches, or the data comes twice.
+    _stamp(out, "index.html", 'href="data.json"', f'href="data.json?v={_version(out, "data.json")}"')
     _stamp(out, "index.html", 'href="style.css"', f'href="style.css?v={_version(out, "style.css")}"')
     _stamp(out, "index.html", 'src="app.js"', f'src="app.js?v={_version(out, "app.js")}"')
     return index

@@ -71,7 +71,8 @@ detail links to its variants and back.
 
 **<https://skifahrer.github.io/traffic-signs/>** shows every sign with one
 column per country, so the same sign can be compared across countries. Filter
-by type, by country or a group of countries (continents; the EU, the EU and
+by type (a button per type, each with how many signs the other filters leave
+in it), by country (*All* and *None* next to the country chips) or a group of countries (continents; the EU, the EU and
 the United States, NATO, G7, Five Eyes, the Commonwealth, the Visegrád Group,
 Nordic, Baltic and Benelux countries, the former Soviet Union, Mercosur, the
 Arab League, ASEAN; see [`viewer/groups.py`](viewer/groups.py)), by text (English or local name, national code, folder
@@ -95,7 +96,9 @@ what messengers and social networks show as the link preview; they send the
 visitor on to the sign or category. The builder writes them with absolute
 links for `--site-url` (default `$SITE_URL`, else
 `https://skifahrer.github.io/traffic-signs/`).
-While `data.json` downloads, a progress bar shows how much has arrived. The
+The page preloads `data.json` from its first line, and while it downloads, a
+progress bar shows how much has arrived over placeholder rows shaped like the
+list. Each sign image shimmers as a placeholder until it has loaded. The
 list then shows the first 100 matching signs and adds the next 100 as you scroll
 (or with *Show more*); the header counts how many are shown, e.g.
 *200 of 1,314 signs*.
@@ -123,7 +126,8 @@ python3 -m viewer --serve   # builds _site/ and serves http://localhost:8000
 Regions of a country have ISO 3166-2 codes (`us-ca`) and run together as one
 bundle (`python3 -m pipelines us-states`). In the viewer they are not part of
 *All countries*: choose *US states* in the Countries menu, or open the
-*US states* chip to tick some of them next to the countries.
+*US states* chip to tick some of them, or *Select all US states*, next to the
+countries.
 
 | Country | Signs | Source | Pipeline |
 | --- | --- | --- | --- |
