@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-parking-zone",
+  "category": "regulatory",
+  "country": "lv",
+  "code": "524",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 524 (2016).svg"
+  }
+}

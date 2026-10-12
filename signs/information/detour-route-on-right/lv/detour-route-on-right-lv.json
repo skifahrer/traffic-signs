@@ -1,0 +1,11 @@
+{
+  "sign": "detour-route-on-right",
+  "category": "information",
+  "country": "lv",
+  "code": "732",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 732.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "segregated-footpath-cycle-path-cyclists-right",
+  "category": "regulatory",
+  "country": "lv",
+  "code": "421",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 421.svg"
+  }
+}

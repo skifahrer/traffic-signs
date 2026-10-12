@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-recommended-speed-zone",
+  "category": "information",
+  "country": "lv",
+  "code": "532",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 532.svg"
+  }
+}

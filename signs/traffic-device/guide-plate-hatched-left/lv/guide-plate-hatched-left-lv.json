@@ -1,0 +1,11 @@
+{
+  "sign": "guide-plate-hatched-left",
+  "category": "traffic-device",
+  "country": "lv",
+  "code": "907",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Latvia",
+    "file": "LV road sign 907.svg"
+  }
+}

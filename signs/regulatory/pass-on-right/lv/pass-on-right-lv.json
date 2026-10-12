@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-right",
+  "category": "regulatory",
+  "country": "lv",
+  "code": "410",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Lv410.svg"
+  }
+}

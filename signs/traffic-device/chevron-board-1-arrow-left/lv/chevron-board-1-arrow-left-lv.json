@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-1-arrow-left",
+  "category": "traffic-device",
+  "country": "lv",
+  "code": "901",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",
+    "file": "LV road sign 901.svg"
+  }
+}

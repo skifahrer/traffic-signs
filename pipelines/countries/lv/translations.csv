@@ -1,0 +1,333 @@
+code,category,slug,name_en,name_lv
+101,warning,intersection,Intersection,Vienādas nozīmes ceļu krustojums
+102,warning,roundabout-ahead,Roundabout ahead,Lokveida krustojums
+103,warning,bend-right,Bend (right),Bīstams pagrieziens
+104,warning,bend-left,Bend (left),Bīstams pagrieziens
+105,warning,double-bend-right,Double bend (first to the right),Bīstami pagriezieni
+106,warning,double-bend-left,Double bend (first to the left),Bīstami pagriezieni
+107,warning,road-narrows-both-sides,Road narrows (from both sides),Ceļa sašaurinājums
+108,warning,road-narrows-right,Road narrows (from the right),Ceļa sašaurinājums
+109,warning,road-narrows-left,Road narrows (from the left),Ceļa sašaurinājums
+110,warning,steep-descent,Steep descent,Stāvs lejupceļš
+111,warning,steep-ascent,Steep ascent,Stāvs augšupceļš
+112,warning,uneven-road,Uneven road,Nelīdzens ceļš
+113,warning,speed-bump,Speed bump,Ātrumvalnis
+114,warning,change-of-road-surface-type,Change of road surface type,Ceļa seguma maiņa
+115,warning,slippery-road,Slippery road,Slidens ceļš
+116,warning,loose-gravel,Loose gravel,Uzbērta grants vai šķembas
+117,warning,fallen-rocks,Fallen rocks,Akmeņu nogruvumi
+118,warning,roadworks,Roadworks,Uz ceļa strādā
+119,warning,dangerous-verge,Dangerous verge,Ceļš ar bīstamām nomalēm
+120,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Gājēju pāreja
+121,warning,children,Children,Bērni
+122,warning,two-way-traffic,Two-way traffic,Divvirzienu satiksme
+123,warning,traffic-signals,Traffic signals,Luksofors
+124,warning,farm-animals,Farm animals,Mājdzīvnieki
+125,warning,wild-animals,Wild animals,Savvaļas dzīvnieki
+126,warning,movable-bridge,Movable bridge,Paceļams tilts
+127,warning,quayside,Quayside or river bank,Krastmala
+128,warning,crosswind,Crosswind,Sānvējš
+129,warning,low-flying-aircraft,Low-flying aircraft,Zemu lidojošas lidmašīnas
+130,warning,cyclists,Cyclists,Velosipēdu ceļa šķērsošana
+131,warning,trams,Trams,Tramvaja sliežu šķērsošana
+132,warning,level-crossing-with-barriers,Level crossing with barriers,Dzelzceļa pārbrauktuve ar barjeru
+133,warning,level-crossing-without-barriers,Level crossing without barriers,Dzelzceļa pārbrauktuve bez barjeras
+134,warning,level-crossing-cross-single-track,Level crossing cross (single track),Viensliežu dzelzceļa pārbrauktuve
+135,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Daudzsliežu dzelzceļa pārbrauktuve
+136,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Tuvojas dzelzceļa pārbrauktuve
+137,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Tuvojas dzelzceļa pārbrauktuve
+138,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Tuvojas dzelzceļa pārbrauktuve
+139,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Tuvojas dzelzceļa pārbrauktuve
+140,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Tuvojas dzelzceļa pārbrauktuve
+141,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Tuvojas dzelzceļa pārbrauktuve
+142,warning,danger,Other danger,Bīstami
+143,warning,queues,Queues likely,Sastrēgums
+201,information,priority-road,Priority road,Galvenais ceļš
+202,information,end-of-priority-road,End of priority road,Galvenā ceļa beigas
+203,warning,crossroads-with-minor-road,Crossroads with a road without priority,Krustojums ar mazāk svarīgu ceļu
+204,warning,side-road-right-minor,Side road on the right (without priority),Krustojums ar mazāk svarīgu ceļu
+205,warning,side-road-left-minor,Side road on the left (without priority),Krustojums ar mazāk svarīgu ceļu
+206,regulatory,give-way,Give way,Dodiet ceļu
+207,regulatory,stop,"Stop, give way",Neapstājoties tālāk braukt aizliegts
+208,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Priekšroka pretim braucošajiem
+209,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Priekšroka attiecībā pret pretim braucošajiem
+301,regulatory,no-entry,No entry,Iebraukt aizliegts
+302,regulatory,no-vehicles,No vehicles,Braukt aizliegts
+303,regulatory,no-motor-vehicles,No motor vehicles,Mehāniskajiem transportlīdzekļiem braukt aizliegts
+304,regulatory,no-motorcycles,No entry for motorcycles,Motocikliem braukt aizliegts
+305,regulatory,no-bicycles,No entry for bicycles,Velosipēdiem braukt aizliegts
+306,regulatory,no-goods-vehicles,No entry for goods vehicles,Kravas automobiļiem braukt aizliegts
+307,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Ar piekabi braukt aizliegts
+308,regulatory,no-tractors,No entry for tractors,Traktoriem braukt aizliegts
+309,regulatory,no-pedestrians,No entry for pedestrians,Gājējiem iet aizliegts
+310,regulatory,maximum-width,Maximum width,Platuma ierobežojums
+311,regulatory,maximum-height,Maximum height,Augstuma ierobežojums
+312,regulatory,maximum-weight,Maximum weight,Masas ierobežojums
+313,regulatory,maximum-axle-weight,Maximum axle weight,Ass slodzes ierobežojums
+314,regulatory,maximum-length,Maximum length,Garuma ierobežojums
+315,regulatory,no-right-turn,No right turn,Nogriezties pa labi aizliegts
+316,regulatory,no-left-turn,No left turn,Nogriezties pa kreisi aizliegts
+317,regulatory,no-u-turn,No U-turn,Apgriezties braukšanai pretējā virzienā aizliegts
+318,regulatory,minimum-distance,Minimum distance between vehicles,Minimālās distances ierobežojums
+319,regulatory,no-overtaking,No overtaking,Apdzīt aizliegts
+320,regulatory,end-of-no-overtaking,End of no overtaking,Apdzīšanas aizliegums beidzas
+321,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Kravas automobiļiem apdzīt aizliegts
+322,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Kravas automobiļiem apdzīšanas aizliegums beidzas
+323,regulatory,speed-limit,Speed limit,Maksimālā ātruma ierobežojums
+324,regulatory,end-of-speed-limit,End of speed limit,Maksimālā ātruma ierobežojums beidzas
+325,regulatory,no-horns,Use of horns prohibited,Skaņas signālu lietot aizliegts
+326,regulatory,no-stopping,No stopping,Apstāties aizliegts
+327,regulatory,no-parking,No parking,Stāvēt aizliegts
+328,regulatory,no-parking-odd-days,No parking on odd days,Nepāra datumos stāvēt aizliegts
+329,regulatory,no-parking-even-days,No parking on even days,Pāra datumos stāvēt aizliegts
+330,regulatory,end-of-all-restrictions,End of all restrictions,Visi ierobežojumi beidzas
+331,regulatory,customs-stop,Customs stop,Muita
+332,regulatory,police-check-stop,Police check stop,Policija
+333,regulatory,stop-for-dangers-including-traffic-accidents-natural,"Stop for dangers, including traffic accidents, natural disasters or other road obstructions",Tālāk braukt bīstami
+334,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Transportlīdzekļiem ar bīstamu kravu braukt aizliegts
+401,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Braukt taisni
+402,regulatory,turn-right,Turn right,Braukt pa labi
+403,regulatory,turn-left,Turn left,Braukt pa kreisi
+404,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Braukt taisni vai pa labi
+405,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Braukt taisni vai pa kreisi
+406,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Braukt pa labi vai pa kreisi
+407,regulatory,turn-right-here,Turn right here,Braukt pa labi
+408,regulatory,turn-left-here,Turn left here,Braukt pa kreisi
+409,regulatory,roundabout,Roundabout,Braukt pa loku
+410,regulatory,pass-on-right,Pass on the right,Šķērsli apbraukt pa labo pusi
+411,regulatory,pass-on-left,Pass on the left,Šķērsli apbraukt pa kreiso pusi
+412,regulatory,pass-on-either-side,Pass on either side,Šķērsli apbraukt pa labo vai pa kreiso pusi
+413,regulatory,cycle-path,Cycle path,Velosipēdu ceļš
+414,regulatory,end-of-cycle-path,End of cycle path,Velosipēdu ceļa beigas
+415,regulatory,footpath,Footpath,Gājēju ceļš
+416,regulatory,end-of-footpath,End of footpath,Gājēju ceļa beigas
+417,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Kopīgs gājēju un velosipēdu ceļš
+418,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Kopīga gājēju un velosipēdu ceļa beigas
+419,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Gājēju un velosipēdu ceļš
+420,regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),Gājēju un velosipēdu ceļa beigas
+421,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Gājēju un velosipēdu ceļš
+422,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),Gājēju un velosipēdu ceļa beigas
+423,regulatory,minimum-speed,Minimum speed,Minimālā ātruma ierobežojums
+424,regulatory,end-of-minimum-speed,End of minimum speed,Minimālā ātruma ierobežojuma beigas
+425,regulatory,vehicles-carrying-dangerous-goods-may-proceed-straight-ahead,Vehicles carrying dangerous goods may proceed straight ahead only,Transportlīdzekļiem ar bīstamu kravu braukt taisni
+426,regulatory,vehicles-carrying-dangerous-goods-may-turn-right-only,Vehicles carrying dangerous goods may turn right only,Transportlīdzekļiem ar bīstamu kravu braukt pa labi
+427,regulatory,vehicles-carrying-dangerous-goods-may-turn-left-only,Vehicles carrying dangerous goods may turn left only,Transportlīdzekļiem ar bīstamu kravu braukt pa kreisi
+501,information,one-way-road,One-way road,Vienvirziena ceļš
+502,information,end-of-one-way-road,End of one-way road,Vienvirziena ceļa beigas
+503,information,rightward-one-way-street,Rightward one-way street,Izbraukšana uz vienvirziena ceļa
+504,information,leftward-one-way-street,Leftward one-way street,Izbraukšana uz vienvirziena ceļa
+505,regulatory,public-transport-lane,Public transport lane,Josla pasažieru sabiedriskajiem transportlīdzekļiem
+506,regulatory,end-of-public-transport-lane,End of public transport lane,Joslas pasažieru sabiedriskajiem transportlīdzekļiem beigas
+507,information,one-way-street-with-reverse-lane-for-buses,One-way street with reverse lane for buses,Ceļš ar joslu pasažieru sabiedriskajiem transportlīdzekļiem
+508,information,one-way-street-with-reverse-lane-for-buses-ends,One-way street with reverse lane for buses ends,Ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem beigas
+509,information,exit-to-road-with-contraflow-bus-lane-left,Exit to a road with a contraflow bus lane (to the left),Izbraukšana uz ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem
+510,information,exit-to-road-with-contraflow-bus-lane-right,Exit to a road with a contraflow bus lane (to the right),Izbraukšana uz ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem
+511,information,minimum-speed-on-different-traffic-lanes,Minimum speed on different traffic lanes.,Minimālā braukšanas ātruma ierobežojums joslās
+512,information,maximum-speed-limit-on-different-traffic-lanes,Maximum speed limit on different traffic lanes.,Maksimālā braukšanas ātruma ierobežojums joslās
+513,information,lane-directions,Directions of the lanes,Braukšanas virzieni joslās
+514,information,lane-direction-straight,Direction of the lane (straight ahead),Braukšanas virzieni joslā
+515,information,lane-direction-right,Direction of the lane (right),Braukšanas virzieni joslā
+516,information,lane-direction-left,Direction of the lane (left),Braukšanas virzieni joslā
+517,information,lane-direction-straight-or-right,Direction of the lane (straight ahead or right),Braukšanas virzieni joslā
+518,information,lane-direction-straight-or-left,Direction of the lane (straight ahead or left),Braukšanas virzieni joslā
+523,regulatory,no-parking-zone,No parking zone,Stāvēšanas aizlieguma zona
+524,regulatory,end-of-no-parking-zone,End of no parking zone,Stāvēšanas aizlieguma zonas beigas
+525,regulatory,speed-limit-zone,Speed limit zone,Maksimālā ātruma ierobežojuma zona
+526,regulatory,end-of-speed-limit-zone,End of speed limit zone,Maksimālā ātruma ierobežojuma zonas beigas
+527,information,pedestrian-zone,Pedestrian zone,Gājēju ceļu zona
+528,information,end-of-pedestrian-zone,End of pedestrian zone,Gājēju ceļu zonas beigas
+529,regulatory,parking-zone,Parking zone,Stāvvietu zona
+530,regulatory,end-of-parking-zone,End of parking zone,Stāvvietu zonas beigas
+531,information,recommended-speed-zone,Recommended speed zone,Ieteicamā ātruma zona
+532,information,end-of-recommended-speed-zone,End of recommended speed zone,Ieteicamā ātruma zonas beigas
+533,information,residential-zone,Residential zone,Dzīvojamā zona
+534,information,end-of-residential-zone,End of residential zone,Dzīvojamās zonas beigas
+535,information,pedestrian-crossing-right-side,Pedestrian crossing (placed on the right),Gājēju pāreja
+536,information,pedestrian-crossing-left-side,Pedestrian crossing (placed on the left),Gājēju pāreja
+537,regulatory,parking,Parking,Stāvvieta
+538,regulatory,end-of-parking,End of parking,Stāvvietas beigas
+539,regulatory,paid-parking,Paid parking,Maksas stāvvieta
+540,regulatory,end-of-paid-parking,End of paid parking,Maksas stāvvietas beigas
+541,information,bus-stop,"Bus, trolleybus or electric bus stop",Autobusa un trolejbusa pietura
+542,information,tram-stop,Tram stop,Tramvaja pietura
+543,information,taxi-rank,Taxi rank,Vieglo taksometru stāvvieta
+544,information,tunnel,Tunnel,Tunelis
+545,information,end-of-tunnel,End of tunnel,Tuneļa beigas
+547,information,controlled-border-zone,Controlled border zone,Pierobežas sākums
+548,information,end-of-the-controlled-border-zone,End of the controlled border zone,Pierobežas beigas
+549,information,border-zone,Border zone,Pierobežas joslas sākums
+550,information,end-of-the-border-zone,End of the border zone,Pierobežas joslas beigas
+551,information,border-crossing,Border crossing,Robežšķērsošanas vieta
+554,information,emergency-lay-by,Emergency lay-by,Piespiedu apstāšanās vieta
+601,information,services-first-aid,Services (first aid),Medicīniskās palīdzības punkts
+602,information,services-hospital,Services (hospital),Slimnīca
+603,information,services-filling-station,Services (filling station),Degvielas uzpildes stacija
+604,regulatory,park-and-ride,Park and ride,Stāvparks
+605,information,services-breakdown-service,Services (breakdown service),Tehniskās apkopes punkts
+606,information,services-car-wash,Services (car wash),Automobiļu mazgātava
+607,information,services-telephone,Services (telephone),Telefons
+608,information,services-restaurant,Services (roadside restaurant),Restorāns
+609,information,services-cafe,Services (café or snack bar open every day),Kafejnīca
+610,information,services-hotel-or-motel,Services (hotel or motel),"Viesnīca, motelis vai viesu māja"
+611,information,services-youth-hostel,Services (youth hostel),Jaunatnes tūrisma mītne
+612,information,services-campsite,Services (campsite),Kempings
+613,information,services-caravan-site,Services (caravan site),Kempingpiekabju stāvvieta
+614,information,services-camping-and-caravan-site,Services (camping and caravan site),Kempings un kempingpiekabju stāvvieta
+615,information,rest-area,Rest area,Atpūtas vieta
+616,information,services-hiking-trail,Services (hiking trail),Gājēju maršruts
+617,information,services-toilets,Services (toilets),Tualete
+618,information,beaches-or-pools,Beaches or pools,Peldvieta vai peldbaseins
+619,information,services-information-point,Services (information point),Tūrisma informācija
+620,information,police,Police,Policija
+621,information,traffic-police,Traffic police,Ceļu policija
+622,information,services-post-office,Services (post office),Pasts
+623,information,services-traffic-radio,Services (traffic information radio),Radiokanāls ceļa satiksmes informācijas sniegšanai
+624,information,airport,Airport,Lidosta (lidlauks)
+625,information,bus-station,Bus station,Autoosta
+626,information,railway-station,Railway station,Dzelzceļa stacija
+627,information,sea-river-port-or-station,Sea (river) port or station,Jūras pasažieru stacija
+628,information,ferry-terminal,Ferry,Prāmis
+629,information,cargo-port,Cargo port,Kravas osta
+630,information,services-information-block,Services (several services at one place),Informācijas bloks
+631,information,other-tourist-attraction,Other tourist attraction,Ievērojama vieta
+632,information,fire-extinguisher,Fire extinguisher,Ugunsdzēšamais aparāts
+633,information,services-emergency-telephone,Services (emergency telephone),Avārijas tālrunis
+634,information,tourist-farm-stay,Tourist destination (farm stay),Lauku tūrisma mītne
+519,information,built-up-area-without-name,Built-up area (without place name),Apdzīvotas vietas sākums
+520,information,end-of-built-up-area-without-name,End of built-up area (without place name),Apdzīvotas vietas beigas
+521,information,place-name-sign,Place name,Pilsētas vai ciema nosaukums
+522,information,end-of-place-name-sign,End of place name,Pilsētas vai ciema nosaukums beidzas
+546,regulatory,stop-here-on-red,Stop here on red,Apstāšanās vieta
+552,information,motor-road,Road for motor vehicles,Ātrgaitas ceļš
+553,information,end-of-motor-road,End of road for motor vehicles,Ātrgaitas ceļa beigas
+555,information,built-up-area,Built-up area,Apdzīvotas vietas sākums
+556,information,end-of-built-up-area,End of built-up area,Apdzīvotas vietas beigas
+701A,information,advance-direction-sign,Advance direction sign,Iepriekšējs virzienu rādītājs
+701B,information,advance-direction-sign-b,Advance direction sign (variant b),Iepriekšējs virzienu rādītājs
+701C,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),Iepriekšējs virzienu rādītājs
+701D,information,advance-direction-sign-diagrammatic-b,"Advance direction sign (diagrammatic, variant b)",Iepriekšējs virzienu rādītājs
+702,information,advance-direction-sign-built-up-area,Advance direction sign (in built-up areas),Virzienu rādītājs
+703,information,table-direction-sign,Table direction sign,Virzienu rādītājs
+704A,information,direction-sign-local,Direction sign (destination in town),Virziena rādītājs
+704B,information,cycle-direction-sign,Direction sign for cyclists,Virziena rādītājs
+705,information,direction-sign,Direction sign,Virziena rādītājs
+706A,information,direction-sign-tourist-destination,Direction sign (tourist attraction or sports centre),Virziena rādītājs
+706B,information,direction-sign-farmstead,Direction sign (farmstead),Virziena rādītājs
+707,information,distance-sign,Distance sign,Attālumu rādītājs
+707B,information,distance-sign-built-up-area,Distance sign (in built-up areas),Attālumu rādītājs
+708,information,river-name,River or valley name,Ūdensšķēršļa nosaukums
+709,information,route-for-prohibited-left-turn,Route for a prohibited left turn,Braukšanas shēma
+710,information,obstacle-bypass-direction,Direction for passing an obstacle,Šķēršļa apbraukšanas virziens
+711,information,dead-end,Dead end,Strupceļš
+712,information,dead-end-side-road-right,Dead-end side road (to the right),Iepriekšējs virziena rādītājs strupceļam
+713,information,dead-end-side-road-left,Dead-end side road (to the left),Iepriekšējs virziena rādītājs strupceļam
+714,information,additional-lane-on-the-right-begins,Additional lane on the right begins,Joslas sākums
+715,information,additional-lane-on-the-left-begins,Additional lane on the left begins,Joslas sākums
+716,information,end-of-additional-lane-right,End of additional lane (on the right),Joslas beigas
+717,information,end-of-additional-lane-left,End of additional lane (on the left),Joslas beigas
+718,information,number-of-lanes-2-plus-1-oncoming-with-regulatory-sign,Number of lanes (2 lanes + 1 oncoming + regulatory sign),Braukšanas virzieni joslās
+719,information,number-of-lanes-1-plus-2-oncoming,Number of lanes (1 lane + 2 oncoming),Braukšanas virzieni joslās
+720,information,lane-shift-right-2-plus-1-oncoming,"Lane shift (to the right, 2 lanes + 1 oncoming)",Braukšanas virzieni joslās
+721,information,lane-on-the-right-begins-with-traffic-coming-from-other-road,Lane on the right begins with traffic coming from other road,Joslas piekļaušanās pamatjoslām
+722,information,right-lane-merges-with-traffic-coming-from-other-road,Right lane merges with traffic coming from other road,Joslas piekļaušanās pamatjoslām
+723,information,u-turn-place,U-turn place,Apgriešanās vieta
+724,information,national-speed-limits,National speed limits (at the border),Satiksmes ierobežojumi Latvijā
+725,information,recommended-speed,Recommended speed,Ieteicamais ātrums
+726,information,trucks-proceed-straight-only,Trucks proceed straight only,Kravas automobiļu braukšanas virziens
+727,information,trucks-proceed-right-only,Trucks proceed right only,Kravas automobiļu braukšanas virziens
+728,information,trucks-proceed-left-only,Trucks proceed left only,Kravas automobiļu braukšanas virziens
+729,information,overpass-or-underpass-with-steps,Overpass or underpass with steps,Gājēju apakšzemes vai virszemes pāreja
+730,information,detour-map,Detour map,Apbraukšanas ceļa shēma
+731,information,detour-route-on-straight,Detour route on straight,Apbraukšanas ceļa virziens
+732,information,detour-route-on-right,Detour route on right,Apbraukšanas ceļa virziens
+733,information,detour-route-on-left,Detour route on left,Apbraukšanas ceļa virziens
+734,information,end-of-detour,End of detour,Apbraukšanas ceļa beigas
+735,information,lane-change-ahead-contraflow,Lane change ahead (into the opposite carriageway),Iepriekšējs norādītājs pārkārtoties
+736,information,lane-change-ahead-left,Lane change ahead (to the left),Iepriekšējs norādītājs pārkārtoties
+737,information,zip-merge,Zip merge,Iepriekšējs norādītājs pārkārtoties
+738,information,lane-change-ahead-right,Lane change ahead (to the right),Iepriekšējs norādītājs pārkārtoties
+739,information,kilometre-marker,Kilometre marker,Kilometru rādītājs
+740,information,european-road-number,European road number,Ceļa numurs
+741,information,national-road-number,National road number,Ceļa numurs
+742,information,regional-road-number,Road number (regional road),Ceļa numurs
+743,information,european-road-number-and-direction,European road number and direction,Ceļa numurs un virziens
+744,information,national-road-number-and-direction,National road number and direction,Ceļa numurs un virziens
+745,information,regional-road-number-and-direction,Regional road number and direction,Ceļa numurs un virziens
+746,information,reversible-lane-begins,Reversible Lane begins,Maiņvirziena satiksme
+747,information,reversible-lane-ends,Reversible Lane ends,Maiņvirziena satiksmes beigas
+748,information,crossing-the-reversible-lane,Crossing the reversible lane,"Izbraukšana uz ceļa, kur organizēta maiņvirziena satiksme"
+749,information,european-union-country-border,European Union country border,Valsts nosaukums
+750,information,administrative-border,Border of an administrative area,Administratīvās teritorijas nosaukums
+751,information,tourist-area,Tourist area,Tūrisma objektu teritorija
+752,information,emergency-exit,Emergency exit,Avārijas izeja
+753,information,emergency-exit-right,Emergency exit (to the right),Avārijas izejas virziens
+754,information,exit-advance-sign-motorway,Exit advance sign (motorway),Iepriekšēja norāde par nobrauktuvi no ātrgaitas ceļa
+801,additional-panel,distance,Distance,Attālums līdz objektam
+802,additional-panel,distance-to-stop-line,Distance to the stop line,Attālums līdz objektam
+803,additional-panel,section-length,Length of section,Darbības zona
+804,additional-panel,distance-and-direction,Distance and direction,Darbības zona
+805,additional-panel,zone-of-validity-both-directions,Zone of validity (in both directions),Darbības zona
+806,additional-panel,zone-of-validity-left,Zone of validity (to the left),Darbības zona
+807,additional-panel,zone-of-validity-right,Zone of validity (to the right),Darbības zona
+808,additional-panel,distance-and-direction-right,Distance and direction (right),Darbības zona
+809,additional-panel,above-sign-indicating-where-no-stopping-and-parking-in-both,Above sign indicating where no stopping and parking in both directions,Darbības zona
+810,additional-panel,above-sign-indicating-where-no-stopping-and-parking-ends,Above sign indicating where no stopping and parking ends,Darbības zona
+811,additional-panel,direction-of-validity-diagonal-both,Direction of validity (diagonally to both sides),Darbības zona
+812,additional-panel,direction-of-validity-diagonal-left,Direction of validity (diagonally to the left),Darbības zona
+813,additional-panel,direction-of-validity-diagonal-right,Direction of validity (diagonally to the right),Darbības zona
+814,additional-panel,above-sign-indicating-of-object-on-the-left,Above sign indicating of object on the left,Darbības virziens
+815,additional-panel,above-sign-indicating-of-object-on-both-sides-of-road,Above sign indicating of object on both sides of road,Darbības virzieni
+816,additional-panel,above-sign-indicating-of-object-on-the-right,Above sign indicating of object on the right,Darbības virziens
+817,additional-panel,only-this-lane,Applies only to this lane,Braukšanas josla
+818,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Transportlīdzekļa veids
+819,additional-panel,vehicle-type-goods-vehicles-with-trailers,Type of vehicle (goods vehicles with trailers),Transportlīdzekļa veids
+820,additional-panel,vehicle-type-cars,Type of vehicle (cars),Transportlīdzekļa veids
+821,additional-panel,vehicle-type-buses,Type of vehicle (buses),Transportlīdzekļa veids
+822,additional-panel,vehicle-type-tractors,Type of vehicle (tractors),Transportlīdzekļa veids
+823,additional-panel,vehicle-type-motorcycles,Type of vehicle (motorcycles),Transportlīdzekļa veids
+824,additional-panel,vehicle-type-bicycles,Type of vehicle (bicycles),Transportlīdzekļa veids
+825,additional-panel,above-sign-effective-during-working-days,Above sign effective during working days,Darbdienās
+826,additional-panel,above-sign-indicating-a-time-during-saturdays-sundays-and,"Above sign indicating a time during Saturdays, Sundays and holidays","Sestdienās, svētdienās un svētku dienās"
+827,additional-panel,above-sign-effective-during-times,Above sign effective during times,Darbības laiks
+828,additional-panel,above-sign-effective-during-working-days-during-times,Above sign effective during working days during times,Darbības laiks
+829,additional-panel,above-sign-effective-during-saturdays-sundays-and-public,"Above sign effective during Saturdays, Sundays and public holidays during times",Darbības laiks
+840,additional-panel,parking-disc-panel,Parking disc required,Stāvēšanas laiks
+841,additional-panel,raised-viewing-platform-for-cars,Raised viewing platform for cars,Automobiļu apskates vieta
+842,additional-panel,weight-limit,Weight limit,Pilnas masas ierobežojums
+843,additional-panel,blind-pedestrians-may-be-crossing,Blind pedestrians may be crossing,Neredzīgi gājēji
+844,additional-panel,disabled-parking,Parking for disabled persons,Personām ar invaliditāti
+845,additional-panel,when-wet,When wet,Mitrs segums
+846,additional-panel,snow-or-ice-panel,In snow or ice,Slidens segums
+847,additional-panel,priority-road-course,Course of the priority road,Galvenā ceļa virziens
+848,additional-panel,tow-away-zone,Tow away zone,Strādā autoevakuators
+849,additional-panel,text-panel,Text panel,Pārējā papildinformācija
+850,additional-panel,speed-bump-panel,Speed bump (pedestrian crossing on a speed bump),Ātrumvalnis
+851,additional-panel,paid-parking-hours,Paid parking hours,Maksas stāvvietas darbības laiks
+852,additional-panel,no-idling-during-parking,No idling during parking,Izslēgt motoru
+853,additional-panel,photo-enforced-symbol,Photo enforced (symbol) (plaque),Kontroles ierīce
+859,additional-panel,loading-zone,Loading zone,Preču piegāde
+860,additional-panel,electric-vehicles-charging-only,Electric vehicles while charging,Elektromobiļiem
+830,additional-panel,manner-of-parking,Manner of parking,Transportlīdzekļa novietojuma veids stāvvietā
+831,additional-panel,manner-of-parking-b,Manner of parking (variant b),Transportlīdzekļa novietojuma veids stāvvietā
+832,additional-panel,manner-of-parking-c,Manner of parking (variant c),Transportlīdzekļa novietojuma veids stāvvietā
+833,additional-panel,manner-of-parking-d,Manner of parking (variant d),Transportlīdzekļa novietojuma veids stāvvietā
+834,additional-panel,manner-of-parking-e,Manner of parking (variant e),Transportlīdzekļa novietojuma veids stāvvietā
+835,additional-panel,manner-of-parking-f,Manner of parking (variant f),Transportlīdzekļa novietojuma veids stāvvietā
+836,additional-panel,manner-of-parking-g,Manner of parking (variant g),Transportlīdzekļa novietojuma veids stāvvietā
+837,additional-panel,manner-of-parking-h,Manner of parking (variant h),Transportlīdzekļa novietojuma veids stāvvietā
+838,additional-panel,manner-of-parking-i,Manner of parking (variant i),Transportlīdzekļa novietojuma veids stāvvietā
+839,additional-panel,manner-of-parking-j,Manner of parking (variant j),Transportlīdzekļa novietojuma veids stāvvietā
+854,additional-panel,two-way-bicycle-traffic-in-the-transverse-direction,Two-way bicycle traffic in the transverse direction,Informācija par velosipēdu ceļu
+855,additional-panel,cyclists-contraflow,Cyclists riding against the traffic,Informācija par velosipēdu ceļu
+856,additional-panel,cyclists-one-way-on-each-side,Cyclists ride one way on each side of the road,Informācija par velosipēdu ceļu
+857,additional-panel,cycle-network-arrow,Cycle network arrow,Velomaršruts
+858,additional-panel,eurovelo-route-arrow,EuroVelo route arrow,"""EuroVelo"" maršruts"
+901,traffic-device,chevron-board-1-arrow-left,Chevron (left),Vertikālais apzīmējums – braukšanas virziens pagriezienā
+902,traffic-device,chevron-board-3-arrows-left,"Chevron board (3 arrows, left-pointing)",Vertikālais apzīmējums – braukšanas virziens pagriezienā
+903,traffic-device,chevron-board-1-arrow-right,Chevron (right),Vertikālais apzīmējums – braukšanas virziens
+904,traffic-device,chevron-board-3-arrows-right,"Chevron board (3 arrows, right-pointing)",Vertikālais apzīmējums – braukšanas virziens
+905,traffic-device,chevron-board-pass-either-side,Chevron board (pass on either side),Vertikālais apzīmējums – paaugstinājums apbraucams pa labo vai pa kreiso pusi
+906,traffic-device,guide-plate-hatched-right,"Guide plate (hatched, sloping right)",Vertikālais apzīmējums – paaugstinājums apbraucams pa kreiso pusi
+907,traffic-device,guide-plate-hatched-left,"Guide plate (hatched, sloping left)",Vertikālais apzīmējums – paaugstinājums apbraucams pa labo pusi
+908,traffic-device,direction-board-hatched-right,"Direction board (hatched, sloping right)",Vertikālais apzīmējums – ceļa darbu vieta apbraucama pa kreiso pusi
+909,traffic-device,direction-board-hatched-left,"Direction board (hatched, sloping left)",Vertikālais apzīmējums – ceļa darbu vieta apbraucama pa labo pusi

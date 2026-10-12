@@ -1,0 +1,11 @@
+{
+  "sign": "bend-right",
+  "category": "warning",
+  "country": "lv",
+  "code": "103",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "LV road sign 103.svg"
+  }
+}
