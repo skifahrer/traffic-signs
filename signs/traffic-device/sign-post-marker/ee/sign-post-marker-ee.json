@@ -1,0 +1,11 @@
+{
+  "sign": "sign-post-marker",
+  "category": "traffic-device",
+  "country": "ee",
+  "code": "687",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 687.svg"
+  }
+}

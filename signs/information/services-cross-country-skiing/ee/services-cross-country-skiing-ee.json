@@ -1,0 +1,11 @@
+{
+  "sign": "services-cross-country-skiing",
+  "category": "information",
+  "country": "ee",
+  "code": "742c",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 742c.svg"
+  }
+}

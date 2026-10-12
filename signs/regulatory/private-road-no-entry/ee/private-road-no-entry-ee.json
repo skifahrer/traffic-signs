@@ -1,0 +1,11 @@
+{
+  "sign": "private-road-no-entry",
+  "category": "regulatory",
+  "country": "ee",
+  "code": "311b",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 311b.svg"
+  }
+}

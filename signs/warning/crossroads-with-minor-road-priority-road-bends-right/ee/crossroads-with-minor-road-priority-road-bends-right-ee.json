@@ -1,0 +1,11 @@
+{
+  "sign": "crossroads-with-minor-road-priority-road-bends-right",
+  "category": "warning",
+  "country": "ee",
+  "code": "133b",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 133b.svg"
+  }
+}

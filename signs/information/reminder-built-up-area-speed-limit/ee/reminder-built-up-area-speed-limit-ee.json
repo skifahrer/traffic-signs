@@ -1,0 +1,11 @@
+{
+  "sign": "reminder-built-up-area-speed-limit",
+  "category": "information",
+  "country": "ee",
+  "code": "592a1",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 592a1.svg"
+  }
+}

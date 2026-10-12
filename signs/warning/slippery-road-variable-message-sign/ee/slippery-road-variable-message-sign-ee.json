@@ -1,0 +1,11 @@
+{
+  "sign": "slippery-road-variable-message-sign",
+  "category": "warning",
+  "country": "ee",
+  "code": "151m",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 151m.svg"
+  }
+}

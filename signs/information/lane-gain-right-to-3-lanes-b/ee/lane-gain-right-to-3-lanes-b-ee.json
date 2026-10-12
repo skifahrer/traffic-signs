@@ -1,0 +1,11 @@
+{
+  "sign": "lane-gain-right-to-3-lanes-b",
+  "category": "information",
+  "country": "ee",
+  "code": "532bs",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 532bs.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "unpaved-road-ahead",
+  "category": "warning",
+  "country": "ee",
+  "code": "159",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 159.svg"
+  }
+}

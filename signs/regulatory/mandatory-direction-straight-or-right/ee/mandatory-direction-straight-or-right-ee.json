@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight-or-right",
+  "category": "regulatory",
+  "country": "ee",
+  "code": "416",
+  "source": {
+    "pipeline": "ee-wikipedia",
+    "page": "https://et.wikipedia.org/wiki/Eesti_liiklusm%C3%A4rgid",
+    "file": "Estonia road sign 416.svg"
+  }
+}
