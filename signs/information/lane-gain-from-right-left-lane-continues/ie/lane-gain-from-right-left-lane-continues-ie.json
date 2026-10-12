@@ -1,0 +1,19 @@
+{
+  "sign": "lane-gain-from-right-left-lane-continues",
+  "category": "information",
+  "country": "ie",
+  "code": "F 303R",
+  "image": {
+    "file": "lane-gain-from-right-left-lane-continues-ie.svg",
+    "sha1": "93009258a8d79a5e44c2d451c0a831e572ef33f1",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-303R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-303R.svg"
+  }
+}

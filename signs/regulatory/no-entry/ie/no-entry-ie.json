@@ -1,0 +1,19 @@
+{
+  "sign": "no-entry",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 050",
+  "image": {
+    "file": "no-entry-ie.svg",
+    "sha1": "2f7c41feafae1b98b26fcdfc9de2063a4cd59f25",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-050.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-050.svg"
+  }
+}

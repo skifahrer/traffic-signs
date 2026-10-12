@@ -1,0 +1,19 @@
+{
+  "sign": "level-crossing-with-barriers",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 121",
+  "image": {
+    "file": "level-crossing-with-barriers-ie.svg",
+    "sha1": "010b6dff9d85ae4890f4baa663852a090b7949f9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-121.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-121.svg"
+  }
+}

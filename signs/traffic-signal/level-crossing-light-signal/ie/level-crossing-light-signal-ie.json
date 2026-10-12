@@ -1,0 +1,19 @@
+{
+  "sign": "level-crossing-light-signal",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 005",
+  "image": {
+    "file": "level-crossing-light-signal-ie.png",
+    "sha1": "8d6c82a03186f2d3b14f4036c542b453b4d476c6",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_005_railway_crossing_signal.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 005 railway crossing signal.png"
+  }
+}

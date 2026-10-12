@@ -1,0 +1,19 @@
+{
+  "sign": "low-bridge-ahead",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 110",
+  "image": {
+    "file": "low-bridge-ahead-ie.svg",
+    "sha1": "8f5313cc292b427b67c066a577c8a0c8cfac4a64",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-110.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-110.svg"
+  }
+}

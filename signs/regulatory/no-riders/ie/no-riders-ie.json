@@ -1,0 +1,19 @@
+{
+  "sign": "no-riders",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 056",
+  "image": {
+    "file": "no-riders-ie.svg",
+    "sha1": "4a3ff3b6819f9bc874346a2794eb54b45927d8c7",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-056.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-056.svg"
+  }
+}

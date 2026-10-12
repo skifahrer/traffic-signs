@@ -1,0 +1,19 @@
+{
+  "sign": "segregated-footpath-cycle-path-cyclists-left",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 058CL",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-ie.svg",
+    "sha1": "804a62dc34fd29194db94e629a394bbab99d6927",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-058-CL.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-058-CL.svg"
+  }
+}

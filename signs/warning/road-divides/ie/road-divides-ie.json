@@ -1,0 +1,19 @@
+{
+  "sign": "road-divides",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 094",
+  "image": {
+    "file": "road-divides-ie.svg",
+    "sha1": "1c50d1cc61a5155de48baf5b7d6bda558104df93",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-094.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-094.svg"
+  }
+}

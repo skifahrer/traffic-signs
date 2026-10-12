@@ -1,0 +1,19 @@
+{
+  "sign": "tram-stop-sign",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 034",
+  "image": {
+    "file": "tram-stop-sign-ie.svg",
+    "sha1": "f151731a5601af81de7bc38f67c893ca5efe8f74",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-034.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-034.svg"
+  }
+}

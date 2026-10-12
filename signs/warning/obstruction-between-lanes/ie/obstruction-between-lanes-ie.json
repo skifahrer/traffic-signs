@@ -1,0 +1,19 @@
+{
+  "sign": "obstruction-between-lanes",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 016",
+  "image": {
+    "file": "obstruction-between-lanes-ie.svg",
+    "sha1": "1f1fe3e075d31e1256d20fb78f52f52b26184039",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-016.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-016.svg"
+  }
+}

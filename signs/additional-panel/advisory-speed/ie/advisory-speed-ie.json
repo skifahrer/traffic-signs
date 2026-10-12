@@ -1,0 +1,19 @@
+{
+  "sign": "advisory-speed",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 011",
+  "image": {
+    "file": "advisory-speed-ie.svg",
+    "sha1": "2c6d408e982240742175547940541c1bc9ebadf0",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-011.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-011.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "mini-roundabout-ahead",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 044",
+  "image": {
+    "file": "mini-roundabout-ahead-ie.svg",
+    "sha1": "e37f66104d221cc77d877ef641158d56abda7768",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-044.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-044.svg"
+  }
+}

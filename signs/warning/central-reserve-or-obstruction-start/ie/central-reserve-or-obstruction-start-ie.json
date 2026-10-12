@@ -1,0 +1,19 @@
+{
+  "sign": "central-reserve-or-obstruction-start",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 018",
+  "image": {
+    "file": "central-reserve-or-obstruction-start-ie.svg",
+    "sha1": "a100a532b1796d7211afec61338d34e545959207",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-018.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-018.svg"
+  }
+}

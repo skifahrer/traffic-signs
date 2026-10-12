@@ -1,0 +1,19 @@
+{
+  "sign": "merging-and-diverging-traffic",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 032",
+  "image": {
+    "file": "merging-and-diverging-traffic-ie.svg",
+    "sha1": "a3c9e622af05a61ee98bf20a67d42681b937ba9d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-032.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-032.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "end",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 010",
+  "image": {
+    "file": "end-ie.svg",
+    "sha1": "e25cf290cd786ea736f53407985ada62575e3a9a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-010.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-010.svg"
+  }
+}

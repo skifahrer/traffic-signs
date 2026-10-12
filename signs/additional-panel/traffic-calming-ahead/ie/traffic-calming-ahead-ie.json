@@ -1,0 +1,19 @@
+{
+  "sign": "traffic-calming-ahead",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 063",
+  "image": {
+    "file": "traffic-calming-ahead-ie.svg",
+    "sha1": "6c8b4f8695eca9aaf725333a9b8d00af454536e9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-063.svg",
+    "author": "EthanL13",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-063.svg"
+  }
+}

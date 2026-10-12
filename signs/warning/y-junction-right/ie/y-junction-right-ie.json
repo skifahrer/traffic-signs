@@ -1,0 +1,19 @@
+{
+  "sign": "y-junction-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 005R",
+  "image": {
+    "file": "y-junction-right-ie.svg",
+    "sha1": "c6989a8ea04d568322cad5dccdd500bb97795199",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-005-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-005-R.svg"
+  }
+}

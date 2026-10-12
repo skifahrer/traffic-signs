@@ -1,0 +1,19 @@
+{
+  "sign": "motorway",
+  "category": "information",
+  "country": "ie",
+  "code": "F 330",
+  "image": {
+    "file": "motorway-ie.svg",
+    "sha1": "8493808482875598dd2e3edb3bc9ec8e75a92c3d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-330.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-330.svg"
+  }
+}

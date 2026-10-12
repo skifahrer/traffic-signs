@@ -1,0 +1,19 @@
+{
+  "sign": "soft-verges-temporary",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 074",
+  "image": {
+    "file": "soft-verges-temporary-ie.svg",
+    "sha1": "9128b1ca6c60d14c48b9902f8989988a37e05738",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-074.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-074.svg"
+  }
+}

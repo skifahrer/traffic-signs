@@ -1,0 +1,19 @@
+{
+  "sign": "signal-head-green-arrow-right",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 002 (green right turn)",
+  "image": {
+    "file": "signal-head-green-arrow-right-ie.png",
+    "sha1": "563af168bd04bea88c57d3d92e98cd24570cad62",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_002_green_right_turn.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 002 green right turn.png"
+  }
+}

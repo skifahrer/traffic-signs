@@ -1,0 +1,19 @@
+{
+  "sign": "two-stage-right-turn-cyclists",
+  "category": "information",
+  "country": "ie",
+  "code": "C 100",
+  "image": {
+    "file": "two-stage-right-turn-cyclists-ie.svg",
+    "sha1": "800eac4892c73f4cb04d4057d98306f871abea15",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_C-100.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign C-100.svg"
+  }
+}

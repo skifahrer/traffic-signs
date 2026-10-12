@@ -1,0 +1,19 @@
+{
+  "sign": "cyclist-signal-head",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 007",
+  "image": {
+    "file": "cyclist-signal-head-ie.png",
+    "sha1": "a5f1096defa1935b811d3119c123bc41a08ac048",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_007_3_aspect_cycle_signal.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 007 3 aspect cycle signal.png"
+  }
+}

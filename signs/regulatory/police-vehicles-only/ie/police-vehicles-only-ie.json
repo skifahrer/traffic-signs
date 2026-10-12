@@ -1,0 +1,19 @@
+{
+  "sign": "police-vehicles-only",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "F 261",
+  "image": {
+    "file": "police-vehicles-only-ie.svg",
+    "sha1": "ec3aae89d5ded2d8477d46b8ca3a12b4afe7cda9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-261.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-261.svg"
+  }
+}

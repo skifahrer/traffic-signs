@@ -1,0 +1,19 @@
+{
+  "sign": "taxi-rank",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 020",
+  "image": {
+    "file": "taxi-rank-ie.svg",
+    "sha1": "45bd27bc1ff121eab6add9db4ffb2bf2b2c4c672",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-020-L-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-020-L-R.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "no-pedestrians",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 038",
+  "image": {
+    "file": "no-pedestrians-ie.svg",
+    "sha1": "dc68fca114fc089a5aa974f3ed6a608e12d3d33e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-038.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-038.svg"
+  }
+}

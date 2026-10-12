@@ -1,0 +1,19 @@
+{
+  "sign": "closure-barrier-5-bars",
+  "category": "traffic-device",
+  "country": "ie",
+  "code": "W 185",
+  "image": {
+    "file": "closure-barrier-5-bars-ie.svg",
+    "sha1": "03678744c6ca86dbfc4f093f1ef4c73fbd465206",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-185.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-185.svg"
+  }
+}

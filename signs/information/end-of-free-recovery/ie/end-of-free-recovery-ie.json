@@ -1,0 +1,19 @@
+{
+  "sign": "end-of-free-recovery",
+  "category": "information",
+  "country": "ie",
+  "code": "WK 097",
+  "image": {
+    "file": "end-of-free-recovery-ie.svg",
+    "sha1": "302c1bb2160098f53dd542bee293a4f7616d2f6d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-097.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-097.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "sheep",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 152",
+  "image": {
+    "file": "sheep-ie.svg",
+    "sha1": "c19c1d9952f28f407b7b6b3a8b651fc4e5bb2b16",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-152.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-152.svg"
+  }
+}

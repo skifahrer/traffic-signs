@@ -1,0 +1,19 @@
+{
+  "sign": "authorised-vehicles-only",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "F 904",
+  "image": {
+    "file": "authorised-vehicles-only-ie.svg",
+    "sha1": "0c25fac3250c385f107b412ec080f62029d5338d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-904.svg",
+    "author": "EthanL13",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-904.svg"
+  }
+}

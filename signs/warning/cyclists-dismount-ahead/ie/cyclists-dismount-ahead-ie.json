@@ -1,0 +1,19 @@
+{
+  "sign": "cyclists-dismount-ahead",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 145",
+  "image": {
+    "file": "cyclists-dismount-ahead-ie.svg",
+    "sha1": "f2b9143b4995c5752202281e5d2ee73dd20dbba7",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-145.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-145.svg"
+  }
+}

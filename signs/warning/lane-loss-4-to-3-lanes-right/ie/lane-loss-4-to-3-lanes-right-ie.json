@@ -1,0 +1,19 @@
+{
+  "sign": "lane-loss-4-to-3-lanes-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 093R",
+  "image": {
+    "file": "lane-loss-4-to-3-lanes-right-ie.svg",
+    "sha1": "e2b0e103e7dedd4b12d266146dde2ff5fa1c3665",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-093R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-093R.svg"
+  }
+}

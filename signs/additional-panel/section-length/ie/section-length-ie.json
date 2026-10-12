@@ -1,0 +1,19 @@
+{
+  "sign": "section-length",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 002",
+  "image": {
+    "file": "section-length-ie.svg",
+    "sha1": "a5b71fbae48352af39b7bc065a9279192a9db310",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-002.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-002.svg"
+  }
+}

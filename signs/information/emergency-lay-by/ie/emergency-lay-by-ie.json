@@ -1,0 +1,19 @@
+{
+  "sign": "emergency-lay-by",
+  "category": "information",
+  "country": "ie",
+  "code": "F 803",
+  "image": {
+    "file": "emergency-lay-by-ie.svg",
+    "sha1": "4cd6bb6d3266137ec0f9ed88f508eb5ffb1a2d58",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-803.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-803.svg"
+  }
+}

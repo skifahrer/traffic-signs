@@ -1,0 +1,19 @@
+{
+  "sign": "direction-sign-showing-park-and-ride-facilities",
+  "category": "information",
+  "country": "ie",
+  "code": "F 207R",
+  "image": {
+    "file": "direction-sign-showing-park-and-ride-facilities-ie.svg",
+    "sha1": "8535f20fffd30a55d1a8073376db39f2e648a4a9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-207R.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-207R.svg"
+  }
+}

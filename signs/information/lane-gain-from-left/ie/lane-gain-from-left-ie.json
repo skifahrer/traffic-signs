@@ -1,0 +1,19 @@
+{
+  "sign": "lane-gain-from-left",
+  "category": "information",
+  "country": "ie",
+  "code": "F 300L",
+  "image": {
+    "file": "lane-gain-from-left-ie.svg",
+    "sha1": "d8c699441ed2e4173bc45da14c6c3269e875ae43",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-300L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-300L.svg"
+  }
+}

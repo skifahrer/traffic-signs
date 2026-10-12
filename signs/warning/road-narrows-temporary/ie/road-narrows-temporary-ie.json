@@ -1,0 +1,19 @@
+{
+  "sign": "road-narrows-temporary",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 034",
+  "image": {
+    "file": "road-narrows-temporary-ie.svg",
+    "sha1": "26354f57994410b24de609ff68334ce530ad763a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-034.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-034.svg"
+  }
+}

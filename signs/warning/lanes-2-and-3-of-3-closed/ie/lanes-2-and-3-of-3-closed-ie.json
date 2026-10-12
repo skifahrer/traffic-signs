@@ -1,0 +1,19 @@
+{
+  "sign": "lanes-2-and-3-of-3-closed",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 044",
+  "image": {
+    "file": "lanes-2-and-3-of-3-closed-ie.svg",
+    "sha1": "2c5b3ced2fcfc270d9f476d8cb4fe07b7bd3aa59",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-044.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-044.svg"
+  }
+}

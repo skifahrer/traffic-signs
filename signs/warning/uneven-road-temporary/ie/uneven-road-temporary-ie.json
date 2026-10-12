@@ -1,0 +1,19 @@
+{
+  "sign": "uneven-road-temporary",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 071",
+  "image": {
+    "file": "uneven-road-temporary-ie.svg",
+    "sha1": "ee2f9dc7825e6f1731c15c2276988c15a788587f",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-071.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-071.svg"
+  }
+}

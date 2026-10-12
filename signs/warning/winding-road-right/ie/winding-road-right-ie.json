@@ -1,0 +1,19 @@
+{
+  "sign": "winding-road-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 053R",
+  "image": {
+    "file": "winding-road-right-ie.svg",
+    "sha1": "9f63586cf73107a454dcdab00851a7b758d7dbb8",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-053-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-053-R.svg"
+  }
+}

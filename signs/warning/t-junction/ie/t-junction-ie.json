@@ -1,0 +1,19 @@
+{
+  "sign": "t-junction",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 016",
+  "image": {
+    "file": "t-junction-ie.svg",
+    "sha1": "5c811d0590c4e680971f096200994e2646e33bf9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-016.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-016.svg"
+  }
+}

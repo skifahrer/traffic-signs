@@ -1,0 +1,19 @@
+{
+  "sign": "safe-overtaking-of-cyclists-1m",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 071a",
+  "image": {
+    "file": "safe-overtaking-of-cyclists-1m-ie.svg",
+    "sha1": "e7967cc42cecf78e2493d68f3e52bc417f77d04d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-071a.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-071a.svg"
+  }
+}

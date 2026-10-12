@@ -1,0 +1,19 @@
+{
+  "sign": "lane-loss-3-to-2-lanes-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 092L",
+  "image": {
+    "file": "lane-loss-3-to-2-lanes-left-ie.svg",
+    "sha1": "6847418b63fde1fb8fffd06068608b50a7f3e728",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-092L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-092L.svg"
+  }
+}

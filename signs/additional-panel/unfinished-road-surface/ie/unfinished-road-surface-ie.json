@@ -1,0 +1,19 @@
+{
+  "sign": "unfinished-road-surface",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 085",
+  "image": {
+    "file": "unfinished-road-surface-ie.svg",
+    "sha1": "4af6e8fe5c0edab01bfbf2f46eca16081a0a01c6",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-085.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-085.svg"
+  }
+}

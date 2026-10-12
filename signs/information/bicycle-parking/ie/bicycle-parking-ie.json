@@ -1,0 +1,19 @@
+{
+  "sign": "bicycle-parking",
+  "category": "information",
+  "country": "ie",
+  "code": "F 206",
+  "image": {
+    "file": "bicycle-parking-ie.svg",
+    "sha1": "539670dbf53b2686f5c5342a052502ddd53425a0",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-206.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-206.svg"
+  }
+}

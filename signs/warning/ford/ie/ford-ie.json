@@ -1,0 +1,19 @@
+{
+  "sign": "ford",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 161",
+  "image": {
+    "file": "ford-ie.svg",
+    "sha1": "7477cec06880b599aabe22e2a1df9804f388fbc7",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-161.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-161.svg"
+  }
+}

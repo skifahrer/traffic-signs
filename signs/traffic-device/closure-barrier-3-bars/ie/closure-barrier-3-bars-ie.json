@@ -1,0 +1,19 @@
+{
+  "sign": "closure-barrier-3-bars",
+  "category": "traffic-device",
+  "country": "ie",
+  "code": "W 183",
+  "image": {
+    "file": "closure-barrier-3-bars-ie.svg",
+    "sha1": "3d35faebcc508505abfea4a47f3fd42d8090c0fc",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-183.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-183.svg"
+  }
+}

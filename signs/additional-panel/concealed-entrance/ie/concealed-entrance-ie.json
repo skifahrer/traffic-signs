@@ -1,0 +1,19 @@
+{
+  "sign": "concealed-entrance",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 081",
+  "image": {
+    "file": "concealed-entrance-ie.svg",
+    "sha1": "8c2bc87d757eb13dcc8bce727a796481bd26b6e1",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-081.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-081.svg"
+  }
+}

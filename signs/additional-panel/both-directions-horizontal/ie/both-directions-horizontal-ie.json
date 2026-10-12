@@ -1,0 +1,19 @@
+{
+  "sign": "both-directions-horizontal",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 005",
+  "image": {
+    "file": "both-directions-horizontal-ie.svg",
+    "sha1": "d96b1597ef4c8f7c02ad6e88e11356be5f30b846",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-005.svg",
+    "author": "EthanL13",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-005.svg"
+  }
+}

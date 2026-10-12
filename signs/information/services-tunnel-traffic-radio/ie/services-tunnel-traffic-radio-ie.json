@@ -1,0 +1,19 @@
+{
+  "sign": "services-tunnel-traffic-radio",
+  "category": "information",
+  "country": "ie",
+  "code": "F 802",
+  "image": {
+    "file": "services-tunnel-traffic-radio-ie.svg",
+    "sha1": "6c9a6b8016e41cf9b0a1e70c808076842538a987",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-802.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-802.svg"
+  }
+}

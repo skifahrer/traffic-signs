@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="602mm"
+   height="602mm"
+   viewBox="0 0 602 602"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="222.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="602mm"
+     inkscape:zoom="0.27464869"
+     inkscape:cx="566.17783"
+     inkscape:cy="853.81802"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,305)">
+    <circle
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.25729"
+       id="path31"
+       cx="301"
+       cy="-3.9999883"
+       r="300" />
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.00583"
+       id="circle1182"
+       cx="301"
+       cy="-3.9999883"
+       r="240" />
+    <path
+       id="rect846"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.780058"
+       d="M 226,-178.99979 H 345.99991 C 401.3999,-178.99979 446,-134.39968 446,-78.999692 446,-23.599698 401.3999,21.000402 345.99991,21.000402 H 285.99995 V 171.00003 H 226 Z m 59.99995,59.99996 v 80.000288 h 59.99996 c 22.16,0 40.00014,-17.84015 40.00014,-40.00015 0,-22.159988 -17.84014,-40.000138 -40.00014,-40.000138 z"
+       sodipodi:nodetypes="csssccccccsssc" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.36729"
+       id="rect1073"
+       width="60"
+       height="580"
+       x="185.66756"
+       y="-79.989273"
+       transform="rotate(-45)" />
+  </g>
+</svg>

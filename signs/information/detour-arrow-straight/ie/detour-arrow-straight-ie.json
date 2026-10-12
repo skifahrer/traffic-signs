@@ -1,0 +1,19 @@
+{
+  "sign": "detour-arrow-straight",
+  "category": "information",
+  "country": "ie",
+  "code": "WK 091 (straight)",
+  "image": {
+    "file": "detour-arrow-straight-ie.svg",
+    "sha1": "224f30bbb08da249f40bdaad97af5daba4779132",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-091B.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-091B.svg"
+  }
+}

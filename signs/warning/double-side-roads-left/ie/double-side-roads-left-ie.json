@@ -1,0 +1,19 @@
+{
+  "sign": "double-side-roads-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 008L",
+  "image": {
+    "file": "double-side-roads-left-ie.svg",
+    "sha1": "9ad989970a86b62248cf2dd46204c12bc8492615",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-008-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-008-L.svg"
+  }
+}

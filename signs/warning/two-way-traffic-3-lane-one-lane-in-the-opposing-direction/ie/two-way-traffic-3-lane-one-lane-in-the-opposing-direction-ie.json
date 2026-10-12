@@ -1,0 +1,19 @@
+{
+  "sign": "two-way-traffic-3-lane-one-lane-in-the-opposing-direction",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 082",
+  "image": {
+    "file": "two-way-traffic-3-lane-one-lane-in-the-opposing-direction-ie.svg",
+    "sha1": "957d21fa4bad3f8dd46028406d6264206d34cf3c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-082.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-082.svg"
+  }
+}

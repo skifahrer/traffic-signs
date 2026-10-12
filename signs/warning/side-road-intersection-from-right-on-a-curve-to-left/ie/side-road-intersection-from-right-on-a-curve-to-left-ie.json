@@ -1,0 +1,19 @@
+{
+  "sign": "side-road-intersection-from-right-on-a-curve-to-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 009L",
+  "image": {
+    "file": "side-road-intersection-from-right-on-a-curve-to-left-ie.svg",
+    "sha1": "60be6c3213d95add200aa86e3c135d99c896f324",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-009-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-009-L.svg"
+  }
+}

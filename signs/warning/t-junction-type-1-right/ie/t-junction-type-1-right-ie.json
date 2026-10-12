@@ -1,0 +1,19 @@
+{
+  "sign": "t-junction-type-1-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 003R",
+  "image": {
+    "file": "t-junction-type-1-right-ie.svg",
+    "sha1": "5b3069bf4dcfc855f3cf0088fc6eaadb50de74da",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-003-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-003-R.svg"
+  }
+}

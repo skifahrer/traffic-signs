@@ -1,0 +1,19 @@
+{
+  "sign": "chevron-board-1-arrow-right",
+  "category": "traffic-device",
+  "country": "ie",
+  "code": "W 061R",
+  "image": {
+    "file": "chevron-board-1-arrow-right-ie.svg",
+    "sha1": "96c688ed4271a64d331f3977fd83e213dea6314a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-061-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-061-R.svg"
+  }
+}

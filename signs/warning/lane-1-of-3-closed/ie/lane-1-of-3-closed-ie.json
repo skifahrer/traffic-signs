@@ -1,0 +1,19 @@
+{
+  "sign": "lane-1-of-3-closed",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 043",
+  "image": {
+    "file": "lane-1-of-3-closed-ie.svg",
+    "sha1": "1a7620870cc8be57621b3af3de4e5c36a0208089",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-043.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-043.svg"
+  }
+}

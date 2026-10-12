@@ -1,0 +1,19 @@
+{
+  "sign": "speed-limit-ahead-60",
+  "category": "information",
+  "country": "ie",
+  "code": "F 401",
+  "image": {
+    "file": "speed-limit-ahead-60-ie.svg",
+    "sha1": "bd267bf44e44cd35d75817a5273fda5f10bdad0a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-401-60.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-401-60.svg"
+  }
+}

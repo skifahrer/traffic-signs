@@ -1,0 +1,19 @@
+{
+  "sign": "signal-head-with-green-arrow-straight-and-left-b",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 003 (green straight and left turn 2)",
+  "image": {
+    "file": "signal-head-with-green-arrow-straight-and-left-b-ie.png",
+    "sha1": "da579b84fe29466aba8d1abfe6f3cbafc86d8672",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_003_4_aspect_with_green_straight_and_left_turn_2.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 003 4 aspect with green straight and left turn 2.png"
+  }
+}

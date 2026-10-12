@@ -1,0 +1,19 @@
+{
+  "sign": "bus-signal-head",
+  "category": "traffic-signal",
+  "country": "ie",
+  "code": "RTS 002 (bus)",
+  "image": {
+    "file": "bus-signal-head-ie.png",
+    "sha1": "c3bf212eaea7d77e7335fa6fb63e577d010dd27f",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_traffic_signal_RTS_002_bus.png",
+    "author": "Department of Transport Ireland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE traffic signal RTS 002 bus.png"
+  }
+}

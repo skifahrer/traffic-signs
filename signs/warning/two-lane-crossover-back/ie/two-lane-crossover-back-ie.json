@@ -1,0 +1,19 @@
+{
+  "sign": "two-lane-crossover-back",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 023",
+  "image": {
+    "file": "two-lane-crossover-back-ie.svg",
+    "sha1": "a13e60e9a550298bfe055eee67fdab634a3d6fbd",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-023.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-023.svg"
+  }
+}

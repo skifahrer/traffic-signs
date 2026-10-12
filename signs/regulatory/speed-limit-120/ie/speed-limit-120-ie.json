@@ -1,0 +1,19 @@
+{
+  "sign": "speed-limit-120",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 039",
+  "image": {
+    "file": "speed-limit-120-ie.svg",
+    "sha1": "762cf00abed9657e0aed91c3ae8fc85d08dce54a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-039.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-039.svg"
+  }
+}

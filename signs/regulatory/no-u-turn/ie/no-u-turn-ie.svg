@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="602mm"
+   height="602mm"
+   viewBox="0 0 602 602"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Prohibitory.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="602mm"
+     inkscape:zoom="0.27464869"
+     inkscape:cx="584.38291"
+     inkscape:cy="831.97193"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,305)">
+    <circle
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.25729"
+       id="path31"
+       cx="301"
+       cy="-3.9999883"
+       r="300" />
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.00583"
+       id="circle1182"
+       cx="301"
+       cy="-3.9999883"
+       r="240" />
+    <path
+       id="rect1497"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.414031"
+       d="M 181,171.00003 V -69.00003 c 0,-66.48 53.51991,-119.9999 119.99991,-119.9999 66.48,0 119.99991,53.5199 119.99991,119.9999 V 136.00003 H 360.99986 V -69.00003 c 0,-33.24 -26.75995,-59.99996 -59.99995,-59.99996 -33.24,0 -59.99996,26.75996 -59.99996,59.99996 v 240.00006 z"
+       sodipodi:nodetypes="csssccssscc" />
+    <path
+       id="rect2761"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.49239"
+       d="M 316,74.500312 391,186.00003 466.00014,74.500312 c -48.82133,15.35395 -101.17881,15.35395 -150.00014,0 z"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.517633"
+       id="rect1221"
+       width="60"
+       height="580"
+       x="180.01073"
+       y="-505.66754"
+       transform="rotate(45)" />
+  </g>
+</svg>

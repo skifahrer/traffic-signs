@@ -1,0 +1,19 @@
+{
+  "sign": "danger",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 170",
+  "image": {
+    "file": "danger-ie.svg",
+    "sha1": "74c1069acf468fc524dca186030db32478f9d1ae",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-170.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-170.svg"
+  }
+}

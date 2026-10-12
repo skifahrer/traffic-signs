@@ -1,0 +1,19 @@
+{
+  "sign": "staggered-junction-left-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 007LR",
+  "image": {
+    "file": "staggered-junction-left-right-ie.svg",
+    "sha1": "fbd58622c77f1867e77fb6d29c25bb46923b4cef",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-007-L-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-007-L-R.svg"
+  }
+}

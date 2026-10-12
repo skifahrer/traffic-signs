@@ -1,0 +1,19 @@
+{
+  "sign": "wild-animals",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 153",
+  "image": {
+    "file": "wild-animals-ie.svg",
+    "sha1": "6d8e37ff528bbeb69d8f4dc3d77fb4fd9900d8ac",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-153.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-153.svg"
+  }
+}

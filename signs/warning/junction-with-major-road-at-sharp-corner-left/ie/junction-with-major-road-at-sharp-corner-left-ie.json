@@ -1,0 +1,19 @@
+{
+  "sign": "junction-with-major-road-at-sharp-corner-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 018L",
+  "image": {
+    "file": "junction-with-major-road-at-sharp-corner-left-ie.svg",
+    "sha1": "2ee1f26e24bb4949a1210f2cea037da83b4ddaff",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-018-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-018-L.svg"
+  }
+}

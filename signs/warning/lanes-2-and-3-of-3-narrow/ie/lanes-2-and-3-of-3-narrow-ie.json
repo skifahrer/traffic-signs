@@ -1,0 +1,19 @@
+{
+  "sign": "lanes-2-and-3-of-3-narrow",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 107",
+  "image": {
+    "file": "lanes-2-and-3-of-3-narrow-ie.svg",
+    "sha1": "c6192ae7a667ee4e43e61489ae00ad27e2bc8d09",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-107.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-107.svg"
+  }
+}

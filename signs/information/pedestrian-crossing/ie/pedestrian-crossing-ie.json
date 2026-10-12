@@ -1,0 +1,19 @@
+{
+  "sign": "pedestrian-crossing",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 066",
+  "image": {
+    "file": "pedestrian-crossing-ie.svg",
+    "sha1": "2606d43c54024a898506c79f91993219700d258e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-066.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-066.svg"
+  }
+}

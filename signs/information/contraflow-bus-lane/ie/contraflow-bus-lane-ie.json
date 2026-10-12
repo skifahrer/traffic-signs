@@ -1,0 +1,19 @@
+{
+  "sign": "contraflow-bus-lane",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 030",
+  "image": {
+    "file": "contraflow-bus-lane-ie.svg",
+    "sha1": "c5849a64ef5e0ce4f73ae84118bd66ee6fee8bae",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-030.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-030.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "farm-animals",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 151",
+  "image": {
+    "file": "farm-animals-ie.svg",
+    "sha1": "10b916e387b9d940bbb28bbf57c2712fc1e5ce68",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-151.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-151.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "t-junction-dual-carriageway-ahead",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 022",
+  "image": {
+    "file": "t-junction-dual-carriageway-ahead-ie.svg",
+    "sha1": "b49b90e66199038a1c413ffa56dfd75a83807aae",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-022.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-022.svg"
+  }
+}

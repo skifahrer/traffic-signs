@@ -1,0 +1,19 @@
+{
+  "sign": "bus-stop",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 031",
+  "image": {
+    "file": "bus-stop-ie.svg",
+    "sha1": "67e06a0b08da47259b6e787f096a4d9a804eac56",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-031_(square).svg",
+    "author": "Transport for Ireland EthanL13",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-031 (square).svg"
+  }
+}

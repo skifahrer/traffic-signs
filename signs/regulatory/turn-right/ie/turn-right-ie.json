@@ -1,0 +1,19 @@
+{
+  "sign": "turn-right",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 005",
+  "image": {
+    "file": "turn-right-ie.svg",
+    "sha1": "7c0b04a23f7fd74d7a14dc0ca5156de52058379f",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-005.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-005.svg"
+  }
+}

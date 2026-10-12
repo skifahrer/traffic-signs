@@ -1,0 +1,19 @@
+{
+  "sign": "direction-to-airport",
+  "category": "information",
+  "country": "ie",
+  "code": "F 221L",
+  "image": {
+    "file": "direction-to-airport-ie.svg",
+    "sha1": "1396ccda2c274aed7ac32b9a6607726ff469c6ff",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-221L.svg",
+    "author": "EthanL13",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-221L.svg"
+  }
+}

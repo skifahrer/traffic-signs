@@ -1,0 +1,19 @@
+{
+  "sign": "one-lane-crossover-back",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 011",
+  "image": {
+    "file": "one-lane-crossover-back-ie.svg",
+    "sha1": "4e803523d510b0fac305f8992603fab1dfd73bf6",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-011.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-011.svg"
+  }
+}

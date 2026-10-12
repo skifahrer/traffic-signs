@@ -1,0 +1,19 @@
+{
+  "sign": "speed-limits-in-km-h",
+  "category": "information",
+  "country": "ie",
+  "code": "F 400",
+  "image": {
+    "file": "speed-limits-in-km-h-ie.svg",
+    "sha1": "11bd63bb1aebd47d8bcf5d430bb8871b95c0907c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-400.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-400.svg"
+  }
+}

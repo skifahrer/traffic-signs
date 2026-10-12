@@ -1,0 +1,19 @@
+{
+  "sign": "speed-limit-zone-30",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "F 403",
+  "image": {
+    "file": "speed-limit-zone-30-ie.svg",
+    "sha1": "85c98e63588b9a7ecf02c6f401e6eecedd4419b6",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-403.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-403.svg"
+  }
+}

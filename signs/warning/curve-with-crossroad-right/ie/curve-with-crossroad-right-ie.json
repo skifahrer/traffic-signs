@@ -1,0 +1,19 @@
+{
+  "sign": "curve-with-crossroad-right",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 011R",
+  "image": {
+    "file": "curve-with-crossroad-right-ie.svg",
+    "sha1": "fba74bea4faf20f13a0930ae8af77471bb0e69a5",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-011-R.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-011-R.svg"
+  }
+}

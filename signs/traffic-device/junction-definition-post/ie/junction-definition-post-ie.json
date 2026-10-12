@@ -1,0 +1,19 @@
+{
+  "sign": "junction-definition-post",
+  "category": "traffic-device",
+  "country": "ie",
+  "code": "F 902",
+  "image": {
+    "file": "junction-definition-post-ie.svg",
+    "sha1": "1210034a300820aff84a68bbd129d2d0d18652e7",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-902.svg",
+    "author": "EthanL13",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-902.svg"
+  }
+}

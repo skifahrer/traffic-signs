@@ -1,0 +1,19 @@
+{
+  "sign": "type-of-works",
+  "category": "additional-panel",
+  "country": "ie",
+  "code": "P 082",
+  "image": {
+    "file": "type-of-works-ie.svg",
+    "sha1": "873ae631c03d12e0ff8f98bdd95875210958f94c",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_P-082_(road_marking).svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign P-082 (road marking).svg"
+  }
+}

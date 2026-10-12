@@ -1,0 +1,19 @@
+{
+  "sign": "public-transport-lane-offside",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 029",
+  "image": {
+    "file": "public-transport-lane-offside-ie.svg",
+    "sha1": "3b3f4dfccf33a8548a594105d55c3fa03f7af488",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-029.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-029.svg"
+  }
+}

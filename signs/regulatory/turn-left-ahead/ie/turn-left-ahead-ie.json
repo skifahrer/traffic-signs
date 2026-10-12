@@ -1,0 +1,19 @@
+{
+  "sign": "turn-left-ahead",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 007",
+  "image": {
+    "file": "turn-left-ahead-ie.svg",
+    "sha1": "a512bbd4e31e85ada50f7a79368520801956ff9d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-007.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-007.svg"
+  }
+}

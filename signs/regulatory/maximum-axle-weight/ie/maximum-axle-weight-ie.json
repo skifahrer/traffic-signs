@@ -1,0 +1,19 @@
+{
+  "sign": "maximum-axle-weight",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 054",
+  "image": {
+    "file": "maximum-axle-weight-ie.svg",
+    "sha1": "22fb0bcb691f5175fb04727100e392422427a058",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-054.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-054.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "follow-me",
+  "category": "information",
+  "country": "ie",
+  "code": "WK 099",
+  "image": {
+    "file": "follow-me-ie.svg",
+    "sha1": "6eb105b81c6833d499e8573cec2d3f4614363e3e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-099.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-099.svg"
+  }
+}

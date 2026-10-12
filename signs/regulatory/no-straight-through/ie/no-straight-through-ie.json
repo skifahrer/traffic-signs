@@ -1,0 +1,19 @@
+{
+  "sign": "no-straight-through",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 011",
+  "image": {
+    "file": "no-straight-through-ie.svg",
+    "sha1": "da0a1102b7a27d9231461506b3ee32314bb7cb2d",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-011.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-011.svg"
+  }
+}

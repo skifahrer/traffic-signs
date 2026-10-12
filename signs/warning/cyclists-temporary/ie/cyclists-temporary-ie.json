@@ -1,0 +1,19 @@
+{
+  "sign": "cyclists-temporary",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 086",
+  "image": {
+    "file": "cyclists-temporary-ie.svg",
+    "sha1": "4a68357ace5dbd29daddefafa47b4d3344924a41",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-086.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-086.svg"
+  }
+}

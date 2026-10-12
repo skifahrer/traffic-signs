@@ -1,0 +1,19 @@
+{
+  "sign": "average-speed-check",
+  "category": "information",
+  "country": "ie",
+  "code": "F 402a",
+  "image": {
+    "file": "average-speed-check-ie.svg",
+    "sha1": "d306c50c1c15f422a66350b21416564487d89ba9",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-402a.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-402a.svg"
+  }
+}

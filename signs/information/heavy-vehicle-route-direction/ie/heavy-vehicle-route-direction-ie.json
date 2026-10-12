@@ -1,0 +1,19 @@
+{
+  "sign": "heavy-vehicle-route-direction",
+  "category": "information",
+  "country": "ie",
+  "code": "F 512R",
+  "image": {
+    "file": "heavy-vehicle-route-direction-ie.svg",
+    "sha1": "97d0b72becd5993a56cc292219cde169ed790942",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_F-512R.svg",
+    "author": "Government of Ireland - Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign F-512R.svg"
+  }
+}

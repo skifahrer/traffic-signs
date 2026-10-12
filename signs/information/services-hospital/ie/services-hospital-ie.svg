@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="379" height="379" fill-rule="evenodd">
+  <rect width="377" height="377" x="1" y="1" rx="38.5" ry="38.5"/>
+  <rect width="375" height="375" x="2" y="2" fill="#fff" rx="37.5" ry="37.5"/>
+  <rect width="350" height="350" x="14.5" y="14.5" fill="#115EC6" rx="25" ry="25"/>
+  <path fill="#fff" d="M89.5 64.5h50v105h100v-105h50V327h-50V207h-100v120h-50"/>
+</svg>

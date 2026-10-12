@@ -1,0 +1,19 @@
+{
+  "sign": "t-junction-dual-carriageway-ahead-with-gap",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 020",
+  "image": {
+    "file": "t-junction-dual-carriageway-ahead-with-gap-ie.svg",
+    "sha1": "3ffadc8dadb4ede9d1bfc0a3865d6d6f98c32cd2",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-020.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-020.svg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sign": "convoy-system-in-operation",
+  "category": "information",
+  "country": "ie",
+  "code": "WK 098",
+  "image": {
+    "file": "convoy-system-in-operation-ie.svg",
+    "sha1": "7ebccd52f2f502eeea38a1e5ea3e70e6a381480f",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-098.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-098.svg"
+  }
+}

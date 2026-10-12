@@ -1,0 +1,19 @@
+{
+  "sign": "single-lane-shuttle-working",
+  "category": "warning",
+  "country": "ie",
+  "code": "WK 030",
+  "image": {
+    "file": "single-lane-shuttle-working-ie.svg",
+    "sha1": "c80223a78d2e5309cacac81586f3fd647f144c0e",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_WK-030.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign WK-030.svg"
+  }
+}

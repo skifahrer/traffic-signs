@@ -1,0 +1,19 @@
+{
+  "sign": "end-of-shared-zone",
+  "category": "information",
+  "country": "ie",
+  "code": "RUS 070A",
+  "image": {
+    "file": "end-of-shared-zone-ie.svg",
+    "sha1": "5c369acde8828aa7f64630fc8f2a6d13540a9ba5",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-070A.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-070A.svg"
+  }
+}

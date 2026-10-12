@@ -1,0 +1,19 @@
+{
+  "sign": "winding-road-left",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 053L",
+  "image": {
+    "file": "winding-road-left-ie.svg",
+    "sha1": "369482820c4fec59abb186b265a024b019bb3c2a",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-053-L.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-053-L.svg"
+  }
+}

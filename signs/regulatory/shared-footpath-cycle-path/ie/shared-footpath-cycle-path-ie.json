@@ -1,0 +1,19 @@
+{
+  "sign": "shared-footpath-cycle-path",
+  "category": "regulatory",
+  "country": "ie",
+  "code": "RUS 058",
+  "image": {
+    "file": "shared-footpath-cycle-path-ie.svg",
+    "sha1": "4065b2918e64a6bd65bfe0e1fc5390fc40794417",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_RUS-058.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign RUS-058.svg"
+  }
+}

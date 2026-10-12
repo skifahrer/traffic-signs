@@ -1,0 +1,19 @@
+{
+  "sign": "quayside",
+  "category": "warning",
+  "country": "ie",
+  "code": "W 160",
+  "image": {
+    "file": "quayside-ie.svg",
+    "sha1": "6dfd07aed7f0e5a1a7ce1c54fe3b5d4a521879cd",
+    "source": "https://commons.wikimedia.org/wiki/File:IE_road_sign_W-160.svg",
+    "author": "Government of Ireland – Department of Transport",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "ie-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Ireland",
+    "file": "IE road sign W-160.svg"
+  }
+}
