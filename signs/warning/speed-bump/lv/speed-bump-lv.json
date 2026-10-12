@@ -1,0 +1,11 @@
+{
+  "sign": "speed-bump",
+  "category": "warning",
+  "country": "lv",
+  "code": "113",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "LV road sign 113.svg"
+  }
+}

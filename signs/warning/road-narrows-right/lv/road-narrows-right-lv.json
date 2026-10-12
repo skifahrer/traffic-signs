@@ -1,0 +1,11 @@
+{
+  "sign": "road-narrows-right",
+  "category": "warning",
+  "country": "lv",
+  "code": "108",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "LV road sign 108.svg"
+  }
+}

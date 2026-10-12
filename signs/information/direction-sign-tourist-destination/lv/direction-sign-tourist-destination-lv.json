@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign-tourist-destination",
+  "category": "information",
+  "country": "lv",
+  "code": "706A",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 706A.svg"
+  }
+}

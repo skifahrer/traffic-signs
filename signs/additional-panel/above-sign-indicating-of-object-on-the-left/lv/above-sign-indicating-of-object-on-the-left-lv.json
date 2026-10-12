@@ -1,0 +1,11 @@
+{
+  "sign": "above-sign-indicating-of-object-on-the-left",
+  "category": "additional-panel",
+  "country": "lv",
+  "code": "814",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://lv.wikipedia.org/wiki/Latvijas_ce%C4%BCa_z%C4%ABmes",
+    "file": "Latvia road sign 814.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "direction-board-hatched-left",
+  "category": "traffic-device",
+  "country": "lv",
+  "code": "909",
+  "source": {
+    "pipeline": "lv-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Latvia",
+    "file": "LV road sign 909.svg"
+  }
+}
