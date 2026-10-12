@@ -1,0 +1,11 @@
+{
+  "sign": "alternative-route-right-here",
+  "category": "information",
+  "country": "nl",
+  "code": "BW501",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",
+    "file": "Omlieding U15.svg"
+  }
+}

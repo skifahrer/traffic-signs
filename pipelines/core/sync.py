@@ -140,7 +140,13 @@ def _read_signs(source: Source, client: Client, options: Options, result: Result
 
     by_code: dict[str, Entry] = {}
     for entry in entries:
-        if entry.code in by_code:
+        first = by_code.get(entry.code)
+        if first and first.page and entry.page and first.page != entry.page:
+            # The same sign on a later page with another image (a variant, an older
+            # drawing): the page listed first, usually the local one, has the say.
+            log.detail(f"{entry.code}: `{entry.file}` from {entry.page} skipped, `{first.file}` from {first.page} is used")
+            continue
+        if first:
             result.error(
                 f"code {entry.code} appears twice: `{by_code[entry.code].file}` and `{entry.file}`"
                 " (add a line to corrections.csv)"

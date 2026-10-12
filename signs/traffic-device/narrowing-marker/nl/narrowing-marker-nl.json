@@ -1,0 +1,11 @@
+{
+  "sign": "narrowing-marker",
+  "category": "traffic-device",
+  "country": "nl",
+  "code": "BB13",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",
+    "file": "Nederlandse Wegenverkeersregeling 1966 figuur 81d.svg"
+  }
+}
