@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "312",
+  "image": {
+    "file": "no-motor-vehicles-or-motorcycles-lt.svg",
+    "sha1": "5082f44b413249d6cf5aa423eb92b859b7b83c0d",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_312.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

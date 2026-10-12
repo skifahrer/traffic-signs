@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "628",
+  "image": {
+    "file": "tourist-destination-direction-sign-lt.svg",
+    "sha1": "2db33a5e36a142265d146006b12a834555675488",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_628.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

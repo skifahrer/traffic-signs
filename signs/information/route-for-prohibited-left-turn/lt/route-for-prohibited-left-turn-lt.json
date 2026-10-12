@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "609",
+  "image": {
+    "file": "route-for-prohibited-left-turn-lt.svg",
+    "sha1": "6fb884e70f8294ed26f87b9a31d3d2ac32509a4f",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_609.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

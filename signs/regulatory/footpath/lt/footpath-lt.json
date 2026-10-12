@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "412",
+  "image": {
+    "file": "footpath-lt.svg",
+    "sha1": "f51dd862505f78611111b8e2807e1cdf96410b68",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_412.svg",
+    "author": "Augustasci",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

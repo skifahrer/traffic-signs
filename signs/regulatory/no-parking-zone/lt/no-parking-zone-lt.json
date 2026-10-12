@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "540",
+  "image": {
+    "file": "no-parking-zone-lt.svg",
+    "sha1": "e81d3c438eed41790aaf7c863dd665316e531748",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_540.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "504",
+  "image": {
+    "file": "end-of-one-way-road-lt.svg",
+    "sha1": "361a185b6169b945618f06f2273ed4a7701cdec6",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_504.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

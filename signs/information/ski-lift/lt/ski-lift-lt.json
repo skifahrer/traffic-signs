@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "729",
+  "image": {
+    "file": "ski-lift-lt.svg",
+    "sha1": "76361acc3a35e62fee888dcbeb0bc4a2ab47dfde",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_729.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

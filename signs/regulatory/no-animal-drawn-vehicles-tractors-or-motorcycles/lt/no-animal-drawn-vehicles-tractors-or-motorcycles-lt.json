@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "313",
+  "image": {
+    "file": "no-animal-drawn-vehicles-tractors-or-motorcycles-lt.svg",
+    "sha1": "b4cf3c3d9e67e6ecceec7ab4880e9720e66f4e0d",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_313.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

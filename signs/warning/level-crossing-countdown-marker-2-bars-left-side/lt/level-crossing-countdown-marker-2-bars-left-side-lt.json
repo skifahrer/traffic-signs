@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "144",
+  "image": {
+    "file": "level-crossing-countdown-marker-2-bars-left-side-lt.svg",
+    "sha1": "fdedf191511e8f0846e99b11cd87d04dc4e82c14",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_144.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

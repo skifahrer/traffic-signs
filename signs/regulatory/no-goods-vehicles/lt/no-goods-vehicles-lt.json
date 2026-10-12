@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "304",
+  "image": {
+    "file": "no-goods-vehicles-lt.svg",
+    "sha1": "a454e974ac283e2d7d4232c1b1d47c19783d1af5",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_304.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

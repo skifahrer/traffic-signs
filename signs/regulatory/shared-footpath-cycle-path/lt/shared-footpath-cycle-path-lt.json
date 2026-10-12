@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "413",
+  "image": {
+    "file": "shared-footpath-cycle-path-lt.svg",
+    "sha1": "eba987bfc8ac9b5ead22c5a2b1d95e3988011fab",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_413.svg",
+    "author": "Augustasci",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

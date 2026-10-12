@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "407",
+  "image": {
+    "file": "pass-on-right-lt.svg",
+    "sha1": "42e394e4235ca0069c92f9319d6f4a107e6a45bc",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_407.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

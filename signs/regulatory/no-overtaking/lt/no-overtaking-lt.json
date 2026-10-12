@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "325",
+  "image": {
+    "file": "no-overtaking-lt.svg",
+    "sha1": "780dcf414b490b0bc8b9c60ecf1c5f60e053cfd3",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_325.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

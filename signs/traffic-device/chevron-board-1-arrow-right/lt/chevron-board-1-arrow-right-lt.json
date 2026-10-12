@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lt",
   "code": "146",
+  "image": {
+    "file": "chevron-board-1-arrow-right-lt.svg",
+    "sha1": "b4b5c07febcd091de7f412574b4d7be57530d03a",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_146.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

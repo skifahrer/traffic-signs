@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "404",
+  "image": {
+    "file": "mandatory-direction-straight-or-right-lt.svg",
+    "sha1": "704a3793edcadd9d027df5e1db0aaf7605e7fa5d",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_404.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

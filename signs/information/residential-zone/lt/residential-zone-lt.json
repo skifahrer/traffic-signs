@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "552",
+  "image": {
+    "file": "residential-zone-lt.svg",
+    "sha1": "27783eb4810c3afd5d40ede4e464493d38b2737a",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_552.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

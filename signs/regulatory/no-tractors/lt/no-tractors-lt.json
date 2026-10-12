@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "306",
+  "image": {
+    "file": "no-tractors-lt.svg",
+    "sha1": "c9dea9f8c8c99b62cacf755ab614b41de9d41975",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_306.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

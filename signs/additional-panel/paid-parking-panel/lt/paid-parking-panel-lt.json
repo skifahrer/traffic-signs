@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "840a",
+  "image": {
+    "file": "paid-parking-panel-lt.svg",
+    "sha1": "9c41919ab7f45eb337e7470ed62bcb535d8b1e70",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_840a.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "733",
+  "image": {
+    "file": "vehicle-and-driver-registry-lt.svg",
+    "sha1": "83c21ee131fccfc081231c19282e25f74bb8eeba",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_733.svg",
+    "author": "Government of Lithuania.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

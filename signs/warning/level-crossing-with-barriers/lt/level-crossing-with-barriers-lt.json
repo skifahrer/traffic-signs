@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "101",
+  "image": {
+    "file": "level-crossing-with-barriers-lt.svg",
+    "sha1": "8e4451317d03c5fefc54b1c8956971b4f116a696",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_101.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

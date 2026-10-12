@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "321",
+  "image": {
+    "file": "police-check-stop-lt.svg",
+    "sha1": "35e417ec575dad605695fdb6fdbaed58e0446e6a",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_321.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

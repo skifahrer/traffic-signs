@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "513",
+  "image": {
+    "file": "additional-lane-on-the-right-begins-lt.svg",
+    "sha1": "fc8a0e7f43c7b12429c61c9a16140179293b558f",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_513.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

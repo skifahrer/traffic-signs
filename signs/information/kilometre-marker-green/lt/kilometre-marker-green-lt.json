@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "621",
+  "image": {
+    "file": "kilometre-marker-green-lt.svg",
+    "sha1": "40bd945ea2ba9a327740570fa749802ddd4ab251",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_621.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

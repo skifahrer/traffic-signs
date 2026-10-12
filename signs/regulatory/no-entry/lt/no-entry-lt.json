@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "301",
+  "image": {
+    "file": "no-entry-lt.svg",
+    "sha1": "6e24204026479e63c49b145d5b9cb36e8431e67e",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_301.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

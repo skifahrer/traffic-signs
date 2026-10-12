@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "618",
+  "image": {
+    "file": "distance-sign-lt.svg",
+    "sha1": "34175ce2557d962d745d6235f8dafba0706190ab",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_618.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

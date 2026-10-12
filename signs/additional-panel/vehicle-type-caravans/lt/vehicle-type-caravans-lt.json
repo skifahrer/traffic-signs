@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "857",
+  "image": {
+    "file": "vehicle-type-caravans-lt.svg",
+    "sha1": "b4284af63260680ab8e216dfa63d03b7b3db31a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_857.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

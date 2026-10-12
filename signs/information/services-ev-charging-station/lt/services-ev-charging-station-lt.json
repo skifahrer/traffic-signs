@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "735",
+  "image": {
+    "file": "services-ev-charging-station-lt.svg",
+    "sha1": "1f648f25fa406538a4219c9d6af64021018d0cba",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_735.svg",
+    "author": "Government of Lithuania.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

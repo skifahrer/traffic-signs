@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "545",
+  "image": {
+    "file": "end-of-speed-limit-zone-lt.svg",
+    "sha1": "cfc0a3079fb9cade60b2a9c401a6fd86b82d26cb",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_545.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

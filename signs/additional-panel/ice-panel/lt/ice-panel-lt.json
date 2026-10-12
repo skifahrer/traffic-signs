@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "848",
+  "image": {
+    "file": "ice-panel-lt.svg",
+    "sha1": "661a994de5a2812d12d328da40ad260e1fbe610f",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_848.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

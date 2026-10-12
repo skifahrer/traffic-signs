@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2250"
+   height="500"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="BY_road_sign_4.3.svg"
+   inkscape:export-filename="LT road sign 147.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#646464"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#646464"><inkscape:page
+       x="0"
+       y="0"
+       width="2250"
+       height="500"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><title
+     id="title1">4.3 Круговое движение</title><defs
+     id="defs1"><style
+       id="style1">.a{fill:#fff}</style><style
+       id="style1-9">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: red;
+      }
+    </style><style
+       id="style1-7">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: red;
+      }
+    </style></defs><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>4.3 Круговое движение</dc:title></cc:Work></rdf:RDF></metadata><rect
+     class="a"
+     x="-2249"
+     y="1"
+     width="2248"
+     height="498"
+     id="rect1"
+     transform="scale(-1,1)" /><path
+     d="M 2.0000287,2 V 498 H 2248 V 2 H 2.0000287 M 2.8652344e-5,0 H 2250 V 500 H 2.8652344e-5 Z"
+     id="path1"
+     style="fill:#646464;fill-opacity:1" /><path
+     style="fill:#e6001e;stroke-width:10.9252"
+     d="M 20.762789,250.47157 V 20.39025 H 143.2589 265.75504 L 154.08839,134.06539 C 92.671699,196.58669 42.421709,248.98065 42.421709,250.49631 c 0,1.51566 49.65185,53.27855 110.337451,115.02846 L 263.09658,477.79711 H 376.78155 490.46648 L 378.81961,364.13451 267.17275,250.47157 380.11754,135.43091 493.0623,20.39025 h 158.43689 158.4369 l -113.1119,115.14572 -113.11186,115.14573 111.77028,113.52805 111.77028,113.52771 111.67887,0.0339 c 61.42341,0 111.67894,-0.89442 111.67894,-2.02439 0,-1.12962 -49.63537,-52.5824 -110.30073,-114.33909 L 810.00925,249.12232 920.9868,135.19671 1031.9643,21.2711 l 97.5333,-0.43856 97.5332,-0.43823 112.9448,115.04066 112.9447,115.04067 -111.6469,113.6626 -111.6468,113.66294 112.3435,-0.14573 112.3435,-0.14574 L 1566.6007,364.62459 1678.8878,251.74015 1565.2591,136.06842 1451.6304,20.39025 h 159.7905 159.7906 l 112.9448,115.04066 112.9448,115.04066 -111.6469,113.66294 -111.6468,113.6626 h 112.7571 112.7571 l 111.9421,-112.77259 111.9421,-112.77259 -70.3987,-72.53238 c -38.7193,-39.89282 -89.2646,-92.0614 -112.323,-115.93067 l -41.9243,-43.39863 h 114.3536 114.3534 V 250.47157 480.55289 H 1124.0148 20.762789 Z"
+     id="path2" /></svg>

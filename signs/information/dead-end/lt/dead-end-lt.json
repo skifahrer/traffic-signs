@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "611",
+  "image": {
+    "file": "dead-end-lt.svg",
+    "sha1": "845a473130a7fe3e086b62e1cf1d56bb5e918148",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_611.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Lithuania",

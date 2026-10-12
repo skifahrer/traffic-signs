@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "601",
+  "image": {
+    "file": "advance-direction-sign-diagrammatic-lt.svg",
+    "sha1": "9e37d220dd47b6e07224e9cbfc7ce570d235b591",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_601.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

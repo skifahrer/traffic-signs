@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "131",
+  "image": {
+    "file": "wild-animals-lt.svg",
+    "sha1": "cc4b5bfe1c1e84057afba3b2d8e0138843005a24",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_131.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

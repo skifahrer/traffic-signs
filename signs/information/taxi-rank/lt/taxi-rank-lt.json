@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "549",
+  "image": {
+    "file": "taxi-rank-lt.svg",
+    "sha1": "b8382ba14626525b19d56008ead1c58cc72bf4a3",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_549.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

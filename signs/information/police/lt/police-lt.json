@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "714",
+  "image": {
+    "file": "police-lt.svg",
+    "sha1": "9e0d0bb67af23436e8eeb778482f1d8ecd6abeeb",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_714.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

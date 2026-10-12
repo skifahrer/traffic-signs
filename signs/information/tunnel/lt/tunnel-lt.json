@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "546",
+  "image": {
+    "file": "tunnel-lt.svg",
+    "sha1": "6388d5a9f6d8e43297fbf5bde91694a2715a2f3d",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_546.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "415",
+  "image": {
+    "file": "end-of-minimum-speed-lt.svg",
+    "sha1": "20f279fe46c0f3015b0c7403e0032944fa80bf6e",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_415.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

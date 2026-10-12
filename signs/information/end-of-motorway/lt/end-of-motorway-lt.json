@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "502",
+  "image": {
+    "file": "end-of-motorway-lt.svg",
+    "sha1": "2ffab7f0cda8e6522d2b85ea549a64883b9e5ebf",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_502.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

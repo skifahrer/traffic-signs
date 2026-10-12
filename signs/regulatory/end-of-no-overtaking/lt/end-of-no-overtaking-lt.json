@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "326",
+  "image": {
+    "file": "end-of-no-overtaking-lt.svg",
+    "sha1": "6125da2bc89b50658a8252de29f2f2530691a5c6",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_326.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

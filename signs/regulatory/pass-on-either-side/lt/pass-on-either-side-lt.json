@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "409",
+  "image": {
+    "file": "pass-on-either-side-lt.svg",
+    "sha1": "e03261d34e54d5c22c8c573dfe4e9ddef86a0ca0",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_409.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

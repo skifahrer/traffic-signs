@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "320a",
+  "image": {
+    "file": "customs-stop-lithuanian-and-belarusian-lt.svg",
+    "sha1": "7d668c44632fa9dc344543cfa4d0a33e40968395",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_320a.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

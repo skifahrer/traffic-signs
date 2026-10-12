@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1059.5"
+   height="704.5"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="LT road sign 201.svg"
+   xml:space="preserve"
+   inkscape:export-filename="LT road sign 518.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs3"><style
+       id="style1">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #0d69e1;
+      }
+    </style><style
+       id="style1-1">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #0d69e1;
+      }
+    </style><style
+       id="style1-7">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #0d69e1;
+      }
+    </style></defs><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#373737"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#373737"><inkscape:page
+       x="0"
+       y="0"
+       width="1059.5"
+       height="704.5"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><title
+     id="title1">1.3.1 Однопутная железная дорога</title><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>1.3.1 Однопутная железная дорога</dc:title></cc:Work></rdf:RDF></metadata><g
+     id="g1"
+     transform="translate(2.2499943,2.2499921)"
+     style="stroke:#cccccc;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1"><rect
+       class="a"
+       x="1"
+       y="1"
+       width="1053"
+       height="698"
+       rx="33.119999"
+       id="rect1"
+       style="stroke:#cccccc;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1" /><path
+       d="M 1020.88,2 A 32.16,32.16 0 0 1 1053,34.12 V 665.88 A 32.16,32.16 0 0 1 1020.88,698 H 34.12 A 32.16,32.16 0 0 1 2,665.88 V 34.12 A 32.16,32.16 0 0 1 34.12,2 h 986.76 m 0,-2 H 34.12 A 34.13,34.13 0 0 0 0,34.12 V 665.88 A 34.13,34.13 0 0 0 34.12,700 h 986.76 A 34.13,34.13 0 0 0 1055,665.88 V 34.12 A 34.13,34.13 0 0 0 1020.88,0 Z"
+       id="path1"
+       style="stroke:#cccccc;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1" /></g><path
+     class="b"
+     d="M 1013.62,22.249992 H 713.24999 v 68 h -23 v -68 h -322 V 278.24999 h -23 V 22.249992 h -126 V 221.24999 h 63 l -97,166 -96.999996,-166 H 151.24999 V 22.249992 H 45.879994 a 20.63,20.63 0 0 0 -20.63,20.63 V 661.61995 a 20.63,20.63 0 0 0 20.63,20.63 H 161.24999 l 0.4,-33.64 a 103,103 0 0 1 40.72,-80.81 l 273.39,-207.54996 a 46.79,46.79 0 0 0 18.49,-37.22 v -87.78 h -62 l 97,-165.999998 97,165.999998 h -61 l 0.59,85.09 a 117.56,117.56 0 0 1 -46.53,94.5 l -272.56,206.65996 a 40.17,40.17 0 0 0 -15.9,31.2 l -0.6,29.55 h 273 l 0.4,-33.64 a 103,103 0 0 1 40.72,-80.81 L 817.76,360.24999 a 46.79,46.79 0 0 0 18.49,-37.22 v -87.78 h -61 l 97,-165.999998 97,165.999998 h -62 l 0.59,85.09 a 117.56,117.56 0 0 1 -46.53,94.5 L 588.74999,621.49995 a 40.17,40.17 0 0 0 -15.9,31.2 l -0.6,29.55 H 1013.62 a 20.63,20.63 0 0 0 20.63,-20.63 V 42.879992 a 20.63,20.63 0 0 0 -20.63,-20.63 z M 712.74999,277.24999 h -23 v -70 h 23 z m 0,-93.5 h -23 v -70 h 23 z"
+     id="path2"
+     style="fill:#1061e2;fill-opacity:1" /></svg>

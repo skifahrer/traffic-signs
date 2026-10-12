@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "726",
+  "image": {
+    "file": "fishing-place-lt.svg",
+    "sha1": "d842b1efa27a9e936440b0f70819bee290eec343",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_726.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

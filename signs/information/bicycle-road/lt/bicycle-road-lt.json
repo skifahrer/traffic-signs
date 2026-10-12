@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "559",
+  "image": {
+    "file": "bicycle-road-lt.svg",
+    "sha1": "5fea33453446be6eade0884b897f35213a0b1a29",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_559.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

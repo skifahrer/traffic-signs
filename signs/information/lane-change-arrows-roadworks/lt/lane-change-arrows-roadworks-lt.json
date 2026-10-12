@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "627",
+  "image": {
+    "file": "lane-change-arrows-roadworks-lt.svg",
+    "sha1": "4ed6675b75c7228a87163973cc4021b62bd793ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_627.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

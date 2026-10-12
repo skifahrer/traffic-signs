@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "127",
+  "image": {
+    "file": "pedestrian-crossing-ahead-lt.svg",
+    "sha1": "ae6bef2102ddf2c0f40ba503b1506a5c6e4234de",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_127.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

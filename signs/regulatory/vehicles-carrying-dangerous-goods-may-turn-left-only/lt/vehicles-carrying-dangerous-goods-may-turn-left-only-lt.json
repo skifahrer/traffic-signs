@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "418",
+  "image": {
+    "file": "vehicles-carrying-dangerous-goods-may-turn-left-only-lt.svg",
+    "sha1": "d88fa5517e504a2f7027a81670a82a67c0cf5210",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_418.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

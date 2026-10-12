@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "104",
+  "image": {
+    "file": "quayside-lt.svg",
+    "sha1": "e161dae1c294544e9722c100c927ff87eb49f519",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_104.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

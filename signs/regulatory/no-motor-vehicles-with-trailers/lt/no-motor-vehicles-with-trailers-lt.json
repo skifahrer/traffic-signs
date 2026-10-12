@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "307",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-lt.svg",
+    "sha1": "7b848054087847981ac5cfb4420a27e1b2e6fae3",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_307.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

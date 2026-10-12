@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "720",
+  "image": {
+    "file": "airport-lt.svg",
+    "sha1": "0804bd7ff84b721678ee43d704811329ae1accb7",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_720.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

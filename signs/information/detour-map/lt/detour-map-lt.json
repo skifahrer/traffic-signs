@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "624",
+  "image": {
+    "file": "detour-map-lt.svg",
+    "sha1": "f972afb246aed3ab118c96c8b87e02632b4b0ad8",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_624.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

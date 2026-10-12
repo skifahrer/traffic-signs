@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "841",
+  "image": {
+    "file": "dangerous-verge-panel-lt.svg",
+    "sha1": "a39c0a8aaf1b6f0710332b9d5e29feaf8903f9c9",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_841.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

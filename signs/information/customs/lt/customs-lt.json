@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "719",
+  "image": {
+    "file": "customs-lt.svg",
+    "sha1": "c1493d0f9df9924cb744c66f59757467d560239c",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_719.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

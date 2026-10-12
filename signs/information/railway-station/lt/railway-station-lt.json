@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "731",
+  "image": {
+    "file": "railway-station-lt.svg",
+    "sha1": "19daf9cba25ba4d9fec0b5ce067db22626497a10",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_731.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "333",
+  "image": {
+    "file": "no-parking-lt.svg",
+    "sha1": "1624c9a89924a4a8908c0d9f06d6145875ad95f2",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_333.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

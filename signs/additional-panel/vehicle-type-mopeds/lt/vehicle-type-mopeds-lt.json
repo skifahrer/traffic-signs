@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "852",
+  "image": {
+    "file": "vehicle-type-mopeds-lt.svg",
+    "sha1": "d864591af0476e9c7ff22cc9f133f3a915e49d79",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_852.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Lithuania",

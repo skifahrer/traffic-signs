@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "851",
+  "image": {
+    "file": "fuel-and-energy-types-panel-lt.svg",
+    "sha1": "9fb83e91ec5908665fef43cd4e27b3e45dbc08b0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_851.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

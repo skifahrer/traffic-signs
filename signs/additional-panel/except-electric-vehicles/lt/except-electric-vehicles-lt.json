@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "855",
+  "image": {
+    "file": "except-electric-vehicles-lt.svg",
+    "sha1": "e11b97bd198148348741516c42fff308853a9fd2",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_855.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

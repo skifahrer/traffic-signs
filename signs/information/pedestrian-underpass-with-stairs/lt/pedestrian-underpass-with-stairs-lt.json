@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "535",
+  "image": {
+    "file": "pedestrian-underpass-with-stairs-lt.svg",
+    "sha1": "2864c9757d237a6627147fa75415d5fcb0309416",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_535.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

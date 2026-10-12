@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "810",
+  "image": {
+    "file": "above-sign-indicating-where-stopping-and-parking-prohibited-7-2-6-lt.svg",
+    "sha1": "cefa47e9b2713c59d2497a06bec5018196485f73",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_810.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

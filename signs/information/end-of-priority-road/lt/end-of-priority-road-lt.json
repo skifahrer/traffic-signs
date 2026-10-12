@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "202",
+  "image": {
+    "file": "end-of-priority-road-lt.svg",
+    "sha1": "06a33f95ae765e7d2c2814265086c84bdbeb563e",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_202.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

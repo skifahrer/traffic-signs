@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "635",
+  "image": {
+    "file": "european-union-country-border-lt.svg",
+    "sha1": "ecd7a640e5f1b35dbd1f476b3295e17374a8fc6a",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_635.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "406",
+  "image": {
+    "file": "mandatory-direction-left-or-right-lt.svg",
+    "sha1": "0e423ff8cb02f9a63ac931c89419bff8d269e90f",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_406.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

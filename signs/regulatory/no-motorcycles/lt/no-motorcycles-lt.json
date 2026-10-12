@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "305",
+  "image": {
+    "file": "no-motorcycles-lt.svg",
+    "sha1": "f64689930a7579ebd625b3b856c7db6ecc5d4da1",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_305.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

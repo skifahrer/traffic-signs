@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "315",
+  "image": {
+    "file": "maximum-axle-weight-lt.svg",
+    "sha1": "36e1cc075a656dd05b34d86798a5c1c837928933",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_315.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

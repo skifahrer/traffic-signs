@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "536",
+  "image": {
+    "file": "pedestrian-underpass-with-stairs-left-side-lt.svg",
+    "sha1": "7781f8d754e21d980750a0fcece9cd2e1f8ecb54",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_536.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

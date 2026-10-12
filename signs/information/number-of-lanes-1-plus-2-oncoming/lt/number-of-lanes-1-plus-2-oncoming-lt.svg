@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1402.5"
+   height="702.5"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="LT road sign 201.svg"
+   xml:space="preserve"
+   inkscape:export-filename="LT road sign 516.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs3"><style
+       id="style1">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #0d69e1;
+      }
+    </style><style
+       id="style1-1">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #0d69e1;
+      }
+    </style></defs><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#373737"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#373737"><inkscape:page
+       x="0"
+       y="0"
+       width="1402.5"
+       height="702.5"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><title
+     id="title1">1.3.1 Однопутная железная дорога</title><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>1.3.1 Однопутная железная дорога</dc:title></cc:Work></rdf:RDF></metadata><rect
+     ry="45"
+     rx="45"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     id="rect7667"
+     width="1400"
+     height="700"
+     x="1.25"
+     y="1.25" /><rect
+     y="2.25"
+     x="2.25"
+     height="698"
+     width="1398"
+     id="rect7101"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#cccccc;stroke-width:4.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+     rx="44"
+     ry="44" /><path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1061e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.543;marker:none;enable-background:accumulate"
+     d="m 46.249999,21.249984 c -13.85,0 -25,11.15 -25,25 V 656.24997 c 0,13.85 11.15,25 25,25 H 467.90625 v -85 H 491.25 v 85 h 420 V 21.249984 h -175 V 467.90623 h 58.34375 L 701.25,631.24997 607.90625,467.90623 H 666.25 V 21.249984 h -175 V 106.24998 H 467.90625 V 21.249984 H 281.25 V 467.90623 h 58.34375 L 246.25,631.24997 152.90625,467.90623 H 211.25 V 21.249984 Z m 888.343751,0 V 681.24997 H 1121.25 V 234.59373 h -58.3438 L 1156.25,71.249984 1249.5938,234.59373 H 1191.25 v 446.65624 h 165 c 13.85,0 25,-11.15 25,-25 V 46.249984 c 0,-13.85 -11.15,-25 -25,-25 z M 467.90625,129.59373 H 491.25 v 70 h -23.34375 z m 0,93.3125 H 491.25 v 70 h -23.34375 z m 0,93.34375 H 491.25 v 70 h -23.34375 z m 0,93.34375 H 491.25 v 70 h -23.34375 z m 0,93.3125 H 491.25 v 70.00004 h -23.34375 z"
+     id="rect9536" /></svg>

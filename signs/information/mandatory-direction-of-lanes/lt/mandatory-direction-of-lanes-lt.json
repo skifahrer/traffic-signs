@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "507",
+  "image": {
+    "file": "mandatory-direction-of-lanes-lt.svg",
+    "sha1": "18a7264b2f77d0cea6fc0a6a6a6716c4c64d8e28",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_507.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

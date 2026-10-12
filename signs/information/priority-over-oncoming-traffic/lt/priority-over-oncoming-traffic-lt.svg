@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="680.1687"
+   height="680.16876"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="RU_road_sign_2.7.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <rect
+         x="20"
+         y="20"
+         width="660"
+         height="660"
+         rx="25"
+         ry="25"
+         id="rect4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <rect
+         x="20"
+         y="20"
+         width="660"
+         height="660"
+         rx="25"
+         ry="25"
+         id="rect5" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="680.1687"
+       height="680.16876"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">2.7 Преимущество перед встречным движением</title>
+  <rect
+     style="fill:#ffffff;stroke-width:0.968211"
+     x="1.210269"
+     y="1.210268"
+     width="677.74817"
+     height="677.74817"
+     rx="43.569523"
+     ry="43.569527"
+     id="rect1" />
+  <rect
+     style="fill:none;stroke:#cccccc;stroke-width:4.35696;stroke-dasharray:none;stroke-opacity:1"
+     x="2.1784801"
+     y="2.1784801"
+     width="675.81177"
+     height="675.81177"
+     rx="42.601315"
+     ry="42.601315"
+     id="rect2" />
+  <path
+     style="fill:#1061e2;fill-opacity:1;stroke-width:1.16667"
+     d="M 0,0 V 700.00002 H 373.33334 V 373.33334 h -58.33333 l 93.33333,-163.33333 93.33334,163.33333 H 443.33335 V 700.00002 H 700.00002 V 0 H 338.33334 v 163.33334 h 58.33334 L 303.33334,326.66668 210.00001,163.33334 h 58.33333 V 0 Z"
+     id="path3"
+     clip-path="url(#clipPath5)"
+     transform="matrix(0.96821169,0,0,0.96821168,1.2102679,1.2102678)" />
+  <path
+     style="fill:#e6001e;fill-opacity:1;stroke-width:1.16667"
+     d="M 280.00001,0 V 175 H 230.10167 L 303.33334,303.14668 376.56501,175 H 326.66668 V 0 Z"
+     id="path4"
+     clip-path="url(#clipPath4)"
+     transform="matrix(0.96821169,0,0,0.96821168,1.2102679,1.2102678)" />
+</svg>

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "522a",
+  "image": {
+    "file": "lane-for-joining-traffic-seen-from-side-road-lt.svg",
+    "sha1": "a6076f3d8d302aa9cb5fa7a41fec09b9a4a19701",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_522a.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

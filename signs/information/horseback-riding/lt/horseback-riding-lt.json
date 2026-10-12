@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "728",
+  "image": {
+    "file": "horseback-riding-lt.svg",
+    "sha1": "e2ad4795d9bce1a72065e4b3196012ed2ddb2992",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_728.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

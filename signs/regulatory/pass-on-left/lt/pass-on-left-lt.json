@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "408",
+  "image": {
+    "file": "pass-on-left-lt.svg",
+    "sha1": "38a856656aa656bd42873ebca7a7005e285f6f31",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_408.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "529",
+  "image": {
+    "file": "parking-time-limit-lt.svg",
+    "sha1": "74252e2b89eba4d44965d9ac1db9c05554119bca",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_529.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

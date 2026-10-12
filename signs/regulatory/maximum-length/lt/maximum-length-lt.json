@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "318",
+  "image": {
+    "file": "maximum-length-lt.svg",
+    "sha1": "dfd4668ed56b8f77ffbbf24f7b2c3a7d9b6bbdd8",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_318.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

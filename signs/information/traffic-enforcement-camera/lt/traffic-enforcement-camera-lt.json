@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "636",
+  "image": {
+    "file": "traffic-enforcement-camera-lt.svg",
+    "sha1": "0dc577659c315bba9d090687f8033aef3b228f60",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_636.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

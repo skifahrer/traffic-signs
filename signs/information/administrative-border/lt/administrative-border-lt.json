@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "615",
+  "image": {
+    "file": "administrative-border-lt.svg",
+    "sha1": "5549a4462d8af8ebec8dcce71f46510ada48d4b4",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_615.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

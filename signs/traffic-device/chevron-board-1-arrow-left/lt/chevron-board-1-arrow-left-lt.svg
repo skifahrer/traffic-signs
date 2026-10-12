@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2250"
+   height="500"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="BY_road_sign_4.3.svg"
+   inkscape:export-filename="LT road sign 146.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#646464"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#646464"><inkscape:page
+       x="0"
+       y="0"
+       width="2250"
+       height="500"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><title
+     id="title1">4.3 Круговое движение</title><defs
+     id="defs1"><style
+       id="style1">.a{fill:#fff}</style><style
+       id="style1-9">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: red;
+      }
+    </style><style
+       id="style1-7">
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: red;
+      }
+    </style></defs><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>4.3 Круговое движение</dc:title></cc:Work></rdf:RDF></metadata><g
+     id="g12"
+     transform="matrix(-1,0,0,1,1298.0909,-295)"><rect
+       class="a"
+       x="-950.90912"
+       y="296"
+       width="2248"
+       height="498"
+       id="rect1" /><path
+       d="M 1296.0909,297 V 793 H -949.90909 V 297 H 1296.0909 m 2,-2 H -951.90909 V 795 H 1298.0909 Z"
+       id="path1"
+       style="fill:#646464;fill-opacity:1" /><path
+       style="fill:#e6001e;stroke-width:11.001"
+       d="m -933.27272,543.94631 v -232.6427 h 52.2731 52.27311 l 112.64168,115.62489 112.64168,115.62475 -112.64168,115.6251 -112.64168,115.62475 h 112.65393 112.65398 l 111.98749,-113.06173 c 61.59312,-62.18414 111.98752,-114.51922 111.98752,-116.30021 0,-1.78099 -50.38889,-54.96149 -111.97524,-118.17897 L -603.39409,311.32417 h 160.17607 160.17607 l 112.64168,115.62489 112.641686,115.62475 -112.641686,115.6251 -112.64168,115.62476 h 113.99926 113.999261 L 56.816466,659.05119 168.67639,544.27907 56.828621,428.49808 -55.019186,312.71726 103.77323,311.99797 262.56567,311.27873 375.24993,426.92212 487.93419,542.56559 375.2884,658.1948 262.64264,773.82367 H 375.5673 488.49192 l 111.7168,-113.10046 c 61.44426,-62.20539 111.71681,-114.54458 111.71681,-116.30912 0,-1.76454 -50.38885,-54.93168 -111.97523,-118.14912 l -111.97523,-114.9408 160.16381,0.44327 160.16378,0.44331 111.28424,115.19406 111.2842,115.19402 -110.60549,113.53534 c -60.83304,62.44459 -110.6055,114.47022 -110.6055,115.61242 0,1.14255 50.31135,2.07708 111.80302,2.07708 h 111.80307 l 111.4932,-113.53534 c 61.3213,-62.44425 111.95,-114.62786 112.5083,-115.96369 0.5583,-1.33548 -49.5252,-54.30728 -111.2965,-117.71447 l -112.3115,-115.286 h 122.8346 122.8346 v 232.6427 232.64291 H 173.02809 -933.27272 Z"
+       id="path1-7" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12"
+       width="224.86772"
+       height="11.640212"
+       x="-828.04236"
+       y="773.54498" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.93095;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12-3"
+       width="227.51323"
+       height="11.111112"
+       x="-282.68784"
+       y="773.41803" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.0094;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12-6"
+       width="225.92592"
+       height="11.640212"
+       x="262.80957"
+       y="773.30157" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12-8"
+       width="224.86772"
+       height="11.640212"
+       x="809.9577"
+       y="771.54498" /></g></svg>

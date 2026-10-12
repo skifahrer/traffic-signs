@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "518",
+  "image": {
+    "file": "number-of-lanes-2-plus-1-oncoming-lt.svg",
+    "sha1": "e21f3be75786a92fb50822a92bfb38fa683da1b3",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_518.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

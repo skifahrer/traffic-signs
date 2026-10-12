@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "854",
+  "image": {
+    "file": "electric-vehicles-charging-only-lt.svg",
+    "sha1": "a565f83db3ca4b00a4c937739535a81dafdb9101",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_854.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

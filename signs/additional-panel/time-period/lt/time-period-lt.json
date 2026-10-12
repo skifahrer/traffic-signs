@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "826",
+  "image": {
+    "file": "time-period-lt.svg",
+    "sha1": "e2d9bd6a51c68c2a0cb6f0cb061d512f293dade6",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_826.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

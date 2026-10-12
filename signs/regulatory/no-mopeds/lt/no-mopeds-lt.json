@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "337",
+  "image": {
+    "file": "no-mopeds-lt.svg",
+    "sha1": "f1d5a097173cb90baa70fa508d28719a7d2c306f",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_337.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

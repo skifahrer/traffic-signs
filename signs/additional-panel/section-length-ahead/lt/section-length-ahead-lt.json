@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "806",
+  "image": {
+    "file": "section-length-ahead-lt.svg",
+    "sha1": "9d336214dc72cf103ae052f220df78d61d077535",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_806.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

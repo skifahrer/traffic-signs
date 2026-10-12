@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "339",
+  "image": {
+    "file": "no-vehicles-carrying-water-pollutants-lt.svg",
+    "sha1": "9bc96beae420ecb13066036651fddd396fed2cba",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_339.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

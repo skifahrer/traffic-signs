@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "322",
+  "image": {
+    "file": "no-right-turn-lt.svg",
+    "sha1": "59568f5c11d924c84cd08f0a70a350d13183c0b1",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_322.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

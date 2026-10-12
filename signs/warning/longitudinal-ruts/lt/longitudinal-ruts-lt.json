@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "150",
+  "image": {
+    "file": "longitudinal-ruts-lt.svg",
+    "sha1": "935a7f97ef9a9adf9d6f7df2cd46c2c56ecd637b",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_150.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "828",
+  "image": {
+    "file": "working-days-time-lt.svg",
+    "sha1": "4ec9f7c2a4d4d3e41e2547af0886579f1836b380",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_828.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "532",
+  "image": {
+    "file": "park-and-ride-lt.svg",
+    "sha1": "9a4a77d15839511ebf2859e7e139198b6bf07660",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_532.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

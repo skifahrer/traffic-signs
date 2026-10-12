@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "137",
+  "image": {
+    "file": "danger-lt.svg",
+    "sha1": "47ad2f1fad328d01c8c261ee8c357af19a349684",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_137.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

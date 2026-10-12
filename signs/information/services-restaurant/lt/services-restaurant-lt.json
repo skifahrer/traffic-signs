@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "707",
+  "image": {
+    "file": "services-restaurant-lt.svg",
+    "sha1": "abe8bcd03fd34950a6413749b61f5e98530c2eaa",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_707.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

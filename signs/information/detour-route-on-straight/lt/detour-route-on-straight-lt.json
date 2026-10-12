@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "626",
+  "image": {
+    "file": "detour-route-on-straight-lt.svg",
+    "sha1": "63e0b13dd2f5daf0151658713ffdcbc06e830d56",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_626.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

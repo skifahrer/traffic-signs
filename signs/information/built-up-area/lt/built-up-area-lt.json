@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "550",
+  "image": {
+    "file": "built-up-area-lt.svg",
+    "sha1": "ab48a5cb5e12ced7191e6618259fcfdd8dd659d4",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_550.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

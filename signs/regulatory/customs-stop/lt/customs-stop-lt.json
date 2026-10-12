@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "320",
+  "image": {
+    "file": "customs-stop-lt.svg",
+    "sha1": "2b0a708a2ff32ea85d0b2948b178cca1f58a7910",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_320.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

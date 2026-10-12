@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "625",
+  "image": {
+    "file": "detour-route-on-straight-with-closed-road-lt.svg",
+    "sha1": "a480b7c2d152864e6dbab360efd3ef1f0022da90",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_625.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "527",
+  "image": {
+    "file": "u-turn-place-lt.svg",
+    "sha1": "d45be89b064f20caf6664ff59e9ab56c2c3e078d",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_527.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

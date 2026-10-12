@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "308",
+  "image": {
+    "file": "no-animal-drawn-vehicles-lt.svg",
+    "sha1": "246e0a5b1d18977df8095c62adf9b7371e1d1e80",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_308.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

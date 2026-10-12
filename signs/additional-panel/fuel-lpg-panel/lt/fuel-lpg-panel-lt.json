@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "850",
+  "image": {
+    "file": "fuel-lpg-panel-lt.svg",
+    "sha1": "e0d8d27603fa3036f04f9a3a06b91da387ae0627",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_850.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

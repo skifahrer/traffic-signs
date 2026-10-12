@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "715",
+  "image": {
+    "file": "services-toilets-lt.svg",
+    "sha1": "c4b20fe5925fe69b4bc7c4a17451376edb4c23e0",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_715.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

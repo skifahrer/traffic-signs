@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "411",
+  "image": {
+    "file": "cycle-path-lt.svg",
+    "sha1": "95a703fcaec808d69ae7df3e72b38b3e8ced7d57",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_411.svg",
+    "author": "Augustasci",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

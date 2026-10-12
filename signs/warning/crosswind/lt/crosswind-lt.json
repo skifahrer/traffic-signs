@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "lt",
   "code": "133",
+  "image": {
+    "file": "crosswind-lt.svg",
+    "sha1": "ecf0b857ea26c299edb23e5c36a777630ccb66d5",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_133.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

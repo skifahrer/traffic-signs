@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "338",
+  "image": {
+    "file": "no-vehicles-carrying-explosives-lt.svg",
+    "sha1": "01a34d931093bee8adf0f5049ed7f31d89727515",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_338.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

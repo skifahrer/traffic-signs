@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "542",
+  "image": {
+    "file": "speed-limit-zone-lt.svg",
+    "sha1": "0d1236315035345b27ae202a6250267d45d5dc2b",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_542.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "416",
+  "image": {
+    "file": "vehicles-carrying-dangerous-goods-may-proceed-straight-ahead-lt.svg",
+    "sha1": "d3f50ba1b4913eb15cc59710736c78ce7fae0c77",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_416.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

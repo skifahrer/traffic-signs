@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "205",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-lt.svg",
+    "sha1": "eb6560edd7dbfe692b436804fe716af26d961c53",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_205.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

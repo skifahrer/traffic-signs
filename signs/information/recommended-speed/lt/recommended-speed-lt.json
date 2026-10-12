@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "539",
+  "image": {
+    "file": "recommended-speed-lt.svg",
+    "sha1": "c36166fb55cfd26dd08ae876277e3898bab2ced4",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_539_(50).svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

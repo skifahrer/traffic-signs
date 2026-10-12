@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "521",
+  "image": {
+    "file": "additional-lane-on-the-right-begins-with-restriction-lt.svg",
+    "sha1": "d49cc2b7976d59893b23d141c9a5a71bc70d2518",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_521.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

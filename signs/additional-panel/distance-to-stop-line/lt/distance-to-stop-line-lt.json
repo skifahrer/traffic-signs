@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "804",
+  "image": {
+    "file": "distance-to-stop-line-lt.svg",
+    "sha1": "f6995087c4bf8681b3671327bbd295bbf618ba5e",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_804.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

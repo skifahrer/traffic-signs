@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "311",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-lt.svg",
+    "sha1": "1ffd31b9636fdf7c58d6a5e99334eb84c819ac9a",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_311.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

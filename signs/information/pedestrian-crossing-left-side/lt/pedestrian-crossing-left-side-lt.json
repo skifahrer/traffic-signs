@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "534",
+  "image": {
+    "file": "pedestrian-crossing-left-side-lt.svg",
+    "sha1": "936be397433afa12e78bb18585563e8fdf8544d9",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_534.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

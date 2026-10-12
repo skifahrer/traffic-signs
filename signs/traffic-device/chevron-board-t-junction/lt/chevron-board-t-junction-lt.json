@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "lt",
   "code": "148",
+  "image": {
+    "file": "chevron-board-t-junction-lt.svg",
+    "sha1": "0c294938aeed9e9a1be337aaaf47b5ae452585ef",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_148.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

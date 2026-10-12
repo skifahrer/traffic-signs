@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "603",
+  "image": {
+    "file": "advance-direction-sign-with-restriction-lt.svg",
+    "sha1": "be0091de4faeb1103633260c3bd33a7538e0dacd",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_603.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

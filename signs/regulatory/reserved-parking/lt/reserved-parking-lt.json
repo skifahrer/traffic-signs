@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "531",
+  "image": {
+    "file": "reserved-parking-lt.svg",
+    "sha1": "4993310376e952aefaf8858dbb482ea77e671ebf",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_531.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

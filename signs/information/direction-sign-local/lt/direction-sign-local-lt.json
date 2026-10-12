@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "607",
+  "image": {
+    "file": "direction-sign-local-lt.svg",
+    "sha1": "e719f3afc85362478cdd0b9b8ea3bce176025484",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_607.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

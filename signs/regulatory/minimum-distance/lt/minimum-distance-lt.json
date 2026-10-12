@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "319",
+  "image": {
+    "file": "minimum-distance-lt.svg",
+    "sha1": "a321e99a177ac67a7f69444ae873187d1bfa95bb",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_319.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

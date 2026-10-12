@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "340",
+  "image": {
+    "file": "no-personal-transporters-lt.svg",
+    "sha1": "01110e0e3422a2c596ad0c5cf926de11dba08aeb",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_340.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

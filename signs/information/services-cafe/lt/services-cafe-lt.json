@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "708",
+  "image": {
+    "file": "services-cafe-lt.svg",
+    "sha1": "ae07e8b451892ceac33201aa20d4599bd93da365",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_708.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

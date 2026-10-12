@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "616",
+  "image": {
+    "file": "street-name-crossing-street-lt.svg",
+    "sha1": "06eeb6cb3b69f9776e4ef88c0282f8a276314da1",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_616.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

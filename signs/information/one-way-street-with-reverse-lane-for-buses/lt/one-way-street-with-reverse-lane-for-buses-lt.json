@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "524",
+  "image": {
+    "file": "one-way-street-with-reverse-lane-for-buses-lt.svg",
+    "sha1": "fde920b6ef2e80a67bc01f6a4af403dc7a2a83ae",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_524.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

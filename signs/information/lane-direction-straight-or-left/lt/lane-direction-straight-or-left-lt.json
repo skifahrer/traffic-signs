@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "512",
+  "image": {
+    "file": "lane-direction-straight-or-left-lt.svg",
+    "sha1": "a7ed1625a9cfab66f08d0f23af9ed41b455597a0",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_512.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

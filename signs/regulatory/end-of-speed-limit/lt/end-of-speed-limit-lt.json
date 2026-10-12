@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "330",
+  "image": {
+    "file": "end-of-speed-limit-lt.svg",
+    "sha1": "2e28179601d7694fec70e24a0427f2a279e326aa",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_330-50.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

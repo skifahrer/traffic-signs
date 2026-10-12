@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "556",
+  "image": {
+    "file": "end-of-motor-road-lt.svg",
+    "sha1": "373fe0209afc2b3a739136964a079d42316bd3f6",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_556.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

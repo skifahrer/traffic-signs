@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "636a",
+  "image": {
+    "file": "speed-camera-lt.svg",
+    "sha1": "e50680efa3e11461f76410936618ba1530640784",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_636a.svg",
+    "author": "Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

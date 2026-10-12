@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "604C",
+  "image": {
+    "file": "advance-direction-sign-stacked-lt.svg",
+    "sha1": "c123c496864efce13a2aacb97145657e22a6c5ed",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_604C.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

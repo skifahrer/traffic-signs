@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "lt",
   "code": "203",
+  "image": {
+    "file": "give-way-lt.svg",
+    "sha1": "5c774bd768252437b87df84b0970c6b8776086d8",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_203.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

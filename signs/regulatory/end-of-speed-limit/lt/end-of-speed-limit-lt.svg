@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="702.5"
+   height="702.5"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="RU_road_sign_3.25-50.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="702.5"
+       height="702.5"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">3.25 Конец ограничения максимальной скорости</title>
+  <circle
+     style="fill:#ffffff"
+     cx="351.25"
+     cy="351.25"
+     r="350"
+     id="circle1" />
+  <circle
+     style="fill:none;stroke:#cccccc;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1"
+     cx="351.25"
+     cy="351.25"
+     r="349"
+     id="circle2" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:10"
+     cx="351.25"
+     cy="351.25"
+     r="335"
+     id="circle3" />
+  <path
+     style="fill:#979797;fill-opacity:1;stroke-width:1.12903"
+     d="m 311.22582,267.41936 12.41935,-40.3629 H 180.82259 v 121.08871 l 27.94355,15.5242 c 6.20967,-3.10484 18.62903,-18.62903 37.25806,-18.62903 27.94355,0 43.46775,24.83871 43.46775,46.57258 0,31.04839 -31.04839,46.57258 -55.8871,46.57258 -20.40162,0 -43.90807,-2.2129 -58.99194,-12.41936 l 6.20968,40.36291 c 0,0 31.04839,12.41935 58.99193,12.41935 58.99194,0 96.25001,-40.3629 96.25001,-90.04032 0,-49.67742 -40.36291,-77.62097 -74.51613,-77.62097 -14.19194,0 -31.04839,3.10484 -40.36291,15.52419 v -58.99194 z"
+     id="path3" />
+  <path
+     style="fill:#979797;fill-opacity:1;stroke-width:1.12903"
+     d="m 452.96453,223.95162 c -49.67742,0 -83.83065,52.78226 -83.83065,127.29839 0,74.51613 34.15323,127.29839 83.83065,127.29839 49.67742,0 83.83065,-52.78226 83.83065,-127.29839 0,-70.51935 -34.15323,-127.29839 -83.83065,-127.29839 z m 0,38.59033 c 23.94678,0 40.36291,26.61129 40.36291,88.70806 0,62.09678 -16.41613,88.70807 -40.36291,88.70807 -23.94677,0 -40.3629,-26.61129 -40.3629,-88.70807 0,-62.09677 16.41613,-88.70806 40.3629,-88.70806 z"
+     id="path4" />
+  <path
+     style="stroke:#000000;stroke-width:10"
+     d="M 550.12378,81.66554 81.672611,550.11671"
+     id="path5" />
+  <path
+     style="stroke:#000000;stroke-width:10"
+     d="M 569.79549,97.349168 97.36331,569.78135"
+     id="path6" />
+  <path
+     style="stroke:#000000;stroke-width:10"
+     d="M 588.13077,114.36923 114.36923,588.13077"
+     id="path7" />
+  <path
+     style="stroke:#000000;stroke-width:10"
+     d="M 605.15083,132.70451 132.71865,605.13669"
+     id="path8" />
+  <path
+     style="stroke:#000000;stroke-width:10"
+     d="M 620.83446,152.37622 152.38329,620.82739"
+     id="path9" />
+</svg>

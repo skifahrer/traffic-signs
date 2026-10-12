@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "734",
+  "image": {
+    "file": "services-vehicle-inspection-lt.svg",
+    "sha1": "b1416897dd43c51ed31c6c07b5e58f933f48c460",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_734.svg",
+    "author": "Government of Lithuania.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

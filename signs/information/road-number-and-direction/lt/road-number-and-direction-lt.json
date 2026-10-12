@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "623B",
+  "image": {
+    "file": "road-number-and-direction-lt.svg",
+    "sha1": "c78b0bca8e33cf76e07a05c789b3cf30649876f2",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_623B.svg",
+    "author": "WWBM",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",

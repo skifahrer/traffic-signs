@@ -3,6 +3,14 @@
   "category": "information",
   "country": "lt",
   "code": "610",
+  "image": {
+    "file": "goods-vehicle-direction-straight-lt.svg",
+    "sha1": "4cd0f8845132c3936172acb4bbf879f9215c44d6",
+    "source": "https://commons.wikimedia.org/wiki/File:LT_road_sign_610.svg",
+    "author": "Augustasci",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Lithuania",

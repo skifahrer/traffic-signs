@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "lt",
   "code": "829",
+  "image": {
+    "file": "days-and-times-lt.svg",
+    "sha1": "4112b85efc162dd80c647f3cb9f59355eb49c4bb",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithuania_road_sign_829.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "lt-wikipedia",
     "page": "https://lt.wikipedia.org/wiki/Kelio_%C5%BEenklai_Lietuvoje",
