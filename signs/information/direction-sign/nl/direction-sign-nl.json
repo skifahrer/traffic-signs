@@ -1,0 +1,11 @@
+{
+  "sign": "direction-sign",
+  "category": "information",
+  "country": "nl",
+  "code": "K6",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",
+    "file": "Nederlands verkeersbord K6.svg"
+  }
+}

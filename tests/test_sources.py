@@ -77,6 +77,16 @@ class MultiPageTest(SandboxTestCase):
             "https://en.wikipedia.org/wiki/Road_signs_in_France",
         )
 
+    def test_a_code_found_on_an_earlier_page_wins(self):
+        pages = dict(PAGES)
+        pages[("en.wikipedia.org", "Road signs in France")] = "<gallery>\nFile:France road sign A14 (old).svg|x\n</gallery>"
+        parser = parsers.files(r"(?i:France road sign) (?P<code>[A-Za-z0-9-]+)(?: \(old\))?\.svg")
+        with mock.patch.object(Client, "page_wikitext", side_effect=lambda wiki, title: pages[(wiki, title)]):
+            result = sync(dataclasses.replace(self.source, parser=parser), Client(delay=0), Options(no_images=True))
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.entries, 2)
+        self.assertEqual(self.meta("warning", "danger")["source"]["file"], "France road sign A14.svg")
+
     def test_local_names_must_be_page_or_translations(self):
         with self.assertRaises(ValueError):
             dataclasses.replace(self.source, local_names="csv")

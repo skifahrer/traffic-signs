@@ -183,3 +183,19 @@ L19 (rechts),information,emergency-exit-right,Emergency exit (to the right),Dich
 L19 (links),information,emergency-exit-left,Emergency exit (to the left),Dichtstbijzijnde uitgang of twee dichtstbijzijnde uitgangen in de op het bord aangegeven richting en afstand (links)
 L20,information,passing-place-right,Passing place (on the right),Uitwijkplaats rechts van de weg
 L21,information,passing-place-left,Passing place (on the left),Uitwijkplaats links van de weg
+K5,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),"Voorwegwijzer langs niet-autosnelweg, met interlokale doelen, routenummers, viaductsymbool en aanduiding industrieterrein"
+K6,information,direction-sign,Direction sign,"Wegwijzers langs niet-autosnelweg, met interlokale doelen en routenummers niet-autosnelweg"
+K12,information,arrow-sign-to-district,Arrow direction sign to a city district,"Wijkwegwijzer binnen de bebouwde kom, met wijknamen (in verkeersgebieden)"
+K13,information,direction-sign-district-numbers,Direction sign to districts (by number),"Wijkwegwijzer binnen de bebouwde kom, met wijknummers (in verkeersgebieden)"
+K14,information,dangerous-goods-route,Route for vehicles carrying dangerous goods,Route voor het vervoer van gevaarlijke stoffen
+BB01,information,exit-motorway,Exit (motorway),Afrit van de autosnelweg
+BB13,traffic-device,narrowing-marker,Narrowing marker (black and white stripes),Bebakening van een versmalling
+BB23-1,warning,level-crossing-countdown-marker-1-bar,Level crossing countdown marker (1 bar),Afstandsbaken voor een overweg (één streep)
+BB23-2,warning,level-crossing-countdown-marker-2-bars,Level crossing countdown marker (2 bars),Afstandsbaken voor een overweg (twee strepen)
+BB23-3,warning,level-crossing-countdown-marker-3-bars,Level crossing countdown marker (3 bars),Afstandsbaken voor een overweg (drie strepen)
+BW501,information,alternative-route-right-here,"Alternative route (to the right, here)",Uitwijkroute (U-route): volg de aangegeven richting
+BW501e,information,alternative-route-end,Alternative route (end),Einde uitwijkroute (U-route): laatste bord van de omleiding
+C2f + OB705,regulatory,turn-back,Turn back (wrong way),Eenrichtingsweg in deze richting gesloten (fluorescerende achtergrond) met onderbord „ga terug” tegen spookrijden
+L51,information,bicycle-road,Bicycle road,"Fietsstraat, auto te gast"
+L401,information,national-speed-limits,National speed limits (at the border),Algemene maximumsnelheden in Nederland (bij de landsgrens)
+L403,information,european-union-country-border,European Union country border,Landsgrens binnen de Europese Unie (Nederland)

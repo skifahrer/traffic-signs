@@ -1,0 +1,11 @@
+{
+  "sign": "arrow-sign-to-district",
+  "category": "information",
+  "country": "nl",
+  "code": "K12",
+  "source": {
+    "pipeline": "nl-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands",
+    "file": "Nederlands verkeersbord K12.svg"
+  }
+}
