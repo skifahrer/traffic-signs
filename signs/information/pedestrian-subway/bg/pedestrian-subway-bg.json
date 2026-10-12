@@ -3,6 +3,14 @@
   "category": "information",
   "country": "bg",
   "code": "Е21",
+  "image": {
+    "file": "pedestrian-subway-bg.svg",
+    "sha1": "4019aa6f65acec22713f6fdd06ac687ca3b6fe87",
+    "source": "https://commons.wikimedia.org/wiki/File:BG_road_sign_E21.svg",
+    "author": "SilverJapan2006",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "bg-wikipedia",
     "page": "https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%82%D0%BD%D0%B8_%D0%B7%D0%BD%D0%B0%D1%86%D0%B8_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F",

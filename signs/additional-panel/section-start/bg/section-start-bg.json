@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "bg",
   "code": "Т3",
+  "image": {
+    "file": "section-start-bg.svg",
+    "sha1": "36ade84cb1f35e905c9adfaad545eb395f9676d2",
+    "source": "https://commons.wikimedia.org/wiki/File:BG_road_sign_%D0%A23.svg",
+    "author": "Министерски съвет",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "bg-wikipedia",
     "page": "https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%82%D0%BD%D0%B8_%D0%B7%D0%BD%D0%B0%D1%86%D0%B8_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F",

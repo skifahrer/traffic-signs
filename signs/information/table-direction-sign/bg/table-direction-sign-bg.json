@@ -3,6 +3,14 @@
   "category": "information",
   "country": "bg",
   "code": "Ж6",
+  "image": {
+    "file": "table-direction-sign-bg.svg",
+    "sha1": "d15b4c2404bb7b55e3b935b9265025f28e87cf1b",
+    "source": "https://commons.wikimedia.org/wiki/File:BG_road_sign_%D0%966.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "bg-wikipedia",
     "page": "https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%82%D0%BD%D0%B8_%D0%B7%D0%BD%D0%B0%D1%86%D0%B8_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F",
