@@ -36,6 +36,23 @@ key for the second one, e.g. `de` for Germany and `de-AT` for Austria.
 English-speaking countries keep their own wording under such a key next to the
 shared `en`: `{"en": "Give way", "en-GB": "Give way", "en-US": "Yield"}`.
 
+### Translations
+
+The names file holds only official names, from countries that have the sign.
+So that a map can name every sign in its reader's language, `names/` holds
+translations, one file per language the Riki Maps app speaks (`sk`, `pt-BR`,
+`zh-Hans`, ...):
+
+```
+names/sk.json   {"regulatory/maximum-height": "Najväčšia povolená výška", ...}
+```
+
+A translation is only for a language the sign's names file lacks; when that
+language gets an official name, the official one is used. The map pipeline
+([skifahrer/maptiles](https://github.com/skifahrer/maptiles)) merges both into
+each sign's label. Translated so far: `sk`, `cs`, `de`, `hu`, for the signs the
+map draws.
+
 ### Signs added by hand
 
 A sign the country's source page lacks is added by hand: its image and
