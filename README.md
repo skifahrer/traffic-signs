@@ -50,8 +50,8 @@ names/sk.json   {"regulatory/maximum-height": "Najväčšia povolená výška", 
 A translation is only for a language the sign's names file lacks; when that
 language gets an official name, the official one is used. The map pipeline
 ([skifahrer/maptiles](https://github.com/skifahrer/maptiles)) merges both into
-each sign's label. Translated so far: `sk`, `cs`, `de`, `hu`, for the signs the
-map draws.
+each sign's label. Each Riki Maps language has a file here, covering the signs
+the map draws.
 
 ### Signs added by hand
 
