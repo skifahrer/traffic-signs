@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-42",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-si.svg",
+    "sha1": "9b2924a38244047b84fe576246b0133ed425d78a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-42.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

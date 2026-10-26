@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-5",
+  "image": {
+    "file": "cycle-crossing-si.svg",
+    "sha1": "c8ad127aca308c4afd81d09cf0d0eab320ec75a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-5.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

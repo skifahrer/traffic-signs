@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-14",
+  "image": {
+    "file": "no-bicycles-si.svg",
+    "sha1": "0e4a982c108a9cfafc8c159269b114ae2417795d",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-14.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

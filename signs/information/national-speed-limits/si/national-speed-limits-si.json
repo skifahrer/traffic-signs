@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-75",
+  "image": {
+    "file": "national-speed-limits-si.svg",
+    "sha1": "dd8c46924b3e0f110ca64f708075da1adf4dcf22",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-75.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

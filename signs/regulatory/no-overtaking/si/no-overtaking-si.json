@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-28",
+  "image": {
+    "file": "no-overtaking-si.svg",
+    "sha1": "027e5cd4d838f651503f1ce83e98198f4e48e53c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-28.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

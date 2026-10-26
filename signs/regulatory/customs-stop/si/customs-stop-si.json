@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-32",
+  "image": {
+    "file": "customs-stop-si.svg",
+    "sha1": "7785a6d651e644850740158fc5be023794d72a7e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-32.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

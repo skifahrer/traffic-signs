@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-78",
+  "image": {
+    "file": "cycle-route-si.svg",
+    "sha1": "7f2ce3f6360d01b4f34f1d72961f7da1f25c03fc",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-78.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

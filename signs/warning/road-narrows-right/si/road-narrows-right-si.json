@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-5.1",
+  "image": {
+    "file": "road-narrows-right-si.svg",
+    "sha1": "a3445f74e763a2d57eb4ff622325e8d56c3b663a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-5.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

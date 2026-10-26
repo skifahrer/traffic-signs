@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-56",
+  "image": {
+    "file": "ferry-terminal-si.svg",
+    "sha1": "b690d2ba9f56b97a9d7ea89c31dd1f5b7424f94e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-56.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-2.2",
+  "image": {
+    "file": "one-way-road-right-si.svg",
+    "sha1": "e29d19cf0d4a930ef792da21e27f38948506c30b",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-2.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

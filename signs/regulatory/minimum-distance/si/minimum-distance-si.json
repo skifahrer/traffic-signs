@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-25",
+  "image": {
+    "file": "minimum-distance-si.svg",
+    "sha1": "a39c6175c308e6fc4cc6db70f1cd467e5ff401c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-25.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

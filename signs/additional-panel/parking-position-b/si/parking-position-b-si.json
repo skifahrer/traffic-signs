@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-9.1",
+  "image": {
+    "file": "parking-position-b-si.svg",
+    "sha1": "b9b5e19d26f515f17af7ee0318abc448e1b353a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-9.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

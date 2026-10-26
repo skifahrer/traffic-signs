@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-76",
+  "image": {
+    "file": "slow-vehicle-lane-si.svg",
+    "sha1": "d7155326799276d7e763cdc31ab54f2dd2afcd86",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-76.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

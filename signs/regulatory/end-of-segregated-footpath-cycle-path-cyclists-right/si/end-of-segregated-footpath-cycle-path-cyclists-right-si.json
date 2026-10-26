@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-25.1",
+  "image": {
+    "file": "end-of-segregated-footpath-cycle-path-cyclists-right-si.svg",
+    "sha1": "6a4ad07442ea7334d2c3c2e14e394eb5757b17cd",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-25.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-82",
+  "image": {
+    "file": "national-road-number-si.svg",
+    "sha1": "71eaece64b4c6a254f4a89f4bfe1cc19288654fd",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-82.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

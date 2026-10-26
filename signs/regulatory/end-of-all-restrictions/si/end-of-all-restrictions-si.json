@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-21",
+  "image": {
+    "file": "end-of-all-restrictions-si.svg",
+    "sha1": "e2d66f31a5fc95f843e5fc8943b87e28220d85e7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-21.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

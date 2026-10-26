@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-116",
+  "image": {
+    "file": "traffic-controller-si.svg",
+    "sha1": "c626ee26ec33ebb6b68d4474777b5bfdb6f881f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-116.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

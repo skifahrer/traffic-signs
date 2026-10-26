@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-10",
+  "image": {
+    "file": "disabled-parking-si.svg",
+    "sha1": "c21e3305d58168d588a6688d2a6fa5052c120b76",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-10.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

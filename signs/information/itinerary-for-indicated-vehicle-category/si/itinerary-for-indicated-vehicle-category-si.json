@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-118.1",
+  "image": {
+    "file": "itinerary-for-indicated-vehicle-category-si.svg",
+    "sha1": "c450a872a6e9424b6187e2c7a50ca2ce12329af2",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-118.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

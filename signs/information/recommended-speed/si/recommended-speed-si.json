@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-70",
+  "image": {
+    "file": "recommended-speed-si.svg",
+    "sha1": "b4beb4f870091f93040b55158e7e2ad588837fb1",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-70_(100).svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

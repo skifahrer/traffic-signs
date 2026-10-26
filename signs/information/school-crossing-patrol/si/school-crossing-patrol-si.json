@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-110",
+  "image": {
+    "file": "school-crossing-patrol-si.svg",
+    "sha1": "f21978dfc34c4a2aa22331de6c75b6ba8643f627",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-110.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

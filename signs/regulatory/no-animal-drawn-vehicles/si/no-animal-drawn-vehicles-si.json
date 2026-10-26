@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-15",
+  "image": {
+    "file": "no-animal-drawn-vehicles-si.svg",
+    "sha1": "69c99c0d0c5ee1e1ba73ae7a21598080362b26f7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-15.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

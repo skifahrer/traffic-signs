@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-109",
+  "image": {
+    "file": "speed-limit-poor-visibility-si.svg",
+    "sha1": "f39916fa2fe304174ecf16ca013f370d6ddb807e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-109.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

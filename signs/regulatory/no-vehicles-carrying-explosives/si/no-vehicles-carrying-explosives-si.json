@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-9",
+  "image": {
+    "file": "no-vehicles-carrying-explosives-si.svg",
+    "sha1": "c3a6a65b636210ff3dbba7a2db4d50f454c9a6e7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-9.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

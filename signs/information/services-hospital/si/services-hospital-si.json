@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-38",
+  "image": {
+    "file": "services-hospital-si.svg",
+    "sha1": "7d23a5b76df117c5d3dcfbf79358f74f30be7a78",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-38.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

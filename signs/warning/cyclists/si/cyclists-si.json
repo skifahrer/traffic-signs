@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-16",
+  "image": {
+    "file": "cyclists-si.svg",
+    "sha1": "3e1896fc127196277e3e4882736afb0551f34dac",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-16.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

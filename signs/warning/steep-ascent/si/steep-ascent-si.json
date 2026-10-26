@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-4",
+  "image": {
+    "file": "steep-ascent-si.svg",
+    "sha1": "3ed843749cfe8ad2ec7789fef822b6cc85026402",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-4.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

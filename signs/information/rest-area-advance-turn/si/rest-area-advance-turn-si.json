@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-96",
+  "image": {
+    "file": "rest-area-advance-turn-si.svg",
+    "sha1": "6f5eaa3a57efb299461d13c58c46f58075c3304a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-96.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

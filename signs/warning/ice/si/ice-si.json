@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-32",
+  "image": {
+    "file": "ice-si.svg",
+    "sha1": "aae1ae9be71306f7b8f935e35c5e554488bf1fe7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-32.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

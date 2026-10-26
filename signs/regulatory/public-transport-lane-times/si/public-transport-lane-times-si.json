@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-72.1",
+  "image": {
+    "file": "public-transport-lane-times-si.svg",
+    "sha1": "6b227df9a3c7d1262bda99380034f0f5b70920e9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-72.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

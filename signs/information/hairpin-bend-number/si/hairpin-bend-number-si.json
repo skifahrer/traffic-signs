@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-64",
+  "image": {
+    "file": "hairpin-bend-number-si.svg",
+    "sha1": "fa64a0448ce78b8c0ac7ec7abc32cf7f827a0084",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-64.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

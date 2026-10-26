@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-115.2",
+  "image": {
+    "file": "lane-shift-temporary-c-si.svg",
+    "sha1": "01d473655f2fe43eb3974ed9e6d759e836013ba7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-115.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

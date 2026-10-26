@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-17",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-si.svg",
+    "sha1": "162a934bd5018063a25b996736753180370eb2c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-17.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

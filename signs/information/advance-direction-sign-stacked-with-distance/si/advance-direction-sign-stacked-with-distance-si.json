@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-89",
+  "image": {
+    "file": "advance-direction-sign-stacked-with-distance-si.svg",
+    "sha1": "c9f5111d91d40a5441e5ca292f600f6c846cd5a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-89.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

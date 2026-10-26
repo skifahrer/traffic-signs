@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-19",
+  "image": {
+    "file": "no-motor-vehicles-or-animal-drawn-vehicles-si.svg",
+    "sha1": "9def6b39207282adb6ff954bd7ba3546caff1c47",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-19.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

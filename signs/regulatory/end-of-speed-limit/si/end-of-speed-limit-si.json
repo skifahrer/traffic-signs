@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-18",
+  "image": {
+    "file": "end-of-speed-limit-si.svg",
+    "sha1": "a4016d98792faf12726b2aef9c9d5a7853185a8a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-18_(40).svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

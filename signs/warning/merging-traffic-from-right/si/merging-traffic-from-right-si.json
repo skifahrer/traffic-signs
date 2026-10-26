@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-29.1",
+  "image": {
+    "file": "merging-traffic-from-right-si.svg",
+    "sha1": "b965f463155a798def23121d76b867fff590e2a1",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-29.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-20",
+  "image": {
+    "file": "end-of-no-horns-si.svg",
+    "sha1": "9130031f557f1e183285f3be16e093fa837ac82e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-20.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

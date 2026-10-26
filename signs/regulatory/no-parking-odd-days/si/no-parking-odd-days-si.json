@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-36",
+  "image": {
+    "file": "no-parking-odd-days-si.svg",
+    "sha1": "e66d2e9930c124cc5477f56cd2f4cf16f83b0856",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-36.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

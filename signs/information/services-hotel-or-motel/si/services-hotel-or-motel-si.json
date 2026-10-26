@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-44",
+  "image": {
+    "file": "services-hotel-or-motel-si.svg",
+    "sha1": "ff992322d2433af2ef4bd09a8944b5f207e1ff9c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-44.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

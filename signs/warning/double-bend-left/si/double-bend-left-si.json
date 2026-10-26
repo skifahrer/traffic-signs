@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-2",
+  "image": {
+    "file": "double-bend-left-si.svg",
+    "sha1": "d40bc0b11ac9a09c67d02f6ded430e481b9273ca",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

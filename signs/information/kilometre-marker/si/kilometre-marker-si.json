@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-105",
+  "image": {
+    "file": "kilometre-marker-si.svg",
+    "sha1": "c325f8fb5a20482d5aa869663781ed5a16b5aa76",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-105.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-102",
+  "image": {
+    "file": "mixed-toll-lane-si.svg",
+    "sha1": "459d0586cdf43694c55b4545887ee7bb051bd576",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-102.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

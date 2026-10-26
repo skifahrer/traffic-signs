@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-16",
+  "image": {
+    "file": "no-handcarts-si.svg",
+    "sha1": "d2a0e0195d8eb24fc8d034b5d5ecc971fd0d4b51",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-16.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

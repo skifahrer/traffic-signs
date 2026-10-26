@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-113.2",
+  "image": {
+    "file": "lane-closure-advance-c-si.svg",
+    "sha1": "ee43dfb9f0394fa332d1098c3c40a34d8ee5c2c2",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-113.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

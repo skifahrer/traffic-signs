@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-15",
+  "image": {
+    "file": "children-si.svg",
+    "sha1": "fe541caa2309537156eb5a1e8df8d453fb01f7de",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-15.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

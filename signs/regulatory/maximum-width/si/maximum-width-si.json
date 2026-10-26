@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-20",
+  "image": {
+    "file": "maximum-width-si.svg",
+    "sha1": "aea6fc0cd92a7983539eb399f001ae0737005b6f",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-20.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

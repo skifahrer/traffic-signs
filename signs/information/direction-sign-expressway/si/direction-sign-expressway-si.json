@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-86.1",
+  "image": {
+    "file": "direction-sign-expressway-si.svg",
+    "sha1": "5ec793bd4c3a03fce6ab75d3acf824fb989a2ac9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-86.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

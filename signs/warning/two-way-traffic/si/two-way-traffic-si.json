@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-23",
+  "image": {
+    "file": "two-way-traffic-si.svg",
+    "sha1": "15b378b4b8c13b49a7198aad14242a9211d09306",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-23.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

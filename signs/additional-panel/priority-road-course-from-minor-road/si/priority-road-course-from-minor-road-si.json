@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-13.1",
+  "image": {
+    "file": "priority-road-course-from-minor-road-si.svg",
+    "sha1": "cc84f2abee897c89f20bc4f8e24741687282a049",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-13.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

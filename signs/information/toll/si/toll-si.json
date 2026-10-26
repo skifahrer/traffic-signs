@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-98",
+  "image": {
+    "file": "toll-si.svg",
+    "sha1": "c052ec5b59212f0d0e2095d13b86650a4c653339",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-98.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-34",
+  "image": {
+    "file": "dangerous-verge-si.svg",
+    "sha1": "8e73f55f4a57ad59786e671cddead21fb52821b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-34.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

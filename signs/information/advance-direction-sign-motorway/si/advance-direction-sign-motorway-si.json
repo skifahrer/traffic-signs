@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-88",
+  "image": {
+    "file": "advance-direction-sign-motorway-si.svg",
+    "sha1": "7a3d517ef559ecb024aa068ec63e0316d34f9c59",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-88.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-53",
+  "image": {
+    "file": "fire-extinguisher-si.svg",
+    "sha1": "3c04d7572ae9af062fc7677f7dda70930719bb52",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-53.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

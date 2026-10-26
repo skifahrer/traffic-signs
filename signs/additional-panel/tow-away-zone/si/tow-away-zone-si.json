@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-11",
+  "image": {
+    "file": "tow-away-zone-si.svg",
+    "sha1": "0a1b18af33fdf993af4143c42a244b30f33e5324",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-11.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

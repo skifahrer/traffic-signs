@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-74",
+  "image": {
+    "file": "services-traffic-radio-si.svg",
+    "sha1": "0d7f19db776a804d60debc8cd0fded2721a0cceb",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-74.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

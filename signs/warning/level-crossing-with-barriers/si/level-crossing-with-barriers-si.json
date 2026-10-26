@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-36",
+  "image": {
+    "file": "level-crossing-with-barriers-si.svg",
+    "sha1": "b8f928c1dea1ae555a44bae053d77d78633831a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-36.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

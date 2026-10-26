@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-95",
+  "image": {
+    "file": "rest-area-advance-si.svg",
+    "sha1": "10faf2a96ba39c149e1b808e2d7a3827036264ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-95.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

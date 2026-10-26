@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-37",
+  "image": {
+    "file": "no-parking-even-days-si.svg",
+    "sha1": "de7bf22749ae3789206ba488a15d8526b8a81b69",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-37.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

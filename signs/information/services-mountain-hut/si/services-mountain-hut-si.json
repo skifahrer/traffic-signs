@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-51",
+  "image": {
+    "file": "services-mountain-hut-si.svg",
+    "sha1": "0614a9444ba3a18dc032f16a7a80151b8b02a0a9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-51.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

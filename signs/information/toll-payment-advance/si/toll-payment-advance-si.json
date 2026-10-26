@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-99",
+  "image": {
+    "file": "toll-payment-advance-si.svg",
+    "sha1": "b016826beb186b25bda2c68490f6ae7d9e14ff0f",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-99.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

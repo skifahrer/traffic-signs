@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-11",
+  "image": {
+    "file": "slippery-road-si.svg",
+    "sha1": "6b94fd74c2d3f417b35f1eee7bdb9f7206f05126",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-11.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

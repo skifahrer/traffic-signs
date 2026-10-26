@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-91",
+  "image": {
+    "file": "direction-board-overhead-b-si.svg",
+    "sha1": "314f83da3f2cbcde0acf2a467a3b1b685594a96d",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-91.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

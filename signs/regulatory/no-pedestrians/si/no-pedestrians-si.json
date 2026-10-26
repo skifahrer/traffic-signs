@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-17",
+  "image": {
+    "file": "no-pedestrians-si.svg",
+    "sha1": "23ec293b83d3d8d44b676295bf78af96dadf7d00",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-17.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-60",
+  "image": {
+    "file": "services-car-wash-si.svg",
+    "sha1": "9f8949f52ea2cb80dacd8760341a1798eb519dea",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-60.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

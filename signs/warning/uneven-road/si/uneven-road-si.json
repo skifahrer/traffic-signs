@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-8",
+  "image": {
+    "file": "uneven-road-si.svg",
+    "sha1": "c4b6a45a54c057bc171ddcdb5e00f166ecec5498",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-8.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

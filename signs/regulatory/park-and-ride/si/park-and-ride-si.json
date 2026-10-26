@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-58",
+  "image": {
+    "file": "park-and-ride-si.svg",
+    "sha1": "d0409b2d92e96b3a1a6219440027c3c516c9e730",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-58.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

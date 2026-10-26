@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-19",
+  "image": {
+    "file": "snow-clearing-si.svg",
+    "sha1": "dedf0349e9c4e6aed9e8fc6a8c11533e63bd8087",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-19.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

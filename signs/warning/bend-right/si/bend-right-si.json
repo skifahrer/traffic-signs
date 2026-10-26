@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-1.1",
+  "image": {
+    "file": "bend-right-si.svg",
+    "sha1": "62216b21bc7c2d9adbeeb0c9cb2977922f345d4b",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-1.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-31",
+  "image": {
+    "file": "pedestrian-zone-si.svg",
+    "sha1": "2837418154015755bd9d8707a24498e13ce823f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-31.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

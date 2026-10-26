@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-12",
+  "image": {
+    "file": "no-motorcycles-si.svg",
+    "sha1": "c1335025da6993c03c2ea4098a3debaed69fd4c4",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-12.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

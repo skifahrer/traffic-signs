@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-38.2",
+  "image": {
+    "file": "level-crossing-cross-single-track-b-si.svg",
+    "sha1": "331c7a5212b4f908dab1a5e62d92f0d4feff0d75",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-38.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

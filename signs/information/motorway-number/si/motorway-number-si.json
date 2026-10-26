@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-80",
+  "image": {
+    "file": "motorway-number-si.svg",
+    "sha1": "b247ddf794654bcdfcfcb4da0fcda802d55c0fa2",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-80.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

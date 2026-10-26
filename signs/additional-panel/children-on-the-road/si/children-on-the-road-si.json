@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-18",
+  "image": {
+    "file": "children-on-the-road-si.svg",
+    "sha1": "b258928aa8ac21bb6bd159d107df128475ba7c28",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-18.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-101",
+  "image": {
+    "file": "electronic-toll-lane-si.svg",
+    "sha1": "9ee642cd739882bbcfd46b9da8ec81aee1d2419a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-101.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

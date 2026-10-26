@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-46.2",
+  "image": {
+    "file": "mandatory-direction-left-or-right-si.svg",
+    "sha1": "33c2f86ec6b8986c36c131623fa47dd49fb351fc",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-46.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

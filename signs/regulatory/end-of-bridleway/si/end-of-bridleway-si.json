@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-26",
+  "image": {
+    "file": "end-of-bridleway-si.svg",
+    "sha1": "57a272b39346fb5cae84aebd6e18e500958b677a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-26.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

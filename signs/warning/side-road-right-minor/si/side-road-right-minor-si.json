@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-28.1",
+  "image": {
+    "file": "side-road-right-minor-si.svg",
+    "sha1": "9be32b592dbe3756933151bcc376a5db4e7660d3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-28.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

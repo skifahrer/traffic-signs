@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-29",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-si.svg",
+    "sha1": "2a35df69e5828897a8ac6a0975bc6132fb57f229",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-29.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

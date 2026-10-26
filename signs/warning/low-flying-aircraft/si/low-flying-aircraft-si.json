@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-21",
+  "image": {
+    "file": "low-flying-aircraft-si.svg",
+    "sha1": "61bfd545fe75ee67363764ba61883250b73a9225",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-21.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

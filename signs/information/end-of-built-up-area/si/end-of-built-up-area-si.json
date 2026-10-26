@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-15",
+  "image": {
+    "file": "end-of-built-up-area-si.svg",
+    "sha1": "43cb7f56bcf944ff98b550e942d22bfd75ac9655",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-15.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

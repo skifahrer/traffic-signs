@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-104",
+  "image": {
+    "file": "emergency-lay-by-si.svg",
+    "sha1": "3fe8916f6aef24e6748d7667301975f4e5e157d6",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-104.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

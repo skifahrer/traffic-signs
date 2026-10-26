@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-90",
+  "image": {
+    "file": "direction-board-overhead-motorway-si.svg",
+    "sha1": "9f273992339d1b5da06df5d96bfe8ef5c259bb48",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-90.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

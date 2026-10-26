@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-18",
+  "image": {
+    "file": "wild-animals-si.svg",
+    "sha1": "73100c7b1e2e3eb93f2d0f098f7165e7ef83269b",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-18.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-7",
+  "image": {
+    "file": "quayside-si.svg",
+    "sha1": "1ef6da615f4ea3e07a667688fc9b1a7fece4bf2e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-7.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

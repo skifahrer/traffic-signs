@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-20",
+  "image": {
+    "file": "traffic-signals-si.svg",
+    "sha1": "3de32ec1e962af29716c08b7c57430a44b313d4b",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-20.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

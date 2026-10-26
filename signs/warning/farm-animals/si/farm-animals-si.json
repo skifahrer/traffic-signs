@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-17",
+  "image": {
+    "file": "farm-animals-si.svg",
+    "sha1": "39fa164d1fcb2ef2a58e00440d93ad6cdc3c35ec",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-17.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

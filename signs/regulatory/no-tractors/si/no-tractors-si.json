@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-11",
+  "image": {
+    "file": "no-tractors-si.svg",
+    "sha1": "2eb6740cc5a837d83ed0e66a22da8c38a8d8ba7d",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-11.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

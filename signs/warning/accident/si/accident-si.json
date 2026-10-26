@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-41",
+  "image": {
+    "file": "accident-si.svg",
+    "sha1": "78bc0380f1fab545825b0c2f124355b03f7c9213",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-41.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

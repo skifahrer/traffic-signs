@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-24",
+  "image": {
+    "file": "end-of-footpath-si.svg",
+    "sha1": "b4e23191ea68d02c4ef6b6bc04886f1f29925c8c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-24.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

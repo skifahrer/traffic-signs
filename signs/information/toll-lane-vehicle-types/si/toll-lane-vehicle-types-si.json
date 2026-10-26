@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-103",
+  "image": {
+    "file": "toll-lane-vehicle-types-si.svg",
+    "sha1": "3d5e1d8c8bb3987318d0d0064d31dc052f338f0e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-103.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

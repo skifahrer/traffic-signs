@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-67",
+  "image": {
+    "file": "mountain-pass-si.svg",
+    "sha1": "811daca4d4cb10e2d6b6b7a057f1518d24022255",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-67.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

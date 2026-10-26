@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-35",
+  "image": {
+    "file": "parking-si.svg",
+    "sha1": "94598cdb63097df5b04f6677544f756e5237f839",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-35.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

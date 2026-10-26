@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-41",
+  "image": {
+    "file": "services-telephone-si.svg",
+    "sha1": "f12085be6ecb770f4825df9d302d9c787e91e0b9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-41.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-19",
+  "image": {
+    "file": "roadworks-si.svg",
+    "sha1": "3f74f22db3e343893c3d87b077f9602e07c68965",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-19.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

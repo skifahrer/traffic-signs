@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "si",
   "code": "VI-1",
+  "image": {
+    "file": "closure-barrier-right-side-si.svg",
+    "sha1": "ed0a5bd06c2f8ed8e8a50330056177c996c331ea",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_VI-1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

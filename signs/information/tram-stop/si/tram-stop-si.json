@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-55",
+  "image": {
+    "file": "tram-stop-si.svg",
+    "sha1": "57b9b84ceb3f9b574be5555ffc79e4375ff7b3da",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-55.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

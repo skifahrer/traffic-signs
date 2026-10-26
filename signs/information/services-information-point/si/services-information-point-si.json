@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-59",
+  "image": {
+    "file": "services-information-point-si.svg",
+    "sha1": "6383200b2d974eb92e05b92318b80438fecf4a6a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-59.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

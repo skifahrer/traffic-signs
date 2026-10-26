@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-3",
+  "image": {
+    "file": "distance-and-direction-right-si.svg",
+    "sha1": "59d0768d18c8d2c5835b2756ae50f9f6cb05cc10",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-3.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

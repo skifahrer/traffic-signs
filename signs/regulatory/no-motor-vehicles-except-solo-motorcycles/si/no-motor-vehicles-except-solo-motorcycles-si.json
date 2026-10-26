@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-5",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-si.svg",
+    "sha1": "86270a5602badf555e555b0015919d55467f487e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-5.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

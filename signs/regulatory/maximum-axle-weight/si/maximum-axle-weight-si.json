@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-23",
+  "image": {
+    "file": "maximum-axle-weight-si.svg",
+    "sha1": "7fcfb13686cb0e1307dca79ca4cf72b8901024a8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-23.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

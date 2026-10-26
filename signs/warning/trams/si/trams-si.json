@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-31",
+  "image": {
+    "file": "trams-si.svg",
+    "sha1": "c3a346eb40ded3652672851036fd84cc1485a39c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-31.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

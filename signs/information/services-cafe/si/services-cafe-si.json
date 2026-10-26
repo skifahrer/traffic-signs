@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-46",
+  "image": {
+    "file": "services-cafe-si.svg",
+    "sha1": "dc97777d552c115fe5323615cded3827d9d859fe",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-46.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

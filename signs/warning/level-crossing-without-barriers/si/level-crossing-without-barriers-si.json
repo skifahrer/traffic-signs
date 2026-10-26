@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-37",
+  "image": {
+    "file": "level-crossing-without-barriers-si.svg",
+    "sha1": "4fcab28f93f03f6c02e8bb028ca0c1eb6c39a71e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-37.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

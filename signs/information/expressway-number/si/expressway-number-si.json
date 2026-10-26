@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-81",
+  "image": {
+    "file": "expressway-number-si.svg",
+    "sha1": "2fc5e253684ef2119a35b5c4fb5786b620a03b0a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-81.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

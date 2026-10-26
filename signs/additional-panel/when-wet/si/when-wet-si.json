@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-12",
+  "image": {
+    "file": "when-wet-si.svg",
+    "sha1": "ee49e479931e6504b08b95c5fca6da19c6c6ca8e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-12.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

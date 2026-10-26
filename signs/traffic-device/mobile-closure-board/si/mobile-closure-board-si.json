@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "si",
   "code": "VI-5",
+  "image": {
+    "file": "mobile-closure-board-si.svg",
+    "sha1": "a82e565176d2910f0f12eb3d98cb17b22b0ca7b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_VI-5.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

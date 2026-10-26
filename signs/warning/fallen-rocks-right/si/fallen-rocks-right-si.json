@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-13",
+  "image": {
+    "file": "fallen-rocks-right-si.svg",
+    "sha1": "fbf551f8e846f79b1a7e13c95b83daf508d836f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-13.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

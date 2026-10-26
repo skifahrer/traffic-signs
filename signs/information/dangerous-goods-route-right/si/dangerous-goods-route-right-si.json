@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-118.2",
+  "image": {
+    "file": "dangerous-goods-route-right-si.svg",
+    "sha1": "ea7408a16c966efebe3120dbce3e77b4c7d0dc42",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-118.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

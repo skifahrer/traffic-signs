@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-33",
+  "image": {
+    "file": "residential-zone-si.svg",
+    "sha1": "d016ad22b29e7d650159b46f36aff9475454af12",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-33.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

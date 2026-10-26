@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "si",
   "code": "VI-3",
+  "image": {
+    "file": "guide-plate-hatched-right-si.svg",
+    "sha1": "f06f3737d70718b7ecd5ce738f40faefcd2525b8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_VI-3.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

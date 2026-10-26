@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-114.5",
+  "image": {
+    "file": "carriageway-change-contraflow-ends-c-si.svg",
+    "sha1": "86f49faef135ffe4f69d446234c397b212b8d019",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-114.5.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

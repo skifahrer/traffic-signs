@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-111",
+  "image": {
+    "file": "detour-announcement-si.svg",
+    "sha1": "3d905c10e479a3e805b1abf7c4dfb6e0c70eca19",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-111.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

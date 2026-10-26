@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-21",
+  "image": {
+    "file": "maximum-height-si.svg",
+    "sha1": "93aa4c6c3ba72e03f7c7702957899c4abc5fe45d",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-21.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

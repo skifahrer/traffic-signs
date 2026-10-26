@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-61",
+  "image": {
+    "file": "taxi-rank-si.svg",
+    "sha1": "4361e0f5be18c07fdadb5517421d3189c3b41d89",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-61.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

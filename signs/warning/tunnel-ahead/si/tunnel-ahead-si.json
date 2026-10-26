@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-24",
+  "image": {
+    "file": "tunnel-ahead-si.svg",
+    "sha1": "fa08caf7682b7938d77562be99d7013c4768f14f",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-24.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

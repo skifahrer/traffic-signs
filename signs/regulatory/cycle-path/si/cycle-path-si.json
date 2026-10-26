@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-40",
+  "image": {
+    "file": "cycle-path-si.svg",
+    "sha1": "5eb2c83526a00d1f7c9f1ca62e1a869ebb54b1f9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-40.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

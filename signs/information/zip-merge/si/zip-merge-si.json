@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-108",
+  "image": {
+    "file": "zip-merge-si.svg",
+    "sha1": "fe97ae670b4bb6cb6182236ad483b081f4b87818",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-108.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

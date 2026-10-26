@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-10",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-except-semi-trailers-and-light-trailers-si.svg",
+    "sha1": "0065cea56eed0a9349f2f3d048cbd63461072035",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-10.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

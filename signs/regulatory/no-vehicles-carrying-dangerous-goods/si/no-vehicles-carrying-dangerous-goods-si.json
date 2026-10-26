@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-9.1",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-si.svg",
+    "sha1": "c8a230663158e9c016f9dbfffb2ca17c72706f60",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-9.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

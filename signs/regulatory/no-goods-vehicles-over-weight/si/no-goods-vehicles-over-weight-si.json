@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-7.1",
+  "image": {
+    "file": "no-goods-vehicles-over-weight-si.svg",
+    "sha1": "5900498deae651b2ac58da6ad94e5f9083019398",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-7.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

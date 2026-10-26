@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-63",
+  "image": {
+    "file": "mountain-pass-open-or-closed-si.svg",
+    "sha1": "84caa3493ea11342fb94aebe1e14c749ce6affd8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-63.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

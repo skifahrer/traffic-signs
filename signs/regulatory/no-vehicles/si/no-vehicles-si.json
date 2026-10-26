@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-3",
+  "image": {
+    "file": "no-vehicles-si.svg",
+    "sha1": "f5f208e85755c7fd308df4a399592d1b0b5c57a5",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-3.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

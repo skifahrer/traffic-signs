@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "si",
   "code": "VI-9",
+  "image": {
+    "file": "traffic-cone-si.svg",
+    "sha1": "61539f6b6bb550d3c614866f3ece7fd843ee5ae1",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_VI-9.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

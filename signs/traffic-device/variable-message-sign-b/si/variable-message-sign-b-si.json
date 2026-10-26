@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "si",
   "code": "VI-7.1",
+  "image": {
+    "file": "variable-message-sign-b-si.svg",
+    "sha1": "2c9646a0344f6130fa2c4ea634f4af71c6e903c3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_VI-7.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

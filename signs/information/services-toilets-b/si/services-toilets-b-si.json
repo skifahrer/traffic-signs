@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-52.1",
+  "image": {
+    "file": "services-toilets-b-si.svg",
+    "sha1": "b61f365a32e6c9861231eed8a6f844ed4d9dcbe9",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-52.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

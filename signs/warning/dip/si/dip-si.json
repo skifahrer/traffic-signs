@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-9",
+  "image": {
+    "file": "dip-si.svg",
+    "sha1": "d426a369b7454aacb866fd0b7140f26b1b60efa3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-9.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

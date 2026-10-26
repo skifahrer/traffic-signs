@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-41",
+  "image": {
+    "file": "footpath-si.svg",
+    "sha1": "24e2ccffdbbeeb0f67bae683643f1b6cce3cfeb8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-41.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

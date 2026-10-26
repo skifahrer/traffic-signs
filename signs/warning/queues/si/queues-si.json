@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-33",
+  "image": {
+    "file": "queues-si.svg",
+    "sha1": "f7fc1b69136cc33f536f56b03f7d30e3e6b946a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-33.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

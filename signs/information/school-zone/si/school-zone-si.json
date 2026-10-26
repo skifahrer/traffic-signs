@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-120",
+  "image": {
+    "file": "school-zone-si.svg",
+    "sha1": "995d1ebaa153a6adcc12d6456b40d3f0120e9891",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-120.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

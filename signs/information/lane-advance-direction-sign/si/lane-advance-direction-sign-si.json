@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-85.1",
+  "image": {
+    "file": "lane-advance-direction-sign-si.svg",
+    "sha1": "85019b199c7cf00f2bbc45190f8fe909ee674d08",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-85.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-27",
+  "image": {
+    "file": "short-term-parking-zone-si.svg",
+    "sha1": "bd7d9c7d5ddef0c042f6e800b380d51e36f0841c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-27.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

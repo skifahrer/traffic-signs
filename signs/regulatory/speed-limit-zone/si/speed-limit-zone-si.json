@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-29",
+  "image": {
+    "file": "speed-limit-zone-si.svg",
+    "sha1": "7b6940bdbae618abc2077f99497b355bbf69d6a0",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-29_(40).svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

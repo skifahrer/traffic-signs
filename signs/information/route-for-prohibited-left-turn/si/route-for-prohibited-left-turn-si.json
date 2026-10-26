@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-9",
+  "image": {
+    "file": "route-for-prohibited-left-turn-si.svg",
+    "sha1": "2ad54b4798409237102ca4498254e6dceb7b605e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-9.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

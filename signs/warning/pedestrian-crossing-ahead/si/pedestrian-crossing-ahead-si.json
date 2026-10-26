@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-14",
+  "image": {
+    "file": "pedestrian-crossing-ahead-si.svg",
+    "sha1": "baa742d981e86d47b4bdd4a26e5bce2452d50071",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-14.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

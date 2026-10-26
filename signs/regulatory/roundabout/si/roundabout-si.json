@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-48",
+  "image": {
+    "file": "roundabout-si.svg",
+    "sha1": "0d633441ccbc73c684cf4b989d59576b52c8b762",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-48.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

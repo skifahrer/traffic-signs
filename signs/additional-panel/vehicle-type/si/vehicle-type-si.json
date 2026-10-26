@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-6",
+  "image": {
+    "file": "vehicle-type-si.svg",
+    "sha1": "a3ce4d6f9d63642136ed225affdf16456f63790e",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-6.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

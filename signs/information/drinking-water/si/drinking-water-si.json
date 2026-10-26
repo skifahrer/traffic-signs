@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-62",
+  "image": {
+    "file": "drinking-water-si.svg",
+    "sha1": "eb64235b656c98b74464098400ac96e2510f5a59",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-62.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-17",
+  "image": {
+    "file": "two-way-traffic-panel-si.svg",
+    "sha1": "9815afaa7644203340ec2b06889a60c000ed1cd7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-17.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

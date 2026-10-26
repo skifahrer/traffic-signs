@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-119",
+  "image": {
+    "file": "vehicle-access-keep-clear-si.svg",
+    "sha1": "31f9d5787efb293eb22a1f8d9c2290b82b20847c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-119.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

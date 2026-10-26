@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-45",
+  "image": {
+    "file": "services-restaurant-si.svg",
+    "sha1": "a7e0b495efa3ab567ff41fccc08428188360523f",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-45.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

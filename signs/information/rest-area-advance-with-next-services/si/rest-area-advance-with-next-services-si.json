@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-94",
+  "image": {
+    "file": "rest-area-advance-with-next-services-si.svg",
+    "sha1": "2021ffe038ed981b09465dbe2f58eb451d7a0478",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-94.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

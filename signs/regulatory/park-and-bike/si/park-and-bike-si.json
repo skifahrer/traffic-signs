@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-58.1",
+  "image": {
+    "file": "park-and-bike-si.svg",
+    "sha1": "2c420295f2c1854771445ed8507360c0332a12cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-58.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-12.1",
+  "image": {
+    "file": "snow-or-ice-panel-si.svg",
+    "sha1": "08dd65934693d9de727ace26721be7fd66ed7d2f",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-12.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

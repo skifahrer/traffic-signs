@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-22.1",
+  "image": {
+    "file": "crosswind-from-right-si.svg",
+    "sha1": "ea2c7892ad93b9b58a411f3efdb0c450e6c7e91f",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-22.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

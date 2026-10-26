@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-124",
+  "image": {
+    "file": "emergency-access-route-si.svg",
+    "sha1": "d2564fe5cdbf343205ac1e3306226120a99c3bae",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-124.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

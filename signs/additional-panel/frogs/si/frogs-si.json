@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "si",
   "code": "IV-15",
+  "image": {
+    "file": "frogs-si.svg",
+    "sha1": "0eb9718e39a22f99a61f2d34081ce6f54b1783c8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_IV-15.svg",
+    "author": "Government of Slovenia'",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

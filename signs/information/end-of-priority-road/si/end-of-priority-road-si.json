@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-4",
+  "image": {
+    "file": "end-of-priority-road-si.svg",
+    "sha1": "904615334127809931854a918f4b13cd5629d0d1",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-4.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

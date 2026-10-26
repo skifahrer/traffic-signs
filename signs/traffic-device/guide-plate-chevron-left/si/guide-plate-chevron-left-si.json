@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "si",
   "code": "VI-3.3",
+  "image": {
+    "file": "guide-plate-chevron-left-si.svg",
+    "sha1": "a57e71cc58b1b2bc0f4d09ad6585f3f90c405cfd",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_VI-3.3.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

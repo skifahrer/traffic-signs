@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-43",
+  "image": {
+    "file": "services-filling-station-si.svg",
+    "sha1": "b380f5dae65d9dea0d022b22c78c814b50998e58",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-43.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

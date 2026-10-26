@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-22",
+  "image": {
+    "file": "end-of-snow-chains-required-si.svg",
+    "sha1": "f9388db5a4544e94fae1a1557e39712b8084b2fa",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-22.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

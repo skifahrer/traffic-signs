@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-47",
+  "image": {
+    "file": "pass-on-right-si.svg",
+    "sha1": "cb1aa59b7d8fa7f54b8aa79a9fd3b2082a0af289",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-47.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

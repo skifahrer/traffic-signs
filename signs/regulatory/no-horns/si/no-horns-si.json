@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-31",
+  "image": {
+    "file": "no-horns-si.svg",
+    "sha1": "8ccd71994f83ae4a3e81f53fa1e84cd88724d400",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-31.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

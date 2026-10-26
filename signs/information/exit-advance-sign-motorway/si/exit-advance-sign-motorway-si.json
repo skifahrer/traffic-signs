@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-92.1",
+  "image": {
+    "file": "exit-advance-sign-motorway-si.svg",
+    "sha1": "5e94429e322e55ce5a3360201b1d1593bd82a545",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-92.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

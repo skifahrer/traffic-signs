@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-3",
+  "image": {
+    "file": "steep-descent-si.svg",
+    "sha1": "0feb5ff34da634ad53dcc34074ab391f1fcb1de8",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-3.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

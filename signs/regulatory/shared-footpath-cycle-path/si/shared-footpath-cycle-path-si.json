@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-43",
+  "image": {
+    "file": "shared-footpath-cycle-path-si.svg",
+    "sha1": "24c07b563473db16eb8ce6c2dfa0e6a2ee5a2c2c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-43.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

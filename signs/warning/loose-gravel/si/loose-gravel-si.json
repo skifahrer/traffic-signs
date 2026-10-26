@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "si",
   "code": "I-12",
+  "image": {
+    "file": "loose-gravel-si.svg",
+    "sha1": "8a2003aa80bcfb99542a74f011552eb8659c6d46",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_I-12.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

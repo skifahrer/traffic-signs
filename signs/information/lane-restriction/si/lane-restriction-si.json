@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-117.1",
+  "image": {
+    "file": "lane-restriction-si.svg",
+    "sha1": "bdea42da08bd91e4bb53c6da951b087dd27d440c",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-117.1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

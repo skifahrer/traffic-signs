@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-57",
+  "image": {
+    "file": "marina-si.svg",
+    "sha1": "e7264fb309eff50902050ad96d2eebc8fe113ed6",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-57.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

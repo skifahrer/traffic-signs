@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-34",
+  "image": {
+    "file": "no-stopping-si.svg",
+    "sha1": "ded3e52d6ade190f48b63884b8f9e500d5a14ed7",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-34.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

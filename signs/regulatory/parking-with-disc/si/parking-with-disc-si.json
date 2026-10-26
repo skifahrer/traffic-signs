@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "III-37",
+  "image": {
+    "file": "parking-with-disc-si.svg",
+    "sha1": "c0cd6853300610af8e8292dab8218d015e5dabe2",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-37.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

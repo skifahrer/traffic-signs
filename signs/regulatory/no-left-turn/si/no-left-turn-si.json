@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-26",
+  "image": {
+    "file": "no-left-turn-si.svg",
+    "sha1": "8442435bb9fd18978e1cb1428216f673550f5df0",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-26.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

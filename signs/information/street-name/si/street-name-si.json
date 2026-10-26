@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-106",
+  "image": {
+    "file": "street-name-si.svg",
+    "sha1": "562a4c1e7c6bf7cb8359523537474cdf884e08fd",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-106.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",

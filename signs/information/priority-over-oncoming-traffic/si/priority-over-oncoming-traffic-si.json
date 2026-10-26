@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-1",
+  "image": {
+    "file": "priority-over-oncoming-traffic-si.svg",
+    "sha1": "aa84ba7d74aa302d5b21f476a45f6941b2801782",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-1.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

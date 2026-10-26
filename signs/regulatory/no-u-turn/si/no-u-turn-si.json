@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-27",
+  "image": {
+    "file": "no-u-turn-si.svg",
+    "sha1": "986f19b4e693a669b0924656b74c828f530eebf6",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-27.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

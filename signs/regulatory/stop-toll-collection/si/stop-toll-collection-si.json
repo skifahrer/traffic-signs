@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-32.2",
+  "image": {
+    "file": "stop-toll-collection-si.svg",
+    "sha1": "564e5582ff6ad450b9c980feaad8daabdeb7ea8a",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-32.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

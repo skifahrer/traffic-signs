@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-66",
+  "image": {
+    "file": "viaduct-name-si.svg",
+    "sha1": "fb2accb0efa29d38d4e5cf36a9c09e2c57876181",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-66.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

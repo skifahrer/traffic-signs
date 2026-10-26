@@ -3,6 +3,14 @@
   "category": "information",
   "country": "si",
   "code": "III-92.2",
+  "image": {
+    "file": "motorway-interchange-advance-si.svg",
+    "sha1": "5e7a093efd59dd78cb72e54d6e244eadcd248602",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_III-92.2.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",

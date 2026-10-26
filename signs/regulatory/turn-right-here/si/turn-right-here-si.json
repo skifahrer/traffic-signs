@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "si",
   "code": "II-45.4",
+  "image": {
+    "file": "turn-right-here-si.svg",
+    "sha1": "ee3907465d73b14e4d2177e1ef66b606066424f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Slovenia_road_sign_II-45.4.svg",
+    "author": "Government of Slovenia",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "si-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
