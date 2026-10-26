@@ -1,0 +1,11 @@
+{
+  "sign": "lane-closed-b",
+  "category": "information",
+  "country": "se",
+  "code": "F26-2",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign F26-2.svg"
+  }
+}

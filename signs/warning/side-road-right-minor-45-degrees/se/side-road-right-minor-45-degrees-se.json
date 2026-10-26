@@ -1,0 +1,11 @@
+{
+  "sign": "side-road-right-minor-45-degrees",
+  "category": "warning",
+  "country": "se",
+  "code": "A29-14",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign A29-14.svg"
+  }
+}

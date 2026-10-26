@@ -1,0 +1,11 @@
+{
+  "sign": "heavy-vehicle-control-site-advance",
+  "category": "information",
+  "country": "se",
+  "code": "P7",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign P7.svg"
+  }
+}

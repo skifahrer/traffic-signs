@@ -1,0 +1,11 @@
+{
+  "sign": "pass-on-left",
+  "category": "regulatory",
+  "country": "se",
+  "code": "D2-2",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign D2-2.svg"
+  }
+}

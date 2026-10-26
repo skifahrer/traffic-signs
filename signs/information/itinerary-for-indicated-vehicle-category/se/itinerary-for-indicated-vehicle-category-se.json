@@ -1,0 +1,11 @@
+{
+  "sign": "itinerary-for-indicated-vehicle-category",
+  "category": "information",
+  "country": "se",
+  "code": "F31-1",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign F31-1.svg"
+  }
+}

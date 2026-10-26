@@ -1,0 +1,261 @@
+code,category,slug,name_en,name_sv
+A1-1,warning,bend-left,Bend (left),Varning för farlig kurva
+A1-2,warning,bend-right,Bend (right),Varning för farlig kurva
+A2-1,warning,double-bend-left,Double bend (first to the left),Varning för flera farliga kurvor
+A2-2,warning,double-bend-right,Double bend (first to the right),Varning för flera farliga kurvor
+A3,warning,steep-descent,Steep descent,Varning för nedförslutning
+A4,warning,steep-ascent,Steep ascent,Varning för stigning
+A5-1,warning,road-narrows-both-sides,Road narrows (from both sides),Varning för avsmalnande väg
+A5-2,warning,road-narrows-right,Road narrows (from the right),Varning för avsmalnande väg
+A5-3,warning,road-narrows-left,Road narrows (from the left),Varning för avsmalnande väg
+A6,warning,movable-bridge,Movable bridge,Varning för bro
+A7,warning,quayside,Quayside or river bank,Varning för kaj
+A8,warning,uneven-road,Uneven road,Varning för ojämn väg
+A9-1,warning,speed-bump,Speed bump,Varning för farthinder
+A9-2,warning,speed-bump-b,Speed bump (variant b),Varning för farthinder
+A10,warning,slippery-road,Slippery road,Varning för slirig väg
+A11,warning,loose-gravel,Loose gravel,Varning för stenskott
+A12-1,warning,fallen-rocks-right,Fallen rocks (from the right),Varning för stenras
+A12-2,warning,fallen-rocks-left,Fallen rocks (from the left),Varning för stenras
+A13,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Varning för övergångsställe
+A14,warning,pedestrians,Pedestrians,Varning för gående
+A15,warning,children,Children,Varning för barn
+A16,warning,cyclists,Cyclists,Varning för cyklande och mopedförare
+A17,warning,skiers-crossing,Skiers crossing,Varning för skidåkare
+A18,warning,horse-riders,Horse riders,Varning för ridande
+A19-1,warning,elk,Elk,Varning för älg
+A19-2,warning,wild-animals,Wild animals,Varning för hjort
+A19-3,warning,farm-animals,Farm animals,Varning för nötkreatur
+A19-4,warning,horses,Horses,Varning för häst
+A19-5,warning,reindeer,Reindeer,Varning för ren
+A19-6,warning,sheep,Sheep,Varning för får
+A19-7,warning,wild-boar,Wild boar,Varning för vildsvin
+A20,warning,roadworks,Roadworks,Varning för vägarbete
+A21,information,end-of-roadworks,End of roadworks,Slut på vägarbete
+A22,warning,traffic-signals,Traffic signals,Varning för flerfärgssignal
+A23-1,warning,low-flying-aircraft,Low-flying aircraft,Varning för lågt flygande flygplan
+A24-1,warning,crosswind,Crosswind,Varning för sidvind
+A25,warning,two-way-traffic,Two-way traffic,Varning för mötande trafik
+A26,warning,tunnel-ahead,Tunnel ahead,Varning för tunnel
+A27,warning,dangerous-verge,Dangerous verge,Varning för svag vägkant eller hög körbanekant
+A28,warning,intersection,Intersection,Varning för vägkorsning
+A29-1,warning,crossroads-with-minor-road,Crossroads with a road without priority,Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-2,warning,crossroads-with-minor-road-45-degrees,Crossroads with roads without priority (joining at 45°),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-3,warning,crossroads-with-minor-road-135-degrees,Crossroads with roads without priority (joining at 135°),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-4,warning,crossroads-with-minor-road-left-90-right-45-degrees,"Crossroads with roads without priority (left at 90°, right at 45°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-5,warning,crossroads-with-minor-road-left-90-right-135-degrees,"Crossroads with roads without priority (left at 90°, right at 135°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-6,warning,crossroads-with-minor-road-left-45-right-90-degrees,"Crossroads with roads without priority (left at 45°, right at 90°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-7,warning,crossroads-with-minor-road-left-135-right-90-degrees,"Crossroads with roads without priority (left at 135°, right at 90°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-8,warning,crossroads-with-minor-road-left-45-right-135-degrees,"Crossroads with roads without priority (left at 45°, right at 135°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-9,warning,crossroads-with-minor-road-left-135-right-45-degrees,"Crossroads with roads without priority (left at 135°, right at 45°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-10,warning,side-road-left-minor,Side road on the left (without priority),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-11,warning,side-road-left-minor-45-degrees,"Side road on the left (without priority, joining at 45°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-12,warning,side-road-left-minor-135-degrees,"Side road on the left (without priority, joining at 135°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-13,warning,side-road-right-minor,Side road on the right (without priority),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-14,warning,side-road-right-minor-45-degrees,"Side road on the right (without priority, joining at 45°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-15,warning,side-road-right-minor-135-degrees,"Side road on the right (without priority, joining at 135°)",Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-16,warning,priority-road-bends-left-side-roads-ahead-and-right,Junction where the priority road bends left (side roads ahead and on the right),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-17,warning,priority-road-bends-left-side-road-ahead,Junction where the priority road bends left (side road ahead),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-18,warning,priority-road-bends-left-side-road-on-the-right,Junction where the priority road bends left (side road on the right),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-19,warning,priority-road-bends-right-side-roads-ahead-and-left,Junction where the priority road bends right (side roads ahead and on the left),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-20,warning,priority-road-bends-right-side-road-ahead,Junction where the priority road bends right (side road ahead),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A29-21,warning,priority-road-bends-right-side-road-on-the-left,Junction where the priority road bends right (side road on the left),Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+A30,warning,roundabout-ahead,Roundabout ahead,Varning för cirkulationsplats
+A31,warning,slow-moving-vehicles,Slow-moving vehicles,Varning för långsamtgående fordon
+A32-1,warning,horse-drawn-vehicles,Horse-drawn vehicles,Varning för fordon med förspänt dragdjur
+A33,warning,snowmobile,Snowmobile,Varning för terrängskotertrafik
+A34,warning,queues,Queues likely,Varning för kö
+A35,warning,level-crossing-with-barriers,Level crossing with barriers,Varning för järnvägskorsning med bommar
+A36,warning,level-crossing-without-barriers,Level crossing without barriers,Varning för järnvägskorsning utan bommar
+A37,warning,trams,Trams,Varning för korsning med spårväg
+A39-1,warning,level-crossing-cross-single-track,Level crossing cross (single track),Kryssmärke för en järnväg
+A39-3,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Kryssmärke för flera järnvägsspår
+A40,warning,danger,Other danger,Varning för annan fara
+A41,warning,accident,Accident,Varning för olycka
+B1,regulatory,give-way,Give way,Väjningsplikt
+B2,regulatory,stop,"Stop, give way",Stopplikt
+B3-1,information,pedestrian-crossing,Pedestrian crossing,Övergångsställe
+B3-2,information,pedestrian-crossing-b,Pedestrian crossing (variant b),Övergångsställe
+B4,information,priority-road,Priority road,Huvudled
+B5,information,end-of-priority-road,End of priority road,Huvudled upphör
+B6,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Väjningsplikt mot mötande trafik
+B7,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Mötande trafik har väjningsplikt
+B8,information,cycle-crossing,Cycle crossing,Cykelöverfart
+C1,regulatory,no-entry,No entry,Förbud mot infart med fordon
+C2,regulatory,no-vehicles,No vehicles,Förbud mot trafik med fordon
+C3,regulatory,no-motor-vehicles,No motor vehicles,Förbud mot trafik med annat motordrivet fordon än moped klass II
+C4,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,Förbud mot trafik med motordrivet fordon med fler än två hjul
+C5,regulatory,no-motorcycles,No entry for motorcycles,Förbud mot trafik med motorcykel och moped klass I
+C6,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,Förbud mot trafik med motordrivet fordon med tillkopplad släpvagn
+C7,regulatory,no-goods-vehicles,No entry for goods vehicles,Förbud mot trafik med tung lastbil
+C8,regulatory,no-tractors,No entry for tractors,Förbud mot trafik med traktor och motorredskap klass II
+C9,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Förbud mot trafik med fordon lastat med farligt gods
+C10,regulatory,no-bicycles-or-mopeds,No bicycles or mopeds,Förbud mot trafik med cykel och moped klass II
+C11,regulatory,no-mopeds,No entry for mopeds,Förbud mot trafik med moped klass II
+C12,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Förbud mot trafik med fordon med förspänt dragdjur
+C13,regulatory,no-snowmobiles,No snowmobiles,Förbud mot trafik med terrängmotorfordon och terrängsläp
+C14,regulatory,no-riders,No entry for riders on animals,Förbud mot ridning
+C15,regulatory,no-pedestrians,No entry for pedestrians,Förbud mot gångtrafik
+C16,regulatory,maximum-width,Maximum width,Begränsad fordonsbredd
+C17,regulatory,maximum-height,Maximum height,Begränsad fordonshöjd
+C18,regulatory,maximum-length,Maximum length,Begränsad fordonslängd
+C19,regulatory,minimum-distance,Minimum distance between vehicles,Minsta avstånd
+C20,regulatory,maximum-weight,Maximum weight,Begränsad bruttovikt på fordon
+C21,regulatory,maximum-weight-combination,Maximum weight of a vehicle combination,Begränsad bruttovikt på fordon och fordonståg
+C23,regulatory,maximum-axle-weight,Maximum axle weight,Begränsat axeltryck
+C24,regulatory,maximum-bogie-weight,Maximum bogie weight,Begränsat boggitryck
+C25-1,regulatory,no-left-turn,No left turn,Förbud mot sväng i korsning
+C25-2,regulatory,no-right-turn,No right turn,Förbud mot sväng i korsning
+C26,regulatory,no-u-turn,No U-turn,Förbud mot U-sväng
+C27,regulatory,no-overtaking,No overtaking,Förbud mot omkörning
+C28,regulatory,end-of-no-overtaking,End of no overtaking,Slut på förbud mot omkörning
+C29,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Förbud mot omkörning med tung lastbil
+C30,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Slut på förbud mot omkörning med tung lastbil
+C31-7,regulatory,speed-limit-70,Speed limit (70 km/h),Hastighetsbegränsning
+C31-9,regulatory,speed-limit-90,Speed limit (90 km/h),Hastighetsbegränsning
+C33-1,regulatory,customs-stop-danish,Customs stop (in Danish),Stopp vid tull
+C33-2,regulatory,customs-stop-norwegian,Customs stop (in Norwegian),Stopp vid tull
+C33-3,regulatory,customs-stop-finnish,Customs stop (in Finnish),Stopp vid tull
+C33-4,regulatory,customs-stop-german,Customs stop (in German),Stopp vid tull
+C34-2,regulatory,stop-here-on-red,Stop here on red,Stopp för angivet ändamål
+C34-4,regulatory,police-check-stop,Police check stop,Stopp för angivet ändamål
+C35,regulatory,no-parking,No parking,Förbud mot att parkera fordon
+C36,regulatory,no-parking-odd-days,No parking on odd days,Förbud mot att parkera fordon på dag med udda datum
+C37,regulatory,no-parking-even-days,No parking on even days,Förbud mot att parkera fordon på dag med jämnt datum
+C38,regulatory,date-parking,Date parking (parking only on the side with odd or even dates),Datumparkering
+C39,regulatory,no-stopping,No stopping,Förbud mot att stanna och parkera fordon
+C40-1,regulatory,loading-bay,Loading bay,Ändamålsplats
+C42-1,regulatory,turning-place-no-parking,Turning place (no parking),Vändplats
+C42-2,regulatory,turning-place-no-stopping,Turning place (no stopping),Vändplats
+C44,regulatory,no-studded-tyres,No vehicles with studded tyres,Förbud mot trafik med fordon med dubbdäck
+C46,regulatory,maximum-triple-axle-weight,Maximum triple axle weight,Begränsat trippelaxeltryck
+D1-1,regulatory,turn-left,Turn left,Påbjuden körriktning
+D1-2,regulatory,turn-right,Turn right,Påbjuden körriktning
+D1-3,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Påbjuden körriktning
+D2-1,regulatory,pass-on-right,Pass on the right,Påbjuden körbana eller körfält
+D2-2,regulatory,pass-on-left,Pass on the left,Påbjuden körbana eller körfält
+D2-3,regulatory,pass-on-either-side,Pass on either side,Påbjuden körbana eller körfält
+D3,regulatory,roundabout,Roundabout,Cirkulationsplats
+D4,regulatory,cycle-path,Cycle path,Påbjuden cykelbana
+D5,regulatory,footpath,Footpath,Påbjuden gångbana
+D6,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Påbjuden gång- och cykelbana
+D7-1,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Påbjuden gångbana och cykelbana
+D7-2,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Påbjuden gångbana och cykelbana
+D8,regulatory,bridleway,Bridleway,Påbjuden ridväg
+D9,regulatory,snowmobile-route,Snowmobile route,Påbjuden led för terrängmotorfordon och terrängsläp
+D10,regulatory,public-transport-lane,Public transport lane,Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+D11-1,regulatory,end-of-public-transport-lane,End of public transport lane,Slut på körfält eller körbana för fordon i linjetrafik m.fl.
+E1,information,motorway,Motorway,Motorväg
+E2,information,end-of-motorway,End of motorway,Motorväg upphör
+E3,information,expressway,Expressway,Motortrafikled
+E4,information,end-of-expressway,End of expressway,Motortrafikled upphör
+E5,information,built-up-area,Built-up area,Tättbebyggt område
+E6,information,end-of-built-up-area,End of built-up area,Tättbebyggt område upphör
+E7,information,pedestrian-zone,Pedestrian zone,Gågata
+E8,information,end-of-pedestrian-zone,End of pedestrian zone,Gågata upphör
+E9,information,residential-zone,Residential zone,Gångfartsområde
+E10,information,end-of-residential-zone,End of residential zone,Gångfartsområde upphör
+E11-3,information,recommended-speed-zone,Recommended speed zone,Rekommenderad lägre hastighet
+E12-3,information,end-of-recommended-speed-zone,End of recommended speed zone,Rekommenderad lägre hastighet upphör
+E13-5,information,recommended-speed,Recommended speed,Rekommenderad högsta hastighet
+E14,information,end-of-recommended-speed,End of recommended speed,Rekommenderad högsta hastighet upphör
+E15,information,zip-merge,Zip merge,Sammanvävning
+E16-1-1,information,one-way-road-left,One-way road (left here),Enkelriktad trafik
+E17-1,information,dead-end,Dead end,Återvändsväg
+E18,information,passing-place,Passing place,Mötesplats
+E19,regulatory,parking,Parking,Parkering
+E20-1,regulatory,no-parking-zone,No parking zone,Områdesmärke
+E21-15,regulatory,end-of-no-stopping-zone,End of no stopping zone,Slut på område
+E22,information,bus-stop,"Bus, trolleybus or electric bus stop",Busshållplats
+E23,information,taxi-rank,Taxi rank,Taxi
+E24,information,speed-camera,Speed camera,Automatisk trafiksäkerhetskontroll
+E25,information,toll-road,Toll road,Betalväg
+E26,information,tunnel,Tunnel,Tunnel
+E27,information,emergency-lay-by,Emergency lay-by,Nödutrymningsplats
+E28-1,information,emergency-exit-left,Emergency exit (to the left),Nödutgång
+E29-1,information,direction-to-emergency-exit,Direction to emergency exit,Utrymningsväg
+F1-1,information,advance-direction-sign-diagrammatic,Advance direction sign (diagrammatic),Orienteringstavla
+F2,information,route-for-prohibited-left-turn,Route for a prohibited left turn,Orienteringstavla vid förbjuden sväng i korsning
+F4,information,exit-advance-sign,Exit advance sign (other roads),Avfartsorienteringstavla
+F5,information,direction-sign,Direction sign,Vägvisare
+F6,information,advance-direction-sign-stacked,Advance direction sign (stacked),Tabellvägvisare
+F7,information,exit,Exit (other roads),Avfartsvisare
+F9,information,direction-sign-summary,Directions,Samlingsmärke för vägvisning
+F10,information,place-name-sign,Place name,Platsmärke
+F13,information,distance-sign,Distance sign,Avståndstavla
+F14-3,information,national-road-number,National road number,Vägnummer
+F14-4,information,direction-to-road-shown,Direction to the road shown,Vägnummer
+F15,information,detour-route,Detour route,Omledning
+F17,information,lane-reduction,Lane reduction,Minskning av antal körfält
+F24-1,information,detour-arrow-right,Detour arrow (to the right),Färdriktning vid omledning
+F25-3,information,end-of-lane,End of lane,Körfält upphör
+F26-1,information,lane-closed,Lane closed,Körfält avstängt
+F26-2,information,lane-closed-b,Lane closed (variant b),Körfält avstängt
+F27,information,motorway-junction-number,Motorway junction number,Avfartsnummer
+F30,information,local-loop,Local loop,Lokal slinga
+F31-1,information,itinerary-for-indicated-vehicle-category,Itinerary for indicated vehicle category,Vägvisning för visst slag av fordon
+F31-5,information,itinerary-for-indicated-vehicle-category-b,Itinerary for indicated vehicle category (variant b),Vägvisning för visst slag av fordon
+F32,information,itinerary-for-transport-of-dangerous-goods,Itinerary for transport of dangerous goods,Vägvisning för fordon lastat med farligt gods
+F34,information,cycle-direction-sign,Direction sign for cyclists,Vägvisare för cykeltrafik
+F35,information,cycle-direction-sign-stacked,Direction sign for cyclists (stacked panels),Tabellvägvisare för cykeltrafik
+F36,information,cycle-place-name,Place name for cyclists,Platsmärke för cykeltrafik
+F37,information,cycle-distance-sign,Distance sign for cyclists,Avståndstavla för cykeltrafik
+F38,information,cycle-route,Cycle route,Cykelled
+G1,information,services-post-office,Services (post office),Post
+G2,information,services-emergency-telephone,Services (emergency telephone),Hjälptelefon
+G3,information,services-traffic-radio,Services (traffic information radio),Radiostation för trafikinformation
+G4,information,services-hospital,Services (hospital),Akutsjukhus
+G5,information,industrial-area,Industrial area,Industriområde
+G6,information,railway-station,Railway station,Järnvägsstation
+G7,information,bus-station,Bus station,Busstation
+G9,information,fire-extinguisher,Fire extinguisher,Brandsläckare
+H1,information,services-information-point,Services (information point),Informationsplats
+H2,information,services-vehicle-repair,Services (vehicle repair),Fordonsverkstad
+H3,information,services-filling-station,Services (filling station),Drivmedel
+H5,information,services-cafe,Services (café or snack bar open every day),Servering
+H6,information,services-restaurant,Services (roadside restaurant),Restaurang
+H7,information,services-hotel-or-motel,Services (hotel or motel),Hotell eller motell
+H8,information,services-youth-hostel,Services (youth hostel),Vandrarhem
+H10,information,cottage-accommodation,Cottage accommodation,Stuga
+H11,information,services-campsite,Services (campsite),Campingplats
+H12,information,services-caravan-site,Services (caravan site),Husvagnsplats
+H13,information,services-picnic-site,Services (picnic site),Rastplats
+H14,information,services-toilets,Services (toilets),Toalett
+H15,information,swimming-place,Swimming place,Badplats
+H16,information,recreational-area,Recreational area,Friluftsområde
+H17,information,services-hiking-trail,Services (hiking trail),Vandringsled
+H18,information,services-chairlift,Services (chairlift or gondola),Stollift
+H19,information,ski-lift,Ski lift,Släplift
+H20,information,golf-course,Golf course,Golfbana
+H21,information,fishing-place,Fishing place,Försäljningsställe för fiskekort
+H22,information,other-tourist-attraction,Other tourist attraction,Sevärdhet
+I1,information,tourist-route,Tourist route,Turistväg
+I2,information,tourist-area,Tourist area,Turistområde
+J3-1,warning,overhead-power-lines,Overhead power lines,Livsfarlig ledning
+P6,information,heavy-vehicle-control-site,Control site for heavy vehicles,Kontrollplats
+P7,information,heavy-vehicle-control-site-advance,Control site for heavy vehicles (advance sign),Orienteringstavla för kontrollplats
+T2,additional-panel,distance,Distance,Avstånd
+T3,additional-panel,distance-to-stop-line,Distance to the stop line,Avstånd till stopplikt
+T4,additional-panel,clearance-width,Clearance width,Fri bredd
+T5,additional-panel,maximum-permitted-weight,Maximum permitted weight,Totalvikt
+T6,additional-panel,time-period,Time period (e.g. 16–18 h),Tidsangivelse
+T7-1,additional-panel,time-limit,Time limit,Särskilda bestämmelser för stannande och parkering
+T7-2,additional-panel,no-parking-during-times,No parking during the times shown,Särskilda bestämmelser för stannande och parkering
+T9,additional-panel,blind-pedestrians-may-be-crossing,Blind pedestrians may be crossing,Nedsatt syn
+T10,additional-panel,deaf-pedestrians-may-be-crossing,Deaf pedestrians may be crossing,Nedsatt hörsel
+T13,additional-panel,all-way-give-way,All-way give way,Flervägsväjning
+T14,additional-panel,all-way,All way (plaque),Flervägsstopp
+T21-1,additional-panel,parking-position-bays-perpendicular,Parking position (perpendicular bays),Uppställning av fordon
+T21-2,additional-panel,parking-position-bays-parallel,Parking position (parallel bays),Uppställning av fordon
+T21-3,additional-panel,parking-position-bays-angled,Parking position (angled bays),Uppställning av fordon
+T21-4,additional-panel,parking-position-bays-angled-b,"Parking position (angled bays, variant b)",Uppställning av fordon
+"X1 (1 chevron, left)",traffic-device,chevron-board-1-arrow-left,Chevron (left),Markeringsskärm
+"X1 (1 chevron, right)",traffic-device,chevron-board-1-arrow-right,Chevron (right),Markeringsskärm
+"X1 (2 chevrons, left)",traffic-device,chevron-board-2-arrows-left,"Chevron board (2 arrows, left-pointing)",Markeringsskärm
+"X1 (2 chevrons, right)",traffic-device,chevron-board-2-arrows-right,"Chevron board (2 arrows, right-pointing)",Markeringsskärm
+"X1 (3 chevrons, left)",traffic-device,chevron-board-3-arrows-left,"Chevron board (3 arrows, left-pointing)",Markeringsskärm
+"X1 (3 chevrons, right)",traffic-device,chevron-board-3-arrows-right,"Chevron board (3 arrows, right-pointing)",Markeringsskärm
+"X1 (4 chevrons, left)",traffic-device,chevron-board-4-arrows-left,"Chevron board (4 arrows, left-pointing)",Markeringsskärm
+"X1 (4 chevrons, right)",traffic-device,chevron-board-4-arrows-right,"Chevron board (4 arrows, right-pointing)",Markeringsskärm
+"X1 (temporary, 2 chevrons, left)",traffic-device,chevron-board-2-arrows-left-temporary,"Chevron board (2 arrows, left-pointing, temporary)",Markeringsskärm
+X4,information,vertical-chevron,Vertical chevron,Markeringspil

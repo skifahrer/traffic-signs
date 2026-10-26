@@ -1,0 +1,11 @@
+{
+  "sign": "turn-left",
+  "category": "regulatory",
+  "country": "se",
+  "code": "D1-1",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign D1-1.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "crossroads-with-minor-road-left-90-right-135-degrees",
+  "category": "warning",
+  "country": "se",
+  "code": "A29-5",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign A29-5.svg"
+  }
+}

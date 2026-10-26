@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`), Croatia (`hr`), Czech Republic (`cz`), Denmark (`dk`), Estonia (`ee`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Latvia (`lv`), Lithuania (`lt`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`), Croatia (`hr`), Czech Republic (`cz`), Denmark (`dk`), Estonia (`ee`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Latvia (`lv`), Lithuania (`lt`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Sweden (`se`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -32,7 +32,7 @@ Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`)
 1. ~~Greece (`gr`), Romania (`ro`), Finland (`fi`)~~ added
 2. ~~Portugal (`pt`), Ukraine (`ua`), Denmark (`dk`)~~ added
 3. ~~Ireland (`ie`), Netherlands (`nl`), Belgium (`be`)~~ added
-4. Sweden (`se`), Norway (`no`), Iceland (`is`)
+4. ~~Sweden (`se`)~~ added, Norway (`no`), Iceland (`is`)
 5. Russia (`ru`), ~~Latvia (`lv`)~~ added, ~~Lithuania (`lt`)~~ added
 6. ~~Croatia (`hr`)~~ added, Moldova (`md`), Belarus (`by`)
 7. Switzerland and Liechtenstein (`ch`), Georgia (`ge`), Serbia (`rs`)
@@ -72,7 +72,7 @@ Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`)
 | 7 | [Ireland](https://en.wikipedia.org/wiki/Road_signs_in_Ireland) | `ie` | 465 | ✅ added | codes in captions |
 | 8 | [Netherlands](https://en.wikipedia.org/wiki/Road_signs_in_the_Netherlands) | `nl` | 450 | ✅ added | codes in captions |
 | 9 | [Belgium](https://en.wikipedia.org/wiki/Road_signs_in_Belgium) | `be` | 427 | ✅ added | codes in image names |
-| 10 | [Sweden](https://en.wikipedia.org/wiki/Road_signs_in_Sweden) | `se` | 422 | ✅ ready | codes in image names |
+| 10 | [Sweden](https://en.wikipedia.org/wiki/Road_signs_in_Sweden) | `se` | 422 | ✅ added | codes in image names |
 | 11 | [Norway](https://en.wikipedia.org/wiki/Road_signs_in_Norway) | `no` | 412 | ✅ ready | codes in image names |
 | 12 | [Iceland](https://en.wikipedia.org/wiki/Road_signs_in_Iceland) | `is` | 385 | ✅ ready | codes in image names |
 | 13 | [Russia](https://en.wikipedia.org/wiki/Road_signs_in_Russia) | `ru` | 377 | ✅ ready | codes in captions |

@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles",
+  "category": "regulatory",
+  "country": "se",
+  "code": "C7",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",
+    "file": "Sweden road sign C7.svg"
+  }
+}

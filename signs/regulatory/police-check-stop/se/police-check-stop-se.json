@@ -1,0 +1,11 @@
+{
+  "sign": "police-check-stop",
+  "category": "regulatory",
+  "country": "se",
+  "code": "C34-4",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign C34-4.svg"
+  }
+}

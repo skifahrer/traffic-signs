@@ -1,0 +1,11 @@
+{
+  "sign": "slippery-road",
+  "category": "warning",
+  "country": "se",
+  "code": "A10",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign A10.svg"
+  }
+}

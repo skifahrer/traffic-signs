@@ -1,0 +1,11 @@
+{
+  "sign": "detour-arrow-right",
+  "category": "information",
+  "country": "se",
+  "code": "F24-1",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",
+    "file": "Sweden road sign F24-1.svg"
+  }
+}

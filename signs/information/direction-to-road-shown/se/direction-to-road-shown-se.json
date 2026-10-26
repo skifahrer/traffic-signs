@@ -1,0 +1,11 @@
+{
+  "sign": "direction-to-road-shown",
+  "category": "information",
+  "country": "se",
+  "code": "F14-4",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign F14-4.svg"
+  }
+}
