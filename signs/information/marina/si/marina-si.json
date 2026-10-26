@@ -1,0 +1,11 @@
+{
+  "sign": "marina",
+  "category": "information",
+  "country": "si",
+  "code": "III-57",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-57.svg"
+  }
+}

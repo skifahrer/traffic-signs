@@ -1,0 +1,11 @@
+{
+  "sign": "snow-or-ice-panel",
+  "category": "additional-panel",
+  "country": "si",
+  "code": "IV-12.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign IV-12.1.svg"
+  }
+}

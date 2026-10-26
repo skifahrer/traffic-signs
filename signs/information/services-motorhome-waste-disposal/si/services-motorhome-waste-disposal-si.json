@@ -1,0 +1,11 @@
+{
+  "sign": "services-motorhome-waste-disposal",
+  "category": "information",
+  "country": "si",
+  "code": "III-42",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-42.svg"
+  }
+}

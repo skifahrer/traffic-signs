@@ -1,0 +1,11 @@
+{
+  "sign": "rest-area-advance-turn",
+  "category": "information",
+  "country": "si",
+  "code": "III-96",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign III-96.svg"
+  }
+}

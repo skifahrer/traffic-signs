@@ -1,0 +1,11 @@
+{
+  "sign": "forest-fire-danger",
+  "category": "warning",
+  "country": "si",
+  "code": "I-35",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign I-35.svg"
+  }
+}

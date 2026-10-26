@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-all-restrictions",
+  "category": "regulatory",
+  "country": "si",
+  "code": "III-21",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-21.svg"
+  }
+}

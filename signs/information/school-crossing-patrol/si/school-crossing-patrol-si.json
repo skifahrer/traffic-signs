@@ -1,0 +1,11 @@
+{
+  "sign": "school-crossing-patrol",
+  "category": "information",
+  "country": "si",
+  "code": "III-110",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign III-110.svg"
+  }
+}

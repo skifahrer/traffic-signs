@@ -1,0 +1,11 @@
+{
+  "sign": "crossroads-with-minor-road",
+  "category": "warning",
+  "country": "si",
+  "code": "I-27",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign I-27.svg"
+  }
+}

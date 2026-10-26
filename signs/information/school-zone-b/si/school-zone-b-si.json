@@ -1,0 +1,11 @@
+{
+  "sign": "school-zone-b",
+  "category": "information",
+  "country": "si",
+  "code": "III-120.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign III-120.1.svg"
+  }
+}

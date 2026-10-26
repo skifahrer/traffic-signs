@@ -1,0 +1,11 @@
+{
+  "sign": "emergency-access-route",
+  "category": "information",
+  "country": "si",
+  "code": "III-124",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign III-124.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "built-up-area",
+  "category": "information",
+  "country": "si",
+  "code": "III-14",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign III-14.svg"
+  }
+}

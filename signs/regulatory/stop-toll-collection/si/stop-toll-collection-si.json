@@ -1,0 +1,11 @@
+{
+  "sign": "stop-toll-collection",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-32.2",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-32.2.svg"
+  }
+}

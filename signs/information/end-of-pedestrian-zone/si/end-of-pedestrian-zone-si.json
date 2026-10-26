@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-pedestrian-zone",
+  "category": "information",
+  "country": "si",
+  "code": "III-32",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-32.svg"
+  }
+}

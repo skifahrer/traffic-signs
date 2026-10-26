@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-with-trailers-except-light-trailers",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-10.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign II-10.1.svg"
+  }
+}

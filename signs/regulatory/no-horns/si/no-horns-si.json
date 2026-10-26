@@ -1,0 +1,11 @@
+{
+  "sign": "no-horns",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-31",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-31.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-mopeds",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-13",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-13.svg"
+  }
+}

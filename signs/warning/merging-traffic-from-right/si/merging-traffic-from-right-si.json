@@ -1,0 +1,11 @@
+{
+  "sign": "merging-traffic-from-right",
+  "category": "warning",
+  "country": "si",
+  "code": "I-29.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign I-29.1.svg"
+  }
+}

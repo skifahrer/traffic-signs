@@ -1,0 +1,11 @@
+{
+  "sign": "roundabout",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-48",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-48.svg"
+  }
+}

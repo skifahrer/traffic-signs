@@ -1,0 +1,11 @@
+{
+  "sign": "tunnel-with-name-and-length",
+  "category": "information",
+  "country": "si",
+  "code": "III-65",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-65.svg"
+  }
+}

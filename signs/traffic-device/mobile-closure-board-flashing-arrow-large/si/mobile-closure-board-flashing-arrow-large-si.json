@@ -1,0 +1,11 @@
+{
+  "sign": "mobile-closure-board-flashing-arrow-large",
+  "category": "traffic-device",
+  "country": "si",
+  "code": "VI-6",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign VI-6.svg"
+  }
+}

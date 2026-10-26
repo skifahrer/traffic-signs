@@ -1,0 +1,11 @@
+{
+  "sign": "services-first-aid",
+  "category": "information",
+  "country": "si",
+  "code": "III-39",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-39.svg"
+  }
+}

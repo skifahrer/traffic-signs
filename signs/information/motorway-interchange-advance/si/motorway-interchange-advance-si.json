@@ -1,0 +1,11 @@
+{
+  "sign": "motorway-interchange-advance",
+  "category": "information",
+  "country": "si",
+  "code": "III-92.2",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-92.2.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-u-turn",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-27",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-27.svg"
+  }
+}

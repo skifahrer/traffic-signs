@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-left-or-right",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-46.2",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-46.2.svg"
+  }
+}
