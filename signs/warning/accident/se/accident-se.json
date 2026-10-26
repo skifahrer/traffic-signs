@@ -1,0 +1,11 @@
+{
+  "sign": "accident",
+  "category": "warning",
+  "country": "se",
+  "code": "A41",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign A41.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "chevron-board-2-arrows-left-temporary",
+  "category": "traffic-device",
+  "country": "se",
+  "code": "X1 (temporary, 2 chevrons, left)",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "SE road sign X1 (temporary, 2 chevrons, left).svg"
+  }
+}

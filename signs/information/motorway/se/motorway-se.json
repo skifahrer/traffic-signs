@@ -1,0 +1,19 @@
+{
+  "sign": "motorway",
+  "category": "information",
+  "country": "se",
+  "code": "E1",
+  "image": {
+    "file": "motorway-se.svg",
+    "sha1": "024bb1536ba2c544336d9c8935990f9c90b10466",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",
+    "file": "Sweden road sign E1.svg"
+  }
+}

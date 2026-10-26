@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-bends-right-side-road-ahead",
+  "category": "warning",
+  "country": "se",
+  "code": "A29-20",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign A29-20.svg"
+  }
+}

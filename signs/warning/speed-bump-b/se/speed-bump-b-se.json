@@ -1,0 +1,11 @@
+{
+  "sign": "speed-bump-b",
+  "category": "warning",
+  "country": "se",
+  "code": "A9-2",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign A9-2.svg"
+  }
+}

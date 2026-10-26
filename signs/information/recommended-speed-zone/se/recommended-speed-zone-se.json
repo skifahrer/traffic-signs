@@ -1,0 +1,11 @@
+{
+  "sign": "recommended-speed-zone",
+  "category": "information",
+  "country": "se",
+  "code": "E11-3",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",
+    "file": "Sweden road sign E11-3.svg"
+  }
+}

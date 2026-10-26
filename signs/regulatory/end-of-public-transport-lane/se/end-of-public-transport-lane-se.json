@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-public-transport-lane",
+  "category": "regulatory",
+  "country": "se",
+  "code": "D11-1",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",
+    "file": "Sweden road sign D11-1.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "horses",
+  "category": "warning",
+  "country": "se",
+  "code": "A19-4",
+  "source": {
+    "pipeline": "se-wikipedia",
+    "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",
+    "file": "Sweden road sign A19-4.svg"
+  }
+}
