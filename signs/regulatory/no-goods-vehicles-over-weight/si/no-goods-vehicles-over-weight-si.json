@@ -1,0 +1,11 @@
+{
+  "sign": "no-goods-vehicles-over-weight",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-7.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign II-7.1.svg"
+  }
+}

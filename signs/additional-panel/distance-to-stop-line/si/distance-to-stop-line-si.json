@@ -1,0 +1,11 @@
+{
+  "sign": "distance-to-stop-line",
+  "category": "additional-panel",
+  "country": "si",
+  "code": "IV-1.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign IV-1.1.svg"
+  }
+}

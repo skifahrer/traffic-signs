@@ -1,0 +1,11 @@
+{
+  "sign": "parking-with-disc",
+  "category": "regulatory",
+  "country": "si",
+  "code": "III-37",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-37.svg"
+  }
+}

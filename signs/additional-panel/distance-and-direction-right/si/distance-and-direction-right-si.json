@@ -1,0 +1,11 @@
+{
+  "sign": "distance-and-direction-right",
+  "category": "additional-panel",
+  "country": "si",
+  "code": "IV-3",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign IV-3.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "no-motor-vehicles-with-trailers-except-semi-trailers-and-light-trailers",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-10",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-10.svg"
+  }
+}

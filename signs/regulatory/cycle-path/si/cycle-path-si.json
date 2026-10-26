@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-path",
+  "category": "regulatory",
+  "country": "si",
+  "code": "II-40",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign II-40.svg"
+  }
+}

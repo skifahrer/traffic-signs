@@ -1,0 +1,11 @@
+{
+  "sign": "level-crossing-cross-multiple-tracks-b",
+  "category": "warning",
+  "country": "si",
+  "code": "I-38.3",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign I-38.3.svg"
+  }
+}

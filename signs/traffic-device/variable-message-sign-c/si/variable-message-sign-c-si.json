@@ -1,0 +1,11 @@
+{
+  "sign": "variable-message-sign-c",
+  "category": "traffic-device",
+  "country": "si",
+  "code": "VI-7.2",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign VI-7.2.svg"
+  }
+}

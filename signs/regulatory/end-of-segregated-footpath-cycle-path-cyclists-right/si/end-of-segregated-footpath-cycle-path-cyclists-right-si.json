@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-segregated-footpath-cycle-path-cyclists-right",
+  "category": "regulatory",
+  "country": "si",
+  "code": "III-25.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-25.1.svg"
+  }
+}

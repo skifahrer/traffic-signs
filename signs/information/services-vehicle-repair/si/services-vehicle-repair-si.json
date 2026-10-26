@@ -1,0 +1,11 @@
+{
+  "sign": "services-vehicle-repair",
+  "category": "information",
+  "country": "si",
+  "code": "III-40",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-40.svg"
+  }
+}

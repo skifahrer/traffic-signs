@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-recommended-speed",
+  "category": "information",
+  "country": "si",
+  "code": "III-71",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign III-71 (100).svg"
+  }
+}

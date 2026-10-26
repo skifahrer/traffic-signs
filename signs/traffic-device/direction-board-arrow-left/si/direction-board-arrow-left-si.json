@@ -1,0 +1,11 @@
+{
+  "sign": "direction-board-arrow-left",
+  "category": "traffic-device",
+  "country": "si",
+  "code": "VI-2.1",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Slovenia",
+    "file": "Slovenia road sign VI-2.1.svg"
+  }
+}

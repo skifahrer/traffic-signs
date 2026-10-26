@@ -1,0 +1,11 @@
+{
+  "sign": "loose-gravel",
+  "category": "warning",
+  "country": "si",
+  "code": "I-12",
+  "source": {
+    "pipeline": "si-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Slovenia",
+    "file": "Slovenia road sign I-12.svg"
+  }
+}
