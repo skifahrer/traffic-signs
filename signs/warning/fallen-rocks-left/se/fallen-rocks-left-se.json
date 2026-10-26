@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A12-2",
+  "image": {
+    "file": "fallen-rocks-left-se.svg",
+    "sha1": "a480c0b4a5386d9a8c1fd914ad9c13cded43d078",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A12-2.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

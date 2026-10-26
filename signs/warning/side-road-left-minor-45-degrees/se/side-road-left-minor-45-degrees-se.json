@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A29-11",
+  "image": {
+    "file": "side-road-left-minor-45-degrees-se.svg",
+    "sha1": "cd0e17f384232433a034baf06b7c67687b4b84c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A29-11.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

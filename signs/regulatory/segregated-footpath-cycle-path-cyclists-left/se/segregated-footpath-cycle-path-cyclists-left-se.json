@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D7-2",
+  "image": {
+    "file": "segregated-footpath-cycle-path-cyclists-left-se.svg",
+    "sha1": "cd71a56e7e2928950e616daa18d4e66c407e181d",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D7-2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

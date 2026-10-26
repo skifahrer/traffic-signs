@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D1-1",
+  "image": {
+    "file": "turn-left-se.svg",
+    "sha1": "ec487e57b539fb10bd422bf598d4729744503652",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D1-1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

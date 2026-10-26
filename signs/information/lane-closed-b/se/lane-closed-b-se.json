@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F26-2",
+  "image": {
+    "file": "lane-closed-b-se.svg",
+    "sha1": "6bc59fe318e6988c0298b3312f0aa9534fef55b6",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F26-2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

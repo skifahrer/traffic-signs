@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C11",
+  "image": {
+    "file": "no-mopeds-se.svg",
+    "sha1": "67e9a323910b2a529454f9fe0c55dcd40ea82903",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C11.svg",
+    "author": "Vägverket.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

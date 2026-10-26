@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D9",
+  "image": {
+    "file": "snowmobile-route-se.svg",
+    "sha1": "46691c858fce38359ee83818ac2bb6afc6a1c854",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D9.svg",
+    "author": "Swedish Transport Administration (Transportstyrelsen)",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

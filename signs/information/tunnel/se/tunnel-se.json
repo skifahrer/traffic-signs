@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E26",
+  "image": {
+    "file": "tunnel-se.svg",
+    "sha1": "b6bfb10438fb9bcaacd1d285dde55bc808a36085",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E26.svg",
+    "author": "Lokal_Profil",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

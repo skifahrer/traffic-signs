@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F36",
+  "image": {
+    "file": "cycle-place-name-se.svg",
+    "sha1": "778d12ba697c20390caa9c4e42c37436bee08a25",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F36.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

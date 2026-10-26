@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A2-2",
+  "image": {
+    "file": "double-bend-right-se.svg",
+    "sha1": "eb87d122a5c70d3a6132d659edc8ad2110825ace",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A2-2.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

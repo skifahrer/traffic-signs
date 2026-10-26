@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F25-3",
+  "image": {
+    "file": "end-of-lane-se.svg",
+    "sha1": "a20d9dbf0a2994f272086b6c7d423871a029f192",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F25-3.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

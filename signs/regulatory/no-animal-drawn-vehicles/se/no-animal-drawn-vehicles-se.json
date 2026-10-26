@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C12",
+  "image": {
+    "file": "no-animal-drawn-vehicles-se.svg",
+    "sha1": "d7108b30abce6665edf79cb0229d8a5c43bc92b2",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C12.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

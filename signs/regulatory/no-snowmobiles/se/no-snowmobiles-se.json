@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C13",
+  "image": {
+    "file": "no-snowmobiles-se.svg",
+    "sha1": "f0e294c99917414127eb4f38800ead2e6218c3a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C13.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

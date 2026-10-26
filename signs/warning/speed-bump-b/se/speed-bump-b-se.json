@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A9-2",
+  "image": {
+    "file": "speed-bump-b-se.svg",
+    "sha1": "24dc2413ea06e5beb5488c6a8ca1e9240e183302",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A9-2.svg",
+    "author": "Transportstyrelsen, re-made by Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

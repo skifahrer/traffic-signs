@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "B4",
+  "image": {
+    "file": "priority-road-se.svg",
+    "sha1": "378dc056cb75547a25230f8af0f0b5abfa8663c0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_B4.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A25",
+  "image": {
+    "file": "two-way-traffic-se.svg",
+    "sha1": "81773b6364a7fefe47c8ce5118ffd61741692edf",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A25.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

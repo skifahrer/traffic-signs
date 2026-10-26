@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A1-1",
+  "image": {
+    "file": "bend-left-se.svg",
+    "sha1": "a4452bd54d7be6f505ddc0997dc8daa191b1a6a9",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A1-1.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

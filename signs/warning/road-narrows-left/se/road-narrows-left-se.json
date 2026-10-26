@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A5-3",
+  "image": {
+    "file": "road-narrows-left-se.svg",
+    "sha1": "743608eb54b216f40ebdbe4e439786f7e514e6d6",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A5-3.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

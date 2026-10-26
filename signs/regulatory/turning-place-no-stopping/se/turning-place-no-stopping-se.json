@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C42-2",
+  "image": {
+    "file": "turning-place-no-stopping-se.svg",
+    "sha1": "33f0930553229158b9a2d7ac95506e97cba53723",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C42-2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

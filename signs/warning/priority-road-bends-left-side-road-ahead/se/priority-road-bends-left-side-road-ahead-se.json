@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A29-17",
+  "image": {
+    "file": "priority-road-bends-left-side-road-ahead-se.svg",
+    "sha1": "024b37a7b694b43612116a082028da147c13d481",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A29-17.svg",
+    "author": "Transportstyrelsen; re-made by Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

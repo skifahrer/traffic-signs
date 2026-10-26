@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C25-2",
+  "image": {
+    "file": "no-right-turn-se.svg",
+    "sha1": "ae930923cc62cc520ac874859ba5f82530ad4e6e",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C25-2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

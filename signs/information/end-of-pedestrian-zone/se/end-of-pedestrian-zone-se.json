@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E8",
+  "image": {
+    "file": "end-of-pedestrian-zone-se.svg",
+    "sha1": "99ac50f40a2376dbb5a7c18394e7e2a3ceef6f2e",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E8.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

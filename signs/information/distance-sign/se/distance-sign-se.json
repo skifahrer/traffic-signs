@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F13",
+  "image": {
+    "file": "distance-sign-se.svg",
+    "sha1": "104f7b70c71558c90fb4e1d66b8a2c13e6a58aa5",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F13.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

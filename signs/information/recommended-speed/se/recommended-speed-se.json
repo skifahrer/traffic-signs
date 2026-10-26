@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E13-5",
+  "image": {
+    "file": "recommended-speed-se.svg",
+    "sha1": "9dacbf51316b1ccbc49d55967924d62e4b04aa5a",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E13-5.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

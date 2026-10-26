@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A18",
+  "image": {
+    "file": "horse-riders-se.svg",
+    "sha1": "61346a0a6de68d6149d9589b59aa053b90e8ff77",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A18.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

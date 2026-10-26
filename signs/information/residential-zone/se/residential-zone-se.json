@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E9",
+  "image": {
+    "file": "residential-zone-se.svg",
+    "sha1": "d28f3cb84c4e7b19ddbb859662fb4b054375d938",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E9.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

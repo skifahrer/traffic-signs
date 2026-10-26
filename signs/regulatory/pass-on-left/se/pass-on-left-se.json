@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D2-2",
+  "image": {
+    "file": "pass-on-left-se.svg",
+    "sha1": "7574be67dc6674ddc34a28a979075265e373f471",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D2-2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C23",
+  "image": {
+    "file": "maximum-axle-weight-se.svg",
+    "sha1": "a98ba80e4c3b0334a3d2f77f6046d8488d184085",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C23.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

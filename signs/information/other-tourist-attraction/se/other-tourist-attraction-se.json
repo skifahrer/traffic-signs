@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H22",
+  "image": {
+    "file": "other-tourist-attraction-se.svg",
+    "sha1": "d2bc6a12f28f256ee30bfeb36c712dc5da83c91e",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H22.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

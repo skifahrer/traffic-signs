@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C33-3",
+  "image": {
+    "file": "customs-stop-finnish-se.svg",
+    "sha1": "ebd5bf11ffe27e12a22512e9d48460c1328d7ba9",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C33-3.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

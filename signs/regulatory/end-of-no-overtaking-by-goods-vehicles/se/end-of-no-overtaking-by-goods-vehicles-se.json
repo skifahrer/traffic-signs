@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C30",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-se.svg",
+    "sha1": "58db67cd512e5ce8fd12856effeddfa3f5bcbfba",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C30.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

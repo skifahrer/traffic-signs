@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C37",
+  "image": {
+    "file": "no-parking-even-days-se.svg",
+    "sha1": "548d78b83be57c20bce45f3c02977ae732ca2115",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C37.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

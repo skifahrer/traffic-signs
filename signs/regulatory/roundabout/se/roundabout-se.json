@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D3",
+  "image": {
+    "file": "roundabout-se.svg",
+    "sha1": "e9ac94a70ae740bb7f7b4c36177c24c14ced6b58",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D3.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

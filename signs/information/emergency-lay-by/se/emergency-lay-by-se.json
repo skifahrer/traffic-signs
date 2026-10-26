@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E27",
+  "image": {
+    "file": "emergency-lay-by-se.svg",
+    "sha1": "a0b7ea408a6a80f20e252618c7a133fb37d8f3d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E27.svg",
+    "author": "Lokal Profil",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

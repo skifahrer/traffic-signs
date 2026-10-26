@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A30",
+  "image": {
+    "file": "roundabout-ahead-se.svg",
+    "sha1": "85f911134f2c9bc0cc2436a324a9b65197596409",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A30.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

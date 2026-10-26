@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D10",
+  "image": {
+    "file": "public-transport-lane-se.svg",
+    "sha1": "8c65b07a2945b66a1001cfd896b2eabb28a100d0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D10.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

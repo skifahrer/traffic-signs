@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "se",
   "code": "T21-3",
+  "image": {
+    "file": "parking-position-bays-angled-se.svg",
+    "sha1": "3c7b3d5e7277ec5ec7ee10b25d6dece131605487",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_T21-3.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

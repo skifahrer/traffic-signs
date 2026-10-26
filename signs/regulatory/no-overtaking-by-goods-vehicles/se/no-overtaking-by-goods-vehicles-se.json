@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C29",
+  "image": {
+    "file": "no-overtaking-by-goods-vehicles-se.svg",
+    "sha1": "070a41b0b0ed3f80c7806bc7b9fbf30393fe81a3",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C29.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C5",
+  "image": {
+    "file": "no-motorcycles-se.svg",
+    "sha1": "f6e94366a8d4f90fa3e9ea3902810804f787b117",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C5.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

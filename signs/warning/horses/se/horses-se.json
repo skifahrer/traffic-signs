@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A19-4",
+  "image": {
+    "file": "horses-se.svg",
+    "sha1": "c51ce5b3dda16405b53485a545d00c3aced022dd",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A19-4.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

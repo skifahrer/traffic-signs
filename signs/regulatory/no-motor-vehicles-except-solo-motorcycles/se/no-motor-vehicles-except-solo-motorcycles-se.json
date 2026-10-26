@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C4",
+  "image": {
+    "file": "no-motor-vehicles-except-solo-motorcycles-se.svg",
+    "sha1": "4977b45e18f63480946dc8d3af1d70839a915195",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C4.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

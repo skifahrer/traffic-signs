@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F2",
+  "image": {
+    "file": "route-for-prohibited-left-turn-se.svg",
+    "sha1": "c427a374e078297eb19524930c927a84a946abb8",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

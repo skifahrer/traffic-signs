@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "se",
   "code": "T4",
+  "image": {
+    "file": "clearance-width-se.svg",
+    "sha1": "ed84bf80ecc2b8bf6afc761c303f603d1a9a5b08",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_T4.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

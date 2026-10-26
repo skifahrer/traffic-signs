@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F31-5",
+  "image": {
+    "file": "itinerary-for-indicated-vehicle-category-b-se.svg",
+    "sha1": "79f2d2085171ff468c800579f3e37aa154bcbfb1",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F31-5.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

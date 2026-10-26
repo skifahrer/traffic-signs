@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F27",
+  "image": {
+    "file": "motorway-junction-number-se.svg",
+    "sha1": "268ad7df4418732974ce9e332595255151b30dbb",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F27.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

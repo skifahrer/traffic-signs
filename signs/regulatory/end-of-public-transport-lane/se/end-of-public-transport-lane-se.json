@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D11-1",
+  "image": {
+    "file": "end-of-public-transport-lane-se.svg",
+    "sha1": "51b4d5719ec7b5ce48015d5698cf3216ce026dee",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D11-1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

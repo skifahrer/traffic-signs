@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D1-3",
+  "image": {
+    "file": "mandatory-direction-straight-se.svg",
+    "sha1": "6a9abced3b93aa8cf1d3f7fdb0bbde615ac16643",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D1-3.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

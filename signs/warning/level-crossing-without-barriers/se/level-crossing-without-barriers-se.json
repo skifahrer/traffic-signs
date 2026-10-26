@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A36",
+  "image": {
+    "file": "level-crossing-without-barriers-se.svg",
+    "sha1": "400bb6e7977a5f1c0ee7c695328a6b3d4f3cc506",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A36.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

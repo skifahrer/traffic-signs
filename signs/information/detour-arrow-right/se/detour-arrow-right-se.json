@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F24-1",
+  "image": {
+    "file": "detour-arrow-right-se.svg",
+    "sha1": "61e0790c16c364c29c94470cd88286283446dc21",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F24-1.svg",
+    "author": "hejkompis",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

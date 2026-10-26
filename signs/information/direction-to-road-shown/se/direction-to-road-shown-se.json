@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F14-4",
+  "image": {
+    "file": "direction-to-road-shown-se.svg",
+    "sha1": "1d703be5b7567f9c246951c56d80089dfa0d6944",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F14-4.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

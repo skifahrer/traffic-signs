@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H2",
+  "image": {
+    "file": "services-vehicle-repair-se.svg",
+    "sha1": "40232112d79d56e7370463490ff93f9488008a68",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

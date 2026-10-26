@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A27",
+  "image": {
+    "file": "dangerous-verge-se.svg",
+    "sha1": "16e68ef57074d7a015a8ffe1e5cbdd568925d7fa",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A27.svg",
+    "author": "Transportstyrelsen, re-made by Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "se",
   "code": "X1 (3 chevrons, left)",
+  "image": {
+    "file": "chevron-board-3-arrows-left-se.svg",
+    "sha1": "9cda9dc5ce5538c4fb09192c4ebd29716cb6d4ca",
+    "source": "https://commons.wikimedia.org/wiki/File:SE_road_sign_X1_(3_chevrons,_left).svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

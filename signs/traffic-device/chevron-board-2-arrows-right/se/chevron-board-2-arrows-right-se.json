@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "se",
   "code": "X1 (2 chevrons, right)",
+  "image": {
+    "file": "chevron-board-2-arrows-right-se.svg",
+    "sha1": "b606688f367a11ed78be247d268715b6c65fa2bb",
+    "source": "https://commons.wikimedia.org/wiki/File:SE_road_sign_X1_(2_chevrons,_right).svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

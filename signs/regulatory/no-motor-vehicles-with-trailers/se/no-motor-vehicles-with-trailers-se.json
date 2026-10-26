@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C6",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-se.svg",
+    "sha1": "28038a0564fb92d743288220ab16fee3a5435d35",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C6.svg",
+    "author": "Transportstyrelsen, re-made by Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

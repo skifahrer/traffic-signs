@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A17",
+  "image": {
+    "file": "skiers-crossing-se.svg",
+    "sha1": "e9567066ff8f025ae5f320e1c7291aac3565b497",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A17.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

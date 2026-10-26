@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A9-1",
+  "image": {
+    "file": "speed-bump-se.svg",
+    "sha1": "6d5e247e9a569203d83329e82faf48b18c8dbe1d",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A9-1.svg",
+    "author": "Transportstyrelsen, re-made by Gigillo83",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

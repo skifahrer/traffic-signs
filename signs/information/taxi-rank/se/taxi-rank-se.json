@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E23",
+  "image": {
+    "file": "taxi-rank-se.svg",
+    "sha1": "8eae1a57a761afe6f5440801b82978cf1e1fe424",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E23.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

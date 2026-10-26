@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A32-1",
+  "image": {
+    "file": "horse-drawn-vehicles-se.svg",
+    "sha1": "e3af240e26441b7f70a712c933838b94324c58de",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A32-1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

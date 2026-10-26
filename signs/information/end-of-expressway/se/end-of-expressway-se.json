@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E4",
+  "image": {
+    "file": "end-of-expressway-se.svg",
+    "sha1": "10a2d329bc7f4d908ffae77a18053f13c7c04d60",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E4.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

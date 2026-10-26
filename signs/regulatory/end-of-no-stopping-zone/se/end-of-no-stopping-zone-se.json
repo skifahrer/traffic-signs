@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "E21-15",
+  "image": {
+    "file": "end-of-no-stopping-zone-se.svg",
+    "sha1": "29925f10d08feae1e6988d2ad402fd40ff73a13d",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E21-15.svg",
+    "author": "Lokal_Profil",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

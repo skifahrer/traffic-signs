@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A6",
+  "image": {
+    "file": "movable-bridge-se.svg",
+    "sha1": "894954efeec3b99dc4f31a954d80f0a401cd0b46",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A6.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C31-7",
+  "image": {
+    "file": "speed-limit-70-se.svg",
+    "sha1": "77372afddcfeadaae0b4597857ff94a8f20db549",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C31-7.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

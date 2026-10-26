@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H11",
+  "image": {
+    "file": "services-campsite-se.svg",
+    "sha1": "ba661437a825d2b69d8e1be7f2842071a472b6e4",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H11.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

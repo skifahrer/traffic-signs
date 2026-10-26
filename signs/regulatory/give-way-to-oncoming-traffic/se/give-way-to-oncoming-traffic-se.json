@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "B6",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-se.svg",
+    "sha1": "3377f6f1c75806410b9000a2d00a50676fd9aa09",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_B6.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

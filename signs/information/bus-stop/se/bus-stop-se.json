@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E22",
+  "image": {
+    "file": "bus-stop-se.svg",
+    "sha1": "d8b1d0e890cff5d1cf793a3db233907e281d9e6a",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E22.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

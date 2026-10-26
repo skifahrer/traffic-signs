@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A22",
+  "image": {
+    "file": "traffic-signals-se.svg",
+    "sha1": "35503c29e011cb75eff65c0ed5d9c44f4aabcfcb",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A22.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

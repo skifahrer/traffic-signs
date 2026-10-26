@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A3",
+  "image": {
+    "file": "steep-descent-se.svg",
+    "sha1": "6b7010d4cf305cb44cad77a8765fd8574eafb507",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A3.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

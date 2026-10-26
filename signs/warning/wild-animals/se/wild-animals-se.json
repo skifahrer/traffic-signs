@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A19-2",
+  "image": {
+    "file": "wild-animals-se.svg",
+    "sha1": "cd036c3a754dec7718d09eb5edc7a8dd037929d4",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A19-2.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

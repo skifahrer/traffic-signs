@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A35",
+  "image": {
+    "file": "level-crossing-with-barriers-se.svg",
+    "sha1": "dad06ee2f34b4fcf7f5a67a5b47b3f57b21620a6",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A35.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

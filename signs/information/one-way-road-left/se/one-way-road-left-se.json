@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E16-1-1",
+  "image": {
+    "file": "one-way-road-left-se.svg",
+    "sha1": "17bb2cb880bea2ce2374abbc9c434977f89e9b8f",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E16-1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

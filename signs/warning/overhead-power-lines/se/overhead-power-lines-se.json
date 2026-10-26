@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "J3-1",
+  "image": {
+    "file": "overhead-power-lines-se.svg",
+    "sha1": "f03f7f86423b651330f9e3768514d691efa84a63",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_J3-1.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

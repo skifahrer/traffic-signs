@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A39-3",
+  "image": {
+    "file": "level-crossing-cross-multiple-tracks-se.svg",
+    "sha1": "1351c0de1560065ce34e1674a2e3735526a9ef36",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A39-3.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

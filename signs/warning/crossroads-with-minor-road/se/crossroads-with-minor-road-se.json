@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A29-1",
+  "image": {
+    "file": "crossroads-with-minor-road-se.svg",
+    "sha1": "73b0f0102e1547b1b6973066b4afe03d8a6c4f88",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A29-1.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "F10",
+  "image": {
+    "file": "place-name-sign-se.svg",
+    "sha1": "4deb255755de6e85935ad927141fc5616bdbc3f3",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_F10.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

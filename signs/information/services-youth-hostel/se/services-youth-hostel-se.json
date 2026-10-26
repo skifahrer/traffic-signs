@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H8",
+  "image": {
+    "file": "services-youth-hostel-se.svg",
+    "sha1": "f427d23f43655a22718eb68a7e82521bd9c240e5",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H8.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

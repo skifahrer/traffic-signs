@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "I1",
+  "image": {
+    "file": "tourist-route-se.svg",
+    "sha1": "633e1c13d9d884664b68c6ed4007dea82134125c",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_I1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

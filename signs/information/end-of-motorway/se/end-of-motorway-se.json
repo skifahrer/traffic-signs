@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E2",
+  "image": {
+    "file": "end-of-motorway-se.svg",
+    "sha1": "95e0fd2c47a84cdfc45f8cec638a999bde4ff14c",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

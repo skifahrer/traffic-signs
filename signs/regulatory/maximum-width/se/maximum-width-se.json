@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C16",
+  "image": {
+    "file": "maximum-width-se.svg",
+    "sha1": "cbca6887aa64087bd7ee87f65bad5e060fbcfec0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C16.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

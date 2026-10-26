@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "X4",
+  "image": {
+    "file": "vertical-chevron-se.svg",
+    "sha1": "fada1de6aca09a22f7789f6a77efecf394e4cb02",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_X4.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

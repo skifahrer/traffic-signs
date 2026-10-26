@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C9",
+  "image": {
+    "file": "no-vehicles-carrying-dangerous-goods-se.svg",
+    "sha1": "5690e1e1f232c4d62520ac8a980c46be33d12393",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C9.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

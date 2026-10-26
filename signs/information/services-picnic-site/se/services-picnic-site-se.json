@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H13",
+  "image": {
+    "file": "services-picnic-site-se.svg",
+    "sha1": "6ba9e74f81ae4cff563eac4d7a27919c0c3a34ec",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H13.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

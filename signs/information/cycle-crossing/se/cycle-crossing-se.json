@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "B8",
+  "image": {
+    "file": "cycle-crossing-se.svg",
+    "sha1": "cb3185c68a6a1671488e00dbd4090df4fa3873f8",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_B8.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

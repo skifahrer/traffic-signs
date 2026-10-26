@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "E24",
+  "image": {
+    "file": "speed-camera-se.svg",
+    "sha1": "3fc7bee4d89864e75090004ead74cbc73ef263af",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_E24.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

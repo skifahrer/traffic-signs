@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "se",
   "code": "T7-1",
+  "image": {
+    "file": "time-limit-se.svg",
+    "sha1": "7498a4c76e4ac47741b5832ca0a0789f3470cce7",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_T7-1.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

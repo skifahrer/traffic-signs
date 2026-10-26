@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C1",
+  "image": {
+    "file": "no-entry-se.svg",
+    "sha1": "5d115d8b8ef8d6375eae090fa41f77a63b9d81e1",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C1.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

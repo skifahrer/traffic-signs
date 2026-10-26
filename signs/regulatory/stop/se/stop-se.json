@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "B2",
+  "image": {
+    "file": "stop-se.svg",
+    "sha1": "2debd030fec39f2f75062e7029f2c91fcf77ce69",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_B2.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

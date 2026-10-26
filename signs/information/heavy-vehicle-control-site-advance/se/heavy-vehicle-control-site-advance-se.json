@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "P7",
+  "image": {
+    "file": "heavy-vehicle-control-site-advance-se.svg",
+    "sha1": "fbddd9318957cf6927195ca3060454146bc8ff11",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_P7.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

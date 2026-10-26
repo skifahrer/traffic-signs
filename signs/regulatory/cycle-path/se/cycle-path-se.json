@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "D4",
+  "image": {
+    "file": "cycle-path-se.svg",
+    "sha1": "063acfdc48507d8909dfd7c8eafcb89dd036bda9",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_D4.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

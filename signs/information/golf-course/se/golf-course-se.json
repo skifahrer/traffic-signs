@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H20",
+  "image": {
+    "file": "golf-course-se.svg",
+    "sha1": "9c7d1294d9c3fd5b95d1e3764c40f748b1355910",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H20.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

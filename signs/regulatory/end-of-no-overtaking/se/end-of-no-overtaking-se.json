@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "se",
   "code": "C28",
+  "image": {
+    "file": "end-of-no-overtaking-se.svg",
+    "sha1": "b5a444852abdc4c2989189e35bf9f357b4ff9716",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_C28.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

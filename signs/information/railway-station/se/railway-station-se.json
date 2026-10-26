@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "G6",
+  "image": {
+    "file": "railway-station-se.svg",
+    "sha1": "53a2b286626a47e8e7a4c815701b9ba924843da0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_G6.svg",
+    "author": "Fry1989 eh?",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

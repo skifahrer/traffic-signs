@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "se",
   "code": "X1 (temporary, 2 chevrons, left)",
+  "image": {
+    "file": "chevron-board-2-arrows-left-temporary-se.svg",
+    "sha1": "5352dc5c3550939b0295464e323ddc74de1d2415",
+    "source": "https://commons.wikimedia.org/wiki/File:SE_road_sign_X1_(temporary,_2_chevrons,_left).svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A20",
+  "image": {
+    "file": "roadworks-se.svg",
+    "sha1": "4219ab2de6b0a31b2ef90c232db0c8ff11015d85",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A20.svg",
+    "author": "Government of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

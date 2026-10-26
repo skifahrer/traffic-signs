@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "se",
   "code": "T10",
+  "image": {
+    "file": "deaf-pedestrians-may-be-crossing-se.svg",
+    "sha1": "f47f572cf25d607882aac1c338a4a2e7ac214c27",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_T10.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",

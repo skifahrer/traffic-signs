@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "se",
   "code": "A29-2",
+  "image": {
+    "file": "crossroads-with-minor-road-45-degrees-se.svg",
+    "sha1": "9ab0c9e7dbd06583e4fa393bc2c1366cddcd2f51",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A29-2.svg",
+    "author": "Government of the Kingdom of Sweden",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

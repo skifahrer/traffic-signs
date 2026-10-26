@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "se",
   "code": "T21-2",
+  "image": {
+    "file": "parking-position-bays-parallel-se.svg",
+    "sha1": "a1a3ef590a23339e0ebde92f09c22579323a4ed4",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_T21-2.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Sweden",

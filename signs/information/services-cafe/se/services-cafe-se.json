@@ -3,6 +3,14 @@
   "category": "information",
   "country": "se",
   "code": "H5",
+  "image": {
+    "file": "services-cafe-se.svg",
+    "sha1": "8951177ec88844a2f6fae813fdd44e8b35a0e18b",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_road_sign_H5.svg",
+    "author": "Transportstyrelsen",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "se-wikipedia",
     "page": "https://sv.wikipedia.org/wiki/V%C3%A4gm%C3%A4rken_i_Sverige",
