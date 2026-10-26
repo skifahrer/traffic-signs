@@ -1,0 +1,323 @@
+code,category,slug,name_en,name_sl
+I-1,warning,bend-left,Bend (left),Ovinek na levo
+I-1.1,warning,bend-right,Bend (right),Ovinek na desno
+I-2,warning,double-bend-left,Double bend (first to the left),"Dvojni ovinek ali več zaporednih ovinkov, prvi na levo"
+I-2.1,warning,double-bend-right,Double bend (first to the right),"Dvojni ovinek ali več zaporednih ovinkov, prvi na desno"
+I-3,warning,steep-descent,Steep descent,Nevaren klanec navzdol
+I-4,warning,steep-ascent,Steep ascent,Nevaren vzpon
+I-5,warning,road-narrows-both-sides,Road narrows (from both sides),Zoženje ceste
+I-5.1,warning,road-narrows-right,Road narrows (from the right),Zoženje ceste z desne strani
+I-5.2,warning,road-narrows-left,Road narrows (from the left),Zoženje ceste z leve strani
+I-6,warning,movable-bridge,Movable bridge,Premični most
+I-7,warning,quayside,Quayside or river bank,Bližina obale
+I-8,warning,uneven-road,Uneven road,Neravno vozišče
+I-9,warning,dip,Dip,Neravno vozišče (vboklina)
+I-10,warning,hump,Hump,Neravno vozišče (grbina)
+I-11,warning,slippery-road,Slippery road,Spolzko vozišče
+I-12,warning,loose-gravel,Loose gravel,Kamenje na cesti
+I-13,warning,fallen-rocks-right,Fallen rocks (from the right),Kamenje pada z desne strani
+I-13.1,warning,fallen-rocks-left,Fallen rocks (from the left),Kamenje pada z leve strani
+I-14,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Prehod za pešce
+I-15,warning,children,Children,Otroci na cesti
+I-16,warning,cyclists,Cyclists,Kolesarji na cesti
+I-17,warning,farm-animals,Farm animals,Živali na cesti
+I-18,warning,wild-animals,Wild animals,Divjad na cesti
+I-19,warning,roadworks,Roadworks,Delo na cesti
+I-20,warning,traffic-signals,Traffic signals,Bližina svetlobnih prometnih znakov
+I-21,warning,low-flying-aircraft,Low-flying aircraft,Bližina letališke steze
+I-22,warning,crosswind-from-left,Crosswind (from the left),Bočni veter z leve strani
+I-22.1,warning,crosswind-from-right,Crosswind (from the right),Bočni veter z desne strani
+I-23,warning,two-way-traffic,Two-way traffic,Dvosmerni promet
+I-24,warning,tunnel-ahead,Tunnel ahead,Predor
+I-25,warning,danger,Other danger,Nevarnost na cesti
+I-26,warning,intersection,Intersection,Križišče enakovrednih cest
+I-27,warning,crossroads-with-minor-road,Crossroads with a road without priority,Križišče s stransko cesto pod pravim kotom
+I-28,warning,side-road-left-minor,Side road on the left (without priority),"Stranska cesta, ki pripelje na prednostno z leve strani pod pravim kotom"
+I-28.1,warning,side-road-right-minor,Side road on the right (without priority),"Stranska cesta, ki pripelje na prednostno z desne strani pod pravim kotom"
+I-29,warning,merging-traffic-from-left,Traffic merging from the left,"Stranska cesta, ki pripelje na prednostno z leve strani pod ostrim kotom"
+I-29.1,warning,merging-traffic-from-right,Traffic merging from the right,"Stranska cesta, ki pripelje na prednostno z desne strani pod ostrim kotom"
+I-30,warning,roundabout-ahead,Roundabout ahead,Križišče s krožnim prometom
+I-31,warning,trams,Trams,Tramvajska proga
+I-32,warning,ice,Ice,Poledica
+I-33,warning,queues,Queues likely,Kolona ustavljenih vozil
+I-34,warning,dangerous-verge,Dangerous verge,Neutrjena bankina
+I-35,warning,forest-fire-danger,Fire danger,Nevarnost požara
+I-36,warning,level-crossing-with-barriers,Level crossing with barriers,Prehod ceste čez železniško progo z zapornicami ali polzapornicami
+I-37,warning,level-crossing-without-barriers,Level crossing without barriers,Prehod ceste čez železniško progo brez prometnih zapornic ali polzapornic
+I-38,warning,level-crossing-cross-single-track,Level crossing cross (single track),Andrejev križ
+I-38.1,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Andrejev križ
+I-38.2,warning,level-crossing-cross-single-track-b,"Level crossing cross (single track, variant b)",Andrejev križ
+I-38.3,warning,level-crossing-cross-multiple-tracks-b,"Level crossing cross (multiple tracks, variant b)",Andrejev križ
+I-41,warning,accident,Accident,Prometna nesreča
+II-1,regulatory,give-way,Give way,Križišče s prednostno cesto
+II-2,regulatory,stop,"Stop, give way",Ustavi!
+II-3,regulatory,no-vehicles,No vehicles,Prepovedan promet v obeh smereh
+II-4,regulatory,no-entry,No entry,Prepovedan promet v eno smer
+II-5,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,"Prepovedan promet za vsa motorna vozila, razen enoslednih"
+II-6,regulatory,no-buses,No entry for buses and trolleybuses,Prepovedan promet za avtobuse
+II-7,regulatory,no-goods-vehicles,No entry for goods vehicles,Prepovedan promet za tovorna vozila
+II-7.1,regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,"Prepovedan promet za tovorna vozila, pri katerih največja dovoljena masa presega določeno maso"
+II-8,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Prepovedan promet za cisterne
+II-9,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,"Prepovedan promet za vozila, ki prevažajo eksplozivne ali lahko vnetljive snovi"
+II-9.1,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,"Prepovedan promet za vozila, ki prevažajo nevarno blago"
+II-10,regulatory,no-motor-vehicles-with-trailers-except-semi-trailers-and-light-trailers,"No motor vehicles with trailers (except semi-trailers, light trailers and caravans)","Prepovedan promet za motorna vozila, ki vlečejo priklopno vozilo, razen polpriklopnika, lahkega priklopnika ali bivalnega priklopnika"
+II-10.1,regulatory,no-motor-vehicles-with-trailers-except-light-trailers,No motor vehicles with trailers (except light trailers and caravans),"Prepovedan promet za motorna vozila, ki vlečejo priklopno vozilo, razen lahkega ali bivalnega priklopnika"
+II-10.2,regulatory,no-motor-vehicles-with-trailers,No motor vehicles with trailers,"Prepovedan promet za motorna vozila, ki vlečejo priklopno vozilo"
+II-11,regulatory,no-tractors,No entry for tractors,Prepovedan promet za traktorje
+II-12,regulatory,no-motorcycles,No entry for motorcycles,Prepovedan promet za motorna kolesa
+II-13,regulatory,no-mopeds,No entry for mopeds,Prepovedan promet za kolesa s pomožnim motorjem
+II-14,regulatory,no-bicycles,No entry for bicycles,Prepovedan promet za kolesa
+II-15,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Prepovedan promet za vprežna vozila
+II-16,regulatory,no-handcarts,No entry for handcarts,Prepovedan promet za ročne vozičke
+II-17,regulatory,no-pedestrians,No entry for pedestrians,Prepovedan promet za pešce
+II-18,regulatory,no-motor-vehicles,No motor vehicles,Prepovedan promet za vsa motorna vozila
+II-19,regulatory,no-motor-vehicles-or-animal-drawn-vehicles,No motor vehicles or animal-drawn vehicles,Prepovedan promet za vsa motorna vozila in vprežna vozila
+II-20,regulatory,maximum-width,Maximum width,"Prepovedan promet za vozila, pri katerih skupna širina presega določeno širino"
+II-21,regulatory,maximum-height,Maximum height,"Prepovedan promet za vozila, pri katerih skupna višina presega določeno višino"
+II-22,regulatory,maximum-weight,Maximum weight,"Prepovedan promet za vozila, pri katerih skupna masa presega določeno maso"
+II-23,regulatory,maximum-axle-weight,Maximum axle weight,Prepovedan promet za vozila z večjo osno obremenitvijo od določene
+II-24,regulatory,maximum-length,Maximum length,Prepovedan promet za vozila večje dolžine od določene
+II-25,regulatory,minimum-distance,Minimum distance between vehicles,Najmanjša razdalja med vozili
+II-26,regulatory,no-left-turn,No left turn,Prepovedano zaviti na levo
+II-26.1,regulatory,no-right-turn,No right turn,Prepovedano zaviti na desno
+II-27,regulatory,no-u-turn,No U-turn,Prepovedano polkrožno obračanje
+II-28,regulatory,no-overtaking,No overtaking,"Prepovedano prehitevanje vseh motornih vozil, razen enoslednih"
+II-29,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Prepovedano prehitevanje za tovorna vozila
+II-30,regulatory,speed-limit,Speed limit,Omejitev hitrosti
+II-31,regulatory,no-horns,Use of horns prohibited,Prepovedano dajanje zvočnih znakov
+II-32,regulatory,customs-stop,Customs stop,Prepovedan prehod brez ustavljanja – carina
+II-32.1,regulatory,police-check-stop,Police check stop,Prepovedan prehod brez ustavljanja – policija
+II-32.2,regulatory,stop-toll-collection,Stop (toll collection),Prepovedan prehod brez ustavljanja – cestnina
+II-33,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Prednost vozil iz nasprotne smeri
+II-34,regulatory,no-stopping,No stopping,Prepovedana ustavitev in parkiranje
+II-35,regulatory,no-parking,No parking,Prepovedano parkiranje
+II-36,regulatory,no-parking-odd-days,No parking on odd days,Izmenično parkiranje
+II-37,regulatory,no-parking-even-days,No parking on even days,Izmenično parkiranje
+II-38,regulatory,minimum-speed,Minimum speed,Najmanjša dovoljena hitrost
+II-39,regulatory,snow-chains-required,Snow chains required,Snežne verige
+II-40,regulatory,cycle-path,Cycle path,Kolesarska steza ali pot
+II-41,regulatory,footpath,Footpath,Steza za pešce
+II-42,regulatory,segregated-footpath-cycle-path-cyclists-left,Segregated footpath and cycle path (cyclists on the left),Steza za pešce in kolesarje
+II-42.1,regulatory,segregated-footpath-cycle-path-cyclists-right,Segregated footpath and cycle path (cyclists on the right),Steza za pešce in kolesarje
+II-43,regulatory,shared-footpath-cycle-path,Shared footpath and cycle path,Steza za pešce in kolesarje
+II-44,regulatory,bridleway,Bridleway,Steza za jezdece
+II-45,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Obvezna smer
+II-45.1,regulatory,turn-left,Turn left,Obvezna smer
+II-45.2,regulatory,turn-right,Turn right,Obvezna smer
+II-45.3,regulatory,turn-left-here,Turn left here,Obvezna smer
+II-45.4,regulatory,turn-right-here,Turn right here,Obvezna smer
+II-46,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Dovoljene smeri
+II-46.1,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Dovoljene smeri
+II-46.2,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Dovoljene smeri
+II-47,regulatory,pass-on-right,Pass on the right,Obvezna stran obvoza
+II-47.1,regulatory,pass-on-left,Pass on the left,Obvezna stran obvoza
+II-48,regulatory,roundabout,Roundabout,Krožni promet
+III-1,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Prednost pred vozili iz nasprotne smeri
+III-2,information,one-way-road,One-way road,Enosmerna cesta
+III-2.1,information,one-way-road-left,One-way road (left here),Enosmerna cesta
+III-2.2,information,one-way-road-right,One-way road (right here),Enosmerna cesta
+III-3,information,priority-road,Priority road,Prednostna cesta
+III-4,information,end-of-priority-road,End of priority road,Konec prednostne ceste
+III-5,information,cycle-crossing,Cycle crossing,Prehod za kolesarje
+III-6,information,pedestrian-crossing,Pedestrian crossing,Prehod za pešce
+III-7,information,pedestrian-subway,Pedestrian subway,Podzemni ali nadzemni prehod za pešce
+III-8,information,dead-end,Dead end,Slepa cesta
+III-9,information,route-for-prohibited-left-turn,Route for a prohibited left turn,"Smer vožnje vozila, ki namerava zaviti levo na križišču, na katerem je zavijanje na levo prepovedano"
+III-10,information,motorway,Motorway,Avtocesta
+III-11,information,end-of-motorway,End of motorway,Konec avtoceste
+III-12,information,expressway,Expressway,"Cesta, rezervirana za motorna vozila"
+III-13,information,end-of-expressway,End of expressway,"Konec ceste, rezervirane za motorna vozila"
+III-14,information,built-up-area,Built-up area,Ime naselja
+III-14.1,information,place-name-sign,Place name,Ime naselja
+III-15,information,end-of-built-up-area,End of built-up area,Konec naselja
+III-16,regulatory,end-of-no-overtaking,End of no overtaking,"Prenehanje prepovedi prehitevanja vseh motornih vozil, razen enoslednih"
+III-17,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Prenehanje prepovedi prehitevanja za tovorna vozila
+III-18,regulatory,end-of-speed-limit,End of speed limit,Prenehanje omejitve hitrosti
+III-19,regulatory,end-of-minimum-speed,End of minimum speed,Prenehanje najmanjše dovoljene hitrosti
+III-20,regulatory,end-of-no-horns,End of horns prohibited,Prenehanje prepovedi dajanja zvočnih znakov
+III-21,regulatory,end-of-all-restrictions,End of all restrictions,Prenehanje vseh prepovedi in omejitev
+III-22,regulatory,end-of-snow-chains-required,End of snow chains required,Prenehanje obvezne uporabe snežnih verig
+III-23,regulatory,end-of-cycle-path,End of cycle path,Konec kolesarske steze ali poti
+III-24,regulatory,end-of-footpath,End of footpath,Konec steze za pešce
+III-25,regulatory,end-of-segregated-footpath-cycle-path-cyclists-left,End of segregated footpath and cycle path (cyclists on the left),Konec steze za pešce in kolesarje
+III-25.1,regulatory,end-of-segregated-footpath-cycle-path-cyclists-right,End of segregated footpath and cycle path (cyclists on the right),Konec steze za pešce in kolesarje
+III-25.2,regulatory,end-of-shared-footpath-cycle-path,End of shared footpath and cycle path,Konec mešane steze za pešce in kolesarje
+III-26,regulatory,end-of-bridleway,End of bridleway,Konec steze za jezdece
+III-27,regulatory,short-term-parking-zone,Short-term parking zone,Območje kratkotrajnega parkiranja
+III-28,regulatory,end-of-short-term-parking-zone,End of short-term parking zone,Konec območja kratkotrajnega parkiranja
+III-29,regulatory,speed-limit-zone,Speed limit zone,Območje omejene hitrosti
+III-30,regulatory,end-of-speed-limit-zone,End of speed limit zone,Konec območja omejene hitrosti
+III-31,information,pedestrian-zone,Pedestrian zone,Območje za pešce
+III-32,information,end-of-pedestrian-zone,End of pedestrian zone,Konec območja za pešce
+III-33,information,residential-zone,Residential zone,Območje umirjenega prometa
+III-34,information,end-of-residential-zone,End of residential zone,Konec območja umirjenega prometa
+III-35,regulatory,parking,Parking,Parkirni prostor
+III-36,regulatory,parking-garage,Parking (car park building),Garaža
+III-37,regulatory,parking-with-disc,Parking with parking disc,Časovno omejeno parkiranje
+III-38,information,services-hospital,Services (hospital),Bolnišnica
+III-39,information,services-first-aid,Services (first aid),Postaja za prvo pomoč
+III-40,information,services-vehicle-repair,Services (vehicle repair),Delavnica za popravilo vozil
+III-41,information,services-telephone,Services (telephone),Telefon
+III-42,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),Postaja za bivalna vozila
+III-43,information,services-filling-station,Services (filling station),Bencinska črpalka
+III-44,information,services-hotel-or-motel,Services (hotel or motel),Hotel ali motel
+III-45,information,services-restaurant,Services (roadside restaurant),Restavracija
+III-46,information,services-cafe,Services (café or snack bar open every day),Bar
+III-47,information,services-picnic-site,Services (picnic site),Urejen prostor za izletnike
+III-48,information,services-tent-camp,Services (tent camp),Prostor za kampiranje pod šotori
+III-49,information,services-caravan-site,Services (caravan site),Prostor za kampiranje v prikolicah
+III-50,information,services-camping-and-caravan-site,Services (camping and caravan site),Prostor za kampiranje pod šotori in v prikolicah
+III-51,information,services-mountain-hut,Services (mountain hut),Planinski dom
+III-52,information,services-toilets,Services (toilets),Stranišče
+III-52.1,information,services-toilets-b,"Services (toilets, variant b)",Stranišče
+III-53,information,fire-extinguisher,Fire extinguisher,Gasilni aparat
+III-54,information,bus-stop,"Bus, trolleybus or electric bus stop",Avtobusno postajališče
+III-55,information,tram-stop,Tram stop,Tramvajsko postajališče
+III-56,information,ferry-terminal,Ferry,Pristanišče
+III-57,information,marina,Marina,Marina
+III-58,regulatory,park-and-ride,Park and ride,Parkiraj in se pelji
+III-58.1,regulatory,park-and-bike,Park and bike,Parkiraj in se pelji
+III-59,information,services-information-point,Services (information point),Informacija
+III-60,information,services-car-wash,Services (car wash),Avtopralnica
+III-61,information,taxi-rank,Taxi rank,Taksi postajališče
+III-62,information,drinking-water,Drinking water,Pitna voda
+III-63,information,mountain-pass-open-or-closed,Mountain pass open or closed,Prehodnost ceste
+III-64,information,hairpin-bend-number,Hairpin bend number,Številka serpentine
+III-65,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)",Ime predora
+III-66,information,viaduct-name,Viaduct or bridge (name and length),Ime viadukta
+III-67,information,mountain-pass,Mountain pass (name and altitude),Gorski prelaz
+III-68,information,river-name,River or valley name,Ime vodotoka
+III-69,information,police,Police,Policijska postaja
+III-70,information,recommended-speed,Recommended speed,Priporočena hitrost
+III-71,information,end-of-recommended-speed,End of recommended speed,Prenehanje priporočene hitrosti
+III-72,regulatory,public-transport-lane,Public transport lane,Prometni pas za vozila javnega prevoza potnikov
+III-72.1,regulatory,public-transport-lane-times,Public transport lane (at certain times),Prometni pas za vozila javnega prevoza potnikov
+III-73,regulatory,end-of-public-transport-lane,End of public transport lane,Konec prometnega pasu za vozila javnega prevoza potnikov
+III-74,information,services-traffic-radio,Services (traffic information radio),Radio
+III-75,information,national-speed-limits,National speed limits (at the border),Omejitev največje dovoljene hitrosti na cestah v Republiki Sloveniji
+III-76,information,slow-vehicle-lane,Lane for slow vehicles,Prometni pas za počasna vozila
+III-76.1,information,end-of-slow-vehicle-lane,End of lane for slow vehicles,Konec prometnega pasu za počasna vozila
+III-77,information,water-protection-area,Water protection area,Vodovarstveno področje
+III-78,information,cycle-route,Cycle route,Kolesarska povezava
+III-79,information,european-road-number,European road number,Številka mednarodne ceste
+III-80,information,motorway-number,Motorway number,Številka avtoceste
+III-81,information,expressway-number,Expressway number,Številka hitre ceste
+III-82,information,national-road-number,National road number,Številka ceste
+III-83,information,cycle-route-number-national,Cycle route number (national route),Številka kolesarske poti
+III-84,information,advance-direction-sign,Advance direction sign,Predkrižiščna tabla
+III-85,information,lane-directions,Directions of the lanes,Razvrščanje vozil
+III-85.1,information,lane-advance-direction-sign,Advance direction sign by lane,Razvrščanje vozil z imeni krajev
+III-86,information,direction-sign-motorway,Direction sign (motorway),Kažipot
+III-86.1,information,direction-sign-expressway,Direction sign (expressway),Kažipot
+III-86.2,information,direction-sign,Direction sign,Kažipot
+III-86.3,information,direction-sign-local,Direction sign (destination in town),Kažipot
+III-86.4,information,tourist-destination-direction-sign,Tourist destination direction sign,Kažipot
+III-87,information,direction-sign-stacked,"Direction sign (stacked, with distances)",Kažipotna tabla
+III-88,information,advance-direction-sign-motorway,Advance direction sign on the motorway,Predkrižiščna tabla za izvoz
+III-89,information,advance-direction-sign-stacked-with-distance,"Advance direction sign (stacked, with distance to the junction)",Predkažipot
+III-90,information,direction-board-overhead-motorway,Direction board above the road (motorway),Kažipot nad voziščem na portalu
+III-90.1,information,direction-board-overhead,Direction board above the road,Kažipot nad voziščem na portalu
+III-91,information,direction-board-overhead-b,Direction board above the lane (variant b),Kažipot za razvrščanje nad prometnimi pasovi – na portalu
+III-92,information,motorway-junction-number,Motorway junction number,Številka izvoza
+III-92.1,information,exit-advance-sign-motorway,Exit advance sign (motorway),Predznak za izvoz
+III-92.2,information,motorway-interchange-advance,Motorway interchange (advance sign),Predznak za razcep
+III-93,information,distance-sign,Distance sign,Potrditev smeri
+III-94,information,rest-area-advance-with-next-services,Rest area ahead (with distance to the next services),Počivališče
+III-95,information,rest-area-advance,Rest area ahead,Predkažipot za počivališče
+III-96,information,rest-area-advance-turn,Rest area ahead (before the turn),Predkažipot za počivališče
+III-97,information,rest-area-direction,Direction to a rest area,Kažipot za počivališče
+III-98,information,toll,Toll,Predznak za cestnino
+III-99,information,toll-payment-advance,Toll payment ahead,Predznak za plačilo cestnine
+III-100,information,toll-station-lanes,Lanes at the toll station,Razvrščanje vozil na območju cestninske postaje
+III-101,information,electronic-toll-lane,Electronic toll lane (Via Verde),ABC – cestninska steza
+III-102,information,mixed-toll-lane,Mixed toll lane (cash and electronic),Mešana (kombinirana) cestninska steza
+III-103,information,toll-lane-vehicle-types,Toll lane for certain types of vehicle,"Cestninska steza, namenjena določenim vrstam vozil"
+III-104,information,emergency-lay-by,Emergency lay-by,Odstavna niša
+III-105,information,kilometre-marker,Kilometre marker,Stacionaža odseka ceste
+III-105.1,information,kilometre-marker-b,Kilometre marker (variant b),Stacionaža odseka ceste
+III-105.2,information,kilometre-marker-c,Kilometre marker (variant c),Stacionaža odseka ceste
+III-105.3,information,kilometre-marker-d,Kilometre marker (variant d),Stacionaža odseka ceste
+III-105.4,information,cycle-route-kilometre-marker,Kilometre marker of a cycle route,Stacionaža odseka kolesarske poti
+III-106,information,street-name,Street name sign,Tabla za označevanje imena ulice
+III-108,information,zip-merge,Zip merge,Izmenično vključevanje vozil
+III-109,information,speed-limit-poor-visibility,Speed limit in poor visibility,Največja dovoljena hitrost pri zmanjšani vidljivosti
+III-110,information,school-crossing-patrol,School crossing patrol,Šolska prometna služba
+III-111,information,detour-announcement,Detour announcement,Predznak za obvoz
+III-112,information,lane-closure,Lane closure,Zapiranje prometnega pasu
+III-112.1,information,lane-closure-b,Lane closure (variant b),Zapiranje prometnega pasu
+III-112.2,information,lane-closure-c,Lane closure (variant c),Zapiranje prometnega pasu
+III-112.3,information,lane-closure-d,Lane closure (variant d),Zapiranje prometnega pasu
+III-113,information,lane-closure-advance,Lane closure ahead,Predznak za zapiranje prometnega pasu
+III-113.1,information,lane-closure-advance-b,Lane closure ahead (variant b),Predznak za zapiranje prometnega pasu
+III-113.2,information,lane-closure-advance-c,Lane closure ahead (variant c),Predznak za zapiranje prometnega pasu
+III-113.3,information,lane-closure-advance-d,Lane closure ahead (variant d),Predznak za zapiranje prometnega pasu
+III-114,information,carriageway-change-contraflow-starts,Change of carriageway (contraflow section begins),Prehod na začasno dvosmerni promet
+III-114.1,information,carriageway-change-contraflow-ends,Change of carriageway (contraflow section ends),Prehod iz začasno dvosmernega prometa
+III-114.2,information,carriageway-change-contraflow-starts-b,"Change of carriageway (contraflow section begins, variant b)",Prehod na začasno dvosmerni promet
+III-114.3,information,carriageway-change-contraflow-ends-b,"Change of carriageway (contraflow section ends, variant b)",Prehod iz začasno dvosmernega prometa
+III-114.4,information,carriageway-change-contraflow-starts-c,"Change of carriageway (contraflow section begins, variant c)",Prehod na začasno dvosmerni promet
+III-114.5,information,carriageway-change-contraflow-ends-c,"Change of carriageway (contraflow section ends, variant c)",Prehod iz začasno dvosmernega prometa
+III-115,information,lane-shift-temporary,Temporary lane shift,Zaprt prometni pas na fizično ločenem smernem vozišču
+III-115.1,information,lane-shift-temporary-b,Temporary lane shift (variant b),Zaprt prometni pas na fizično ločenem smernem vozišču
+III-115.2,information,lane-shift-temporary-c,Temporary lane shift (variant c),Zaprt prometni pas na fizično ločenem smernem vozišču
+III-116,information,traffic-controller,Traffic controlled by a traffic controller,Predznak za ročno urejanje prometa
+III-117.1,information,lane-restriction,Restriction in the lane,"Prometni pasovi, namenjeni določeni vrsti vozil"
+III-117.2,information,lane-restriction-b,Restriction in the lane (variant b),"Prometni pasovi, namenjeni določeni vrsti vozil"
+III-117.3,information,lane-restriction-c,Restriction in the lane (variant c),"Prometni pasovi, namenjeni določeni vrsti vozil"
+III-118.1,information,itinerary-for-indicated-vehicle-category,Itinerary for indicated vehicle category,Smer vožnje za določeno vrsto vozil
+III-118.2,information,dangerous-goods-route-right,Route for vehicles carrying dangerous goods (right),"Smer vožnje za vozila, ki prevažajo nevarno blago"
+III-119,information,vehicle-access-keep-clear,Vehicle access (keep clear),Prehod za vozila
+III-120,information,school-zone,School zone,Šola
+III-120.1,information,school-zone-b,School zone (variant b),Šola
+III-123,information,speed-check,Speed check,Meritve hitrosti
+III-124,information,emergency-access-route,Emergency access route,Intervencijska pot
+IV-1,additional-panel,distance,Distance,Razdalja
+IV-1.1,additional-panel,distance-to-stop-line,Distance to the stop line,Razdalja do znaka Ustavi!
+IV-2,additional-panel,section-length,Length of section,Dolžina odseka
+IV-3,additional-panel,distance-and-direction-right,Distance and direction (right),Razdalja in smer
+IV-3.1,additional-panel,distance-and-direction-left,Distance and direction (left),Razdalja in smer
+IV-4,additional-panel,time-period,Time period (e.g. 16–18 h),Čas veljavnosti
+IV-5,additional-panel,text-panel,Text panel,Dopolnilna tabla z besedilom
+IV-6,additional-panel,vehicle-type,Type of vehicle,Vrsta vozila
+IV-7,additional-panel,symbol-and-distance,Symbol and distance,Dopolnilna tabla s simbolom in besedilom
+IV-8,additional-panel,direction-arrow-left,Direction (pointing left),Prepoved ustavljanja ali parkiranja z ene strani znaka
+IV-8.1,additional-panel,direction-arrow-right,Direction (pointing right),Prepoved ustavljanja ali parkiranja z ene strani znaka
+IV-8.2,additional-panel,both-directions-horizontal,Both directions (horizontal arrows),Prepoved ustavljanja ali parkiranja z obeh strani znaka
+IV-8.3,additional-panel,section-start,Start of section,Prepoved ustavljanja ali parkiranja od znaka
+IV-8.4,additional-panel,section-continues,Section continues,Prepoved ustavljanja ali parkiranja pred in za znakom
+IV-8.5,additional-panel,section-end,End of section,Prepoved ustavljanja ali parkiranja do znaka
+IV-9,additional-panel,parking-position,Parking position,Način parkiranja
+IV-9.1,additional-panel,parking-position-b,Parking position (variant b),Način parkiranja
+IV-9.2,additional-panel,parking-position-c,Parking position (variant c),Način parkiranja
+IV-9.3,additional-panel,parking-position-d,Parking position (variant d),Način parkiranja
+IV-9.4,additional-panel,parking-position-e,Parking position (variant e),Način parkiranja
+IV-9.5,additional-panel,parking-position-f,Parking position (variant f),Način parkiranja
+IV-10,additional-panel,disabled-parking,Parking for disabled persons,Parkirni prostor za vozila invalidov
+IV-11,additional-panel,tow-away-zone,Tow away zone,Odvoz nepravilno parkiranih vozil
+IV-12,additional-panel,when-wet,When wet,Ob dežju
+IV-12.1,additional-panel,snow-or-ice-panel,In snow or ice,Ob sneženju
+IV-13,additional-panel,priority-road-course,Course of the priority road,Potek prednostne ceste
+IV-13.1,additional-panel,priority-road-course-from-minor-road,Course of the priority road (seen from the minor road),Potek prednostne ceste
+IV-14,additional-panel,road-marking-works,Road marking works,Dela na označbah vozišča
+IV-15,additional-panel,frogs,Frogs,Prehajanje dvoživk
+IV-16,additional-panel,ruts,Ruts,Kolesnice
+IV-17,additional-panel,two-way-traffic-panel,Two-way traffic (panel),Dvosmerni promet
+IV-18,additional-panel,children-on-the-road,Children on the road,Otroci na cesti
+IV-19,additional-panel,snow-clearing,Snow clearing,Odstranjevanje snega
+VI-1,traffic-device,closure-barrier-right-side,Closure barrier (placed on the right),Tabla čelne zapore
+VI-1.1,traffic-device,closure-barrier-left-side,Closure barrier (placed on the left),Tabla čelne zapore
+VI-2,traffic-device,direction-board-arrow-right,Direction board (arrow to the right),Tabla usmerjevalne zapore
+VI-2.1,traffic-device,direction-board-arrow-left,Direction board (arrow to the left),Tabla usmerjevalne zapore
+VI-3,traffic-device,guide-plate-hatched-right,"Guide plate (hatched, sloping right)",Tabla pokončne zapore
+VI-3.1,traffic-device,guide-plate-hatched-left,"Guide plate (hatched, sloping left)",Tabla pokončne zapore
+VI-3.2,traffic-device,guide-plate-chevron-right,"Guide plate (chevrons, pointing right)",Tabla pokončne zapore
+VI-3.3,traffic-device,guide-plate-chevron-left,"Guide plate (chevrons, pointing left)",Tabla pokončne zapore
+VI-4,traffic-device,closure-barrier,Closure barrier,Tabla bočne zapore
+VI-5,traffic-device,mobile-closure-board,Mobile closure board,Pomična zaporna tabla z utripajočimi lučmi in prometnimi znaki
+VI-6,traffic-device,mobile-closure-board-flashing-arrow-large,Mobile closure board with flashing arrow (large),"Pomična zaporna tabla z rumeno utripajočo puščico, usmerjeno poševno navzdol, in prometnim znakom"
+VI-7,traffic-device,variable-message-sign,Variable message sign,Pomična signalna tabla s spremenljivo vsebino
+VI-7.1,traffic-device,variable-message-sign-b,Variable message sign (variant b),Pomična signalna tabla s spremenljivo vsebino
+VI-7.2,traffic-device,variable-message-sign-c,Variable message sign (variant c),Pomična signalna tabla s spremenljivo vsebino
+VI-8,traffic-device,yellow-black-stripes,Yellow and black stripes,Znak za označitev prometnega otoka
+VI-8.1,traffic-device,divergence-marker,Divergence marker,Znak za označitev prometnega otoka
+VI-9,traffic-device,traffic-cone,Traffic cone,Prometni stožec
