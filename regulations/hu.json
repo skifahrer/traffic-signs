@@ -1,0 +1,54 @@
+{
+  "$schema": "https://raw.githubusercontent.com/skifahrer/schemas/master/schema/v1/regulations.schema.json",
+  "country": "hu",
+  "law": {
+    "name": "1/1975. (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ)",
+    "url": "https://net.jogtar.hu/jogszabaly?docid=97500001.kpm",
+    "version": "2026-04-11"
+  },
+  "speed": {
+    "urban": {
+      "default": 50,
+      "section": "26. § (1) ad), a/1., b)"
+    },
+    "rural": {
+      "default": 90,
+      "bus": 70,
+      "hgv": 70,
+      "trailer": 70,
+      "section": "26. § (1) ac), a/1., b)"
+    },
+    "motorway": {
+      "default": 130,
+      "bus": 100,
+      "hgv": 80,
+      "trailer": 80,
+      "section": "26. § (1) aa), a/1., b)"
+    },
+    "urban_motorway": {
+      "default": 130,
+      "bus": 100,
+      "hgv": 80,
+      "trailer": 80,
+      "section": "26. § (1) aa), a/1., b)"
+    },
+    "motorroad": {
+      "default": 110,
+      "bus": 70,
+      "hgv": 70,
+      "trailer": 70,
+      "section": "26. § (1) ab), a/1., b)"
+    },
+    "urban_motorroad": {
+      "default": 110,
+      "bus": 70,
+      "hgv": 70,
+      "trailer": 70,
+      "section": "26. § (1) ab), a/1., b)"
+    },
+    "living_street": {
+      "default": 20,
+      "section": "39/A. § (2)"
+    }
+  }
+}
