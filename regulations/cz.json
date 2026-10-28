@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/skifahrer/schemas/master/schema/v1/regulations.schema.json",
+  "country": "cz",
+  "law": {
+    "name": "Zákon č. 361/2000 Sb. o provozu na pozemních komunikacích",
+    "url": "https://www.e-sbirka.cz/sb/2000/361",
+    "version": "2026-01-01"
+  },
+  "speed": {
+    "urban": {
+      "default": 50,
+      "section": "§ 18 odst. 4"
+    },
+    "rural": {
+      "default": 90,
+      "hgv": 80,
+      "section": "§ 18 odst. 3"
+    },
+    "motorway": {
+      "default": 130,
+      "hgv": 80,
+      "section": "§ 18 odst. 3"
+    },
+    "urban_motorway": {
+      "default": 80,
+      "section": "§ 18 odst. 4"
+    },
+    "motorroad": {
+      "default": 110,
+      "hgv": 80,
+      "section": "§ 18 odst. 3"
+    },
+    "urban_motorroad": {
+      "default": 80,
+      "section": "§ 18 odst. 4"
+    },
+    "living_street": {
+      "default": 20,
+      "section": "§ 39 odst. 5"
+    }
+  }
+}
