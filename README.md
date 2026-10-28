@@ -93,6 +93,32 @@ that very sign, so Germany with only `crosswind-from-left` and
 `crosswind-from-right` is not shown in the `crosswind` row. The sign's
 detail links to its variants and back.
 
+## Regulations
+
+`regulations/<country>.json` holds what a country's traffic law allows where
+no sign says otherwise: the highest speed in each road context, for any
+vehicle and for those the law singles out.
+
+```json
+{
+  "country": "sk",
+  "law": {"name": "Zákon č. 8/2009 Z. z. o cestnej premávke", "url": "https://www.slov-lex.sk/…", "version": "2026-08-01"},
+  "speed": {
+    "urban": {"default": 50, "section": "§ 16 ods. 4"},
+    "motorway": {"default": 130, "bus": 100, "hgv": 90, "trailer": 90, "section": "§ 16 ods. 2, 3"}
+  }
+}
+```
+
+The contexts are `urban`, `rural`, `motorway`, `urban_motorway`, `motorroad`,
+`urban_motorroad` and `living_street`, and a file lists every one of them.
+The map pipeline ([skifahrer/maptiles](https://github.com/skifahrer/maptiles))
+marks each road with its context. The Riki Maps app then looks the limit up
+here, so a change in the law changes only this file. Each number comes from
+the law's official text, `law.version` is the day from which the text that was
+read is in force, and `section` says where in it the number is. The format is
+[`regulations.schema.json`](https://github.com/skifahrer/schemas#a-countrys-regulations).
+
 ## Viewer
 
 **<https://skifahrer.github.io/traffic-signs/>** shows every sign with one
