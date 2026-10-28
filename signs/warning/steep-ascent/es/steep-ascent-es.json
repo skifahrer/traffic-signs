@@ -1,0 +1,11 @@
+{
+  "sign": "steep-ascent",
+  "category": "warning",
+  "country": "es",
+  "code": "P-16b",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",
+    "file": "Spain traffic signal P-16b (2022).svg"
+  }
+}

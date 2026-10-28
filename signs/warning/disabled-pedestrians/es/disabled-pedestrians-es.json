@@ -1,0 +1,11 @@
+{
+  "sign": "disabled-pedestrians",
+  "category": "warning",
+  "country": "es",
+  "code": "P-21b",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal p21-b, 2025.svg"
+  }
+}

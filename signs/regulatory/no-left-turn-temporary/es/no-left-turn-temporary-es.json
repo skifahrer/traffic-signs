@@ -1,0 +1,11 @@
+{
+  "sign": "no-left-turn-temporary",
+  "category": "regulatory",
+  "country": "es",
+  "code": "TR-303",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",
+    "file": "Andorra traffic signal II.A.3b temp.svg"
+  }
+}
