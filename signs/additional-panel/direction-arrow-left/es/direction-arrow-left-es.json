@@ -1,0 +1,11 @@
+{
+  "sign": "direction-arrow-left",
+  "category": "additional-panel",
+  "country": "es",
+  "code": "S-821",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal s821.svg"
+  }
+}

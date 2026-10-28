@@ -1,0 +1,536 @@
+code,category,slug,name_en,name_es
+P-1,warning,crossroads-with-minor-road,Crossroads with a road without priority,Intersección con prioridad
+P-1a,warning,side-road-right-minor,Side road on the right (without priority),Intersección con prioridad sobre vía a la derecha
+P-1b,warning,side-road-left-minor,Side road on the left (without priority),Intersección con prioridad sobre vía a la izquierda
+P-1c,warning,merging-traffic-from-right,Traffic merging from the right,Intersección con prioridad sobre la incorporación por la derecha
+P-1d,warning,merging-traffic-from-left,Traffic merging from the left,Intersección con prioridad sobre la incorporación por la izquierda
+P-2,warning,intersection,Intersection,Intersección con prioridad de la derecha
+P-3,warning,traffic-signals,Traffic signals,Semáforos
+P-4,warning,roundabout-ahead,Roundabout ahead,Intersección con circulación glorieta
+P-5,warning,movable-bridge,Movable bridge,Puente móvil
+P-6,warning,trams,Trams,Cruce de tranvía
+P-7,warning,level-crossing-with-barriers,Level crossing with barriers,Paso a nivel con barreras
+P-8,warning,level-crossing-without-barriers,Level crossing without barriers,Paso a nivel sin barreras
+P-9a,warning,level-crossing-countdown-marker-3-bars-right-side,"Level crossing countdown marker (3 bars, placed on the right)",Proximidad de un paso a nivel o de un puente móvil (lado derecho)
+P-9b,warning,level-crossing-countdown-marker-2-bars-right-side,"Level crossing countdown marker (2 bars, placed on the right)",Aproximación de un paso a nivel o de un puente móvil (lado derecho)
+P-9c,warning,level-crossing-countdown-marker-1-bar-right-side,"Level crossing countdown marker (1 bar, placed on the right)",Cercanía de un paso a nivel o de un puente móvil (lado derecho)
+P-10a,warning,level-crossing-countdown-marker-3-bars-left-side,"Level crossing countdown marker (3 bars, placed on the left)",Proximidad de un paso a nivel o de un puente móvil (lado izquierdo)
+P-10b,warning,level-crossing-countdown-marker-2-bars-left-side,"Level crossing countdown marker (2 bars, placed on the left)",Aproximación de un paso a nivel o de un puente móvil (lado izquierdo)
+P-10c,warning,level-crossing-countdown-marker-1-bar-left-side,"Level crossing countdown marker (1 bar, placed on the left)",Cercanía de un paso a nivel o de un puente móvil (lado izquierdo)
+P-11,warning,level-crossing-cross-single-track,Level crossing cross (single track),Situación de un paso a nivel sin barreras
+P-11a,warning,level-crossing-cross-multiple-tracks,Level crossing cross (multiple tracks),Situación de un paso a nivel sin barreras de más de una vía férrea
+P-12,warning,low-flying-aircraft,Low-flying aircraft,Aeropuerto
+P-13a,warning,bend-right,Bend (right),Curva peligrosa hacia la derecha
+P-13b,warning,bend-left,Bend (left),Curva peligrosa hacia la izquierda
+P-14a,warning,double-bend-right,Double bend (first to the right),Curvas peligrosas hacia la derecha
+P-14b,warning,double-bend-left,Double bend (first to the left),Curvas peligrosas hacia la izquierda
+P-15,warning,uneven-road,Uneven road,Perfil irregular
+P-15a,warning,hump,Hump,Resalto
+P-15b,warning,dip,Dip,Badén
+P-16a,warning,steep-descent,Steep descent,Bajada con fuerte pendiente
+P-16b,warning,steep-ascent,Steep ascent,Subida con fuerte pendiente
+P-17,warning,road-narrows-both-sides,Road narrows (from both sides),Estrechamiento de calzada
+P-17a,warning,road-narrows-right,Road narrows (from the right),Estrechamiento de calzada por la derecha
+P-17b,warning,road-narrows-left,Road narrows (from the left),Estrechamiento de calzada por la izquierda
+P-18,warning,roadworks,Roadworks,Obras
+P-19,warning,slippery-road,Slippery road,Pavimento deslizante
+P-20a,warning,pedestrian-crossing-ahead,Pedestrian crossing ahead,Paso de peatones
+P-20b,warning,pedestrians,Pedestrians,Peatones
+P-20c,warning,pedestrian-and-cycle-crossing-ahead,Pedestrian and cycle crossing ahead,Paso para peatones y ciclistas
+P-21a,warning,children,Children,Niños
+P-21b,warning,disabled-pedestrians,Disabled pedestrians,Personas con dificultades motrices
+P-22a,warning,cycle-crossing-ahead,Cycle crossing ahead,Paso para ciclistas
+P-22b,warning,cyclists,Cyclists,Ciclistas
+P-23,warning,farm-animals,Farm animals,Paso de animales domésticos
+P-24,warning,wild-animals,Wild animals,Paso de animales en libertad
+P-24a,warning,wild-boar,Wild boar,Paso de animales en libertad (jabalíes)
+P-25,warning,two-way-traffic,Two-way traffic,Circulación en los dos sentidos
+P-26,warning,fallen-rocks,Fallen rocks,Desprendimiento
+P-27,warning,quayside,Quayside or river bank,Muelle
+P-28,warning,loose-gravel,Loose gravel,Proyección de gravilla
+P-29,warning,crosswind,Crosswind,Viento transversal
+P-30,warning,dangerous-verge,Dangerous verge,Escalón lateral
+P-31,warning,queues,Queues likely,Congestión
+P-32,warning,obstruction-on-the-road,Obstruction on the road,Obstrucción en la calzada
+P-33,warning,poor-visibility,Poor visibility,Visibilidad reducida
+P-34,warning,snow-or-ice,Snow or ice,Pavimento deslizante por hielo o nieve
+P-35,warning,weaving-section,Weaving section (entry and exit lanes cross),Trenzado
+P-50,warning,danger,Other danger,Otros peligros
+R-1,regulatory,give-way,Give way,Ceda el paso
+R-2,regulatory,stop,"Stop, give way",Detención obligatoria o STOP
+R-3,information,priority-road,Priority road,Calzada con prioridad
+R-4,information,end-of-priority-road,End of priority road,Fin de prioridad
+R-5,regulatory,give-way-to-oncoming-traffic,Give way to oncoming traffic,Prioridad en sentido contrario
+R-6,information,priority-over-oncoming-traffic,Priority over oncoming traffic,Prioridad respecto al sentido contrario
+R-100,regulatory,no-vehicles,No vehicles,Circulación prohibida
+R-101,regulatory,no-entry,No entry,Entrada prohibida
+R-102,regulatory,no-motor-vehicles,No motor vehicles,Entrada prohibida a vehículos de motor
+R-103,regulatory,no-motor-vehicles-except-solo-motorcycles,No entry for motor vehicles except solo motorcycles,"Entrada prohibida a vehículos de motor, excepto motocicletas de dos ruedas"
+R-104,regulatory,no-motorcycles,No entry for motorcycles,Entrada prohibida a motocicletas
+R-105,regulatory,no-mopeds,No entry for mopeds,Entrada prohibida a ciclomotores (y vehículos para personas de movilidad reducida)
+R-106,regulatory,no-goods-vehicles,No entry for goods vehicles,Entrada prohibida a vehículos destinados al transporte de mercancías
+R-107,regulatory,no-goods-vehicles-over-weight,No goods vehicles over the weight shown,Entrada prohibida a vehículos destinados al transporte de mercancías con mayor masa autorizada que la indicada
+R-108,regulatory,no-vehicles-carrying-dangerous-goods,No vehicles carrying dangerous goods,Entrada prohibida a vehículos que transporten mercancías peligrosas
+R-109,regulatory,no-vehicles-carrying-explosives,No vehicles carrying explosive or flammable goods,Entrada prohibida a vehículos que transporten mercancías explosivas o inflamables
+R-110,regulatory,no-vehicles-carrying-water-pollutants,No vehicles carrying goods that may pollute water,Entrada prohibida a vehículos que transporten productos contaminantes del agua (más de 1.000 litros)
+R-111,regulatory,no-tractors,No entry for tractors,Entrada prohibida a vehículos agrícolas de motor
+R-112,regulatory,no-motor-vehicles-with-trailers-except-semi-trailers,No motor vehicles with trailers (except semi-trailers and single-axle trailers),"Entrada prohibida a vehículos de motor con remolque, que no sea un semirremolque o un remolque de un solo eje"
+R-113,regulatory,no-animal-drawn-vehicles,No entry for animal-drawn vehicles,Entrada prohibida a vehículos de tracción animal
+R-114,regulatory,no-bicycles,No entry for bicycles,Entrada prohibida a ciclos
+R-115,regulatory,no-handcarts,No entry for handcarts,Entrada prohibida a carros de mano
+R-116,regulatory,no-pedestrians,No entry for pedestrians,Entrada prohibida a peatones
+R-117,regulatory,no-riders,No entry for riders on animals,Entrada prohibida a animales de montura
+R-118,regulatory,no-personal-transporters,No entry for personal transporters,Entrada prohibida a vehículos de movilidad personal
+R-119,regulatory,no-personal-transporters-or-bicycles,No entry for personal transporters or bicycles,Entrada prohibida a vehículos de movilidad personal y ciclos
+R-120,regulatory,low-emission-zone,Low emission zone,Entrada prohibida a vehículos en función de distintivo ambiental u otros criterios ambientales
+R-200,regulatory,customs-stop,Customs stop,Prohibición de pasar sin detenerse
+R-201,regulatory,maximum-weight,Maximum weight,Limitación de masa
+R-202,regulatory,maximum-axle-weight,Maximum axle weight,Limitación de masa por eje
+R-203,regulatory,maximum-length,Maximum length,Limitación de longitud
+R-204,regulatory,maximum-width,Maximum width,Limitación de anchura
+R-205,regulatory,maximum-height,Maximum height,Limitación de altura
+R-300,regulatory,minimum-distance,Minimum distance between vehicles,Separación mínima
+R-301,regulatory,speed-limit,Speed limit,Velocidad máxima
+R-302,regulatory,no-right-turn,No right turn,Giro a la derecha prohibido
+R-303,regulatory,no-left-turn,No left turn,Giro a la izquierda prohibido
+R-304,regulatory,no-u-turn,No U-turn,Media vuelta prohibida
+R-305,regulatory,no-overtaking,No overtaking,Adelantamiento prohibido
+R-306,regulatory,no-overtaking-by-goods-vehicles,No overtaking by goods vehicles,Adelantamiento prohibido para camiones
+R-307,regulatory,no-stopping,No stopping,Parada y estacionamiento prohibido
+R-307a,regulatory,no-stopping-both-directions,No stopping (both directions from the sign),Parada y estacionamiento prohibido hacia ambos lados de la señal
+R-307b,regulatory,no-stopping-right,No stopping (to the right of the sign),Parada y estacionamiento prohibido hacia el lado de la señal indicado por la flecha
+R-307c,regulatory,no-stopping-left,No stopping (to the left of the sign),Parada y estacionamiento prohibido hacia el lado de la señal indicado por la flecha
+R-308,regulatory,no-parking,No parking,Estacionamiento prohibido
+R-308c,regulatory,no-parking-first-half-of-month,No parking (1st to 15th of the month),Estacionamiento prohibido la primera quincena
+R-308d,regulatory,no-parking-second-half-of-month,No parking (16th to the end of the month),Estacionamiento prohibido la segunda quincena
+R-308e,regulatory,no-parking-driveway,No parking (driveway),Estacionamiento prohibido en vado
+R-308f,regulatory,no-parking-both-directions,No parking (both directions from the sign),Estacionamiento prohibido hacia ambos lados de la señal
+R-308g,regulatory,no-parking-right,No parking (to the right of the sign),Estacionamiento prohibido hacia el lado de la señal indicado por la flecha
+R-308h,regulatory,no-parking-left,No parking (to the left of the sign),Estacionamiento prohibido hacia el lado de la señal indicado por la flecha
+R-309,regulatory,short-term-parking-zone,Short-term parking zone,Zona de estacionamiento limitado
+R-310,regulatory,no-horns,Use of horns prohibited,Advertencias acústicas prohibidas
+R-400a,regulatory,turn-right,Turn right,Sentido obligatorio
+R-400b,regulatory,turn-left,Turn left,Sentido obligatorio
+R-400c,regulatory,mandatory-direction-straight,Mandatory direction (straight ahead),Sentido obligatorio
+R-400d,regulatory,turn-right-here,Turn right here,Sentido obligatorio
+R-400e,regulatory,turn-left-here,Turn left here,Sentido obligatorio
+R-401a,regulatory,pass-on-right,Pass on the right,Paso obligatorio
+R-401b,regulatory,pass-on-left,Pass on the left,Paso obligatorio
+R-401c,regulatory,pass-on-either-side,Pass on either side,Paso obligatorio
+R-402,regulatory,roundabout,Roundabout,Rotonda
+R-403a,regulatory,mandatory-direction-straight-or-right,Mandatory direction (straight ahead or right),Únicas direcciones y sentidos permitidos
+R-403b,regulatory,mandatory-direction-straight-or-left,Mandatory direction (straight ahead or left),Únicas direcciones y sentidos permitidos
+R-403c,regulatory,mandatory-direction-left-or-right,Mandatory direction (left or right),Únicas direcciones y sentidos permitidos
+R-404,regulatory,road-for-movement-of-passenger-cars,Road for movement of passenger cars,"Calzada obligatoria para automóviles, excepto motocicletas de dos ruedas"
+R-405,regulatory,mandatory-road-for-motorcycles,Mandatory road for solo motorcycles,Calzada obligatoria para motocicletas de dos ruedas
+R-406,regulatory,mandatory-road-for-goods-vehicles,Mandatory road for goods vehicles and vans,"Calzada obligatoria para camiones, tractocamiones, furgones y furgonetas"
+R-407a,regulatory,cycle-path,Cycle path,Vía obligatoria y reservada para ciclos
+R-407b,regulatory,moped-path,Path for mopeds,Vía obligatoria y reservada para ciclomotores
+R-408,regulatory,path-for-animal-drawn-vehicles,Path for animal-drawn vehicles,Camino obligatorio para vehículos de tracción animal
+R-409,regulatory,bridleway,Bridleway,Camino obligatorio y reservado para animales de montura
+R-410,regulatory,footpath,Footpath,Camino reservado para peatones
+R-411,regulatory,minimum-speed,Minimum speed,Velocidad mínima
+R-412,regulatory,snow-chains-required,Snow chains required,Obligatorio usar cadenas para nieve
+R-412b,regulatory,winter-equipment-required,Winter equipment required,Obligatorio usar neumáticos especiales de invierno
+R-413,regulatory,headlights-on,Switch on headlights,Alumbrado de corto alcance
+R-414,regulatory,dangerous-goods-mandatory-direction,Mandatory direction for vehicles carrying dangerous goods,Calzada obligatoria para vehículos que transporten mercancías peligrosas
+R-415,regulatory,mandatory-road-for-vehicles-carrying-water-pollutants,Mandatory road for vehicles carrying water pollutants,Calzada obligatoria para vehículos que transporten productos contaminantes del agua
+R-416,regulatory,mandatory-road-for-vehicles-carrying-explosives,Mandatory road for vehicles carrying explosive or flammable goods,Calzada obligatoria para vehículos que transporten materias explosivas o inflamables
+R-417,regulatory,seat-belts-required,Seat belts required,Uso obligatorio del cinturón de seguridad
+R-418,regulatory,electronic-toll-only-lane,Lane for vehicles with electronic toll equipment only,Vía exclusiva para vehículos dotados de equipo de telepeaje operativo
+R-419,regulatory,path-for-tractors,Path for tractors,Camino obligatorio a tractores
+R-420,regulatory,personal-transporter-path,Path for personal transporters,Vía reservada y obligatoria para vehículos de movilidad personal
+R-421,regulatory,cycle-and-personal-transporter-path,Path for bicycles and personal transporters,Vía reservada y obligatoria para ciclos y para vehículos de movilidad personal
+R-422,regulatory,dismount,Cyclists dismount and continue on foot,Obligatorio desmontar y continuar a pie
+R-500,regulatory,end-of-all-restrictions,End of all restrictions,Fin de prohibiciones
+R-501,regulatory,end-of-speed-limit,End of speed limit,Fin de la limitación de velocidad
+R-502,regulatory,end-of-no-overtaking,End of no overtaking,Fin de la prohibición de adelantamiento
+R-503,regulatory,end-of-no-overtaking-by-goods-vehicles,End of no overtaking by goods vehicles,Fin de la prohibición de adelantamiento para camiones
+R-504,regulatory,end-of-short-term-parking-zone,End of short-term parking zone,Fin de zona de estacionamiento limitado
+R-505,regulatory,end-of-cycle-path,End of cycle path,Fin de vía reservada y obligatoria para ciclos
+R-506,regulatory,end-of-minimum-speed,End of minimum speed,Fin de velocidad mínima
+R-507,regulatory,end-of-road-for-movement-of-passenger-cars,End of road for movement of passenger cars,"Fin de vía obligatoria para automóviles, excepto motocicletas de dos ruedas"
+R-508,regulatory,end-of-mandatory-road-for-motorcycles,End of mandatory road for solo motorcycles,Fin de vía obligatoria para motocicletas de dos ruedas
+R-509,regulatory,end-of-mandatory-road-for-goods-vehicles,End of mandatory road for goods vehicles and vans,"Fin de vía obligatoria para camiones, tractocamiones y furgones o furgonetas"
+R-510,regulatory,end-of-moped-path,End of path for mopeds,Fin de vía reservada y obligatoria para ciclomotores
+R-511,regulatory,end-of-path-for-animal-drawn-vehicles,End of path for animal-drawn vehicles,Fin de camino obligatorio para vehículos de tracción animal
+R-512,regulatory,end-of-bridleway,End of bridleway,Fin de camino reservado y obligatorio para animales de montura
+R-513,regulatory,end-of-footpath,End of footpath,Fin de camino reservado y obligatorio para peatones
+R-514,regulatory,end-of-path-for-tractors,End of path for tractors,Fin de camino obligatorio a tractores
+R-515,regulatory,end-of-personal-transporter-path,End of path for personal transporters,Fin de vía reservada y obligatoria para vehículos de movilidad personal
+R-516,regulatory,end-of-cycle-and-personal-transporter-path,End of path for bicycles and personal transporters,Fin de vía reservada y obligatoria para ciclos y para vehículos de movilidad personal
+S-1,information,motorway,Motorway,Autopista
+S-1a,information,dual-carriageway-road,Dual carriageway road (autovía),Autovía
+S-1b,information,multi-lane-road,Multi-lane road,Carretera multicarril
+S-1c,information,two-plus-one-road,2+1 road,Carretera 2+1
+S-2,information,end-of-motorway,End of motorway,Fin de autopista
+S-2a,information,end-of-dual-carriageway-road,End of dual carriageway road (autovía),Fin de autovía
+S-2b,information,end-of-multi-lane-road,End of multi-lane road,Fin de carretera multicarril
+S-2c,information,end-of-two-plus-one-road,End of 2+1 road,Fin de carretera 2+1
+S-3,information,motor-road,Road for motor vehicles,Vía reservada para automóviles
+S-4,information,end-of-motor-road,End of road for motor vehicles,Fin de vía reservada para automóviles
+S-5,information,tunnel,Tunnel,Túnel
+S-7,information,recommended-speed,Recommended speed,Velocidad máxima aconsejada
+S-8,information,end-of-recommended-speed,End of recommended speed,Fin de velocidad máxima aconsejada
+S-9,information,recommended-speed-range,Recommended speed range,Intervalo aconsejado de velocidades
+S-10,information,end-of-recommended-speed-range,End of recommended speed range,Fin de intervalo aconsejado de velocidades
+S-11,information,one-way-road,One-way road,Calzada de un carril de sentido único
+S-11a,information,one-way-road-two-lanes,One-way road (two lanes),Calzada de dos carriles de sentido único
+S-11b,information,one-way-road-three-lanes,One-way road (three lanes),Calzada de tres carriles de sentido único
+S-12,information,one-way-section,One-way section of road,Tramo de calzada de sentido único
+S-13,information,pedestrian-crossing,Pedestrian crossing,Situación de un paso de peatones
+S-14a,information,pedestrian-footbridge,Pedestrian footbridge,Paso superior para peatones
+S-14b,information,pedestrian-subway,Pedestrian subway,Paso inferior para peatones
+S-14c,information,pedestrian-footbridge-with-ramp,Pedestrian footbridge (with ramp),Paso superior para peatones con rampa
+S-14d,information,pedestrian-underpass-with-ramp,Pedestrian underpass (with ramp),Paso inferior para peatones con rampa
+S-14e,information,pedestrian-footbridge-with-cycle-ramp,Pedestrian footbridge (with a rail or ramp for bicycles),Paso superior para peatones con raíl o rampa para ciclos
+S-14f,information,pedestrian-underpass-with-cycle-ramp,Pedestrian underpass (with a rail or ramp for bicycles),Paso inferior para peatones con raíl o rampa para ciclos
+S-15a,information,dead-end,Dead end,Calzada sin salida
+S-15b,information,dead-end-side-road-left,Dead-end side road (to the left),Preseñalización de calzada sin salida
+S-15c,information,dead-end-side-road-left-diagonal,"Dead-end side road (to the left, diagonal)",Preseñalización de calzada sin salida
+S-15d,information,dead-end-crossroads,"Dead end (crossroads ahead, the road straight on)",Preseñalización de calzada sin salida
+S-15e,information,dead-end-except-pedestrians-and-cyclists,Dead end (passable for pedestrians and cyclists),Calzada sin salida excepto para peatones o ciclos
+S-16,information,emergency-escape-lane,"Emergency escape lane (straight ahead, road turns left)",Zona de frenado de emergencia
+S-17,regulatory,parking,Parking,Estacionamiento
+S-17a,regulatory,emergency-parking,Emergency parking,Estacionamiento de necesidad
+S-18,information,taxi-rank,Taxi rank,Lugar reservado para taxis
+S-19,information,bus-stop,"Bus, trolleybus or electric bus stop",Parada de autobuses
+S-20,information,tram-stop,Tram stop,Parada de tranvías
+S-21,information,mountain-pass-open-or-closed,Mountain pass open or closed,Puerto de montaña
+S-22,information,u-turn-place,U-turn place,Cambio de sentido al mismo nivel
+S-23,information,services-hospital,Services (hospital),Hospital
+S-24,regulatory,end-of-headlights-on,End of switch on headlights,Fin de obligación de alumbrado de corto alcance
+S-25,information,u-turn-place-grade-separated,U-turn place (grade-separated),Cambio de sentido a distinto nivel
+S-26a,information,exit-countdown-motorway-300m,Exit countdown on the motorway (300 m),Panel de aproximación a salida (300 m)
+S-26b,information,exit-countdown-motorway-200m,Exit countdown on the motorway (200 m),Panel de aproximación a salida (200 m)
+S-26c,information,exit-countdown-motorway-100m,Exit countdown on the motorway (100 m),Panel de aproximación a salida (100 m)
+S-27,information,roadside-assistance,Roadside assistance,Auxilio en carretera
+S-28,information,residential-zone,Residential zone,Zona de estancia y juego
+S-29,information,end-of-residential-zone,End of residential zone,Fin de zona de estancia y juego
+S-30a,information,pedestrian-zone,Pedestrian zone,Zona peatonal
+S-31a,information,end-of-pedestrian-zone,End of pedestrian zone,Fin de zona peatonal
+S-32,information,electronic-toll-section,Electronic toll section,Telepeaje
+S-33,information,pedestrian-and-cycle-track,Pedestrian and cycle track (senda ciclopeatonal),Senda ciclopeatonal
+S-34,information,emergency-lay-by,Emergency lay-by,Apartadero
+S-34a,information,emergency-lay-by-with-emergency-telephone,Emergency lay-by with emergency telephone,Apartadero en túneles con teléfono de emergencia
+S-35,information,cycle-track,Cycle track,Vía reservada para ciclos
+S-36,information,end-of-cycle-track,End of cycle track,Fin de vía reservada para ciclos
+S-37,information,personal-transporter-track,Track for personal transporters,Vía reservada para vehículos de movilidad personal
+S-38,information,cycle-and-personal-transporter-track,Track for bicycles and personal transporters,Vía reservada para ciclos y vehículos de movilidad personal
+S-39,information,end-of-personal-transporter-track,End of track for personal transporters,Fin de vía reservada para vehículos de movilidad personal
+S-40,information,end-of-cycle-and-personal-transporter-track,End of track for bicycles and personal transporters,Fin de vía reservada para ciclos y vehículos de movilidad personal
+S-41,information,segregated-cycle-and-pedestrian-track,Track for bicycles and pedestrians (separate spaces),Vía reservada para ciclos y peatones con espacio de circulación diferenciado entre ellos
+S-42,information,end-of-segregated-cycle-and-pedestrian-track,End of track for bicycles and pedestrians (separate spaces),Fin de vía reservada para ciclos y peatones con espacio de circulación diferenciado entre ellos
+S-43,information,cycle-personal-transporter-and-pedestrian-track,"Track for bicycles, personal transporters and pedestrians","Vía reservada para ciclos, vehículos de movilidad personal y peatones, con espacio de circulación diferenciado entre los dos primeros y los terceros"
+S-44,information,end-of-cycle-personal-transporter-and-pedestrian-track,"End of track for bicycles, personal transporters and pedestrians","Fin de vía reservada para ciclos, vehículos de movilidad personal y peatones, con espacio de circulación diferenciado entre los dos primeros y los terceros"
+S-45,information,cycle-crossing,Cycle crossing,Situación de un paso para ciclistas
+S-46,information,pedestrian-and-cycle-crossing,Pedestrian and cycle crossing,Situación de un paso para peatones y ciclistas
+S-47,information,shared-space-zone,Shared space (encounter zone),Zona de coexistencia
+S-48,information,end-of-shared-space-zone,End of shared space (encounter zone),Fin de zona de coexistencia
+S-49,information,advanced-stop-box-for-cyclists,Advanced stop box for cyclists,Avanza moto o bici
+S-50a,information,lanes-by-speed,Lanes reserved according to speed,Carriles reservados para el tráfico en función de la velocidad señalizada
+S-50b,information,lanes-by-speed-b,Lanes reserved according to speed (variant b),Carriles reservados para tráfico en función de la velocidad señalizada
+S-50c,information,lanes-by-speed-c,Lanes reserved according to speed (variant c),Carriles reservados para tráfico en función de la velocidad señalizada
+S-50d,information,lanes-by-speed-d,Lanes reserved according to speed (variant d),Carriles reservados para tráfico en función de la velocidad señalizada
+S-50e,information,lanes-by-speed-e,Lanes reserved according to speed (variant e),Carriles reservados para tráfico en función de la velocidad señalizada
+S-51a,information,lane-restriction,Restriction in the lane,Carril reservado para tipos específicos de vehículos
+S-51b,information,high-occupancy-vehicle-lane,High-occupancy vehicle (HOV) lane,Carril reservado para vehículos con alta ocupación (VAO)
+S-52,information,end-of-lane,End of lane,Final de carril destinado a la circulación
+S-52a,information,end-of-lane-b,End of lane (variant b),Final de carril destinado a la circulación
+S-52b,information,end-of-lane-c,End of lane (variant c),Final de carril destinado a la circulación
+S-52c,information,end-of-lane-d,End of lane (variant d),Final de carril destinado a la circulación
+S-52d,information,end-of-lane-e,End of lane (variant e),Final de carril destinado a la circulación
+S-52e,information,end-of-lane-f,End of lane (variant f),Final de carril destinado a la circulación
+S-52f,information,end-of-lane-g,End of lane (variant g),Final de carril destinado a la circulación
+S-52g,information,end-of-lane-h,End of lane (variant h),Final de carril destinado a la circulación
+S-53,information,lane-gain,Lane gain,Paso de uno a dos carriles de circulación
+S-53a,information,lane-gain-with-speed-limits,Lane gain (with speed limits),Paso de uno a dos carriles de circulación con especificación de la velocidad máxima en cada uno de ellos
+S-53b,information,lane-gain-two-to-three,Lane gain (two to three lanes),Paso de dos a tres carriles de circulación
+S-53c,information,lane-gain-two-to-three-with-speed-limits,"Lane gain (two to three lanes, with speed limits)",Paso de dos a tres carriles de circulación con especificación de la velocidad máxima en cada uno de ellos
+S-60a,information,lanes-diverging-2-lanes-left,"Lanes diverging (2 lanes, turning off to the left)",Bifurcación hacia la izquierda en calzada de dos carriles
+S-60b,information,lanes-diverging-2-lanes-right,"Lanes diverging (2 lanes, turning off to the right)",Bifurcación hacia la derecha en calzada de dos carriles
+S-61a,information,lanes-diverging-3-lanes-left,"Lanes diverging (3 lanes, turning off to the left)",Bifurcación hacia la izquierda en calzada de tres carriles
+S-61b,information,lanes-diverging-3-lanes-right,"Lanes diverging (3 lanes, turning off to the right)",Bifurcación hacia la derecha en calzada de tres carriles
+S-61c,information,lanes-diverging-3-lanes-right-2-lanes-on,"Lanes diverging (3 lanes, turning off to the right onto a two-lane road)",Bifurcación hacia la derecha en calzada de dos carriles en el sentido propio de circulación y un carril en sentido opuesto
+S-62a,information,lanes-diverging-4-lanes-left,"Lanes diverging (4 lanes, turning off to the left)",Bifurcación hacia la izquierda en calzada de cuatro carriles
+S-62b,information,lanes-diverging-4-lanes-right,"Lanes diverging (4 lanes, turning off to the right)",Bifurcación hacia la derecha en calzada de cuatro carriles
+S-63a,information,lanes-fork-4-lanes,Lanes fork (4 lanes),Bifurcación en calzada de cuatro carriles
+S-63b,information,lanes-fork-3-lanes,Lanes fork (3 lanes),Bifurcación en calzada de tres carriles
+S-63c,information,lanes-fork-4-lanes-2-left,"Lanes fork (4 lanes, 2 to the left)",Bifurcación de dos carriles hacia la izquierda en calzada de cuatro carriles
+S-63d,information,lanes-fork-4-lanes-2-right,"Lanes fork (4 lanes, 2 to the right)",Bifurcación de dos carriles hacia la derecha en calzada de cuatro carriles
+S-64a,information,mandatory-cycle-lane-one-way-road,Mandatory cycle lane next to a one-way road,Vía reservada y obligatoria para ciclos adosada a calzada de un único sentido de circulación
+S-64b,information,mandatory-cycle-lane-two-way-road,Mandatory cycle lane next to a two-way road,Vía reservada y obligatoria para ciclos adosada a calzada de doble sentido de circulación
+S-65a,information,cycle-lane-one-way-road,Cycle lane next to a one-way road,Vía reservada para ciclos adosada a calzada de un único sentido de circulación
+S-65b,information,cycle-lane-two-way-road,Cycle lane next to a two-way road,Vía reservada para ciclos adosada a calzada de doble sentido de circulación
+S-66,information,contraflow-bicycle-lane,Contraflow bicycle lane,Carril bici en sentido opuesto
+S-68,information,section-with-one-lane-each-way,Section with one lane in each direction,Tramo de calzada con un carril para el sentido propio de circulación y dos carriles para el sentido opuesto
+S-70a,information,lane-merging-from-left-1-lane,Lane merging from the left (onto a 1-lane road),Confluencia de un carril por la izquierda en calzada de un carril
+S-70b,information,lane-merging-from-right-1-lane,Lane merging from the right (onto a 1-lane road),Confluencia de un carril por la derecha en calzada de un carril
+S-71a,information,lane-merging-from-left-2-lanes,Lane merging from the left (onto a 2-lane road),Confluencia de un carril por la izquierda en calzada de dos carriles
+S-71b,information,lane-merging-from-right-2-lanes,Lane merging from the right (onto a 2-lane road),Confluencia de un carril por la derecha en calzada de dos carriles
+S-72a,information,lane-merging-from-left-3-lanes,Lane merging from the left (onto a 3-lane road),Confluencia de un carril por la izquierda en calzada de tres carriles
+S-72b,information,lane-merging-from-right-3-lanes,Lane merging from the right (onto a 3-lane road),Confluencia de un carril por la derecha en calzada de tres carriles
+S-73a,information,two-lanes-merging-from-left-2-lanes,Two lanes merging from the left (onto a 2-lane road),Confluencia de dos carriles por la izquierda en calzada de dos carriles
+S-73b,information,two-lanes-merging-from-right-2-lanes,Two lanes merging from the right (onto a 2-lane road),Confluencia de dos carriles por la derecha en calzada de dos carriles
+S-100,information,services-first-aid,Services (first aid),Puesto de socorro
+S-101,information,services-ambulance,Services (ambulance station),Base de ambulancia
+S-102,information,services-vehicle-inspection,Services (vehicle inspection station),Servicio de inspección técnica de vehículos
+S-103,information,services-vehicle-repair,Services (vehicle repair),Taller de reparación
+S-104,information,services-telephone,Services (telephone),Teléfono
+S-105,information,services-filling-station,Services (filling station),Surtidor de carburante
+S-105b,information,services-filling-station-and-lpg,Services (filling station with LPG),Surtidor de carburante y GLP
+S-105c,information,services-lpg-station,Services (LPG station),Surtidor de GLP
+S-105d,information,services-filling-station-and-ev-charging,Services (filling station with EV charging),Surtidor de carburante y estación de recarga eléctrica
+S-105e,information,services-ev-charging-station,Services (EV charging station),Estación de recarga eléctrica
+S-105f,information,services-filling-station-lpg-and-ev-charging,Services (filling station with LPG and EV charging),"Surtidor de carburante, GLP y estación de recarga eléctrica"
+S-106,information,services-vehicle-repair-and-filling-station,Services (vehicle repair and filling station),Taller de reparación y surtidor de carburante
+S-107,information,services-tent-camp,Services (tent camp),Campamento
+S-108,information,drinking-water,Drinking water,Agua
+S-109,information,services-viewpoint,Services (viewpoint),Lugar pintoresco
+S-110,information,services-hotel-or-motel,Services (hotel or motel),Hotel o motel
+S-111,information,services-restaurant,Services (roadside restaurant),Restauración
+S-112,information,services-cafe,Services (café or snack bar open every day),Cafetería
+S-113,information,services-caravan-site,Services (caravan site),Terreno para remolques-vivienda
+S-114,information,services-picnic-site,Services (picnic site),Merendero
+S-115,information,services-hiking-trail,Services (hiking trail),Punto de partida para excursiones a pie
+S-116,information,services-camping-and-caravan-site,Services (camping and caravan site),Campamento y terreno para remolques-vivienda
+S-117,information,services-youth-hostel,Services (youth hostel),Albergue de juventud
+S-118,information,services-information-point,Services (information point),Información turística
+S-119,information,fishing-place,Fishing place,Coto de pesca
+S-120,information,nature-park,Nature park,Parque o espacio natural
+S-121,information,monument,Monument or landmark,Monumento
+S-122,information,services-other,Services (other facilities),Otros servicios
+S-123,information,rest-area,Rest area,Área de descanso
+S-124,regulatory,parking-for-rail-users,Parking for rail users,Estacionamiento para usuarios del ferrocarril
+S-125,regulatory,parking-for-metro-users,Parking for metro users,Estacionamiento para usuarios del ferrocarril inferior
+S-126,regulatory,parking-for-bus-users,Parking for bus users,Estacionamiento para usuarios del autobús
+S-128,information,services-motorhome-waste-disposal,Services (motorhome waste disposal),Punto de vaciado de caravanas y autocaravanas
+S-129,regulatory,emergency-parking-snow,Emergency parking (snowfall),Estacionamiento de emergencia por nevadas
+S-200,information,advance-direction-sign-roundabout,Advance direction sign (roundabout),Preseñalización de glorieta
+S-201,information,advance-direction-sign-split-roundabout,"Advance direction sign (split roundabout, from the main carriageway)",Preseñalización de glorieta partida desde la calzada principal
+S-202,information,advance-direction-sign-split-roundabout-b,"Advance direction sign (split roundabout, from the secondary carriageway)",Preseñalización de glorieta partida desde la calzada secundaria
+S-203,information,advance-direction-sign-roundabout-lanes,"Advance direction sign (roundabout, with lanes by movement)",Preseñalización de glorieta con selección de carriles en función del movimiento a efectuar
+S-220,information,advance-direction-sign,Advance direction sign,"Preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril"
+S-220a,information,advance-direction-sign-b,Advance direction sign (variant b),"Preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril y dirección propia"
+S-222,information,advance-direction-sign-to-motorway-b,Advance direction sign to a motorway or dual carriageway,"Preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia autopista o autovía"
+S-222a,information,advance-direction-sign-to-motorway-c,Advance direction sign to a motorway or dual carriageway (variant c),"Preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia autopista o autovía y dirección propia"
+S-225,information,advance-direction-sign-motorway,Advance direction sign on the motorway,"Preseñalización, con cartel lateral, en autopista o autovía hacia cualquier tipo de carretera"
+S-230,information,advance-direction-board-overhead,Advance direction board above the road,"Preseñalización, con cartel sobre la calzada, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril"
+S-230a,information,advance-direction-board-overhead-b,Advance direction board above the road (variant b),"Preseñalización, con carteles sobre la calzada, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril y dirección propia"
+S-232,information,advance-direction-board-overhead-c,Advance direction board above the road (variant c),"Preseñalización, con cartel sobre la calzada, en carretera convencional o carretera multicarril hacia autopista o autovía"
+S-232a,information,advance-direction-board-overhead-d,Advance direction board above the road (variant d),"Preseñalización, con carteles sobre la calzada, en carretera convencional o carretera multicarril hacia autopista o autovía y dirección propia"
+S-235,information,advance-direction-board-overhead-motorway,Advance direction board above the road (motorway),"Preseñalización, con cartel sobre la calzada, en autopista o autovía hacia cualquier tipo de carretera"
+S-235a,information,advance-direction-board-overhead-motorway-b,"Advance direction board above the road (motorway, variant b)","Preseñalización, con carteles sobre la calzada, en autopista o autovía haciacualquier tipo de carretera y dirección propia"
+S-242,information,advance-direction-board-overhead-motorway-two-exits,"Advance direction board above the road (motorway, two exits)","Preseñalización, con cartel sobre la calzada en autopista o autovía, de dos salidas muy próximas hacia cualquier tipo de carretera"
+S-242a,information,advance-direction-board-overhead-motorway-two-exits-b,"Advance direction board above the road (motorway, two exits, variant b)","Preseñalización, con carteles sobre la calzada en autopista o autovía, de dos salidas muy próximas hacia cualquier tipo de carretera y dirección propia"
+S-245,information,advance-direction-sign-additional-towns,Advance direction sign (additional towns),Preseñalización complementaria de poblaciones en carretera convencional o carretera multicarril
+S-246,information,advance-direction-sign-additional-towns-motorway,"Advance direction sign (additional towns, motorway)",Preseñalización complementaria de poblaciones en autopista o autovía
+S-247,information,advance-direction-sign-bypass,Advance direction sign (bypass),Preseñalización de salidas en variante de población
+S-250,information,advance-route-sign,Advance route sign,Preseñalización de itinerario
+S-260,information,lane-advance-direction-sign,Advance direction sign by lane,Preseñalización de carriles
+S-261,information,advance-sign-services,Advance sign for services,Preseñalización de servicios en carreteras convencionales con elevada intensidad de tráfico (IMD ≥ 10.000) y en todas las carreteras multicarril
+S-263,information,advance-sign-services-motorway,Advance sign for services (motorway),Preseñalización de servicios en autopista o autovía
+S-267,information,advance-sign-services-b,Advance sign for services (variant b),Preseñalización de servicios varios en carretera convencional o carretera multicarril
+S-268,information,advance-sign-services-motorway-b,"Advance sign for services (motorway, variant b)",Preseñalización de servicios varios en autopista o autovía
+S-271,information,advance-sign-service-area,Advance sign for a service area,Preseñalización de área de servicio
+S-300,information,direction-sign,Direction sign,Poblaciones de uno o varios itinerarios por carretera convencional o carretera multicarril
+S-301,information,direction-sign-motorway,Direction sign (motorway),Poblaciones en un itinerario por autopista o autovía
+S-320,information,tourist-destination-direction-sign,Tourist destination direction sign,Lugares de interés por carretera convencional
+S-321,information,tourist-destination-direction-sign-motorway,Tourist destination direction sign (motorway),Lugares de interés por autopista o autovía
+S-322,information,cycle-direction-sign,Direction sign for cyclists,Señal de destino hacia una vía ciclista o senda ciclopeatonal
+S-341,information,exit-direction-sign-b,Exit direction sign (variant b),Señales de destino de salida inmediata hacia carretera convencional o carretera multicarril
+S-342,information,exit-direction-sign-motorway,Exit direction sign on the motorway,Señales de destino de salida inmediata hacia autopista o autovía
+S-344,information,exit-direction-sign-services,"Exit direction sign (to a zone, area or services)","Señales de destino de salida inmediata, exclusiva o compartida con carretera convencional o carretera multicarril, hacia los servicios indicados"
+S-347,information,exit-direction-sign-services-b,"Exit direction sign (to services, variant b)","Señales de destino de salida inmediata hacia los servicios indicados, con salida compartida hacia autopista o autovía"
+S-348,information,exit-sign,Exit sign,"Señalización de salida inmediata, con cartel lateral, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril"
+S-348a,information,exit-sign-b,Exit sign (variant b),"Señalización de salida inmediata, con cartel lateral, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril y dirección propia"
+S-349,information,exit-sign-c,Exit sign (variant c),"Señalización de salida inmediata, con cartel lateral, en carretera convencional o carretera multicarril hacia autopista o autovía"
+S-349a,information,exit-sign-d,Exit sign (variant d),"Señalización de salida inmediata, con cartel lateral, en carretera convencional o carretera multicarril hacia autopista o autovía y dirección propia"
+S-350,information,exit-board-overhead,Exit board above the road,"Señal sobre la calzada, en carretera convencional. Salida inmediata hacia carretera convencional"
+S-350a,information,exit-board-overhead-b,Exit board above the road (variant b),"Señalización de salida inmediata, con carteles sobre la calzada, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril y dirección propia"
+S-351,information,exit-board-overhead-c,Exit board above the road (variant c),"Señalización de salida inmediata, con cartel sobre la calzada, en carretera convencional o carretera multicarril hacia autopista o autovía"
+S-351a,information,exit-board-overhead-d,Exit board above the road (variant d),"Señalización de salida inmediata, con carteles sobre la calzada, en carretera convencional o carretera multicarril hacia autopista o autovía y dirección propia"
+S-352,information,exit-board-overhead-e,Exit board above the road (variant e),"Señalización de salida inmediata, con carteles sobre la calzada, en autopista o autovía hacia carretera convencional o carretera multicarril"
+S-352a,information,exit-board-overhead-f,Exit board above the road (variant f),"Señalización de salida inmediata, con carteles sobre la calzada, en autopista o autovía hacia carretera convencional o carretera multicarril y dirección propia"
+S-353,information,exit-board-overhead-motorway,Exit board above the road (motorway),"Señalización de salida inmediata, con cartel sobre la calzada, en autopista o autovía hacia autopista o autovía"
+S-353a,information,exit-board-overhead-motorway-b,"Exit board above the road (motorway, variant b)","Señalización de salida inmediata, con carteles sobre la calzada, en autopista o autovía hacia autopista o autovía y dirección propia"
+S-373,information,exit-board-overhead-two-exits,Exit board above the road (first of two exits),"Señalización de la primera salida inmediata de dos muy próximas, con carteles sobre la calzada, en autopista o autovía hacia carretera convencional o carretera multicarril, destinos de la segunda salida y dirección propia"
+S-375,information,exit-board-overhead-two-exits-b,"Exit board above the road (first of two exits, variant b)","Señalización de la primera salida inmediata de dos muy próximas, con carteles sobre la calzada, en autopista o autovía hacia autopista o autovía, destinos de la segunda salida y dirección propia"
+S-376,information,exit-sign-services,Exit sign to services,Señalización de salida inmediata a servicios en carreteras convencionales con elevada intensidad de tráfico (IMD ≥ 10.000) y en todas las carreteras multicarril
+S-377,information,exit-sign-services-b,Exit sign to services (variant b),Señalización de salida inmediata a servicios en el resto de carreteras convencionales
+S-378,information,exit-sign-services-motorway,Exit sign to services (motorway),Señalización de salida inmediata a servicios en autopista o autovía
+S-379,information,exit-sign-service-area,Exit sign to a service area,Señalización de salida inmediata hacia un área de servicios
+S-380,information,exit-sign-service-area-b,Exit sign to a service area (variant b),Señal de destino de salida inmediata hacia un área de servicios
+S-400,information,european-road-number,European road number,Itinerario de la red internacional «E»
+S-410,information,motorway-number,Motorway number,Autopista o autovía
+S-410a,information,toll-motorway-number,Toll motorway number,Autopista de peaje
+S-420,information,national-road-number,National road number,Carretera de la red general del Estado
+S-430,information,regional-road-number,Road number (regional road),Carretera autonómica de primer nivel
+S-440,information,regional-road-number-second-level,"Road number (regional road, second level)",Carretera autonómica de segundo nivel
+S-450,information,regional-road-number-third-level,"Road number (regional road, third level)",Carretera autonómica de tercer nivel
+S-500,information,built-up-area,Built-up area,Entrada a población
+S-510,information,end-of-built-up-area,End of built-up area,Salida de población
+S-520,information,other-name,"Name of a river, mountains or other place",Localización de puntos geográficos atravesados por la vía
+S-530,information,tunnel-with-name-and-length,"Tunnel (long, with name and length)",Localización de un túnel en carretera convencional o carretera multicarril con información sobre sus instalaciones de seguridad
+S-531,information,tunnel-with-name-and-length-motorway,"Tunnel (name and length, motorway)",Localización de un túnel en autopista o autovía con información sobre sus instalaciones de seguridad
+S-532,information,tunnel-with-name-and-length-b,"Tunnel (name and length, variant b)",Localización de túnel en carretera convencional o carretera multicarril con información sobre las obligaciones específicas de circulación dentro del mismo
+S-533,information,tunnel-with-name-and-length-motorway-b,"Tunnel (name and length, motorway, variant b)",Localización de túnel en autopista o autovía con información sobre las obligaciones específicas de circulación dentro del mismo
+S-540,information,province-border,Border of a province,Entrada a provincia
+S-550,information,region-border,Border of an autonomous community,Entrada a comunidad autónoma
+S-551,information,river-basin-border,Border of a river basin district,Situación de límite de demarcación hidrográfica
+S-560,information,region-border-b,Border of an autonomous community (variant b),Entrada a comunidad autónoma
+S-561,information,institutional-sign,Institutional sign,Cartel institucional en carretera convencional o carretera multicarril
+S-562,information,institutional-sign-motorway,Institutional sign (motorway),Cartel institucional en autopista o autovía
+S-570,information,kilometre-marker-motorway,Kilometre marker (with motorway number),Hito kilométrico en autopista y autovía
+S-570a,information,kilometre-marker-toll-motorway,Kilometre marker (toll motorway),Hito kilométrico en autopista de peaje
+S-571,information,kilometre-marker-motorway-european-route,Kilometre marker (motorway on a European route),"Hito kilométrico en autopista y autovía que, además, forma parte de un itinerario europeo"
+S-572,information,kilometre-marker,Kilometre marker,Hito kilométrico en carretera convencional
+S-573,information,kilometre-marker-european-route,Kilometre marker (road on a European route),Hito kilométrico en Itinerario Europeo
+S-574,information,ten-kilometre-marker,Ten-kilometre marker,Hito miriamétrico en carretera convencional o carretera multicarril
+S-574a,information,ten-kilometre-marker-motorway,Ten-kilometre marker (motorway),Hito miriamétrico en autopista o autovía
+S-574b,information,ten-kilometre-marker-toll-motorway,Ten-kilometre marker (toll motorway),Hito miriamétrico en autopista de peaje
+S-574c,information,ten-kilometre-marker-european-route,Ten-kilometre marker (road on a European route),Hito miriamétrico en carretera convencional o carretera multicarril perteneciente a un itinerario internacional
+S-574d,information,ten-kilometre-marker-motorway-european-route,Ten-kilometre marker (motorway on a European route),Hito miriamétrico en autopista o autovía perteneciente a un itinerario internacional
+S-574e,information,ten-kilometre-marker-toll-motorway-european-route,Ten-kilometre marker (toll motorway on a European route),Hito miriamétrico en autopista de peaje perteneciente a un itinerario internacional
+S-575,information,ten-kilometre-marker-b,Ten-kilometre marker (variant b),Hito miriamétrico
+S-600,information,distance-sign,Distance sign,Confirmación de poblaciones en un itinerario por carretera convencional
+S-602,information,distance-sign-motorway,Route confirmation and distance sign on the motorway,Confirmación de poblaciones en un itinerario por autovía o autopista
+S-603,information,distance-sign-with-exit,Distance sign with the next exit,Confirmación complementaria con preseñalización de salida
+S-700,information,direction-sign-local,Direction sign (destination in town),Lugares de la red viaria urbana
+S-710,information,direction-sign-local-travellers,"Direction sign (places of interest for travellers, in town)",Lugares de interés para viajeros
+S-720,information,direction-sign-local-sport,"Direction sign (sports or leisure places, in town)",Lugares de interés deportivo o recreativo
+S-730,information,direction-sign-local-nature,"Direction sign (geographical or natural places, in town)",Lugares de carácter geográfico o ecológico
+S-740,information,direction-sign-local-culture,"Direction sign (monuments or cultural places, in town)",Lugares de interés monumental o cultural
+S-750,information,direction-sign-local-industrial,"Direction sign (industrial areas, in town)",Zonas de uso industrial
+S-760,information,direction-sign-local-motorway,"Direction sign (motorways, in town)",Autopistas y autovías
+S-770,information,direction-sign-local-other,"Direction sign (other places, in town)",Otros lugares y vías
+S-800,additional-panel,distance,Distance,Distancia al comienzo del peligro o prescripción
+S-810,additional-panel,section-length,Length of section,Longitud del tramo peligroso o sujeto a prescripción
+S-820,additional-panel,direction-arrow-right,Direction (pointing right),"Extensión de la prohibición, a un lado"
+S-821,additional-panel,direction-arrow-left,Direction (pointing left),"Extensión de la prohibición, a un lado"
+S-830,additional-panel,both-directions-horizontal,Both directions (horizontal arrows),"Extensión de la prohibición, a ambos lados"
+S-840,additional-panel,stop-ahead-panel,Stop ahead,Preseñalización STOP
+S-850,additional-panel,priority-road-course,Course of the priority road,Itinerario con prioridad
+S-851,additional-panel,priority-road-course-b,Course of the priority road (variant b),Itinerario con prioridad
+S-852,additional-panel,priority-road-course-c,Course of the priority road (variant c),Itinerario con prioridad
+S-853,additional-panel,priority-road-course-d,Course of the priority road (variant d),Itinerario con prioridad
+S-860a,additional-panel,text-panel,Text panel,Genérico
+S-860b,additional-panel,except-text-panel,Except (text panel),Genérico
+S-870a,additional-panel,applies-to-lane-right,Applies to the lane (right),Aplicación de la señalización
+S-870b,additional-panel,applies-to-lane-left,Applies to the lane (left),Aplicación de la señalización
+S-880a,additional-panel,vehicle-type-goods-vehicles,Type of vehicle (goods vehicles),Aplicación de la señalización a camiones
+S-880b,additional-panel,vehicle-type-with-trailers,Type of vehicle (with trailers),Aplicación de la señalización a vehículos con remolque exceptuando los de un solo eje
+S-880c,additional-panel,vehicle-type-buses,Type of vehicle (buses),Aplicación de la señalización a autobuses
+S-880d,additional-panel,vehicle-type-bicycles,Type of vehicle (bicycles),Aplicación de la señalización a ciclos
+S-880e,additional-panel,vehicle-type-personal-transporters,Type of vehicle (personal light electric vehicles),Aplicación de la señalización a vehículos de movilidad personal
+S-880f,additional-panel,vehicle-type-bicycles-and-personal-transporters,Type of vehicle (bicycles and personal transporters),Aplicación de la señalización a ciclos y vehículos de movilidad personal
+S-890a,additional-panel,snow-or-ice-panel,In snow or ice,Aplicación de la señalización a circunstancias de nieve
+S-890b,additional-panel,rain,Rain,Aplicación de la señalización a circunstancias de lluvia
+S-890c,additional-panel,fog-panel,Fog,Aplicación de la señalización a circunstancias de niebla
+S-891,information,overtaking-cyclists-distance,Minimum lateral distance when overtaking cyclists,Distancia lateral en adelantamiento a ciclo o ciclomotor
+S-892,information,video-surveillance,Video surveillance,Vigilancia por medios automáticos
+S-900,information,fire-risk,Fire risk,Peligro de incendio
+S-910,information,fire-extinguisher,Fire extinguisher,Extintor
+S-920,information,entry-to-country,Entry to the country,Entrada a España
+S-930,information,country-confirmation,Country confirmation,Confirmación del país
+S-940,information,national-speed-limits,National speed limits (at the border),Limitaciones de velocidad en España
+S-950,information,services-traffic-radio,Services (traffic information radio),Radiofrecuencia de emisoras específicas de información sobre carreteras
+S-960,information,services-emergency-telephone,Services (emergency telephone),Teléfono de emergencia
+S-970,information,emergency-lay-by-with-phone-and-extinguisher,Emergency lay-by with emergency telephone and fire extinguisher,Apartadero
+S-980,information,emergency-exit,Emergency exit,Salida de emergencia
+S-990,information,direction-to-emergency-exit,Direction to emergency exit,Cartel flecha indicativa señal de emergencia en túneles
+S-991a,information,speed-camera,Speed camera,Control de velocidad en carretera convencional o carretera multicarril
+S-991b,information,speed-camera-motorway,Speed camera (motorway),Control de velocidad en autopista o autovía
+S-991c,information,red-light-camera,Red light camera,Control de semáforo en rojo
+S-991d,information,stop-sign-camera,Stop sign camera,Control de STOP
+S-991e,information,distance-camera,Camera checking the distance between vehicles,Control de separación mínima en carretera convencional o carretera multicarril
+S-991f,information,distance-camera-motorway,Camera checking the distance between vehicles (motorway),Control de separación mínima en autopista o autovía
+S-991g,information,aerial-speed-check,Speed check from the air,Control de velocidad mediante medios aéreos
+S-992a,information,keep-distance,Keep your distance,Distancia mínima entre vehículos en carretera convencional o carretera multicarril
+S-992b,information,keep-distance-tunnel,Keep your distance (in the tunnel),Distancia mínima entre vehículos dentro de un túnel en carretera convencional o carretera multicarril
+S-992c,information,keep-distance-motorway,Keep your distance (motorway),Distancia mínima entre vehículos en autopista o autovía
+S-992d,information,keep-distance-tunnel-motorway,"Keep your distance (in the tunnel, motorway)",Distancia mínima entre vehículos dentro de un túnel en autopista o autovía
+S-992e,information,keep-distance-beacons,Keep your distance (light beacons),Distancia mínima entre vehículos indicada mediante balizas luminosas
+S-993,information,rear-end-collision-risk,Risk of rear-end collisions,Advertencia de riesgo de alcances en tramo de autopista o autovía en pendiente ascendente
+TB-1,traffic-device,direction-board-wide,Direction board (wide),Panel direccional ancho
+TB-2,traffic-device,direction-board-narrow,Direction board (narrow),Panel direccional estrecho
+TB-3,traffic-device,direction-board-double-wide,Double direction board (wide),Panel doble direccional ancho
+TB-4,traffic-device,direction-board-double-narrow,Double direction board (narrow),Panel doble direccional estrecho
+TB-5,traffic-device,closed-area-board,Board for an area closed to traffic,Panel de zona excluida al tráfico
+TB-6,traffic-device,traffic-cone,Traffic cone,Cono de tráfico
+TB-7,traffic-device,picket,Picket,Piquete
+TB-8,traffic-device,guide-plate-hatched-right,"Guide plate (hatched, sloping right)",Baliza de borde derecho
+TB-9,traffic-device,guide-plate-hatched-left,"Guide plate (hatched, sloping left)",Baliza de borde izquierdo
+TB-10,traffic-device,road-studs,Road studs,Captafaro
+TB-11,traffic-device,warning-light-reflective-beacon,Warning light and reflective beacon,Baliza luminosa y reflectante
+TB-12,traffic-device,temporary-road-marking,Temporary road marking,Marca vial provisional
+TB-13,traffic-device,garland,Garland (string of lights or flags),Guirnalda
+TB-14,traffic-device,mobile-frame,Mobile frame for signs,Bastidor móvil
+TP-1,warning,crossroads-with-minor-road-temporary,Crossroads with a road without priority (temporary),Intersección con prioridad
+TP-1a,warning,side-road-right-minor-temporary,Side road on the right (without priority) (temporary),Con prioridad sobre vía a la derecha
+TP-1b,warning,side-road-left-minor-temporary,Side road on the left (without priority) (temporary),Con prioridad sobre vía a la izquierda
+TP-1c,warning,merging-traffic-from-right-temporary,Traffic merging from the right (temporary),Con prioridad sobre incorporación por la derecha
+TP-1d,warning,merging-traffic-from-left-temporary,Traffic merging from the left (temporary),Con prioridad sobre incorporación por la izquierda
+TP-2,warning,intersection-temporary,Intersection (temporary),Intersección con prioridad de la derecha
+TP-3,warning,traffic-signals-temporary,Traffic signals (temporary),Semáforos
+TP-4,warning,roundabout-ahead-temporary,Roundabout ahead (temporary),Intersección con circulación giratoria
+TP-13a,warning,bend-right-temporary,Bend (right) (temporary),Curva peligrosa hacia la derecha
+TP-13b,warning,bend-left-temporary,Bend (left) (temporary),Curva peligrosa hacia la izquierda
+TP-14a,warning,double-bend-right-temporary,Double bend (first to the right) (temporary),Curvas peligrosas hacia la derecha
+TP-14b,warning,double-bend-left-temporary,Double bend (first to the left) (temporary),Curvas peligrosas hacia la izquierda
+TP-15,warning,uneven-road-temporary,Uneven road (temporary),Perfil irregular
+TP-15a,warning,hump-temporary,Hump (temporary),Resalto
+TP-15b,warning,dip-temporary,Dip (temporary),Badén
+TP-17,warning,road-narrows-temporary,Road narrows (temporary),Estrechamiento de calzada
+TP-17a,warning,road-narrows-right-temporary,Road narrows from the right (temporary),Estrechamiento de calzada por la derecha
+TP-17b,warning,road-narrows-left-temporary,Road narrows from the left (temporary),Estrechamiento de calzada por la izquierda
+TP-18,warning,roadworks-temporary,Roadworks (temporary),Obras
+TP-19,warning,slippery-road-temporary,Slippery road (temporary),Pavimento deslizante
+TP-25,warning,two-way-traffic-temporary,Two-way traffic (temporary),Circulación en los dos sentidos
+TP-26,warning,fallen-rocks-temporary,Fallen rocks (temporary),Desprendimiento
+TP-28,warning,loose-gravel-temporary,Loose gravel (temporary),Proyección de gravilla
+TP-30,warning,dangerous-verge-temporary,Dangerous verge (temporary),Escalón lateral
+TP-31,warning,queues-temporary,Queues likely (temporary),Congestión
+TP-50,warning,danger-temporary,Other danger (temporary),Otros peligros
+TR-1,regulatory,give-way-temporary,Give way (temporary),Ceda el paso
+TR-5,regulatory,give-way-to-oncoming-traffic-temporary,Give way to oncoming traffic (temporary),Prioridad al sentido contrario
+TR-6,information,priority-over-oncoming-traffic-temporary,Priority over oncoming traffic (temporary),Prioridad respecto al sentido contrario
+TR-100,regulatory,no-vehicles-temporary,No vehicles (temporary),Circulación prohibida
+TR-101,regulatory,no-entry-temporary,No entry (temporary),Prohibido el paso
+TR-106,regulatory,no-goods-vehicles-temporary,No entry for goods vehicles (temporary),Entrada prohibida a vehículos de transporte de mercancías
+TR-201,regulatory,maximum-weight-temporary,Maximum weight (temporary),Limitación de peso
+TR-204,regulatory,maximum-width-temporary,Maximum width (temporary),Limitación de ancho
+TR-205,regulatory,maximum-height-temporary,Maximum height (temporary),Limitación de altura
+TR-301-20,regulatory,speed-limit-20-temporary,Speed limit (20 km/h) (temporary),Prohibición velocidad máxima a 20 km/h
+TR-301-30,regulatory,speed-limit-30-temporary,Speed limit (30 km/h) (temporary),Prohibición velocidad máxima a 30 km/h
+TR-301-40,regulatory,speed-limit-40-temporary,Speed limit (40 km/h) (temporary),Prohibición velocidad máxima a 40 km/h
+TR-301-50,regulatory,speed-limit-50-temporary,Speed limit (50 km/h) (temporary),Prohibición velocidad máxima a 50 km/h
+TR-301-60,regulatory,speed-limit-60-temporary,Speed limit (60 km/h) (temporary),Prohibición velocidad máxima a 60 km/h
+TR-301-70,regulatory,speed-limit-70-temporary,Speed limit (70 km/h) (temporary),Prohibición velocidad máxima a 70 km/h
+TR-301-80,regulatory,speed-limit-80-temporary,Speed limit (80 km/h) (temporary),Prohibición velocidad máxima a 80 km/h
+TR-301-90,regulatory,speed-limit-90-temporary,Speed limit (90 km/h) (temporary),Prohibición velocidad máxima a 90 km/h
+TR-301-100,regulatory,speed-limit-100-temporary,Speed limit (100 km/h) (temporary),Prohibición velocidad máxima a 100 km/h
+TR-302,regulatory,no-right-turn-temporary,No right turn (temporary),Giro a la derecha prohibido
+TR-303,regulatory,no-left-turn-temporary,No left turn (temporary),Giro a la izquierda prohibido
+TR-305,regulatory,no-overtaking-temporary,No overtaking (temporary),Adelantamiento prohibido
+TR-306,regulatory,no-overtaking-by-goods-vehicles-temporary,No overtaking by goods vehicles (temporary),Adelantamiento prohibido a camiones
+TR-308,regulatory,no-parking-temporary,No parking (temporary),Estacionamiento prohibido
+TR-400a,regulatory,turn-right-temporary,Turn right (temporary),Sentido obligatorio
+TR-400b,regulatory,turn-left-temporary,Turn left (temporary),Sentido obligatorio
+TR-401a,regulatory,pass-on-right-temporary,Pass on the right (temporary),Sentido obligatorio
+TR-401b,regulatory,pass-on-left-temporary,Pass on the left (temporary),Sentido obligatorio
+TR-500,regulatory,end-of-all-restrictions-temporary,End of all restrictions (temporary),Fin de prohibiciones
+TR-501,regulatory,end-of-speed-limit-temporary,End of speed limit (temporary),Fin de limitación de velocidad
+TR-502,regulatory,end-of-no-overtaking-temporary,End of no overtaking (temporary),Fin de prohibición de adelantamiento
+TR-503,regulatory,end-of-no-overtaking-by-goods-vehicles-temporary,End of no overtaking by goods vehicles (temporary),Fin de prohibición de adelantamiento para camiones
+TS-52,information,lane-reduction-right-to-2-lanes-temporary,"Lane reduction (right, 2 lanes continuing, temporary)",Convergencia de un carril por la derecha (de 3 a 2)
+TS-53,information,lane-reduction-left-to-2-lanes-temporary,"Lane reduction (left, 2 lanes continuing, temporary)",Convergencia de un carril por la izquierda (de 3 a 2)
+TS-54,information,lane-reduction-right-to-1-lane-temporary,"Lane reduction (right, 1 lane continuing, temporary)",Convergencia de un carril por la derecha (de 2 a 1)
+TS-55,information,lane-reduction-left-to-1-lane-temporary,"Lane reduction (left, 1 lane continuing, temporary)",Convergencia de un carril por la izquierda (de 2 a 1)
+TS-60,information,carriageway-change-contraflow-one-lane-temporary,"Change of carriageway (one lane onto the opposite carriageway, temporary)",Desvío de un carril por la calzada opuesta
+TS-61,information,carriageway-change-contraflow-one-lane-one-kept-temporary,"Change of carriageway (one lane onto the opposite carriageway, one kept, temporary)","Desvío de un carril por la calzada opuesta, manteniendo otro por la de obras"
+TS-62,information,carriageway-change-contraflow-two-lanes-temporary,"Change of carriageway (two lanes onto the opposite carriageway, temporary)",Desvío de dos carriles por la calzada opuesta
+TS-210,information,detour-map-temporary,Detour map (temporary),Croquis de desvío en obra
+TS-220,information,advance-direction-sign-temporary,Advance direction sign (temporary),Preseñalización de direcciones
+TS-800,additional-panel,distance-temporary,Distance (temporary),Distancia al comienzo del peligro o prescripción
+TS-810,additional-panel,section-length-temporary,Length of section (temporary),Longitud de tramo peligroso o sujeto a prescripción

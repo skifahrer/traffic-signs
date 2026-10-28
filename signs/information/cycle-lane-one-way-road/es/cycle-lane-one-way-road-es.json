@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-lane-one-way-road",
+  "category": "information",
+  "country": "es",
+  "code": "S-65a",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal s65a.svg"
+  }
+}

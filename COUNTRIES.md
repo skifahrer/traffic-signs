@@ -13,7 +13,7 @@ test fails if a new country is on no continent.
 
 ## Already added
 
-Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`), Croatia (`hr`), Czech Republic (`cz`), Denmark (`dk`), Estonia (`ee`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Latvia (`lv`), Lithuania (`lt`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Slovenia (`si`), Sweden (`se`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
+Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`), Croatia (`hr`), Czech Republic (`cz`), Denmark (`dk`), Estonia (`ee`), Finland (`fi`), France (`fr`), Germany (`de`), Greece (`gr`), Hungary (`hu`), Ireland (`ie`), Latvia (`lv`), Lithuania (`lt`), Netherlands (`nl`), Poland (`pl`), Portugal (`pt`), Romania (`ro`), Slovakia (`sk`), Slovenia (`si`), Spain (`es`), Sweden (`se`), Ukraine (`ua`), Great Britain (`gb`), United States (`us`).
 
 ## Not planned
 
@@ -38,7 +38,7 @@ Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`)
 7. Switzerland and Liechtenstein (`ch`), Georgia (`ge`), Serbia (`rs`)
 8. Montenegro (`me`), Bosnia and Herzegovina (`ba`), Azerbaijan (`az`)
 9. North Macedonia (`mk`), ~~Slovenia (`si`)~~ added, Turkey (`tr`)
-10. Armenia (`am`), Spain (`es`), ~~Bulgaria (`bg`)~~ added
+10. Armenia (`am`), ~~Spain (`es`)~~ added, ~~Bulgaria (`bg`)~~ added
 11. Italy (`it`), ~~Estonia (`ee`)~~ added, Cyprus (`cy`)
 12. Albania (`al`), Malta (`mt`), Mexico (`mx`)
 13. Puerto Rico (`pr`), Ecuador (`ec`), Colombia (`co`)
@@ -91,7 +91,7 @@ Australia (`au`), Austria (`at`), Belgium (`be`), Bulgaria (`bg`), Canada (`ca`)
 | 26 | [Slovenia](https://en.wikipedia.org/wiki/Road_signs_in_Slovenia) | `si` | 216 | ✅ added | codes in image names; Commons has the signs the page lacks |
 | 27 | [Turkey](https://en.wikipedia.org/wiki/Road_signs_in_Turkey) | `tr` | 212 | ✅ ready | codes in image names |
 | 28 | [Armenia](https://en.wikipedia.org/wiki/Road_signs_in_Armenia) | `am` | 168 | ✅ ready | codes in image names |
-| 29 | [Spain](https://en.wikipedia.org/wiki/Road_signs_in_Spain) | `es` | 829 | ⚠️ needs work | codes for part of the signs; check the local Wikipedia |
+| 29 | [Spain](https://en.wikipedia.org/wiki/Road_signs_in_Spain) | `es` | 829 | ✅ added | codes for part of the signs; the four Spanish Wikipedia lists have them all |
 | 30 | [Bulgaria](https://en.wikipedia.org/wiki/Road_signs_in_Bulgaria) | `bg` | 330 | ✅ added | few codes in the captions; the Bulgarian Wikipedia has them all |
 | 31 | [Italy](https://en.wikipedia.org/wiki/Road_signs_in_Italy) | `it` | 330 | ⚠️ needs work | few codes: names from captions, codes via corrections or the local Wikipedia |
 | 32 | [Estonia](https://en.wikipedia.org/wiki/Road_signs_in_Estonia) | `ee` | 263 | ✅ added | codes for part of the signs; the Estonian Wikipedia has them all |

@@ -1,0 +1,11 @@
+{
+  "sign": "end-of-no-overtaking-temporary",
+  "category": "regulatory",
+  "country": "es",
+  "code": "TR-502",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal TR-502.svg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "mandatory-direction-straight",
+  "category": "regulatory",
+  "country": "es",
+  "code": "R-400c",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal r400c.svg"
+  }
+}

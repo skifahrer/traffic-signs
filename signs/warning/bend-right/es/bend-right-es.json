@@ -1,0 +1,11 @@
+{
+  "sign": "bend-right",
+  "category": "warning",
+  "country": "es",
+  "code": "P-13a",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",
+    "file": "Spain traffic signal p13a.svg"
+  }
+}

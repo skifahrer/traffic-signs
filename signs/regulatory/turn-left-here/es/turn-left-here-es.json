@@ -1,0 +1,11 @@
+{
+  "sign": "turn-left-here",
+  "category": "regulatory",
+  "country": "es",
+  "code": "R-400e",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal r400e.svg"
+  }
+}
