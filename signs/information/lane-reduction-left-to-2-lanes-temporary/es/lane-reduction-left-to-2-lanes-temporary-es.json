@@ -1,0 +1,11 @@
+{
+  "sign": "lane-reduction-left-to-2-lanes-temporary",
+  "category": "information",
+  "country": "es",
+  "code": "TS-53",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",
+    "file": "Señal TS-53.svg"
+  }
+}

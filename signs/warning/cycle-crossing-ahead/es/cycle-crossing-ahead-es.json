@@ -1,0 +1,11 @@
+{
+  "sign": "cycle-crossing-ahead",
+  "category": "warning",
+  "country": "es",
+  "code": "P-22a",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal p22-a, 2023 set.svg"
+  }
+}

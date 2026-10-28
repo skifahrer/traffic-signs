@@ -1,0 +1,11 @@
+{
+  "sign": "weaving-section",
+  "category": "warning",
+  "country": "es",
+  "code": "P-35",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal P-35 (2022).svg"
+  }
+}

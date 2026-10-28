@@ -1,0 +1,11 @@
+{
+  "sign": "advance-direction-board-overhead-motorway-two-exits-b",
+  "category": "information",
+  "country": "es",
+  "code": "S-242a",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",
+    "file": "S-242a (2025).png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sign": "priority-road-course-d",
+  "category": "additional-panel",
+  "country": "es",
+  "code": "S-853",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",
+    "file": "Spain traffic signal s853.svg"
+  }
+}

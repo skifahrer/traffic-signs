@@ -1,0 +1,11 @@
+{
+  "sign": "mountain-pass-open-or-closed",
+  "category": "information",
+  "country": "es",
+  "code": "S-21",
+  "source": {
+    "pipeline": "es-wikipedia",
+    "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",
+    "file": "Spain traffic signal s21 (2022).svg"
+  }
+}
