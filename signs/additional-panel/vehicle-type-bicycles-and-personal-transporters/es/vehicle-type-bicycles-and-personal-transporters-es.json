@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-880f",
+  "image": {
+    "file": "vehicle-type-bicycles-and-personal-transporters-es.svg",
+    "sha1": "48e257e70e5424c447e69586b44df1e22f03d3ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s880f.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

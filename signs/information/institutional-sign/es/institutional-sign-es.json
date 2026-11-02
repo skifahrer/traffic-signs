@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-561",
+  "image": {
+    "file": "institutional-sign-es.png",
+    "sha1": "ccbeeb4dbffe6b12dbb2fdcb61c5e17f888b3e1a",
+    "source": "https://commons.wikimedia.org/wiki/File:S-561.png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

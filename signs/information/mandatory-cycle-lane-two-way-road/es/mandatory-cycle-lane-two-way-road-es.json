@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-64b",
+  "image": {
+    "file": "mandatory-cycle-lane-two-way-road-es.svg",
+    "sha1": "d9301dd37c78c3ce9c0666c817530a9200faa935",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s64a.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

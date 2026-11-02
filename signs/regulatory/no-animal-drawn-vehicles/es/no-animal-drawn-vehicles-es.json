@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-113",
+  "image": {
+    "file": "no-animal-drawn-vehicles-es.svg",
+    "sha1": "065a4b8858a6ee05eb94dec54b9ed5e7790073c8",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r113.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

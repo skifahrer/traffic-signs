@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-350a",
+  "image": {
+    "file": "exit-board-overhead-b-es.svg",
+    "sha1": "3bec7792b85bab8b2b89efe18d28b3c555a8c2fd",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s360.svg",
+    "author": "Benedicto16",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

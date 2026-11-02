@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-860a",
+  "image": {
+    "file": "text-panel-es.svg",
+    "sha1": "89da0cdbc6351d4b9c07f57e6b07be541d65f4bd",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s860a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "S-124",
+  "image": {
+    "file": "parking-for-rail-users-es.svg",
+    "sha1": "0b0bd051719e529c92c23a34de353aaa6ba81976",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s124.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

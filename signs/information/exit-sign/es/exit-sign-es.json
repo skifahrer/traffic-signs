@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-348",
+  "image": {
+    "file": "exit-sign-es.png",
+    "sha1": "5df59a6e99d8cbf82746575524efe1fb5a7bc138",
+    "source": "https://commons.wikimedia.org/wiki/File:S-348_(2025).png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

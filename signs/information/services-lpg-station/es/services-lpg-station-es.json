@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-105c",
+  "image": {
+    "file": "services-lpg-station-es.svg",
+    "sha1": "126edd4469c223ca2e74818bb4eb921a559267f6",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s105c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

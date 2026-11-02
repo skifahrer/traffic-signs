@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-62a",
+  "image": {
+    "file": "lanes-diverging-4-lanes-left-es.svg",
+    "sha1": "df2cda1727ecfa2d99668760707128b903a30e46",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s62a.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

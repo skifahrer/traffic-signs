@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-14e",
+  "image": {
+    "file": "pedestrian-footbridge-with-cycle-ramp-es.svg",
+    "sha1": "e03dd34076627ad1c83b8901f4b7da3a724cadc8",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s14e.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

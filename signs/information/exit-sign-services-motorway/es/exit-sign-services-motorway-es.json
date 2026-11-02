@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-378",
+  "image": {
+    "file": "exit-sign-services-motorway-es.png",
+    "sha1": "e7c08ffedeea4a5bbb12fcc9a292ad94a3d5b5bf",
+    "source": "https://commons.wikimedia.org/wiki/File:S-378.png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

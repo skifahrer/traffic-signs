@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-33",
+  "image": {
+    "file": "poor-visibility-es.svg",
+    "sha1": "7c6d6524cb0f38a096493080badc2e99e1cf9d4d",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p33,_2023_set.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

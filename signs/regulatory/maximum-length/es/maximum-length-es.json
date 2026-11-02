@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-203",
+  "image": {
+    "file": "maximum-length-es.svg",
+    "sha1": "0fa8d539e5f432a416b55cbcf9e2039f593d7e82",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r203.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

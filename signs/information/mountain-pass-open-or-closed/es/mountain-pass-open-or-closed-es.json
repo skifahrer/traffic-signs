@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-21",
+  "image": {
+    "file": "mountain-pass-open-or-closed-es.svg",
+    "sha1": "9ff505824d3eac8dacb944542aad7340ec64ca5f",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s21_(2022).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

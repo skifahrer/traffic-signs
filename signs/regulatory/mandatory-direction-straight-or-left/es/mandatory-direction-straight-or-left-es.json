@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-403b",
+  "image": {
+    "file": "mandatory-direction-straight-or-left-es.svg",
+    "sha1": "397816e5f02362a5f892b658b4e0c993f639465a",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r403b.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

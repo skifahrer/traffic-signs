@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "es",
   "code": "TB-12",
+  "image": {
+    "file": "temporary-road-marking-es.svg",
+    "sha1": "5722768420c09b0c6c0c91bc3967c0917abc25b7",
+    "source": "https://commons.wikimedia.org/wiki/File:Orange_F79A18.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

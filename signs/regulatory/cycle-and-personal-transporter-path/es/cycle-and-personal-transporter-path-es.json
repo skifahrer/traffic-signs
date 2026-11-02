@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-421",
+  "image": {
+    "file": "cycle-and-personal-transporter-path-es.svg",
+    "sha1": "30ac9422a995e185a9a98b4327d9889330720c78",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_R-421.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

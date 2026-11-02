@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-7",
+  "image": {
+    "file": "level-crossing-with-barriers-es.svg",
+    "sha1": "b2a8fb439fbb30fa9c4af6710a4578731767e426",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p7.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

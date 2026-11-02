@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-63b",
+  "image": {
+    "file": "lanes-fork-3-lanes-es.svg",
+    "sha1": "b20bd4dcc9ce0ad3f396c8e5241d2784b50dd35e",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s63b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

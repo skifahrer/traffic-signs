@@ -3,6 +3,14 @@
   "category": "traffic-device",
   "country": "es",
   "code": "TB-8",
+  "image": {
+    "file": "guide-plate-hatched-right-es.svg",
+    "sha1": "ffde5c74d0ff5a4ac2be40cfdddbcde55c258150",
+    "source": "https://commons.wikimedia.org/wiki/File:Se%C3%B1alTB-8.svg",
+    "author": "NACLE",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

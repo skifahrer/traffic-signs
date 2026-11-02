@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-418",
+  "image": {
+    "file": "electronic-toll-only-lane-es.svg",
+    "sha1": "d65406c8289570dac4665dd35bfad4c345a32db0",
+    "source": "https://commons.wikimedia.org/wiki/File:R-418_telepeaje.svg",
+    "author": "NACLE2",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

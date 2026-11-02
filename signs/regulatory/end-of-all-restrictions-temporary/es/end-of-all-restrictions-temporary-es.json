@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "TR-500",
+  "image": {
+    "file": "end-of-all-restrictions-temporary-es.svg",
+    "sha1": "fe3b3c8941c90e69ad8b0b48d4380b56b3a37359",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_sign_tr500.svg",
+    "author": "Mabema1",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

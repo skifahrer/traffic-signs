@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-506",
+  "image": {
+    "file": "end-of-minimum-speed-es.svg",
+    "sha1": "8eb4c241a1dda116835efbb37feb7cf71ab50423",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_R-506_(40).svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-107",
+  "image": {
+    "file": "no-goods-vehicles-over-weight-es.svg",
+    "sha1": "93352ebe9d843d0eac98946433bdeac917aa7677",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_R-107_(2023).svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

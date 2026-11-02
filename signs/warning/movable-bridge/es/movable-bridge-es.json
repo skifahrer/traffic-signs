@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-5",
+  "image": {
+    "file": "movable-bridge-es.svg",
+    "sha1": "077d78741983327a01539dc4a7da2602c6060986",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p5.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

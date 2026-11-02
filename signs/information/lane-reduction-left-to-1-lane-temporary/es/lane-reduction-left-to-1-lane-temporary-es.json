@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "TS-55",
+  "image": {
+    "file": "lane-reduction-left-to-1-lane-temporary-es.svg",
+    "sha1": "697407bd5668f868d674e4e2c5464562105cc67b",
+    "source": "https://commons.wikimedia.org/wiki/File:Se%C3%B1al_TS-55.svg",
+    "author": "NACLE",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

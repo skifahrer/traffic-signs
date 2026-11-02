@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-51b",
+  "image": {
+    "file": "high-occupancy-vehicle-lane-es.svg",
+    "sha1": "33ceb7975f7872a14c870a75a9830210ae2ad220",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s51b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "TR-501",
+  "image": {
+    "file": "end-of-speed-limit-temporary-es.svg",
+    "sha1": "08455224a7c8b44c8cc7ad170d3e1fcde6600b4e",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_TR-501.svg",
+    "author": "Caminetero",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

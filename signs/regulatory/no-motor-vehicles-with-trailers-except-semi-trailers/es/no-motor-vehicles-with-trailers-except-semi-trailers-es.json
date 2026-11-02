@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-112",
+  "image": {
+    "file": "no-motor-vehicles-with-trailers-except-semi-trailers-es.svg",
+    "sha1": "7ee86bbf1f6e5f4fe0a85ed8a22d0b71201cb3e2",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r112.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

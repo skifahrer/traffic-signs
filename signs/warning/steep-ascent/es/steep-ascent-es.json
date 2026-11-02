@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-16b",
+  "image": {
+    "file": "steep-ascent-es.svg",
+    "sha1": "ff6fc6b50df4fe4a706a6a07129c7f0f76bfa531",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-16b_(2022).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

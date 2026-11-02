@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-2c",
+  "image": {
+    "file": "end-of-two-plus-one-road-es.svg",
+    "sha1": "d71ab9ff86e2c4e3ab48588531492148383a600d",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s2c_2023.svg",
+    "author": "Autopistero20502020",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

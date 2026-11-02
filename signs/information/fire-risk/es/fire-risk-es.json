@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-900",
+  "image": {
+    "file": "fire-risk-es.svg",
+    "sha1": "6a2a7091aa17a24744b19c8a736954e2de461332",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s900.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

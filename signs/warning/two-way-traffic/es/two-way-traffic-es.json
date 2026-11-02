@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-25",
+  "image": {
+    "file": "two-way-traffic-es.svg",
+    "sha1": "c19367bac1bfdc3f44b7ec2a690979050b9c66e3",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p25.svg",
+    "author": "Benedicto16",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

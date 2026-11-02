@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-235",
+  "image": {
+    "file": "advance-direction-board-overhead-motorway-es.svg",
+    "sha1": "93d090d1a9104b2e61063bd73e3ad4894b7efe9b",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s235.svg",
+    "author": "Benedicto16",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

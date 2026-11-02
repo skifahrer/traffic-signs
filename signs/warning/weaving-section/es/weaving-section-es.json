@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-35",
+  "image": {
+    "file": "weaving-section-es.svg",
+    "sha1": "481136abf2a360765897e3732cd3166b2b9ecf17",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-35_(2022).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-300",
+  "image": {
+    "file": "direction-sign-es.svg",
+    "sha1": "801f62955e57f9eb4975dd4ac4adb1125f7303ef",
+    "source": "https://commons.wikimedia.org/wiki/File:ES_S300_distancias.svg",
+    "author": "Yopaseopor",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

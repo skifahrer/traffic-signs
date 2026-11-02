@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-53c",
+  "image": {
+    "file": "lane-gain-two-to-three-with-speed-limits-es.svg",
+    "sha1": "00ac0fd4310e02523b7e18a03a212dd240a83e24",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s53c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

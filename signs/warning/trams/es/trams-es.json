@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-6",
+  "image": {
+    "file": "trams-es.svg",
+    "sha1": "7e6c894a1b59e988e425fe48c837c50f23960dd5",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_sign_p6.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

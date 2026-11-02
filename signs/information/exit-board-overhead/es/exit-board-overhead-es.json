@@ -3,9 +3,17 @@
   "category": "information",
   "country": "es",
   "code": "S-350",
+  "image": {
+    "file": "exit-board-overhead-es.svg",
+    "sha1": "300725dfa31722c3d412e97a9e9553e6ecdc88c3",
+    "source": "https://commons.wikimedia.org/wiki/File:S-350.svg",
+    "author": "Mo18ekula",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",
-    "file": "S-350.png"
+    "file": "S-350.svg"
   }
 }

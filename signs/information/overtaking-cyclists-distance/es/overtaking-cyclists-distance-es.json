@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-891",
+  "image": {
+    "file": "overtaking-cyclists-distance-es.svg",
+    "sha1": "e6830dcd4fc1160410277b13350cbc4a0a21acd2",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s891.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

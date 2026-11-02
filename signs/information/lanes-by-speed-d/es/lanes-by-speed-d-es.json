@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-50d",
+  "image": {
+    "file": "lanes-by-speed-d-es.svg",
+    "sha1": "c304d97b15c23e0bdd5a21b255d25f6800ad286d",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s50d.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

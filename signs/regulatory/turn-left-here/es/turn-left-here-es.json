@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-400e",
+  "image": {
+    "file": "turn-left-here-es.svg",
+    "sha1": "69ac2558912758f1b436f2d2f3e9c2a7c8f47566",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r400e.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

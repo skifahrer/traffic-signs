@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "TS-810",
+  "image": {
+    "file": "section-length-temporary-es.svg",
+    "sha1": "1a0c0723ed48656d1681480e390ddb1fa8204b7a",
+    "source": "https://commons.wikimedia.org/wiki/File:Se%C3%B1al_TS-810.svg",
+    "author": "NACLE",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

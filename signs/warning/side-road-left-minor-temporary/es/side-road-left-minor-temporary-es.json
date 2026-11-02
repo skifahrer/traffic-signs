@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "TP-1b",
+  "image": {
+    "file": "side-road-left-minor-temporary-es.svg",
+    "sha1": "6e583d672bde8920426a36a9a4d5ee8d3b17edd1",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tp1b.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

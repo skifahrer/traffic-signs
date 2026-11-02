@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-550",
+  "image": {
+    "file": "region-border-es.png",
+    "sha1": "0b876916ebc3d7f561a04c1110510cbeed42b715",
+    "source": "https://commons.wikimedia.org/wiki/File:S-550.png",
+    "author": "Zawinul",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

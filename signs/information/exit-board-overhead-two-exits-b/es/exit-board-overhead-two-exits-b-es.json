@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-375",
+  "image": {
+    "file": "exit-board-overhead-two-exits-b-es.png",
+    "sha1": "2a4fd484622403209c6a1a4f5e099ce0d0d231e6",
+    "source": "https://commons.wikimedia.org/wiki/File:S-375_(2014).png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

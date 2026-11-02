@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-22a",
+  "image": {
+    "file": "cycle-crossing-ahead-es.svg",
+    "sha1": "75d9ca52eb7fec5cbebbca77f01a3e68d2801895",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p22-a,_2023_set.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-26c",
+  "image": {
+    "file": "exit-countdown-motorway-100m-es.svg",
+    "sha1": "2b49404bc0bc9873a9459d885dd0326b93a09c6c",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s26c.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

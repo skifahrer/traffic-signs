@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-242a",
+  "image": {
+    "file": "advance-direction-board-overhead-motorway-two-exits-b-es.png",
+    "sha1": "1c7cbab7f272cfd4641c2e5f9bfabf498783a225",
+    "source": "https://commons.wikimedia.org/wiki/File:S-242a_(2025).png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-71b",
+  "image": {
+    "file": "lane-merging-from-right-2-lanes-es.svg",
+    "sha1": "cc1bc1cdb4bd85942e3df5d3effd8dfb742b7632",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s71b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

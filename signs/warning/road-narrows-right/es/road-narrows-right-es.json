@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-17a",
+  "image": {
+    "file": "road-narrows-right-es.svg",
+    "sha1": "08cfb9b9074a56f7af68c3d593f4d3a4ae630142",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p17a.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

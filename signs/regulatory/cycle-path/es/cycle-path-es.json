@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-407a",
+  "image": {
+    "file": "cycle-path-es.svg",
+    "sha1": "4a1c4160106975b8dd8c090b5f186ab57297ff65",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_R-407a.svg",
+    "author": "NACLE2",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

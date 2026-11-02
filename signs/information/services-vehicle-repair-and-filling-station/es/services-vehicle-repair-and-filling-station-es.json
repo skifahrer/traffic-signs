@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-106",
+  "image": {
+    "file": "services-vehicle-repair-and-filling-station-es.svg",
+    "sha1": "a076497c74aa70f8b0d43d52ee1590b4b207355d",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s106.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

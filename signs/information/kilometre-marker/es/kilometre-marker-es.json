@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-572",
+  "image": {
+    "file": "kilometre-marker-es.png",
+    "sha1": "37e91d5bb3e29537cfa50be40a9eff5e53a38531",
+    "source": "https://commons.wikimedia.org/wiki/File:S-572a.png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

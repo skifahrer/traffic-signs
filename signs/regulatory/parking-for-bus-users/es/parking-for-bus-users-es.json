@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "S-126",
+  "image": {
+    "file": "parking-for-bus-users-es.svg",
+    "sha1": "7fae09efe792192e4b9a4c3fcc59af001dd3ab74",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s126.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

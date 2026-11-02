@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-5",
+  "image": {
+    "file": "give-way-to-oncoming-traffic-es.svg",
+    "sha1": "d23e54069a74a02c0414bddd22cd3422a7e38f57",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r5.svg",
+    "author": "Benedicto16",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

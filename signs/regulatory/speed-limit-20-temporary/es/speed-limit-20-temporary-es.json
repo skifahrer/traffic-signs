@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "TR-301-20",
+  "image": {
+    "file": "speed-limit-20-temporary-es.svg",
+    "sha1": "622ad38ae3cf6aa060ce7e2790526ed35bcd6ac0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tr301-20.svg",
+    "author": "Majafego",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

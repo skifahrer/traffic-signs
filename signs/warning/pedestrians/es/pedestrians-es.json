@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-20b",
+  "image": {
+    "file": "pedestrians-es.svg",
+    "sha1": "86e09ac5628f3e765064546d171c96670bebde9e",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-20a.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

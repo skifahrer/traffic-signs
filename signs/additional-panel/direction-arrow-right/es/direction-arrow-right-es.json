@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-820",
+  "image": {
+    "file": "direction-arrow-right-es.svg",
+    "sha1": "d0ef6eca289b2c0a4d586a2db9755c33652c1984",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s820.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-73a",
+  "image": {
+    "file": "two-lanes-merging-from-left-2-lanes-es.svg",
+    "sha1": "7d76532e7e0be445acb8c6b6f9897ceee1d5e73a",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s73a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

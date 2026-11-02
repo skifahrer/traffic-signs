@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="a">
+      <circle cx="24" cy="24" r="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <circle cx="24" cy="24" r="24" fill="#e31409"/>
+  <circle cx="24" cy="24" r="18" fill="#f4b70d"/>
+  <g style="clip-path: url(#a)">
+    <polygon points="24 33 30 43 18 43"/>
+    <polygon points="24 15 30 5 18 5"/>
+  </g>
+  <text transform="translate(8 29.5)" font-size="18px" font-family="Lato, sans-serif" font-weight="900">
+		4<tspan x="12" font-size="12px">,2</tspan><tspan x="24" font-size="8px">m</tspan>
+  </text>
+</svg>

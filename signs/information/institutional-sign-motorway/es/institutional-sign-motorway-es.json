@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-562",
+  "image": {
+    "file": "institutional-sign-motorway-es.png",
+    "sha1": "0073f99a0a043e3a457d9155418eabfe10ae4012",
+    "source": "https://commons.wikimedia.org/wiki/File:S-562.png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

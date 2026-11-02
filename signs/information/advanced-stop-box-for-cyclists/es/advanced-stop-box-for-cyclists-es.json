@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-49",
+  "image": {
+    "file": "advanced-stop-box-for-cyclists-es.svg",
+    "sha1": "8ec7dad6c0360516743ab17e108897c38fa9e692",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s49.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

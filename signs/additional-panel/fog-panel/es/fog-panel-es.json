@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-890c",
+  "image": {
+    "file": "fog-panel-es.svg",
+    "sha1": "871186ae86d952f2ccb1d79953464ca496f4e5ee",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s890c.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

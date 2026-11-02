@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-20c",
+  "image": {
+    "file": "pedestrian-and-cycle-crossing-ahead-es.svg",
+    "sha1": "1a04e8c1c19f2ee4f5cc5cd7bb27b1239743e15b",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-20c_(2025).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

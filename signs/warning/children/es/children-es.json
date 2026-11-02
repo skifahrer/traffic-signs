@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-21a",
+  "image": {
+    "file": "children-es.svg",
+    "sha1": "081c12fd57cdba5caffbd8f6bb61600d088dcd39",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p21-a,_2023_set.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

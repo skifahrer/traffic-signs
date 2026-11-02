@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-24a",
+  "image": {
+    "file": "wild-boar-es.svg",
+    "sha1": "ed3d8864305913cae487ac1673517d08133fb957",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p24a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

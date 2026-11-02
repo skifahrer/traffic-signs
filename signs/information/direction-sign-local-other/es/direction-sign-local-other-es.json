@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-770",
+  "image": {
+    "file": "direction-sign-local-other-es.svg",
+    "sha1": "2719b8035e87032081411fd4835543c9fc663932",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_S-770.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

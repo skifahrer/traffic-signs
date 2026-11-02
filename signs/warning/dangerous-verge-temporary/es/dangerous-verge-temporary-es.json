@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "TP-30",
+  "image": {
+    "file": "dangerous-verge-temporary-es.svg",
+    "sha1": "5706faba917478aee8f23d0c950f3de146fa65d5",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tp30.svg",
+    "author": "User:Benedicto16",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-32",
+  "image": {
+    "file": "obstruction-on-the-road-es.svg",
+    "sha1": "d39d07152071bc10a042fb5f3d79472217dac87b",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p32.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

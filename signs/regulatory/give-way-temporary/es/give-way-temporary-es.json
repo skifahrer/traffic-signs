@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "TR-1",
+  "image": {
+    "file": "give-way-temporary-es.svg",
+    "sha1": "4b9aec55c3124b6bbf0d6bd610b81dd1e3ef6ced",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tr1.svg",
+    "author": "User:Majafego",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-230a",
+  "image": {
+    "file": "advance-direction-board-overhead-b-es.svg",
+    "sha1": "1b7b3d0394065e7d6f17cd7c1b15ab85e4b7514b",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s230a.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

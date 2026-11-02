@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-201",
+  "image": {
+    "file": "advance-direction-sign-split-roundabout-es.svg",
+    "sha1": "9ab8f3c3fcae9cbd586a2a4975000136cd87aa69",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_S-201.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

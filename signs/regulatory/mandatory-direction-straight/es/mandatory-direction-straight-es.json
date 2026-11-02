@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-400c",
+  "image": {
+    "file": "mandatory-direction-straight-es.svg",
+    "sha1": "f2dea24427b39d7240f555d3ed5b27fab6d54c5a",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r400c.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

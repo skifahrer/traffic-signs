@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-115",
+  "image": {
+    "file": "services-hiking-trail-es.svg",
+    "sha1": "345a47b33b770e799a6dcf216d093c573bbbf28a",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s115.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

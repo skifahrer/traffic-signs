@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "S-125",
+  "image": {
+    "file": "parking-for-metro-users-es.svg",
+    "sha1": "55f093574df10dbac75e8bca1f2035e4c011881f",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s125.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-102",
+  "image": {
+    "file": "services-vehicle-inspection-es.svg",
+    "sha1": "11012309bbbb564c5e7b997dfc8c57d36e85c83b",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s102.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

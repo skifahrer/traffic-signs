@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-52d",
+  "image": {
+    "file": "end-of-lane-e-es.svg",
+    "sha1": "76afb3618f1dcbab54d15e3f39362e2ebd02e7c9",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_S-52d.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

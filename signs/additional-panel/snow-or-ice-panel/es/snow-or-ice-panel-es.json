@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-890a",
+  "image": {
+    "file": "snow-or-ice-panel-es.svg",
+    "sha1": "14d9a3bcc5b6cfdefedfa04d9700281f0c7c8d3a",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s890a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-307",
+  "image": {
+    "file": "no-stopping-es.svg",
+    "sha1": "c2f5afb761b29cf5f8c11200f146db1744fef97e",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r307.svg",
+    "author": "The original uploader was Benedicto16 at Wikimedia Commons.",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

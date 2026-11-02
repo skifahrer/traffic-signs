@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-66",
+  "image": {
+    "file": "contraflow-bicycle-lane-es.svg",
+    "sha1": "76bf3e9f5bef8bf93de740a65ea44a7c95e823d6",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s66.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

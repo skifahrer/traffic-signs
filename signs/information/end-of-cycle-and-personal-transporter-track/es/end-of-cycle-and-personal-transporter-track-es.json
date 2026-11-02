@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-40",
+  "image": {
+    "file": "end-of-cycle-and-personal-transporter-track-es.svg",
+    "sha1": "bbef0c83e0707e459c9d6e117f90262907004906",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s40.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

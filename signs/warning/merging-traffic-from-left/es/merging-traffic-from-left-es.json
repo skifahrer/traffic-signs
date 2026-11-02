@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-1d",
+  "image": {
+    "file": "merging-traffic-from-left-es.svg",
+    "sha1": "a438aba12399774cdc0e45cd0eabb3aa8b5632df",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p1d.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

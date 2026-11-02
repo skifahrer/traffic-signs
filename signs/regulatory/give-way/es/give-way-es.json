@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-1",
+  "image": {
+    "file": "give-way-es.svg",
+    "sha1": "f79c6c61352180de8f7ac3a9c9211bea2036990a",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r1.svg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

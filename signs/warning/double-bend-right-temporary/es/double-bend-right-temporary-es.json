@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "TP-14a",
+  "image": {
+    "file": "double-bend-right-temporary-es.svg",
+    "sha1": "6571c804a2e1611c5265698dae8e9a68633e6346",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tp14a.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

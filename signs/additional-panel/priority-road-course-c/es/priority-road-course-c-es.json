@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-852",
+  "image": {
+    "file": "priority-road-course-c-es.svg",
+    "sha1": "35cd4168d244e16a9ec0d16226162e2ae2c81e8c",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s852.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

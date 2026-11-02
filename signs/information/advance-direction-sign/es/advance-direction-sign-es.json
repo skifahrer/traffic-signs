@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-220",
+  "image": {
+    "file": "advance-direction-sign-es.svg",
+    "sha1": "79d0cb4d3404471f3b3ce187932cbcadb648c8ff",
+    "source": "https://commons.wikimedia.org/wiki/File:ES_S220.svg",
+    "author": "Yopaseopor",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "R-6",
+  "image": {
+    "file": "priority-over-oncoming-traffic-es.svg",
+    "sha1": "ae3d8c2ffea4fecb2f57c4d43bd954c5b327e4cb",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r6.svg",
+    "author": "Benedicto16",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

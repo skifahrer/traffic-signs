@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "TP-17a",
+  "image": {
+    "file": "road-narrows-right-temporary-es.svg",
+    "sha1": "8ce09fddbaf4f10f15ca07801b1b165b6b58d395",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tp17a.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-50",
+  "image": {
+    "file": "danger-es.svg",
+    "sha1": "e212c72f03586b99afbd3210a04376a009c7a6f2",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_sign_p50.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

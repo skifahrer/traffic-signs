@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-104",
+  "image": {
+    "file": "services-telephone-es.svg",
+    "sha1": "aea7ac71bc073d1a46caf6142f575f5e276bd4af",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s104.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

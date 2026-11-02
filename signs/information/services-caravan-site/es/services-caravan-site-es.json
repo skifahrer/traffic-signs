@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-113",
+  "image": {
+    "file": "services-caravan-site-es.svg",
+    "sha1": "b2121bae91c743d95b6f86039df69c6aa04e0679",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s113.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

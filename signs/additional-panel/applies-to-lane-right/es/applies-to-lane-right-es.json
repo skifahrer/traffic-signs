@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-870a",
+  "image": {
+    "file": "applies-to-lane-right-es.svg",
+    "sha1": "5c808182ae771a0dbf207d684cc4fdb7c8dd9c0e",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s870a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

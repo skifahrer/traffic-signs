@@ -3,6 +3,14 @@
   "category": "additional-panel",
   "country": "es",
   "code": "S-880b",
+  "image": {
+    "file": "vehicle-type-with-trailers-es.svg",
+    "sha1": "1dfd8b4f480b6e66864a8e357a35426804acb95c",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s880b.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-8",
+  "image": {
+    "file": "level-crossing-without-barriers-es.svg",
+    "sha1": "fb78b43b9c322030cbb6f719abdd1df2ad83da9d",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p8_new.svg",
+    "author": "Yopaseopor",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

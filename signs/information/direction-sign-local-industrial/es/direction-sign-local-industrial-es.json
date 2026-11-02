@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-750",
+  "image": {
+    "file": "direction-sign-local-industrial-es.svg",
+    "sha1": "cb4df8d1f204e646dfe68227fcb4a6db1744c08b",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_S-750_(2).svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

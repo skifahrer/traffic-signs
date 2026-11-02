@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-402",
+  "image": {
+    "file": "roundabout-es.svg",
+    "sha1": "ded4e532650b4f1c6a5ebd266698eb7db580e4ed",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r402.svg",
+    "author": "Majafego",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

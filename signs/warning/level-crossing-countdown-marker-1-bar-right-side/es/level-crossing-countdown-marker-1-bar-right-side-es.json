@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-9c",
+  "image": {
+    "file": "level-crossing-countdown-marker-1-bar-right-side-es.svg",
+    "sha1": "bedf6ba9a9d7959ccb03e047d579f0e26fa7a3de",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p9c.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

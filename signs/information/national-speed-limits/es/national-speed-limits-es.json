@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-940",
+  "image": {
+    "file": "national-speed-limits-es.svg",
+    "sha1": "ddb6cbc6998d3cb8cfeb6331bce9112eac9b7a37",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s940_(2025).svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

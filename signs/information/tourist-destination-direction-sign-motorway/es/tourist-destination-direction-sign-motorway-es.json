@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-321",
+  "image": {
+    "file": "tourist-destination-direction-sign-motorway-es.png",
+    "sha1": "8bd0ad2e10bb3ad4e03b7be8956cb5926e6734c3",
+    "source": "https://commons.wikimedia.org/wiki/File:S-321.png",
+    "author": "Zawinul",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

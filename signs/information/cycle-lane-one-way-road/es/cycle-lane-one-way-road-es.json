@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-65a",
+  "image": {
+    "file": "cycle-lane-one-way-road-es.svg",
+    "sha1": "208b7f756b48c43cfecbdd3238fbfc1ad7715894",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s65a.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

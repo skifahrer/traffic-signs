@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-21b",
+  "image": {
+    "file": "disabled-pedestrians-es.svg",
+    "sha1": "0276c596a91a19f2bf0c5dac0cc8ce9015ad0cdf",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p21-b,_2025.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

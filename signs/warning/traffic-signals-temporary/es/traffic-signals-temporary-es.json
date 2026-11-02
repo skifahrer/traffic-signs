@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "TP-3",
+  "image": {
+    "file": "traffic-signals-temporary-es.svg",
+    "sha1": "796d07282811061030eccb05d756fd864e5ce001",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_sign_tp3.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

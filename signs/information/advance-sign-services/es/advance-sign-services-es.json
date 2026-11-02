@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-261",
+  "image": {
+    "file": "advance-sign-services-es.svg",
+    "sha1": "c8f136f4881f8bb38ef7dd2a6e282ac44664564d",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s261_alt.svg",
+    "author": null,
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

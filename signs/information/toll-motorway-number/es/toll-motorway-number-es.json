@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-410a",
+  "image": {
+    "file": "toll-motorway-number-es.svg",
+    "sha1": "687d1c2dc463393c4589afeddf9800d6c876c4da",
+    "source": "https://commons.wikimedia.org/wiki/File:ESP_AP-6.svg",
+    "author": "Fredddie",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

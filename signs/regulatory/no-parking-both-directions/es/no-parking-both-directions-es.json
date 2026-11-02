@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "R-308f",
+  "image": {
+    "file": "no-parking-both-directions-es.svg",
+    "sha1": "f24dbc21dbc31732afb86bca35d66a82f80eaf2c",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_R-308f.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_reglamentaci%C3%B3n_de_Espa%C3%B1a",

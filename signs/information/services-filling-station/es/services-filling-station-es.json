@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-105",
+  "image": {
+    "file": "services-filling-station-es.svg",
+    "sha1": "808d7f1a04a6b000c432e1a53c1749030c9b818e",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s105.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

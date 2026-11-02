@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-222a",
+  "image": {
+    "file": "advance-direction-sign-to-motorway-c-es.png",
+    "sha1": "05feecd2c3a2d0b6ad8fbe724b2b221e1449be06",
+    "source": "https://commons.wikimedia.org/wiki/File:S-222a.png",
+    "author": "Jack 31ES",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

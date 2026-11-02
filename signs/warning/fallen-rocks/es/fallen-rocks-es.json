@@ -3,6 +3,14 @@
   "category": "warning",
   "country": "es",
   "code": "P-26",
+  "image": {
+    "file": "fallen-rocks-es.svg",
+    "sha1": "5a3565cf52c5c067b6c739fb873fe3aa33373422",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p26.svg",
+    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",

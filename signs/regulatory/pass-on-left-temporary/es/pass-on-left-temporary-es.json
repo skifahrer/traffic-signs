@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "TR-401b",
+  "image": {
+    "file": "pass-on-left-temporary-es.svg",
+    "sha1": "9068b664ebca7aab7a17c540fae4dee815294095",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r401b.svg",
+    "author": "Gigillo83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

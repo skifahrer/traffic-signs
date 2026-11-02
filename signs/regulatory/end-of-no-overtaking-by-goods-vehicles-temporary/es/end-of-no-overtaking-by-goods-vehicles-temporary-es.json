@@ -3,6 +3,14 @@
   "category": "regulatory",
   "country": "es",
   "code": "TR-503",
+  "image": {
+    "file": "end-of-no-overtaking-by-goods-vehicles-temporary-es.svg",
+    "sha1": "09fe3be1a31a28891053051bdbed5c7c01607c54",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_TR-503.svg",
+    "author": "Caminetero",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Spain",

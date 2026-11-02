@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-7",
+  "image": {
+    "file": "recommended-speed-es.svg",
+    "sha1": "40ec0aa2e5c8da59bed2048ad42f3d7ca1420eff",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s7.svg",
+    "author": "Roman Tworkowski",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

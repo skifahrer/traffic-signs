@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "TS-210",
+  "image": {
+    "file": "detour-map-temporary-es.svg",
+    "sha1": "82349fa5e9e29da5743baf7e32afd386ee3e1907",
+    "source": "https://commons.wikimedia.org/wiki/File:Se%C3%B1al_TS-210.svg",
+    "author": "NACLE",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_obras_de_Espa%C3%B1a",

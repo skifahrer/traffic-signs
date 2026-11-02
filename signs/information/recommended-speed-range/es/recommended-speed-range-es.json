@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-9",
+  "image": {
+    "file": "recommended-speed-range-es.svg",
+    "sha1": "d0a1cfefa9023a98704da43ca0d9a10fe6c138b2",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s9.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

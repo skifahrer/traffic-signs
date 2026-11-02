@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-530",
+  "image": {
+    "file": "tunnel-with-name-and-length-es.svg",
+    "sha1": "314bd6eb06f039c9f421e36e257da429c782f4f9",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_S-530.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-510",
+  "image": {
+    "file": "end-of-built-up-area-es.svg",
+    "sha1": "938faca1f8674eb325c79d499add8d8c3b92dbb5",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_S-510_(2003)_Puerto_Lope.svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",

@@ -3,6 +3,14 @@
   "category": "information",
   "country": "es",
   "code": "S-14d",
+  "image": {
+    "file": "pedestrian-underpass-with-ramp-es.svg",
+    "sha1": "65500c9f1be65800f3228bbc4d8487c3ff992f77",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s14d.svg",
+    "author": "มองโกเลีย๔๔",
+    "license": "Public domain",
+    "license_url": null
+  },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_indicaci%C3%B3n_de_Espa%C3%B1a",
