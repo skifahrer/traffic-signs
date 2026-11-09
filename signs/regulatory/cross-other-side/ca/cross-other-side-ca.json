@@ -3,14 +3,18 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RA-009A",
-  "image": {
-    "file": "cross-other-side-ca.svg",
-    "sha1": "c56a979ecd80946c8dd798457d0421233e14be88",
-    "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Ra-009A_(B).svg",
-    "author": "Government of Ontario – Ministry of Transportation",
-    "license": "Public domain",
-    "license_url": null
-  },
+  "valid_until": 2026,
+  "archived": [
+    {
+      "file": "cross-other-side-ca-archived-2026.svg",
+      "sha1": "c56a979ecd80946c8dd798457d0421233e14be88",
+      "source": "https://commons.wikimedia.org/wiki/File:CA-ON_road_sign_Ra-009A_(B).svg",
+      "author": "Government of Ontario – Ministry of Transportation",
+      "license": "Public domain",
+      "license_url": null,
+      "valid_until": 2026
+    }
+  ],
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",

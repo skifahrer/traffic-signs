@@ -3,14 +3,18 @@
   "category": "regulatory",
   "country": "ca",
   "code": "RB-15",
-  "image": {
-    "file": "mandatory-direction-straight-ca.svg",
-    "sha1": "62707b107d92026ef1947b4aaa4d75ceeab43f0c",
-    "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RB-015.svg",
-    "author": "Transportation Association of Canada",
-    "license": "Public domain",
-    "license_url": null
-  },
+  "valid_until": 2026,
+  "archived": [
+    {
+      "file": "mandatory-direction-straight-ca-archived-2026.svg",
+      "sha1": "62707b107d92026ef1947b4aaa4d75ceeab43f0c",
+      "source": "https://commons.wikimedia.org/wiki/File:CA-MUTCDC_RB-015.svg",
+      "author": "Transportation Association of Canada",
+      "license": "Public domain",
+      "license_url": null,
+      "valid_until": 2026
+    }
+  ],
   "source": {
     "pipeline": "ca-wikipedia",
     "page": "https://en.wikipedia.org/wiki/Road_signs_in_Canada",
