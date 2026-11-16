@@ -5,7 +5,7 @@
   "code": "P-1b",
   "image": {
     "file": "side-road-left-minor-es.svg",
-    "sha1": "8530bf9df2d9c8ac56a78b0928177b748bde7568",
+    "sha1": "d4a21af4f85186474cf58b7964905524dc38acd3",
     "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_sign_p1b.svg",
     "author": null,
     "license": "Public domain",
@@ -14,6 +14,6 @@
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",
-    "file": "Spain traffic signal p1b.svg"
+    "file": "Spain traffic sign p1b.svg"
   }
 }

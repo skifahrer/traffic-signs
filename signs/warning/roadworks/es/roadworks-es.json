@@ -5,15 +5,15 @@
   "code": "P-18",
   "image": {
     "file": "roadworks-es.svg",
-    "sha1": "029ff6fdd21628fb68f1ba650f384e024ac2c1e0",
-    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_tp18.svg",
-    "author": "Benedicto16",
+    "sha1": "88e6a125ea3cc80cbdb5bd145842a62c4eff8823",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-18_(2023).svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
     "license": "Public domain",
     "license_url": null
   },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",
-    "file": "Spain traffic signal tp18.svg"
+    "file": "Spain traffic signal P-18 (2023).svg"
   }
 }

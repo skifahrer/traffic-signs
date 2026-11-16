@@ -5,15 +5,15 @@
   "code": "P-22b",
   "image": {
     "file": "cyclists-es.svg",
-    "sha1": "4aa12636e797d4e3d7f3ded86817b27fa7dbc822",
-    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p22.svg",
-    "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+    "sha1": "531f1ebfa08891eb08850c9fc4c4ffae12374419",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-22b_(2023).svg",
+    "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
     "license": "Public domain",
     "license_url": null
   },
   "source": {
     "pipeline": "es-wikipedia",
     "page": "https://es.wikipedia.org/wiki/Anexo%3ASe%C3%B1ales_de_tr%C3%A1fico_de_peligro_de_Espa%C3%B1a",
-    "file": "Spain traffic signal p22.svg"
+    "file": "Spain traffic signal P-22b (2023).svg"
   }
 }
