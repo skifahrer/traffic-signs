@@ -3,7 +3,14 @@
   "category": "information",
   "country": "pl",
   "code": "D-11",
-  "valid_until": 2026,
+  "image": {
+    "file": "bus-lane-start-pl.svg",
+    "sha1": "d895f9daec407d1ad4fe4cb6bf22cad2b0309dfc",
+    "source": "https://commons.wikimedia.org/wiki/File:PL_road_sign_D-11.svg",
+    "author": "Krzysztof Blachnicki",
+    "license": "Public domain",
+    "license_url": null
+  },
   "archived": [
     {
       "file": "bus-lane-start-pl-archived-2026.svg",
