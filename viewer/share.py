@@ -100,8 +100,8 @@ def _write(out: str, path: str, *, title: str, description: str, image: str | No
     e = lambda text: html.escape(text, quote=True)  # noqa: E731
     description = description if len(description) <= 300 else description[:297] + "…"
     meta = [
-        f'<meta property="og:type" content="website" />',
-        f'<meta property="og:site_name" content="Traffic signs" />',
+        '<meta property="og:type" content="website" />',
+        '<meta property="og:site_name" content="Traffic signs" />',
         f'<meta property="og:title" content="{e(title)}" />',
         f'<meta property="og:description" content="{e(description)}" />',
         f'<meta property="og:url" content="{e(url)}" />',

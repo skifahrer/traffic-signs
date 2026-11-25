@@ -40,7 +40,6 @@ from pipelines.countries import all_sources
 
 from .groups import groups_for
 
-
 # What the regions of a country are called in the viewer.
 REGION_LABELS = {"us": "US states"}
 
