@@ -40,7 +40,6 @@ from pipelines.countries import all_sources
 
 from .groups import groups_for
 
-
 # What the regions of a country are called in the viewer.
 REGION_LABELS = {"us": "US states"}
 
@@ -64,7 +63,11 @@ def build_index() -> dict:
                 if country not in countries:
                     source = sources.get(country)
                     countries[country] = (
-                        {"name": source.country_name, "language": source.name_key, "language_name": source.language_name}
+                        {
+                            "name": source.country_name,
+                            "language": source.name_key,
+                            "language_name": source.language_name,
+                        }
                         if source
                         else {"name": country.upper(), "language": None, "language_name": None}
                     )

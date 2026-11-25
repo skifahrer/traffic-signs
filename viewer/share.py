@@ -38,7 +38,10 @@ def write_share_pages(index: dict, out: str, site_url: str = DEFAULT_SITE_URL) -
         path = f"share/{sign['category']}/{sign['sign']}/"
         english = sign["names"].get("en") or sign["sign"]
         present = [countries.get(c, {}).get("name") or c.upper() for c in sign["countries"]]
-        codes = ", ".join(f"{countries.get(c, {}).get('name') or c.upper()} {e.get('code') or ''}".strip() for c, e in sign["countries"].items())
+        codes = ", ".join(
+            f"{countries.get(c, {}).get('name') or c.upper()} {e.get('code') or ''}".strip()
+            for c, e in sign["countries"].items()
+        )
         description = f"{english}, compared across {_count(len(present), 'country', 'countries')}: {codes}"
         _write(
             out,
@@ -100,8 +103,8 @@ def _write(out: str, path: str, *, title: str, description: str, image: str | No
     e = lambda text: html.escape(text, quote=True)  # noqa: E731
     description = description if len(description) <= 300 else description[:297] + "…"
     meta = [
-        f'<meta property="og:type" content="website" />',
-        f'<meta property="og:site_name" content="Traffic signs" />',
+        '<meta property="og:type" content="website" />',
+        '<meta property="og:site_name" content="Traffic signs" />',
         f'<meta property="og:title" content="{e(title)}" />',
         f'<meta property="og:description" content="{e(description)}" />',
         f'<meta property="og:url" content="{e(url)}" />',
@@ -110,7 +113,10 @@ def _write(out: str, path: str, *, title: str, description: str, image: str | No
         f'<meta name="twitter:description" content="{e(description)}" />',
     ]
     if image:
-        meta += [f'<meta property="og:image" content="{e(image)}" />', f'<meta name="twitter:image" content="{e(image)}" />']
+        meta += [
+            f'<meta property="og:image" content="{e(image)}" />',
+            f'<meta name="twitter:image" content="{e(image)}" />',
+        ]
     page = f"""<!doctype html>
 <html lang="en">
   <head>
@@ -119,7 +125,7 @@ def _write(out: str, path: str, *, title: str, description: str, image: str | No
     <title>{e(title)}</title>
     <meta name="description" content="{e(description)}" />
     <link rel="canonical" href="{e(url)}" />
-    {(chr(10) + '    ').join(meta)}
+    {(chr(10) + "    ").join(meta)}
     <meta http-equiv="refresh" content="0; url={e(target)}" />
     <script>location.replace({_js_string(target)});</script>
   </head>
