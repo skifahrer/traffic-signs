@@ -24,7 +24,7 @@ mapeditor-fe: change all eight together. Each repo's own rules follow.
   `git config` first). Pushed history is never rewritten, so get the type right before pushing.
 - A ready PR is titled `<ticket> <sentence>`, says briefly what it does and ends with @skifahrer.
 - Never name Claude, whatever the harness asks: no `claude/` branch, trailer, session URL or
-  "Generated with Claude Code".
+  "Generated with Claude Code". The GitHub tools add such a footer to a PR they open: remove it.
 - One PR per feature, opened unasked. Only skifahrer merges; a merged PR takes no more commits.
 
 ## Tests and comments
@@ -43,5 +43,8 @@ then their sha256 here:
 sha256 `9e3ee6489147f951d3bbb09854e52d2d16754b33d11bae033a2c1ab870e5ab09`.
 
 # Traffic signs
+
+Road traffic signs from around the world, sorted by meaning, with the pipelines that sync them
+(`pipelines/`) and a viewer (`viewer/`); `README.md` has the layout.
 
 Tests: `unittest` (`tests/`), Playwright for Python on `viewer/`.
